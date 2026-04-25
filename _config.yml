@@ -47,7 +47,7 @@ category_labels:
 cusdis:
   app_id: "d31bd42c-b339-4711-91e7-13c6e87dce76"
   host: "https://cusdis.com"
-  theme: "auto"
+  theme: "light"
 
 # 빌드 제외
 exclude:
