@@ -1,16 +1,14 @@
 {% comment %}
   쿠팡 파트너스 광고 (carousel 위젯)
-  - 한국 공정거래위원회 가이드: 광고 면책 고지 의무 표시
-  - 모바일/데스크톱 반응형: width=100% 적용
+  - 본문 50% 지점에 JS 가 자동 삽입 (assets/js/app.js)
+  - 면책 고지는 글 하단에 별도 표시 (post.html post-footer)
+  - width 는 픽셀 정수만 지원 (carousel 위젯 명세) → CSS 로 모바일 반응형 처리
 {% endcomment %}
 <aside class="coupang-ad" aria-label="제휴 광고">
   <div class="coupang-ad-widget">
     <script src="https://ads-partners.coupang.com/g.js"></script>
     <script>
-      new PartnersCoupang.G({"id":119549,"trackingCode":"AF6902502","subId":null,"template":"carousel","width":"100%","height":"140"});
+      new PartnersCoupang.G({"id":119549,"trackingCode":"AF6902502","subId":null,"template":"carousel","width":"680","height":"140"});
     </script>
   </div>
-  <p class="coupang-disclosure">
-    이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-  </p>
 </aside>
