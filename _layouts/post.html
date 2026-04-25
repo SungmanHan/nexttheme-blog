@@ -1,0 +1,62 @@
+---
+layout: default
+---
+{% assign cat = page.category | default: "other" %}
+{% assign cat_meta = site.category_labels[cat] %}
+
+<article class="post post-{{ cat }}{% if page.grade %} grade-{{ page.grade | downcase }}{% endif %}">
+
+  <header class="post-hero hero-{{ cat_meta.color | default: 'other' }}{% if page.grade %} hero-grade-{{ page.grade | downcase }}{% endif %}">
+    <div class="hero-meta">
+      <span class="hero-badge">{{ cat_meta.ko | default: cat }}</span>
+      {% if page.grade %}
+        <span class="hero-grade">{% if page.grade == 'RED' %}🚨{% elsif page.grade == 'YELLOW' %}⚠️{% elsif page.grade == 'GREEN' %}✅{% endif %} {{ page.grade }} 등급</span>
+      {% endif %}
+    </div>
+    <h1 class="hero-title">{{ page.title }}</h1>
+    <div class="hero-date">
+      <time datetime="{{ page.date | date_to_xmlschema }}">
+        {{ page.date | date: "%Y.%m.%d (%a) %H:%M" }} 발행
+      </time>
+    </div>
+  </header>
+
+  {% if page.stocks and page.stocks.size > 0 %}
+    <div class="post-stocks-strip">
+      {% for s in page.stocks %}{% include stock-pill.html s=s %}{% endfor %}
+    </div>
+  {% endif %}
+
+  <div class="post-body">
+    {{ content }}
+  </div>
+
+  {% comment %} 매매일지 — 평단·수량·손익 요약 박스 (16.2 옵션 A) {% endcomment %}
+  {% if cat == 'trade-buy' or cat == 'trade-sell' %}
+    {% if page.trade %}
+      <aside class="trade-summary">
+        <div class="ts-row"><span class="ts-lbl">종목</span><span class="ts-val">{{ page.trade.name }} <code>{{ page.trade.code }}</code></span></div>
+        <div class="ts-row"><span class="ts-lbl">평단</span><span class="ts-val">{{ page.trade.avg_price }}원</span></div>
+        <div class="ts-row"><span class="ts-lbl">수량</span><span class="ts-val">{{ page.trade.qty }}주</span></div>
+        {% if page.trade.realized_pnl %}
+          <div class="ts-row"><span class="ts-lbl">실현손익</span><span class="ts-val pnl">{{ page.trade.realized_pnl }}</span></div>
+        {% endif %}
+      </aside>
+    {% endif %}
+  {% endif %}
+
+  <footer class="post-footer">
+    <div class="share-row">
+      <button onclick="navigator.share && navigator.share({title:'{{ page.title }}', url:location.href}) || navigator.clipboard.writeText(location.href)">🔗 공유</button>
+      <a href="#comments">💬 댓글</a>
+    </div>
+    {% if page.canonical_url and page.canonical_url != "" %}
+      <p class="canonical-note">📌 이 글은 <a href="{{ page.canonical_url }}" rel="canonical noopener" target="_blank">네이버 블로그 원본</a>의 백업입니다.</p>
+    {% endif %}
+  </footer>
+
+  <div id="comments">
+    {% include utterances.html %}
+  </div>
+
+</article>

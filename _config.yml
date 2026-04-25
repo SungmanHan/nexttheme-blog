@@ -1,0 +1,56 @@
+title: "NextTheme — 종가배팅 일일 리포트"
+description: "AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행."
+url: "https://sungmanhan.github.io"
+baseurl: "/nexttheme-blog"
+author: NextTheme
+lang: ko-KR
+timezone: Asia/Seoul
+
+permalink: /:year/:month/:day/:slug/
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      canonical_url: ""
+
+collections:
+  posts:
+    output: true
+
+# Category labels (시안 ③ 배지 매핑)
+category_labels:
+  briefing:       { ko: "브리핑",     en: "BRIEFING",     color: "brief"  }
+  snapshot-mid:   { ko: "장중 스냅샷", en: "SNAPSHOT-MID", color: "midsnap" }
+  snapshot:       { ko: "종가배팅",   en: "SNAPSHOT",     color: "snap"   }
+  weekly:         { ko: "주간리뷰",   en: "WEEKLY",       color: "weekly" }
+  detail:         { ko: "종목상세",   en: "DETAIL",       color: "detail" }
+  trade-buy:      { ko: "매수일지",   en: "BUY",          color: "buy"    }
+  trade-sell:     { ko: "매도일지",   en: "SELL",         color: "sell"   }
+
+# utterances 댓글
+utterances:
+  repo: "SungmanHan/nexttheme-blog"
+  issue_term: "pathname"
+  theme: "preferred-color-scheme"
+  label: "comment"
+
+# 빌드 제외
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+  - .github

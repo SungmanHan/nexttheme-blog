@@ -1,0 +1,37 @@
+---
+layout: default
+---
+{% include tabs.html %}
+
+{% comment %}
+  category_filter frontmatter 가 있으면 해당 카테고리만 노출
+  - "briefing" → 단일 카테고리
+  - "snapshot,snapshot-mid" → 다중 카테고리 콤마 구분
+  - 없으면 전체 글
+{% endcomment %}
+
+{% if page.category_filter %}
+  {% assign filters = page.category_filter | split: "," %}
+  {% assign filtered = "" | split: "" %}
+  {% for f in filters %}
+    {% assign f_trim = f | strip %}
+    {% assign matched = site.posts | where: "category", f_trim %}
+    {% assign filtered = filtered | concat: matched %}
+  {% endfor %}
+  {% assign posts = filtered | sort: "date" | reverse %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+<section class="feed">
+  {% if posts.size == 0 %}
+    <div class="feed-empty">
+      <p>아직 게시된 글이 없습니다.</p>
+      <p class="sub">매일 06:10 브리핑부터 콘텐츠가 발행됩니다.</p>
+    </div>
+  {% else %}
+    {% for post in posts %}
+      {% include post-card.html post=post %}
+    {% endfor %}
+  {% endif %}
+</section>

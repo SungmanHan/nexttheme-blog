@@ -1,0 +1,121 @@
+/* ============================================
+   tokens.css — Design tokens (CSS Variables)
+   시안 ③·④ 기반 + 7 카테고리 배지 컬러
+   ============================================ */
+
+:root {
+  /* === Surface === */
+  --c-bg:        #fafafa;
+  --c-surface:   #ffffff;
+  --c-surface-2: #f5f6f8;
+  --c-text:      #1a1a1a;
+  --c-text-sub:  #6b7280;
+  --c-text-mute: #9ca3af;
+  --c-border:    #f1f3f5;
+  --c-border-2:  #e5e7eb;
+
+  /* === Korean market convention: 상승 빨강 / 하락 파랑 === */
+  --c-up:        #d63031;
+  --c-down:      #2563eb;
+
+  /* === Category badge colors (7 types) === */
+  --c-brief:     #075985;   /* BRIEFING */
+  --c-midsnap:   #c2410c;   /* SNAPSHOT-MID */
+  --c-snap:      #991b1b;   /* SNAPSHOT (final) */
+  --c-weekly:    #6b21a8;   /* WEEKLY */
+  --c-detail:    #0f766e;   /* DETAIL */
+  --c-buy:       #15803d;   /* BUY */
+  --c-sell:      #57534e;   /* SELL */
+
+  --c-brief-bg:    #e0f2fe;
+  --c-midsnap-bg:  #ffedd5;
+  --c-snap-bg:     #fee2e2;
+  --c-weekly-bg:   #f3e8ff;
+  --c-detail-bg:   #ccfbf1;
+  --c-buy-bg:      #dcfce7;
+  --c-sell-bg:     #f5f5f4;
+
+  /* === Briefing grade colors === */
+  --c-grade-red:    #ef4444;
+  --c-grade-yellow: #fbbf24;
+  --c-grade-green:  #22c55e;
+
+  /* === Typography === */
+  --f-sans: 'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --f-mono: 'JetBrains Mono', 'SF Mono', Menlo, monospace;
+
+  --fz-xs:  11px;
+  --fz-sm:  12px;
+  --fz-md:  13px;
+  --fz-base: 14px;
+  --fz-lg:  16px;
+  --fz-xl:  18px;
+  --fz-2xl: 22px;
+  --fz-3xl: 28px;
+
+  /* === Spacing === */
+  --sp-1: 4px;  --sp-2: 8px;  --sp-3: 12px;
+  --sp-4: 16px; --sp-5: 20px; --sp-6: 24px;
+  --sp-7: 32px; --sp-8: 40px;
+
+  /* === Radius === */
+  --r-sm: 4px;  --r-md: 8px;  --r-lg: 14px;  --r-xl: 20px;
+
+  /* === Shadow === */
+  --sh-sm: 0 1px 3px rgba(0,0,0,0.04);
+  --sh-md: 0 4px 12px rgba(0,0,0,0.06);
+
+  /* === Layout === */
+  --w-content: 720px;
+  --bottom-nav-h: 56px;
+  --header-h: 52px;
+}
+
+/* === Dark mode === */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --c-bg:        #0a0a0a;
+    --c-surface:   #1a1a1a;
+    --c-surface-2: #18181b;
+    --c-text:      #f5f5f5;
+    --c-text-sub:  #a1a1aa;
+    --c-text-mute: #71717a;
+    --c-border:    #27272a;
+    --c-border-2:  #3f3f46;
+
+    --c-up:        #f04452;
+    --c-down:      #4e8df5;
+
+    --c-brief-bg:    #082f49;
+    --c-midsnap-bg:  #431407;
+    --c-snap-bg:     #450a0a;
+    --c-weekly-bg:   #3b0764;
+    --c-detail-bg:   #042f2e;
+    --c-buy-bg:      #14532d;
+    --c-sell-bg:     #292524;
+
+    --sh-sm: 0 1px 3px rgba(0,0,0,0.3);
+    --sh-md: 0 4px 12px rgba(0,0,0,0.4);
+  }
+}
+
+/* === Reset & Base === */
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  font-family: var(--f-sans);
+  font-size: var(--fz-base);
+  line-height: 1.65;
+  color: var(--c-text);
+  background: var(--c-bg);
+  padding-bottom: var(--bottom-nav-h);
+}
+a { color: inherit; text-decoration: none; }
+button { font: inherit; background: none; border: none; cursor: pointer; color: inherit; }
+
+/* === Mono numbers === */
+code, .mono, time, .pct { font-family: var(--f-mono); }
+
+/* === Touch target safety (44pt rule) === */
+a, button { min-height: 44px; min-width: 44px; }
+.cat-tab, .pill, .badge, .grade { min-height: 0; min-width: 0; }

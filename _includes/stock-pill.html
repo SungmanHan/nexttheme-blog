@@ -1,0 +1,6 @@
+{% assign s = include.s %}
+{% assign pct_str = s.pct | default: "" %}
+{% assign pct_class = "" %}
+{% if pct_str contains "+" %}{% assign pct_class = "up" %}{% endif %}
+{% if pct_str contains "-" %}{% assign pct_class = "down" %}{% endif %}
+<span class="pill"><span class="pill-name">{{ s.name }}</span><span class="pill-pct {{ pct_class }}">{{ pct_str }}</span></span>

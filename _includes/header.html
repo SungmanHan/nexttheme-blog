@@ -1,0 +1,11 @@
+<header class="site-header">
+  <a class="logo" href="{{ '/' | relative_url }}">closing.bet</a>
+  <button class="search-btn" aria-label="검색" onclick="document.getElementById('search-modal').classList.toggle('open')">
+    🔍
+  </button>
+</header>
+
+<div id="search-modal" class="search-modal">
+  <input type="search" id="search-input" placeholder="종목명·키워드 검색" autocomplete="off">
+  <div id="search-results"></div>
+</div>

@@ -1,0 +1,19 @@
+<nav class="cat-tabs" aria-label="카테고리">
+  {% assign tabs = "all|전체,briefing|브리핑,snapshot|종가배팅,weekly|주간리뷰,detail|종목상세,trade|매매일지" | split: "," %}
+  {% for tab in tabs %}
+    {% assign parts = tab | split: "|" %}
+    {% assign slug = parts[0] %}
+    {% assign label = parts[1] %}
+    {% if slug == "all" %}
+      {% assign href = "/" | relative_url %}
+      {% assign active_check = page.url %}
+      {% assign is_active = false %}
+      {% if page.url == "/" %}{% assign is_active = true %}{% endif %}
+    {% else %}
+      {% assign href = "/categories/" | append: slug | append: "/" | relative_url %}
+      {% assign is_active = false %}
+      {% if page.url contains slug %}{% assign is_active = true %}{% endif %}
+    {% endif %}
+    <a class="cat-tab{% if is_active %} on{% endif %}" href="{{ href }}">{{ label }}</a>
+  {% endfor %}
+</nav>

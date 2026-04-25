@@ -1,0 +1,29 @@
+{% comment %}
+  사용법: {% include post-card.html post=post %}
+  필요한 frontmatter: title, date, category, summary, stocks(optional), grade(optional)
+{% endcomment %}
+
+{% assign post = include.post %}
+{% assign cat = post.category | default: "other" %}
+{% assign cat_meta = site.category_labels[cat] %}
+
+<a class="card" href="{{ post.url | relative_url }}">
+  <div class="card-meta">
+    <span class="badge badge-{{ cat_meta.color | default: 'other' }}">{{ cat_meta.en | default: cat | upcase }}</span>
+    <time datetime="{{ post.date | date_to_xmlschema }}">
+      {{ post.date | date: "%m.%d" }} ({{ post.date | date: "%a" }}) {{ post.date | date: "%H:%M" }}
+    </time>
+    {% if post.grade %}
+      <span class="grade grade-{{ post.grade | downcase }}">{{ post.grade }}</span>
+    {% endif %}
+  </div>
+  <h3 class="card-title">{{ post.title }}</h3>
+  {% if post.summary %}
+    <p class="card-summary">{{ post.summary }}</p>
+  {% endif %}
+  {% if post.stocks and post.stocks.size > 0 %}
+    <div class="card-stocks">
+      {% for s in post.stocks %}{% include stock-pill.html s=s %}{% endfor %}
+    </div>
+  {% endif %}
+</a>
