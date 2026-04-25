@@ -216,20 +216,25 @@
 }
 .coupang-ad-widget {
   width: 100%;
-  overflow: hidden;
-  margin-bottom: var(--sp-2);
+  overflow-x: auto;       /* 카루셀 width 680px 이 모바일 폭 초과 시 가로 스크롤 */
+  -webkit-overflow-scrolling: touch;
+  text-align: center;
 }
-.coupang-ad-widget iframe {
-  max-width: 100% !important;
+.coupang-ad-widget iframe,
+.coupang-ad-widget > * {
+  margin: 0 auto;
 }
-.coupang-disclosure {
+
+/* 글 하단 면책 고지 (post-footer 안) */
+.post-footer .coupang-disclosure {
+  margin-top: var(--sp-3);
+  padding-top: var(--sp-3);
+  border-top: 1px dashed var(--c-border);
   font-size: var(--fz-xs);
   color: var(--c-text-mute);
   text-align: center;
-  margin: 0;
-  padding-top: var(--sp-2);
-  border-top: 1px dashed var(--c-border);
   font-style: italic;
+  line-height: 1.5;
 }
 
 /* === Comments === */

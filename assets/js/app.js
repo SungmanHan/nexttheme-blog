@@ -93,6 +93,7 @@
 
   // === 쿠팡 광고 본문 중간 자동 삽입 (post 페이지 전용) ===
   // post.html 의 .post-body[data-coupang-ad="true"] + #coupang-ad-template 가 있을 때만 동작
+  // <template> 안의 <script> 는 cloneNode 후 자동 실행 안 됨 (HTML5 명세) → 새 element 로 재생성
   const postBody = document.querySelector('.post-body[data-coupang-ad="true"]');
   const adTemplate = document.getElementById('coupang-ad-template');
   if (postBody && adTemplate) {
@@ -101,6 +102,19 @@
       const middleIdx = Math.floor(blocks.length / 2);
       const insertBefore = blocks[middleIdx];
       const adFragment = adTemplate.content.cloneNode(true);
+
+      // <script> 들을 새 element 로 재생성하여 실행 가능하게 (cloneNode 한계)
+      adFragment.querySelectorAll('script').forEach(function (oldScript) {
+        const newScript = document.createElement('script');
+        Array.from(oldScript.attributes).forEach(function (attr) {
+          newScript.setAttribute(attr.name, attr.value);
+        });
+        if (oldScript.textContent) {
+          newScript.textContent = oldScript.textContent;
+        }
+        oldScript.parentNode.replaceChild(newScript, oldScript);
+      });
+
       insertBefore.parentNode.insertBefore(adFragment, insertBefore);
     }
   }
