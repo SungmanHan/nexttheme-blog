@@ -1,0 +1,18 @@
+<section class="like-section" aria-label="좋아요">
+  <div class="like-wrap">
+    <span class="like-label">이 글이 도움 되셨나요?</span>
+    {% comment %}
+      Lyket Like Button — 페이지별 좋아요 (익명, IP 기반 중복 방지)
+      public_key: pt_812adb7b06dd1e6d194dbb81762728
+      id: 페이지 URL 고유값 (page.url 기반)
+    {% endcomment %}
+    <like-button
+      namespace="post"
+      id="{{ page.url | replace: '/', '_' | remove_first: '_' | default: 'home' }}"
+      hideCounterIfLessThan="0"
+      component="like"></like-button>
+  </div>
+</section>
+
+<script async src="https://unpkg.com/@lyket/widget@latest/dist/lyket.js"
+  data-public-api-key="pt_812adb7b06dd1e6d194dbb81762728"></script>

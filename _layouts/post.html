@@ -27,9 +27,13 @@ layout: default
     </div>
   {% endif %}
 
-  <div class="post-body">
+  <div class="post-body" data-coupang-ad="true">
     {{ content }}
   </div>
+  {% comment %} 본문 중간 광고는 JS 로 50% 지점 자동 삽입 (assets/js/app.js) {% endcomment %}
+  <template id="coupang-ad-template">
+    {% include coupang-ad.html %}
+  </template>
 
   {% comment %} 매매일지 — 평단·수량·손익 요약 박스 (16.2 옵션 A) {% endcomment %}
   {% if cat == 'trade-buy' or cat == 'trade-sell' %}
@@ -54,6 +58,8 @@ layout: default
       <p class="canonical-note">📌 이 글은 <a href="{{ page.canonical_url }}" rel="canonical noopener" target="_blank">네이버 블로그 원본</a>의 백업입니다.</p>
     {% endif %}
   </footer>
+
+  {% include like-button.html %}
 
   <div id="comments">
     {% include cusdis.html %}
