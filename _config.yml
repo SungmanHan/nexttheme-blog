@@ -37,8 +37,6 @@ category_labels:
   snapshot:       { ko: "종가배팅",   en: "SNAPSHOT",     color: "snap"   }
   weekly:         { ko: "주간리뷰",   en: "WEEKLY",       color: "weekly" }
   detail:         { ko: "종목상세",   en: "DETAIL",       color: "detail" }
-  trade-buy:      { ko: "매수일지",   en: "BUY",          color: "buy"    }
-  trade-sell:     { ko: "매도일지",   en: "SELL",         color: "sell"   }
 
 # Cusdis 댓글 (회원가입 없이 익명 댓글 가능)
 # 1. https://cusdis.com 가입 → 사이트 등록
