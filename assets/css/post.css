@@ -215,6 +215,53 @@
   text-decoration: underline;
 }
 
+/* === Like button (Lyket) === */
+.like-section {
+  padding: var(--sp-5) var(--sp-4);
+  background: var(--c-surface);
+  border-top: 1px solid var(--c-border);
+}
+.like-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--sp-3);
+}
+.like-label {
+  font-size: var(--fz-md);
+  color: var(--c-text-sub);
+}
+.like-section like-button {
+  --primary-color: #ef4444;
+  --secondary-color: #fff5f5;
+}
+
+/* === 쿠팡 광고 (본문 중간 자동 삽입) === */
+.coupang-ad {
+  margin: var(--sp-5) calc(var(--sp-4) * -1);
+  padding: var(--sp-4);
+  background: var(--c-surface);
+  border-top: 1px solid var(--c-border);
+  border-bottom: 1px solid var(--c-border);
+}
+.coupang-ad-widget {
+  width: 100%;
+  overflow: hidden;
+  margin-bottom: var(--sp-2);
+}
+.coupang-ad-widget iframe {
+  max-width: 100% !important;
+}
+.coupang-disclosure {
+  font-size: var(--fz-xs);
+  color: var(--c-text-mute);
+  text-align: center;
+  margin: 0;
+  padding-top: var(--sp-2);
+  border-top: 1px dashed var(--c-border);
+  font-style: italic;
+}
+
 /* === Comments === */
 .comments {
   padding: var(--sp-5) var(--sp-4);

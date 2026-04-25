@@ -90,4 +90,18 @@
       tabsContainer.scrollLeft = Math.max(0, offset);
     }
   }
+
+  // === 쿠팡 광고 본문 중간 자동 삽입 (post 페이지 전용) ===
+  // post.html 의 .post-body[data-coupang-ad="true"] + #coupang-ad-template 가 있을 때만 동작
+  const postBody = document.querySelector('.post-body[data-coupang-ad="true"]');
+  const adTemplate = document.getElementById('coupang-ad-template');
+  if (postBody && adTemplate) {
+    const blocks = postBody.querySelectorAll('p, h2, h3, table, ul, ol, blockquote');
+    if (blocks.length >= 4) {
+      const middleIdx = Math.floor(blocks.length / 2);
+      const insertBefore = blocks[middleIdx];
+      const adFragment = adTemplate.content.cloneNode(true);
+      insertBefore.parentNode.insertBefore(adFragment, insertBefore);
+    }
+  }
 })();
