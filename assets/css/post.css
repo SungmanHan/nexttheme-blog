@@ -220,3 +220,40 @@
   padding: var(--sp-5) var(--sp-4);
   background: var(--c-surface);
 }
+
+/* Cusdis 외부 컨테이너 wrapper 가독성 (iframe 내부는 ?theme= 로만 제어됨) */
+#cusdis_thread {
+  background: #ffffff;
+  border-radius: var(--r-md);
+  padding: var(--sp-2);
+  color: #1a1a1a;
+}
+#cusdis_thread iframe {
+  background: #ffffff !important;
+  color-scheme: light !important;
+}
+#cusdis_thread input,
+#cusdis_thread textarea {
+  color: #1a1a1a !important;
+  background: #ffffff !important;
+  border-color: #d1d5db !important;
+}
+#cusdis_thread input::placeholder,
+#cusdis_thread textarea::placeholder {
+  color: #6b7280 !important;
+  opacity: 1 !important;
+}
+#cusdis_thread button {
+  color: #1a1a1a !important;
+}
+
+.comments-disabled {
+  text-align: center;
+  padding: var(--sp-5) var(--sp-4);
+  color: var(--c-text-sub);
+}
+.comments-disabled .sub {
+  font-size: var(--fz-sm);
+  color: var(--c-text-mute);
+  margin-top: var(--sp-2);
+}
