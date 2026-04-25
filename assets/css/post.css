@@ -16,8 +16,6 @@
 .post-hero.hero-snap     { background: linear-gradient(135deg, #ef4444, #991b1b); }
 .post-hero.hero-weekly   { background: linear-gradient(135deg, #a855f7, #6b21a8); }
 .post-hero.hero-detail   { background: linear-gradient(135deg, #14b8a6, #0f766e); }
-.post-hero.hero-buy      { background: linear-gradient(135deg, #22c55e, #15803d); }
-.post-hero.hero-sell     { background: linear-gradient(135deg, #78716c, #44403c); }
 
 /* Briefing 등급별 override */
 .post-hero.hero-grade-red    { background: linear-gradient(135deg, #ef4444, #b91c1c); }
@@ -152,34 +150,6 @@
 }
 .post-body td { font-weight: 700; }
 .post-body td:has(strong) strong { color: var(--c-up); }
-
-/* === Trade summary (16.2 옵션 A 매매일지) === */
-.trade-summary {
-  margin: var(--sp-4);
-  background: var(--c-surface);
-  border: 1px solid var(--c-border-2);
-  border-radius: var(--r-md);
-  padding: var(--sp-3) var(--sp-4);
-}
-.ts-row {
-  display: flex;
-  justify-content: space-between;
-  padding: var(--sp-2) 0;
-  border-bottom: 1px solid var(--c-border);
-  font-size: var(--fz-md);
-}
-.ts-row:last-child { border-bottom: none; }
-.ts-lbl { color: var(--c-text-sub); }
-.ts-val { font-weight: 700; font-family: var(--f-mono); }
-.ts-val.pnl { color: var(--c-up); }
-.ts-val code {
-  background: var(--c-surface-2);
-  padding: 1px 6px;
-  border-radius: 3px;
-  font-size: 0.85em;
-  color: var(--c-text-mute);
-  font-weight: 400;
-}
 
 /* === Footer === */
 .post-footer {

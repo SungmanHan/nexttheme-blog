@@ -35,20 +35,6 @@ layout: default
     {% include coupang-ad.html %}
   </template>
 
-  {% comment %} 매매일지 — 평단·수량·손익 요약 박스 (16.2 옵션 A) {% endcomment %}
-  {% if cat == 'trade-buy' or cat == 'trade-sell' %}
-    {% if page.trade %}
-      <aside class="trade-summary">
-        <div class="ts-row"><span class="ts-lbl">종목</span><span class="ts-val">{{ page.trade.name }} <code>{{ page.trade.code }}</code></span></div>
-        <div class="ts-row"><span class="ts-lbl">평단</span><span class="ts-val">{{ page.trade.avg_price }}원</span></div>
-        <div class="ts-row"><span class="ts-lbl">수량</span><span class="ts-val">{{ page.trade.qty }}주</span></div>
-        {% if page.trade.realized_pnl %}
-          <div class="ts-row"><span class="ts-lbl">실현손익</span><span class="ts-val pnl">{{ page.trade.realized_pnl }}</span></div>
-        {% endif %}
-      </aside>
-    {% endif %}
-  {% endif %}
-
   <footer class="post-footer">
     <div class="share-row">
       <button onclick="navigator.share && navigator.share({title:'{{ page.title }}', url:location.href}) || navigator.clipboard.writeText(location.href)">🔗 공유</button>

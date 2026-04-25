@@ -156,8 +156,6 @@
 .badge-snap     { background: var(--c-snap-bg);    color: var(--c-snap); }
 .badge-weekly   { background: var(--c-weekly-bg);  color: var(--c-weekly); }
 .badge-detail   { background: var(--c-detail-bg);  color: var(--c-detail); }
-.badge-buy      { background: var(--c-buy-bg);     color: var(--c-buy); }
-.badge-sell     { background: var(--c-sell-bg);    color: var(--c-sell); }
 .badge-other    { background: var(--c-surface-2);  color: var(--c-text-sub); }
 
 /* === Grade tags === */
@@ -168,9 +166,9 @@
   font-size: 10px;
   font-weight: 700;
 }
-.grade-red    { background: var(--c-snap-bg);   color: var(--c-grade-red); }
-.grade-yellow { background: #fef3c7;            color: #92400e; }
-.grade-green  { background: var(--c-buy-bg);    color: var(--c-grade-green); }
+.grade-red    { background: var(--c-snap-bg);        color: var(--c-grade-red); }
+.grade-yellow { background: #fef3c7;                  color: #92400e; }
+.grade-green  { background: var(--c-grade-green-bg);  color: var(--c-grade-green); }
 
 /* === Stock pill === */
 .pill {
