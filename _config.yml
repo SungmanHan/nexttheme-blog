@@ -40,12 +40,14 @@ category_labels:
   trade-buy:      { ko: "매수일지",   en: "BUY",          color: "buy"    }
   trade-sell:     { ko: "매도일지",   en: "SELL",         color: "sell"   }
 
-# utterances 댓글
-utterances:
-  repo: "SungmanHan/nexttheme-blog"
-  issue_term: "pathname"
-  theme: "preferred-color-scheme"
-  label: "comment"
+# Cusdis 댓글 (회원가입 없이 익명 댓글 가능)
+# 1. https://cusdis.com 가입 → 사이트 등록
+# 2. 발급받은 Data App ID 를 아래 app_id 에 입력
+# 3. (선택) 자체 호스팅 시 host 변경
+cusdis:
+  app_id: "d31bd42c-b339-4711-91e7-13c6e87dce76"
+  host: "https://cusdis.com"
+  theme: "auto"
 
 # 빌드 제외
 exclude:

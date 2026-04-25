@@ -1,0 +1,18 @@
+<section class="comments" aria-label="댓글">
+  {% if site.cusdis.app_id and site.cusdis.app_id != "" %}
+    <div id="cusdis_thread"
+         data-host="{{ site.cusdis.host | default: 'https://cusdis.com' }}"
+         data-app-id="{{ site.cusdis.app_id }}"
+         data-page-id="{{ page.url }}"
+         data-page-url="{{ page.url | absolute_url }}"
+         data-page-title="{{ page.title | escape }}"
+         data-theme="{{ site.cusdis.theme | default: 'auto' }}"
+         data-lang="ko"></div>
+    <script async defer src="{{ site.cusdis.host | default: 'https://cusdis.com' }}/js/cusdis.es.js"></script>
+  {% else %}
+    <div class="comments-disabled">
+      <p>댓글 기능이 아직 활성화되지 않았습니다.</p>
+      <p class="sub">관리자에게 문의해 주세요.</p>
+    </div>
+  {% endif %}
+</section>
