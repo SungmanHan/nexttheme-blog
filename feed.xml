@@ -1,4 +1,187 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-04-26T00:52:26+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">성광벤드·SFA반도체 외</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/04/24/1513-snapshot/" rel="alternate" type="text/html" title="성광벤드·SFA반도체 외" /><published>2026-04-24T15:13:00+09:00</published><updated>2026-04-24T15:13:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/04/24/1513-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/04/24/1513-snapshot/"><![CDATA[<p>오늘 코스피는 거의 움직임 없이 보합권(-0.05%)에서 마감했지만, 코스닥은 AI·반도체 관련 종목들로 뜨거웠습니다. 코스닥 지수가 <strong>+2.39%</strong> 오른 반면 코스피는 제자리 걸음을 해서, 두 시장 사이의 온도 차가 꽤 컸던 하루였어요. 💡</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-04-26T06:04:47+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">YELLOW — 한 주 회고와 다음 주 준비</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/04/26/weekend/" rel="alternate" type="text/html" title="YELLOW — 한 주 회고와 다음 주 준비" /><published>2026-04-26T06:00:00+09:00</published><updated>2026-04-26T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/04/26/weekend</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/04/26/weekend/"><![CDATA[<hr />
+
+<p>한 주가 끝났습니다. 🎉
+이번 주도 시장은 쉽지 않았죠. 오늘은 지난 한 주를 되짚어보고, 다가오는 월요일 개장을 어떻게 준비할지 함께 정리해 보겠습니다.</p>
+
+<hr />
+
+<h2 id="어젯밤-미국-시장-어땠을까요">어젯밤 미국 시장, 어땠을까요?</h2>
+
+<p>🌙 미국 주요 지수 마감 결과</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>지수</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>다우존스</td>
+      <td><strong>-0.16%</strong> (소폭 하락)</td>
+    </tr>
+    <tr>
+      <td>S&amp;P500</td>
+      <td><strong>+0.80%</strong> (소폭 상승)</td>
+    </tr>
+    <tr>
+      <td>나스닥</td>
+      <td><strong>+1.63%</strong> (강세)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>나스닥이 <strong>+1.63%</strong> 올랐고, S&amp;P500도 최고치를 경신했습니다. 특히 인텔 주가가 하루 만에 <strong>+23%</strong> 폭등하면서 반도체 관련 주식들이 전반적으로 강세를 보였습니다.</p>
+
+<p>미국·이란 2차 협상 기대감이 시장에 퍼지면서 기술주 중심으로 돈이 몰렸습니다. 쉽게 말하면, “큰 전쟁이 생기지 않을 수도 있다”는 기대가 생기자 투자자들이 안도하며 주식을 산 것입니다.</p>
+
+<p>💡 반도체 지수(필라델피아 반도체 지수)도 <strong>+2.36%</strong> 올랐습니다. 국내 반도체 주식들이 이 흐름을 따라갈 수 있을지가 월요일의 핵심 관전 포인트입니다.</p>
+
+<p>반면 다우존스는 <strong>-0.16%</strong> 소폭 하락했습니다. 제조업 중심인 다우가 약하다는 건 방산·에너지·소재 쪽 주식에는 아직 부담이 남아 있다는 신호로 볼 수 있습니다.</p>
+
+<hr />
+
+<h2 id="이번-주-베팅-등급은-nexttheme-ai의-판단">이번 주 베팅 등급은? NextTheme AI의 판단</h2>
+
+<p>🟡 <strong>등급: YELLOW (중립 — 선별적 접근)</strong>
+📊 <strong>시장 분위기 점수: 62점</strong> (100점 만점, 50점이 중립)</p>
+
+<p>62점이란 “나쁘지는 않지만 아직 마음 놓고 사기엔 이르다”는 뜻입니다.</p>
+
+<p><strong>전략 요약:</strong></p>
+
+<ul>
+  <li>시초가(장 시작 직후 첫 가격)가 갭상승(전날 종가보다 높게 시작)하더라도, 바로 사지 말고 큰 투자기관(기관)과 외국인 투자자가 실제로 사고 있는지 먼저 확인하세요.</li>
+  <li>반도체 관련 주식은 한꺼번에 많은 돈을 넣지 말고 <strong>70% 이하 비중</strong>으로 나눠서 들어가는 것이 좋습니다.</li>
+  <li>상단(높은 가격대)에서 팔려는 물량이 나올 수 있으니, 반드시 확인 후 매수하는 원칙을 지키세요.</li>
+</ul>
+
+<p><strong>추천 대응:</strong></p>
+
+<blockquote>
+  <p>반도체·HBM(고대역폭 메모리) 관련 주식 → 시초가 방향 확인 + 외국인이 사기 시작할 때만 진입
+백화점·소비재 → 정부 추경 집행 + 중국 관광객 증가 수혜 긍정적, 기관 자금 움직임 모니터링
+조선·해운·에너지 → 기대감은 있지만 다우 약세 리스크 존재, 거래량 확인 후 소량 진입</p>
+</blockquote>
+
+<hr />
+
+<h2 id="월요일에-주목해야-할-섹터는">월요일에 주목해야 할 섹터는?</h2>
+
+<p>📌 NextTheme AI가 꼽은 주목 섹터 3가지</p>
+
+<h3 id="1-시스템반도체hbm-메모리-반도체">1. 시스템반도체·HBM (메모리 반도체)</h3>
+<p>왜 관심을 가져야 하나요?</p>
+
+<ul>
+  <li>미국 나스닥이 <strong>+1.63%</strong> 올랐고, 반도체 지수도 <strong>+2.36%</strong> 강세</li>
+  <li>인텔이 하루 만에 <strong>+23%</strong> 급등 — 반도체 전체 분위기가 좋아진 상황</li>
+  <li>SK하이닉스 목표주가가 증권사에서 <strong>234만원</strong>으로 올려잡았다는 소식</li>
+</ul>
+
+<p>단, 외국인 투자자들이 최근 국내 주식을 <strong>-12조 원</strong> 넘게 팔고 있는 중입니다. 아무리 미국 반도체가 좋아도 이 흐름이 바뀌지 않으면 국내 반도체 주식이 장 초반 올랐다가 다시 내려올 수 있습니다. <strong>갭상승 후 외국인이 사기 시작한다는 신호를 확인한 뒤 분할 매수</strong>하는 방식을 권장합니다.</p>
+
+<h3 id="2-백화점소비재">2. 백화점·소비재</h3>
+<p>왜 관심을 가져야 하나요?</p>
+
+<ul>
+  <li>미국 백화점 주가가 <strong>+3.34%</strong> 올라 긍정적 신호</li>
+  <li>정부가 추경(추가경정예산)을 본격 집행하기 시작하면 소비가 늘어날 수 있습니다</li>
+  <li>중국 관광객이 늘어나면 면세점·백화점이 직접 수혜를 받습니다</li>
+</ul>
+
+<p>안전자산으로 분류되는 채권혼합 ETF에도 자금이 들어오고 있어 상대적으로 안정적인 흐름을 기대할 수 있습니다. 추가 확인 후 매수 가능한 섹터입니다.</p>
+
+<h3 id="3-조선해운에너지">3. 조선·해운·에너지</h3>
+<p>왜 관심을 가져야 하나요?</p>
+
+<ul>
+  <li>미국·이란 협상 기대감으로 중동 호르무즈해협 우회 물동량이 늘어날 수 있습니다</li>
+  <li>조선·해운 회사들이 이 수혜를 받을 가능성이 있습니다</li>
+</ul>
+
+<p>다만 다우 약세로 방산 관련 주식은 하락 리스크가 있습니다. 거래량(얼마나 많이 거래됐는지)을 확인한 뒤 소량으로만 진입하는 것이 좋습니다.</p>
+
+<hr />
+
+<h2 id="-금요일-ai-선별-복기--이-종목들-어떻게-됐을까요">📋 금요일 AI 선별 복기 — 이 종목들, 어떻게 됐을까요?</h2>
+
+<p>그저께(금요일, 2026-04-24) AI가 선별한 3종목의 현재 상황을 정리했습니다.</p>
+
+<blockquote>
+  <p><strong>전반적인 방향: 대기(STANDBY)</strong> — 3종목 모두 아직 매수 전. 월요일 시초가 방향을 보고 진입 여부를 결정합니다.</p>
+</blockquote>
+
+<p><strong>성광벤드</strong> (피팅·밸브 테마)</p>
+<ul>
+  <li>금요일 종가: <strong>47,150원</strong></li>
+  <li>월요일 대응: 시초가가 갭상승하면 외국인이 사고 있는지 확인 후 나눠서 진입</li>
+</ul>
+
+<p>⚠️ 주의: 외국인 투자자들이 국내 주식을 대량으로 팔고 있어(-12조 원), 높은 가격에서 매도 물량이 나올 수 있습니다. 고가에서 무리하게 사지 마세요.</p>
+
+<p><strong>와이씨</strong> (HBM·반도체 테마)</p>
+<ul>
+  <li>금요일 종가: <strong>23,250원</strong></li>
+  <li>월요일 대응: HBM 테마 강세 지속 + SK하이닉스 목표가 상향 호재. 갭상승 후 외국인 매수 확인 후 분할 매수</li>
+</ul>
+
+<p>⚠️ 주의: 자동화 매수(프로그램 매매)는 강했지만 외국인은 팔고 있는 엇갈린 상황 — 장 중에 약해질 수 있습니다.</p>
+
+<p><strong>SFA반도체</strong> (시스템반도체 테마)</p>
+<ul>
+  <li>금요일 종가: <strong>9,625원</strong></li>
+  <li>월요일 대응: 시스템반도체 테마 대장주. 갭상승 후 <strong>9,287원 근처까지 내려올 때</strong> 나눠서 사는 전략</li>
+</ul>
+
+<p>⚠️ 주의: 금요일 기준 과열 신호가 나타났던 종목입니다. 갭상승 직후 바로 사지 말고, 한 번 내려오는 타이밍을 기다리세요.</p>
+
+<hr />
+
+<h2 id="다음-주-핵심-변수--월요일-어떻게-될까요">다음 주 핵심 변수 — 월요일 어떻게 될까요?</h2>
+
+<p>🟢 <strong>긍정 요인 (상승 기대)</strong></p>
+
+<ul>
+  <li>나스닥 +1.63%, 필라델피아 반도체 +2.36% 강세</li>
+  <li>SK하이닉스 목표주가 <strong>234만원</strong> 상향 → 시초가 갭상승 기대</li>
+  <li>S&amp;P500 최고치 경신 → 글로벌 투자 심리 개선</li>
+</ul>
+
+<p>🔴 <strong>부정 요인 (하락 우려)</strong></p>
+
+<ul>
+  <li>외국인이 국내 주식을 <strong>-12조 원</strong> 이상 팔고 있는 중</li>
+  <li>다우존스 약세(-0.16%) → 방산·원자재 관련 자금 이탈 우려</li>
+  <li>장 초반 갭상승 후 매도 물량 유입 가능성</li>
+</ul>
+
+<p><strong>결론적으로</strong>, 월요일 시작은 갭상승이 예상되지만 “열리자마자 산다”보다 <strong>5~10분 지켜본 후 외국인이 사는지 확인하고 진입</strong>하는 전략이 안전합니다.</p>
+
+<p>보유 중인 종목이 있다면: 3종목 모두 아직 미매수 상태로, 신규 진입을 대기 중입니다. 시초가 방향과 외국인 매수 신호를 확인한 후 단계적으로 들어가는 것이 이번 주 기본 전략입니다. 미국·이란 협상이 악화 신호로 평가되면 선물 급락 → 갭다운 가능성도 있으니 트럼프 발언에도 주의를 기울이세요.</p>
+
+<hr />
+
+<h2 id="마무리--이번-주말-어떻게-준비할까요">마무리 — 이번 주말, 어떻게 준비할까요?</h2>
+
+<p>이번 주 시장의 핵심은 <strong>“기대와 불안의 공존”</strong>이었습니다. 미국 반도체는 강했지만, 외국인의 대규모 매도라는 변수가 국내 시장에 그림자를 드리우고 있습니다.</p>
+
+<p>다음 주를 잘 준비하려면:</p>
+
+<ul>
+  <li>월요일 시초가 방향을 침착하게 기다리기</li>
+  <li>외국인이 사는 종목만 선별해서 진입하기</li>
+  <li>반도체 테마 비중은 <strong>70% 이하</strong>로 관리하기</li>
+</ul>
+
+<p>주말 동안 미국·이란 협상 관련 뉴스와 트럼프 발언에도 주의를 기울여 두시면 좋겠습니다. 🌐</p>
+
+<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
+
+<hr />
+
+<p>#종가배팅 #수급분석 #주식투자 #NextTheme #주말브리핑 #반도체주식 #월요일전략 #SK하이닉스 #HBM #시장분석</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">성광벤드·SFA반도체 외</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/04/24/1513-snapshot/" rel="alternate" type="text/html" title="성광벤드·SFA반도체 외" /><published>2026-04-24T15:13:00+09:00</published><updated>2026-04-24T15:13:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/04/24/1513-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/04/24/1513-snapshot/"><![CDATA[<p>오늘 코스피는 거의 움직임 없이 보합권(-0.05%)에서 마감했지만, 코스닥은 AI·반도체 관련 종목들로 뜨거웠습니다. 코스닥 지수가 <strong>+2.39%</strong> 오른 반면 코스피는 제자리 걸음을 해서, 두 시장 사이의 온도 차가 꽤 컸던 하루였어요. 💡</p>
 
 <hr />
 
@@ -1303,128 +1486,4 @@
 
 <hr />
 
-<p>#종가배팅 #수급분석 #주식투자 #NextTheme #반도체주식 #원전주 #보안주 #오늘주식 #주식시황 #코스피 #주식초보 #주식공부 #종가매매</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[2026년 4월 20일 오후 3시 13분, NextTheme 알고리즘이 오늘 장 마감 직전 전 종목을 최종 점검했습니다. 📊]]></summary></entry><entry><title type="html">YELLOW — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/04/20/0600-briefing/" rel="alternate" type="text/html" title="YELLOW — 오늘 아침 시황" /><published>2026-04-20T06:00:00+09:00</published><updated>2026-04-20T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/04/20/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/04/20/0600-briefing/"><![CDATA[<p>안녕하세요! 2026년 4월 20일 월요일 아침입니다. 🌅
-새로운 한 주가 시작됐는데, 주말 사이 미국 증시는 크게 올랐지만 새벽에 또 다른 소식이 들어왔습니다.
-오늘 장을 어떻게 접근해야 할지 차근차근 살펴볼게요.</p>
-
-<hr />
-
-<h2 id="주말-사이-미국-증시는-어땠을까요-">주말 사이 미국 증시는 어땠을까요? 🇺🇸</h2>
-
-<p>지난 금요일 미국 증시가 전 지수에 걸쳐 크게 올랐습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>지수</th>
-      <th>변동률</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>다우존스</td>
-      <td><strong>+1.79%</strong></td>
-    </tr>
-    <tr>
-      <td>S&amp;P 500</td>
-      <td><strong>+1.52%</strong></td>
-    </tr>
-    <tr>
-      <td>나스닥</td>
-      <td><strong>+2.79%</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>나스닥이 <strong>+2.79%</strong> 오르며 기술주가 강하게 반등했습니다. 반도체 관련 종목들이 모여 있는 필라델피아 반도체 지수도 올랐지만, 중요한 저항선(더 오르기 어려운 가격대)에 정확히 도달했습니다.</p>
-
-<p>미국이 이렇게 올랐으니 오늘 국내 증시도 기분 좋게 출발할 것 같죠? 그런데 새벽에 새로운 변수가 생겼습니다.</p>
-
-<hr />
-
-<h2 id="오늘-아침-꼭-알아야-할-이슈는-️">오늘 아침 꼭 알아야 할 이슈는? ⚠️</h2>
-
-<p>새벽 5시쯤 좋지 않은 소식이 들어왔습니다.</p>
-
-<p><strong>미국과 이란 사이에 긴장이 다시 높아졌습니다.</strong>
-미국이 이란 화물선을 억류했다는 소식이 전해지면서, 주말 동안 “중동 갈등이 나아지겠다”는 기대감이 한 번에 흔들렸습니다.</p>
-
-<p>이와 함께 암호화폐도 크게 떨어졌습니다.</p>
-<ul>
-  <li>비트코인: <strong>-1.65%</strong></li>
-  <li>이더리움: <strong>-3.02%</strong></li>
-</ul>
-
-<p>암호화폐가 급락하면 “위험한 자산은 일단 피하자”는 심리가 주식 시장에도 영향을 줍니다.</p>
-
-<p>거기에 해외에서 한국 주식을 사고파는 외국인 투자자(큰 해외 투자기관)들이 국내 주식을 <strong>198억 원어치</strong> 더 팔고 있는 상황입니다. 외국인이 계속 파는 흐름이 이어지면 국내 주가 상승에 제동이 걸릴 수 있습니다.</p>
-
-<hr />
-
-<h2 id="오늘-베팅-등급은--yellow-황색-주의-">오늘 베팅 등급은? — YELLOW (황색 주의) 🟡</h2>
-
-<p>오늘 등급은 <strong>YELLOW(노란불)</strong>입니다.
-“미국 상승이라는 좋은 신호와 중동 불안·외국인 매도라는 나쁜 신호가 섞여 있으니 신중하게 접근하라”는 의미입니다.</p>
-
-<blockquote>
-  <p>💡 <strong>오늘의 핵심 전략</strong>
-장 시작 후 <strong>09:30~10:00</strong>, 이 30분이 오늘의 핵심입니다.
-큰 투자기관(기관)과 외국인이 사기 시작하면 진입, 계속 팔면 관망.</p>
-</blockquote>
-
-<p><strong>상황별 대응법</strong></p>
-
-<table>
-  <thead>
-    <tr>
-      <th>상황</th>
-      <th>대응</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>기관·외국인이 사기 시작하면</td>
-      <td>반도체·조선 중심으로 <strong>60% 비중</strong> 진입</td>
-    </tr>
-    <tr>
-      <td>계속 팔고 있으면</td>
-      <td>현금 <strong>50% 이상</strong> 보유하며 관망</td>
-    </tr>
-    <tr>
-      <td>중동 뉴스가 더 나빠지면</td>
-      <td>반도체 회피, 에너지·유틸리티 관심</td>
-    </tr>
-  </tbody>
-</table>
-
-<hr />
-
-<h2 id="오늘-특히-눈여겨볼-종목은-">오늘 특히 눈여겨볼 종목은? 🔍</h2>
-
-<p><strong>SK하이닉스 — 이번 주 목요일(23일) 실적 발표</strong></p>
-
-<p>SK하이닉스가 4월 23일에 올해 1분기 실적을 발표합니다. 실적 발표 전에 기관이 미리 사들이는 경향이 있어 주목됩니다. 단, 중동 불안 뉴스가 계속 나오면 반도체 업종 전체에 영향을 줄 수 있으니 개장 초반 매수세를 꼭 확인하고 움직이세요.</p>
-
-<p><strong>조선 관련 주(STX엔진, 한화엔진) — 최근 +3.99% 강세</strong></p>
-
-<p>주말 사이 조선기자재 업종이 <strong>+3.99%</strong> 오르며 강한 흐름을 보였습니다. 배를 만들거나 부품을 공급하는 기업들로, 개장 초반에 매수세가 이어지는지 확인한 뒤 접근하는 것이 좋습니다.</p>
-
-<hr />
-
-<h2 id="오늘-하루-체크리스트-">오늘 하루 체크리스트 📋</h2>
-
-<ul class="task-list">
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />09:30까지 외국인 매매 방향 확인 (사는지, 파는지)</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />기관·외국인이 사면 → 반도체·조선 진입 검토</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />기관·외국인이 팔면 → 현금 50% 이상 유지</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />중동 관련 추가 뉴스 모니터링</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />SK하이닉스: 23일 실적 발표 전 변동성 대비</li>
-</ul>
-
-<p>급하게 들어가기보다, 오전 30분 동안 흐름을 확인하고 움직이는 것이 오늘 가장 안전한 접근입니다. 좋은 기회처럼 보여도 조건이 맞지 않으면 쉬는 것도 실력입니다. 💪</p>
-
-<hr />
-
-<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
-
-<p>#종가배팅 #수급분석 #주식투자 #오늘시황 #NextTheme #SK하이닉스 #조선주 #반도체주식 #주식초보 #아침시황</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[안녕하세요! 2026년 4월 20일 월요일 아침입니다. 🌅 새로운 한 주가 시작됐는데, 주말 사이 미국 증시는 크게 올랐지만 새벽에 또 다른 소식이 들어왔습니다. 오늘 장을 어떻게 접근해야 할지 차근차근 살펴볼게요.]]></summary></entry></feed>
+<p>#종가배팅 #수급분석 #주식투자 #NextTheme #반도체주식 #원전주 #보안주 #오늘주식 #주식시황 #코스피 #주식초보 #주식공부 #종가매매</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[2026년 4월 20일 오후 3시 13분, NextTheme 알고리즘이 오늘 장 마감 직전 전 종목을 최종 점검했습니다. 📊]]></summary></entry></feed>
