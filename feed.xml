@@ -1,4 +1,126 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-04-26T12:19:53+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">★★ 등급 — 종목 심층 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/04/26/0856-detail-054210-detail/" rel="alternate" type="text/html" title="★★ 등급 — 종목 심층 분석" /><published>2026-04-26T09:00:00+09:00</published><updated>2026-04-26T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/04/26/0856_detail_054210-detail</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/04/26/0856-detail-054210-detail/"><![CDATA[<p>2026년 4월 26일 오전 8시 56분 기준, <strong>이랜텍(054210)</strong>에 대한 AI 종합 분석을 공개합니다. 배터리팩 신사업과 LG에너지솔루션 납품 이슈가 동시에 터지고 있는 지금, 이 종목을 지켜봐야 할 이유가 있는지 살펴볼게요. 📊</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-04-26T22:03:38+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">2026-W17 — 한주간 흐름 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/04/26/weekly/" rel="alternate" type="text/html" title="2026-W17 — 한주간 흐름 분석" /><published>2026-04-26T22:00:00+09:00</published><updated>2026-04-26T22:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/04/26/weekly</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/04/26/weekly/"><![CDATA[<h2 id="이번-주-한국-증시-어떤-한-주였을까요-">이번 주 한국 증시, 어떤 한 주였을까요? 📈</h2>
+
+<p>이번 주 코스피가 사상 최고치를 경신했습니다. 반도체 기업들의 깜짝 실적 발표가 상승을 이끌었지만, 유가 급등과 달러 강세라는 변수가 공존한 복잡한 한 주였어요. 특히 개인 투자자들이 역대 최대 규모로 주식을 팔아치우는 모습이 눈에 띄었습니다. 지수는 올랐지만 불안감이 남아있는 상황, 함께 정리해볼게요.</p>
+
+<hr />
+
+<h2 id="-이번-주-시장-숫자로-보면">📊 이번 주 시장, 숫자로 보면?</h2>
+
+<p><strong>코스피 +4.6%</strong> (6,191 → 6,479), <strong>코스닥 +2.8%</strong> (1,170 → 1,202)로 두 지수 모두 상승했습니다.</p>
+
+<p>그런데 속을 들여다보면 불안한 신호도 있었어요:</p>
+
+<ul>
+  <li>🛢️ <strong>유가(WTI)가 배럴당 82달러 → 97달러로 단 한 주에 +17.4% 급등</strong>했습니다. 중동 지역 긴장감이 다시 고조되면서 원유 가격이 폭발적으로 올랐어요.</li>
+  <li>💵 <strong>달러가 강세</strong>로 전환되면서(DXY <strong>98.10 → 98.81</strong>) 원화 가치가 <strong>1,475.7원 → 1,481.5원</strong>으로 더 떨어졌습니다. 원화 약세는 외국인 큰손들이 한국 시장에서 돈을 뺄 때 나타나는 신호이기도 해요.</li>
+  <li>📈 <strong>미국 장기 금리(10년물)도 4.25% → 4.33%로 상승</strong>했습니다. 금리가 오르면 반도체·IT 같은 성장주에는 보통 불리한 환경이에요.</li>
+  <li>😮 <strong>개인 투자자들이 무려 15조원을 역대 최대 규모로 순매도</strong>했습니다. 지수가 올라도 개인 투자자들은 팔고 있다는 점이 아이러니한 상황입니다.</li>
+</ul>
+
+<hr />
+
+<h2 id="-이번-주를-이끈-테마는">🔥 이번 주를 이끈 테마는?</h2>
+
+<p>이번 주 한국 증시는 <strong>반도체</strong>가 확실한 주도 테마였습니다.</p>
+
+<blockquote>
+  <p>SK하이닉스가 <strong>37조원</strong>이라는 역대 최고 실적을 발표했고, 미국 반도체 기업 인텔의 목표 주가가 <strong>90% 상향</strong>됐어요. AI(인공지능)용 고성능 메모리 반도체에 대한 수요가 폭발적으로 늘고 있다는 신호입니다.</p>
+</blockquote>
+
+<p>화요일·수요일에는 <strong>2차전지(ESS·나트륨이온·리튬)</strong> 관련주가 <strong>+9~24% 일제 급등</strong>하는 장면도 있었어요. 하지만 목·금요일에는 조선기자재와 스페이스X 우주항공으로 테마가 빠르게 바뀌었습니다. 또한 전력·전기기기 분야에서 LS일렉·LS마린 등이 신고가를 기록하며 <strong>3개월간 +126%</strong> 급등하는 종목도 나왔습니다.</p>
+
+<h3 id="-이번-주-오른-테마">📈 이번 주 오른 테마</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>테마</th>
+      <th>핵심 이유</th>
+      <th>주의할 점</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>반도체(HBM·시스템)</strong></td>
+      <td>SK하이닉스 37조 실적 + 인텔 목표가 90% 상향</td>
+      <td>외국인이 다시 팔기 시작하면 조정 가능</td>
+    </tr>
+    <tr>
+      <td><strong>전력·전기기기</strong></td>
+      <td>AI 데이터센터 전력 수요 폭증 + 한국 GDP 3.6% 초과 달성</td>
+      <td>유가 추가 급등 시 원가 부담 발생</td>
+    </tr>
+    <tr>
+      <td><strong>조선·조선기자재</strong></td>
+      <td>중동 긴장 → 해상 물류 우회 증가 + 선박 신규 수주 기대</td>
+      <td>미·이란 협상 타결 시 재료 소멸 리스크</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="-이번-주-빠진-테마">📉 이번 주 빠진 테마</h3>
+
+<ul>
+  <li><strong>소프트웨어·SaaS</strong>: 미국 소프트웨어 ETF가 <strong>-17% 폭락</strong>하면서 국내 소프트웨어 기업들도 투자자들이 외면했어요. AI 에이전트 기술이 발전하면서 기존 소프트웨어 구독 모델 가치가 떨어진다는 우려가 퍼지고 있습니다.</li>
+  <li><strong>방산(무기 관련)</strong>: 미국과 이란의 협상 기대감이 생기면서 글로벌 방산주가 일제히 하락했어요.</li>
+  <li><strong>보안주</strong>: 월요일 양자암호 테마로 급등했다가 화·수요일 차익실현 물량이 쏟아지며 약세로 전환됐습니다.</li>
+</ul>
+
+<hr />
+
+<h2 id="-다음-주는-어떻게-될까요">🔭 다음 주는 어떻게 될까요?</h2>
+
+<h3 id="긍정-시나리오-">긍정 시나리오 🌟</h3>
+<p>미국 빅테크 기업들(애플·마이크로소프트·구글) 실적 발표가 예정돼 있어요. 실적이 좋게 나오고 큰 투자기관(외국인)이 한국 주식을 다시 사기 시작한다면 <strong>코스피 6,600선 돌파</strong>도 가능합니다. 반도체·전력기기 종목의 추가 상승 여력이 남아있어요.</p>
+
+<h3 id="부정-시나리오-️">부정 시나리오 ⚠️</h3>
+<p>유가가 배럴당 <strong>100달러를 넘어서</strong>거나, 5월 1일 미국 중앙은행 회의(FOMC)에서 “금리를 더 올릴 수도 있다”는 신호가 나오면 성장주들이 일제히 하락할 수 있습니다. 코스피 <strong>6,300선 재테스트</strong> 가능성도 열어둬야 해요.</p>
+
+<h3 id="-nexttheme-다음-주-전략-제안">✅ NextTheme 다음 주 전략 제안</h3>
+
+<ol>
+  <li><strong>월요일 시초가(장 시작 직후) 갭이 오를 때 외국인이 순매수로 전환하는지 확인</strong>하세요</li>
+  <li>순매수 전환 확인되면 <strong>반도체·전력기기에 자산의 60~70%</strong> 비중으로 단계적 진입</li>
+  <li>외국인이 계속 팔고 있다면 <strong>현금 50% 이상 유지하며 관망</strong>이 안전합니다</li>
+  <li>유가가 <strong>95달러 이상에 고착</strong>되면 에너지·조선 비중을 30% 이하로 제한하고 성장주 신규 진입은 보류</li>
+</ol>
+
+<hr />
+
+<h2 id="-다음-주-주목할-섹터와-리스크">📌 다음 주 주목할 섹터와 리스크</h2>
+
+<h3 id="-주목-섹터-3선">👀 주목 섹터 3선</h3>
+
+<p><strong>① 반도체(시스템·HBM)</strong>
+외국인 큰손이 2일 연속 순매수로 전환되면 적극 진입 타이밍입니다. 반대로 나스닥이 -1% 이상 급락하면 관망이 정답이에요.</p>
+
+<p><strong>② 전력·전기기기</strong>
+유가가 95달러 이하에서 안정되면 추가 상승 여력이 있습니다. 100달러 돌파 시 원자재 부담으로 조정 가능성이 높아져요.</p>
+
+<p><strong>③ 2차전지(ESS·나트륨이온)</strong>
+화·수요일 급등 후 목·금요일 횡보 중. 중국 보조금 확대 또는 미국 에너지 정책 호재 시 재부각 가능. 테슬라 실적 부진 시 동반 약세 주의.</p>
+
+<h3 id="️-조심해야-할-리스크-3가지">⚠️ 조심해야 할 리스크 3가지</h3>
+
+<ol>
+  <li><strong>유가 100달러 돌파</strong>: WTI가 이미 97달러까지 올랐어요. 100달러 넘으면 반도체·2차전지 같은 성장주에 인플레이션 우려 직격탄</li>
+  <li><strong>미국 FOMC 매파 전환 (5월 1일)</strong>: 금리 동결이 예상되지만, 인플레이션 재점화 시 긴축 지속 신호 가능 → 기술주·성장주 전반 타격</li>
+  <li><strong>외국인 순매도 지속</strong>: 이번 주 누적 -1.5조원 추정. 2주 연속 대규모 순매도 확대 시 코스피 6,300선 지지 실패 리스크</li>
+</ol>
+
+<hr />
+
+<h2 id="-이번-주-한-줄-정리">✅ 이번 주 한 줄 정리</h2>
+
+<blockquote>
+  <p><strong>코스피 사상 최고치 경신, 반도체·전력기기가 이끌었지만 유가 급등·외국인 대규모 매도라는 불씨는 남아있다. 다음 주 외국인 수급 전환 여부가 방향을 가른다.</strong></p>
+</blockquote>
+
+<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
+
+<hr />
+
+<p>#종가배팅 #주간시장리뷰 #수급분석 #주식투자 #NextTheme #코스피분석 #반도체주 #2차전지 #주식전략 #2026주식시장</p>]]></content><author><name>NextTheme</name></author><category term="weekly" /><summary type="html"><![CDATA[이번 주 한국 증시, 어떤 한 주였을까요? 📈]]></summary></entry><entry><title type="html">★★ 등급 — 종목 심층 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/04/26/0856-detail-054210-detail/" rel="alternate" type="text/html" title="★★ 등급 — 종목 심층 분석" /><published>2026-04-26T09:00:00+09:00</published><updated>2026-04-26T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/04/26/0856_detail_054210-detail</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/04/26/0856-detail-054210-detail/"><![CDATA[<p>2026년 4월 26일 오전 8시 56분 기준, <strong>이랜텍(054210)</strong>에 대한 AI 종합 분석을 공개합니다. 배터리팩 신사업과 LG에너지솔루션 납품 이슈가 동시에 터지고 있는 지금, 이 종목을 지켜봐야 할 이유가 있는지 살펴볼게요. 📊</p>
 
 <hr />
 
@@ -1292,159 +1414,4 @@ AI 이후 차기 성장 산업으로 우주항공이 크게 주목받고 있습�
 
 <hr />
 
-<p>#종가배팅 #수급분석 #주식투자 #NextTheme #오늘주식 #조선주 #스페이스X #관망전략 #주식초보 #장마감분석</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[안녕하세요! 오늘 오후 3시 13분 기준 NextTheme 알고리즘이 시장 전체를 살펴봤는데요. 결론부터 말씀드리면, 오늘은 종가배팅에 나서지 않는 것이 최선입니다. 🛑]]></summary></entry><entry><title type="html">YELLOW — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/04/22/0600-briefing/" rel="alternate" type="text/html" title="YELLOW — 오늘 아침 시황" /><published>2026-04-22T06:00:00+09:00</published><updated>2026-04-22T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/04/22/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/04/22/0600-briefing/"><![CDATA[<p><strong>2026년 4월 22일(수) 아침 시황 브리핑</strong></p>
-
-<hr />
-
-<p>어제 코스피가 사상 최고치를 기록했습니다. 🎉
-“내가 좀 더 일찍 샀더라면…” 하는 아쉬움이 드는 분들도 계실 텐데요.
-오늘은 어제 흐름을 정리하고, 오늘 어떻게 대응할지 함께 살펴보겠습니다.</p>
-
-<hr />
-
-<h2 id="어제-미국-시장-무슨-일이-있었나요">어제 미국 시장, 무슨 일이 있었나요?</h2>
-
-<p>📉 미국 뉴욕 증시는 장중에는 올랐다가 마감 직전 매도세가 몰리면서 결국 하락으로 마감했습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>지수</th>
-      <th>등락률</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>다우존스</td>
-      <td><strong>-0.59%</strong></td>
-    </tr>
-    <tr>
-      <td>S&amp;P500</td>
-      <td><strong>-0.59%</strong></td>
-    </tr>
-    <tr>
-      <td>나스닥</td>
-      <td><strong>+2.62%</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>나스닥만 유일하게 올랐지만, 다우와 S&amp;P500은 하락했습니다.</p>
-
-<p>미국 증시가 왜 힘을 못 썼냐고요? 크게 두 가지 이유입니다.</p>
-
-<ul>
-  <li><strong>미국과 이란의 협상 불확실성</strong>: 휴전이 끝날 수도 있다는 우려가 퍼지면서 국제 유가가 하루에 <strong>3%나 급등</strong>했습니다. 유가가 오르면 물가 걱정이 커지고, 주식 시장에는 부담이 됩니다.</li>
-  <li><strong>테슬라를 비롯한 기술주 약세</strong>: 여러 증권사에서 목표 주가를 낮추면서 테슬라가 <strong>-1.55%</strong> 하락했고, 미국 기술주 전반에 찬바람이 불었습니다.</li>
-</ul>
-
-<hr />
-
-<h2 id="그런데-한국-시장은-왜-올랐나요-">그런데 한국 시장은 왜 올랐나요? 🤔</h2>
-
-<p>재미있는 점은, 미국이 흔들리는 사이 한국 코스피는 <strong>사상 최고치 6,388포인트</strong>를 기록했다는 겁니다.</p>
-
-<p>비결은 바로 <strong>큰 투자기관(기관)과 외국인 투자자들의 대규모 매수</strong>였습니다.</p>
-
-<p>어제 하루 기관과 외국인이 한국 주식을 합쳐서 <strong>총 1조 6천억 원어치</strong>를 사들였습니다. 이 정도면 엄청난 수준입니다.</p>
-
-<p>특히 강하게 오른 분야는 이렇습니다:</p>
-
-<ul>
-  <li>2차전지(배터리 관련주): <strong>+11.65%</strong> — 삼성SDI, LG에너지솔루션 등</li>
-  <li>리튬(배터리 원료 관련주): <strong>+9.50%</strong></li>
-  <li>건설: <strong>+6.27%</strong></li>
-</ul>
-
-<p>하루 만에 이렇게 크게 오른 건 그냥 우연이 아닙니다. 큰손들이 집중적으로 돈을 넣었기 때문입니다.</p>
-
-<hr />
-
-<h2 id="오늘-어떻게-대응해야-할까요">오늘 어떻게 대응해야 할까요?</h2>
-
-<p>🟡 오늘 NextTheme 알고리즘의 베팅 등급은 <strong>YELLOW(주의)</strong> 입니다.</p>
-
-<p>YELLOW는 “완전히 쉬어라”는 뜻이 아닙니다. “조심하면서 기회를 찾아라”는 신호입니다.</p>
-
-<p><strong>오늘의 전략 요약</strong></p>
-
-<blockquote>
-  <p>미국 시장이 장중에 올랐다가 마지막에 떨어지는 패턴(윗꼬리)을 보였고, 이란 관련 불확실성도 남아 있습니다. 따라서 오늘은 평소보다 투자 금액을 <strong>70% 수준</strong>으로 줄여서 신중하게 접근하는 것이 좋습니다.</p>
-</blockquote>
-
-<p>구체적인 행동 지침은 이렇습니다:</p>
-
-<p><strong>오늘 주목할 종목 유형</strong></p>
-<ul>
-  <li>2차전지, 건설 관련주 — 단, 장이 열리고 나서 외국인이 계속 사는지 먼저 확인</li>
-  <li>이미 많이 오른 종목은 피하고, 아직 덜 오른 관련 저가주를 작은 금액으로 나눠서 진입</li>
-</ul>
-
-<p><strong>오늘 피해야 할 것</strong></p>
-<ul>
-  <li>미국 기술주 관련 국내 종목: 목표 주가 하향 뉴스가 계속 나오고 있어서 리스크가 큽니다</li>
-  <li>고점에서 무리하게 따라가기: 어제 많이 오른 종목을 오늘 아침에 덥석 사는 건 위험합니다</li>
-</ul>
-
-<hr />
-
-<h2 id="오늘-꼭-챙겨야-할-변수는-️">오늘 꼭 챙겨야 할 변수는? ⚠️</h2>
-
-<p><strong>위험 요인</strong></p>
-<ul>
-  <li>미·이란 협상 결과: 협상이 완전히 깨지면 유가가 추가로 오르고 시장에 충격이 올 수 있습니다</li>
-  <li>미국 시장의 장중 매도 압력: 어제처럼 올라갔다가 내려오는 패턴이 반복될 수 있습니다</li>
-</ul>
-
-<p><strong>기회 요인</strong></p>
-<ul>
-  <li>외국인의 코스피 매수 흐름이 오늘도 이어지는지 확인 — 이어진다면 2차전지·건설 강세 지속 가능</li>
-  <li>어제 덜 오른 관련주에 오늘 뒤늦게 수급이 몰릴 가능성</li>
-</ul>
-
-<hr />
-
-<h2 id="오늘의-핵심-정리">오늘의 핵심 정리</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>항목</th>
-      <th>내용</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>오늘 등급</td>
-      <td>🟡 YELLOW (신중 진입)</td>
-    </tr>
-    <tr>
-      <td>추천 투자 비중</td>
-      <td>평소의 70% 수준</td>
-    </tr>
-    <tr>
-      <td>주목 분야</td>
-      <td>2차전지, 리튬, 건설</td>
-    </tr>
-    <tr>
-      <td>피할 것</td>
-      <td>미국 기술주 관련, 고점 추격 매수</td>
-    </tr>
-    <tr>
-      <td>핵심 체크 포인트</td>
-      <td>장 시작 후 외국인 매수 지속 여부</td>
-    </tr>
-  </tbody>
-</table>
-
-<hr />
-
-<p>어제 코스피 사상 최고치 소식에 흥분하기보다는, 오늘은 한 발짝 물러서서 냉정하게 시장을 바라보는 하루가 될 것 같습니다. 📊</p>
-
-<p>무리하게 따라가지 말고, 외국인의 움직임을 먼저 확인한 뒤 분할 진입하는 전략을 추천드립니다.</p>
-
-<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
-
-<hr />
-
-<p>#종가배팅 #수급분석 #주식투자 #코스피 #2차전지 #오늘주식 #NextTheme #주식초보 #아침시황 #배터리주</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[2026년 4월 22일(수) 아침 시황 브리핑]]></summary></entry></feed>
+<p>#종가배팅 #수급분석 #주식투자 #NextTheme #오늘주식 #조선주 #스페이스X #관망전략 #주식초보 #장마감분석</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[안녕하세요! 오늘 오후 3시 13분 기준 NextTheme 알고리즘이 시장 전체를 살펴봤는데요. 결론부터 말씀드리면, 오늘은 종가배팅에 나서지 않는 것이 최선입니다. 🛑]]></summary></entry></feed>
