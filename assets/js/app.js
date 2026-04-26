@@ -104,6 +104,9 @@
       const adFragment = adTemplate.content.cloneNode(true);
 
       // <script> 들을 새 element 로 재생성하여 실행 가능하게 (cloneNode 한계)
+      // 동적 createElement script 는 기본 async=true → DOM 순서 무시 → g.js 와 inline 의
+      // 실행 순서가 어그러져 PartnersCoupang is not defined 로 광고 노출 실패.
+      // async=false 로 직렬 실행 보장.
       adFragment.querySelectorAll('script').forEach(function (oldScript) {
         const newScript = document.createElement('script');
         Array.from(oldScript.attributes).forEach(function (attr) {
@@ -112,6 +115,7 @@
         if (oldScript.textContent) {
           newScript.textContent = oldScript.textContent;
         }
+        newScript.async = false;
         oldScript.parentNode.replaceChild(newScript, oldScript);
       });
 
