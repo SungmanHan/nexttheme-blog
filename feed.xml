@@ -1,4 +1,151 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-04-27T06:03:01+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">YELLOW — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/04/27/0600-briefing/" rel="alternate" type="text/html" title="YELLOW — 오늘 아침 시황" /><published>2026-04-27T06:00:00+09:00</published><updated>2026-04-27T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/04/27/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/04/27/0600-briefing/"><![CDATA[<p>안녕하세요! 오늘도 장 시작 전 꼭 알아야 할 핵심 정보만 쏙쏙 뽑아서 정리했습니다 😊</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-04-27T14:59:42+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">ONE_STAR 등급 — 종목 심층 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/04/27/1457-detail-054210-detail/" rel="alternate" type="text/html" title="ONE_STAR 등급 — 종목 심층 분석" /><published>2026-04-27T09:00:00+09:00</published><updated>2026-04-27T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/04/27/1457_detail_054210-detail</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/04/27/1457-detail-054210-detail/"><![CDATA[<p>2026년 4월 27일 오후 2시 57분, NextTheme AI가 이랜텍(054210)을 심층 분석했습니다.</p>
+
+<p>이랜텍은 배터리 팩·관리 시스템(BMS)을 만드는 회사입니다. 최근 LG에너지솔루션에 ESS(에너지 저장 장치)용 BMS를 공급하면서 사업 영역을 넓히고 있어 투자자들의 관심을 받고 있습니다. 오늘도 SK증권이 목표 주가를 크게 올렸다는 소식에 주가가 조금씩 움직이고 있는데요, 과연 지금 들어가도 될까요? 🤔</p>
+
+<hr />
+
+<h2 id="오늘-주가는-어떻게-움직이고-있나요">오늘 주가는 어떻게 움직이고 있나요?</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>항목</th>
+      <th>수치</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>현재가</td>
+      <td><strong>12,870원</strong></td>
+    </tr>
+    <tr>
+      <td>등락률</td>
+      <td><strong>+1.66%</strong> (전일 대비 상승)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>오늘 가격 흐름은 소폭 상승입니다. 크게 튀지는 않지만 꾸준히 올라가는 모습이에요.</p>
+
+<p>📌 <strong>큰 투자기관(기관)과 외국인의 오늘 매매 방향</strong>을 확인해 보겠습니다.</p>
+
+<ul>
+  <li>외국인: 오늘 이랜텍 주식을 <strong>7만 5,786주 순매도</strong> (파는 쪽)</li>
+  <li>기관: 오늘 <strong>4,948주 순매수</strong> (사는 쪽)</li>
+</ul>
+
+<p>외국인은 팔고 있고, 기관은 소규모로 사고 있는 상황입니다.</p>
+
+<p>💡 <strong>60일 흐름에서 주목할 변화</strong></p>
+
+<p>약 두 달간의 매매 기록을 살펴보면, <strong>4월 21일</strong>에 외국인이 무려 23만 7,306주를 한꺼번에 사들이고, 기관도 같은 날 15만 4,950주를 대거 매수하면서 주가가 크게 뛰었습니다. 그러나 그 다음 날부터 외국인은 다시 팔기 시작했습니다. 지금은 기관이 <strong>6일 연속으로 조금씩 사고 있는 상황</strong>이지만, 외국인은 손을 뗀 상태입니다.</p>
+
+<hr />
+
+<h2 id="차트로-보는-현재-위치--지금-어디쯤-있나요">차트로 보는 현재 위치 — 지금 어디쯤 있나요?</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>기간</th>
+      <th>흐름</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>단기 (며칠)</td>
+      <td>상승 흐름</td>
+    </tr>
+    <tr>
+      <td>중기 (몇 주)</td>
+      <td>상승 흐름</td>
+    </tr>
+    <tr>
+      <td>장기 (몇 달)</td>
+      <td>상승 흐름</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>단기·중기·장기 모두 같은 방향으로 올라가고 있습니다. 이렇게 세 기간의 방향이 일치할 때를 <strong>“추세 정렬”</strong> 이라고 부르는데, 주가가 방향성을 가지고 움직이고 있다는 긍정적인 신호입니다. 📈</p>
+
+<p>다만 한 가지 유의할 점이 있습니다. 주가가 이미 꽤 많이 올라온 상태에서 지표가 과열 구간에 들어와 있다는 점입니다. 쉽게 말해, 고무줄을 많이 잡아당긴 상태라 이제는 숨 고르기가 필요할 수 있습니다.</p>
+
+<hr />
+
+<h2 id="오늘-어떤-뉴스가-나왔나요-️">오늘 어떤 뉴스가 나왔나요? 🗞️</h2>
+
+<p><strong>호재 신호</strong> — 실적 성장 기대 + 새로운 사업 분야 진출</p>
+
+<blockquote>
+  <p>SK증권이 이랜텍의 목표 주가를 기존 <strong>1만 3,000원에서 1만 8,000원</strong>으로 올렸습니다. 무려 <strong>38% 상향</strong>이에요. 배터리 팩 신사업 성장을 높이 평가한 것입니다. 또 LG에너지솔루션에 ESS(에너지 저장 장치)용 BMS를 공급하면서 사업이 점차 넓어지고 있습니다.</p>
+</blockquote>
+
+<p>주요 포인트 세 가지:</p>
+
+<ul>
+  <li>SK증권 목표가 38% 상향 → 증권사가 이랜텍의 미래 가치를 높게 본다는 뜻</li>
+  <li>LG에너지솔루션과 신규 공급 계약 → 든든한 고객사 확보</li>
+  <li>배터리 팩 신사업 본격화 → 올해 매출·이익 모두 성장 기대</li>
+</ul>
+
+<p>⚠️ <strong>하지만 조심해야 할 부분도 있습니다.</strong></p>
+
+<p>목표가 상향 소식은 이미 며칠 전부터 주가에 반영됐을 가능성이 있습니다. 또 배터리 팩·BMS 같은 새로운 사업은 원가 압박이나 경쟁이 심해지면 기대만큼 수익이 안 날 수도 있어요. 실제 분기 실적 공시를 확인하기 전까지는 조심하는 게 좋습니다.</p>
+
+<hr />
+
+<h2 id="ai가-내린-최종-판단은-">AI가 내린 최종 판단은? 🤖</h2>
+
+<table>
+  <tbody>
+    <tr>
+      <td>**투자 분위기: 맑음 ☀️</td>
+      <td>등급: ONE_STAR (별 1개)**</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>NextTheme AI가 이랜텍을 분석한 결과를 쉽게 풀어드립니다.</p>
+
+<blockquote>
+  <p>“기관이 <strong>6일 연속</strong>으로 사고 있고, 차트도 위로 향하고 있습니다. 호재 뉴스도 있어요. 그런데 외국인이 계속 팔고 있고, 주가 과열 지표가 꽤 높아진 상태입니다(숨 고르기가 필요한 구간). 이미 좋은 뉴스가 어느 정도 반영된 것 같아서 지금 들어가면 잠깐 물릴 수 있습니다.”</p>
+</blockquote>
+
+<p><strong>AI 행동 지침:</strong></p>
+<blockquote>
+  <p>호재 신호는 명확하지만, 최근 목표가 상향 이후 추가로 오를 폭은 제한적일 수 있습니다. 만약 매수를 고려한다면 <strong>전체 투자금의 30% 이하로 분할 매수</strong>하는 것을 권장합니다. 장 마감 30분 전 진입은 고점에 물릴 위험이 있으니 주의하세요. 실제 분기 실적이 발표된 후에 다시 판단하는 것도 좋은 방법입니다.</p>
+</blockquote>
+
+<hr />
+
+<h2 id="정리--이랜텍-지금-어떻게-할까요">정리 — 이랜텍, 지금 어떻게 할까요?</h2>
+
+<p>긍정적인 면과 부정적인 면을 함께 보겠습니다.</p>
+
+<p><strong>긍정 요인 ✅</strong></p>
+<ul>
+  <li>기관이 6일 연속 매수 중</li>
+  <li>단기·중기·장기 모두 상승 방향</li>
+  <li>SK증권 목표가 38% 상향 + LG에너지솔루션 신규 공급</li>
+</ul>
+
+<p><strong>주의 요인 ⚠️</strong></p>
+<ul>
+  <li>외국인은 최근 팔고 있는 추세</li>
+  <li>주가가 이미 많이 올라 과열 구간</li>
+  <li>좋은 뉴스가 상당 부분 이미 가격에 반영됐을 가능성</li>
+</ul>
+
+<p>요약하면, 이랜텍은 전망은 밝지만 <strong>지금 당장 큰 금액을 한꺼번에 넣기엔 부담스러운 구간</strong>입니다. 소액 분할 매수로 접근하거나, 다음 실적 발표 이후 흐름을 확인하고 진입하는 전략이 더 안전합니다. 🧩</p>
+
+<hr />
+
+<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
+
+<hr />
+
+<p>#종목분석 #이랜텍 #수급분석 #NextTheme #054210 #종가배팅 #배터리주 #이차전지 #주식투자 #코스닥분석</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[2026년 4월 27일 오후 2시 57분, NextTheme AI가 이랜텍(054210)을 심층 분석했습니다.]]></summary></entry><entry><title type="html">YELLOW — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/04/27/0600-briefing/" rel="alternate" type="text/html" title="YELLOW — 오늘 아침 시황" /><published>2026-04-27T06:00:00+09:00</published><updated>2026-04-27T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/04/27/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/04/27/0600-briefing/"><![CDATA[<p>안녕하세요! 오늘도 장 시작 전 꼭 알아야 할 핵심 정보만 쏙쏙 뽑아서 정리했습니다 😊</p>
 
 <p>오늘 새벽 미국 증시에서 반도체 종목들이 크게 올랐습니다. 특히 필라델피아 반도체 지수가 <strong>+4.90%</strong> 급등하면서 한국 반도체 관련 종목들도 아침 시초가에 강세로 시작할 가능성이 높아 보이는데요. 다만 마냥 좋아하기엔 조금 이른 상황입니다. 외국인 큰손들이 최근 계속 팔고 있거든요. 오늘도 이 부분을 꼭 확인하면서 대응해야 합니다.</p>
 
@@ -1277,156 +1424,4 @@ AI 이후 차기 성장 산업으로 우주항공이 크게 주목받고 있습�
 
 <p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
 
-<p>#종가배팅 #수급분석 #NextTheme #주식투자 #전선주 #전력설비 #아모그린텍 #LS마린솔루션 #LSELECTRIC #오늘주식 #테마주</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[오늘 장 마감 직전, AI가 딱 3개 종목을 골라냈습니다. 📊 반도체와 전선·전력 테마가 뜨겁게 달아오른 하루였지만, 막상 들어가기엔 겁이 나셨죠? 그 답을 지금 풀어드립니다.]]></summary></entry><entry><title type="html">YELLOW — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/04/23/0600-briefing/" rel="alternate" type="text/html" title="YELLOW — 오늘 아침 시황" /><published>2026-04-23T06:00:00+09:00</published><updated>2026-04-23T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/04/23/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/04/23/0600-briefing/"><![CDATA[<p>안녕하세요! 오늘 장 시작 전, 어젯밤 미국 시장 결과와 오늘 어떻게 대응하면 좋을지 함께 살펴볼게요 📋</p>
-
-<p>코스피가 사상 처음으로 <strong>6,500선</strong>을 돌파했다는 소식에 설레는 분들도 많겠지만, 오늘은 조금 차분하게 접근해야 할 날입니다. 이유를 지금부터 설명할게요.</p>
-
-<hr />
-
-<h2 id="어젯밤-미국-시장-어떻게-됐나요">어젯밤 미국 시장, 어떻게 됐나요?</h2>
-
-<p>미국 주요 지수 성적표를 먼저 확인해볼게요.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>지수</th>
-      <th>등락</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>다우존스 (대형 전통 기업 중심)</td>
-      <td><strong>+0.69%</strong> 소폭 상승</td>
-    </tr>
-    <tr>
-      <td>S&amp;P500 (미국 대표 500개 기업)</td>
-      <td><strong>+1.64%</strong> 상승</td>
-    </tr>
-    <tr>
-      <td>나스닥 (기술주 중심)</td>
-      <td><strong>-8.40%</strong> 큰 폭 하락 ⚠️</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>핵심은 나스닥입니다. 기술주가 <strong>8% 넘게 급락</strong>한 건 매우 이례적인 수치입니다. 삼성전자, SK하이닉스 같은 반도체 관련주는 이 여파로 아침부터 부담을 받을 수 있어요.</p>
-
-<p>반면 전통 산업 중심인 다우존스는 오히려 올랐습니다. 오늘 한국 시장에서도 반도체·기술 관련보다는 다른 테마 쪽으로 관심이 쏠릴 가능성이 높습니다.</p>
-
-<hr />
-
-<h2 id="오늘-투자-등급은---yellow-주의-구간">오늘 투자 등급은? — 🟡 YELLOW (주의 구간)</h2>
-
-<p>NextTheme 알고리즘이 판단한 오늘 등급은 <strong>YELLOW(노란불)</strong> 입니다.</p>
-
-<blockquote>
-  <p>빨간불(위험)은 아니지만, 마냥 편하게 들어가기도 어려운 구간이에요.</p>
-</blockquote>
-
-<p><strong>감정 점수: 68점 / 100점</strong></p>
-
-<p>60점대는 “살짝 긍정적이지만 조심해야 한다”는 뜻입니다. 아예 포기할 필요는 없고, 조건을 잘 골라서 들어가면 기회가 있습니다.</p>
-
-<hr />
-
-<h2 id="오늘-어떤-종목을-봐야-할까요">오늘 어떤 종목을 봐야 할까요?</h2>
-
-<p>🔋 <strong>원전 · 전력기기 테마가 핵심입니다</strong></p>
-
-<p>어제 한국 경제 성장률이 예상보다 훨씬 높은 <strong>3.6%</strong> 로 발표됐습니다. 이 소식이 원전(원자력발전소)과 전력 관련 주식들을 크게 밀어올렸어요. 두산에너빌리티, 오르비텍, 서전기전 같은 종목들이 <strong>+2~7%</strong> 씩 올랐습니다.</p>
-
-<p>오늘도 이 테마가 중심이 될 가능성이 높습니다. 다만 주의할 점이 있습니다.</p>
-
-<ul>
-  <li><strong>외국인(해외 큰 투자기관)이 어제 5,141억원어치를 순매도(팔았음)</strong> 했습니다</li>
-  <li>이 흐름이 오늘도 이어진다면, 아침에 강하게 시작해도 장 중에 밀릴 수 있어요</li>
-  <li><strong>외국인이 오늘 다시 사기 시작하는지</strong> 확인 후 진입하는 게 안전합니다</li>
-</ul>
-
-<blockquote>
-  <p>💡 쉽게 말하면: “원전·전력 종목은 좋아 보이지만, 큰손들이 아직 팔고 있으니 조금 기다렸다가 확인하고 들어가자”는 전략이에요.</p>
-</blockquote>
-
-<hr />
-
-<h2 id="오늘-주목해야-할-변수는">오늘 주목해야 할 변수는?</h2>
-
-<h3 id="기회-요인">기회 요인</h3>
-
-<ul>
-  <li>SK하이닉스가 1분기에 <strong>영업이익 37조원</strong>이라는 역대 최대 실적을 달성하면서 코스피가 <strong>6,500선</strong>을 사상 처음으로 돌파했습니다</li>
-  <li>한국 경제 성장률 <strong>3.6%</strong> 는 시장 예상을 크게 웃돈 수치라 전반적인 분위기는 좋습니다</li>
-  <li>원전·전선·원자력 관련 종목들은 이미 상당히 오른 상태지만, 테마 자체는 아직 유효합니다</li>
-</ul>
-
-<h3 id="위험-요인">위험 요인</h3>
-
-<ul>
-  <li>미국 나스닥 <strong>-8.40%</strong> 급락 — 반도체·기술주에 찬물을 끼얹을 수 있음</li>
-  <li>코스닥이 어제 <strong>-1.48%</strong> 하락하며 코스피와 완전히 반대 방향으로 움직임 (양극화 심화)</li>
-  <li>개인 투자자들의 차익실현(오른 주식을 파는 것)도 꾸준히 이어지는 중</li>
-  <li>오늘 밤 미국에서 실업수당 청구건수와 제조업 경기지수가 발표되는데, 이 숫자가 나쁘면 기술주가 또 흔들릴 수 있습니다</li>
-</ul>
-
-<hr />
-
-<h2 id="오늘의-투자-전략--이렇게-해보세요">오늘의 투자 전략 — 이렇게 해보세요</h2>
-
-<ol>
-  <li><strong>원전·전력기기 테마</strong> (두산에너빌리티, 오르비텍, 서전기전 등) 중심으로 좁게 선별</li>
-  <li>한 종목에 <strong>전체 투자금의 70% 이하</strong>만 배분 (분산이 기본)</li>
-  <li><strong>외국인이 오늘 사기 시작하는지</strong> 장 초반(9시~10시)에 확인 후 진입 결정</li>
-  <li>반도체·기술주는 오늘 밤 미국 지표 발표 결과가 나온 뒤 내일 다시 판단</li>
-</ol>
-
-<p>⚠️ 외국인 매도가 오늘도 계속된다면 추가 매수는 보류하는 게 낫습니다.</p>
-
-<hr />
-
-<h2 id="오늘-전략-한눈에-보기">오늘 전략 한눈에 보기</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>항목</th>
-      <th>내용</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>오늘 등급</td>
-      <td>🟡 YELLOW — 주의하되 기회는 있다</td>
-    </tr>
-    <tr>
-      <td>핵심 테마</td>
-      <td>원전·전력기기</td>
-    </tr>
-    <tr>
-      <td>주목 종목</td>
-      <td>두산에너빌리티, 오르비텍, 서전기전</td>
-    </tr>
-    <tr>
-      <td>최대 투자 비중</td>
-      <td>70% 이하로 제한</td>
-    </tr>
-    <tr>
-      <td>확인할 신호</td>
-      <td>외국인 순매수 전환 여부</td>
-    </tr>
-    <tr>
-      <td>오늘 저녁 체크</td>
-      <td>미국 실업수당·제조업 경기지수 발표 결과</td>
-    </tr>
-  </tbody>
-</table>
-
-<hr />
-
-<p>오늘 하루 신중하게, 그리고 기회를 놓치지 않는 균형 잡힌 투자 되시길 바랍니다! 💪</p>
-
-<p>매일 아침 이렇게 시황 정리를 함께 하고 싶으시다면 이웃 추가 꼭 눌러주세요.</p>
-
-<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
-
-<p>#종가배팅 #수급분석 #주식투자 #NextTheme #원전주 #전력기기주 #오늘주식 #코스피전망 #아침시황 #주식초보</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[안녕하세요! 오늘 장 시작 전, 어젯밤 미국 시장 결과와 오늘 어떻게 대응하면 좋을지 함께 살펴볼게요 📋]]></summary></entry></feed>
+<p>#종가배팅 #수급분석 #NextTheme #주식투자 #전선주 #전력설비 #아모그린텍 #LS마린솔루션 #LSELECTRIC #오늘주식 #테마주</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[오늘 장 마감 직전, AI가 딱 3개 종목을 골라냈습니다. 📊 반도체와 전선·전력 테마가 뜨겁게 달아오른 하루였지만, 막상 들어가기엔 겁이 나셨죠? 그 답을 지금 풀어드립니다.]]></summary></entry></feed>
