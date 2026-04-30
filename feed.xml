@@ -1,89 +1,84 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-04-30T15:16:40+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">매크로 경고 신호</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/04/30/1513-snapshot/" rel="alternate" type="text/html" title="매크로 경고 신호" /><published>2026-04-30T15:13:00+09:00</published><updated>2026-04-30T15:13:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/04/30/1513-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/04/30/1513-snapshot/"><![CDATA[<h2 id="오늘-시장-한-줄-요약">오늘 시장, 한 줄 요약</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-04-30T16:02:26+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">전량 관망 권장</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/04/30/1513-snapshot/" rel="alternate" type="text/html" title="전량 관망 권장" /><published>2026-04-30T15:13:00+09:00</published><updated>2026-04-30T15:13:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/04/30/1513-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/04/30/1513-snapshot/"><![CDATA[<p>오늘 종가배팅의 메시지는 명확합니다. <strong>신규 진입하지 마세요.</strong> 코스닥이 <strong>2% 이상</strong> 내려앉고 외국인이 하루 <strong>6천억 원대</strong>를 팔아 나가는 상황. NextTheme 알고리즘도 이를 감지해 선별 종목 0개를 반환했습니다.</p>
 
-<p>코스닥 <strong>-2%</strong>, 나스닥 <strong>-0.42%</strong> 하락세 속에서 오늘 밤 <strong>미국 GDP·물가 발표</strong>를 앞두고 있습니다. 확실한 진입 신호가 없어 <strong>전량 관망 권장</strong>하는 날입니다.</p>
+<hr />
 
-<h2 id="매크로-신호-위험-신호-가시화">매크로 신호: 위험 신호 가시화</h2>
+<h2 id="오늘-시장은-왜-이렇게-약할까">오늘 시장은 왜 이렇게 약할까?</h2>
 
-<p>오늘 시장은 <strong>경고 수준의 매크로 리스크</strong>를 기록했습니다.</p>
-
-<ul>
-  <li><strong>코스닥 -2% 이상 낙폭</strong> — 내국인·외국인 동시 매도 신호</li>
-  <li><strong>코스피 약세 지속</strong> — 반도체 호재 (반도체 섹터 주도)도 외인 매도 압박에 밀림</li>
-  <li><strong>FOMC 대기 중</strong> — 오늘 밤 주요 경제 지표 발표로 변동성 확대 예상</li>
-</ul>
-
-<p>이런 시점에 무리한 진입은 <strong>급락 위험</strong>에 노출됩니다.</p>
-
-<h2 id="섹터-약세-속-반도체-유일-강세">섹터 약세 속 반도체 유일 강세</h2>
-
-<p>오늘 강한 섹터는 <strong>반도체</strong>입니다. 반도체 실적 호재가 6일째 이어지고 있으나, 이는 <strong>차익 매물이 급속 압박되는 국면</strong>입니다.</p>
+<p><strong>코스닥 -2% 급락 + 외국인 대량 매도</strong></p>
 
 <ul>
-  <li><strong>전선·전력설비</strong>: 등락률 기준 지속 강세 (회사채 투자 심화)</li>
-  <li><strong>반도체</strong>: 호재 6일차 → 차익 실현 본격화 시작</li>
-  <li><strong>전체 시장</strong>: 외인 순매도 혼재 + 글로벌 리스크 회피 심화</li>
+  <li>외국인이 하루 <strong>6천억 원 이상</strong>을 순매도 중입니다. 평시보다 훨씬 큰 규모죠.</li>
+  <li>코스닥이 전일 대비 <strong>-2% 이상</strong> 하락했습니다. 시장 전체가 흔들리고 있다는 뜻입니다.</li>
+  <li>반도체와 AI 호재 뉴스가 있지만, 외국인 매도 압박에 덮여 있습니다.</li>
 </ul>
 
-<h2 id="현재-ai-선별-결과-추천-종목-없음">현재 AI 선별 결과: 추천 종목 없음</h2>
+<p><strong>경고 신호: 밤 10시 이후 미국 경제 발표 대기</strong></p>
 
-<p>NextTheme 알고리즘은 오늘 <strong>정량 필터링 통과 종목이 없습니다</strong>. 이는:</p>
+<p>오늘 밤 9개 주요 경제지표가 나옵니다. 그중 가장 중요한 건 10시 이후 발표되는 <strong>미국 GDP와 물가지표</strong>입니다.</p>
+<ul>
+  <li>미국 경제 지표가 예상을 벗어나면 외국인 매도가 더 심해질 수 있습니다.</li>
+  <li>반대로 약한 신호가 나오면 반등 기회가 올 수도 있습니다.</li>
+</ul>
 
-<p>✅ <strong>수급 교차 신호 부재</strong> — 기관·외국인 동시 순매수 신호 없음<br />
-✅ <strong>테마 집중도 기준 미달</strong> — 주도할 테마 부재<br />
-✅ <strong>기술적 신호 약화</strong> — 추세 하락전환 상황에서 눌림목·거래량 신호 미달</p>
+<p><strong>전반적 추세: 하락전환 + 강한 하락세</strong></p>
 
-<h2 id="추세-분석-하락-전환--강력한-약세">추세 분석: 하락 전환 + 강력한 약세</h2>
+<p>현재는 하락세가 강하게 진행 중입니다. 회복 신호가 나타날 때까지는 <strong>“기다림”</strong>이 답입니다.</p>
 
-<table>
-  <thead>
-    <tr>
-      <th>단계</th>
-      <th>현황</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>단기 추세(일봉)</strong></td>
-      <td>하락전환</td>
-    </tr>
-    <tr>
-      <td><strong>강도</strong></td>
-      <td><strong>Strong</strong> — 낙폭 큼</td>
-    </tr>
-    <tr>
-      <td><strong>배팅 적합도</strong></td>
-      <td><strong>LOW</strong> — 진입 신호 불충분</td>
-    </tr>
-    <tr>
-      <td><strong>전체 등급</strong></td>
-      <td><strong>RED</strong></td>
-    </tr>
-  </tbody>
-</table>
+<hr />
 
-<h2 id="당신이-알아야-할-것">당신이 알아야 할 것</h2>
+<h2 id="nexttheme는-오늘-왜-선별-종목-0개를-제시했을까">NextTheme는 오늘 왜 선별 종목 0개를 제시했을까?</h2>
 
-<p><strong>“오늘은 관망이 답입니다”</strong></p>
+<p>종가배팅 AI 알고리즘 NextTheme는 매일 <strong>3가지 기준</strong>으로 종목을 선별합니다:</p>
+
+<ol>
+  <li><strong>기관과 외국인의 매매 방향이 같은가?</strong> → 오늘 외국인이 매도 중</li>
+  <li><strong>시장의 심리가 안정적인가?</strong> → 코스닥 -2%, 불안정</li>
+  <li><strong>기술적 신호가 강한가?</strong> → 거래대금과 추세가 약함</li>
+</ol>
+
+<p>오늘은 세 가지 모두 부정적입니다. <strong>확실한 진입 신호가 없으므로, 무리하게 종목을 고르는 것보다 관망하는 게 맞습니다.</strong></p>
+
+<p>이런 상황이 자주 있나요? 아니면 드문가요?</p>
 
 <ul>
-  <li>이 추세에서 무리한 진입은 손실 확정이 될 수 있습니다</li>
-  <li>오늘 밤 <strong>미국 GDP·물가 발표</strong> 이후 반전 가능성도 있으나, 지금은 신호 대기 시점</li>
-  <li><strong>FOMC 비둘기파 결과</strong>가 나오면 급반등할 수 있으므로, 준비만 해두고 기다리세요</li>
+  <li><strong>드물지만 존재합니다.</strong> 보통 미국 경제지표 발표 전날이나 정책 결정 직전에 나타납니다.</li>
+  <li>이런 날들은 무승부인 경우가 많습니다. 진입했던 것도 손절할 필요는 없지만, 신규 매수는 피하는 게 안전합니다.</li>
 </ul>
 
-<h2 id="우리의-권장사항">우리의 권장사항</h2>
+<hr />
 
-<p>✋ <strong>매수 없음</strong> — 전량 현금 보유 권장<br />
-👀 <strong>관망 모드</strong> — 신호 발생 시까지 대기<br />
-🔔 <strong>변수 주시</strong> — 오늘 밤 FOMC 발표 후 재평가</p>
+<h2 id="오늘-밤-준비할-것은">오늘 밤, 준비할 것은?</h2>
 
-<h2 id="마무리">마무리</h2>
+<p><strong>22:00~23:00 미국 경제지표 확인 후 내일 대응 준비</strong></p>
 
-<p>오늘은 “<strong>없다</strong>“는 신호가 가장 강한 신호입니다. 무리하지 마시고, 내일을 준비하세요.</p>
+<ul>
+  <li>GDP 예상치보다 약하면? → 내일 강한 반등 가능성 (외국인이 다시 사러 올 수 있음)</li>
+  <li>물가가 예상치보다 높으면? → 내일도 약세 지속 (외국인이 계속 팔 수 있음)</li>
+</ul>
 
-<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
+<p><strong>오늘 보유 중인 종목이 있다면?</strong></p>
 
-<p>#종가배팅 #수급분석 #주식투자 #경고신호 #매크로분석 #FOMC #관망</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[오늘 시장, 한 줄 요약]]></summary></entry><entry><title type="html">황색 경보 — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/04/30/0600-briefing/" rel="alternate" type="text/html" title="황색 경보 — 오늘 아침 시황" /><published>2026-04-30T06:00:00+09:00</published><updated>2026-04-30T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/04/30/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/04/30/0600-briefing/"><![CDATA[<p>📊 <strong>오늘의 베팅 등급: 황색(YELLOW) — 신중한 선택이 필요한 날</strong></p>
+<ul>
+  <li>지급 신호가 명확하지 않으면 <strong>보유만 유지</strong>하세요.</li>
+  <li>손절매는 금물입니다. 오늘은 시장 전체가 약하기 때문에 개별 종목 판단이 어렵습니다.</li>
+  <li>내일 아침 시장 상황을 본 후 판단해도 늦지 않습니다.</li>
+</ul>
+
+<hr />
+
+<h2 id="마치며">마치며</h2>
+
+<p><strong>“확실하지 않으면 진입하지 마라”</strong> — 이것이 오늘 NextTheme의 메시지입니다.</p>
+
+<p>외국인 대량 매도와 코스닥 약세는 시장이 혼란스럽다는 신호예요. 이런 때는 무리하게 수익을 취하려다가 손실로 바뀌기 쉽습니다.</p>
+
+<p>차라리 한 발 물러나서 <strong>밤 10시 이후 미국 경제지표를 확인한 후 내일 아침 시장 방향을 파악하고 진입</strong>하는 게 현명합니다.</p>
+
+<p>내일 아침 다시 만나요. NextTheme와 함께라면 시장이 주는 신호를 놓치지 않을 거예요.</p>
+
+<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요.</p>
+
+<p>#종가배팅 #수급분석 #주식투자 #종목선별 #오늘의종목 #NextTheme #시장분석</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[오늘 종가배팅의 메시지는 명확합니다. 신규 진입하지 마세요. 코스닥이 2% 이상 내려앉고 외국인이 하루 6천억 원대를 팔아 나가는 상황. NextTheme 알고리즘도 이를 감지해 선별 종목 0개를 반환했습니다.]]></summary></entry><entry><title type="html">황색 경보 — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/04/30/0600-briefing/" rel="alternate" type="text/html" title="황색 경보 — 오늘 아침 시황" /><published>2026-04-30T06:00:00+09:00</published><updated>2026-04-30T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/04/30/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/04/30/0600-briefing/"><![CDATA[<p>📊 <strong>오늘의 베팅 등급: 황색(YELLOW) — 신중한 선택이 필요한 날</strong></p>
 
 <p>어제 미국 시장은 엇갈린 신호를 보냈습니다. 빅테크 실적이 들쑥날쑥했고, 트럼프의 이란 봉쇄 재확인으로 유가는 107달러까지 뛰어올랐어요. 다우지수는 -0.57%, S&amp;P500은 -0.04% 하락했지만 나스닥은 +0.04% 오른 거죠. <strong>말하자면 방향 잡기가 어려운 상황입니다.</strong></p>
 
