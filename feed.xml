@@ -1,4 +1,51 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-05-04T15:16:52+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 사상 최고가 달성</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/04/1513-snapshot/" rel="alternate" type="text/html" title="코스피 사상 최고가 달성" /><published>2026-05-04T15:13:00+09:00</published><updated>2026-05-04T15:13:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/04/1513-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/04/1513-snapshot/"><![CDATA[<p>오늘 코스피가 사상 최고가를 경신했습니다! 📈 좋은 뉴스처럼 들리지만, 저희 AI 분석 결과는 “지금 매수 기회 없음”입니다. 왜 그럴까요?</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-05-05T06:03:31+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">RED — 미국 약세 + 중동 긴장, 신중한 진입 필요</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/05/0600-briefing/" rel="alternate" type="text/html" title="RED — 미국 약세 + 중동 긴장, 신중한 진입 필요" /><published>2026-05-05T06:00:00+09:00</published><updated>2026-05-05T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/05/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/05/0600-briefing/"><![CDATA[<h2 id="오전-시장-분위기">오전 시장 분위기</h2>
+
+<p>미국 3대 지수가 모두 약세로 마감했습니다. 다우지수 <strong>-1.13%</strong>, S&amp;P500 <strong>-0.41%</strong>, 나스닥 <strong>-0.19%</strong> 낙폭을 기록했어요. 국내 시장은 어제 코스피가 <strong>5.12% 급등</strong>한 후라 조정 리스크가 있는 상황입니다. 더군다나 중동 호르무즈 해협 긴장 고조로 국제유가가 크게 올랐습니다(WTI <strong>+2.91%</strong>). 앞으로 어떤 하루가 될까요? 함께 짚어봅시다.</p>
+
+<h2 id="미국-시장은-왜-약할까">미국 시장은 왜 약할까?</h2>
+
+<p>어제 미국 3대 지수가 함께 약세를 보인 이유는 두 가지입니다.</p>
+
+<p>첫째, <strong>지정학적 불안</strong>입니다. 미국과 이란 사이 호르무즈 해협의 긴장이 다시 고조되고 있어요. 이는 국제유가 상승으로 이어졌고, 해운·항공 같은 수송 관련 주식들이 타격을 입었습니다. 다우운송지수가 <strong>-4.82%</strong> 낙폭한 게 그 증거죠. 우리 국내에서도 한국 선박이 피격될 수 있다는 우려가 생기고 있습니다.</p>
+
+<p>둘째, <strong>경제지표 대기 중</strong>입니다. 오늘 저녁 21:00~23:00 사이에 미국 서비스산업 PMI, 신규주택판매, 구직·채용 동향(JOLTS), ISM 구매자지수 등 중요 지표들이 한꺼번에 발표됩니다. 시장이 이 결과를 기다리면서 신규 진입을 꺼리고 있어요.</p>
+
+<h2 id="국내는-반도체-강세-하지만-불안정">국내는 반도체 강세, 하지만 불안정</h2>
+
+<p>국내 시장에는 <strong>밝은 소식</strong>도 있습니다. 어제 반도체 외국인이 <strong>34,855억원</strong>을 순매수했어요. 삼성전자와 SK하이닉스가 신고가와 시총 신기록을 기록했습니다. 여전히 반도체에 대한 수요는 강하다는 신호입니다.</p>
+
+<p><strong>하지만 주의</strong>할 점이 있습니다.</p>
+<ul>
+  <li>일부 증권사들이 삼성전자, SK하이닉스의 투자의견을 하향 조정하고 있어요</li>
+  <li>미국 시장 약세가 이 강세를 상쇄할 수 있습니다</li>
+  <li>환율(USD/KRW)이 <strong>1,476.5</strong>에서 약세 국면을 보이고 있습니다</li>
+</ul>
+
+<h2 id="오늘의-베팅-등급-red--신중하게-접근하세요">오늘의 베팅 등급: RED — 신중하게 접근하세요</h2>
+
+<p>오늘의 투자 등급은 <strong>RED(빨간불)</strong>입니다. 이는 뭔가 하나 부족한 상황을 의미합니다.</p>
+
+<p>어제 <strong>5% 이상 급등</strong>한 직후라 조정이 나올 가능성이 높습니다. 특히 미국의 중요 경제지표 발표가 오늘 저녁에 예정돼 있어 현재는 기다리는 쪽이 현명합니다. 중동 긴장 상황도 불확실성을 높이고 있어요.</p>
+
+<h2 id="오늘-투자-전략-이렇게-하세요">오늘 투자 전략: 이렇게 하세요</h2>
+
+<p><strong>신규 진입</strong>을 고려하신다면 아래를 꼭 기억하세요.</p>
+
+<ol>
+  <li><strong>진입 수위 제한</strong> — 여유 자금이 있어도 평소의 <strong>30% 이하 규모</strong>로만 진입</li>
+  <li><strong>기존 보유 종목</strong> — 익절 기회가 있다면 분할 매도 검토</li>
+  <li><strong>경제지표 대기</strong> — 오후 21:00 이후 지표 발표를 보고 재진입 판단</li>
+</ol>
+
+<p>미국 경제지표와 중동 상황은 실시간으로 모니터링이 필수입니다. 급변할 수 있는 하루이니까요.</p>
+
+<h2 id="마무리">마무리</h2>
+
+<p>어제의 강한 상승에 무리해서 따라가면 손실이 날 수 있습니다. 투자는 언제 사는지보다 <strong>언제 사지 않을지</strong> 아는 게 중요해요. 오늘은 신중함이 정답입니다.</p>
+
+<p>💬 댓글로 오늘 시장에 대한 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
+
+<p>#종가배팅 #수급분석 #주식투자 #시황분석 #경제지표 #반도체주 #중동긴장</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[오전 시장 분위기]]></summary></entry><entry><title type="html">코스피 사상 최고가 달성</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/04/1513-snapshot/" rel="alternate" type="text/html" title="코스피 사상 최고가 달성" /><published>2026-05-04T15:13:00+09:00</published><updated>2026-05-04T15:13:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/04/1513-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/04/1513-snapshot/"><![CDATA[<p>오늘 코스피가 사상 최고가를 경신했습니다! 📈 좋은 뉴스처럼 들리지만, 저희 AI 분석 결과는 “지금 매수 기회 없음”입니다. 왜 그럴까요?</p>
 
 <h2 id="시장-상황-한눈에-보기">시장 상황 한눈에 보기</h2>
 
@@ -1052,119 +1099,4 @@
 
 <p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요.</p>
 
-<p>#종목분석 #상아프론테크 #수급분석 #NextTheme #089980 #전환사채 #실적개선 #차입금관리</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[오늘의 종목, 한 줄 평가]]></summary></entry><entry><title type="html">SK케미칼(285130)을 심층 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/02/1939-detail-285130-detail/" rel="alternate" type="text/html" title="SK케미칼(285130)을 심층 분석" /><published>2026-05-02T19:39:00+09:00</published><updated>2026-05-02T19:39:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/02/1939_detail_285130-detail</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/02/1939-detail-285130-detail/"><![CDATA[<p>2026년 5월 2일 저녁, NextTheme AI가 <strong>SK케미칼(285130)</strong>을 집중 분석했습니다.</p>
-
-<p>SK케미칼은 친환경 소재와 고부가 화학 제품을 주력으로 하는 국내 대표 그린 케미칼 기업입니다. 최근 국제유가 상승 이슈와 중국 시장 공략 소식이 겹치면서 시장의 관심이 쏠리고 있는 종목인데요 — 오늘 하루 움직임은 다소 복잡한 그림을 보여주고 있습니다. 지금 사야 할까, 기다려야 할까? 함께 따져봅시다.</p>
-
-<hr />
-
-<h2 id="오늘-가격과-큰손들의-움직임은">오늘 가격과 큰손들의 움직임은?</h2>
-
-<ul>
-  <li><strong>현재가: 59,400원</strong> (전일 대비 <strong>-4.81%</strong> 하락)</li>
-  <li>오늘 외국인(해외 대형 기관): <strong>36,300주 순매도</strong> → 팔고 나간 모습</li>
-  <li>오늘 기관(국내 큰 투자기관): <strong>3,250주 순매수</strong> → 하락 속에서도 꾸준히 담는 중</li>
-</ul>
-
-<p>특히 눈여겨볼 점은 <strong>기관이 2일 연속 순매수</strong> 중이라는 사실입니다. 주가가 내리는 날에도 기관이 계속 사들인다는 건 중기적으로 긍정적인 신호일 수 있어요.</p>
-
-<p>📊 <strong>최근 수급 변화 흐름</strong></p>
-
-<table>
-  <thead>
-    <tr>
-      <th>날짜</th>
-      <th style="text-align: center">외국인</th>
-      <th style="text-align: center">기관</th>
-      <th style="text-align: center">개인</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>4/28</td>
-      <td style="text-align: center">+13,488</td>
-      <td style="text-align: center">-20,276</td>
-      <td style="text-align: center">+6,783</td>
-    </tr>
-    <tr>
-      <td>4/29</td>
-      <td style="text-align: center"><strong>+14,825</strong></td>
-      <td style="text-align: center"><strong>+6,356</strong></td>
-      <td style="text-align: center">-20,590</td>
-    </tr>
-    <tr>
-      <td>4/30</td>
-      <td style="text-align: center"><strong>-36,300</strong></td>
-      <td style="text-align: center">+3,250</td>
-      <td style="text-align: center">+31,519</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>4월 29일에는 외국인과 기관이 동시에 순매수하는 좋은 그림이 나왔지만, 4월 30일(오늘)은 외국인이 대규모로 이탈하면서 주가를 끌어내렸습니다. 개인 투자자들은 저가에 받아내는 모습이고요.</p>
-
-<hr />
-
-<h2 id="차트로-보는-현재-위치--방향이-엇갈리고-있어요">차트로 보는 현재 위치 — 방향이 엇갈리고 있어요</h2>
-
-<ul>
-  <li><strong>단기(일봉) 흐름: 상승 흐름</strong> 📈</li>
-  <li><strong>중기(주봉) 흐름: 하락 흐름</strong> 📉</li>
-  <li><strong>장기(월봉) 흐름: 상승 흐름</strong> 📈</li>
-</ul>
-
-<p>단기와 장기는 위를 보는데 중기가 하락인 상황입니다. 이걸 전문 용어로 “다이버전스(방향 불일치)”라고 하는데요, 쉽게 말하면 <strong>큰 그림은 좋은데 지금 당장은 불안정한 구간</strong>이라는 뜻입니다. 방향이 하나로 정렬되기 전까지는 추격 매수보다 기다리는 전략이 유리합니다.</p>
-
-<p>오늘 -4.81% 하락도 이 주봉 약세 흐름과 맞닿아 있는 움직임입니다.</p>
-
-<hr />
-
-<h2 id="뉴스-분석--호재지만-일시적-변수도-있어요">뉴스 분석 — 호재지만 일시적 변수도 있어요</h2>
-
-<p><strong>뉴스 신호: 호재 / 촉매 유형: 테마 편승</strong></p>
-
-<p>최근 SK케미칼 주변에 긍정적인 소식이 이어지고 있습니다.</p>
-
-<p>✅ <strong>호르무즈 해협 봉쇄 우려 → 국제유가 급등 → 화학 업종 수혜</strong>
-중동 긴장으로 국제 유가가 오르면 화학 기업들의 제품 가격과 이익에 긍정적인 영향을 줍니다. SK케미칼이 이 흐름에 올라탄 것이죠.</p>
-
-<p>✅ <strong>차이나플라스 2026 — 역대 최대 규모 참가</strong>
-세계 최대 플라스틱 전시회에 역대 최대 품목을 들고 나갔습니다. 고부가 친환경 소재로 중국 고급 시장 공략을 강화한다는 전략입니다.</p>
-
-<p>✅ <strong>신임 경영진 체제 — 기업가치 제고 계획 발표</strong>
-3월 말 대표이사 교체 이후 구조 개선과 기업가치 제고 계획이 나오면서 체질 변화에 대한 기대감도 있습니다.</p>
-
-<p>⚠️ <strong>주의해야 할 리스크</strong></p>
-<ul>
-  <li>유가 급등은 지정학적 변수로 언제든 <strong>일시적으로 끝날 수 있음</strong></li>
-  <li>중국 경기 둔화 리스크는 여전히 남아 있음</li>
-  <li>3월 공매도 과열 지정 이후 변동성이 높아진 상태</li>
-</ul>
-
-<hr />
-
-<h2 id="ai-종합-등급--결론--지금-이-종목-어떻게-볼까">AI 종합 등급 &amp; 결론 — 지금 이 종목 어떻게 볼까?</h2>
-
-<p><strong>NextTheme AI 등급: ⭐⭐ (TWO_STAR)</strong></p>
-
-<p><strong>투자 분위기: 맑음☀️</strong></p>
-
-<blockquote>
-  <p>“기관이 2일 연속 순매수하고 일봉 흐름도 상승이지만, 외국인이 빠져나가고 주봉은 약세입니다. 지금 당장 진입보다는 <strong>기관 순매수가 3일 연속으로 이어지는 시점</strong>을 확인한 뒤 소량 진입 검토를 권장합니다.”</p>
-</blockquote>
-
-<p><strong>💡 한 줄 조언</strong>: 신임 경영진 성과가 실적으로 연결되고, 중국 시장 공략이 가시화될 때 재평가 기회가 열립니다. 그 전까지는 <strong>수급이 한 방향으로 정렬되는 신호를 기다리는 것</strong>이 현명합니다.</p>
-
-<hr />
-
-<h2 id="마치며">마치며</h2>
-
-<p>SK케미칼은 지금 단기 호재(유가 상승·전시 참가)와 중기 불확실성(주봉 하락·외국인 이탈)이 공존하는 종목입니다. 조급하게 쫓아가기보다 <strong>기관 3일 연속 순매수 + 외국인 복귀</strong> 신호가 겹치는 순간을 노리는 전략이 리스크를 낮춰줍니다.</p>
-
-<p>NextTheme은 매일 이런 수급 흐름을 분석해 종가배팅 종목을 선별하고 있습니다. 궁금한 점은 댓글로 남겨주세요!</p>
-
-<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
-
-<hr />
-
-<p>#종목분석 #SK케미칼 #수급분석 #NextTheme #285130 #종가배팅 #화학주 #주식투자 #기관수급 #오늘의주식</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[2026년 5월 2일 저녁, NextTheme AI가 SK케미칼(285130)을 집중 분석했습니다.]]></summary></entry></feed>
+<p>#종목분석 #상아프론테크 #수급분석 #NextTheme #089980 #전환사채 #실적개선 #차입금관리</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[오늘의 종목, 한 줄 평가]]></summary></entry></feed>
