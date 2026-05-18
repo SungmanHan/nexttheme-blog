@@ -1,4 +1,78 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-05-18T07:04:44+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">RED — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/18/0600-briefing/" rel="alternate" type="text/html" title="RED — 오늘 아침 시황" /><published>2026-05-18T06:00:00+09:00</published><updated>2026-05-18T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/18/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/18/0600-briefing/"><![CDATA[<p>월요일 아침, 미국과 한국 시장이 동시에 강하게 내려앉은 거 보셨나요? 이런 날일수록 침착함이 중요합니다. 어제 밤 어떤 일이 있었는지, 오늘은 어떻게 대응해야 할지 함께 살펴보겠습니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-05-18T15:05:08+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">무포지션 결정</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/18/nt2-1501-other/" rel="alternate" type="text/html" title="무포지션 결정" /><published>2026-05-18T09:00:00+09:00</published><updated>2026-05-18T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/18/nt2_1501-other</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/18/nt2-1501-other/"><![CDATA[<h2 id="오늘-시장-한-줄로-말하면">오늘 시장, 한 줄로 말하면?</h2>
+
+<p>코스닥이 <strong>-1.78%</strong> 하락했고, 미국 3대 지수도 모두 내려갔습니다. 이런 날씨에 무리하게 종목을 사는 것보다, 차분히 기다리는 것이 투자자의 실력입니다.</p>
+
+<h2 id="매크로-신호-경고가-2개입니다">매크로 신호: 경고가 2개입니다</h2>
+
+<p>오늘 NextTheme 알고리즘이 감지한 위험 신호는 2가지:</p>
+
+<ol>
+  <li><strong>코스닥 낙폭이 심각함</strong> — 기술주 중심 시장이 약세를 보이면서 중소형주까지 빠짐</li>
+  <li><strong>미국 3대 지수 동반 하락</strong> — 야간 미국 증시에서 나스닥·S&amp;P500·다우지수가 모두 떨어진 상태</li>
+</ol>
+
+<p>이 두 가지 신호가 겹치면 betting_grade는 <strong>RED</strong>(빨간불)로 돌아갑니다. 즉, “무포지션을 권장하는 상황”이라는 뜻입니다.</p>
+
+<h2 id="후보-종목-4개를-살펴봤습니다">후보 종목 4개를 살펴봤습니다</h2>
+
+<h3 id="반도체-대장주들의-문제점-">반도체 대장주들의 문제점 🔴</h3>
+
+<p>삼성전자, SK하이닉스 같은 반도체 업계 최고 기업들이 후보에 올랐습니다. 하지만 두 종목 모두:</p>
+
+<ul>
+  <li><strong>15분봉 60선을 이탈했습니다</strong> — 단기 상승 추세가 끊긴 신호</li>
+  <li><strong>14시 이후 외국인 투자자들이 대규모로 빠져나갔습니다</strong> — 기관 투자자의 이탈도 함께</li>
+</ul>
+
+<p>이것은 “내일 아침 시초가에서 갭(gap)이 올라갈 가능성”이 매우 낮다는 뜻입니다. 여러분이 오늘 밤 “내일 사야 하나?” 고민할 이유가 없다는 겁니다.</p>
+
+<h3 id="태양광폴리실리콘-테마의-한계-️">태양광·폴리실리콘 테마의 한계 ⚠️</h3>
+
+<p>한화솔루션과 OCI홀딩스는 태양광·폴리실리콘 섹터의 주요 종목입니다. 하지만:</p>
+
+<ul>
+  <li><strong>테마 지속성이 약합니다</strong> — 오늘 뜬 이유가 명확하지만, 내일도 계속 주목받을 근거가 약함</li>
+  <li><strong>후발 확산이 안 보입니다</strong> — 대장주가 올라도 나머지 종목들이 따라 올라갈 에너지가 부족함</li>
+</ul>
+
+<p>투자의 기본은 “왜 사는가?”를 명확히 설명할 수 있어야 합니다. 이 두 종목은 내일 시초가까지 그 명분을 유지하기 어려워 보입니다.</p>
+
+<h2 id="nexttheme-알고리즘이-신중한-이유">NextTheme 알고리즘이 신중한 이유</h2>
+
+<p>오늘의 핫한 뉴스는 반도체, 스페이스X, 데이터센터였습니다. 하지만 우리가 검토한 4개 후보 종목과는 부분적으로만 맞아떨어집니다.</p>
+
+<p><strong>알고리즘의 철학</strong>: “뉴스가 있다고 다 사는 게 아닙니다. 내일 아침 투자자들이 시초가에서 ‘어제 못 산 게 아깝다’고 느낄 강력한 신호가 있을 때만 추천합니다.”</p>
+
+<p>오늘은 그 신호가 <strong>명확하지 않습니다.</strong></p>
+
+<h2 id="혹시-반등할-가능성은">혹시 반등할 가능성은?</h2>
+
+<p>네, 가능성은 있습니다.</p>
+
+<p>만약 미국 야간 시장에서 반도체 업종이 크게 반등한다면, 내일 아침 한국 시장의 반도체 대장주들도 갭업할 수 있습니다. 하지만 지금 현재(15:01 기준):</p>
+
+<ul>
+  <li>15분봉 60선 이탈 ✗</li>
+  <li>14시 이후 외인 이탈 신호 ✗</li>
+</ul>
+
+<p>이 두 신호가 명확한 상태에서는, 야간 반등의 가능성보다 <strong>안전성을 우선하는 것이 현명합니다.</strong></p>
+
+<h2 id="오늘의-결론-무포지션-추천">오늘의 결론: 무포지션 추천</h2>
+
+<p>투자에서 가장 어려운 결정은 “사는 것”이 아니라 <strong>“안 사는 것”</strong> 입니다.</p>
+
+<p>“내일 아침 시초가에서 사고 싶은 종목”이 명확하지 않은 날씨에는, 차분히 현금을 들고 있다가 명확한 신호가 나타날 때까지 기다리는 것이 최고의 전략입니다.</p>
+
+<p><strong>기억하세요: “살까 말까 고민될 땐 사지 마세요. 기다림은 실력입니다.”</strong></p>
+
+<p>내일 아침 시장이 어떻게 열릴지, 그때 NextTheme이 어떤 신호를 보낼지 함께 지켜봅시다. 여러분의 투자, 응원합니다!</p>
+
+<hr />
+
+<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
+
+<p>#종가배팅 #수급분석 #주식투자 #무포지션 #NextTheme #종목선별 #주식분석 #시장분석</p>]]></content><author><name>NextTheme</name></author><category term="other" /><summary type="html"><![CDATA[오늘 시장, 한 줄로 말하면?]]></summary></entry><entry><title type="html">RED — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/18/0600-briefing/" rel="alternate" type="text/html" title="RED — 오늘 아침 시황" /><published>2026-05-18T06:00:00+09:00</published><updated>2026-05-18T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/18/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/18/0600-briefing/"><![CDATA[<p>월요일 아침, 미국과 한국 시장이 동시에 강하게 내려앉은 거 보셨나요? 이런 날일수록 침착함이 중요합니다. 어제 밤 어떤 일이 있었는지, 오늘은 어떻게 대응해야 할지 함께 살펴보겠습니다.</p>
 
 <h2 id="미국-시장에서-보내온-신호">미국 시장에서 보내온 신호</h2>
 
@@ -1007,107 +1081,4 @@ WTI가 <strong>101달러 이상</strong>을 유지하면 국내 에너지주들�
 
 <hr />
 
-<p>#종목분석 #현대차 #수급분석 #NextTheme #005380 #자율주행 #로봇테마 #주식투자 #기관동향 #투자전략</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[오늘의 현대차는 어떤 상태일까요?]]></summary></entry><entry><title type="html">RED — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/13/0600-briefing/" rel="alternate" type="text/html" title="RED — 오늘 아침 시황" /><published>2026-05-13T06:00:00+09:00</published><updated>2026-05-13T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/13/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/13/0600-briefing/"><![CDATA[<p>📉 오늘은 조심스러운 날입니다. 미국과 한국 증시가 동반 약세를 보일 것으로 예상됩니다. 어제 미국 밤새 나쁜 신호들이 들어왔거든요.</p>
-
-<h2 id="미국-밤새-무슨-일이-있었을까요">미국 밤새 무슨 일이 있었을까요?</h2>
-
-<p>어제 미국 주식시장은 약한 모습을 보였습니다. 다우지수는 조금 올랐지만 <strong>+0.11%</strong> 정도, S&amp;P500은 내렸고 <strong>-0.16%</strong>, 특히 기술주 중심의 나스닥은 <strong>-0.71%</strong> 내려앉았어요.</p>
-
-<p>왜 이렇게 됐을까요? 세 가지 이유가 있습니다:</p>
-
-<ol>
-  <li>
-    <p><strong>인플레이션 공포</strong> — 미국의 물가(CPI)가 <strong>3년 만에 최고점</strong>에 도달했습니다. 이건 연방준비제도(미국 중앙은행)가 금리를 더 올릴 수 있다는 신호인데, 투자자들이 불안해하고 있어요.</p>
-  </li>
-  <li>
-    <p><strong>반도체 동반 약세</strong> — 필라델피아 반도체 지수(미국 반도체 회사들을 대표하는 지수)가 <strong>-3%</strong> 떨어졌습니다. 차익을 챙기려는 매도세가 나온 거예요.</p>
-  </li>
-  <li>
-    <p><strong>외국인 대량 탈출</strong> — 한국 증시에만 <strong>14.5조원(어마어마한 규모!)</strong> 어치를 팔아치우는 외국인 투자자들이 나타났습니다. 이건 <strong>역대급 수준</strong>입니다.</p>
-  </li>
-</ol>
-
-<h2 id="한국-증시는-어떻게-될까">한국 증시는 어떻게 될까?</h2>
-
-<p>미국의 약세가 그대로 한국으로 옮겨올 겁니다:</p>
-
-<ul>
-  <li><strong>코스피(종합주가지수)</strong>: <strong>-2% 이상</strong> 내려갈 것 같습니다</li>
-  <li><strong>코스닥(벤처·중소 회사들의 지수)</strong>: 마찬가지로 <strong>-2% 이상</strong> 떨어질 것 같아요</li>
-</ul>
-
-<p>외국인들이 돈을 빼가고, 반도체 회사들(삼성·SK하이닉스 등)이 팔려나가니까요.</p>
-
-<h2 id="그럼-우리는-뭘-해야-할까">그럼 우리는 뭘 해야 할까?</h2>
-
-<p>오늘 NextTheme AI 알고리즘의 판단은 <strong>“매수 절제”</strong>입니다:</p>
-
-<h3 id="1️⃣-일단-진정해-보세요">1️⃣ 일단 진정해 보세요</h3>
-<ul>
-  <li>오늘은 <strong>새로운 종목을 매수할 때가 아닙니다</strong>.</li>
-  <li>꼭 사야 한다면, <strong>30% 이하의 아주 작은 규모</strong>로만 진입하세요.</li>
-  <li>나머지는 관망해도 됩니다.</li>
-</ul>
-
-<h3 id="2️⃣-조건부-선별-진입">2️⃣ 조건부 선별 진입</h3>
-<p>약세 속에서도 <strong>2~4% 오르는 종목들</strong>이 있습니다. 어떤 걸까요?</p>
-
-<p><strong>바이오 회사들</strong> — 약과 의료 관련 회사들
-<strong>통신 회사들</strong> — KT, SKT 같은 대형 통신사
-<strong>백신 회사들</strong> — 의료 관련 성장주</p>
-
-<p>이런 <strong>방어 종목들(경기가 안 좋아도 꾸준히 잘 팔리는 종목들)</strong>이 오늘은 반대로 오를 신호를 보이고 있습니다. AI가 이런 종목들만 조심스럽게 선별해서 추천할 수 있어요.</p>
-
-<h3 id="3️⃣-단타-기회-대기">3️⃣ 단타 기회 대기</h3>
-<p>외국인들이 대량으로 빠져나가고 있으니, 분명히 <strong>좋은 가격에 사 들일 기회</strong>가 생길 거예요. 그 순간을 노리세요:</p>
-
-<ul>
-  <li>오전 중 <strong>최악의 낙폭을 보이는 종목들</strong> 주시하기</li>
-  <li>오후 들어서 <strong>반등 신호</strong>가 보이면 진입 검토하기</li>
-  <li>하지만 <strong>고점 근처에서 외국인이 팔고 있다</strong>는 신호가 계속 나오면 더 조심하기</li>
-</ul>
-
-<h2 id="-오늘의-핵심-메시지">💡 오늘의 핵심 메시지</h2>
-
-<blockquote>
-  <p><strong>“멀리서 지켜보다가 좋은 기회가 나올 때 들어간다”</strong></p>
-</blockquote>
-
-<p>아무리 좋은 종목이라도 오늘처럼 약한 날씨의 시장에서는 기다리는 게 정답입니다. 하지만 방어주나 단타 기회는 놓치지 마세요.</p>
-
-<p>외국인의 대량 탈출은 <strong>피해야 할 신호</strong>이면서 동시에 <strong>기회의 신호</strong>이기도 합니다. AI의 판단을 믿고 상황에 맞는 진입을 해보세요.</p>
-
-<hr />
-
-<h2 id="-오늘의-전략-정리">🎯 오늘의 전략 정리</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>지표</th>
-      <th>신호</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>미국 시장</strong></td>
-      <td>약세 (CPI 불안, 반도체 -3%)</td>
-    </tr>
-    <tr>
-      <td><strong>한국 증시 전망</strong></td>
-      <td>-2% 이상 내려갈 가능성 높음</td>
-    </tr>
-    <tr>
-      <td><strong>외국인 동향</strong></td>
-      <td>대량 매도 중(14.5조)</td>
-    </tr>
-    <tr>
-      <td><strong>추천 행동</strong></td>
-      <td>매수 절제(30% 이하), 방어주 선별, 단타 기회 대기</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>💬 댓글로 의견 나눠주세요! 오늘 시장을 어떻게 봤는지 알려주시면 함께 분석해요. 이웃 추가하면 매일 아침 전략 브리핑을 받아보실 수 있습니다 😊</p>
-
-<p>#종가배팅 #수급분석 #주식투자 #미국증시 #외국인매도 #반도체약세 #바이오 #종목선별</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[📉 오늘은 조심스러운 날입니다. 미국과 한국 증시가 동반 약세를 보일 것으로 예상됩니다. 어제 미국 밤새 나쁜 신호들이 들어왔거든요.]]></summary></entry></feed>
+<p>#종목분석 #현대차 #수급분석 #NextTheme #005380 #자율주행 #로봇테마 #주식투자 #기관동향 #투자전략</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[오늘의 현대차는 어떤 상태일까요?]]></summary></entry></feed>
