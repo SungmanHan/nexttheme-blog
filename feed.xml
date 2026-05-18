@@ -1,77 +1,132 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-05-19T06:04:02+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">RED — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/19/0600-briefing/" rel="alternate" type="text/html" title="RED — 오늘 아침 시황" /><published>2026-05-19T06:00:00+09:00</published><updated>2026-05-19T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/19/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/19/0600-briefing/"><![CDATA[<h2 id="오늘-아침-신중하게-시작해야-합니다-">오늘 아침, 신중하게 시작해야 합니다 📊</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-05-19T06:24:02+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">RED — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/19/0600-briefing/" rel="alternate" type="text/html" title="RED — 오늘 아침 시황" /><published>2026-05-19T06:00:00+09:00</published><updated>2026-05-19T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/19/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/19/0600-briefing/"><![CDATA[<p>오늘은 신중함이 필요한 월요일입니다. 미국 기술주가 약세를 보였고, 지정학적 리스크(이란 정세)까지 겹쳤거든요. 종가배팅 투자자가 알아야 할 핵심 상황을 정확히 짚어드리겠습니다.</p>
 
-<p>2026년 5월 19일입니다. 미국 시장은 혼조세로 마감됐지만, 국내 코스닥은 <strong>-1.66%</strong> 하락했고 장중에 중요한 경제 이벤트가 예정돼 있습니다. 오늘은 서두르지 않는 것이 답입니다.</p>
+<h2 id="어젯밤-미국-시장--나스닥-약세-유가-급등">어젯밤 미국 시장 — 나스닥 약세, 유가 급등</h2>
 
-<hr />
-
-<h2 id="어젯밤-미국-시장은-어땠나요">어젯밤 미국 시장은 어땠나요?</h2>
-
-<p>어제 미국 3대 지수는 방향이 엇갈렸습니다.</p>
+<p>미국 3대 지수는 엇갈린 신호를 보냈습니다.</p>
 
 <ul>
-  <li><strong>다우지수</strong> +0.32% — 블루칩은 소폭 상승</li>
-  <li><strong>S&amp;P500</strong> -0.07% — 사실상 보합</li>
-  <li><strong>나스닥</strong> -0.51% — 기술주 중심으로 소폭 하락</li>
+  <li><strong>다우지수</strong> +<strong>0.32%</strong> — 전통 산업주는 소폭 상승</li>
+  <li><strong>S&amp;P 500</strong> -<strong>0.07%</strong> — 사실상 보합</li>
+  <li><strong>나스닥</strong> -<strong>0.51%</strong> — 기술주 중심으로 연달아 약세</li>
 </ul>
 
-<p>나스닥이 뒤처진 것이 포인트입니다. 기술주(AI·반도체 등)에 대한 투자자들의 불안이 살짝 드러난 것이죠. 이 흐름이 오늘 국내 코스닥에도 영향을 줄 수 있습니다.</p>
+<p>특히 <strong>필라델피아 반도체지수 -2.47%</strong>는 심각한 신호입니다. 마이크론 같은 반도체 대형주들이 급락했기 때문입니다.</p>
 
-<p>💱 환율(USD/KRW)은 <strong>-6.5원</strong> 하락했습니다. 원화가 달러 대비 강해진 것으로, 외국인 자금이 한국 시장에 유입되기 좋은 조건입니다. 이건 긍정적 신호입니다.</p>
+<h3 id="유가-급등--더-큰-우려">유가 급등 — 더 큰 우려</h3>
 
-<hr />
+<p><strong>이란 종전 협상이 교착</strong>했습니다. 트럼프 전 대통령이 “수용 불가능”이라고 선언하면서 <strong>WTI 유가가 배럴당 104달러에서 108달러로 급등</strong>했고, <strong>브렌트유는 112달러까지</strong> 뛰었습니다.</p>
 
-<h2 id="오늘의-베팅-등급--red-신중-관망">오늘의 베팅 등급: 🔴 RED (신중 관망)</h2>
-
-<p>오늘 등급은 <strong>RED</strong>입니다. 투자 심리 점수(센티먼트)는 <strong>0점</strong>으로 중립에 가깝지만, RED 등급인 이유가 있습니다.</p>
-
-<h3 id="왜-red인가요">왜 RED인가요?</h3>
+<p>유가 상승의 의미:</p>
 <ul>
-  <li>나스닥(-0.51%)과 코스닥(-1.66%)이 동시에 약세</li>
-  <li>오늘 장중에 <strong>HIGH 등급 경제 이벤트</strong>가 예정됨 → 발표 결과에 따라 변동성이 크게 확대될 수 있음</li>
-  <li>원화 강세는 긍정적이지만, 매크로 불확실성이 더 큰 상황</li>
+  <li>수입 에너지 비용 증가 = 국내 물가 압력</li>
+  <li>인플레이션 우려 = 금리 재상승 가능성</li>
+  <li>기술주 밸류에이션 하락 압력</li>
 </ul>
 
-<h3 id="ai-전략-판단">AI 전략 판단</h3>
+<h3 id="외국인-매도의-공포--341조-순매도">외국인 매도의 공포 — 3.41조 순매도</h3>
 
-<blockquote>
-  <p>“신중 관망 권장. 장중 HIGH 경제지표 통과 후 시장 반응 확인이 필수입니다.”</p>
-</blockquote>
+<p>어제 <strong>외국인이 3.41조 규모로 순매도</strong>했습니다. 이는 한국 시장의 회심의 자금이 빠져나갔다는 뜻입니다.</p>
 
-<h3 id="오늘-추천-대응-방법">오늘 추천 대응 방법</h3>
-<p><strong>신규 진입을 전체 가능 금액의 30% 이하</strong>로 축소하세요. 2026년 들어 고점 이후 반등 강도가 약해지고 있는 추세입니다. 오늘은 현금을 충분히 확보한 채 장중 이벤트 결과를 먼저 확인하는 전략이 유리합니다.</p>
+<h3 id="한-가지-긍정신호--vix-하락">한 가지 긍정신호 — VIX 하락</h3>
 
-<p>이벤트 통과 후 시장이 회복 신호를 보이면 그때 진입을 검토하세요.</p>
+<p><strong>VIX 지수가 -3.31% 하락</strong>했습니다. 시장 공포도가 완화되었다는 뜻으로, 투심은 조금 나아지고 있습니다.</p>
 
-<hr />
+<h2 id="오늘-베팅-등급-red-비중-30-이하-또는-관망">오늘 베팅 등급: RED (비중 30% 이하 또는 관망)</h2>
 
-<h2 id="오늘-주목해야-할-변수-">오늘 주목해야 할 변수 🎯</h2>
+<p>NextTheme 알고리즘이 내린 신호는 <strong>RED</strong>입니다. 감정 점수는 0(중립)이지만, 리스크가 너무 크기 때문입니다.</p>
 
-<h3 id="-장중-high-경제-이벤트">① 장중 HIGH 경제 이벤트</h3>
-<p>오늘 장 중에 <strong>HIGH 등급 경제 지표</strong>가 발표됩니다(정확한 시간은 미확정). 이런 이벤트는 발표 직후 시장이 크게 요동칠 수 있습니다. 이벤트 전후에 무리하게 진입하는 것은 위험합니다. <strong>발표 후 30분~1시간 시장 반응을 확인하고 움직이세요.</strong></p>
+<h3 id="red의-의미">RED의 의미</h3>
 
-<h3 id="-코스닥-약세-지속-여부">② 코스닥 약세 지속 여부</h3>
-<p>코스닥이 -1.66% 하락한 것은 국내 기술·성장주에 대한 부담을 보여줍니다. 코스닥 종목 중심의 투자자라면 오늘 특히 주의가 필요합니다.</p>
+<p>기술주와 반도체 비중을 <strong>30% 이하로 축소</strong>하거나 <strong>완전히 관망</strong>해야 한다는 뜻입니다.</p>
 
-<h3 id="-원화-강세--외국인-동향-체크">③ 원화 강세 — 외국인 동향 체크</h3>
-<p>원화 강세(USD/KRW -6.5원)는 외국인이 한국 주식을 살 유인을 높입니다. 장 시작 후 외국인 순매수 여부를 확인하면 오늘 시장 방향의 힌트를 얻을 수 있습니다.</p>
+<h3 id="왜-red인가">왜 RED인가?</h3>
 
-<hr />
+<ol>
+  <li><strong>나스닥 -0.51% + 반도체 -2.47%</strong> — 기술주 약세 지속</li>
+  <li><strong>외국인 -3.41조 순매도</strong> — 대규모 자금 이탈</li>
+  <li><strong>유가 급등 + 이란 리스크</strong> — 다중 불확실성</li>
+  <li><strong>센티먼트 0점</strong> — 시장 심리 중립 이하</li>
+</ol>
 
-<h2 id="결론--오늘은-관망이-전략입니다">결론 — 오늘은 관망이 전략입니다</h2>
+<h3 id="권장-대응">권장 대응</h3>
 
-<p>📌 오늘 핵심 요약:</p>
+<p>신규 진입은 <strong>30% 이하 소규모만</strong> 고려하세요. 현금을 충분히 확보한 후 <strong>장 초반 신호</strong>를 기다리세요.</p>
+
+<p><strong>진입 가능 조건</strong>:</p>
 <ul>
-  <li>미국 나스닥 소폭 하락 → 코스닥 약세 이어질 가능성</li>
-  <li>장중 HIGH 이벤트 → 변동성 확대 주의</li>
-  <li>원화 강세 → 외국인 동향이 변수</li>
-  <li><strong>신규 진입 30% 이하, 이벤트 통과 후 대응 권장</strong></li>
+  <li>당일 외국인 순매도가 <strong>3조원 이하로 축소</strong></li>
+  <li>코스닥 낙폭이 <strong>회복세로 돌아섬</strong></li>
+  <li>반도체 약세 멈추는 신호 나타남</li>
 </ul>
 
-<p>서두르지 마세요. 좋은 기회는 기다리는 자에게 옵니다. 오늘 현금을 지키는 것 자체가 훌륭한 전략입니다.</p>
+<p>이 세 조건 중 <strong>2개 이상</strong> 동시 확인 후에만 소규모 진입 검토하세요.</p>
 
-<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
+<h2 id="주목할-3가지-변수">주목할 3가지 변수</h2>
 
-<p>#종가배팅 #수급분석 #주식투자 #시황분석 #코스닥 #나스닥 #원화강세 #외국인동향 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[오늘 아침, 신중하게 시작해야 합니다 📊]]></summary></entry><entry><title type="html">OCI홀딩스(010060)를 심층 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/19/0218-detail-010060-detail/" rel="alternate" type="text/html" title="OCI홀딩스(010060)를 심층 분석" /><published>2026-05-19T02:18:00+09:00</published><updated>2026-05-19T02:18:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/19/0218_detail_010060-detail</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/19/0218-detail-010060-detail/"><![CDATA[<h2 id="-오늘의-분석-한마디">🔍 오늘의 분석 한마디</h2>
+<h3 id="1-스페이스x-나스닥-상장--예상치-못한-자금-흡수">1) 스페이스X 나스닥 상장 — 예상치 못한 자금 흡수</h3>
+
+<p><strong>스페이스X가 6월 12일 나스닥에 상장</strong>됩니다. 티커는 <strong>SPCX</strong>, 기업가치는 <strong>최대 2조 달러</strong>입니다.</p>
+
+<p><strong>한국 시장에 미치는 영향</strong>:</p>
+<ul>
+  <li>글로벌 기술 자금이 미국 IPO에 집중될 가능성 높음</li>
+  <li>반도체와 기술주에서 <strong>자금 이탈 가속화 우려</strong></li>
+  <li>하지만 <strong>우주항공 테마(켄코아에어로스페이스, 에이치브이엠, 센서뷰)</strong>는 스페이스X 연관주로 <strong>+5~13% 강세 유지 중</strong></li>
+</ul>
+
+<p><strong>조건부 기회</strong>: 반도체 약세가 멈추고 외국인 매도가 축소될 때만 우주항공 테마의 모멘텀을 따라갈 수 있습니다.</p>
+
+<h3 id="2-삼성전자-파업--제동이-걸림">2) 삼성전자 파업 — 제동이 걸림</h3>
+
+<p>삼성전자 파업에 <strong>법원이 업무개시명령</strong>을 내렸습니다.</p>
+
+<p><strong>의미</strong>:</p>
+<ul>
+  <li>제조 차질 우려 완화 → 반도체주에 미약한 긍정</li>
+  <li>하지만 파업 완전 중단과는 별개 — 조합원 반발 가능성</li>
+</ul>
+
+<p>반도체 섹터에는 부분적 긍정이지만, 충분한 상승 동력이 되기는 부족합니다.</p>
+
+<h3 id="3-메타-대규모-구조조정--ai-재편의-신호">3) 메타 대규모 구조조정 — AI 재편의 신호</h3>
+
+<p>메타가 <strong>20일부터 8000명을 구조조정</strong>합니다. 이는 AI 투자 전략 재편 차원의 조치로, 미국 기술주 조정의 시작을 알리는 신호탄입니다.</p>
+
+<h3 id="4-국고채-금리-역설">4) 국고채 금리 역설</h3>
+
+<p>한국 국고채 금리가 <strong>세계 1위 상승폭</strong>을 기록했습니다. 반도체 호황에 외국인이 모였지만, 동시에 <strong>차익실현 압력이 커지고 있다</strong>는 뜻입니다. 앞으로 외국인 순매도는 지속될 가능성이 높습니다.</p>
+
+<h2 id="오늘의-전략--조건부-선택진입">오늘의 전략 — 조건부 선택진입</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>시나리오 A: 장초반 신호 약할 때 (기본)
+→ 비중 30% 이하 또는 관망
+→ 현금 충분히 확보
+
+시나리오 B: 외국인 3조↓ + 낙폭 회복 + 반도체 반등 동시 확인
+→ 우주항공 테마(스페이스X 연관주) 소규모 진입 검토
+→ 비중 20~25%
+
+시나리오 C: 조건 2개 이상 실패
+→ 관망 유지
+</code></pre></div></div>
+
+<h2 id="결론--오늘은-조급함이-적입니다">결론 — 오늘은 ‘조급함’이 적입니다</h2>
+
+<p>오늘 시황을 한 줄로 요약하면:</p>
+
+<p><strong>“글로벌 리스크(나스닥 약세·유가 급등·외국인 순매도) 복합 vs 우주항공 테마 모멘텀의 줄다리기 속에서, 우선은 신중한 관망이 정답인 날”</strong></p>
+
+<ul>
+  <li>RED 등급 = 비중 30% 이하 또는 관망</li>
+  <li>장 초반 3가지 신호 중 2개 이상 동시 확인 후만 소규모 진입</li>
+  <li>우주항공 테마는 조건부 모멘텀 있음 (스페이스X 기대감)</li>
+</ul>
+
+<p>좋은 기회는 기다리는 자에게 옵니다. 오늘 현금을 지키는 것이 가장 현명한 전략입니다.</p>
+
+<p>💬 댓글로 오늘 시황 분석을 공유해주세요! 이웃 추가하면 매일 아침 이런 분석을 받아보실 수 있어요.</p>
+
+<p>#종가배팅 #수급분석 #주식투자 #나스닥 #외국인순매도 #반도체약세 #우주항공테마 #스페이스X #RED등급</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[오늘은 신중함이 필요한 월요일입니다. 미국 기술주가 약세를 보였고, 지정학적 리스크(이란 정세)까지 겹쳤거든요. 종가배팅 투자자가 알아야 할 핵심 상황을 정확히 짚어드리겠습니다.]]></summary></entry><entry><title type="html">OCI홀딩스(010060)를 심층 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/19/0218-detail-010060-detail/" rel="alternate" type="text/html" title="OCI홀딩스(010060)를 심층 분석" /><published>2026-05-19T02:18:00+09:00</published><updated>2026-05-19T02:18:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/19/0218_detail_010060-detail</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/19/0218-detail-010060-detail/"><![CDATA[<h2 id="-오늘의-분석-한마디">🔍 오늘의 분석 한마디</h2>
 
 <table>
   <tbody>
