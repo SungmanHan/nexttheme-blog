@@ -1,4 +1,77 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-05-19T02:19:56+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">OCI홀딩스(010060)를 심층 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/19/0218-detail-010060-detail/" rel="alternate" type="text/html" title="OCI홀딩스(010060)를 심층 분석" /><published>2026-05-19T02:18:00+09:00</published><updated>2026-05-19T02:18:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/19/0218_detail_010060-detail</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/19/0218-detail-010060-detail/"><![CDATA[<h2 id="-오늘의-분석-한마디">🔍 오늘의 분석 한마디</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-05-19T06:04:02+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">RED — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/19/0600-briefing/" rel="alternate" type="text/html" title="RED — 오늘 아침 시황" /><published>2026-05-19T06:00:00+09:00</published><updated>2026-05-19T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/19/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/19/0600-briefing/"><![CDATA[<h2 id="오늘-아침-신중하게-시작해야-합니다-">오늘 아침, 신중하게 시작해야 합니다 📊</h2>
+
+<p>2026년 5월 19일입니다. 미국 시장은 혼조세로 마감됐지만, 국내 코스닥은 <strong>-1.66%</strong> 하락했고 장중에 중요한 경제 이벤트가 예정돼 있습니다. 오늘은 서두르지 않는 것이 답입니다.</p>
+
+<hr />
+
+<h2 id="어젯밤-미국-시장은-어땠나요">어젯밤 미국 시장은 어땠나요?</h2>
+
+<p>어제 미국 3대 지수는 방향이 엇갈렸습니다.</p>
+
+<ul>
+  <li><strong>다우지수</strong> +0.32% — 블루칩은 소폭 상승</li>
+  <li><strong>S&amp;P500</strong> -0.07% — 사실상 보합</li>
+  <li><strong>나스닥</strong> -0.51% — 기술주 중심으로 소폭 하락</li>
+</ul>
+
+<p>나스닥이 뒤처진 것이 포인트입니다. 기술주(AI·반도체 등)에 대한 투자자들의 불안이 살짝 드러난 것이죠. 이 흐름이 오늘 국내 코스닥에도 영향을 줄 수 있습니다.</p>
+
+<p>💱 환율(USD/KRW)은 <strong>-6.5원</strong> 하락했습니다. 원화가 달러 대비 강해진 것으로, 외국인 자금이 한국 시장에 유입되기 좋은 조건입니다. 이건 긍정적 신호입니다.</p>
+
+<hr />
+
+<h2 id="오늘의-베팅-등급--red-신중-관망">오늘의 베팅 등급: 🔴 RED (신중 관망)</h2>
+
+<p>오늘 등급은 <strong>RED</strong>입니다. 투자 심리 점수(센티먼트)는 <strong>0점</strong>으로 중립에 가깝지만, RED 등급인 이유가 있습니다.</p>
+
+<h3 id="왜-red인가요">왜 RED인가요?</h3>
+<ul>
+  <li>나스닥(-0.51%)과 코스닥(-1.66%)이 동시에 약세</li>
+  <li>오늘 장중에 <strong>HIGH 등급 경제 이벤트</strong>가 예정됨 → 발표 결과에 따라 변동성이 크게 확대될 수 있음</li>
+  <li>원화 강세는 긍정적이지만, 매크로 불확실성이 더 큰 상황</li>
+</ul>
+
+<h3 id="ai-전략-판단">AI 전략 판단</h3>
+
+<blockquote>
+  <p>“신중 관망 권장. 장중 HIGH 경제지표 통과 후 시장 반응 확인이 필수입니다.”</p>
+</blockquote>
+
+<h3 id="오늘-추천-대응-방법">오늘 추천 대응 방법</h3>
+<p><strong>신규 진입을 전체 가능 금액의 30% 이하</strong>로 축소하세요. 2026년 들어 고점 이후 반등 강도가 약해지고 있는 추세입니다. 오늘은 현금을 충분히 확보한 채 장중 이벤트 결과를 먼저 확인하는 전략이 유리합니다.</p>
+
+<p>이벤트 통과 후 시장이 회복 신호를 보이면 그때 진입을 검토하세요.</p>
+
+<hr />
+
+<h2 id="오늘-주목해야-할-변수-">오늘 주목해야 할 변수 🎯</h2>
+
+<h3 id="-장중-high-경제-이벤트">① 장중 HIGH 경제 이벤트</h3>
+<p>오늘 장 중에 <strong>HIGH 등급 경제 지표</strong>가 발표됩니다(정확한 시간은 미확정). 이런 이벤트는 발표 직후 시장이 크게 요동칠 수 있습니다. 이벤트 전후에 무리하게 진입하는 것은 위험합니다. <strong>발표 후 30분~1시간 시장 반응을 확인하고 움직이세요.</strong></p>
+
+<h3 id="-코스닥-약세-지속-여부">② 코스닥 약세 지속 여부</h3>
+<p>코스닥이 -1.66% 하락한 것은 국내 기술·성장주에 대한 부담을 보여줍니다. 코스닥 종목 중심의 투자자라면 오늘 특히 주의가 필요합니다.</p>
+
+<h3 id="-원화-강세--외국인-동향-체크">③ 원화 강세 — 외국인 동향 체크</h3>
+<p>원화 강세(USD/KRW -6.5원)는 외국인이 한국 주식을 살 유인을 높입니다. 장 시작 후 외국인 순매수 여부를 확인하면 오늘 시장 방향의 힌트를 얻을 수 있습니다.</p>
+
+<hr />
+
+<h2 id="결론--오늘은-관망이-전략입니다">결론 — 오늘은 관망이 전략입니다</h2>
+
+<p>📌 오늘 핵심 요약:</p>
+<ul>
+  <li>미국 나스닥 소폭 하락 → 코스닥 약세 이어질 가능성</li>
+  <li>장중 HIGH 이벤트 → 변동성 확대 주의</li>
+  <li>원화 강세 → 외국인 동향이 변수</li>
+  <li><strong>신규 진입 30% 이하, 이벤트 통과 후 대응 권장</strong></li>
+</ul>
+
+<p>서두르지 마세요. 좋은 기회는 기다리는 자에게 옵니다. 오늘 현금을 지키는 것 자체가 훌륭한 전략입니다.</p>
+
+<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
+
+<p>#종가배팅 #수급분석 #주식투자 #시황분석 #코스닥 #나스닥 #원화강세 #외국인동향 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[오늘 아침, 신중하게 시작해야 합니다 📊]]></summary></entry><entry><title type="html">OCI홀딩스(010060)를 심층 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/19/0218-detail-010060-detail/" rel="alternate" type="text/html" title="OCI홀딩스(010060)를 심층 분석" /><published>2026-05-19T02:18:00+09:00</published><updated>2026-05-19T02:18:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/19/0218_detail_010060-detail</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/19/0218-detail-010060-detail/"><![CDATA[<h2 id="-오늘의-분석-한마디">🔍 오늘의 분석 한마디</h2>
 
 <table>
   <tbody>
@@ -940,135 +1013,4 @@ WTI가 <strong>101달러 이상</strong>을 유지하면 국내 에너지주들�
 
 <p>💬 <strong>댓글로 오늘 시황 의견 나눠주세요!</strong> 아침 시간 AI 분석과 실제 시장이 맞는지 함께 확인하면서, 더 나은 매매 기준을 만들어가요. 이웃 추가하면 매일 아침 6시 분석을 받아보실 수 있습니다.</p>
 
-<p>#종가배팅 #수급분석 #주식투자 #반도체 #기술주 #아침시황 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[아침 타고 반도체 강세가 계속되고 있습니다. 미국 시장은 혼조이지만, 한국 선물지수가 먼저 움직이면서 기술주 매력이 살아나는 모양새네요.]]></summary></entry><entry><title type="html">드림시큐리티(203650)를 심층 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/13/1135-detail-203650-detail/" rel="alternate" type="text/html" title="드림시큐리티(203650)를 심층 분석" /><published>2026-05-13T11:35:00+09:00</published><updated>2026-05-13T11:35:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/13/1135_detail_203650-detail</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/13/1135-detail-203650-detail/"><![CDATA[<h2 id="1-도입부--긴급-투자경고-상황">1. 도입부 — 긴급 투자경고 상황</h2>
-
-<p>2026년 5월 13일 오전 11시 35분, 드림시큐리티(203650)를 분석한 결과 <strong>NONE 등급(진입 금지)</strong>을 받았습니다.</p>
-
-<p>현재가는 <strong>3,520원</strong>으로 <strong>-2.49% 하락</strong>한 상태입니다. 투자 관점에서 보면, 이 종목은 지금 <strong>매우 위험한 신호들이 동시 다발로 터지고 있는 상황</strong>입니다. 5월 7일 투자경고 재지정과 전환사채(CB) 추가상장 공시가 연달아 발생했기 때문입니다.</p>
-
-<h2 id="2-현재-가격--수급-흐름--외국인기관-동반-이탈">2. 현재 가격 &amp; 수급 흐름 — 외국인·기관 동반 이탈</h2>
-
-<h3 id="당일-수급-현황">당일 수급 현황</h3>
-<p>오늘(5월 12일)의 수급 상황:</p>
-<ul>
-  <li><strong>외국인</strong>: <strong>-109,226주</strong> 순매도 (시장에서 빠져나감)</li>
-  <li><strong>기관</strong>: <strong>-833,493주</strong> 순매도 (대규모 이탈)</li>
-  <li><strong>개인</strong>: <strong>+959,776주</strong> 순매수 (개인만 혼자 사들임)</li>
-</ul>
-
-<p>이는 <strong>외국인과 기관이 손을 놓고 나가는데, 개인 투자자들만 남아 사고 있는 상태</strong>를 의미합니다. 이것은 매우 위험한 신호입니다.</p>
-
-<h3 id="연속-순매수-현황">연속 순매수 현황</h3>
-<ul>
-  <li><strong>외국인 연속 순매수</strong>: <strong>0일</strong> (이미 이탈 상태)</li>
-  <li><strong>기관 연속 순매수</strong>: <strong>0일</strong> (이미 이탈 상태)</li>
-</ul>
-
-<p>큰 투자기관들이 손을 떼버린 지 이미 여러 날이 지난 것입니다.</p>
-
-<h3 id="60일-수급-흐름에서-본-의미">60일 수급 흐름에서 본 의미</h3>
-<p>지난 두 달간의 흐름을 보면:</p>
-<ul>
-  <li><strong>4월 14일</strong>: 외국인 대규모 순매수(<strong>804,582주</strong>) → 강한 상승 신호</li>
-  <li><strong>4월 15일</strong>: 외국인 대규모 순매도(<strong>-935,611주</strong>) → 갑작스러운 이탈</li>
-  <li><strong>5월 6일</strong>: 외국인 초대형 순매도(<strong>-2,818,109주</strong>), 기관 순매도(<strong>-591,999주</strong>) → 동반 대탈출</li>
-</ul>
-
-<p><strong>4월 중순까지는 외국인이 사들이다가, 그 이후로는 계속 빠져나가는 패턴</strong>입니다. 이는 외국인이 뭔가 중요한 뉴스를 먼저 알고 손을 떼기 시작했을 가능성을 시사합니다.</p>
-
-<h2 id="3-차트-위치-분석--모든-시간대-상승-흐름이지만-뉴스가-뒤를-친다">3. 차트 위치 분석 — 모든 시간대 상승 흐름이지만 뉴스가 뒤를 친다</h2>
-
-<h3 id="단기일봉-추세">단기(일봉) 추세</h3>
-<p><strong>상승 흐름(MA5 이탈)</strong> — 차트상으로는 5일선 위에서 움직이고 있습니다.</p>
-
-<h3 id="중기주봉-추세">중기(주봉) 추세</h3>
-<p><strong>상승 흐름</strong> — 주 단위로도 상향 방향입니다.</p>
-
-<h3 id="장기월봉-추세">장기(월봉) 추세</h3>
-<p><strong>상승 흐름</strong> — 달 단위로도 상향입니다.</p>
-
-<p><strong>차트만 보면 좋은 신호들인데, 뉴스가 완전히 반대 방향으로 가고 있습니다.</strong> 이것이 지금 이 종목의 가장 큰 문제입니다.</p>
-
-<h2 id="4-뉴스-분석--투자경고cb-희석-긴급-악재-동시-발생">4. 뉴스 분석 — 투자경고·CB 희석, 긴급 악재 동시 발생</h2>
-
-<h3 id="뉴스-신호-평가">뉴스 신호 평가</h3>
-<p><strong>신호</strong>: 악재<br />
-<strong>촉발 요인</strong>: 리스크<br />
-<strong>위험도</strong>: 긴급</p>
-
-<h3 id="뉴스-핵심-요약-30자">뉴스 핵심 요약 (30자)</h3>
-<p>드림시큐리티가 5월 7일 <strong>투자경고종목으로 재지정</strong>되었으며, <strong>전환사채(CB) 추가상장</strong>으로 인한 주가 희석 위험이 발생합니다.</p>
-
-<h3 id="상세-뉴스-내용">상세 뉴스 내용</h3>
-
-<p><strong>상황 1: 투자경고 재지정</strong></p>
-<ul>
-  <li>5월 7일, 드림시큐리티가 증권거래소로부터 “투자경고종목”으로 다시 지정되었습니다.</li>
-  <li>이것은 기업의 신용도가 악화되었다는 공식적 신호입니다.</li>
-  <li>투자경고 상태는 <strong>최소 3개월간 유지</strong>되며, 신용거래가 <strong>전면 금지</strong>됩니다.</li>
-  <li>쉽게 말해, <strong>돈을 빌려서 주식을 사는 것이 불가능</strong>해진다는 뜻입니다.</li>
-</ul>
-
-<p><strong>상황 2: 전환사채(CB) 추가상장</strong></p>
-<ul>
-  <li>회사가 새로운 전환사채를 발행하려고 합니다.</li>
-  <li>전환사채는 일종의 채권인데, 이를 주식으로 바꿀 수 있습니다.</li>
-  <li>이것이 실행되면 <strong>발행하는 주식의 수가 갑자기 늘어나게</strong> 됩니다.</li>
-  <li>기존 주주 입장에서는 <strong>자신의 지분률이 급락</strong>하고, 주가도 <strong>하락할 가능성이 매우 높습니다.</strong></li>
-</ul>
-
-<p><strong>상황 3: 공시 변동의 반복</strong></p>
-<ul>
-  <li>4월 20일부터 5월 7일까지, 거래정지 예고 → 경고 해제 → 재경고 같은 공시 변동이 반복되었습니다.</li>
-  <li>이렇게 <strong>공시가 자주 바뀐다는 것은 기업의 상황이 계속 악화되고 있다는 신호</strong>입니다.</li>
-</ul>
-
-<h3 id="주의도-평가-상세">주의도 평가 상세</h3>
-<ul>
-  <li><strong>공시 최신성</strong>: 5월 7일 투자경고 재지정으로부터 오늘(5월 13일)까지 <strong>4영업일</strong> — 시장이 뉴스를 <strong>완전히 반영하지 못한 초기 단계</strong>입니다.</li>
-  <li><strong>주가 반영 진행도</strong>: 30% 수준으로 추정 — <strong>아직 더 하락할 여지가 충분합니다.</strong></li>
-</ul>
-
-<p><strong>따라서 이 종목의 악재는 이제 막 시작되었을 수 있습니다.</strong></p>
-
-<h2 id="5-ai-종합-등급--결론--진입-금지-보유-시-손절-권고">5. AI 종합 등급 &amp; 결론 — 진입 금지, 보유 시 손절 권고</h2>
-
-<h3 id="ai-최종-등급">AI 최종 등급</h3>
-<p><strong>NONE 등급</strong> = 진입 금지</p>
-
-<h3 id="ai-판정-근거">AI 판정 근거</h3>
-<p>투자경고 재지정 · CB 희석 긴급 리스크 발생, 외국인·기관 동반 이탈 중.</p>
-
-<h3 id="투자-분위기">투자 분위기</h3>
-<p><strong>천둥⚡ (긴급 위험 신호)</strong></p>
-
-<p>이 심볼은 “지금 당장 위험하다”는 의미입니다. 차트가 좋아 보이더라도, 펀더멘탈과 수급이 완전히 반대로 움직이는 상황입니다.</p>
-
-<h3 id="즉시-조치-사항">즉시 조치 사항</h3>
-<p><strong>현재 보유 중이라면: 손절을 고려하세요.</strong><br />
-<strong>신규 진입을 생각 중이라면: 절대 금지입니다.</strong></p>
-
-<p>공식 공시문을 반드시 직접 읽어보고, 기업의 상황이 정확히 어느 정도로 악화되었는지 파악한 후 의사결정을 내려야 합니다.</p>
-
-<h2 id="6-결론--행동-가이드">6. 결론 &amp; 행동 가이드</h2>
-
-<p>이 종목은 <strong>차트는 좋지만 뉴스는 매우 나쁜 전형적인 악재 상황</strong>입니다.</p>
-
-<p><strong>핵심 메시지</strong>:</p>
-<ul>
-  <li>투자경고와 CB 희석은 단기 주가 급락의 직결 요인입니다.</li>
-  <li>외국인·기관이 이미 손을 떼었고, 개인만 남아 있습니다.</li>
-  <li>공시 반영이 초기 단계이므로, 추가 하락 가능성이 높습니다.</li>
-</ul>
-
-<p><strong>구체적 액션</strong>:</p>
-<ol>
-  <li>보유 중이면 손절 검토</li>
-  <li>신규 매수 절대 금지</li>
-  <li>공시문과 기업 뉴스 정기 모니터링</li>
-  <li>투자경고 해제 시점까지 관망</li>
-</ol>
-
-<p>💬 댓글로 의견 나눠주세요! 드림시큐리티처럼 악재가 터졌을 때 대처하는 방법, 혹은 당신의 경험을 공유해주시면 좋겠습니다. 이웃 추가하면 매일 분석 받아보실 수 있어요!</p>
-
-<p>#드림시큐리티 #203650 #투자경고 #악재분석 #손절 #수급분석 #주식투자 #기관이탈 #CB희석 #NextTheme #종목분석</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[1. 도입부 — 긴급 투자경고 상황]]></summary></entry></feed>
+<p>#종가배팅 #수급분석 #주식투자 #반도체 #기술주 #아침시황 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[아침 타고 반도체 강세가 계속되고 있습니다. 미국 시장은 혼조이지만, 한국 선물지수가 먼저 움직이면서 기술주 매력이 살아나는 모양새네요.]]></summary></entry></feed>
