@@ -1,4 +1,105 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-05-20T06:02:28+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">RED — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/20/0600-briefing/" rel="alternate" type="text/html" title="RED — 오늘 아침 시황" /><published>2026-05-20T06:00:00+09:00</published><updated>2026-05-20T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/20/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/20/0600-briefing/"><![CDATA[<p>💔 미국 3대 지수가 한 번에 -0.65~-0.84%씩 내려앉았습니다. 글로벌 채권금리 급등이 주범입니다. 국내도 예외가 아닌데요 — 코스피가 <strong>7,271원(-3.25%)</strong> 락을 기록했거든요. 이럴 땐 차근차근 상황을 살펴봐야 합니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-05-20T15:04:19+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">무포지션</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/20/nt2-1501-snapshot/" rel="alternate" type="text/html" title="무포지션" /><published>2026-05-20T15:01:00+09:00</published><updated>2026-05-20T15:01:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/20/nt2_1501-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/20/nt2-1501-snapshot/"><![CDATA[<h2 id="-오늘-시장을-한마디로">😰 오늘 시장을 한마디로</h2>
+
+<p>코스피 <strong>-1.35%</strong>, 코스닥 <strong>-2.99%</strong> 급락장입니다.</p>
+
+<p>미국 3대지수 동반 하락에 삼성전자 파업·원화 약세(1,510원 돌파)·외인 <strong>5.6조원 매도</strong> 3중 악재가 겹쳤습니다. 이런 날에는 “기다림이 실력”입니다.</p>
+
+<hr />
+
+<h2 id="-매크로-경고-4개-발생">🚨 매크로 경고 4개 발생</h2>
+
+<p>시스템이 감지한 위험신호를 정리하면:</p>
+
+<ol>
+  <li><strong>코스피 지수 급락</strong> — 1% 이상 하락</li>
+  <li><strong>코스닥 지수 급락</strong> — 2% 이상 하락</li>
+  <li><strong>미국 3대지수 하락</strong> — 나스닥 중심 약세 지속</li>
+  <li><strong>원유재고 야간이벤트</strong> — 내일 추가 변동 가능</li>
+</ol>
+
+<p><strong>경고 4개 이상 = RED 등급</strong>입니다. 이 상황에서는 조건을 충족하지 않으면 진입하지 않는 것이 기본입니다.</p>
+
+<hr />
+
+<h2 id="-반도체-테마-왜-선별-안-했나">📊 반도체 테마, 왜 선별 안 했나?</h2>
+
+<p>오늘 주도 테마는 <strong>반도체</strong>였습니다. 다른 날이었다면 당연히 주목했을 테마입니다.</p>
+
+<p>그런데 여기가 중요한 부분입니다.</p>
+
+<p><strong>대장주 주성엔지니어링이 위험신호를 보냈습니다.</strong></p>
+
+<ul>
+  <li><strong>15분봉 60선 이탈</strong> — 현재가 <strong>183,249원</strong> 기준으로 중기 상승 흐름이 깨짐</li>
+  <li><strong>14시 이후 기관 순매도</strong> — <strong>24,000주</strong> 이상이 나가면서 테마 모멘텀 약화</li>
+  <li>이는 테마 전체 동력이 약해지고 있다는 신호</li>
+</ul>
+
+<p>같은 테마의 후보군들(테스, 피에스케이홀딩스, 유진테크)도 대장주 약세의 영향을 직접 받았습니다. 대장주가 선도를 잃으면 나머지는 자연스럽게 추종 약화.</p>
+
+<p><strong>내일 아침 갭상승 가능성이 낮다</strong>는 판단입니다.</p>
+
+<hr />
+
+<h2 id="-반대-시나리오는">💭 반대 시나리오는?</h2>
+
+<p>만약 내일:</p>
+
+<ol>
+  <li><strong>삼성전자 파업 리스크가 완화</strong>되고</li>
+  <li><strong>반도체 테마가 추가 확산</strong>된다면?</li>
+</ol>
+
+<p>그때는 <strong>피에스케이홀딩스</strong>(15분봉 60선 위 지지, 14시 이후 기관+외인 순매수)나 <strong>유진테크</strong>(15분봉 60선 지지반등, 호가창 좋음) 재검토 가능합니다.</p>
+
+<p><strong>하지만 현재 데이터상 그럴 확률이 낮습니다.</strong></p>
+
+<hr />
+
+<h2 id="-nexttheme-선별-기준">🎯 NextTheme 선별 기준</h2>
+
+<p>오늘 선별 기준을 정리하면:</p>
+
+<ul>
+  <li><strong>기관·외인 동시 순매수</strong> (수급)</li>
+  <li><strong>15분봉 60선 위 (중기 추세)</strong> — 가장 중요</li>
+  <li><strong>호가창 양호</strong> (즉시성)</li>
+  <li><strong>테마 대장주 동력 유지</strong> (테마 안정성)</li>
+</ul>
+
+<p>반도체 테마의 후보들은 <strong>테마 대장주 동력</strong>을 잃었습니다. 아무리 좋은 수급도, 전체 테마의 모멘텀이 약해지면 혼자 올라가기 어렵습니다.</p>
+
+<hr />
+
+<h2 id="-무포지션-판단-그것이-실력">🤐 무포지션 판단, 그것이 실력</h2>
+
+<p>오늘처럼 <strong>매크로 경고 4개, RED 등급</strong> 상황에서는 <strong>“좋은 기회가 없다”가 아니라 “조건이 부족하다”</strong>는 기준으로 접근합니다.</p>
+
+<ul>
+  <li>어제 선별 종목들은 어떻게? → 시초가 확인 후 복기</li>
+  <li>내일 아침 매크로 변수는? → 환율, 외인 수급, 반도체 연쇄 약세 추적</li>
+  <li>언제 다시 시작? → 매크로 경고 2개 이하 + 테마 대장주 동력 회복 시</li>
+</ul>
+
+<p><strong>기다리는 것도 전략입니다.</strong></p>
+
+<hr />
+
+<h2 id="-내일을-기다리며">💬 내일을 기다리며</h2>
+
+<p>내일 시초가는 이번 매크로 쇼크를 얼마나 소화할지가 관건입니다.</p>
+
+<ul>
+  <li>환율이 1,500원 아래로 내려올 때까지 조심</li>
+  <li>외인 5일 연속 매도 추세가 꺾일 때까지 조심</li>
+  <li>반도체 대장주 주성엔지니어링의 15분봉 60선 복귀까지 조심</li>
+</ul>
+
+<p><strong>댓글로 의견 나눠주세요! 내일 시초가 함께 분석해요 😊</strong></p>
+
+<hr />
+
+<p>#종가배팅 #수급분석 #주식투자 #무포지션 #NextTheme #반도체테마 #매크로분석 #기다림</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[😰 오늘 시장을 한마디로]]></summary></entry><entry><title type="html">RED — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/20/0600-briefing/" rel="alternate" type="text/html" title="RED — 오늘 아침 시황" /><published>2026-05-20T06:00:00+09:00</published><updated>2026-05-20T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/20/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/20/0600-briefing/"><![CDATA[<p>💔 미국 3대 지수가 한 번에 -0.65~-0.84%씩 내려앉았습니다. 글로벌 채권금리 급등이 주범입니다. 국내도 예외가 아닌데요 — 코스피가 <strong>7,271원(-3.25%)</strong> 락을 기록했거든요. 이럴 땐 차근차근 상황을 살펴봐야 합니다.</p>
 
 <h2 id="미국-야간-시장-브리핑">미국 야간 시장 브리핑</h2>
 
@@ -898,86 +999,4 @@
 
 <p>💬 <strong>댓글로 의견 나눠주세요!</strong> 이번 주 시장 전망, 다음 주 진입 계획을 나눠주시면 분석에 반영하겠습니다. 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
 
-<p>#주간리뷰 #코스피 #외국인매도 #반도체 #AI광통신 #우주항공 #종가배팅 #수급분석 #주식투자 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="weekly" /><summary type="html"><![CDATA[코스피가 8000선을 역사적으로 처음 돌파했다가 급락했던 한 주였습니다. 외국인 100조원 순매도, 금리 우려, 개인 빚투 폭증이 맞물리면서 투자자들의 심장이 철렁했을 법합니다.]]></summary></entry><entry><title type="html">RED 등급 — 월요일 개장 핵심 변수</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/17/weekend/" rel="alternate" type="text/html" title="RED 등급 — 월요일 개장 핵심 변수" /><published>2026-05-17T06:00:00+09:00</published><updated>2026-05-17T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/17/weekend</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/17/weekend/"><![CDATA[<p>내일 월요일이 두렵다면 읽어야 할 분석입니다. 주말 동안 변해버린 세계 시장의 신호들을 정리해볼게요.</p>
-
-<h2 id="미국-야간-시장--반도체-쇼크가-흔들고-있어요">미국 야간 시장 — 반도체 쇼크가 흔들고 있어요</h2>
-
-<p>지난주 미국 주식 시장이 큰 폭 하락했습니다. 다우지수 <strong>-1.07%</strong>, S&amp;P 500 <strong>-1.24%</strong>, 나스닥 <strong>-1.54%</strong>. 특히 기술주가 몰려 있는 나스닥의 낙폭이 가장 크다는 게 중요합니다.</p>
-
-<p><strong>가장 큰 충격은 반도체</strong>에서 나왔어요. 미국 필라델피아 반도체 지수가 <strong>-4%</strong> 내려갔습니다. 삼성, SK하이닉스 같은 한국 반도체 기업들도 이 충격을 피할 수 없다는 뜻입니다.</p>
-
-<p>그리고 또 하나의 신호 — <strong>공포지수 VIX가 6.78% 올라갔습니다</strong>. 투자자들의 불안감이 커지고 있다는 신호죠. <strong>환율도 1500원대에 진입</strong>했어요. 원화가 약해지면 수출을 많이 하는 회사들의 실적이 나빠집니다.</p>
-
-<h2 id="월요일-개장-어떻게-될까요">월요일 개장, 어떻게 될까요?</h2>
-
-<p><strong>갭 하락 장을 예상합니다.</strong> 미국의 반도체 약세 + VIX 상승 + 환율 상승이 모두 함께 작용하면서, 월요일 시가는 지난주 종가보다 <strong>3% 이상 낮게 시작</strong>할 가능성이 높습니다.</p>
-
-<p>특히 <strong>KOSPI 7450 저항선이 붕괴되면 7350까지 추가로 내려갈 수 있어요.</strong> 기술주와 중소형 회사들이 선매도 압박을 받을 것입니다.</p>
-
-<h2 id="오늘-아침-베팅-등급--red">오늘 아침 베팅 등급 — RED</h2>
-
-<p>등급: <strong>RED</strong> (매매 신중 단계)<br />
-센티먼트: <strong>0점</strong> (완전 중립, 위험 신호)</p>
-
-<h3 id="당신이-해야-할-것">당신이 해야 할 것</h3>
-
-<p><strong>신규 진입은 피하세요.</strong> 월요일은 “사는 날”이 아닙니다.</p>
-
-<p><strong>보유 중인 종목이 있다면</strong>:</p>
-<ul>
-  <li>현재가 대비 <strong>-2% 이상</strong> 떨어지면 절반을 팔아서 손실을 줄이세요 (익절)</li>
-  <li><strong>-5% 이상</strong> 떨어지면 남은 절반도 전부 판매하세요 (손절)</li>
-</ul>
-
-<p><strong>시초가 갭 후 관찰</strong>:
-월요일 시작 후 30분 동안 <strong>-3% 이상 내려간 섹터</strong>에서 거래량이 제일 많은 종목을 메모해두세요. 이런 종목들은 다음주 반등의 주인공이 될 가능성이 있습니다. 지금은 아니고, <strong>다음주 화요일 이후</strong>에 접근하세요.</p>
-
-<h2 id="주목할-섹터는-뭘까요">주목할 섹터는 뭘까요?</h2>
-
-<p>이 약세장 속에서도 강한 몇 가지 섹터들이 있어요:</p>
-
-<p><strong>1. 서울고속버스터미널 재개발 수혜주</strong> — +3.56% (지역개발·부동산)<br />
-기술주가 내려갈 때 부동산 수혜주는 오히려 올랐습니다. 상대 강세를 유지할 가능성이 있어요.</p>
-
-<p><strong>2. 윤활유 관련주</strong> — +3.24%<br />
-주간 유일의 강세 섹터입니다. 에너지 가격이 반영된 거거든요. 하락장 속 “방어 선수”로 기능할 수 있습니다.</p>
-
-<p><strong>3. 선박·운송 지수 회복</strong> — BDI +186, SCFI +186<br />
-주간에 달라진 흐름입니다. 향후 중기 모멘텀을 판단할 때 중요합니다.</p>
-
-<h2 id="외국인과-기관의-신호">외국인과 기관의 신호</h2>
-
-<p>지난주 <strong>외국인과 기관이 동시에 순매도를 진행했어요. 규모는 -7.1조원</strong>입니다. 큰 손들이 팔고 있다는 신호죠.</p>
-
-<p>반대로 <strong>개미 투자자들은 +7.1조원을 샀어요.</strong> 하지만 개미만으로는 기관과 외국인의 매도 압력을 이겨내기 어렵습니다.</p>
-
-<h2 id="삼성-파업-금융사-실적-악화--기초-흔들리는-중">삼성 파업, 금융사 실적 악화 — 기초 흔들리는 중</h2>
-
-<p>주간 뉴스도 부정적입니다:</p>
-
-<ul>
-  <li><strong>삼성 파업 변수</strong>가 다시 부각되면서 전자·자동차 섹터의 실적 우려가 확산되고 있어요</li>
-  <li><strong>손보사 1분기 순익이 13% 감소</strong>했어요. 금융 섹터도 약해지고 있습니다</li>
-  <li><strong>원화 1500원 돌파</strong>가 확정되면서 수출주들의 환율 악화가 시작되고 있어요</li>
-</ul>
-
-<p>긍정적인 소식은 거의 없습니다. 개미 순매수만으로는 충분한 지지 메커니즘이 되지 못하고 있어요.</p>
-
-<h2 id="월요일-이후-전략--3가지-원칙">월요일 이후 전략 — 3가지 원칙</h2>
-
-<p><strong>1. 손절선 정하기</strong><br />
-월요일 시초가 기준으로 <strong>-3% 이상</strong> 낙폭이 확정되면 흔들리지 말고 전량 정리하세요. 시스템매도 장에서는 빨리 판단하는 것이 생존의 원칙입니다.</p>
-
-<p><strong>2. 익절 영역 확인</strong><br />
-고점 대비 <strong>±1~2% 범위 내 상승</strong>이 나오면 50%를 실현하고 남은 절반만 보유하세요. 추가 낙장 충격을 최소화하는 방법입니다.</p>
-
-<p><strong>3. 재진입 타이밍 메모</strong><br />
-<strong>개미 순매수가 지속되고 + 기관이 실현매도를 완료하는 시점(보통 11시 이후)</strong>을 지켜보세요. 그 시점에서 저가 재진입 기회가 나올 수 있습니다.</p>
-
-<h2 id="정리--월요일을-이기려면">정리 — 월요일을 이기려면</h2>
-
-<p>월요일 개장은 위험할 가능성이 높습니다. 미국 반도체 약세, VIX 상승, 환율 1500원, 기관·외국인 순매도가 모두 함께 작용하고 있거든요. <strong>기존 포지션 방어에 집중하고, 신규 진입은 다음주를 기다리세요.</strong></p>
-
-<p>💬 댓글로 의견 나눠주세요! 월요일 어떻게 대응할 건지 함께 얘기해봐요. 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
-
-<p>#종가배팅 #주말브리핑 #주식투자 #월요일 #수급분석 #NextTheme #투자심리 #기술주 #반도체 #갭하락</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[내일 월요일이 두렵다면 읽어야 할 분석입니다. 주말 동안 변해버린 세계 시장의 신호들을 정리해볼게요.]]></summary></entry></feed>
+<p>#주간리뷰 #코스피 #외국인매도 #반도체 #AI광통신 #우주항공 #종가배팅 #수급분석 #주식투자 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="weekly" /><summary type="html"><![CDATA[코스피가 8000선을 역사적으로 처음 돌파했다가 급락했던 한 주였습니다. 외국인 100조원 순매도, 금리 우려, 개인 빚투 폭증이 맞물리면서 투자자들의 심장이 철렁했을 법합니다.]]></summary></entry></feed>
