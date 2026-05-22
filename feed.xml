@@ -1,208 +1,148 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-05-22T15:47:39+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">반도체 대장 SFA반도체 외 3종 — NT2 수급 집중 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/22/nt2-1505-snapshot/" rel="alternate" type="text/html" title="반도체 대장 SFA반도체 외 3종 — NT2 수급 집중 분석" /><published>2026-05-22T15:05:00+09:00</published><updated>2026-05-22T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/22/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/22/nt2-1505-snapshot/"><![CDATA[<h2 id="어제는-못-샀어요-내일-시초가에-사는-게-정답입니다">어제는 못 샀어요, 내일 시초가에 사는 게 정답입니다</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-05-22T16:06:43+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">광통신·반도체 양 테마</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/22/nt2-1505-snapshot/" rel="alternate" type="text/html" title="광통신·반도체 양 테마" /><published>2026-05-22T15:05:00+09:00</published><updated>2026-05-22T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/22/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/22/nt2-1505-snapshot/"><![CDATA[<h2 id="-오늘-시장을-한마디로">📊 오늘 시장을 한마디로</h2>
 
-<p>오늘 코스닥은 반도체·광통신·MLCC 3개 섹터가 동시 급등했습니다. 특히 주도주들이 장 마감 직전까지 매수 호가에 돈을 쌓으면서, 내일 아침 시초가 갭업을 노리는 글로벌 머니플로우의 신호가 명확합니다.</p>
-
-<p>NextTheme 알고리즘이 이 흐름을 포착해 3종목을 선별했습니다. 어제 못 산 투자자들이 내일 시초가에 “어제 그 종목” 찾을 FOMO(공포의 심리)를 미리 준비하는 전략입니다.</p>
+<p>코스닥이 <strong>+4.7%</strong> 강하게 마감한 날입니다. 양자컴퓨팅 글로벌 투자 확산 뉴스와 함께 광통신·반도체 두 테마가 동시에 빛났어요. 내일 이 종목들의 기대감이 시초가에 반영될 가능성이 높습니다. 🚀</p>
 
 <hr />
 
-<h2 id="오늘-시장-브리핑">오늘 시장 브리핑</h2>
+<h2 id="-오늘의-시장-환경">💼 오늘의 시장 환경</h2>
 
-<p><strong>반도체 테마 리더십 확보</strong></p>
-<ul>
-  <li>반도체 지수 +12.8% 상승 — 삼성전자 신제품 발표 + 대만 TSMC 호실적 순환 진입</li>
-  <li>외국인 순매수 <strong>+427.3억원</strong> — 글로벌 펀드의 코스닥 반도체 집중 매수</li>
-</ul>
+<p>어제 미국 시장이 어떻게 움직였나 먼저 정리해 보겠습니다. 글로벌 기술주들이 양자컴퓨팅 상용화 기대감으로 움직이면서, 이 바람이 한국 시장에도 들어온 것 같습니다. 특히 통신 인프라와 반도체 분야에 쏠린 외국인 수매가 눈에 띄네요.</p>
 
-<p><strong>광통신 신흥 테마 부상</strong></p>
-<ul>
-  <li>양자컴퓨팅 글로벌 투자 확대 신호 + 국내 5G·6G 인프라 수혜주 재평가</li>
-  <li>외국인 가속 유입 <strong>+393.1억원</strong> — 테마 상승 초기 단계(1일차)</li>
-</ul>
-
-<p><strong>MLCC 섹터 폭발적 상승</strong></p>
-<ul>
-  <li>삼성전자 부품사 1.6조 원 계약 체결 → 국내 완성도 높은 MLCC 업체 수혜 집중</li>
-  <li>섹터 평균 등락률 <strong>+12.3%</strong> — 내일도 추격 매수 기대</li>
-</ul>
+<p>오늘 코스닥이 강세를 보인 것도 이 때문입니다. 거래대금이 평소보다 30~40% 늘어나면서 큰손(기관, 외국인)들이 뭔가 움직이고 있다는 신호가 보입니다.</p>
 
 <hr />
 
-<h2 id="핵심-선별-종목-3개">핵심 선별 종목 3개</h2>
+<h2 id="-핵심-선별-3종목">🎯 핵심 선별 3종목</h2>
 
-<h3 id="1-sfa반도체036540--반도체-테마-대장주-45-집중-배팅">1. SFA반도체(036540) — 반도체 테마 대장주 45% 집중 배팅</h3>
+<h3 id="1️⃣-sfa반도체-036540--반도체-테마-대장주">1️⃣ <strong>SFA반도체</strong> (036540) — 반도체 테마 대장주</h3>
 
-<p><strong>현재가 &amp; 수급 흐름</strong></p>
+<table>
+  <tbody>
+    <tr>
+      <td>**현재가: 10,250원</td>
+      <td>오늘 변화: +14.5%**</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>가장 강한 종목입니다. 반도체 섹터에서 이 정도 수급을 보는 건 흔하지 않아요.</p>
+
 <ul>
   <li>
-    <table>
-      <tbody>
-        <tr>
-          <td>현재 **10,250원</td>
-          <td>오늘 +14.5%</td>
-          <td>거래대금 2,894억원**</td>
-        </tr>
-      </tbody>
-    </table>
+    <p><strong>수급 신호</strong>: 외국인이 어제 60만 주를 팔았지만, 여기엔 비결이 있습니다. 거래대금이 무려 <strong>7,083억원</strong> 수준인데, 이 정도면 대규모 프로그램(자동매매) 청산이 일부 섞여 있다는 뜻입니다. 실제로 지난 60일 동안 외국인은 <strong>741억원</strong> 순매수를 유지하고 있어서, 오늘 판매는 일시적 조정일 가능성이 높습니다.</p>
   </li>
-  <li>거래량 <strong>6.2배 폭증</strong> — 평소(20일 평균 10억주)의 6배 이상 매매</li>
-  <li>외국인 3일 연속 순매수: <strong>+137.9억 → +91.3억</strong> — 글로벌 자금 지속 유입</li>
-</ul>
-
-<p><strong>차트 강세 신호</strong></p>
-<ul>
-  <li>15분봉 60선 <strong>위쪽에 위치</strong> — 단기 강한 상승 추세 진행 중</li>
-  <li>RSI 68.1 — 과열(80) 직전, <strong>추가 상승 여력 충분</strong></li>
-  <li><strong>52주 신고가권 93% 도달</strong> — 내일 신고가 돌파 시 추격 매수 폭증</li>
-</ul>
-
-<p><strong>대장주 모멘텀의 의미</strong>
-매수 호가에 큰 돈이 두껍게 쌓여 있는 상태(호가 등급 A_PLUS)라는 것은, 기관과 외국인이 “내일 급등할 것 같으니 지금 대기 중”이라는 신호입니다. 장 마감 직전 매수한 투자자들이 내일 시초가에 <strong>+3% 이상 수익 실현하는 광경</strong>을 기대할 수 있습니다.</p>
-
-<p><strong>NextTheme의 선택 이유</strong>: 반도체 테마의 명확한 리더 + 외인 3일 연속 매수 + 거래량 폭증 + RSI 여력 = 가장 확실한 갭업 시나리오</p>
-
-<p><strong>배팅 방법</strong></p>
-<ul>
-  <li>장 마감 직전 매수</li>
-  <li>익일 시초가 갭업 <strong>+3% 시 1차 분할 매도</strong></li>
-  <li>갭다운 -2% 손절</li>
+  <li>
+    <p><strong>차트 신호</strong>: 15분봉에서 60선(중기 이동평균)을 <strong>위에서 유지</strong> 중입니다. 이건 단기 추세가 여전히 강하다는 뜻이에요. 호가창(매수 대기 물량)도 A+ 등급으로 좋은 상태입니다.</p>
+  </li>
+  <li>
+    <p><strong>과열 확인</strong>: RSI(열도)가 <strong>68.1</strong>인데, 과열 단계(70 이상)에 거의 다 왔어도 아직 여유가 있습니다. 내일 시초가에 3% 이상 갭업할 가능성이 충분합니다.</p>
+  </li>
+  <li>
+    <p><strong>전략</strong>: 오늘 장 마감 직전 매수, 내일 시초가에서 갭업 후 1차 매도 권장. 목표: <strong>+3%</strong>. 손절: <strong>-2%</strong>.</p>
+  </li>
 </ul>
 
 <hr />
 
-<h3 id="2-쏠리드050890--광통신-테마-상승-초기-진입-30">2. 쏠리드(050890) — 광통신 테마 상승 초기 진입 30%</h3>
+<h3 id="2️⃣-대한광통신-010170--광통신-테마-대장주">2️⃣ <strong>대한광통신</strong> (010170) — 광통신 테마 대장주</h3>
 
-<p><strong>현재가 &amp; 수급 흐름</strong></p>
+<table>
+  <tbody>
+    <tr>
+      <td>**현재가: 24,300원</td>
+      <td>오늘 변화: +13.2%**</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>양자컴퓨팅 글로벌 투자가 확산하면서 고속 통신 인프라 수요가 높아지고 있습니다. 그 흐름이 이 종목에 집중됐어요.</p>
+
 <ul>
   <li>
-    <table>
-      <tbody>
-        <tr>
-          <td>현재 **18,130원</td>
-          <td>오늘 +15.2%</td>
-          <td>거래대금 2,856억원**</td>
-        </tr>
-      </tbody>
-    </table>
+    <p><strong>수급 신호</strong>: 외국인이 오늘 오후 <strong>+11.2만 주</strong> 순매수했습니다. 매우 적극적인 움직임입니다. 거래대금도 <strong>3,966억원</strong>으로 평소의 1.5배 수준이에요.</p>
   </li>
-  <li>외국인 2일 연속 순매수: <strong>+74.4억 → +322.7억</strong> — 4배 이상 가속 매수</li>
-  <li>기관 순매수 <strong>+218.2억</strong> — 테마 상승 초기 진입 단계 신호</li>
-</ul>
-
-<p><strong>차트 상승 세팅</strong></p>
-<ul>
-  <li>15분봉 60선 위쪽 + 매수 호가 두꺼움(호가 등급 A)</li>
-  <li>RSI 60.1 — 과열 구간 아님, <strong>상승 여력 충분</strong></li>
-  <li>52주 신고가 방향, 내일 추격 매수 기대</li>
-</ul>
-
-<p><strong>테마 의미</strong>
-양자컴퓨팅은 전 세계적으로 차세대 기술 핵심으로 평가받고 있습니다. 국내 광통신 업체들이 이 글로벌 투자 흐름에 수혜를 받기 시작했다는 뜻입니다. 특히 쏠리드는 테마 상승의 1일차 진입주 — 이제 막 외인 눈에 띄기 시작한 상태입니다.</p>
-
-<p><strong>배팅 방법</strong></p>
-<ul>
-  <li>장 마감 직전 매수</li>
-  <li>익일 시초가 갭업 <strong>+4% 시 1차 분할 매도</strong></li>
-  <li>갭다운 -2% 손절</li>
+  <li>
+    <p><strong>차트 신호</strong>: 15분봉 60선을 단단히 위에서 유지하고 있고, 호가창도 A+ 등급입니다. 문제는 투자경고 지정되어 있다는 건데, 단기 갭 전략에는 영향을 주지 않습니다.</p>
+  </li>
+  <li>
+    <p><strong>추가 여력</strong>: RSI가 <strong>62.3</strong>이라 여전히 추가 상승 여지가 충분합니다. 광통신 대장주가 오르면 후발주들도 함께 따라갑니다.</p>
+  </li>
+  <li>
+    <p><strong>전략</strong>: 시초가 갭업 시 <strong>+4%</strong>를 1차 익절 목표로 잡으세요. 손절은 <strong>-2%</strong>.</p>
+  </li>
 </ul>
 
 <hr />
 
-<h3 id="3-삼화콘덴서001820--mlcc-섹터-폭발-25">3. 삼화콘덴서(001820) — MLCC 섹터 폭발 25%</h3>
+<h3 id="3️⃣-쏠리드-050890--광통신-후발주">3️⃣ <strong>쏠리드</strong> (050890) — 광통신 후발주</h3>
 
-<p><strong>현재가 &amp; 수급 흐름</strong></p>
+<table>
+  <tbody>
+    <tr>
+      <td>**현재가: 18,130원</td>
+      <td>오늘 변화: +9.8%**</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>대장주 010170이 이끄는 광통신 테마의 확산 흐름에 올라타는 종목입니다.</p>
+
 <ul>
   <li>
-    <table>
-      <tbody>
-        <tr>
-          <td>현재 **102,000원</td>
-          <td>오늘 +30% 상한가</td>
-          <td>거래대금 3,267억원**</td>
-        </tr>
-      </tbody>
-    </table>
+    <p><strong>수급 신호</strong>: 외국인이 2일 연속 순매수하고 있어요. 어제 <strong>74.4억</strong>, 오늘 <strong>322.7억</strong>으로 증가 추세입니다. 이건 테마 인정이 시작됐다는 신호입니다.</p>
   </li>
-  <li>거래량 <strong>5.8배 폭증</strong> — 매물이 거의 없는 상태(공급 부족 상황)</li>
-  <li><strong>기관 7일 연속 순매수 +32.5억</strong> — 오래 전부터 천천히 모으던 대가가 오늘 터진 상황</li>
-  <li>52주 신고가 돌파 완료</li>
-</ul>
-
-<p><strong>기술적 과열 신호 &amp; 기회</strong></p>
-<ul>
-  <li>RSI 80.8 — <strong>매우 높은 수준</strong>이지만, 오늘 하루 만에 올라온 것이므로 내일 추격 매수가 터질 가능성 높음</li>
-  <li>15분봉 60선 완벽하게 위쪽 — 단기 강한 추세 진행 중</li>
-  <li>삼성전자 부품사 <strong>1.6조 원 계약</strong> — 이것이 내일까지 소수 투자자만 아는 호재일 가능성</li>
-</ul>
-
-<p><strong>숨은 의미</strong>
-기관들이 7일 연속 순매수한 것은 이들이 “내일 무언가 터질 것”을 알고 있었다는 뜻입니다. 오늘 30% 상한가로 터진 지금도, 내일 아침 시초가에서 추격 매수하려는 투자자들이 몰릴 것으로 예상됩니다.</p>
-
-<p><strong>배팅 방법</strong></p>
-<ul>
-  <li>장 마감 직전 매수</li>
-  <li>익일 시초가 갭업 <strong>+3% 시 1차 분할 매도</strong></li>
-  <li>갭다운 -2% 손절</li>
+  <li>
+    <p><strong>차트 신호</strong>: 15분봉 60선 위, 호가창 A등급, RSI <strong>60.1</strong>로 과열 전 상태입니다.</p>
+  </li>
+  <li>
+    <p><strong>유동성</strong>: 거래대금이 <strong>2,856억원</strong>이라 충분한 물량이 흘러다니고 있습니다. 오후 기관도 <strong>+1만주</strong> 순매수해서 기관까지 관심 보이고 있어요.</p>
+  </li>
+  <li>
+    <p><strong>전략</strong>: 후발주인 만큼 변동성이 더 클 수 있습니다. 시초가 갭업 시 <strong>+4%</strong>를 목표로, 손절은 <strong>-2%</strong> 엄수하세요.</p>
+  </li>
 </ul>
 
 <hr />
 
-<h2 id="nexttheme-알고리즘-통찰">NextTheme 알고리즘 통찰</h2>
+<h2 id="-nexttheme-알고리즘은-왜-이-3종목을-골랐을까">🤖 NextTheme 알고리즘은 왜 이 3종목을 골랐을까?</h2>
 
-<h3 id="왜-지금-이-3종목이-선별됐을까">왜 지금 이 3종목이 선별됐을까?</h3>
+<p>이 3종목이 선별된 이유는 <strong>세 가지 신호가 동시에 맞춰졌기 때문</strong>입니다.</p>
 
-<p><strong>1단계: 테마 필터</strong> — 반도체·광통신·MLCC 3개 테마가 거래대금 상위권에서 동시 부상</p>
+<p><strong>첫째, 15분봉 60선을 모두 위에서 유지하고 있습니다.</strong> 단기 추세가 강하다는 증거예요. 알고리즘이 가장 중요하게 보는 신호 중 하나입니다.</p>
 
-<p><strong>2단계: 대장주 확인</strong> — 각 테마의 리더 역할을 하는 종목들 추출</p>
+<p><strong>둘째, 호가창(매수 대기 물량) 상태가 모두 A 이상입니다.</strong> 이건 내일 시초가에서 매수 수요가 쏠려 있다는 뜻이에요. 수급이 받쳐준다는 신호입니다.</p>
 
-<p><strong>3단계: 수급 신호</strong> — 외국인·기관 매수 가속 + 거래량 폭증 + RSI 여력 확인</p>
-
-<p><strong>4단계: 차트 구간</strong> — 15분봉 60선 위쪽 + 호가창 두꺼움 = “내일 갭업 확률 높음” 신호</p>
-
-<p><strong>5단계: AI 종합 판단</strong> — “내일 시초가에 추격 매수 유입될 가능성” 최상 순위 종목들만 선별</p>
-
-<p>이것이 종가배팅의 핵심 원리입니다. 어제 못 샀다면, 내일 시초가에 다시 한 번 기회가 옵니다.</p>
+<p><strong>셋째, 어제부터 테마 확산이 시작됐습니다.</strong> 대장주(036540, 010170)가 이미 큰 움직임을 보이면서 후발주(050890)까지 연쇄적으로 오르고 있습니다. 이런 구조가 내일 시초가 갭업을 만듭니다.</p>
 
 <hr />
 
-<h2 id="반드시-알아야-할-위험-요소">반드시 알아야 할 위험 요소</h2>
+<h2 id="️-주의할-점">⚠️ 주의할 점</h2>
 
-<p><strong>미국 야간 나스닥 -1.5% 이상 급락 시</strong></p>
 <ul>
-  <li>글로벌 심리 급변 → 내일 코스닥 개장 후 갭다운(음의 갭) 발생 가능</li>
-  <li>이 경우 손절 -2% 엄수, 추격 매수 금지</li>
-</ul>
-
-<p><strong>환율 1,520원 돌파</strong></p>
-<ul>
-  <li>원화 약세 심화 → 외인 이탈 확대</li>
-  <li>다음주 수급 흐름 약화 신호</li>
-</ul>
-
-<p><strong>거래량 급격한 축소</strong></p>
-<ul>
-  <li>오늘처럼 거래량 폭발이 내일 지속되지 않으면, 추격 매수 세력 부재</li>
-  <li>이 경우 갭업 규모 제한적</li>
+  <li>
+    <p><strong>미국 야간 장</strong>: 국채 금리가 급등하거나 기술주가 떨어지면 내일 갭다운 가능성이 있습니다. 손절 <strong>-2%</strong>는 반드시 지키세요.</p>
+  </li>
+  <li>
+    <p><strong>원달러 환율</strong>: 1,520원을 넘으면 외국인 매도가 가속될 수 있습니다. 오늘 외국인 수매가 강한 만큼, 환율이 악화되면 꼬릿값(변수)이 됩니다.</p>
+  </li>
+  <li>
+    <p><strong>테마 피로</strong>: 광통신·반도체가 동시에 올라온 날입니다. 내일 개장 후 2~3시간 안에 수익 실현이 나올 가능성이 높으니, 계획한 익절가에 꼭 매도하세요.</p>
+  </li>
 </ul>
 
 <hr />
 
-<h2 id="최종-전략">최종 전략</h2>
+<h2 id="-결론">📝 결론</h2>
 
-<p><strong>오늘을 놓친 투자자들의 마지막 기회가 내일입니다.</strong> 장 마감 직전 3종목을 소량 진입해, 내일 아침 시초가 갭업 시 수익 실현하는 아침 벌이 전략이 추천됩니다.</p>
+<p>양자컴퓨팅 투자 확산이라는 글로벌 흐름이 한국 시장에 들어온 첫날입니다. 반도체와 광통신 양 대장주가 동시에 수급을 모으고, 후발주까지 따라가는 구조가 보입니다.</p>
 
-<p><strong>위험관리 3원칙</strong>:</p>
-<ol>
-  <li>익절 목표 달성하면 분할 매도 — 욕심 부리지 말 것</li>
-  <li>-2% 손절 엄수 — 마음의 준비 필수</li>
-  <li>미국 야간 악재 대비 — 개장 직후 상황판 확인</li>
-</ol>
+<p><strong>내일 시초가 갭업 확률은 높지만, 변동성도 클 겁니다.</strong> 목표가에 도달하면 빠르게 익절하고, 손절 규칙은 반드시 지키세요.</p>
+
+<p>💬 <strong>댓글로 오늘 수급을 어떻게 보셨는지 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</strong></p>
 
 <hr />
 
-<p>댓글로 의견 나눠주세요! 이웃 추가하면 매일 NextTheme 분석을 받아보실 수 있어요.</p>
-
-<p>#종가배팅 #수급분석 #반도체 #광통신 #MLCC #갭트레이딩 #NextTheme #SFA반도체 #쏠리드 #삼화콘덴서</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[어제는 못 샀어요, 내일 시초가에 사는 게 정답입니다]]></summary></entry><entry><title type="html">5/21 종가배팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/22/review-20260521-review/" rel="alternate" type="text/html" title="5/21 종가배팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-05-22T09:00:00+09:00</published><updated>2026-05-22T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/22/review_20260521-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/22/review-20260521-review/"><![CDATA[<blockquote>
+<p>#종가배팅 #수급분석 #주식투자 #NextTheme #갭트레이드 #광통신 #반도체 #시초가갭 #테마주</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[📊 오늘 시장을 한마디로]]></summary></entry><entry><title type="html">5/21 종가배팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/22/review-20260521-review/" rel="alternate" type="text/html" title="5/21 종가배팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-05-22T09:00:00+09:00</published><updated>2026-05-22T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/22/review_20260521-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/22/review-20260521-review/"><![CDATA[<blockquote>
   <p>데이터 기준: 2026-05-22 10:03 키움 ka10001 일괄 조회</p>
 </blockquote>
 
