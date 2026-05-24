@@ -1,141 +1,132 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-05-24T11:25:03+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">YELLOW — 월요일 개장, 외국인 수급이 갈린다</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/24/weekend/" rel="alternate" type="text/html" title="YELLOW — 월요일 개장, 외국인 수급이 갈린다" /><published>2026-05-24T06:00:00+09:00</published><updated>2026-05-24T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/24/weekend</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/24/weekend/"><![CDATA[<h2 id="내일이-결정한다">내일이 결정한다</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-05-24T11:58:59+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">YELLOW — 월요일 개장 핵심 변수</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/24/weekend/" rel="alternate" type="text/html" title="YELLOW — 월요일 개장 핵심 변수" /><published>2026-05-24T06:00:00+09:00</published><updated>2026-05-24T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/24/weekend</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/24/weekend/"><![CDATA[<p>안녕하세요! 한주간 정신없으셨죠? 오늘은 내일 월요일 개장을 앞두고 준비해야 할 핵심 변수들을 정리해드리겠습니다. 지난주 코스피가 <strong>7,493에서 7,847로 +4.7% 상승</strong>하며 강한 흐름을 보였는데, 월요일은 어떤 방향일까요?</p>
 
-<p>지금 한국 시장은 갈림길입니다. 미국은 3대 지수가 모두 올랐는데, 국내 외국인은 40조 원을 쏟아내고 있어요. 개인이 8조 원을 사고 있지만 역부족입니다. 바로 이게 월요일 시초가부터 결정 나는 이유입니다. 😰</p>
+<h2 id="-미국-야간-시장--환율-신호">🌍 미국 야간 시장 + 환율 신호</h2>
 
-<p>정리하면:</p>
+<p>지난 밤 미국 시장은 양수 신호를 보여줬습니다. 다우지수 <strong>+0.58%</strong>, S&amp;P500 <strong>+0.37%</strong>, 나스닥 <strong>+0.19%</strong> — 소폭 상승했네요. 다만 <strong>필라델피아 반도체지수는 +1.99%로 훨씬 강했습니다</strong>. 이건 한국 반도체 테마에 긍정 신호죠.</p>
+
+<p>하지만 조심해야 할 점이 있습니다. <strong>미국 국채(10년물) 수익률이 4.558%까지 올라가면서 고금리 부담이 상존</strong>하고 있습니다. 유가는 안정적으로 <strong>WTI 96.6달러(+0.25%)</strong> 유지 중입니다.</p>
+
+<p>원달러환율도 주시하세요. 지난주 내내 1,513원 근처에서 움직이며 최고 <strong>1,520원에 근접</strong>했습니다. 환율 상승은 수출주에게는 긍정이지만, 수입 원가 상승 산업에는 부담이 될 수 있습니다.</p>
+
+<h2 id="-월요일-베팅-등급-및-대응-전략">📊 월요일 베팅 등급 및 대응 전략</h2>
+
+<p>오늘의 등급은 <strong>YELLOW(경계)</strong> 입니다. 감정지수 <strong>35점</strong>인데, 이는 “조심스러운 낙관”을 의미합니다.</p>
+
+<p><strong>월요일 전망</strong>: 강보합~약보합 예상</p>
 <ul>
-  <li><strong>미국</strong>: 다우 +0.58%, S&amp;P500 +0.37%, 나스닥 +0.19% (약보합)</li>
-  <li><strong>한국</strong>: 외국인 40조 순매도 (월간 최대), 개인 8조 순매수로 방어</li>
-  <li><strong>국채금리</strong>: 미국 4.56%까지 급등 (금리 민감주 약세 신호)</li>
+  <li>개인 매수세(주당 +8조) 기대감 vs 외인의 지속적인 배치 미스매치로 <strong>변동성이 확대될 가능성</strong> 높음</li>
+  <li><strong>반도체 60선 지지선 여부</strong>가 월요일 기준점</li>
+  <li>개인이 매수하면 상승, 외인이 팔면 하락하는 “힘겨루기” 상황</li>
 </ul>
 
-<h2 id="미국-장말-매도압력이-보인다">미국, 장말 매도압력이 보인다</h2>
+<p><strong>차주 대응 전략(5가지 원칙)</strong>:</p>
+<ol>
+  <li>반도체 테마 연속성 추적 — 대장주가 상한가(<strong>+20% 근접</strong>)에 갈 수 있으니 경고 주시</li>
+  <li><strong>외인 차익실현 물량</strong> 및 <strong>국민연금 리밸런싱(5월28일)</strong> 결과 대기</li>
+  <li>기술적 분석 강화: 15분봉 60선·호가창 강도 필터 유지</li>
+  <li>신규 진입은 보수적으로, 기존 보유 종목 <strong>부분 익절 권장</strong></li>
+  <li>금리 상승 신호 시 <strong>손절 즉시 실행</strong></li>
+</ol>
 
-<p>미국 지수가 올랐지만 캔들 모양이 문제입니다. 특히 S&amp;P500과 나스닥은 상단 심지(위꼬리)가 길게 나왔어요. 이건 “올려고 했는데 결국 팔렸다”는 신호입니다. 장중 매도 압박이 있었다는 뜻이죠.</p>
+<h2 id="️-주목할-변수--이-3가지가-월요일을-결정합니다">⚠️ 주목할 변수 — 이 3가지가 월요일을 결정합니다</h2>
 
-<p>더 문제는 국채금리입니다. 미국 기준금리 인상이 빠질 거라는 기대(약달러, 약금리)는 사라졌고, 오히려 4.56%까지 올라갔어요. 이건:</p>
+<p><strong>① 외인 40조 순매도 압력</strong></p>
+
+<p>지난주 외국인투자자가 무려 <strong>40조원어치를 순매도</strong>했습니다. 이는 평소의 2~3배 규모입니다. 월요일도 이 흐름이 계속되면 개인의 매수력으로 버틸 수 없습니다. — <strong>외인 배치 동향 체크 필수</strong></p>
+
+<p><strong>② 고금리 환경의 빚투 폭증 리스크</strong></p>
+
+<p>주담대 금리가 <strong>5%를 돌파</strong>했고, 마이너스통장도 <strong>1조5,000억 증가</strong>했습니다. 빚으로 주식 사는 개인들이 늘어났다는 신호죠. 시장이 조정되면 이들의 손절이 한꺼번에 터질 수 있습니다. — <strong>변동성 확대 신호</strong></p>
+
+<p><strong>③ 국민연금 리밸런싱(5월28일)</strong></p>
+
+<p>국민연금이 5월28일(수요일)에 대규모 리밸런싱을 할 예정입니다. 이게 언제 나올지, 얼마나 팔 것인지가 중반부 변수가 됩니다.</p>
+
+<h2 id="-주목-섹터--다음주-핫한-3가지">💡 주목 섹터 — 다음주 “핫”한 3가지</h2>
+
+<p><strong>1. 반도체(반도체기판·시스템)</strong></p>
+
+<p><strong>양자컴퓨팅 글로벌 투자가 확산되는 초기 단계</strong>입니다. 테마가 EXPLOSION 1일차라고 봐도 무방합니다. 거래대금이 급증하고 있죠.</p>
+
+<p>⚠️ <strong>주의점</strong>: 대장주가 상한가에 근접하면 <strong>15:05 스냅샷에서 제외될 가능성</strong>이 있습니다. 왜냐하면 우리 알고리즘은 대장주가 너무 오르면(+20% 이상) 그 테마 전체를 필터하거든요. 추격 매수 자제하세요.</p>
+
+<p><strong>2. 광통신/네트워크</strong></p>
+
+<p>양자컴퓨팅 인프라 수혜주입니다. 테마가 확산 초기이고, <strong>기업성장집합투자기구(BDC) + 국민성장펀드</strong> 자금이 유입될 것으로 예상됩니다.</p>
+
+<p><strong>3. 바이오/헬스케어</strong></p>
+
+<p>K-바이오 글로벌 빅파마 콜라보가 늘어나고, <strong>원료의약품(API) 수주</strong>가 확대 중(유한양행·에스티팜). 실적 개선 모멘텀이 있는 섹터입니다.</p>
+
+<h2 id="-금요일-선별-복기--우리가-추천했던-3종목">📋 금요일 선별 복기 — 우리가 추천했던 3종목</h2>
+
+<p>금요일(22일)에 추천했던 3가지 종목의 실제 매매 상황을 짚고 넘어가겠습니다.</p>
+
+<p><strong>SFA반도체 (036540)</strong> — 보유 후보</p>
 <ul>
-  <li><strong>게임·비대면·소프트웨어</strong> 같은 기술주에 부담 (금리가 높으면 미래 수익 할인이 커짐)</li>
-  <li><strong>원화 약세</strong> 추가 악화 (USD/KRW +7.5원 — 환차손 리스크)</li>
+  <li>금요일 전략: 장 마감 직전 매수, 익일(토) 시초가 갭업 시 분할 매도</li>
+  <li>갭업 +3% 1차 매도, 갭다운 -2% 손절 설정</li>
+  <li>신뢰도: HIGH</li>
+  <li><strong>월요일 대응</strong>: 시초가를 관찰하되 갭업 추격은 자제하고, 눌림목을 대기하세요. YELLOW 환경에서는 규칙 기반으로 움직여야 합니다.</li>
 </ul>
 
-<h2 id="월요일-시초가는-올라도-장중이-문제">월요일: 시초가는 올라도 장중이 문제</h2>
-
-<p>좋은 소식부터 말하면, <strong>시초가는 갭상승 가능성 60%</strong>입니다. 왜냐하면:</p>
+<p><strong>대한광통신 (010170)</strong></p>
 <ul>
-  <li>미국 항공우주 산업 +5% (글로벌 테마 강함)</li>
-  <li>알루미늄 +6.7% (원자재 강세)</li>
-  <li>국내 양자컴퓨팅·광통신이 먼저 올라갔음 (선행지표)</li>
+  <li>금요일 전략: 장 마감 직전 매수, 익일 시초가 갭업 시 분할 매도</li>
+  <li>갭업 +4% 1차 매도, 갭다운 -2% 손절</li>
+  <li>신뢰도: MEDIUM</li>
+  <li><strong>월요일 대응</strong>: 마찬가지로 시초가 관찰 후 갭업 추격 자제, 눌림목 대기</li>
 </ul>
 
-<p><strong>하지만</strong> 장중 9시~11시가 위험합니다. 왜냐면:</p>
+<p><strong>쏠리드 (050890)</strong></p>
 <ul>
-  <li>외국인이 40조 원을 처분하는 중이거든요</li>
-  <li>시초가에 살짝 올라가면 “좋은 기회다” 싶어서 팔 겁니다</li>
-  <li>한은이 28일 기준금리 동결(2.5%) 예정 → 한미 금리차 축소 → 외국인 자금이 한국을 떠날 이유</li>
+  <li>금요일 전략: 장 마감 직전 매수, 익일 시초가 갭업 시 분할 매도</li>
+  <li>갭업 +4% 1차 매도, 갭다운 -2% 손절</li>
+  <li>신뢰도: MEDIUM</li>
+  <li><strong>월요일 대응</strong>: 동일하게 시초가 관찰 후 갭업 추격 자제</li>
 </ul>
 
-<h2 id="주목할-4개-섹터">주목할 4개 섹터</h2>
+<h2 id="-보유-종목-대응-가이드">🎯 보유 종목 대응 가이드</h2>
 
-<h3 id="양자컴퓨팅--광통신-강세-지속">양자컴퓨팅 · 광통신 (강세 지속)</h3>
-<p>국내 +7.6% 가파른 상승 중입니다. 미국 정부 지원 선전이 강하거든요. 하지만:</p>
+<p>현재 보유 중이라면, 이 <strong>5가지 매매 지침</strong>을 엄수하세요.</p>
+
+<p><strong>①익절 목표선 엄수</strong></p>
 <ul>
-  <li>외국인 순매도 전환 시 수익 실현 매도가 임박함</li>
-  <li><strong>시초가 후 기관 매수 세기 확인이 필수</strong></li>
+  <li>SFA반도체: +3% 도달 시 1차 매도</li>
+  <li>대한광통신·쏠리드: +4% 도달 시 1차 매도</li>
 </ul>
 
-<h3 id="mlcc--반도체-기판fc-bga">MLCC · 반도체 기판(FC-BGA)</h3>
-<p>국내 +12.6%, +7.5% — 가장 뜨거운 종목들입니다. AI 서버·이더넷 수요가 탄탄하지만:</p>
+<p><strong>②손절선 -2% 하단 설정 유지</strong></p>
 <ul>
-  <li>연쇄 갭다운 리스크 주의</li>
-  <li>시초가 후 <strong>기관이 사고 있는지 확인 후 진입</strong> 권장</li>
+  <li>급락장에서 추가 하락 가능성(국민연금 리밸런싱) 고려</li>
 </ul>
 
-<h3 id="원료의약품">원료의약품</h3>
-<p>수주 확대 뉴스가 긍정적입니다. 하지만 미국 국채금리 고공 → 벨류에이션 압박. <strong>외국인 순매수 확인 후 진입</strong>하세요.</p>
-
-<h3 id="게임">게임</h3>
-<p>AI 게임 플랫폼 전환 전망이 좋지만, 미국 금리 고착 → 선행 약세 확률 높음. <strong>신중하게 접근</strong>.</p>
-
-<h2 id="-금요일-선별-3종목-월요일은">💬 금요일 선별 3종목, 월요일은?</h2>
-
-<h3 id="sfa반도체-036540">SFA반도체 (036540)</h3>
-<p><strong>현황</strong>: 장마감 직전 HIGH 신뢰도로 선별했으나, 주말 미국 이벤트로 상황 변함</p>
-
-<p><strong>월요일 대응</strong>:</p>
+<p><strong>③수량 분할 익절로 리스크 분산</strong></p>
 <ul>
-  <li>시초가 갭업 <strong>+3% 이상 시 1차 분할 매도 (33%)</strong></li>
-  <li>장중 외국인 순매도 재확인 시 2차 손절 (-2%)</li>
+  <li>월요일 시초가 강하더라도 한 번에 다 팔지 말고, 3~4회에 나눠서 매도</li>
 </ul>
 
-<p><strong>⚠️ 리스크</strong>: 전강후약(시초가만 오르고 장중 밀림) 우려. 미국 지수 상승 + 한국 외국인 순매도 = 수급 불일치 상황입니다. <strong>외국인 수급 전환 신호 필수</strong>.</p>
-
-<hr />
-
-<h3 id="대한광통신-010170">대한광통신 (010170)</h3>
-<p><strong>현황</strong>: MEDIUM 신뢰도. 양자컴퓨팅 테마 강세 지속(국내 +7.6%)</p>
-
-<p><strong>월로일 대응</strong>:</p>
+<p><strong>④기술적 반전 시 빠른 손절</strong></p>
 <ul>
-  <li>시초가 후 <strong>기관 매수 세기 확인 후 진입</strong></li>
-  <li>외국인 순매도 지속 시 관망 유지</li>
+  <li>15분봉이 60선 하단으로 이탈하면 즉시 손절</li>
 </ul>
 
-<p><strong>⚠️ 리스크</strong>: 개인 8조·기관 +10조 순매수로 외국인 40조 순매도를 상쇄 불가 → 주도세 약화. 테마는 강하나 <strong>수급 부진 리스크 높음</strong>.</p>
-
-<hr />
-
-<h3 id="쏠리드-050890">쏠리드 (050890)</h3>
-<p><strong>현황</strong>: 네트워크/광통신 후발주. MEDIUM 신뢰도 + 광통신 섹터 과열(국내 +7.2%)</p>
-
-<p><strong>월요일 대응</strong>:</p>
+<p><strong>⑤매크로 신호 주시</strong></p>
 <ul>
-  <li>시초가 갭업 확인 후, <strong>대한광통신 선행 강도 재평가</strong> 시 분할 진입 고려</li>
-  <li>갭다운 -2% 넘으면 스킵</li>
+  <li>금리 급등 신호 감지 시 즉시 손절 실행</li>
 </ul>
 
-<p><strong>⚠️ 리스크</strong>: 후발주 특성상 대장주 동반 급락 시 낙폭이 더 클 수 있습니다. <strong>외국인 수급 확인 이전 진입 금지</strong>.</p>
+<h2 id="-결론--월요일을-이기는-마음가짐">📌 결론 — 월요일을 이기는 마음가짐</h2>
 
-<hr />
+<p>지난주 <strong>+4.7% 상승</strong>은 개인의 강한 매수력 때문이었습니다. 하지만 <strong>외인 40조 순매도</strong>와 <strong>국민연금 리밸런싱</strong>이라는 큰 변수가 남았습니다.</p>
 
-<h2 id="월요일-투자-전략-정리">월요일 투자 전략 정리</h2>
+<p>월요일은 “강보합~약보합”이 나올 가능성이 높습니다. <strong>개인 vs 외인의 힘겨루기</strong>가 될 것 같습니다.</p>
 
-<table>
-  <thead>
-    <tr>
-      <th>상황</th>
-      <th>대응</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>시초가 갭상승</strong></td>
-      <td>1차 매도 타이밍 (위에 기술)</td>
-    </tr>
-    <tr>
-      <td><strong>장중 9~11시 외국인 순매수</strong></td>
-      <td>주도세 확인 → 양자컴·광통신 추가 진입</td>
-    </tr>
-    <tr>
-      <td><strong>장중 9~11시 외국인 순매도 지속</strong></td>
-      <td>관망 우선. 2차 손절 임박 경고</td>
-    </tr>
-    <tr>
-      <td><strong>기관 주도 약화</strong></td>
-      <td>비대면·게임 섹터 진입 신중</td>
-    </tr>
-  </tbody>
-</table>
+<p><strong>핵심은 기술적 분석을 강화</strong>하고, <strong>수익은 챙기되 욕심내지 않기</strong>입니다. 반도체 테마는 매력적이지만, 상한가 근처에서 무리해서 쫓아가면 손해볼 수 있습니다.</p>
 
-<h2 id="마지막-한-마디">마지막 한 마디</h2>
+<p>댓글로 의견 나눠주세요! 월요일 예상 결과나 보유 종목 매매 전략을 공유해주시면 함께 분석하겠습니다. 이웃 추가하면 매일 NextTheme 분석을 받아보실 수 있어요 😊</p>
 
-<p>“이번 주말은 고민만 했습니다.” 미국은 올랐는데 국내는 외국인이 팔고 있거든요. 월요일 시초가는 갈 것 같지만, 9시~11시 외국인 수급이 갈린다면 <strong>그 이후가 결정</strong>됩니다.</p>
-
-<p>내일 아침 개장 후 1시간 — 외국인이 “계속 팔 것”인지 “사기로 전환했는지” 확인하세요. 그게 월요일 하루, 그리고 다음 주를 결정합니다.</p>
-
-<p>💬 댓글로 월요일 전략을 나눠주세요! 이웃 추가하면 매일 아침 분석 받아보실 수 있어요 😊</p>
-
-<p>#종가배팅 #수급분석 #주식투자 #외국인수급 #월요일개장전략 #양자컴퓨팅 #광통신테마</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[내일이 결정한다]]></summary></entry><entry><title type="html">YELLOW — 한 주가 끝났습니다</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/23/weekend/" rel="alternate" type="text/html" title="YELLOW — 한 주가 끝났습니다" /><published>2026-05-23T06:00:00+09:00</published><updated>2026-05-23T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/23/weekend</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/23/weekend/"><![CDATA[<p>한 주가 끝났습니다. 이번 주는 우리 증시에서 “흥미로운” 일들이 많았던 주였어요. 반도체·광통신·우주 테마가 뜨거웠던 한편, 외국인이 쉼 없이 팔아서 마음이 놓이지 않으셨던 분들도 많으실 것 같습니다. 🌙</p>
+<p>#종가배팅 #주말브리핑 #월요일대응 #반도체테마 #외인순매도 #국민연금리밸런싱 #수급분석 #기술적분석</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[안녕하세요! 한주간 정신없으셨죠? 오늘은 내일 월요일 개장을 앞두고 준비해야 할 핵심 변수들을 정리해드리겠습니다. 지난주 코스피가 7,493에서 7,847로 +4.7% 상승하며 강한 흐름을 보였는데, 월요일은 어떤 방향일까요?]]></summary></entry><entry><title type="html">YELLOW — 한 주가 끝났습니다</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/23/weekend/" rel="alternate" type="text/html" title="YELLOW — 한 주가 끝났습니다" /><published>2026-05-23T06:00:00+09:00</published><updated>2026-05-23T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/23/weekend</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/23/weekend/"><![CDATA[<p>한 주가 끝났습니다. 이번 주는 우리 증시에서 “흥미로운” 일들이 많았던 주였어요. 반도체·광통신·우주 테마가 뜨거웠던 한편, 외국인이 쉼 없이 팔아서 마음이 놓이지 않으셨던 분들도 많으실 것 같습니다. 🌙</p>
 
 <h2 id="미국-시장과-글로벌-리스크">미국 시장과 글로벌 리스크</h2>
 
