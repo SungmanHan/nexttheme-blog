@@ -1,125 +1,66 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-05-28T06:03:09+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">RED — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/28/0600-briefing/" rel="alternate" type="text/html" title="RED — 오늘 아침 시황" /><published>2026-05-28T06:00:00+09:00</published><updated>2026-05-28T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/28/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/28/0600-briefing/"><![CDATA[<h2 id="흔들리는-시장-신중이-최고의-무기">흔들리는 시장, 신중이 최고의 무기</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-05-28T06:49:16+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">RED — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/28/0600-briefing/" rel="alternate" type="text/html" title="RED — 오늘 아침 시황" /><published>2026-05-28T06:00:00+09:00</published><updated>2026-05-28T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/28/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/28/0600-briefing/"><![CDATA[<p>📉 오늘은 신중함이 필요한 날입니다. 야간 미국 증시 부진과 한국 주요 이벤트가 변동성을 높일 것 같은데, 투자자분들은 얼마나 조심스러운가요?</p>
 
-<p>어제 코스피는 사상 최고점(<strong>8,228.7 +2.25%</strong>)을 갱신했지만, 코스닥은 <strong>-3.36%</strong> 낙폭으로 심한 급락을 기록했습니다. 
-이런 양극화 속에 SK하이닉스는 시총 1조 달러를 돌파했고, 반도체 레버리지 ETF는 첫날 10조원의 거래량을 기록했죠.
-그런데 오늘은 경제 일정이 무거워집니다. <strong>당신이 지금 사야 할까요? 아니면 관망해야 할까요?</strong></p>
+<h2 id="미국-시장-야간-신호">미국 시장 야간 신호</h2>
 
-<p>오늘은 정말 큰 변수들이 많은 날입니다. 대기 후 신호를 읽는 것이 가장 현명한 선택이 될 수 있습니다.</p>
+<p>어제 밤 미국 증시는 약한 움직임을 보였습니다. 다우지수는 <strong>+0.36%</strong> 상승했지만, S&amp;P500은 <strong>+0.02%</strong> 거의 제자리걸음, 나스닥은 <strong>+0.07%</strong> 보합권입니다.</p>
 
-<hr />
+<p>더 우려스러운 신호는 반도체 섹터입니다. 필라델피아 반도체지수가 <strong>-1.36%</strong> 내려갔습니다. 미국 기술주가 조금씩 약해지고 있다는 뜻인데, 한국 반도체 주들이 어떻게 반응할지 지켜봐야 합니다.</p>
 
-<h2 id="미국-야간-시장--한은-결정">미국 야간 시장 + 한은 결정</h2>
+<p>미국 연방준비제도(Fed)에서도 금리인상을 재검토하라는 신호가 나오고 있어서, 오늘 경제지표(신규 주택판매, PCE 인플레이션)에 따라 장이 크게 흔들릴 수 있습니다.</p>
 
-<p>어제 미국 시장은 긍정적이었습니다. <strong>다우 +0.36%, S&amp;P500 +0.02%, 나스닥 +0.07%</strong> 정도의 소폭 상승을 기록했거든요.
-하지만 오늘 오전 <strong>한국은행 금리 결정(10:00)</strong>과 오후 <strong>미국 빅 데이터(21:30)</strong>가 터집니다.</p>
+<h2 id="어제-시장-흐름과-오늘의-베팅-등급">어제 시장 흐름과 오늘의 베팅 등급</h2>
 
-<p>한은은 기준금리를 <strong>2.5% 유지</strong>할 것으로 예상되지만, 미국 경제지표는 정말 중요합니다.
-GDP, PCE(소비자물가), 고용지표가 한번에 쏟아지는데, 이게 글로벌 경기를 좌우할 수 있습니다.
-만약 미국 데이터가 예상보다 약하다면? 야간 선물이 급락할 수 있고, 내일 아침 시초가에 큰 갭다운을 맞을 수 있습니다.</p>
+<p><strong>등급: RED(조심스러움)</strong>
+<strong>감정 점수: 25/100(약세 시그널 강함)</strong></p>
 
-<hr />
+<p>어제 코스닥이 <strong>-3.36%</strong> 떨어졌습니다. 개별 종목 중에는 이슈주(반도체, 부품주)로 쏠린 자금이 있지만, 대형주에 쏠린 흐름이 깊어지면서 일반 투자자들은 구경만 하는 상태입니다.</p>
 
-<h2 id="오늘의-베팅-등급--신중한-전략">오늘의 베팅 등급 &amp; 신중한 전략</h2>
+<p>반도체 강장이라는 뉴스가 나왔습니다. 하이닉스 실적 호조, 삼성SDS 상한가 상승 같은 긍정 요소들이 있지만, <strong>큰손들이 대형주로만 투자하려는 성향</strong>이 강해졌습니다. 개인 투자자들의 FOMO(놓친다는 두려움)도 약해지는 중입니다.</p>
 
-<p><strong>등급: RED (신중 모드 / 위험도 높음)</strong></p>
+<p>이란 종전협상이 불확실하고, 정부 의결기구(국민연금 170조 리밸런싱)의 자금 흐름도 언제 어느 방향으로 움직일지 예측하기 어렵습니다.</p>
 
-<p>오늘 베팅 심리도는 <strong>25점</strong> (매우 낮음)입니다.</p>
+<h2 id="-어제5월-27일-ai-선별-복기">📋 어제(5월 27일) AI 선별 복기</h2>
 
-<p>왜 빨강 등급일까요? 세 가지 이유가 있습니다:</p>
+<p>어제는 신중한 태도로 <strong>SK하이닉스(000660)</strong>를 장 마감 직전에만 매수하는 방안을 제시했습니다.</p>
+
+<p><strong>SK하이닉스 (000660)</strong></p>
+<ul>
+  <li>어제 전략: 시초가 갭업 시 1차 매도, 갭다운 -2% 손절</li>
+  <li>어제 실제 동작: <strong>보유하지 않음</strong>(매수 조건 미충족)</li>
+  <li>오늘 대응: exit_scenario(나가는 계획)을 그대로 따르세요</li>
+</ul>
+
+<p>⚠️ <strong>위험 신호</strong>: 야간 반도체 지수 <strong>-1.36% 약세</strong> + 한은 금리결정(<strong>10:00 발표</strong>) + PCE 인플레(<strong>21:30 미국 발표</strong>) → 시초가 갭 방향이 완전히 불확실합니다. 손절 조건인 <strong>-2%</strong>를 반드시 사전에 설정하세요.</p>
+
+<p>더 자세히 설명하면, 어제 SK하이닉스는 신고가 돌파 + 기관이 5일 연속 사고 있었습니다. 호가창(매수/매도 주문 현황)도 A+ 등급으로 매우 강했습니다. 그래서 시초가에 오르기를 기대했습니다.</p>
+
+<p>하지만 <strong>야간 반도체 약세 + 금리 불확실성</strong>이 커지면서 새벽이 되니 반도체의 모멘텀이 식어버렸습니다. 오늘 <strong>한은 금리결정 발표(10:00)</strong>가 있는데, 금리를 올리면 주식에 나쁘고, 안 올리면 인플레이션 우려가 커집니다. 또 <strong>21:30에 미국 PCE 인플레 통계</strong>가 나오는데, 이것도 변동성을 키울 겁니다.</p>
+
+<h2 id="오늘의-투자-전략">오늘의 투자 전략</h2>
+
+<p>아래 3가지만 기억하세요:</p>
 
 <ol>
-  <li><strong>사이드카 발동 리스크</strong> — 시초가에 너무 큰 갭이 생기면 거래소가 자동으로 시장을 멈추는데, 이게 오늘 아침에 터질 수 있습니다.</li>
-  <li><strong>국민연금 리밸런싱</strong> — 국민연금이 약 170조원대의 포트폴리오를 손질하고 있어서, 대형주 중심으로 변동성이 확대되고 있습니다.</li>
-  <li><strong>반도체 쏠림</strong> — 반도체 투자자들이 몰려서 ETF 거래량이 폭증하는데, 이것도 광폭 변동성의 신호입니다.</li>
+  <li>
+    <p><strong>신규 매수는 신중하게</strong> — 시초가 갭 방향이 보일 때까지 기다리세요. 신규 진입 시 포지션은 <strong>전체 자금의 30% 이하</strong>로 제한하세요.</p>
+  </li>
+  <li>
+    <p><strong>보유 중인 종목은 계획대로</strong> — 어제 정한 나가는 조건(exit scenario)을 꼭 지키세요. 욕심내지 말고, 목표가에서 나가는 게 정답입니다.</p>
+  </li>
+  <li>
+    <p><strong>장중 경제지표 감시</strong> — 오늘은 뉴스 따라 시장이 크게 움직일 수 있습니다. 특히 한은 금리결정(10:00)과 미국 경제지표(21:30)가 중요합니다.</p>
+  </li>
 </ol>
-
-<p><strong>당신은 어떻게 해야 할까요?</strong></p>
-
-<ul>
-  <li><strong>장 초반(10:30경) 변동성이 안정된 후</strong> 핵심 경제지표 결과를 확인해주세요.</li>
-  <li><strong>신규 베팅은 경기 변곡점 신호</strong>가 명확해질 때까지 미루기를 권합니다.</li>
-  <li><strong>기존 보유 포지션</strong>이 있다면? 아래 복기 섹션을 꼭 읽어주세요.</li>
-</ul>
-
-<hr />
-
-<h2 id="-어제-ai-선별-복기">📋 어제 AI 선별 복기</h2>
-
-<p>어제(5월 27일) 선택된 종목들의 상황입니다. 당신이 보유 중이라면 꼭 확인하세요.</p>
-
-<h3 id="한화오션-042660--보유-중">한화오션 (042660) — 보유 중</h3>
-
-<p>어제는 현물 포지션을 유지하기로 했습니다 (540주 @135,000원).</p>
-
-<p><strong>오늘 대응</strong>: 시초가 갭을 먼저 확인한 후, 현물 매도 여부를 판단하면 됩니다.</p>
-
-<p><strong>왜 조심해야 할까요?</strong>
-어제 코스피가 2.25% 올랐는데, 해운주는 거의 움직이지 않았습니다. 이유가 있습니다:</p>
-<ul>
-  <li>국제유가가 <strong>-4.45%</strong> 하락했고,</li>
-  <li>제너럴 카고(일반 수하물 해운) 시장이 약세입니다.</li>
-</ul>
-
-<p>당일 미국 경제지표가 나올 때 “경기가 둔화되고 있나?”를 판단해야 합니다. 그에 따라 해운 업황 뉴스를 모니터링하세요.</p>
-
-<hr />
-
-<h3 id="sk하이닉스-000660--고위험-️">SK하이닉스 (000660) — 고위험 ⚠️</h3>
-
-<p>어제 장 마감 직전 매수 후, <strong>exit_scenario를 정했습니다</strong>:</p>
-<ul>
-  <li><strong>갭업 +2%</strong> 도달 시 1차 매도</li>
-  <li><strong>갭다운 -2%</strong> 도달 시 손절</li>
-</ul>
-
-<p><strong>오늘 아침 가장 먼저 할 일</strong>: 시초가를 확인하고 즉시 exit 판단을 수행하세요.</p>
-
-<p><strong>왜 이렇게 조심할까요?</strong> ⚠️</p>
-
-<p>SK하이닉스는 이미 어제 <strong>수익 53%</strong> 수준까지 올랐습니다. 그리고 시총이 1조 달러를 돌파했으니, “이제 충분히 올랐다”는 이익실현 압박이 강해집니다.</p>
-
-<p>더 무섭지만, <strong>오늘 오후 9:30(미국 시간 21:30)에 미국 빅 데이터</strong>가 터집니다. 만약 데이터가 약하다면?</p>
-<ul>
-  <li>야간 글로벌 선물이 급락하고,</li>
-  <li>내일 아침 시초가에 <strong>갭다운 리스크</strong>가 생깁니다.</li>
-</ul>
-
-<p><strong>반도체 주는 이런 야간 글로벌 뉴스에 가장 민감합니다.</strong> 현물 exit을 미리 완료하는 것이 안전합니다.</p>
-
-<hr />
-
-<h2 id="다음-주-준비">다음 주 준비</h2>
-
-<ul>
-  <li><strong>5월 28일 오전 8~9시</strong>: RIA 양도세 감면 막차 마감. 포지션 정리 필요한 투자자들의 물량 방출 가능성</li>
-  <li><strong>한은 금리 유지(10:00)</strong>: 시장 변수 최소화 가능성</li>
-  <li><strong>美 경제지표(21:30)</strong>: 글로벌 위험자산 방향 결정</li>
-</ul>
-
-<p><strong>당신의 전략</strong>:</p>
-<ol>
-  <li>장 초반 30분간 변동성 안정 대기</li>
-  <li>한은 결정문 발표 후 반응 관찰</li>
-  <li>기존 포지션 exit_scenario 우선 실행</li>
-  <li>美 경제지표 전까지는 신규 진입 보류</li>
-</ol>
-
-<hr />
 
 <h2 id="결론">결론</h2>
 
-<p>코스피 사상 최고를 경신한 화려함도 있지만, 코스닥의 급락이 말해주는 게 있습니다.
-<strong>“모든 종목이 오르는 시장은 없다”</strong>는 것입니다.</p>
+<p>오늘은 “수익 취하기”와 “신규 진입 자제”의 날입니다. 어제 큰손들이 반도체와 부품주로 돈을 몰았지만, 야간 미국 약세와 주요 이벤트들이 불안감을 높이고 있습니다.</p>
 
-<p>오늘은 <strong>“얼마나 빨리 파는가”</strong>가 중요하지 <strong>“얼마나 많이 사는가”</strong>가 아닙니다.
-기존 수익은 지키고, 새로운 신호를 기다립니다.</p>
+<p>무리하게 새 종목을 사려다 손실을 입는 것보다, <strong>이미 번 이익을 지키는 것</strong>이 오늘의 핵심입니다. 상황을 정확히 파악하고 느긋하게 기다리는 투자자가 결국 승리합니다.</p>
 
-<p>💬 <strong>댓글로 의견 나눠주세요!</strong> 당신의 포지션 현황, 오늘 거래 전략, 지표 해석 의견 모두 환영합니다.
-<strong>이웃 추가하면 매일 아침 분석을 받아보실 수 있어요</strong> 😊</p>
+<p>💬 댓글로 의견 나눠주세요! 오늘 시장 흐름 어떻게 보시나요? 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
 
-<hr />
-
-<p>#종가배팅 #수급분석 #주식투자 #오늘의전략 #반도체 #해운주 #코스피 #경기신호 #리스크관리 #종목분석</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[흔들리는 시장, 신중이 최고의 무기]]></summary></entry><entry><title type="html">SK하이닉스 — 역사적 이벤트가 만드는 수급 집중</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/27/nt2-1505-snapshot/" rel="alternate" type="text/html" title="SK하이닉스 — 역사적 이벤트가 만드는 수급 집중" /><published>2026-05-27T15:05:00+09:00</published><updated>2026-05-27T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/27/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/27/nt2-1505-snapshot/"><![CDATA[<p>매일 오후 3시 5분, 저희는 하루의 마지막 거래 기회를 포착합니다.
+<p>#종가배팅 #수급분석 #주식투자 #오늘시황 #RED등급 #시초가갭 #반도체주 #금리결정</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[📉 오늘은 신중함이 필요한 날입니다. 야간 미국 증시 부진과 한국 주요 이벤트가 변동성을 높일 것 같은데, 투자자분들은 얼마나 조심스러운가요?]]></summary></entry><entry><title type="html">SK하이닉스 — 역사적 이벤트가 만드는 수급 집중</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/27/nt2-1505-snapshot/" rel="alternate" type="text/html" title="SK하이닉스 — 역사적 이벤트가 만드는 수급 집중" /><published>2026-05-27T15:05:00+09:00</published><updated>2026-05-27T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/27/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/27/nt2-1505-snapshot/"><![CDATA[<p>매일 오후 3시 5분, 저희는 하루의 마지막 거래 기회를 포착합니다.
 오늘은 한국 주식 역사에 기록될 ‘큰 날’이었어요.</p>
 
 <hr />
