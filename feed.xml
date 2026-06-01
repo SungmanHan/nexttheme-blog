@@ -1,4 +1,189 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-01T10:03:37+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">5/29 종가배팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/01/review-20260529-review/" rel="alternate" type="text/html" title="5/29 종가배팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-06-01T09:00:00+09:00</published><updated>2026-06-01T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/01/review_20260529-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/01/review-20260529-review/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-01T15:09:30+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">삼성전자·포스코DX</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/01/nt2-1505-snapshot/" rel="alternate" type="text/html" title="삼성전자·포스코DX" /><published>2026-06-01T15:05:00+09:00</published><updated>2026-06-01T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/01/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/01/nt2-1505-snapshot/"><![CDATA[<table>
+  <tbody>
+    <tr>
+      <td>📅 <strong>2026년 6월 1일 (월)</strong></td>
+      <td>⏰ 장 마감 직전 수급 분석</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="오늘-시장-한-마디로-요약하면-">오늘 시장, 한 마디로 요약하면? 🚀</h2>
+
+<p>오늘 코스피가 <strong>+2.39%</strong> 힘차게 올랐습니다. 반도체와 AI 협력 테마가 시장을 이끈 하루였는데요, NextTheme 알고리즘이 장 마감 직전 최종 선별한 종목은 <strong>삼성전자</strong>와 <strong>포스코DX</strong> 2종목입니다.</p>
+
+<p>“왜 하필 이 두 종목일까?” 지금부터 쉽게 풀어드릴게요!</p>
+
+<hr />
+
+<h2 id="-오늘-시장-브리핑--뭐가-오르고-있나요">📊 오늘 시장 브리핑 — 뭐가 오르고 있나요?</h2>
+
+<p>오늘의 핵심 키워드는 <strong>반도체 + AI 인프라(SI)</strong> 두 가지였습니다.</p>
+
+<ul>
+  <li>🔥 <strong>반도체 테마</strong>: 삼성전자가 차세대 고대역폭 메모리(HBM4E) 샘플을 출하했다는 소식, 그리고 엔비디아 CEO 젠슨 황이 이번 주 <strong>6월 5일</strong> 한국을 방문한다는 기대감이 겹쳐 반도체 종목들이 강하게 움직였습니다.</li>
+  <li>🤖 <strong>AI 인프라(SI) 테마</strong>: 포스코DX가 엔비디아와의 피지컬 AI 협력을 발표하며 오늘 AI 인프라 테마의 <strong>대장주</strong>로 새롭게 떠올랐습니다.</li>
+</ul>
+
+<p>⚠️ <strong>오늘 밤 주의할 변수</strong>: 미국에서 제조업 경기 지수(ISM) 발표가 예정돼 있습니다. 결과가 예상보다 나쁘면 내일 반도체 종목이 잠깐 조정받을 수 있어요. 손절 가격은 반드시 지켜주세요!</p>
+
+<hr />
+
+<h2 id="-오늘-선별된-2종목-자세히-살펴볼까요">🎯 오늘 선별된 2종목, 자세히 살펴볼까요?</h2>
+
+<h3 id="1️⃣-삼성전자-005930--신뢰도--high">1️⃣ 삼성전자 (005930) — 신뢰도 ★★★ HIGH</h3>
+
+<p><strong>지금 어떤 상황인가요?</strong></p>
+
+<p>오늘 기준 매수 적정 가격은 <strong>344,000원</strong>이고, 하루 동안 거래된 금액이 무려 <strong>2,152억원</strong>에 달합니다. 더 인상적인 건 오전에 835억원이던 거래대금이 오후에 <strong>2.6배</strong>나 폭증했다는 점이에요.</p>
+
+<p><strong>큰 투자기관들은 어떻게 움직였나요?</strong></p>
+
+<p>오늘 대형 투자기관(기관)이 삼성전자를 <strong>278만 주</strong> 순매수했습니다. 쉽게 말해, 큰 손들이 오늘 삼성전자를 엄청나게 사들이고 있다는 뜻이죠. 이런 기관 매수세가 지속되면 내일 시초가에도 오를 가능성이 높아집니다.</p>
+
+<p><strong>왜 내일 시초가에 오를 수 있을까요?</strong></p>
+
+<ol>
+  <li>HBM4E 샘플 출하 → 삼성전자의 차세대 메모리 기술력 입증</li>
+  <li>SK증권이 삼성전자 목표주가를 <strong>61만원</strong>으로 올림 (지금 가격의 77%나 더 오를 수 있다는 전문가 의견!)</li>
+  <li>젠슨 황(엔비디아 CEO) 방한(6/5) 앞두고 반도체 기대감 최고조</li>
+  <li>거래대금이 오후로 갈수록 폭발적으로 증가 → 상승 동력이 여전히 살아있다는 신호</li>
+  <li>15분봉 주가가 핵심 지지선(60선) 위에 안정적으로 위치</li>
+</ol>
+
+<p>📋 <strong>참고용 매매 전략</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>가격</th>
+      <th>설명</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>매수 기준</td>
+      <td><strong>344,000원</strong></td>
+      <td>장 마감 직전 진입</td>
+    </tr>
+    <tr>
+      <td>1차 목표가</td>
+      <td><strong>355,000원 직전</strong></td>
+      <td>갭업 +0.7% 시 50% 분할 매도</td>
+    </tr>
+    <tr>
+      <td>2차 목표가</td>
+      <td><strong>353,500원</strong></td>
+      <td>잔량 매도 (+2%)</td>
+    </tr>
+    <tr>
+      <td>손절가</td>
+      <td><strong>갭다운 -2%</strong></td>
+      <td>조건 충족 시 즉시 매도</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>⚠️ <strong>이것만큼은 꼭 아세요</strong>: 오늘 과열 신호가 3개 감지됐습니다 (RSI <strong>76.6</strong> — 과열 구간 진입). 그래서 알고리즘이 비중을 <strong>40%</strong>로 제한했어요. 전체 투자금의 40% 이상을 넣지 않도록 주의하세요. 355,000원 매도벽을 돌파하지 못하면 1차 익절 후 관망이 유리합니다.</p>
+
+<hr />
+
+<h3 id="2️⃣-포스코dx-022100--신뢰도--medium">2️⃣ 포스코DX (022100) — 신뢰도 ★★☆ MEDIUM</h3>
+
+<p><strong>지금 어떤 상황인가요?</strong></p>
+
+<p>포스코DX는 오늘 하루에만 무려 <strong>+17.57%</strong> 올랐습니다! 거래대금도 <strong>6,191억원</strong>으로 정오(2,894억)보다 2.1배 늘었어요. 매수 기준 가격은 <strong>37,850원</strong>입니다.</p>
+
+<p><strong>외국인과 기관이 동시에 사고 있어요!</strong></p>
+
+<p>오늘 외국인 투자자가 <strong>83만 주</strong>, 기관 투자자도 <strong>3.2만 주</strong>를 동시에 순매수했습니다. 외국인과 기관이 같은 날 함께 사는 종목은 매우 드물고 강력한 신호예요.</p>
+
+<ul>
+  <li>기관은 <strong>연속 5일</strong> 순매수 중</li>
+  <li>외국인은 <strong>연속 3일</strong> 순매수 중</li>
+</ul>
+
+<p>이런 연속 매수 패턴은 “단기 반짝이 아닌, 계속 관심받는 종목”이라는 신호입니다.</p>
+
+<p><strong>왜 주목받나요?</strong></p>
+
+<ul>
+  <li>포스코DX + 엔비디아 피지컬 AI 협력 → 국내에서 AI 로봇·자동화 인프라를 구축하는 데 핵심 기업</li>
+  <li>AI 인프라 테마에서 오늘 <strong>1등 대장주</strong>로 신규 진입 (새 재료라 아직 충분히 반영 안 됐을 수 있음)</li>
+  <li>RSI <strong>63.4</strong> — 과열 없이 상승 여력 충분</li>
+</ul>
+
+<p>📋 <strong>참고용 매매 전략</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>가격</th>
+      <th>설명</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>매수 기준</td>
+      <td><strong>37,850원</strong></td>
+      <td>장 마감 직전 진입</td>
+    </tr>
+    <tr>
+      <td>1차 목표가</td>
+      <td><strong>38,600원 근처</strong></td>
+      <td>갭업 +2% 시 50% 분할 매도</td>
+    </tr>
+    <tr>
+      <td>손절가</td>
+      <td><strong>갭다운 -2%</strong></td>
+      <td>조건 충족 시 즉시 매도</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>⚠️ <strong>단, 호가창(매수·매도 주문 현황)에서 매수세가 상대적으로 약하게 나타나</strong> 비중을 <strong>30%</strong>로 낮췄습니다. 삼성전자보다 불확실성이 높으니 신중하게 접근하세요.</p>
+
+<hr />
+
+<h2 id="-nexttheme는-왜-이-두-종목을-골랐을까">🤖 NextTheme는 왜 이 두 종목을 골랐을까?</h2>
+
+<p>NextTheme는 단순히 “오늘 많이 오른 종목”을 고르지 않아요. <strong>“내일 시초가에 오를 가능성이 가장 높은 종목”</strong>, 즉 오늘 못 산 투자자들이 내일 아침 사고 싶어 할 종목을 선별합니다.</p>
+
+<p>오늘 선별 기준을 쉽게 풀면:</p>
+
+<p>✅ <strong>강력한 테마의 대장주</strong> — 반도체(삼성전자)와 AI 인프라(포스코DX) 두 테마의 각 1등 주도주<br />
+✅ <strong>거래대금 폭증</strong> — 두 종목 모두 오후로 갈수록 거래가 활발해짐 (아직 관심이 식지 않았다는 증거)<br />
+✅ <strong>기관·외국인 지속 매수</strong> — 큰 손들이 계속 사고 있다는 것 = 내일도 살 가능성<br />
+✅ <strong>핵심 지지선 위</strong> — 가격이 무너지지 않고 안정적<br />
+✅ <strong>신선한 재료</strong> — 젠슨 황 방한, HBM4E 출하, AI 협력 발표 → 내일도 뉴스 흐름 지속 예상</p>
+
+<p>오늘 선별 신뢰도는 <strong>HIGH(높음)</strong>로, 시황이 호재 국면인 강세장에서 나온 선별 결과입니다.</p>
+
+<hr />
+
+<h2 id="-오늘의-결론">💡 오늘의 결론</h2>
+
+<p>오늘 코스피 강세장(+2.39%)에서 반도체·AI 테마가 명확한 주도권을 잡았습니다. 삼성전자는 젠슨 황 방한과 HBM4E 모멘텀, 포스코DX는 엔비디아 AI 협력 신재료로 각각 탄탄한 근거를 갖추고 있습니다.</p>
+
+<p><strong>꼭 기억하세요</strong>:</p>
+<ul>
+  <li>📌 오늘 밤 미국 ISM 지수 발표 → 부진 시 갭다운 가능 (손절 필수)</li>
+  <li>📌 삼성전자는 355,000원 매도벽 돌파 못 하면 1차 익절 후 관망</li>
+  <li>📌 비중 관리 철저 — 삼성전자 40%, 포스코DX 30% 이하 권장</li>
+</ul>
+
+<blockquote>
+  <p>⚠️ 본 분석은 투자 참고용입니다. 모든 투자 결정과 책임은 본인에게 있습니다.</p>
+</blockquote>
+
+<hr />
+
+<p>💬 <strong>댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</strong></p>
+
+<p>#종가배팅 #수급분석 #NextTheme #삼성전자 #포스코DX #주식투자 #반도체주 #AI주식 #코스피 #종목분석</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[📅 2026년 6월 1일 (월) ⏰ 장 마감 직전 수급 분석]]></summary></entry><entry><title type="html">5/29 종가배팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/01/review-20260529-review/" rel="alternate" type="text/html" title="5/29 종가배팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-06-01T09:00:00+09:00</published><updated>2026-06-01T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/01/review_20260529-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/01/review-20260529-review/"><![CDATA[<blockquote>
   <p>데이터 기준: 2026-06-01 10:03 키움 ka10001 일괄 조회</p>
 </blockquote>
 
@@ -2049,82 +2234,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가배팅 #복기일지 #20260528 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-05-29 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">YELLOW 신호 — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/05/29/0600-briefing/" rel="alternate" type="text/html" title="YELLOW 신호 — 오늘 아침 시황" /><published>2026-05-29T06:00:00+09:00</published><updated>2026-05-29T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/05/29/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/05/29/0600-briefing/"><![CDATA[<h2 id="오늘의-분위기-">오늘의 분위기 🌙</h2>
-
-<p>목요일 아침입니다. 어제 미국 시장이 쌍방울을 터뜨렸는데요, 그 덕분에 오늘 우리 시장도 긍정의 신호가 몇 가지 보입니다. 다만 잠깐 신경 쓸 부분들이 있어서 신호를 <strong>YELLOW</strong>(신중함)로 설정했습니다.</p>
-
-<h2 id="미국-시장이-보내온-좋은-신호-">미국 시장이 보내온 좋은 신호 📈</h2>
-
-<p>어제 밤 미국 증시를 보니 좋은 움직임이 있었습니다.</p>
-<ul>
-  <li><strong>다우지수</strong> +0.05% (소폭 상승)</li>
-  <li><strong>S&amp;P500</strong> +0.58% (완만한 상승)</li>
-  <li><strong>나스닥</strong> +0.91% (기술주 강세)</li>
-</ul>
-
-<p>특히 <strong>나스닥 +0.91%</strong> 와 그 속 <strong>반도체 +1.0%</strong> 상승은 우리나라 반도체와 2차 전지 투자자들에게 희소식입니다. 미국 기술주가 올라가면, 한국 반도체와 배터리 종목도 따라 올라가기 쉬우니까요.</p>
-
-<h2 id="하지만-3가지-신경-쓸-부분-️">하지만 3가지 신경 쓸 부분 ⚠️</h2>
-
-<p>좋은 신호만 있는 건 아닙니다.</p>
-
-<p><strong>첫째, 외국인이 계속 팔고 있습니다.</strong> 어제 외국인 매도세가 <strong>-3.2조원</strong> 수준입니다. 이건 큰 투자기관(외국인)들이 우리 주식을 빨아내고 있다는 뜻인데요, 미국 기술주 강세에도 불구하고 한국 주식을 버리고 있다는 점이 조금 신경 쓰입니다.</p>
-
-<p><strong>둘째, 10시에 금리 발표가 있습니다.</strong> 중앙은행의 기준금리 발표는 주식 시장에 큰 충격을 줄 수 있는 이벤트입니다. 장 초반의 상승 흐름이 금리 발표 후 급반전할 수 있다는 뜻입니다.</p>
-
-<p><strong>셋째, 맥락이 약합니다.</strong> 긍정 신호(나스닥+0.91%)가 있지만, 한국 시장을 주도할 만큼 강하지 않은 상황입니다.</p>
-
-<h2 id="오늘의-베팅-등급--전략-">오늘의 베팅 등급 &amp; 전략 🎯</h2>
-
-<table>
-  <tbody>
-    <tr>
-      <td><strong>등급: YELLOW (신중함)</strong></td>
-      <td><strong>센티먼트 75점</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>“미국 기술주 강세는 우리 반도체·2차전지에 희망신호지만, 외국인 지속 매도 + 10시 금리 발표 변동성이 리스크”</p>
-
-<h3 id="추천-시초가-진입-종목">추천 시초가 진입 종목</h3>
-<ul>
-  <li><strong>반도체·MLCC 테마</strong> 중심 진입 가능</li>
-  <li>진입 비중: <strong>70% 이하</strong> 유지 (여유 자금 보유)</li>
-</ul>
-
-<h3 id="10시-금리-발표-후-대응">10시 금리 발표 후 대응</h3>
-<p>금리 발표 결과에 따라 달라집니다:</p>
-<ul>
-  <li><strong>금리 인하 또는 동결</strong>: 시장 안심 → 매수 추가 가능</li>
-  <li><strong>금리 인상 신호</strong>: 시장 충격 → 이익실현 및 손절 타이밍</li>
-  <li><strong>외국인 매도세 지속</strong>: 장중 약세 전환 → 조기 청산 권장</li>
-</ul>
-
-<h2 id="주목할-변수-">주목할 변수 📰</h2>
-
-<p><strong>호재 3가지:</strong></p>
-<ol>
-  <li><strong>미-이란 휴전 60일 연장 잠정 합의</strong> — 트럼프 대통령 최종 승인 대기 중. 중동 긴장 완화 → 유가 하락 → 수입가 절감 긍정 신호</li>
-  <li><strong>앤스로픽 기업가치 1440조원(OpenAI 추월), 삼성·SK 투자 참여</strong> — 한국 반도체 기업들이 AI 칩 수요 증가에 베팅 중. 장기 수요 전망 개선</li>
-  <li><strong>국민연금 국내주식 목표비중 상향(20.8%)</strong> — 160조원 규모 연금자금의 매도 우려 해소. 오히려 점진적 매수 신호</li>
-</ol>
-
-<p><strong>리스크 1가지:</strong></p>
-<ul>
-  <li><strong>10시 금리 발표 변동성</strong> — 기준금리 변화에 따른 장중 급등락 가능성</li>
-</ul>
-
-<h2 id="결론--cta-">결론 &amp; CTA 💬</h2>
-
-<p>미국 기술주 강세 덕에 한국 반도체·2차전지 시장도 긍정 신호를 받았습니다. 하지만 외국인 매도 + 금리 발표 변동성이 있으므로, 시초가 진입 후 <strong>여유 있는 비중(70% 이하)</strong> 관리가 핵심입니다.</p>
-
-<ul>
-  <li>🎯 <strong>반도체·MLCC 시초가 진입 → 금리 발표 후 변동성 대응</strong></li>
-  <li>📊 <strong>외국인 매도세 모니터링 필수</strong></li>
-  <li>⏰ <strong>10시 금리 발표 전후 5분 내 의사결정 권장</strong></li>
-</ul>
-
-<p>💬 <strong>댓글로 의견 나눠주세요!</strong> 오늘 아침 어떤 종목을 노리고 있는지, 금리 발표 후 어떻게 대응할 계획인지 이야기해보세요. 이웃 추가하면 매일 분석을 받아보실 수 있어요 😊</p>
-
-<p>#종가배팅 #수급분석 #주식투자 #미국시장 #반도체 #MLCC #금리발표 #외국인매도</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[오늘의 분위기 🌙]]></summary></entry></feed>
+<p>#종가배팅 #복기일지 #20260528 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-05-29 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
