@@ -1,4 +1,77 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-04T15:14:13+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">YELLOW 경고 - NextTheme 신중 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/04/nt2-1505-snapshot/" rel="alternate" type="text/html" title="YELLOW 경고 - NextTheme 신중 분석" /><published>2026-06-04T15:05:00+09:00</published><updated>2026-06-04T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/04/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/04/nt2-1505-snapshot/"><![CDATA[<p>안녕하세요! 오늘 종가배팅 분석 결과를 정리했습니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-05T06:03:33+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">YELLOW — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/05/0600-briefing/" rel="alternate" type="text/html" title="YELLOW — 오늘 아침 시황" /><published>2026-06-05T06:00:00+09:00</published><updated>2026-06-05T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/05/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/05/0600-briefing/"><![CDATA[<p>좋은 아침입니다. 오늘은 미국의 긍정 신호와 기술주 약세 사이에서 조심스러운 흐름이 예상됩니다. 외국인 매도세가 지속되는 가운데 반도체주의 부진이 시장 심리를 누르고 있습니다.</p>
+
+<h2 id="미국-시장은-엇갈린-모습">미국 시장은 엇갈린 모습</h2>
+
+<p>어제 미국 시장을 보면 다우존스는 <strong>+1.73%</strong>로 사상 최고치를 경신했지만, 나스닥은 <strong>-0.09%</strong>로 약간 내려갔습니다. S&amp;P500은 <strong>+0.41%</strong>로 완만한 상승세를 보였어요. 좋은 뉴스와 나쁜 뉴스가 섞여 있다는 신호입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>지수</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>다우</td>
+      <td>+1.73%</td>
+    </tr>
+    <tr>
+      <td>S&amp;P500</td>
+      <td>+0.41%</td>
+    </tr>
+    <tr>
+      <td>나스닥</td>
+      <td>-0.09%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>가장 주목할 점은 VIX(변동성 지수)가 하락했다는 것. 시장이 공포심에서 조금 벗어났다는 뜻입니다.</p>
+
+<h2 id="오늘의-베팅-등급과-전략">오늘의 베팅 등급과 전략</h2>
+
+<p>오늘 등급은 <strong>YELLOW (신중 접근)</strong>입니다.</p>
+
+<p>흐름을 요약하면:</p>
+<ul>
+  <li>다우의 사상 최고치는 긍정적</li>
+  <li>하지만 반도체주 약세와 AI 주도주에서 금융·헬스케어로의 자금 이동이 진행 중</li>
+  <li>외국인 <strong>100조 규모의 매도세</strong>가 지속되고 있음</li>
+</ul>
+
+<p>따라서 <strong>오전 관망 후 14시 이후 장중 흐름을 확인</strong>하는 것이 현명합니다. 급하게 진입하기보다는 신호를 기다리되, 강세 섹터(반도체 소부장, 백화점, 면세점)에서 선별 진입할 기회를 노리세요. <strong>비중은 70% 이하</strong>로 유지해 리스크에 대비해야 합니다.</p>
+
+<h2 id="주목할-변수들">주목할 변수들</h2>
+
+<h3 id="위험-신호">위험 신호</h3>
+<ul>
+  <li><strong>반도체주 약세</strong>: 브로드컴 실적 부진으로 시작된 약세가 확산 중</li>
+  <li><strong>외국인 매도</strong>: 매도 규모가 매우 크다는 점이 우려됨</li>
+  <li><strong>환율 상승</strong>: 1540원대로 진입하며 수출 심리 위축</li>
+</ul>
+
+<h3 id="기회-신호">기회 신호</h3>
+<ul>
+  <li><strong>고용지표 발표 예정</strong>: 오늘 미국 시간 21:30에 신규 실업수당 발표 예정. 이것이 시장을 움직일 수 있는 중요 변수</li>
+  <li><strong>섹터 순환</strong>: AI에서 금융·헬스케어로 자금이 흐르는 것은 시장 회전 신호일 수 있음</li>
+  <li><strong>업종별 재평가</strong>: 현재 가치를 인정받지 못한 종목들에 기회 존재</li>
+</ul>
+
+<h2 id="전략-요약">전략 요약</h2>
+
+<ol>
+  <li><strong>오전</strong>: 경제 지표와 미국 시장 후속 움직임 관찰</li>
+  <li><strong>14시 이후</strong>: 강세 섹터(반도체 관련주, 소비 관련주) 선별 진입</li>
+  <li><strong>리스크 관리</strong>: 비중을 낮게 유지하고 손절선 설정 필수</li>
+  <li><strong>21:30</strong>: 미국 고용지표 발표 주목 — 향후 흐름의 중요 이정표</li>
+</ol>
+
+<p>오늘은 “기다릴 때는 기다리고, 확인된 신호에 진입”하는 원칙으로 접근하세요. NextTheme와 함께라면 무의미한 손실을 피하고 승률 높은 기회를 포착할 수 있습니다.</p>
+
+<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요</p>
+
+<p>#종가배팅 #수급분석 #주식투자 #NextTheme #미국시장 #반도체 #외국인매도</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[좋은 아침입니다. 오늘은 미국의 긍정 신호와 기술주 약세 사이에서 조심스러운 흐름이 예상됩니다. 외국인 매도세가 지속되는 가운데 반도체주의 부진이 시장 심리를 누르고 있습니다.]]></summary></entry><entry><title type="html">YELLOW 경고 - NextTheme 신중 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/04/nt2-1505-snapshot/" rel="alternate" type="text/html" title="YELLOW 경고 - NextTheme 신중 분석" /><published>2026-06-04T15:05:00+09:00</published><updated>2026-06-04T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/04/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/04/nt2-1505-snapshot/"><![CDATA[<p>안녕하세요! 오늘 종가배팅 분석 결과를 정리했습니다.</p>
 
 <h2 id="-오늘-시장-한-줄-요약">📊 오늘 시장 한 줄 요약</h2>
 
@@ -1480,241 +1553,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <p>반도체·AI 모멘텀은 계속되지만, 유가 급등과 변동성 확대로 한 발 물러서야 합니다. <strong>신규 매수는 낮은 비중으로, 어제 선별 종목 중 갭다운은 기회</strong>로 봅시다. 더 궁금하신 점이나 의견 있으시면 댓글로 나눠주세요. 이웃 추가하면 매일 아침 분석을 받아보실 수 있습니다!</p>
 
-<p>#종가배팅 #수급분석 #주식투자 #AI테마 #반도체투자 #월요일아침시황 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[좋은 아침입니다! 미국 증시가 사상 최고치를 경신했지만, 유가와 변동성이 함께 뛰어오른 이른 월요일입니다. 조심스러운 마음가짐이 필요한 날입니다.]]></summary></entry><entry><title type="html">포스코DX 외</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/01/nt2-1505-snapshot/" rel="alternate" type="text/html" title="포스코DX 외" /><published>2026-06-01T15:05:00+09:00</published><updated>2026-06-01T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/01/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/01/nt2-1505-snapshot/"><![CDATA[<table>
-  <tbody>
-    <tr>
-      <td>📅 <strong>2026년 6월 1일 (월)</strong></td>
-      <td>⏰ 장 마감 직전 수급 분석</td>
-    </tr>
-  </tbody>
-</table>
-
-<hr />
-
-<h2 id="오늘-시장-한-마디로-요약하면-">오늘 시장, 한 마디로 요약하면? 🚀</h2>
-
-<p>2026년 6월 1일(월), 코스닥이 <strong>-2.30%</strong> 하락하며 약세를 보인 하루였습니다. 하지만 시장이 힘들수록 진짜 강한 종목이 드러나는 법이죠. 오늘 NextTheme AI가 <strong>2종목</strong>을 선별했습니다. 젠슨 황(NVIDIA CEO)의 <strong>6월 5일 한국 방문</strong> 소식이 SI(AI 인프라)·피지컬 AI·LG 계열 테마에 불을 지폈고, 그 중심에 포스코DX가 있었습니다. 📡</p>
-
-<hr />
-
-<h2 id="-오늘-시장-브리핑--뭐가-오르고-있나요">📊 오늘 시장 브리핑 — 뭐가 오르고 있나요?</h2>
-
-<p>오늘의 핵심 키워드는 <strong>AI 인프라(SI) + LG 계열</strong> 두 가지였습니다.</p>
-
-<ul>
-  <li>🤖 <strong>AI 인프라(SI) 테마</strong>: 포스코DX가 피지컬 AI·로봇 두뇌 개발 뉴스로 오늘 AI 인프라 테마의 <strong>신규 대장주</strong>로 떠올랐습니다. 거래대금이 정오 2,894억에서 마감까지 <strong>2.6배</strong> 폭증했습니다.</li>
-  <li>📺 <strong>미디어·LG 계열</strong>: LG전자가 상한가를 기록하면서 LG 계열주 전반이 동반 급등했습니다. LG헬로비전도 상한가 마감, 평소보다 거래대금이 <strong>42.9배</strong> 폭증했습니다.</li>
-</ul>
-
-<p>⚠️ <strong>오늘 밤 주의할 변수</strong>: 미국 ISM PMI(제조업 경기 지수) 발표가 예정돼 있습니다. 결과가 예상보다 나쁘면 내일 외국인이 이탈할 수 있으니 손절 가격은 반드시 지켜주세요!</p>
-
-<hr />
-
-<h2 id="-오늘-선별된-2종목-자세히-살펴볼까요">🎯 오늘 선별된 2종목, 자세히 살펴볼까요?</h2>
-
-<h3 id="1️⃣-포스코dx-022100--신뢰도--high-">1️⃣ 포스코DX (022100) — 신뢰도 ★★★ HIGH 🚀</h3>
-
-<p><strong>지금 어떤 상황인가요?</strong></p>
-
-<table>
-  <thead>
-    <tr>
-      <th>항목</th>
-      <th>수치</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>오늘 상승률</td>
-      <td><strong>+23.57%</strong></td>
-    </tr>
-    <tr>
-      <td>거래대금</td>
-      <td><strong>7,622억 원</strong> (정오 2,894억 → 마감 <strong>2.6배</strong> 폭증!)</td>
-    </tr>
-    <tr>
-      <td>외국인 순매수</td>
-      <td><strong>+83만 주</strong> (<strong>12일 연속</strong> 순매수!)</td>
-    </tr>
-    <tr>
-      <td>기관 순매수</td>
-      <td><strong>+3.2만 주</strong></td>
-    </tr>
-    <tr>
-      <td>진입 기준가</td>
-      <td><strong>40,100원</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>포스코DX는 오늘 처음으로 SI(시스템통합) 테마의 대표 종목(대장주)이 됐습니다. 피지컬 AI·로봇 두뇌 개발 관련 뉴스가 나오면서 재료가 신선했고, 거래 참여가 오후로 갈수록 폭발적으로 늘었습니다.</p>
-
-<p><strong>큰 투자기관들은 어떻게 움직였나요?</strong></p>
-
-<p>가장 인상적인 건 <strong>큰 투자기관(기관)과 외국인 투자자가 동시에 매수</strong>했다는 점입니다. 외국인이 <strong>12일 연속</strong> 사고 있다는 건 단순한 하루 이벤트가 아닌, 해외 큰손들이 이 종목의 방향성을 믿고 있다는 신호입니다. 젠슨 황 방한(6/5)까지 기대감이 이어질 수 있어 내일 시초가 갭상승 가능성이 높다고 판단됐습니다.</p>
-
-<p><strong>왜 내일 시초가에 오를 수 있을까요?</strong></p>
-
-<ol>
-  <li>피지컬 AI·로봇 두뇌 개발 신재료 → 아직 충분히 반영 안 됐을 수 있음</li>
-  <li>오늘 SI 테마 <strong>신규 대장주</strong> 등극 (첫날 폭발)</li>
-  <li>외국인 <strong>12일 연속</strong> + 기관 동시 순매수</li>
-  <li>거래대금이 오후에만 2.6배 폭증 → 상승 동력이 마감까지 살아있음</li>
-  <li>RSI <strong>64.2</strong> — 과열 구간(70 이상) 아님, 추가 상승 여력 있음</li>
-</ol>
-
-<p>📋 <strong>참고용 매매 전략</strong></p>
-
-<table>
-  <thead>
-    <tr>
-      <th>구분</th>
-      <th>가격</th>
-      <th>설명</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>매수 기준</td>
-      <td><strong>40,100원</strong></td>
-      <td>장 마감 직전 진입</td>
-    </tr>
-    <tr>
-      <td>1차 목표가</td>
-      <td><strong>40,900원 근처</strong></td>
-      <td>갭업 +2% 시 50% 분할 매도</td>
-    </tr>
-    <tr>
-      <td>손절가</td>
-      <td><strong>갭다운 -2%</strong></td>
-      <td>즉시 손절 엄수</td>
-    </tr>
-  </tbody>
-</table>
-
-<hr />
-
-<h3 id="2️⃣-lg헬로비전-037560--신뢰도--medium-">2️⃣ LG헬로비전 (037560) — 신뢰도 ★★☆ MEDIUM 📺</h3>
-
-<p><strong>지금 어떤 상황인가요?</strong></p>
-
-<table>
-  <thead>
-    <tr>
-      <th>항목</th>
-      <th>수치</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>오늘 마감</td>
-      <td><strong>상한가</strong></td>
-    </tr>
-    <tr>
-      <td>거래대금</td>
-      <td><strong>393억 원</strong> (평소보다 <strong>42.9배</strong> 폭증!)</td>
-    </tr>
-    <tr>
-      <td>외국인 순매수</td>
-      <td><strong>+30.2만 주</strong></td>
-    </tr>
-    <tr>
-      <td>진입 기준가</td>
-      <td><strong>2,860원</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>LG헬로비전은 미디어 테마에서 상한가를 기록했습니다. LG전자 상한가 소식과 함께 LG 계열주 전체가 젠슨 황 방한 기대감을 받았고, 거래대금이 평소의 <strong>42.9배</strong>나 터졌습니다. 외국인도 <strong>+30.2만 주</strong>를 순매수하며 의미 있는 참여를 했습니다.</p>
-
-<p><strong>오늘 주가 흐름에서 포인트는?</strong></p>
-
-<p>오늘 주가 흐름을 보면 오전에 급등(A)하고, 오후에 잠시 조정(B), 다시 재상승(C)하는 패턴이 나타났습니다. 이런 흐름은 팔려던 매물이 소화되고 다시 매수세가 들어오는 긍정적인 신호로 해석됩니다. 👍</p>
-
-<p>단, 시가총액이 작은 편이라 내일 아침 갭하락 가능성도 있습니다. 그래서 오늘은 소량만 진입하고, 내일 오전 눌림목(잠시 내려올 때)에서 추가 진입하는 전략을 씁니다.</p>
-
-<p>📋 <strong>참고용 매매 전략</strong></p>
-
-<table>
-  <thead>
-    <tr>
-      <th>구분</th>
-      <th>가격</th>
-      <th>설명</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>매수 기준</td>
-      <td><strong>2,860원</strong></td>
-      <td>오늘 종가 소량(20~30%) 먼저</td>
-    </tr>
-    <tr>
-      <td>추가 진입</td>
-      <td>09:00~10:30 눌림목</td>
-      <td>내일 오전 반등 확인 후 추가</td>
-    </tr>
-    <tr>
-      <td>목표가</td>
-      <td><strong>2,950원 근처</strong></td>
-      <td>반등 +3% 시 매도</td>
-    </tr>
-    <tr>
-      <td>손절 기준</td>
-      <td>갭하락 -5% 이상</td>
-      <td><strong>즉시 손절</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>⚠️ <strong>이것만큼은 꼭 아세요</strong>: 시가총액이 작아 변동성이 크므로 비중을 <strong>40% 이하</strong>로 유지하세요. 갭하락 -4% 이내라면 내일 오전 반등을 대기하는 전략도 유효합니다.</p>
-
-<hr />
-
-<h2 id="-nexttheme는-왜-이-두-종목을-골랐을까">🤖 NextTheme는 왜 이 두 종목을 골랐을까?</h2>
-
-<p>NextTheme는 단순히 “오늘 많이 오른 종목”을 고르지 않아요. <strong>“내일 시초가에 오를 가능성이 가장 높은 종목”</strong>, 즉 오늘 못 산 투자자들이 내일 아침 사고 싶어 할 종목을 선별합니다.</p>
-
-<p>오늘 반도체·SNS 대장주들은 <strong>배제</strong>됐습니다. 이유는 간단합니다. 이미 너무 많이 오른 종목들(3중 과열 신호)은 내일 추가 상승보다 차익 실현 매물이 더 많을 수 있기 때문입니다.</p>
-
-<p>대신 <strong>오늘 처음 테마 대장주가 된 포스코DX</strong>와 <strong>눌림목에서 재상승 패턴을 보인 LG헬로비전</strong>을 선택했습니다.</p>
-
-<p>✅ <strong>강력한 테마의 대장주</strong> — SI 인프라(포스코DX)와 미디어·LG 계열(LG헬로비전) 각 테마 주도주<br />
-✅ <strong>거래대금 폭증</strong> — 두 종목 모두 오후로 갈수록 거래가 활발해짐<br />
-✅ <strong>외국인 지속 매수</strong> — 큰 손들이 계속 사고 있다는 것 = 내일도 살 가능성<br />
-✅ <strong>신선한 재료</strong> — 젠슨 황 방한(6/5) 기대감이 6월 5일까지 이어지는 재료</p>
-
-<hr />
-
-<h2 id="️-리스크-체크--이런-경우-주의하세요">⚠️ 리스크 체크 — 이런 경우 주의하세요</h2>
-
-<ul>
-  <li>미국 <strong>ISM PMI</strong> 발표가 예상보다 나쁘면 내일 외국인이 이탈할 수 있습니다</li>
-  <li>젠슨 황 방한 기대감이 6월 2일(내일) 당일에 소진되면 갭다운 위험이 있습니다</li>
-  <li>코스닥 약세(-2.30%)가 내일도 지속되면 동반 조정 가능성 주의</li>
-</ul>
-
-<p><strong>손절선은 반드시 지키는 게 가장 중요합니다.</strong> 투자는 수익보다 지키는 게 먼저입니다. 🛡️</p>
-
-<hr />
-
-<h2 id="-오늘의-결론">💡 오늘의 결론</h2>
-
-<p>오늘 코스닥 약세장(-2.30%)에서도 AI·LG 계열 테마가 명확한 주도권을 잡았습니다. 포스코DX는 SI 테마 첫날 폭발 + 외인·기관 동시 수급으로 오버나이트 강함이 확인됐고, LG헬로비전은 LG 파트너십 기대감으로 장중 반등 구조가 기대됩니다.</p>
-
-<p><strong>꼭 기억하세요</strong>:</p>
-<ul>
-  <li>📌 오늘 밤 미국 ISM 지수 발표 → 부진 시 갭다운 가능 (손절 필수)</li>
-  <li>📌 포스코DX 비중 40%, LG헬로비전 비중 40% 이하 권장</li>
-  <li>📌 LG헬로비전은 갭하락 -5% 이상 시 즉시 손절</li>
-</ul>
-
-<blockquote>
-  <p>⚠️ 본 분석은 투자 참고용입니다. 모든 투자 결정과 책임은 본인에게 있습니다.</p>
-</blockquote>
-
-<hr />
-
-<p>💬 <strong>댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</strong></p>
-
-<p>#종가배팅 #수급분석 #NextTheme #포스코DX #LG헬로비전 #주식투자 #AI주식 #젠슨황 #피지컬AI #SI테마 #종가배팅전략</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[📅 2026년 6월 1일 (월) ⏰ 장 마감 직전 수급 분석]]></summary></entry></feed>
+<p>#종가배팅 #수급분석 #주식투자 #AI테마 #반도체투자 #월요일아침시황 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[좋은 아침입니다! 미국 증시가 사상 최고치를 경신했지만, 유가와 변동성이 함께 뛰어오른 이른 월요일입니다. 조심스러운 마음가짐이 필요한 날입니다.]]></summary></entry></feed>
