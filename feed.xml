@@ -1,4 +1,138 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-07T06:02:57+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">RED — 월요일 개장 핵심 변수</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/07/weekend/" rel="alternate" type="text/html" title="RED — 월요일 개장 핵심 변수" /><published>2026-06-07T06:00:00+09:00</published><updated>2026-06-07T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/07/weekend</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/07/weekend/"><![CDATA[<p>안녕하세요. 지난주 말 글로벌 반도체 충격이 한국 시장까지 휩쓸고 가는 토요일 밤입니다. 월요일 아침 개장을 앞두고 투자자분들의 마음이 무거울 수밖에 없는데요. 오늘 저희가 오는 월요일을 어떻게 대비할지 구체적으로 살펴보겠습니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-07T06:42:48+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">NAVER(035420)을 심층 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/07/0641-detail-035420-detail/" rel="alternate" type="text/html" title="NAVER(035420)을 심층 분석" /><published>2026-06-07T06:41:00+09:00</published><updated>2026-06-07T06:41:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/07/0641_detail_035420-detail</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/07/0641-detail-035420-detail/"><![CDATA[<h2 id="1-현재-시점과-종목-소개">1. 현재 시점과 종목 소개</h2>
+
+<p>2026년 6월 7일 06시 41분, 네이버(NAVER, 035420)의 현재 상황을 진단합니다. 네이버는 한국 최대 포털 및 인터넷 기업으로, 최근 엔비디아 CEO 젠슨 황의 한국 방문과 ‘AI 동맹’ 구축 뉴스로 시장의 이목을 받고 있습니다. 다만 주가는 이미 그 기대감을 많이 반영한 상태라는 점이 관건입니다.</p>
+
+<h2 id="2-현재-가격과-수급-신호">2. 현재 가격과 수급 신호</h2>
+
+<p>네이버의 현재가는 <strong>255,500원</strong>이며, 어제 대비 <strong>-4.49%</strong> 하락했습니다. 당일 수급을 보면:</p>
+<ul>
+  <li>외국인: <strong>-147,900주</strong> 순매도 (약 <strong>377억원</strong> 규모)</li>
+  <li>기관: <strong>+135,906주</strong> 순매수 (약 <strong>347억원</strong> 규모)</li>
+</ul>
+
+<p>최근 60일 수급 흐름에서 가장 주목할 점은 <strong>기관이 6일 연속 순매수</strong> 중이라는 것입니다. 반면 외국인은 꾸준히 팔고 있습니다. 특히 지난 6월 1~2일에는 외국인이 <strong>-1,135만 주, -1,517만 주</strong> 규모로 대량 매도했는데, 이는 뉴스 호재에도 불구하고 큰 손(외국인 기관투자자)이 익절을 서두르는 신호로 읽힙니다.</p>
+
+<h2 id="3-차트-위치-분석">3. 차트 위치 분석</h2>
+
+<ul>
+  <li><strong>일봉(단기)</strong>: 상승 흐름 (하지만 현재가는 5일 이동평균선 아래)</li>
+  <li><strong>주봉(중기)</strong>: 하락 흐름 (중기 추세는 약세)</li>
+  <li><strong>월봉(장기)</strong>: 상승 흐름 (장기 관점에서는 상승 추세 유지)</li>
+</ul>
+
+<p><strong>다이버전스 신호</strong> — 일봉과 주봉이 상반된 방향으로 움직이고 있습니다. 단기적으로는 반등하려는 움직임이 있지만, 중기(1~2주) 관점에서는 여전히 약세 구간에 머물러 있다는 뜻입니다. 현재 가격이 일봉 평균선 아래에 있다는 것은 단기 모멘텀이 약해지고 있음을 시사합니다.</p>
+
+<h2 id="4-뉴스와-시장-반응-분석">4. 뉴스와 시장 반응 분석</h2>
+
+<h3 id="호재-엔비디아-ceo-방한과-ai-동맹">호재: 엔비디아 CEO 방한과 AI 동맹</h3>
+
+<p>네이버는 지난주 젠슨 황 엔비디아 CEO 방한 시 SK, LG와 함께 ‘AI 동맹’을 구축하기로 했습니다. 로봇, 자율주행, AI팩토리 협력 계획이 공개되어 장기적으로는 매우 긍정적인 신호입니다.</p>
+
+<h3 id="리스크-단기과열-지정과-기대감-선반영">리스크: 단기과열 지정과 기대감 선반영</h3>
+
+<p>하지만 뉴스는 이미 <strong>주가에 반영되었다는 점</strong>이 가장 큰 문제입니다:</p>
+
+<ol>
+  <li>
+    <p><strong>단기과열종목 지정 예고</strong> — 네이버는 6월 2일 거래소로부터 단기과열종목으로 지정되었습니다. 이는 앞으로 <strong>상한가 제약</strong>이 생기고 <strong>변동성이 확대</strong>될 수 있다는 뜻입니다.</p>
+  </li>
+  <li>
+    <p><strong>동맹주 집단 선반영</strong> — 같은 동맹주인 SK, LG 등이 모두 집단 매수되면서 이미 기대감이 “선반영” 상태입니다. 즉, 좋은 뉴스가 나왔을 때 사야 수익이 나는데, 이미 주가가 올라버린 상황입니다.</p>
+  </li>
+  <li>
+    <p><strong>구체적 계약 부재</strong> — 현재는 “비전” 공개 수준이지, 실제 매출로 이어질 구체적 협력 계약이 아직 서명되지 않았습니다. 계약 체결 전까지는 조정 위험이 상당합니다.</p>
+  </li>
+</ol>
+
+<p><strong>결론</strong>: 호재 자체는 사실이지만, 현재 진입점으로서는 <strong>리스크 관리가 필수</strong>입니다.</p>
+
+<h2 id="5-재무-상태와-성장성">5. 재무 상태와 성장성</h2>
+
+<h3 id="연간-실적-추이-억원">연간 실적 추이 (억원)</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>연도</th>
+      <th>매출액</th>
+      <th>영업이익</th>
+      <th>EPS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2023</td>
+      <td>96,706</td>
+      <td>14,888</td>
+      <td>6,180원</td>
+    </tr>
+    <tr>
+      <td>2024</td>
+      <td>107,377</td>
+      <td>19,793</td>
+      <td>11,913원</td>
+    </tr>
+    <tr>
+      <td>2025(E)</td>
+      <td>120,350</td>
+      <td>22,081</td>
+      <td>12,376원</td>
+    </tr>
+    <tr>
+      <td>2026(E)</td>
+      <td>136,857</td>
+      <td>24,146</td>
+      <td>12,505원</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>연매출이 <strong>연 10% 전후로 안정적 성장</strong> 중입니다. 영업이익도 꾸준히 늘고 있어 체질 개선이 진행 중입니다. 다만 EPS는 2024년 이후 완만한 성장이라, PER(주가수익비율) 관점에서 현재 가격(25만원대)이 저평가라고 보기는 어렵습니다.</p>
+
+<h3 id="분기별-추이-최근-6분기">분기별 추이 (최근 6분기)</h3>
+
+<p>매출액은 <strong>분기당 3만억 전후로 균등 분배</strong>되고 있으며, 최신 분기(Q2 2026)는 <strong>33,407억원</strong>으로 전분기 대비 소폭 증가 중입니다. AI 및 광고 수익 확대가 이루어지고 있다는 의미입니다.</p>
+
+<h2 id="6-ai-종합-등급과-투자-결론">6. AI 종합 등급과 투자 결론</h2>
+
+<h3 id="등급-one-star-별-1개">등급: ONE STAR (별 1개)</h3>
+
+<p>네이버는 현재 <strong>ONE STAR(저점수)</strong> 등급 판정을 받았습니다. 이유는:</p>
+
+<ol>
+  <li>
+    <p><strong>기관은 매수 중이나 외국인은 매도</strong> — 외국인 기관투자자가 지속적으로 팔고 있다는 것은 글로벌 투자자들이 현재 밸류에이션을 높다고 평가한다는 신호입니다.</p>
+  </li>
+  <li>
+    <p><strong>단기 모멘텀 악화</strong> — 현재가가 일봉 5일선 아래 내려와 있고, 주봉 추세가 하락 중입니다. 단기 매매 입장에서는 우상향 신호가 약합니다.</p>
+  </li>
+  <li>
+    <p><strong>뉴스는 좋으나 이미 반영</strong> — 호재가 있음에도 불구하고 주가는 하락했다는 것은, 이미 그 뉴스 가치를 시장이 평가했고 오버슈팅이 발생했다는 뜻입니다.</p>
+  </li>
+</ol>
+
+<h3 id="투자-심정-무드-맑음️">투자 심정 (무드): 맑음(☀️)</h3>
+
+<p>뉴스 자체는 긍정적이고 회사의 장기 전략은 우호적입니다. 하지만 현재 단기 진입점으로서는 다소 조심스럽습니다.</p>
+
+<h3 id="대처-방안">대처 방안</h3>
+
+<p><strong>기존 보유분</strong>: 호재 확정(계약 체결) 시까지 매도 타이밍을 다시 점검하세요. 현재 단기과열 구간이므로, 추가 상승의 가능성보다는 조정 위험이 더 큽니다.</p>
+
+<p><strong>신규 진입을 원한다면</strong>:</p>
+<ul>
+  <li><strong>절대 금지</strong> — 현재가에서 전량 진입하면 고점 물림 위험이 매우 높습니다.</li>
+  <li><strong>권장</strong> — 조정 시점(5~10% 추가 하락)까지 기다린 후, <strong>소량(보유 계획액의 30% 이하)</strong>으로 분할 진입하세요.</li>
+  <li><strong>리스트에 올려두고 대기</strong> — 기업 뉴스와 차트 상황이 개선될 때까지 관찰하는 것이 가장 현명합니다.</li>
+</ul>
+
+<h2 id="결론">결론</h2>
+
+<p>네이버는 <strong>AI와 포털 사업의 장기 성장이 기대되는 우량주</strong>이지만, 현재는 <strong>단기 과열 국면 + 외국인 대량 매도 + 뉴스 선반영</strong> 삼박자가 맞아떨어진 상황입니다. 호재는 분명하나, 진입 타이밍이 중요합니다. 조정 시점을 기다리거나 기존 보유분의 익절을 먼저 검토하는 것을 권장합니다.</p>
+
+<p>💬 댓글로 의견 나눠주세요! 네이버 뉴스와 차트를 함께 관찰하며 투자 결정을 하세요. 이웃 추가하면 매일 분석 받아보실 수 있어요.</p>
+
+<p>#종목분석 #NAVER #035420 #AI종목 #엔비디아 #수급분석 #주식투자 #단기과열 #기관매수</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[1. 현재 시점과 종목 소개]]></summary></entry><entry><title type="html">RED — 월요일 개장 핵심 변수</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/07/weekend/" rel="alternate" type="text/html" title="RED — 월요일 개장 핵심 변수" /><published>2026-06-07T06:00:00+09:00</published><updated>2026-06-07T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/07/weekend</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/07/weekend/"><![CDATA[<p>안녕하세요. 지난주 말 글로벌 반도체 충격이 한국 시장까지 휩쓸고 가는 토요일 밤입니다. 월요일 아침 개장을 앞두고 투자자분들의 마음이 무거울 수밖에 없는데요. 오늘 저희가 오는 월요일을 어떻게 대비할지 구체적으로 살펴보겠습니다.</p>
 
 <h2 id="미국-야간-시장과-매크로-현황">미국 야간 시장과 매크로 현황</h2>
 
@@ -1453,180 +1587,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <p>💬 댓글로 의견 나눠주세요! 어떤 종목을 주목하고 계신가요? 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
 
-<p>#종가배팅 #수급분석 #주식투자 #AI주 #반도체주 #미국시장 #한국시장</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[달력을 보니 6월입니다. 지난달 미국 AI 랠리는 계속이지만, 한국 시장은 고민이 많네요. 오늘은 신중하게 접근해야 할 날입니다 🚨]]></summary></entry><entry><title type="html">NAVER(035420)을 심층 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/02/1821-detail-035420-detail/" rel="alternate" type="text/html" title="NAVER(035420)을 심층 분석" /><published>2026-06-02T18:21:00+09:00</published><updated>2026-06-02T18:21:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/02/1821_detail_035420-detail</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/02/1821-detail-035420-detail/"><![CDATA[<p><strong>2026년 6월 2일 오후 6시 21분</strong> 기준, NAVER(035420)에 대한 NextTheme AI 심층 분석 결과를 공유합니다. 국내 최대 포털·AI 기업의 최근 수급 흐름과 투자 판단 근거를 쉽게 풀어드립니다.</p>
-
-<hr />
-
-<h2 id="-지금-naver-주가는-어디에-있나">📈 지금 NAVER 주가는 어디에 있나?</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>항목</th>
-      <th>수치</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>현재가</td>
-      <td><strong>280,500원</strong></td>
-    </tr>
-    <tr>
-      <td>당일 변화</td>
-      <td><strong>+3.31%</strong> 상승</td>
-    </tr>
-    <tr>
-      <td>당일 외국인</td>
-      <td><strong>-1,135,272주</strong> (대규모 순매도)</td>
-    </tr>
-    <tr>
-      <td>당일 기관</td>
-      <td><strong>+633,251주</strong> (순매수)</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>오늘 NAVER 주가는 하루 만에 <strong>3.31%</strong> 올랐습니다. 그런데 흥미로운 점이 있어요. 주가는 오르는데, 외국인(해외 큰손 투자자)은 약 <strong>113만 주</strong>를 팔고 있고, 반대로 국내 큰 투자기관(기관)은 약 <strong>63만 주</strong>를 사들이고 있는 상황입니다. 외국인과 기관이 서로 반대 방향으로 움직이는 공방전이 벌어지고 있는 셈이죠.</p>
-
-<hr />
-
-<h2 id="-60일-수급-흐름-주목할-변곡점은">💹 60일 수급 흐름: 주목할 변곡점은?</h2>
-
-<p>약 3개월(60거래일)치 투자자 매매 흐름을 분석했을 때, 두 가지 중요한 순간이 눈에 띕니다.</p>
-
-<p><strong>① 4월 30일 — 외국인·기관 동시 대량 매도</strong></p>
-
-<p>외국인이 <strong>-58만 8천주</strong>, 기관도 <strong>-35만 9천주</strong>를 같은 날 팔아치웠습니다. 하루에 해외 큰손과 국내 기관이 동시에 대량 매도한 이 날은 단기 저점을 만들어낸 구간으로 볼 수 있어요.</p>
-
-<p><strong>② 5월 29일 — 기관의 대규모 복귀</strong></p>
-
-<p>기관이 <strong>+87만 7천주</strong>를 순매수하며 강하게 복귀했습니다. 이런 대량 기관 매수는 ‘이 가격대에서 기관이 적극적으로 담기 시작했다’는 신호로 해석할 수 있어요. 실제로 이 이후 기관은 <strong>3일 연속</strong> 순매수를 이어가고 있습니다.</p>
-
-<hr />
-
-<h2 id="-차트-위치-단기는-좋지만-중기는-조심">📊 차트 위치: 단기는 좋지만 중기는 조심!</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>기간</th>
-      <th>흐름</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>일봉 (단기, 수일)</td>
-      <td><strong>상승 흐름</strong> ✅</td>
-    </tr>
-    <tr>
-      <td>주봉 (중기, 수주)</td>
-      <td><strong>하락 흐름</strong> ⚠️</td>
-    </tr>
-    <tr>
-      <td>월봉 (장기, 수개월)</td>
-      <td><strong>상승 흐름</strong> ✅</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>단기와 장기로는 주가가 올라가는 흐름이지만, 주봉(몇 주 단위)으로 보면 아직 하락 흐름이 남아있습니다. 이를 ‘추세 엇갈림(다이버전스)’이라고 해요. 단기 반등은 확인됐지만, 중기적으로 추세가 완전히 회복됐다고 보기에는 아직 이릅니다.</p>
-
-<p>최근 3개월간 누적 <strong>약 +36.8% 급등</strong>이 이미 나왔다는 점도 함께 고려해야 합니다. 이미 많이 오른 상태에서의 추가 진입은 신중하게 접근할 필요가 있어요.</p>
-
-<hr />
-
-<h2 id="-뉴스-분석-젠슨-황-방한이-불씨">📰 뉴스 분석: 젠슨 황 방한이 불씨!</h2>
-
-<ul>
-  <li><strong>뉴스 신호</strong>: 🟢 호재</li>
-  <li><strong>재료 성격</strong>: 테마 편승 (단기 이벤트)</li>
-</ul>
-
-<p><strong>핵심 뉴스 요약</strong>: 엔비디아 CEO 젠슨 황의 한국 방문이 6월 초중순으로 임박했습니다. 로보틱스·AI 협력 확대 기대감으로 NAVER를 비롯한 국내 기술주들이 큰 주목을 받고 있어요. SK·엔씨소프트 등과도 연쇄 회동이 예정돼 있는 것으로 알려졌습니다.</p>
-
-<p><strong>주요 이슈 3가지</strong></p>
-
-<ol>
-  <li>젠슨 황 방한(6월 초) → 피지컬AI·로보틱스 협력 기대감 부각</li>
-  <li>NAVER 주식선물옵션 변동성 확대로 큰손 매매 활발해진 상황</li>
-  <li>엔씨·SK 등 경쟁사의 선제 회동 → NAVER의 협력 기회가 상대적으로 약화될 가능성도 있음</li>
-</ol>
-
-<p><strong>⚠️ 주의</strong>: 이 재료는 ‘기대감’ 기반입니다. 젠슨 황의 발언 한마디에 주가가 오르내리는 상황이에요. 실제 계약이나 투자 발표로 이어지지 않는다면, 방한 이후 기대감이 꺼지며 주가가 빠르게 조정될 수 있습니다.</p>
-
-<hr />
-
-<h2 id="-ai-종합-등급--결론">🤖 AI 종합 등급 &amp; 결론</h2>
-
-<h3 id="-3성-등급-three-star">★★★ 3성 등급 (THREE STAR)</h3>
-
-<blockquote>
-  <p><em>“기관 3일 연속 매수와 일봉 상승으로 평소 비중 진입 가능. 단, 3일 누적 +36.8% 급등 후 외국인 대량 매도와 테마 편승 재료는 단기 조정 위험. 고점 추격 주의 필요.”</em></p>
-</blockquote>
-
-<p><strong>오늘의 투자 분위기</strong>: 맑음 ☀️</p>
-
-<p>NextTheme AI는 NAVER에 <strong>3성 등급</strong>을 부여했습니다. 기관이 3일 연속 매수하고 있는 점과 단기 일봉 상승 흐름은 긍정적 신호입니다. 다만 이미 최근 급등 폭이 상당하고, 외국인은 오늘 하루에만 100만 주 이상을 팔고 있어 조정 가능성도 열어두어야 합니다.</p>
-
-<h3 id="-행동-가이드">💡 행동 가이드</h3>
-
-<p><strong>단기 트레이더</strong>: 젠슨 황 방한이 예상되는 <strong>6월 초중순</strong>까지 상승 모멘텀을 활용한 뒤 차익 실현을 고려하세요.</p>
-
-<p><strong>중장기 투자자</strong>: 실질적인 협력 발표나 계약 소식이 나올 때까지 관망이 유리합니다. 현재 재료는 기대감 기반이라 지속성이 불확실합니다.</p>
-
-<hr />
-
-<h2 id="-naver-재무-현황-간단-요약">📋 NAVER 재무 현황 (간단 요약)</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>연도</th>
-      <th>매출 (억원)</th>
-      <th>영업이익 (억원)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>2023</td>
-      <td>96,706</td>
-      <td>14,888</td>
-    </tr>
-    <tr>
-      <td>2024</td>
-      <td>107,377</td>
-      <td>19,793</td>
-    </tr>
-    <tr>
-      <td>2025</td>
-      <td>120,350</td>
-      <td>22,081</td>
-    </tr>
-    <tr>
-      <td>2026E</td>
-      <td>136,857</td>
-      <td>24,146</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>매출과 영업이익 모두 매년 꾸준히 성장하고 있습니다. 2026년 예상 매출은 <strong>13조 6,857억원</strong>으로, 기업 자체의 성장성은 탄탄한 편입니다. 분기별로도 매출이 꾸준히 늘어나는 추세가 확인됩니다.</p>
-
-<hr />
-
-<h2 id="-오늘의-핵심-정리">✅ 오늘의 핵심 정리</h2>
-
-<ul>
-  <li>✅ 기관 <strong>3일 연속</strong> 순매수 — 긍정적 신호</li>
-  <li>⚠️ 외국인 오늘 <strong>-113만주</strong> 대규모 매도 — 외국인은 팔고 있음</li>
-  <li>✅ 단기(일봉)·장기(월봉) 차트 상승 흐름</li>
-  <li>⚠️ 주봉(중기) 흐름은 아직 하락 — 완전한 추세 회복은 미확인</li>
-  <li>🔔 젠슨 황 방한 기대감 — 단기 이벤트, 실질 성과 확인 전까지 편승 주의</li>
-  <li>★★★ NextTheme AI 3성 등급 — 신중한 비중 진입 가능, 고점 추격 금물</li>
-</ul>
-
-<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
-
-<hr />
-
-<p>#종목분석 #NAVER #수급분석 #NextTheme #035420 #네이버주식 #AI주식 #종가배팅 #주식투자 #기관매수 #젠슨황방한 #엔비디아협력</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[2026년 6월 2일 오후 6시 21분 기준, NAVER(035420)에 대한 NextTheme AI 심층 분석 결과를 공유합니다. 국내 최대 포털·AI 기업의 최근 수급 흐름과 투자 판단 근거를 쉽게 풀어드립니다.]]></summary></entry></feed>
+<p>#종가배팅 #수급분석 #주식투자 #AI주 #반도체주 #미국시장 #한국시장</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[달력을 보니 6월입니다. 지난달 미국 AI 랠리는 계속이지만, 한국 시장은 고민이 많네요. 오늘은 신중하게 접근해야 할 날입니다 🚨]]></summary></entry></feed>
