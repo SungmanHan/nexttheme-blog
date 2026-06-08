@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-08T15:07:41+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">무포지션 — 서킷브레이커 발동 날, 기다림도 매매다</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/08/nt2-1505-snapshot/" rel="alternate" type="text/html" title="무포지션 — 서킷브레이커 발동 날, 기다림도 매매다" /><published>2026-06-08T15:05:00+09:00</published><updated>2026-06-08T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/08/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/08/nt2-1505-snapshot/"><![CDATA[<p>📅 <strong>2026년 6월 8일 (월) 15:05 기준</strong></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-08T18:49:44+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">무포지션 — 서킷브레이커 발동 날, 기다림도 매매다</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/08/nt2-1505-snapshot/" rel="alternate" type="text/html" title="무포지션 — 서킷브레이커 발동 날, 기다림도 매매다" /><published>2026-06-08T15:05:00+09:00</published><updated>2026-06-08T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/08/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/08/nt2-1505-snapshot/"><![CDATA[<p>📅 <strong>2026년 6월 8일 (월) 15:05 기준</strong></p>
 
 <hr />
 
 <h2 id="오늘-주식-시장에서-정말-특별한-일이-있었습니다-">오늘, 주식 시장에서 정말 특별한 일이 있었습니다 😰</h2>
 
-<p>오늘 코스피가 <strong>-8.05%</strong> 하락하며 ‘서킷브레이커’가 발동됐습니다.</p>
+<p>오늘 코스피가 <strong>-8.29%</strong> 폭락하며 ‘서킷브레이커’가 발동됐습니다.</p>
 
 <p>서킷브레이커란, 주식 시장이 너무 빠르게 폭락할 때 거래를 일시 중단시키는 안전장치입니다. 쉽게 말해, 시장이 너무 무질서하게 추락하지 않도록 잠깐 숨을 고르게 하는 제도예요. 코스피에서 서킷브레이커가 발동될 정도라면 그날 시장이 얼마나 극단적인 상황이었는지 짐작이 가시죠?</p>
 
@@ -25,7 +25,7 @@
   <tbody>
     <tr>
       <td>코스피 하락률</td>
-      <td><strong>-8.05%</strong></td>
+      <td><strong>-8.29%</strong></td>
       <td>서킷브레이커 발동 수준의 폭락</td>
     </tr>
     <tr>
@@ -52,18 +52,19 @@
 
 <h2 id="-naver035420는-왜-언급됐을까요">🤔 NAVER(035420)는 왜 언급됐을까요?</h2>
 
-<p>AI 분석 과정에서 NAVER가 후보로 올라왔지만 결국 선택받지 못했습니다. 그 이유는 다음과 같습니다:</p>
+<p>AI 분석 과정에서 NAVER가 후보로 올라왔지만 결국 선택받지 못했습니다. 이유는 세 가지입니다:</p>
 
-<ul>
-  <li>외국인이 최근 <strong>60일 동안 누적으로 1조 4,000억 원</strong> 이상을 팔았습니다</li>
-  <li>이미 단기적으로 많이 오른 상태라 ‘단기과열 예고’ 상태였어요</li>
-  <li>호가창(매수·매도 대기 주문)에서 파는 쪽이 사는 쪽보다 훨씬 많았습니다</li>
-</ul>
+<p><strong>① 재료가 이미 소화됐어요</strong>
+엔비디아의 한국 방문은 오늘 ‘당일’ 이벤트였습니다. 주식 시장에는 “소문에 사고 뉴스에 팔아라”라는 말이 있을 정도로, 이미 알려진 뉴스는 주가를 더 끌어올리는 힘이 약해집니다. 이벤트 당일에는 오히려 차익을 실현하려는 매도 압력이 더 클 수 있어요.</p>
 
-<p>즉, 내일 시장이 반등하더라도 NAVER는 ‘오늘 못 산 사람들이 내일 시초가에 사고 싶어할 종목’이라고 확신하기 어려운 상태였던 겁니다.</p>
+<p><strong>② 외국인이 2달 동안 꾸준히 팔았어요</strong>
+최근 60일간 외국인의 NAVER 순매도 누적 규모가 <strong>1조 4,000억 원</strong> 이상입니다. 단 하루의 이슈로 뒤집기 어려운 추세입니다.</p>
+
+<p><strong>③ 단기 과열 예고 상태였어요</strong>
+이미 빠르게 오른 구간에서 추격 매수를 하면 고점에서 물릴 위험이 있습니다. AI는 이 상태를 ‘단기과열 예고’로 판단했습니다.</p>
 
 <blockquote>
-  <p>💬 <strong>AI의 결론</strong>: “익일 시장 반등 시 NAVER 추격 매수가 가능할 수 있지만, 단기과열 예고 상태이므로 진입에 신중해야 한다”</p>
+  <p>💬 <strong>AI의 판단</strong>: “시황 회복 시 재평가 대기. 익일 시장 반등 + 엔비디아 추가 협력 발표가 있다면 검토 가능하나, 현재 진입은 신중해야 한다”</p>
 </blockquote>
 
 <hr />
