@@ -1,4 +1,132 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-09T15:08:44+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">SK하이닉스 + 테스 — 반도체 강세 전환 신호 포착</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/09/nt2-1505-snapshot/" rel="alternate" type="text/html" title="SK하이닉스 + 테스 — 반도체 강세 전환 신호 포착" /><published>2026-06-09T15:05:00+09:00</published><updated>2026-06-09T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/09/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/09/nt2-1505-snapshot/"><![CDATA[<h2 id="오늘-하루를-한-줄로-미국-반도체-강세-전환으로-한국-반도체주-폭발">오늘 하루를 한 줄로: 미국 반도체 강세 전환으로 한국 반도체주 폭발</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-10T06:04:13+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">RED 등급 — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/10/0600-briefing/" rel="alternate" type="text/html" title="RED 등급 — 오늘 아침 시황" /><published>2026-06-10T06:00:00+09:00</published><updated>2026-06-10T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/10/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/10/0600-briefing/"><![CDATA[<h2 id="오늘도-긴장의-하루가-될-것-같네요-">오늘도 긴장의 하루가 될 것 같네요 😔</h2>
+
+<p>미국 야간 시장이 엇갈렸습니다. 다우는 소폭 상승했지만(+0.17%), 나스닥은 -0.97%로 내려앉았고, S&amp;P500도 약세(−0.26%)를 보였어요. 어제 +8% 급반등했던 우리 시장이 긴장할 수밖에 없는 신호들이 연쇄로 터지고 있습니다.</p>
+
+<p>특히 오늘은 <strong>21:30 미국 CPI 발표</strong>라는 빅 이벤트가 기다리고 있어서, 오전부터 보수적인 마음으로 시작해야 할 것 같습니다.</p>
+
+<hr />
+
+<h2 id="-미국-시장은-왜-이렇게-복잡할까">📊 미국 시장은 왜 이렇게 복잡할까?</h2>
+
+<p><strong>전일 급반등 → 야간 혼조 → 숨 고르는 시장</strong></p>
+
+<p>어제는 다우, S&amp;P, 나스닥 모두 강하게 올랐지만, 밤사이 환심이 돌았습니다. 특히 기술주 중심의 나스닥이 1% 가까이 빠진 점이 신경 쓰입니다. 반도체 산업도 롤러코스터를 탔어요:</p>
+<ul>
+  <li>필라델피아 반도체지수: <strong>−1.93%</strong> (전날 강세에서 일부 수익 실현)</li>
+  <li>마이크론(Micron): <strong>−1%</strong> (같은 맥락)</li>
+</ul>
+
+<p>여기에 <strong>중동 긴장</strong> 뉴스(이란이 미국 헬기 격추)까지 더해지니, 투자자들의 불안감이 VIX(공포지수)에도 +5.02%로 나타났습니다. <strong>그리고 스페이스X IPO</strong> 소식이 시장에 자금 이탈 우려를 자아내고 있어요.</p>
+
+<hr />
+
+<h2 id="-오늘의-베팅-등급과-전략">🎯 오늘의 베팅 등급과 전략</h2>
+
+<p><strong>등급: RED (위험 경고)</strong></p>
+
+<p>이런 상황에서는 무리하지 않는 게 최우선입니다. 저희 NextTheme 알고리즘도 <strong>30% 이하의 보수적 대응</strong>을 권장하고 있어요.</p>
+
+<h3 id="구체적인-행동-지침">구체적인 행동 지침</h3>
+
+<ol>
+  <li><strong>신규 진입은 CPI 발표 전까지 자제</strong>
+    <ul>
+      <li>21:30 미국 CPI는 금리·달러 방향을 결정하는 핵심 이벤트</li>
+      <li>시장이 경직된 상태라서 변동성이 과하게 나타날 수 있음</li>
+    </ul>
+  </li>
+  <li><strong>어제 선별한 종목들은 전략적 관망</strong>
+    <ul>
+      <li>갭하락이 −4% 이내면, 09:30~10:30 눌림목 차일드 매수 고려</li>
+      <li>갭하락이 −5% 이상이면 손절 (지금은 매매 시점이 아님)</li>
+    </ul>
+  </li>
+  <li><strong>CPI 발표 후 반등 시나리오 열어두기</strong>
+    <ul>
+      <li>만약 발표 수치가 예상보다 낮으면 → 2차 반등 가능성</li>
+      <li>하지만 지금은 그 결과가 나올 때까지 기다리는 자세</li>
+    </ul>
+  </li>
+</ol>
+
+<hr />
+
+<h2 id="-어제6월-9일-선별-종목-복기">📋 어제(6월 9일) 선별 종목 복기</h2>
+
+<h3 id="1-sk하이닉스-000660--눌림목-진입-전략">1. SK하이닉스 (000660) — 눌림목 진입 전략</h3>
+
+<p><strong>어제 전략:</strong> 종가에 소량(20~30%) 매수 + 오늘 09:00~10:30 눌림목에서 추가 진입</p>
+
+<p><strong>오늘 대응:</strong></p>
+<ul>
+  <li><strong>갭하락 −4% 이내:</strong> 09:30~10:30 동안 눌림목을 기다리며 분할 매수</li>
+  <li><strong>갭하락 −5% 이상:</strong> 즉시 손절 (오늘은 진입 시점이 아님)</li>
+</ul>
+
+<p><strong>왜 이런 위험이 있을까?</strong>
+⚠️ 필라델피아 반도체지수가 −1.93% 빠졌어요. 반도체주가 약세 환경이에요. 여기에 CPI 리스크까지 있으니, 갭다운폭에 따라 진입 여부를 판단해야 합니다.</p>
+
+<p><strong>포인트:</strong> 반등 시 +3% 수익 확보 후 매도. 무욕이 최고의 안전입니다.</p>
+
+<hr />
+
+<h3 id="2-테스-095610--과열-조정-관찰">2. 테스 (095610) — 과열 조정 관찰</h3>
+
+<p><strong>어제 상황:</strong> 하루 +22% 급등 → MEDIUM 신뢰도</p>
+
+<p><strong>오늘 대응:</strong></p>
+<ul>
+  <li><strong>신규 진입은 자제</strong> (이미 충분히 올랐고, RED 등급이라서 더 위험)</li>
+  <li><strong>보유 중이라면:</strong> CPI 발표 후 시장 흐름 확인할 때까지 관심 유지</li>
+  <li><strong>시초가 확인 후:</strong> 갭하락이 크면 관망, 갭하락이 작으면 소량 관찰 가능</li>
+</ul>
+
+<p><strong>왜 주의해야 할까?</strong>
+⚠️ 어제 급등(+22%)은 단기 과열 신호예요. 게다가 우리 시장의 등급이 RED라서, 조정이 나올 가능성이 높습니다. CPI 발표 후 시장이 어느 방향으로 움직일지 확인된 후에 진입해야 합니다.</p>
+
+<hr />
+
+<h2 id="-오늘-주목할-변수들">🔍 오늘 주목할 변수들</h2>
+
+<p><strong>1. 21:30 미국 CPI 발표</strong> (가장 중요!)</p>
+<ul>
+  <li>예상: 전년 동월 대비 <strong>3.8%</strong></li>
+  <li>이 숫자가 예상보다 높으면 → 금리 우려 → 추가 하락</li>
+  <li>이 숫자가 예상보다 낮으면 → 금리 인하 가능성 → 반등 기회</li>
+</ul>
+
+<p><strong>2. 중동 긴장</strong> (이란-미국)</p>
+<ul>
+  <li>장중 돌발 악재로 작용할 수 있음</li>
+  <li>유가 급등 가능성</li>
+</ul>
+
+<p><strong>3. 국내 레버리지 광풍</strong></p>
+<ul>
+  <li>어제 급등에 레버리지 매수가 몰렸어요</li>
+  <li>반대매매(강제청산) 우려가 약 <strong>3,000억 규모</strong></li>
+</ul>
+
+<hr />
+
+<h2 id="-오늘의-투자-마음가짐">💡 오늘의 투자 마음가짐</h2>
+
+<p><strong>RED 등급 날씨에는 손 놨을 때 편하다는 말이 있어요.</strong></p>
+
+<p>장중 CPI 발표 전까지는 신규 진입을 참고, 어제 산 종목들도 시초가와 시장 흐름을 보면서 차근차근 대응하세요. 만약 예상 밖의 반등이 나오면 그때 그 기회를 놓치지 않으면 됩니다.</p>
+
+<p><strong>핵심 요약:</strong></p>
+<ul>
+  <li>① CPI 발표 전 신규 진입 자제</li>
+  <li>② 기존 포지션은 갭폭에 따라 차별화된 대응</li>
+  <li>③ 발표 후 시장 방향이 명확해진 후 행동</li>
+</ul>
+
+<hr />
+
+<p>💬 댓글로 의견 나눠주세요! CPI 발표 후 어떻게 대응할지 함께 얘기해봐요. 이웃 추가하면 매일 분석 받아보실 수 있습니다 😊</p>
+
+<p>#종가배팅 #수급분석 #주식투자 #매매전략 #CPI #미국시장 #반도체 #SK하이닉스 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[오늘도 긴장의 하루가 될 것 같네요 😔]]></summary></entry><entry><title type="html">SK하이닉스 + 테스 — 반도체 강세 전환 신호 포착</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/09/nt2-1505-snapshot/" rel="alternate" type="text/html" title="SK하이닉스 + 테스 — 반도체 강세 전환 신호 포착" /><published>2026-06-09T15:05:00+09:00</published><updated>2026-06-09T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/09/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/09/nt2-1505-snapshot/"><![CDATA[<h2 id="오늘-하루를-한-줄로-미국-반도체-강세-전환으로-한국-반도체주-폭발">오늘 하루를 한 줄로: 미국 반도체 강세 전환으로 한국 반도체주 폭발</h2>
 <p>반도체 생산 대장주 <strong>SK하이닉스가 +15%</strong>, 전공정 장비의 테스도 <strong>+22%</strong> 급등했습니다. 미국 나스닥 반도체 지수(SOX)가 +3.52% 뛰어오르면서 한국 반도체 테마가 전면 상승으로 돌아섰어요. 기관과 외국인이 당일 오후 한시에 집중 매수한 모습이 선명합니다. 🚀</p>
 
 <h2 id="시장-분위기-반도체-약세장-끝-강세장-시작-신호">시장 분위기: 반도체 약세장 끝, 강세장 시작 신호</h2>
@@ -1765,159 +1893,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <p>💬 월요일 개장을 앞두고 어떻게 대비할 계획인지 댓글로 나눠주세요! 이웃 추가하면 매일 시장 분석을 받아보실 수 있어요 😊</p>
 
-<p>#종가배팅 #주말브리핑 #외인매도 #반도체 #미국금리 #방어주 #우주항공 #월요일대비</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[안녕하세요. 지난주 말 글로벌 반도체 충격이 한국 시장까지 휩쓸고 가는 토요일 밤입니다. 월요일 아침 개장을 앞두고 투자자분들의 마음이 무거울 수밖에 없는데요. 오늘 저희가 오는 월요일을 어떻게 대비할지 구체적으로 살펴보겠습니다.]]></summary></entry><entry><title type="html">RED — 한 주 회고와 다음 주 준비</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/06/weekend/" rel="alternate" type="text/html" title="RED — 한 주 회고와 다음 주 준비" /><published>2026-06-06T06:00:00+09:00</published><updated>2026-06-06T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/06/weekend</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/06/weekend/"><![CDATA[<p>안녕하세요, NextTheme입니다. 🌅
-한 주가 끝났습니다. 그런데 이번 주 마지막 거래일은 정말 충격적이었죠. 미국발 악재가 쏟아지면서 국내 증시가 그야말로 급락했습니다. 오늘은 무슨 일이 있었는지, 그리고 다음 주를 어떻게 준비해야 할지 차근차근 살펴보겠습니다.</p>
-
-<hr />
-
-<h2 id="-미국-증시에서-무슨-일이-있었나요">😱 미국 증시에서 무슨 일이 있었나요?</h2>
-
-<p>지난밤 미국 증시는 크게 흔들렸습니다:</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>지수</th>
-      <th>변동률</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>다우존스</td>
-      <td><strong>-1.35%</strong></td>
-    </tr>
-    <tr>
-      <td>S&amp;P500</td>
-      <td><strong>-2.64%</strong></td>
-    </tr>
-    <tr>
-      <td>나스닥</td>
-      <td><strong>-4.18%</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>특히 나스닥이 <strong>4%가 넘는 큰 폭으로 하락</strong>했는데, 이는 기술주(IT 기업들)가 집중적으로 팔린 결과입니다.</p>
-
-<p>왜 이렇게 됐을까요? 핵심은 <strong>미국의 5월 고용 보고서</strong>입니다. 원래 전문가들은 약 8만 5천 명의 새 일자리가 생길 것으로 예상했는데, 실제로는 <strong>17만 2천 명</strong>이 취업했습니다 — 예상의 두 배 수준이죠.</p>
-
-<p>일자리가 많이 생기면 좋은 거 아닌가요? 보통은 그렇지만, 지금은 달라요. 경기가 너무 뜨거우면 미국 중앙은행(Fed)이 금리를 <strong>다시 올릴 수 있다</strong>는 우려가 생깁니다. 금리가 오르면 기업들이 돈을 빌리는 비용이 늘어나고, 주식 시장에 좋지 않습니다. 이 공포로 투자자들이 일제히 주식을 팔기 시작한 겁니다.</p>
-
-<p>여기에 AI 반도체 기업 <strong>브로드컴의 실적이 기대에 못 미치면서</strong> “AI가 과대평가된 거 아니냐”는 의심까지 번졌고, 반도체 관련 지수(필라델피아 반도체)는 무려 <strong>-10.3%</strong> 폭락했습니다.</p>
-
-<p>국내 증시에도 직격탄이 날아왔습니다:</p>
-<ul>
-  <li>코스피 <strong>-5.5%</strong> 급락</li>
-  <li>원/달러 환율 <strong>1,560원 돌파</strong> (금융위기 이후 최고 수준)</li>
-  <li>시장 공포 지수(VIX) <strong>40% 급등</strong></li>
-  <li>외국인 큰 투자기관이 <strong>4조 원 규모 매도</strong></li>
-</ul>
-
-<p>개인 투자자분들이 <strong>6.2조 원을 사며 버텼지만</strong>, 외국인의 매도 압력이 워낙 강력했습니다.</p>
-
-<hr />
-
-<h2 id="-이번-주-베팅-등급-red-위험">🚨 이번 주 베팅 등급: RED (위험)</h2>
-
-<p>NextTheme 알고리즘이 계산한 이번 주 시장 심리 점수는 <strong>25점 / 100점</strong>입니다. 이 정도면 매우 비관적인 상황이에요.</p>
-
-<p><strong>RED 등급</strong>은 “적극적인 매수보다는 손실 방어가 우선”인 시기를 뜻합니다.</p>
-
-<h3 id="전략은-이렇습니다">전략은 이렇습니다:</h3>
-
-<blockquote>
-  <p>미국 고용 호조로 인한 금리인상 우려가 전 세계 증시를 흔들었습니다. 지금은 섣불리 더 사기보다는 지키는 게 먼저입니다. 다만 반도체주는 많이 떨어져서 싼 구간에 들어왔기 때문에, 미국 중앙은행의 방향이 확인되면 조금씩 사볼 수 있는 기회도 생길 수 있습니다.</p>
-</blockquote>
-
-<p><strong>실천 방법:</strong></p>
-<ul>
-  <li>레버리지 투자(빚내서 하는 투자)는 비중을 <strong>줄이세요</strong></li>
-  <li>보유 종목의 손절(손해를 보더라도 파는) 기준을 다시 확인하세요</li>
-  <li>반도체주는 급하게 사지 말고, 미국 중앙은행 발표 후 <strong>소량씩</strong> 접근하세요</li>
-  <li>환율이 <strong>1,560원에서 계속 버티면</strong> 수출 기업보다 내수·배당 기업이 유리합니다</li>
-</ul>
-
-<hr />
-
-<h2 id="-다음-주-주목할-섹터는">🔍 다음 주 주목할 섹터는?</h2>
-
-<h3 id="1-은행주--방어주로-주목-">1. 은행주 — 방어주로 주목 💰</h3>
-<p>이번 큰 하락장에서도 은행 관련 주식은 오히려 <strong>+2.4% 상승</strong>했습니다. 금리가 오르면 은행이 이자를 더 많이 벌기 때문이죠. 또 과거 금융 상품(H지수 ELS) 관련 불확실성이 해소되면서 배당도 매력적입니다. 안전하게 시장에 남아있고 싶다면 은행주를 눈여겨보세요.</p>
-
-<h3 id="2-필수소비재방어-섹터--경기-불안할-때-강한-종목들-">2. 필수소비재·방어 섹터 — 경기 불안할 때 강한 종목들 🛒</h3>
-<p>술·담배·음식료처럼 경기와 관계없이 꼭 필요한 제품을 파는 기업들은 불안한 시장에서 비교적 강세를 보입니다. 미국 시장에서도 무알콜 음료(+2.3%), 담배(+2.3%) 같은 방어 업종이 선방했습니다.</p>
-
-<h3 id="3-반도체--많이-떨어졌지만-아직은-신중하게-️">3. 반도체 — 많이 떨어졌지만 아직은 신중하게 ⚠️</h3>
-<p>코스피 -5.5%, 필라델피아 반도체 -10% 이상의 폭락으로 반도체주는 이미 많이 쌌습니다. 과매도(너무 많이 팔린) 구간에 진입했어요. 하지만 미국 중앙은행이 금리를 올릴지 안 올릴지 아직 불확실합니다. <strong>확인 후 소량 분할 매수</strong>가 원칙입니다. 급하게 한 번에 사면 위험해요.</p>
-
-<hr />
-
-<h2 id="-월요일-시장-어떻게-될까요">📅 월요일 시장, 어떻게 될까요?</h2>
-
-<p>솔직히 말씀드리면 <strong>예측이 매우 어려운 상황</strong>입니다. 두 가지 시나리오가 맞붙고 있어요:</p>
-
-<p><strong>추가 하락 시나리오</strong> 😰</p>
-<ul>
-  <li>외국인이 계속 매도하면 코스피 <strong>8,000선 아래로 떨어질 수</strong> 있습니다</li>
-  <li>환율이 1,560원 위에서 계속 머물면 국내 기업 비용 부담이 커집니다</li>
-</ul>
-
-<p><strong>반등 시도 시나리오</strong> 🤞</p>
-<ul>
-  <li>많이 떨어진 만큼 저가 매수 심리가 생길 수 있습니다</li>
-  <li>미국 중앙은행이 “금리 안 올린다”는 신호를 주면 분위기가 반전될 수도 있습니다</li>
-</ul>
-
-<h3 id="월요일-아침-체크리스트">월요일 아침 체크리스트:</h3>
-<ol>
-  <li><strong>환율</strong> — 1,560원 아래로 안정되는지 확인</li>
-  <li><strong>필라델피아 반도체 선물</strong> — 반등 여부 확인</li>
-  <li><strong>외국인 순매수 전환</strong> — 가장 중요한 1차 반등 신호</li>
-</ol>
-
-<hr />
-
-<h2 id="-지금-보유-중이라면-대응-전략">💼 지금 보유 중이라면? 대응 전략</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>보유 종목</th>
-      <th>대응 방법</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>레버리지 ETF</td>
-      <td>손절 라인 반드시 점검 — 하루 20% 급락이 나온 상황</td>
-    </tr>
-    <tr>
-      <td>반도체 종목</td>
-      <td>손절가를 매수가 대비 <strong>-15% 이내</strong>로 설정 권장</td>
-    </tr>
-    <tr>
-      <td>테마주·소형주</td>
-      <td>방어주 아니면 빠른 청산 고려</td>
-    </tr>
-    <tr>
-      <td>은행·방어주</td>
-      <td>상대적으로 안정, 유지 가능</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>월요일 장 초반 <strong>추가 하락이 나오면 손절 우선</strong>, 반등 시도가 나오면 비중을 줄여 현금 비율을 높이는 게 현명합니다.</p>
-
-<hr />
-
-<h2 id="-이번-주말-핵심-메시지">🎯 이번 주말 핵심 메시지</h2>
-
-<p>이번 한 주의 마지막은 참 힘들었습니다. 하지만 주식 시장은 항상 그렇습니다 — 올라갈 때도 있고, 이렇게 크게 내려올 때도 있습니다. 중요한 건 이런 때 <strong>감정적으로 행동하지 않는 것</strong>입니다.</p>
-
-<p>레버리지는 줄이고, 손절 기준은 명확히 하고, 현금 비율을 높여두세요. 다음 주 미국 중앙은행의 신호가 확인되면 그때 기회를 노려도 늦지 않습니다.</p>
-
-<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
-
-<hr />
-
-<p>#종가배팅 #수급분석 #주식투자 #NextTheme #주말브리핑 #코스피전망 #반도체주 #미국증시 #금리인상 #환율</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[안녕하세요, NextTheme입니다. 🌅 한 주가 끝났습니다. 그런데 이번 주 마지막 거래일은 정말 충격적이었죠. 미국발 악재가 쏟아지면서 국내 증시가 그야말로 급락했습니다. 오늘은 무슨 일이 있었는지, 그리고 다음 주를 어떻게 준비해야 할지 차근차근 살펴보겠습니다.]]></summary></entry></feed>
+<p>#종가배팅 #주말브리핑 #외인매도 #반도체 #미국금리 #방어주 #우주항공 #월요일대비</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[안녕하세요. 지난주 말 글로벌 반도체 충격이 한국 시장까지 휩쓸고 가는 토요일 밤입니다. 월요일 아침 개장을 앞두고 투자자분들의 마음이 무거울 수밖에 없는데요. 오늘 저희가 오는 월요일을 어떻게 대비할지 구체적으로 살펴보겠습니다.]]></summary></entry></feed>
