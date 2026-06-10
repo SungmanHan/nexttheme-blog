@@ -1,4 +1,141 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-10T10:03:32+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">6/9 종가배팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/10/review-20260609-review/" rel="alternate" type="text/html" title="6/9 종가배팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-06-10T09:00:00+09:00</published><updated>2026-06-10T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/10/review_20260609-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/10/review-20260609-review/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-10T15:08:34+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">무포지션 권고 — 코스피 -6.22% 폭락, NextTheme 수급 집중 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/10/nt2-1505-snapshot/" rel="alternate" type="text/html" title="무포지션 권고 — 코스피 -6.22% 폭락, NextTheme 수급 집중 분석" /><published>2026-06-10T15:05:00+09:00</published><updated>2026-06-10T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/10/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/10/nt2-1505-snapshot/"><![CDATA[<table>
+  <tbody>
+    <tr>
+      <td>📅 <strong>2026년 6월 10일 (화) 15:05</strong></td>
+      <td>NextTheme AI 종가배팅 시스템</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="오늘-주식-시장에-무슨-일이-있었나요-">오늘, 주식 시장에 무슨 일이 있었나요? 📉</h2>
+
+<p>오늘 코스피가 무려 <strong>-6.22%</strong> 하락했습니다.</p>
+
+<p>단순히 “좀 빠진” 수준이 아니에요. 코스피가 하루에 6% 넘게 빠지는 건 수년에 한 번 있을까 말까 한 ‘충격일’입니다. 평소 주식을 잘 모르시는 분들도 뉴스에서 “코스피 급락”이라는 헤드라인을 보셨을 거예요.</p>
+
+<p>오늘 NextTheme 알고리즘은 최종적으로 <strong>“무포지션 — 오늘 배팅하지 않는다”</strong>는 결론을 내렸습니다. 왜 그런 판단을 했는지, 쉽게 풀어서 설명드릴게요.</p>
+
+<hr />
+
+<h2 id="오늘-시장이-이렇게-무너진-이유는-️">오늘 시장이 이렇게 무너진 이유는? 🌩️</h2>
+
+<h3 id="1-미국-cpi-발표가-오늘-밤-있습니다">1. 미국 CPI 발표가 오늘 밤 있습니다</h3>
+
+<p>오늘 밤 미국에서 물가 지수(CPI, Consumer Price Index)를 발표합니다. 쉽게 말해 “미국 물가가 얼마나 올랐냐”를 알려주는 지표인데요, 이게 예상보다 높게 나오면 미국 중앙은행(연준)이 금리를 더 올릴 수 있다는 우려가 커집니다. 금리가 오르면 주식 시장에 부담이 됩니다.</p>
+
+<p>오늘 밤에만 이런 <strong>중요 경제 지표 발표가 4개</strong>나 예정돼 있어요. 결과를 모르는 상태에서 배팅하는 건 눈 감고 도로 건너는 것과 같습니다.</p>
+
+<h3 id="2-내일은-네마녀의-날--변동성이-훨씬-커지는-날">2. 내일은 ‘네마녀의 날’ — 변동성이 훨씬 커지는 날</h3>
+
+<p>내일(6월 11일)은 ‘네마녀의 날’이라 불리는 <strong>선물·옵션 동시 만기일</strong>입니다. 1년에 4번 있는 이 날에는 큰손들이 포지션을 정리하면서 장중에 주가가 출렁이는 경우가 많습니다. 그래서 평소보다 변동성이 훨씬 크게 나타날 수 있어요.</p>
+
+<p>오늘 폭락도 이 네마녀의 날을 앞두고 포지션을 미리 정리하는 움직임과 무관하지 않습니다.</p>
+
+<h3 id="3-매크로-경고가-무려-6개">3. 매크로 경고가 무려 6개</h3>
+
+<p>NextTheme 시스템은 경제 전반의 위험 신호(매크로 경고)를 체크합니다. 오늘은 경고가 <strong>6개</strong>나 켜졌어요. 시스템 기준상 경고가 3개 이상이면 이미 ‘빨간불(RED)’ 등급입니다. 6개면 아예 배팅 자체를 자제해야 하는 수준입니다.</p>
+
+<hr />
+
+<h2 id="nexttheme이-오늘-종목을-하나도-선택하지-않은-이유는-">NextTheme이 오늘 종목을 하나도 선택하지 않은 이유는? 🤔</h2>
+
+<p>NextTheme 알고리즘은 종가배팅 종목을 고를 때 ‘진짜 기둥’이 되는 3가지 조건을 봅니다:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>조건</th>
+      <th>의미</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>대장주</strong></td>
+      <td>해당 테마에서 제일 강하게 오른 종목</td>
+    </tr>
+    <tr>
+      <td><strong>호가창 A 이상</strong></td>
+      <td>매수 세력이 단단하게 받치고 있는 상태</td>
+    </tr>
+    <tr>
+      <td><strong>14시 이후 수급 유지</strong></td>
+      <td>장 마감 직전까지 큰 투자기관(기관)이나 외국인이 계속 사고 있는 상태</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>오늘은 이 <strong>세 조건을 하나라도 충족하는 종목이 단 한 종목도 없었습니다.</strong> 코스피가 워낙 크게 빠지다 보니 아무리 강한 종목도 수급이 흔들렸고, 호가창(사자/팔자 주문 현황)도 약해졌습니다.</p>
+
+<p>NextTheme은 “조건이 안 맞으면 그냥 쉰다”는 원칙을 갖고 있습니다. <strong>잃지 않는 것도 실력</strong>이거든요.</p>
+
+<hr />
+
+<h2 id="그렇다면-내일은-어떻게-될까요-">그렇다면 내일은 어떻게 될까요? 🔭</h2>
+
+<p>오늘 밤 미국 CPI가 <strong>예상보다 낮게 나오면</strong> (물가가 잡히고 있다는 신호), 미국 증시가 반등하고 내일 한국 증시도 갭 상승(전날 종가보다 높은 가격에 시작)할 수 있습니다.</p>
+
+<p>하지만 이 경우에도 주의가 필요합니다:</p>
+
+<blockquote>
+  <p>⚠️ <strong>내일 시초가 갭 상승 시, 바로 추격 매수는 금물입니다.</strong></p>
+</blockquote>
+
+<p>갑자기 높은 가격에 시작하면 이미 많이 오른 상태입니다. 이럴 때는 잠깐 기다렸다가 주가가 한 번 숨을 고르고 내려오는 시점(눌림목)을 노리는 게 훨씬 현명한 전략입니다.</p>
+
+<hr />
+
+<h2 id="nexttheme-오늘의-전략-요약-">NextTheme 오늘의 전략 요약 📋</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>항목</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>시장 등급</strong></td>
+      <td>🔴 RED (최고 경계)</td>
+    </tr>
+    <tr>
+      <td><strong>매크로 경고</strong></td>
+      <td>6개</td>
+    </tr>
+    <tr>
+      <td><strong>선별 종목</strong></td>
+      <td><strong>없음</strong> (0개)</td>
+    </tr>
+    <tr>
+      <td><strong>오늘 권고</strong></td>
+      <td>무포지션 유지</td>
+    </tr>
+    <tr>
+      <td><strong>내일 대응</strong></td>
+      <td>미국 CPI 발표 확인 후 재진입 검토</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="오늘-같은-날-이렇게-생각해보세요-">오늘 같은 날, 이렇게 생각해보세요 💡</h2>
+
+<p>주식 시장에서 가장 어려운 건 “사는 것”이 아니라 <strong>“쉬는 것”</strong>입니다. 오늘처럼 시장이 폭락하고 뉴스가 쏟아지면 뭔가를 해야 할 것 같은 충동이 생깁니다.</p>
+
+<p>하지만 NextTheme 알고리즘이 수천 개의 종목 데이터를 분석해서 내린 결론은 단순합니다: <strong>“오늘은 쉬어라.”</strong></p>
+
+<p>불확실성이 클 때 가장 좋은 포지션은 ‘현금’입니다. 내일 CPI 결과를 보고, 시장이 방향을 잡으면 그때 다시 좋은 종목을 찾아드릴게요.</p>
+
+<hr />
+
+<p>💬 <strong>오늘 시장 어떻게 보셨나요? 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</strong></p>
+
+<hr />
+
+<p>#종가배팅 #수급분석 #주식투자 #NextTheme #코스피급락 #CPI #네마녀의날 #무포지션 #주식초보 #종목선택</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[📅 2026년 6월 10일 (화) 15:05 NextTheme AI 종가배팅 시스템]]></summary></entry><entry><title type="html">6/9 종가배팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/10/review-20260609-review/" rel="alternate" type="text/html" title="6/9 종가배팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-06-10T09:00:00+09:00</published><updated>2026-06-10T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/10/review_20260609-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/10/review-20260609-review/"><![CDATA[<blockquote>
   <p>데이터 기준: 2026-06-10 10:03 키움 ka10001 일괄 조회</p>
 </blockquote>
 
@@ -2075,138 +2212,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <p>💬 다음 주 시장 흐름, 어떻게 예상하세요? 댓글로 의견 나눠주세요! 이웃 추가하면 매주 시장 분석을 받아보실 수 있습니다 😊</p>
 
-<p>#종가배팅 #주간리뷰 #수급분석 #반도체 #가치주 #금융 #우주항공 #환율 #미국CPI #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="weekly" /><summary type="html"><![CDATA[이번 주 한마디: 반도체가 빠지면 시장도 빠진다. 🔴 미국 AI칩 급락에 원/달러 1560원 돌파까지—외국인 44조 역대 최대 순매도로 한국 증시는 혼란 속 조정하는 주간이었습니다.]]></summary></entry><entry><title type="html">NAVER(035420)을 심층 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/07/0641-detail-035420-detail/" rel="alternate" type="text/html" title="NAVER(035420)을 심층 분석" /><published>2026-06-07T06:41:00+09:00</published><updated>2026-06-07T06:41:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/07/0641_detail_035420-detail</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/07/0641-detail-035420-detail/"><![CDATA[<h2 id="1-현재-시점과-종목-소개">1. 현재 시점과 종목 소개</h2>
-
-<p>2026년 6월 7일 06시 41분, 네이버(NAVER, 035420)의 현재 상황을 진단합니다. 네이버는 한국 최대 포털 및 인터넷 기업으로, 최근 엔비디아 CEO 젠슨 황의 한국 방문과 ‘AI 동맹’ 구축 뉴스로 시장의 이목을 받고 있습니다. 다만 주가는 이미 그 기대감을 많이 반영한 상태라는 점이 관건입니다.</p>
-
-<h2 id="2-현재-가격과-수급-신호">2. 현재 가격과 수급 신호</h2>
-
-<p>네이버의 현재가는 <strong>255,500원</strong>이며, 어제 대비 <strong>-4.49%</strong> 하락했습니다. 당일 수급을 보면:</p>
-<ul>
-  <li>외국인: <strong>-147,900주</strong> 순매도 (약 <strong>377억원</strong> 규모)</li>
-  <li>기관: <strong>+135,906주</strong> 순매수 (약 <strong>347억원</strong> 규모)</li>
-</ul>
-
-<p>최근 60일 수급 흐름에서 가장 주목할 점은 <strong>기관이 6일 연속 순매수</strong> 중이라는 것입니다. 반면 외국인은 꾸준히 팔고 있습니다. 특히 지난 6월 1~2일에는 외국인이 <strong>-1,135만 주, -1,517만 주</strong> 규모로 대량 매도했는데, 이는 뉴스 호재에도 불구하고 큰 손(외국인 기관투자자)이 익절을 서두르는 신호로 읽힙니다.</p>
-
-<h2 id="3-차트-위치-분석">3. 차트 위치 분석</h2>
-
-<ul>
-  <li><strong>일봉(단기)</strong>: 상승 흐름 (하지만 현재가는 5일 이동평균선 아래)</li>
-  <li><strong>주봉(중기)</strong>: 하락 흐름 (중기 추세는 약세)</li>
-  <li><strong>월봉(장기)</strong>: 상승 흐름 (장기 관점에서는 상승 추세 유지)</li>
-</ul>
-
-<p><strong>다이버전스 신호</strong> — 일봉과 주봉이 상반된 방향으로 움직이고 있습니다. 단기적으로는 반등하려는 움직임이 있지만, 중기(1~2주) 관점에서는 여전히 약세 구간에 머물러 있다는 뜻입니다. 현재 가격이 일봉 평균선 아래에 있다는 것은 단기 모멘텀이 약해지고 있음을 시사합니다.</p>
-
-<h2 id="4-뉴스와-시장-반응-분석">4. 뉴스와 시장 반응 분석</h2>
-
-<h3 id="호재-엔비디아-ceo-방한과-ai-동맹">호재: 엔비디아 CEO 방한과 AI 동맹</h3>
-
-<p>네이버는 지난주 젠슨 황 엔비디아 CEO 방한 시 SK, LG와 함께 ‘AI 동맹’을 구축하기로 했습니다. 로봇, 자율주행, AI팩토리 협력 계획이 공개되어 장기적으로는 매우 긍정적인 신호입니다.</p>
-
-<h3 id="리스크-단기과열-지정과-기대감-선반영">리스크: 단기과열 지정과 기대감 선반영</h3>
-
-<p>하지만 뉴스는 이미 <strong>주가에 반영되었다는 점</strong>이 가장 큰 문제입니다:</p>
-
-<ol>
-  <li>
-    <p><strong>단기과열종목 지정 예고</strong> — 네이버는 6월 2일 거래소로부터 단기과열종목으로 지정되었습니다. 이는 앞으로 <strong>상한가 제약</strong>이 생기고 <strong>변동성이 확대</strong>될 수 있다는 뜻입니다.</p>
-  </li>
-  <li>
-    <p><strong>동맹주 집단 선반영</strong> — 같은 동맹주인 SK, LG 등이 모두 집단 매수되면서 이미 기대감이 “선반영” 상태입니다. 즉, 좋은 뉴스가 나왔을 때 사야 수익이 나는데, 이미 주가가 올라버린 상황입니다.</p>
-  </li>
-  <li>
-    <p><strong>구체적 계약 부재</strong> — 현재는 “비전” 공개 수준이지, 실제 매출로 이어질 구체적 협력 계약이 아직 서명되지 않았습니다. 계약 체결 전까지는 조정 위험이 상당합니다.</p>
-  </li>
-</ol>
-
-<p><strong>결론</strong>: 호재 자체는 사실이지만, 현재 진입점으로서는 <strong>리스크 관리가 필수</strong>입니다.</p>
-
-<h2 id="5-재무-상태와-성장성">5. 재무 상태와 성장성</h2>
-
-<h3 id="연간-실적-추이-억원">연간 실적 추이 (억원)</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>연도</th>
-      <th>매출액</th>
-      <th>영업이익</th>
-      <th>EPS</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>2023</td>
-      <td>96,706</td>
-      <td>14,888</td>
-      <td>6,180원</td>
-    </tr>
-    <tr>
-      <td>2024</td>
-      <td>107,377</td>
-      <td>19,793</td>
-      <td>11,913원</td>
-    </tr>
-    <tr>
-      <td>2025(E)</td>
-      <td>120,350</td>
-      <td>22,081</td>
-      <td>12,376원</td>
-    </tr>
-    <tr>
-      <td>2026(E)</td>
-      <td>136,857</td>
-      <td>24,146</td>
-      <td>12,505원</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>연매출이 <strong>연 10% 전후로 안정적 성장</strong> 중입니다. 영업이익도 꾸준히 늘고 있어 체질 개선이 진행 중입니다. 다만 EPS는 2024년 이후 완만한 성장이라, PER(주가수익비율) 관점에서 현재 가격(25만원대)이 저평가라고 보기는 어렵습니다.</p>
-
-<h3 id="분기별-추이-최근-6분기">분기별 추이 (최근 6분기)</h3>
-
-<p>매출액은 <strong>분기당 3만억 전후로 균등 분배</strong>되고 있으며, 최신 분기(Q2 2026)는 <strong>33,407억원</strong>으로 전분기 대비 소폭 증가 중입니다. AI 및 광고 수익 확대가 이루어지고 있다는 의미입니다.</p>
-
-<h2 id="6-ai-종합-등급과-투자-결론">6. AI 종합 등급과 투자 결론</h2>
-
-<h3 id="등급-one-star-별-1개">등급: ONE STAR (별 1개)</h3>
-
-<p>네이버는 현재 <strong>ONE STAR(저점수)</strong> 등급 판정을 받았습니다. 이유는:</p>
-
-<ol>
-  <li>
-    <p><strong>기관은 매수 중이나 외국인은 매도</strong> — 외국인 기관투자자가 지속적으로 팔고 있다는 것은 글로벌 투자자들이 현재 밸류에이션을 높다고 평가한다는 신호입니다.</p>
-  </li>
-  <li>
-    <p><strong>단기 모멘텀 악화</strong> — 현재가가 일봉 5일선 아래 내려와 있고, 주봉 추세가 하락 중입니다. 단기 매매 입장에서는 우상향 신호가 약합니다.</p>
-  </li>
-  <li>
-    <p><strong>뉴스는 좋으나 이미 반영</strong> — 호재가 있음에도 불구하고 주가는 하락했다는 것은, 이미 그 뉴스 가치를 시장이 평가했고 오버슈팅이 발생했다는 뜻입니다.</p>
-  </li>
-</ol>
-
-<h3 id="투자-심정-무드-맑음️">투자 심정 (무드): 맑음(☀️)</h3>
-
-<p>뉴스 자체는 긍정적이고 회사의 장기 전략은 우호적입니다. 하지만 현재 단기 진입점으로서는 다소 조심스럽습니다.</p>
-
-<h3 id="대처-방안">대처 방안</h3>
-
-<p><strong>기존 보유분</strong>: 호재 확정(계약 체결) 시까지 매도 타이밍을 다시 점검하세요. 현재 단기과열 구간이므로, 추가 상승의 가능성보다는 조정 위험이 더 큽니다.</p>
-
-<p><strong>신규 진입을 원한다면</strong>:</p>
-<ul>
-  <li><strong>절대 금지</strong> — 현재가에서 전량 진입하면 고점 물림 위험이 매우 높습니다.</li>
-  <li><strong>권장</strong> — 조정 시점(5~10% 추가 하락)까지 기다린 후, <strong>소량(보유 계획액의 30% 이하)</strong>으로 분할 진입하세요.</li>
-  <li><strong>리스트에 올려두고 대기</strong> — 기업 뉴스와 차트 상황이 개선될 때까지 관찰하는 것이 가장 현명합니다.</li>
-</ul>
-
-<h2 id="결론">결론</h2>
-
-<p>네이버는 <strong>AI와 포털 사업의 장기 성장이 기대되는 우량주</strong>이지만, 현재는 <strong>단기 과열 국면 + 외국인 대량 매도 + 뉴스 선반영</strong> 삼박자가 맞아떨어진 상황입니다. 호재는 분명하나, 진입 타이밍이 중요합니다. 조정 시점을 기다리거나 기존 보유분의 익절을 먼저 검토하는 것을 권장합니다.</p>
-
-<p>💬 댓글로 의견 나눠주세요! 네이버 뉴스와 차트를 함께 관찰하며 투자 결정을 하세요. 이웃 추가하면 매일 분석 받아보실 수 있어요.</p>
-
-<p>#종목분석 #NAVER #035420 #AI종목 #엔비디아 #수급분석 #주식투자 #단기과열 #기관매수</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[1. 현재 시점과 종목 소개]]></summary></entry></feed>
+<p>#종가배팅 #주간리뷰 #수급분석 #반도체 #가치주 #금융 #우주항공 #환율 #미국CPI #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="weekly" /><summary type="html"><![CDATA[이번 주 한마디: 반도체가 빠지면 시장도 빠진다. 🔴 미국 AI칩 급락에 원/달러 1560원 돌파까지—외국인 44조 역대 최대 순매도로 한국 증시는 혼란 속 조정하는 주간이었습니다.]]></summary></entry></feed>
