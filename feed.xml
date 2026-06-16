@@ -1,4 +1,174 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-16T15:08:55+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">한화오션</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/16/nt2-1505-snapshot/" rel="alternate" type="text/html" title="한화오션" /><published>2026-06-16T15:05:00+09:00</published><updated>2026-06-16T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/16/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/16/nt2-1505-snapshot/"><![CDATA[<p>방위산업 테마에 큰 돈이 움직이고 있습니다 🚀 오늘(6월 16일) 장 마감을 앞두고 NextTheme 알고리즘이 선별한 핵심 종목과 그 이유를 공개합니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-16T18:39:06+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">한온시스템(018880)을 심층 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/16/1836-detail-018880-detail/" rel="alternate" type="text/html" title="한온시스템(018880)을 심층 분석" /><published>2026-06-16T18:36:00+09:00</published><updated>2026-06-16T18:36:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/16/1836_detail_018880-detail</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/16/1836-detail-018880-detail/"><![CDATA[<h2 id="-오늘-이-종목을-왜-분석했을까요">👋 오늘 이 종목을 왜 분석했을까요?</h2>
+
+<p>2026년 6월 16일 오후 6시 36분, NextTheme 시스템이 한온시스템(018880)의 심층 분석을 완료했습니다. 오늘 주가가 <strong>-8.63%</strong> 라는 꽤 큰 폭으로 떨어졌는데, 그럼에도 이 종목이 주목받는 데는 이유가 있습니다. 단순히 “오늘 많이 빠졌다”가 아니라, 뒤에서 흐르는 수급과 뉴스 재료를 함께 봐야 그림이 보입니다.</p>
+
+<hr />
+
+<h2 id="-지금-주가는-오늘-누가-샀고-누가-팔았나요">💰 지금 주가는? 오늘 누가 샀고 누가 팔았나요?</h2>
+
+<p><strong>현재 주가: 5,190원 (오늘 -8.63% 하락)</strong></p>
+
+<p>한온시스템은 자동차에 들어가는 공조·열관리 장치를 만드는 회사입니다. 연 매출이 약 <strong>10조원</strong> 규모의 중견 대형주인데, 요즘 자동차 외에도 로봇·데이터센터의 발열을 식히는 기술에도 적용이 가능하다는 기대를 받고 있습니다.</p>
+
+<p>오늘 큰 하락이 나온 날, 큰 투자자들의 움직임을 먼저 확인해 보겠습니다:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>주체</th>
+      <th style="text-align: center">오늘 매매 방향</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>외국인</td>
+      <td style="text-align: center">순매도 (약 -124만 주)</td>
+    </tr>
+    <tr>
+      <td>큰 투자기관(기관)</td>
+      <td style="text-align: center">순매도 (약 -53만 주)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>⚠️ 오늘 하루만 보면 외국인과 기관 모두 판 날입니다. 하지만 최근 전체 흐름을 보면 이야기가 달라집니다.</p>
+
+<p><strong>최근 수급 흐름에서 주목할 변곡점 2가지</strong></p>
+
+<ol>
+  <li><strong>전일(6/15)</strong>: 외국인이 단 하루 만에 약 <strong>1,460만 주</strong>를 순매수했습니다. 이례적인 대규모 매수였고, 5월부터 시작된 외국인 집중 매수의 정점이었습니다.</li>
+  <li><strong>5월 초</strong>: 5월 4일(약 960만 주)·5월 11일(약 1,000만 주) 등 외국인의 집중 매수 구간이 여러 차례 있었습니다. 5월~6월 초까지 외국인이 꾸준히 모아온 종목이라는 뜻입니다.</li>
+</ol>
+
+<p>또한 큰 투자기관(기관)은 최근 <strong>3일 연속으로 순매수</strong>를 이어왔습니다. 오늘 매도 전환이 일시적일지, 방향 전환인지 주의 깊게 지켜봐야 합니다.</p>
+
+<hr />
+
+<h2 id="-차트로-본-현재-위치는-어디일까요">📊 차트로 본 현재 위치는 어디일까요?</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>기간</th>
+      <th style="text-align: center">현재 흐름</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>단기 (며칠)</td>
+      <td style="text-align: center">하락 흐름</td>
+    </tr>
+    <tr>
+      <td>중기 (몇 주)</td>
+      <td style="text-align: center">상승 흐름</td>
+    </tr>
+    <tr>
+      <td>장기 (몇 달)</td>
+      <td style="text-align: center">상승 흐름</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>단기는 내려오는 중이지만, 중기·장기 흐름은 여전히 올라가는 방향입니다. 오늘 -8.63% 하락이 중장기 상승 흐름 속의 일시적 조정일 가능성이 있다는 뜻이기도 하고, 반대로 단기 하락이 중장기 흐름까지 꺾는 전환점이 될 수도 있습니다. 방향이 엇갈리는 구간인 만큼 수급 확인이 더욱 중요합니다.</p>
+
+<hr />
+
+<h2 id="-어떤-뉴스가-이-종목을-움직이고-있나요">📰 어떤 뉴스가 이 종목을 움직이고 있나요?</h2>
+
+<p><strong>뉴스 신호: 호재 / 재료 유형: 실적 개선 + 신시장 테마</strong></p>
+
+<p>최근 가장 주목할 뉴스는 증권사 목표가 상향입니다. 상상인증권이 목표 주가를 <strong>5,500원</strong>으로 올렸는데, 현재 주가(5,190원) 대비 약 6% 높은 수준입니다. 상향 이유는 두 가지입니다:</p>
+
+<ul>
+  <li><strong>유럽 자동차 시장에서 실적이 꾸준히 잘 나오고 있다</strong>는 점</li>
+  <li><strong>자동차를 넘어 로봇·데이터센터로 열관리 기술 시장이 확대</strong>될 것이라는 기대감</li>
+</ul>
+
+<p>📌 <strong>지금 시장에서 주목하는 핵심 이슈 3가지</strong></p>
+
+<ol>
+  <li>유럽 중심 견조한 실적 흐름 지속 (2026년 연간 영업이익 <strong>4,287억원</strong> 예상 — 전년 대비 대폭 개선)</li>
+  <li>자동차 외 신규 시장 확대 기대 (로봇·데이터센터 열관리)</li>
+  <li>최근 3거래일 동안 선물 가격제한폭 도달이 <strong>5회</strong> 발생 — 큰손들의 매매가 급격히 엇갈리는 신호</li>
+</ol>
+
+<blockquote>
+  <p>⚠️ <strong>변동성 리스크 주의</strong>: 선물에서 상하한가에 연달아 도달한다는 건 그만큼 매수·매도가 극단적으로 충돌하고 있다는 뜻입니다. 단기적으로 주가가 크게 출렁일 수 있습니다.</p>
+</blockquote>
+
+<hr />
+
+<h2 id="-재무-흐름-실적은-좋아지고-있나요">📈 재무 흐름: 실적은 좋아지고 있나요?</h2>
+
+<p>한온시스템의 실적 흐름을 간단히 정리하면:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>연도</th>
+      <th style="text-align: center">영업이익</th>
+      <th style="text-align: center">주당순이익(EPS)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2023</td>
+      <td style="text-align: center">2,836억원</td>
+      <td style="text-align: center">84원 (흑자)</td>
+    </tr>
+    <tr>
+      <td>2024</td>
+      <td style="text-align: center">955억원</td>
+      <td style="text-align: center">-594원 (적자)</td>
+    </tr>
+    <tr>
+      <td>2025</td>
+      <td style="text-align: center">2,704억원</td>
+      <td style="text-align: center">-257원 (적자)</td>
+    </tr>
+    <tr>
+      <td>2026(예상)</td>
+      <td style="text-align: center">4,287억원</td>
+      <td style="text-align: center">232원 (흑자 전환)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>2024~2025년에 적자를 기록했던 회사가 2026년에 <strong>흑자 전환</strong>을 앞두고 있습니다. 분기별로 보면 2026년 1분기 영업이익이 <strong>972억원</strong>으로 1년 전(211억원) 대비 4.6배 늘었습니다. 실적 회복이 가속되는 구간입니다.</p>
+
+<hr />
+
+<h2 id="-ai-종합-등급--결론">🤖 AI 종합 등급 &amp; 결론</h2>
+
+<p><strong>AI 종합 등급: ⭐⭐ (2성 — 조건부 관심)</strong></p>
+
+<p>투자 분위기: <strong>맑음☀️</strong></p>
+
+<p>AI가 내린 종합 판단:</p>
+
+<blockquote>
+  <p>기관 3일 연속 매수 + 주봉·월봉 상승 + 재무 개선은 긍정적 신호입니다. 다만 오늘 <strong>-8.63% 급락</strong>, 외국인·기관 당일 매도 전환, 선물 변동성 리스크를 고려해 <strong>60% 비중으로 분할 진입</strong>을 권장합니다. 목표가 5,500원 상향은 분명한 호재이지만, 단기 수급이 안정될 때까지 추가 관찰이 필요합니다.</p>
+</blockquote>
+
+<p><strong>한 줄 행동 지침</strong>: 실적 호조와 신시장 기대감은 긍정적이나, 현재의 높은 변동성 구간에서는 기관·외국인 수급 흐름이 다시 안정되는 것을 확인한 후 진입하는 것이 권장됩니다.</p>
+
+<hr />
+
+<h2 id="-마무리--핵심을-3줄로-정리하면">💡 마무리 — 핵심을 3줄로 정리하면</h2>
+
+<ul>
+  <li><strong>호재</strong>: 실적 흑자 전환 + 목표가 상향 + 신시장(로봇·데이터센터) 확장 스토리</li>
+  <li><strong>긍정 신호</strong>: 기관 3일 연속 매수 + 중장기 상승 흐름 + 외국인 5~6월 집중 매수 이력</li>
+  <li><strong>리스크</strong>: 오늘 -8.63% 급락 + 외국인·기관 당일 매도 + 선물 극심한 변동성</li>
+</ul>
+
+<p>AI 등급 2성 — 좋은 재료는 있지만 단기 흔들림이 심합니다. 서두르지 않고 수급이 안정되는 타이밍을 기다리는 전략이 유효합니다.</p>
+
+<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
+
+<hr />
+
+<p>#종목분석 #한온시스템 #수급분석 #NextTheme #018880 #종가배팅 #주식투자 #열관리주 #자동차부품 #로봇테마 #데이터센터 #실적회복주</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[👋 오늘 이 종목을 왜 분석했을까요?]]></summary></entry><entry><title type="html">한화오션</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/16/nt2-1505-snapshot/" rel="alternate" type="text/html" title="한화오션" /><published>2026-06-16T15:05:00+09:00</published><updated>2026-06-16T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/16/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/16/nt2-1505-snapshot/"><![CDATA[<p>방위산업 테마에 큰 돈이 움직이고 있습니다 🚀 오늘(6월 16일) 장 마감을 앞두고 NextTheme 알고리즘이 선별한 핵심 종목과 그 이유를 공개합니다.</p>
 
 <hr />
 
@@ -1931,133 +2101,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <p>💬 <strong>댓글로 의견 나눠주세요!</strong> 투자경고가 지정되면 시장이 어떻게 반응할지, 여러분의 생각이 궁금합니다. 이웃 추가하면 매일 NextTheme 심층 분석을 받아보실 수 있어요!</p>
 
-<p>#종목분석 #후성 #수급분석 #투자경고 #NextTheme #AI수혜 #제도적리스크 #차트분석</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[도입: 급등 뒤의 투자경고, 왜 이렇게 위험할까?]]></summary></entry><entry><title type="html">YELLOW — 한 주 회고와 다음 주 준비</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/13/weekend/" rel="alternate" type="text/html" title="YELLOW — 한 주 회고와 다음 주 준비" /><published>2026-06-13T06:00:00+09:00</published><updated>2026-06-13T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/13/weekend</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/13/weekend/"><![CDATA[<p>안녕하세요, NextTheme 종가배팅 분석팀입니다. 📅</p>
-
-<p>드디어 한 주가 끝났습니다! 이번 주는 정말 드라마틱했죠. 코스피가 단 하루에 <strong>+4.63%</strong> 급등하는 모습에 많은 분들이 깜짝 놀라셨을 텐데요. 주말을 맞아 지난 주를 정리하고, 다음 주 월요일 개장을 어떻게 준비할지 함께 알아볼게요.</p>
-
-<hr />
-
-<h2 id="-미국-시장은-어땠나요">🌎 미국 시장은 어땠나요?</h2>
-
-<p>금요일 밤 미국 증시도 강세로 마감했습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>지수</th>
-      <th>등락</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>다우존스</td>
-      <td><strong>+0.70%</strong></td>
-    </tr>
-    <tr>
-      <td>S&amp;P 500</td>
-      <td><strong>+0.50%</strong></td>
-    </tr>
-    <tr>
-      <td>나스닥</td>
-      <td><strong>+0.31%</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>미국 증시 강세의 주요 원인은 두 가지입니다. 첫째, <strong>스페이스X가 증시에 상장 첫날 무려 +19% 급등</strong>하면서 글로벌 투자 심리를 확 끌어올렸습니다. 둘째, 미국과 이란 사이에 전쟁을 끝내는 합의(MOU)가 임박했다는 소식이 전해지며, 시장의 공포 지수인 <strong>VIX가 -9%나 급락</strong>했습니다. VIX가 내려가면 “투자자들이 덜 무서워한다”는 의미라 긍정적인 신호예요.</p>
-
-<p>국내 증시 역시 외국인 큰 투자기관들이 <strong>2조 9천억 원</strong>, 국내 기관이 <strong>3조 2천억 원</strong>을 동시에 사들이며 코스피가 <strong>+4.63%</strong> 폭등했습니다. 글로벌 투자은행 모건스탠리와 노무라도 코스피 목표치를 각각 <strong>10,500포인트·11,000포인트</strong>로 높여 잡았어요.</p>
-
-<p>다만 한국은행 총재가 금리를 올릴 수 있다는 신호를 보냈고, 비트코인이 약세를 보이는 점은 변수입니다.</p>
-
-<hr />
-
-<h2 id="-이번-주-베팅-등급은--yellow-신중한-낙관">🟡 이번 주 베팅 등급은? — YELLOW (신중한 낙관)</h2>
-
-<p><strong>NextTheme 베팅 등급: YELLOW / 심리 점수: 70점</strong></p>
-
-<p>YELLOW는 “방향은 좋지만 조심스럽게”라는 의미입니다. 심리 점수 <strong>70점</strong>이면 낙관적이지만 무작정 달려들기보다는 방향 확인 후 진입이 맞는 구간이에요.</p>
-
-<p><strong>이번 주 핵심 전략:</strong>
-미-이란 종전 합의 기대감과 반도체 슈퍼사이클(장기 호황) 전망은 긍정적입니다. 하지만 한국은행 금리 인상 신호와 비트코인 약세가 변수로 남아있어요. 차주 <strong>FOMC(미국 연방준비제도 금리 결정 회의)</strong> 결과를 확인하기 전까지는 신중하게 낙관적인 시각을 유지하는 것이 좋습니다.</p>
-
-<p>💡 <strong>실전 대응 포인트:</strong></p>
-<ul>
-  <li>삼성전자가 <strong>333,000원 이상</strong>으로 갭업(시초가가 전날보다 높게 시작) 시 → 보유 물량의 <strong>60% 1차 차익 실현</strong></li>
-  <li>현대차가 <strong>626,000원 이상</strong>으로 갭업 시 → 보유 물량의 <strong>40% 차익 실현</strong></li>
-  <li>종전 합의 지연 또는 FOMC에서 금리 동결·인상 신호 나오면 → <strong>현금 비중 확대</strong></li>
-  <li>보유 중인 후성·솔디펜스·녹십자홀딩스는 월요일 시초가가 -<strong>2% 이상</strong> 갭다운 시 손절 검토</li>
-</ul>
-
-<hr />
-
-<h2 id="-다음-주-주목할-섹터는">🔍 다음 주 주목할 섹터는?</h2>
-
-<p><strong>① 반도체 대표주 (삼성전자 등)</strong>
-글로벌 투자은행 노무라가 반도체 슈퍼사이클(장기 호황)을 전망했고, 삼성전자가 외부 AI 기술을 도입한다는 발표까지 나왔습니다. 다음 주 시장에서 재평가받을 가능성이 높아요. 📱</p>
-
-<p><strong>② 자동차 대표주 (현대차 등)</strong>
-미-이란 종전 기대로 유가(기름값)가 안정되면 자동차 업체들에게 유리합니다. 여기에 현대차 프리미엄 브랜드 제네시스가 르망 24시간 레이스에 참가하면서 브랜드 가치도 올라가는 중이에요. 🚗</p>
-
-<p><strong>③ 원자력발전 관련주</strong>
-이번 주에만 <strong>+13%</strong> 강세를 보였습니다. 정부의 원자력 정책 수혜 기대감이 커지면서 관련 ETF(펀드 상품)에도 자금이 계속 몰리고 있어요. ⚛️</p>
-
-<hr />
-
-<h2 id="-금요일어제-ai-선별-복기">📋 금요일(어제) AI 선별 복기</h2>
-
-<p>어제 NextTheme AI가 주목한 종목들, 지금 어떤 상황인지 확인해볼게요.</p>
-
-<p><strong>전체 방향: 유지(MAINTAIN)</strong> — 어제 선별 방향이 여전히 유효합니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>현황</th>
-      <th>한마디</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>삼성전자</td>
-      <td>관망·보유</td>
-      <td>목표가 <strong>333,000원</strong>. 노무라 슈퍼사이클 전망 + AI 도입 발표로 추가 상승 여력 있어요. 단, 외국인이 매도로 돌아서면 빠른 조정 가능성이 있으니 월요일 시초가 확인 후 대응하세요.</td>
-    </tr>
-    <tr>
-      <td>현대차</td>
-      <td>관망·보유</td>
-      <td>목표가 <strong>626,000원</strong>. 유가 안정 수혜가 계속되고 있어요. 다만 외국인이 10만 6천 주를 산 이후 차익 실현 압력이 생길 수 있으니, 마찬가지로 시초가 방향 확인이 먼저입니다.</td>
-    </tr>
-  </tbody>
-</table>
-
-<hr />
-
-<h2 id="️-다음-주-월요일-이것만-보세요">🗓️ 다음 주 월요일, 이것만 보세요</h2>
-
-<p><strong>가장 중요한 변수: 미-이란 종전 합의 타결 여부</strong></p>
-
-<ul>
-  <li>✅ <strong>합의 확정 시</strong> → 월요일 <strong>+1~2% 갭업</strong> 후 상승 지속 기대. 반도체·자동차 대장주 중심으로 대응</li>
-  <li>❌ <strong>합의 지연 시</strong> → 차익 실현 압력 발생. 급하게 추격 매수하지 말고 현금 비중 높이기</li>
-</ul>
-
-<p><strong>보유 종목 대응 원칙:</strong></p>
-<ul>
-  <li>삼성전자·현대차 갭업 확인 시 → 각각 <strong>30% 1차 차익 실현</strong> 후 나머지 홀딩</li>
-  <li>후성·솔디펜스·녹십자홀딩스는 월요일 시초가 <strong>-2% 이상</strong> 하락하거나, 장 중 <strong>-3%</strong> 이상 밀리면 전량 손절 원칙 준수</li>
-  <li><strong>FOMC 결과 확인 전까지 신규 종목 진입 자제</strong> — 지금은 기다리는 것도 전략입니다</li>
-</ul>
-
-<hr />
-
-<h2 id="-한-줄-정리">💬 한 줄 정리</h2>
-
-<p>이번 주 코스피 급등은 분명 호재지만, 모든 상승 뒤에는 숨을 고르는 구간이 옵니다. 월요일 장 초반 갭 방향을 먼저 확인하고, 종전 합의 뉴스와 FOMC 결과라는 두 가지 트리거를 중심으로 유연하게 대응해보세요. 🙏</p>
-
-<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
-
-<hr />
-
-<p>#종가배팅 #주말브리핑 #수급분석 #NextTheme #주식투자 #코스피전망 #반도체주 #현대차 #삼성전자 #월요일주식</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[안녕하세요, NextTheme 종가배팅 분석팀입니다. 📅]]></summary></entry></feed>
+<p>#종목분석 #후성 #수급분석 #투자경고 #NextTheme #AI수혜 #제도적리스크 #차트분석</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[도입: 급등 뒤의 투자경고, 왜 이렇게 위험할까?]]></summary></entry></feed>
