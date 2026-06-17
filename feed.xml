@@ -1,4 +1,114 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-17T15:08:40+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">한화오션</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/17/nt2-1505-snapshot/" rel="alternate" type="text/html" title="한화오션" /><published>2026-06-17T15:05:00+09:00</published><updated>2026-06-17T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/17/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/17/nt2-1505-snapshot/"><![CDATA[<p>📅 <strong>2026년 6월 17일(화) 장 마감 직전 기준</strong></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-18T06:03:55+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">RED 등급 — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/18/0600-briefing/" rel="alternate" type="text/html" title="RED 등급 — 오늘 아침 시황" /><published>2026-06-18T06:00:00+09:00</published><updated>2026-06-18T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/18/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/18/0600-briefing/"><![CDATA[<h2 id="워시-fomc-시장에-폭탄을-떨어뜨리다">워시 FOMC, 시장에 폭탄을 떨어뜨리다</h2>
+
+<p>어제 저녁 미국 연방준비제도(Fed)가 내린 결정 하나가 전 세계 주식시장을 뒤흔들었습니다. 금리는 동결했지만, ‘완화(금리 인하)에서 인상(금리 올림)으로 방향을 바꿀 수 있다’는 신호를 보낸 것이죠. 월가는 충격을 받았고, 한국 투자자들도 오늘 아침 긴장을 놓을 수 없습니다. 📉</p>
+
+<h2 id="미국-야간-시장-현황">미국 야간 시장 현황</h2>
+
+<p>뉴욕 3대 지수가 일제히 내려갔습니다:</p>
+<ul>
+  <li><strong>다우 지수: -0.98%</strong></li>
+  <li><strong>S&amp;P 500: -1.21%</strong></li>
+  <li><strong>나스닥: -1.35%</strong></li>
+</ul>
+
+<p>금리 인상 가능성이 높아지면서 성장주부터 팔려 나가는 모습입니다. 이건 작은 조정이 아닙니다. <strong>2년물 국채금리가 13bp(0.13%) 급등</strong>했고, 달러도 강세를 보이면서(<strong>DXY +0.86%</strong>) 외국인 투자자들이 한국 주식시장에서 빠져나가는 속도가 빨라지고 있습니다.</p>
+
+<p>어제 한국시장에서만 외국인이 <strong>-1.57조원을 순매도</strong>했는데, 오늘은 이런 흐름이 더 심해질 가능성이 큽니다. 🌍</p>
+
+<h2 id="오늘의-베팅-등급--전략">오늘의 베팅 등급 &amp; 전략</h2>
+
+<h3 id="red-등급--종가배팅-전면-중단">RED 등급 — 종가배팅 전면 중단</h3>
+
+<p><strong>점수: 25점</strong> (0~100 스케일)</p>
+
+<p>투자자 입장에서 이해하기 쉽게 말하자면:</p>
+<ul>
+  <li>🟢 GREEN: 주식을 사도 좋은 날</li>
+  <li>🟡 YELLOW: 조심스럽지만 기회 있는 날</li>
+  <li>🔴 RED: 절대 사지 말고 가만히 있는 날</li>
+</ul>
+
+<p>오늘은 RED입니다. <strong>신규 종가배팅은 전면 보류</strong>하세요.</p>
+
+<p><strong>왜일까요?</strong></p>
+
+<ol>
+  <li><strong>연준의 매파 전환</strong> — 금리를 올리겠다는 신호는 주가에 최악입니다</li>
+  <li><strong>외국인 이탈 가속</strong> — 어제 -1.57조 순매도 이후 오늘도 추가 이탈 우려</li>
+  <li><strong>위험자산 약세</strong> — 조선, 반도체, 성장주 같은 ‘모멘텀 종목’들이 가장 먼저 팔려 나갑니다</li>
+  <li><strong>기술적 약세 신호</strong> — VIX(공포지수)가 <strong>12.37% 급등</strong>하면서 시장 공포가 확산 중</li>
+</ol>
+
+<h2 id="보유-포지션-대응-매뉴얼">보유 포지션 대응 매뉴얼</h2>
+
+<h3 id="한온시스템-018880--즉시-손절-준비">한온시스템 (018880) — 즉시 손절 준비</h3>
+
+<p>어제 <strong>-8.75% 급락</strong>으로 5110원에 종가했습니다.</p>
+
+<p><strong>📍 오늘 대응:</strong></p>
+<ul>
+  <li>⚠️ 시초가가 <strong>5430원 이하</strong>(-3% 갭다운)로 열리면 <strong>전량 손절</strong></li>
+  <li>시초가가 5700원 이상(+2% 갭업)으로 열리면 분할 매도로 손실 최소화</li>
+  <li><strong>평단 5600원 대비 이미 -8.75% 손실 상태</strong> — 추가 하락 시 손실이 눈덩이처럼 불어날 수 있습니다</li>
+</ul>
+
+<p><strong>왜 손절해야 할까요?</strong></p>
+<ul>
+  <li>RED 등급 환경 + FOMC 매파 쇼크 = 외국인 추가 이탈 확실</li>
+  <li>조선·해운·자동차부품 같은 순환 테마는 글로벌 금리인상 환경에서 가장 약함</li>
+</ul>
+
+<h3 id="한화오션-042660--신규-진입-보류">한화오션 (042660) — 신규 진입 보류</h3>
+
+<p>어제 종가 <strong>133,700원</strong>에서 신규 진입을 고려했지만, <strong>오늘은 관찰만</strong> 하세요.</p>
+
+<p><strong>📍 오늘 대응:</strong></p>
+<ul>
+  <li>❌ 신규 매수 금지</li>
+  <li>시초가 갭업 시초가도 진입하지 마세요 — 이건 반등일 뿐, 추세 반전이 아닙니다</li>
+  <li>시장 전체가 위험에 빠졌을 때 한두 종목만 오른다고 해서 진입하는 건 위험합니다</li>
+</ul>
+
+<p><strong>왜 관망할까요?</strong></p>
+<ul>
+  <li>조선 테마는 글로벌 경기 지표에 민감</li>
+  <li>FOMC 매파 = 글로벌 경기 둔화 우려 = 조선 수주 약화 가능성</li>
+  <li>미국 3대 지수 일제 하락 + VIX 급등 = “위험자산 회피 모드”</li>
+</ul>
+
+<h2 id="오늘의-주요-변수">오늘의 주요 변수</h2>
+
+<h3 id="2130-미국-경제지표-확인">21:30 미국 경제지표 확인</h3>
+
+<p><strong>신규 실업수당청구건수</strong> + <strong>필라델피아 제조업지수</strong>가 나옵니다. 이 숫자들이 FOMC의 매파 신호를 뒷받침할지, 아니면 약간 완화할지를 보여줄 겁니다.</p>
+
+<ul>
+  <li>📊 <strong>약한 지표</strong> → “아, 경기가 서지? 금리인상 미룰 수도” → 외국인 매수 복귀 가능</li>
+  <li>📊 <strong>강한 지표</strong> → “인상해도 경제 견딜 수 있겠네” → 외국인 추가 이탈</li>
+</ul>
+
+<p>오늘 밤 이 지표들이 나오기 전까지는 <strong>한국 시장도 보류 모드</strong>입니다.</p>
+
+<h2 id="내일-전략-재평가">내일 전략 재평가</h2>
+
+<p>오늘 밤 미국 경제지표를 보고 내일 6시에 새로운 브리핑을 드리겠습니다.</p>
+
+<ul>
+  <li>🔴 <strong>지표가 약하면</strong> → 내일도 조심스럽지만 기회 등장 가능</li>
+  <li>🔴 <strong>지표가 강하면</strong> → 내일도 RED 지속, 주초까지 보류 권장</li>
+</ul>
+
+<p><strong>지금은 ‘기다리는 기술’이 가장 좋은 투자 기술입니다.</strong></p>
+
+<hr />
+
+<h2 id="-의견-나눠주세요">💬 의견 나눠주세요!</h2>
+
+<p>오늘 시황이 어렵다면 <strong>댓글로 마음껏 불평해도 됩니다.</strong> 😊 FOMC 쇼크가 우리나라 투자자들한테 어떤 영향을 미쳤는지, 여러분의 포지션 상황은 어떻게 되는지 나눠주세요. 이웃 추가하면 매일 아침 6시에 최신 분석을 받아보실 수 있습니다!</p>
+
+<hr />
+
+<p>#종가배팅 #수급분석 #주식투자 #FOMC #외국인 #매도신호 #NextTheme #RED등급</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[워시 FOMC, 시장에 폭탄을 떨어뜨리다]]></summary></entry><entry><title type="html">한화오션</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/17/nt2-1505-snapshot/" rel="alternate" type="text/html" title="한화오션" /><published>2026-06-17T15:05:00+09:00</published><updated>2026-06-17T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/17/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/17/nt2-1505-snapshot/"><![CDATA[<p>📅 <strong>2026년 6월 17일(화) 장 마감 직전 기준</strong></p>
 
 <hr />
 
@@ -2182,122 +2292,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가배팅 #복기일지 #20260612 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-06-15 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">YELLOW — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/15/0600-briefing/" rel="alternate" type="text/html" title="YELLOW — 오늘 아침 시황" /><published>2026-06-15T06:00:00+09:00</published><updated>2026-06-15T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/15/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/15/0600-briefing/"><![CDATA[<p>안녕하세요, NextTheme입니다 ☀️
-월요일 아침, 주말 동안 좋은 소식이 꽤 쌓였는데요 — 그렇다고 무작정 달려들기엔 아직 조심해야 할 변수가 남아 있습니다. 오늘도 차분하게 숫자부터 확인해 봅시다.</p>
-
-<hr />
-
-<h2 id="-지난-밤-미국-시장은-어땠나요">🌏 지난 밤 미국 시장은 어땠나요?</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>지수</th>
-      <th>등락</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>다우존스</td>
-      <td><strong>+0.70%</strong></td>
-    </tr>
-    <tr>
-      <td>S&amp;P 500</td>
-      <td><strong>+0.50%</strong></td>
-    </tr>
-    <tr>
-      <td>나스닥</td>
-      <td><strong>+0.31%</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>미국 3대 지수가 모두 올랐지만, 특히 기술주 중심의 나스닥이 <strong>+0.31%</strong>로 살짝 아쉬운 모습입니다. “많이 올랐다”기보다는 “나쁘지 않게 버텼다”는 수준이에요.</p>
-
-<p>반도체 관련 지수(필라델피아 반도체 지수)는 <strong>+1.52%</strong> 올라 우리나라 삼성전자·SK하이닉스 같은 반도체 종목에 긍정적인 신호를 보내고 있습니다.</p>
-
-<hr />
-
-<h2 id="-오늘-베팅-등급--전략">🎯 오늘 베팅 등급 &amp; 전략</h2>
-
-<h3 id="등급--yellow-주의-관찰">등급: 🟡 YELLOW (주의 관찰)</h3>
-
-<p><strong>감정 점수 55점</strong> — 100점 만점에서 절반을 약간 넘는 수준입니다. 호재와 악재가 섞여 있어 적극적으로 뛰어들기보다는 방향을 확인하며 움직이는 것이 좋습니다.</p>
-
-<blockquote>
-  <p>💡 <strong>오늘의 핵심 전략</strong>
-미-이란 전쟁 종전 합의 소식과 외국인 큰손들의 귀환으로 분위기는 좋아지고 있지만, 미국 지수가 크게 오르지 못했고 오는 18일 미국 연방준비제도(Fed)의 금리 결정 발표를 앞두고 불확실성이 남아 있습니다.
-반도체·자동차 대표 종목 위주로 신중하게 접근하되, 아침 시초가에 갭업(전날보다 높게 출발)이 나오면 분할로 차익을 실현하는 것이 유리합니다.</p>
-</blockquote>
-
-<h3 id="-구체적인-대응-방법">📌 구체적인 대응 방법</h3>
-
-<ul>
-  <li><strong>환율 먼저 확인</strong>: 현재 환율 <strong>1,519.5원</strong>. 1,560원을 넘어서면 외국인이 빠져나갈 수 있으니 현금 비중을 높이세요.</li>
-  <li><strong>삼성전자</strong>: 시초가가 <strong>333,000원 이상</strong> 갭업 출발 시 → 보유 물량의 60% 차익 실현</li>
-  <li><strong>현대차</strong>: 시초가가 <strong>626,000원 이상</strong> 갭업 출발 시 → 보유 물량의 40% 차익 실현</li>
-  <li><strong>미-이란 협상이 지연</strong>되거나 <strong>환율 1,560원 돌파</strong> 신호 오면 현금 비중 즉시 확대</li>
-</ul>
-
-<hr />
-
-<h2 id="-오늘-주목해야-할-뉴스들">📰 오늘 주목해야 할 뉴스들</h2>
-
-<h3 id="-기회-요인">🚀 기회 요인</h3>
-
-<ul>
-  <li><strong>스페이스X IPO 첫날 +19% 급등</strong> — 미국 주식 시장 분위기가 좋아지면서 전 세계 투자자들의 심리가 살아나고 있어요.</li>
-  <li><strong>미-이란 전쟁 종전 협의 임박</strong> — 전쟁 불안감(VIX 공포지수)이 <strong>-9.05% 급락</strong>했습니다. 전쟁 위험이 줄어든다는 뜻이에요.</li>
-  <li><strong>외국인 큰손 귀환</strong> — 외국인이 국내 주식을 <strong>28,929억원</strong> 어치 순매수(사들임)했는데, 이는 <strong>25거래일 만에 처음</strong> 있는 일입니다. 꽤 오랜만에 외국인이 돌아왔어요.</li>
-  <li><strong>반도체·자동차·원자력 섹터 강세</strong> — 필라델피아 반도체 <strong>+1.52%</strong>, 자동차 관련 섹터도 강하게 움직이고 있습니다.</li>
-</ul>
-
-<h3 id="️-주의-요인">⚠️ 주의 요인</h3>
-
-<ul>
-  <li><strong>한국은행 금리 인상 신호</strong> vs <strong>미국은 금리 동결 기대</strong> — 한국과 미국의 금리 방향이 엇갈리고 있어요. 환율 변동성이 커질 수 있습니다.</li>
-  <li><strong>미국 FOMC(금리 결정 회의) 18일 예정</strong> — 결과 발표 전까지는 큰 기관들이 관망할 수 있습니다.</li>
-</ul>
-
-<hr />
-
-<h2 id="-지난-금요일612-ai-선별-복기">📋 지난 금요일(6/12) AI 선별 복기</h2>
-
-<blockquote>
-  <p>전체 방향: <strong>MAINTAIN (유지)</strong> — 시장 환경이 주말을 거치며 긍정적으로 조정되었으나, 기존 전략을 그대로 유지합니다.</p>
-</blockquote>
-
-<h3 id="보유--관심-종목-오늘-대응">보유 &amp; 관심 종목 오늘 대응</h3>
-
-<p><strong>1. 후성 (093370)</strong> — 🔴 보유 중</p>
-<blockquote>
-  <p>오늘 시초가를 꼭 확인하세요. <strong>-2% 이상 낮게 출발(18,483원 이하)</strong> 하거나 장중에 -3% 이상 떨어지면 전량 손절하는 조건입니다. 지난 주말 원자력 테마가 +13% 강하게 올랐기 때문에 반등 기대는 있지만 손절선은 반드시 지키세요.</p>
-</blockquote>
-
-<p>⚠️ <strong>위험 요인</strong>: 미-이란 협상이 다시 지연되면 불안 심리(VIX)가 다시 오를 수 있고, 그때 중소형 종목이 먼저 조정받습니다. 환율이 1,560원을 넘으면 후성 같은 종목의 하락 폭이 커질 수 있어요.</p>
-
-<p><strong>2. 삼성전자 (005930)</strong> — 미보유 (관심)</p>
-<blockquote>
-  <p>지난 금요일 매수하지 않은 종목입니다. 오늘 시초가가 갭다운(낮게 출발)한다면 분할로 나누어 매수할 기회를 노려보세요. 반도체 관련 외국인 매수세가 이어지고 있고, 구글 TPU 위탁생산 기대감이 추가로 작용하고 있어요.</p>
-</blockquote>
-
-<p><strong>3. 현대차 (005380)</strong> — 미보유 (관심)</p>
-<blockquote>
-  <p>삼성전자와 마찬가지로 갭다운 시 분할 매수 기회를 준비해두세요. 유가(원유 가격)가 -2.83% 내려가면서 자동차 업체에는 좋은 소식이고, 제네시스의 르망 24시간 레이스 참가로 브랜드 이미지도 높아지고 있습니다.</p>
-</blockquote>
-
-<hr />
-
-<h2 id="-오늘-한-줄-정리">✅ 오늘 한 줄 정리</h2>
-
-<blockquote>
-  <p><strong>“외국인이 돌아왔다는 건 좋은 신호지만, 18일 미국 금리 발표 전까지는 장초 갭 방향을 먼저 확인하고 움직이세요.”</strong></p>
-</blockquote>
-
-<p>성급하게 들어가기보다는 시초가 방향을 확인한 뒤 차분하게 대응하는 것이 오늘의 정답입니다. 특히 후성 보유 중이신 분은 손절 조건을 반드시 머릿속에 담아두고 시작하세요.</p>
-
-<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
-
-<hr />
-
-<p>#종가배팅 #수급분석 #NextTheme #주식투자 #오늘시황 #삼성전자 #현대차 #후성 #반도체주 #외국인순매수</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[안녕하세요, NextTheme입니다 ☀️ 월요일 아침, 주말 동안 좋은 소식이 꽤 쌓였는데요 — 그렇다고 무작정 달려들기엔 아직 조심해야 할 변수가 남아 있습니다. 오늘도 차분하게 숫자부터 확인해 봅시다.]]></summary></entry></feed>
+<p>#종가배팅 #복기일지 #20260612 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-06-15 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
