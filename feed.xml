@@ -1,4 +1,145 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-17T10:03:32+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">6/16 종가배팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/17/review-20260616-review/" rel="alternate" type="text/html" title="6/16 종가배팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-06-17T09:00:00+09:00</published><updated>2026-06-17T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/17/review_20260616-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/17/review-20260616-review/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-17T15:08:40+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">한화오션</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/17/nt2-1505-snapshot/" rel="alternate" type="text/html" title="한화오션" /><published>2026-06-17T15:05:00+09:00</published><updated>2026-06-17T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/17/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/17/nt2-1505-snapshot/"><![CDATA[<p>📅 <strong>2026년 6월 17일(화) 장 마감 직전 기준</strong></p>
+
+<hr />
+
+<h2 id="오늘-시장-어떤-하루였을까요">오늘 시장, 어떤 하루였을까요?</h2>
+
+<p>오늘은 <strong>조선 섹터</strong>가 시장 전체를 이끈 하루였습니다. 캐나다 잠수함 프로젝트 수주 기대감과 이란 재건 참여 소식이 겹치면서, 조선 대장주인 <strong>한화오션</strong>이 오늘 하루만 <strong>+3.48%</strong> 상승했습니다. 💪</p>
+
+<p>다만 오늘 당장 따라붙기에는 조심스러운 상황도 있습니다. 내일 새벽(한국 시간) <strong>FOMC(미국 연방준비제도 기준금리 결정 회의)</strong> 결과 발표가 예정되어 있거든요. 혹시 미국이 “금리를 당분간 내리지 않겠다”는 매파적 결정을 내리면, 밤사이 주가가 급락할 수도 있습니다. 그래서 NextTheme 알고리즘은 오늘 단 <strong>1개 종목</strong>, 그것도 비중을 <strong>30%로 줄여</strong> 보수적으로 접근하도록 했습니다.</p>
+
+<hr />
+
+<h2 id="-오늘의-선별-종목-한화오션-042660">🎯 오늘의 선별 종목: 한화오션 (042660)</h2>
+
+<h3 id="왜-한화오션이-선택됐을까요">왜 한화오션이 선택됐을까요?</h3>
+
+<p>한화오션은 오늘 국내 증시에서 <strong>거래대금 1조 4,541억원</strong>을 기록했습니다. 거래대금이 크다는 건 그만큼 많은 투자자들이 이 종목에 집중하고 있다는 신호입니다.</p>
+
+<h4 id="-핵심-수치-한눈에-보기">📊 핵심 수치 한눈에 보기</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th>항목</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>오늘 등락률</td>
+      <td><strong>+3.48%</strong> 상승</td>
+    </tr>
+    <tr>
+      <td>현재 주가</td>
+      <td><strong>133,500원</strong></td>
+    </tr>
+    <tr>
+      <td>거래대금</td>
+      <td><strong>1조 4,541억원</strong> (압도적 1위)</td>
+    </tr>
+    <tr>
+      <td>알고리즘 점수</td>
+      <td><strong>60점</strong></td>
+    </tr>
+    <tr>
+      <td>추천 비중</td>
+      <td><strong>30%</strong> (보수적 운영)</td>
+    </tr>
+    <tr>
+      <td>신뢰도</td>
+      <td><strong>중간(MEDIUM)</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="-큰-투자기관기관과-외국인은-어떻게-움직였나요">💡 큰 투자기관(기관)과 외국인은 어떻게 움직였나요?</h4>
+
+<p>오늘의 가장 주목할 점은 <strong>외국인이 3일 연속으로 한화오션을 순매수</strong>했다는 것입니다. 단순히 한 번이 아니라 3일 내내 꾸준히 사고 있다는 뜻입니다.</p>
+
+<p>특히 오후 2시 이후에도 매도 없이 계속 사들이고 있었습니다.</p>
+<ul>
+  <li>외국인: 오후 2시 이후 <strong>8.5억 주어치</strong> 추가 순매수</li>
+  <li>기관(큰 투자회사들): 오후 2시 이후 <strong>1.7억 주어치</strong> 추가 순매수</li>
+</ul>
+
+<p>이렇게 외국인과 기관이 함께 장 막판까지 매수하는 종목은 다음 날 아침 시초가에 갭상승(어제 종가보다 높은 가격으로 시작)할 가능성이 높습니다.</p>
+
+<h4 id="-어떤-재료뉴스가-있나요">🚀 어떤 재료(뉴스)가 있나요?</h4>
+
+<ol>
+  <li><strong>캐나다 잠수함 프로젝트</strong>: 캐나다가 새 잠수함을 발주할 예정인데, 한화오션이 유력 후보로 거론되고 있습니다.</li>
+  <li><strong>이란 재건 참여</strong>: 이란 경제 재건 사업에 한화오션이 참여할 수 있다는 기대감도 퍼지고 있습니다.</li>
+</ol>
+
+<p>두 가지 호재가 겹치면서 내일 아침 “이미 올랐으니 나도 사야겠다”는 추격 매수가 몰릴 수 있는 상황입니다.</p>
+
+<hr />
+
+<h2 id="-전략-어떻게-접근할까요">📋 전략: 어떻게 접근할까요?</h2>
+
+<p><strong>전략: 장 마감 직전 매수 → 내일 시초가 갭업 시 분할 매도</strong></p>
+
+<p>이른바 <strong>갭 트레이드(GAP_TRADE)</strong> 전략입니다. 오늘 종가 근처에서 매수해두고, 내일 아침 어제보다 높게 시작하면(갭업) 파는 방식입니다.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>✅ 1차 매도 목표: 갭업 +2% (목표 약 136,170원)
+❌ 손절 기준: 갭다운 -3% (133,500원에서 -3% → 약 129,495원)
+</code></pre></div></div>
+
+<blockquote>
+  <p>⚠️ <strong>손절은 반드시 지켜주세요.</strong> -3% 하락 시 즉시 매도가 원칙입니다.</p>
+</blockquote>
+
+<hr />
+
+<h2 id="️-주의할-리스크는">⚠️ 주의할 리스크는?</h2>
+
+<p>두 가지 위험 요소가 있습니다.</p>
+
+<ol>
+  <li>
+    <p><strong>FOMC 리스크</strong>: 내일 새벽 미국 연준이 “금리 동결 또는 인상” 시그널을 내면, 야간 선물 시장이 급락하고 내일 국내 증시도 갭다운 가능성이 있습니다.</p>
+  </li>
+  <li>
+    <p><strong>7일 연속 상승 피로감</strong>: 한화오션은 최근 7일째 오르고 있습니다. 그 동안 이익을 얻은 투자자들이 “이쯤에서 팔자”는 차익실현 물량이 나올 수 있습니다.</p>
+  </li>
+  <li>
+    <p><strong>외국인 60일 누적은 적자</strong>: 최근 3일은 샀지만, 60일 전체를 놓고 보면 외국인이 <strong>1,834억원어치를 순매도</strong>하고 있는 상황입니다. 단기 반등인지 추세 전환인지는 좀 더 지켜볼 필요가 있습니다.</p>
+  </li>
+</ol>
+
+<hr />
+
+<h2 id="-nexttheme-알고리즘이-이-종목을-고른-이유">🤖 NextTheme 알고리즘이 이 종목을 고른 이유</h2>
+
+<p>NextTheme는 수천 개의 종목 중에서 “내일 아침 갭상승 가능성이 높은 종목”을 자동으로 걸러냅니다.</p>
+
+<p>오늘 한화오션이 선택된 핵심 이유:</p>
+<ul>
+  <li>✔️ <strong>거래대금 압도적 1위</strong>: 시장 참여자들의 관심이 집중된 종목</li>
+  <li>✔️ <strong>외국인 3일 연속 순매수</strong>: 큰 손들이 지속적으로 담고 있음</li>
+  <li>✔️ <strong>장 막판 외인+기관 동시 순매수</strong>: 오후 2시 이후에도 매도 없이 지속</li>
+  <li>✔️ <strong>구체적인 재료(뉴스) 존재</strong>: 막연한 기대가 아닌 실제 계약 가능성</li>
+  <li>✔️ <strong>15분봉 단기 추세 유지</strong>: 단기 이동평균선(60선) 위에서 거래 중</li>
+</ul>
+
+<hr />
+
+<h2 id="-오늘의-결론">📌 오늘의 결론</h2>
+
+<p>오늘 NextTheme가 최종 선별한 종목은 <strong>한화오션 1개</strong>입니다.</p>
+
+<p>FOMC라는 큰 변수가 있는 만큼, 평소보다 비중을 줄여(<strong>30%</strong>) 접근하는 것이 알고리즘의 판단입니다. 내일 아침 갭업으로 시작하면 분할 매도로 수익을 확보하고, 반대로 갭다운 시에는 <strong>-3% 손절을 철저히</strong> 지켜 손실을 최소화하는 전략입니다.</p>
+
+<p>주식 투자는 수익보다 <strong>손실 관리</strong>가 더 중요합니다. 오늘도 알고리즘을 믿고 원칙대로 접근해보세요! 💪</p>
+
+<hr />
+
+<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
+
+<hr />
+
+<p>#종가배팅 #수급분석 #NextTheme #한화오션 #조선주 #주식투자 #갭트레이드 #FOMC #캐나다잠수함 #오늘의주식</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[📅 2026년 6월 17일(화) 장 마감 직전 기준]]></summary></entry><entry><title type="html">6/16 종가배팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/17/review-20260616-review/" rel="alternate" type="text/html" title="6/16 종가배팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-06-17T09:00:00+09:00</published><updated>2026-06-17T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/17/review_20260616-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/17/review-20260616-review/"><![CDATA[<blockquote>
   <p>데이터 기준: 2026-06-17 10:03 키움 ka10001 일괄 조회</p>
 </blockquote>
 
@@ -2159,202 +2300,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <hr />
 
-<p>#종가배팅 #수급분석 #NextTheme #주식투자 #오늘시황 #삼성전자 #현대차 #후성 #반도체주 #외국인순매수</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[안녕하세요, NextTheme입니다 ☀️ 월요일 아침, 주말 동안 좋은 소식이 꽤 쌓였는데요 — 그렇다고 무작정 달려들기엔 아직 조심해야 할 변수가 남아 있습니다. 오늘도 차분하게 숫자부터 확인해 봅시다.]]></summary></entry><entry><title type="html">2026-W24 — 한주간 흐름 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/14/weekly/" rel="alternate" type="text/html" title="2026-W24 — 한주간 흐름 분석" /><published>2026-06-14T22:00:00+09:00</published><updated>2026-06-14T22:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/14/weekly</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/14/weekly/"><![CDATA[<p>이번 주 코스피는 말 그대로 롤러코스터였습니다. 월요일 하루에만 <strong>-8.29%</strong> 폭락하고, 다음 날 <strong>+7.81%</strong> 급반등하는, 보기 드문 극단적인 변동성이 펼쳐졌습니다. “이러다 다 잃겠다”와 “이 기회를 잡아야 한다” 사이에서 흔들리셨던 분들, 이 글이 도움이 됐으면 합니다 😅</p>
-
-<hr />
-
-<h2 id="-이번-주-시장-무슨-일이-있었나요">📊 이번 주 시장, 무슨 일이 있었나요?</h2>
-
-<h3 id="어떻게-이렇게-많이-떨어졌다가-올랐을까">어떻게 이렇게 많이 떨어졌다가 올랐을까?</h3>
-
-<p>이번 주 시작은 최악이었습니다. 미국에서 반도체 관련 주식들이 하루에 <strong>-10.26%</strong> 급락한 충격이 월요일 국내 시장으로 그대로 전해졌습니다. 미국 중앙은행(연준)이 금리를 올릴 수 있다는 공포감까지 겹치면서 코스피는 06월 08일(월) 단 하루에 <strong>-8.29%</strong> 폭락했습니다. 코스닥은 더 심해 <strong>-9.08%</strong> 를 기록했습니다.</p>
-
-<p>그런데 반전이 일어났습니다. 📈</p>
-
-<p>중동 지역 전쟁이 끝날 수 있다는 소식(미국-이란 종전 합의 임박), 미국 물가(CPI) 안정 발표, 달러 대비 원화 환율이 하루에 무려 <strong>-32원</strong> 급락(원화 강세)하면서 분위기가 180도 바뀌었습니다.</p>
-
-<p>가장 결정적인 반전은 외국인 투자자들의 태도 변화였습니다. 그동안 <strong>25거래일 연속으로 팔기만 하던 외국인</strong>이 이번 주 삼성전자와 SK하이닉스를 무려 <strong>2조원어치 순매수</strong>로 돌아선 것입니다. 구글이 AI 칩(TPU)을 삼성전자에 위탁생산할 수 있다는 기대감이 촉매가 됐습니다.</p>
-
-<p>결과적으로 코스피 주간 흐름은 다음과 같습니다:</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>날짜</th>
-      <th>등락</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>06/08(월)</td>
-      <td><strong>-8.29%</strong> 폭락</td>
-    </tr>
-    <tr>
-      <td>06/09(화)</td>
-      <td><strong>+7.81%</strong> 급반등</td>
-    </tr>
-    <tr>
-      <td>06/10(수)</td>
-      <td><strong>-6.22%</strong> 재조정</td>
-    </tr>
-    <tr>
-      <td>06/11(목)</td>
-      <td><strong>+0.16%</strong> 보합</td>
-    </tr>
-    <tr>
-      <td>06/12(금)</td>
-      <td><strong>+4.99%</strong> 강세 마감</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>환율은 한때 <strong>1,560원</strong>을 돌파했다가 이후 <strong>-32원</strong> 급락해 원화 강세로 돌아섰습니다.</p>
-
-<hr />
-
-<h2 id="-이번-주-주목받은-분야-vs-힘-빠진-분야">🔥 이번 주 주목받은 분야 vs 힘 빠진 분야</h2>
-
-<h3 id="-올라간-분야">🆙 올라간 분야</h3>
-
-<p><strong>반도체 🏆</strong> — 이번 주 최대 수혜자입니다. 외국인 큰손(기관급 외국 투자자)의 대규모 매수 복귀 + 구글 AI 칩 위탁생산 기대감이 삼성전자·SK하이닉스를 이끌었고, 코스닥의 반도체 소재·부품·장비 중소기업들도 함께 올랐습니다. AI 반도체 투자 확대 흐름이 국내 소부장 전체로 퍼지는 모습입니다.</p>
-
-<blockquote>
-  <p><strong>유효조건</strong>: FOMC 금리동결 + 미국 필라델피아 반도체 지수 강세 유지</p>
-</blockquote>
-
-<p><strong>배터리/ESS(에너지저장장치) 🔋</strong> — 1분기 출하량이 작년보다 <strong>78% 급증</strong>했다는 발표, 인간형 로봇(휴머노이드)의 배터리 수요 부각으로 재평가 기대감이 생겼습니다. 반도체 랠리가 지속되면 함께 올라갈 가능성이 높습니다.</p>
-
-<blockquote>
-  <p><strong>유효조건</strong>: 반도체 랠리 지속 + 글로벌 경기침체 우려 완화</p>
-</blockquote>
-
-<p><strong>증권사 📈</strong> — 코스피가 하루에 8% 이상 오르내리는 상황에서 주식 거래량이 폭발적으로 늘었습니다. 키움증권 등은 주식을 담보로 대출해주고 받는 이자수익이 절반 이상을 차지할 만큼 급증했습니다.</p>
-
-<blockquote>
-  <p><strong>유효조건</strong>: 시장 변동성 유지 + 개인 투자 열기 지속</p>
-</blockquote>
-
-<h3 id="-힘-빠진-분야">🔽 힘 빠진 분야</h3>
-
-<p><strong>우주·항공 🚀</strong> — 스페이스X(일론 머스크 회사)가 주식 시장 상장을 추진하면서, 기존에 우주 관련으로 올랐던 국내외 종목들에서 자금이 스페이스X로 이동하는 현상이 나타났습니다. 글로벌 자금이 한국을 외면하는 ‘코리아 패싱’ 우려도 있었습니다.</p>
-
-<blockquote>
-  <p><strong>반등조건</strong>: 상장 수급 쏠림 해소 + 우주산업 신규 촉매</p>
-</blockquote>
-
-<p><strong>중동 긴장 관련주 ☮️</strong> — 미국-이란 종전 합의가 가까워지면서 전쟁 위기 프리미엄이 사라지는 중입니다. 지정학 이슈로 올랐던 종목들은 관망이 필요합니다.</p>
-
-<blockquote>
-  <p><strong>반등조건</strong>: 협상 결렬 또는 중동 긴장 재고조</p>
-</blockquote>
-
-<hr />
-
-<h2 id="-다음-주-어떻게-될까요">🔮 다음 주, 어떻게 될까요?</h2>
-
-<h3 id="좋은-시나리오-">좋은 시나리오 ✅</h3>
-<p>06월 18일(목) <strong>FOMC</strong>(미국 중앙은행 금리 결정)에서 금리를 그대로 유지 + 06월 17일(수) <strong>소매판매</strong> 지표가 양호하게 나오면, 외국인의 반도체 매수가 가속화되고 코스피 반등이 이어질 수 있습니다. 한국 증시의 MSCI 선진국 지수 편입 기대감도 다시 부각될 수 있습니다.</p>
-
-<h3 id="나쁜-시나리오-️">나쁜 시나리오 ⚠️</h3>
-<p>연준이 갑자기 금리를 올리겠다는 신호를 보내거나, 소매판매가 부진하게 나오면 “경기침체 우려”가 다시 살아나 외국인 매도가 재개되고 코스피 <strong>8,000선 이탈</strong> 가능성도 있습니다.</p>
-
-<h3 id="핵심-전략-">핵심 전략 💡</h3>
-<p>FOMC(06/18)와 소매판매(06/17) 결과를 확인하기 전까지는 <strong>신중하게 대응</strong>하는 것이 좋습니다.</p>
-
-<ul>
-  <li><strong>금리동결 + 소매판매 양호 확인 시</strong> → 반도체·배터리 중심으로 진입 (외국인 순매수 지속 여부 필수 체크)</li>
-  <li><strong>금리 인상 시사 또는 소매판매 부진 시</strong> → 신규 진입을 <strong>30% 이하</strong>로 제한, 방어적 대응</li>
-  <li><strong>일본 금리결정(06/16)</strong> — 일본이 금리를 올리면(0.75%→1%) 엔화가 강해지며 외국인 한국 매매에 영향을 줄 수 있으니 주시 필요</li>
-</ul>
-
-<hr />
-
-<h2 id="-다음-주-주요-일정-이것만-알아도-됩니다">📅 다음 주 주요 일정 (이것만 알아도 됩니다)</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>날짜</th>
-      <th>이벤트</th>
-      <th>핵심 포인트</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>06/16(화) 12:00</td>
-      <td>일본 금리결정</td>
-      <td>금리 올리면 엔화 강세 → 외국인 매매 영향</td>
-    </tr>
-    <tr>
-      <td>06/17(수) 21:30</td>
-      <td>미국 소매판매</td>
-      <td>소비 둔화 시 경기침체 우려 재부각</td>
-    </tr>
-    <tr>
-      <td><strong>06/18(목) 03:00</strong></td>
-      <td><strong>미국 FOMC 금리결정</strong></td>
-      <td><strong>동결 vs 인상 시사 — 이번 주 최대 변수</strong></td>
-    </tr>
-    <tr>
-      <td>06/18(목) 21:30</td>
-      <td>필라델피아 제조업지수</td>
-      <td>반도체 수요 선행지표 (전월 -0.4 반등 여부)</td>
-    </tr>
-    <tr>
-      <td>06/18(목) 21:30</td>
-      <td>신규 실업수당청구건수</td>
-      <td>예상 225K, 증가 시 고용 악화 경계</td>
-    </tr>
-  </tbody>
-</table>
-
-<hr />
-
-<h2 id="️-투자할-때-조심해야-할-리스크">⚠️ 투자할 때 조심해야 할 리스크</h2>
-
-<ol>
-  <li><strong>FOMC 매파 전환</strong> — 연준이 금리 인상을 시사하면 반도체·배터리 등 성장주 전반 타격, 외국인 매도 재개 가능</li>
-  <li><strong>스페이스X 상장 수급 쏠림</strong> — 글로벌 자금이 계속 스페이스X로만 몰리면 한국 시장 소외(코리아 패싱) 심화. 한국은 스페이스X 공모에 0주 배정으로 자금 이탈 우려</li>
-  <li><strong>외국인 매수 지속성 불확실</strong> — 25거래일 연속 매도 후 이번 주 처음 전환한 만큼, 재이탈 시 코스피 8,000선 이탈 + 환율 재상승 위험</li>
-</ol>
-
-<hr />
-
-<h2 id="-nexttheme가-보는-다음-주-주목-섹터">📋 NextTheme가 보는 다음 주 주목 섹터</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>섹터</th>
-      <th>모멘텀</th>
-      <th>핵심 조건</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>반도체</strong></td>
-      <td>🔥 강세</td>
-      <td>FOMC 금리동결 + 필라델피아 지수 강세 시 랠리 지속. 매파 전환 시 무효화</td>
-    </tr>
-    <tr>
-      <td><strong>배터리/ESS</strong></td>
-      <td>✅ 긍정</td>
-      <td>1분기 출하 78% 급증, 휴머노이드 수요 부각. 반도체 약세 시 동반 조정 리스크</td>
-    </tr>
-    <tr>
-      <td><strong>증권</strong></td>
-      <td>📊 중립</td>
-      <td>거래대금 급증으로 수익 급증. 단, 시장 안정화 + 변동성 축소 시 모멘텀 약화</td>
-    </tr>
-  </tbody>
-</table>
-
-<hr />
-
-<p>이번 주는 정말 투자자들의 멘탈을 극한까지 시험한 한 주였습니다. 하지만 극단적인 변동성 속에서도 방향은 결국 “외국인이 25거래일 만에 돌아왔다”는 의미 있는 신호로 마무리됐습니다. 다음 주 FOMC가 가장 큰 변수입니다. 결과 확인 전까지 무리한 베팅보다는 <strong>확인 후 대응</strong>을 권장드립니다 🙏</p>
-
-<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
-
-<hr />
-
-<p>#종가배팅 #수급분석 #주식투자 #코스피주간분석 #반도체주식 #NextTheme #주간시장리뷰 #FOMC #외국인순매수 #배터리주식</p>]]></content><author><name>NextTheme</name></author><category term="weekly" /><summary type="html"><![CDATA[이번 주 코스피는 말 그대로 롤러코스터였습니다. 월요일 하루에만 -8.29% 폭락하고, 다음 날 +7.81% 급반등하는, 보기 드문 극단적인 변동성이 펼쳐졌습니다. “이러다 다 잃겠다”와 “이 기회를 잡아야 한다” 사이에서 흔들리셨던 분들, 이 글이 도움이 됐으면 합니다 😅]]></summary></entry></feed>
+<p>#종가배팅 #수급분석 #NextTheme #주식투자 #오늘시황 #삼성전자 #현대차 #후성 #반도체주 #외국인순매수</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[안녕하세요, NextTheme입니다 ☀️ 월요일 아침, 주말 동안 좋은 소식이 꽤 쌓였는데요 — 그렇다고 무작정 달려들기엔 아직 조심해야 할 변수가 남아 있습니다. 오늘도 차분하게 숫자부터 확인해 봅시다.]]></summary></entry></feed>
