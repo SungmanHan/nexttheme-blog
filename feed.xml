@@ -1,4 +1,104 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-18T10:03:38+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">6/17 종가배팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/18/review-20260617-review/" rel="alternate" type="text/html" title="6/17 종가배팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-06-18T09:00:00+09:00</published><updated>2026-06-18T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/18/review_20260617-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/18/review-20260617-review/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-18T15:09:07+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">오늘은 무포지션 관망</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/18/nt2-1505-snapshot/" rel="alternate" type="text/html" title="오늘은 무포지션 관망" /><published>2026-06-18T15:05:00+09:00</published><updated>2026-06-18T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/18/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/18/nt2-1505-snapshot/"><![CDATA[<h2 id="오늘-시장-한마디로-위험-신호-가득-️">오늘 시장, 한마디로 “위험 신호 가득” ⚠️</h2>
+
+<p>2026년 6월 18일(목) 장 마감 직전, NextTheme 알고리즘이 오늘의 종가배팅 후보들을 최종 점검했습니다.</p>
+
+<p>결론부터 말씀드리면 — <strong>오늘은 매수 없이 관망</strong>입니다.</p>
+
+<p>전문가들이 아무것도 안 하는 것도 하나의 전략이라고 말하는 이유가 있습니다. 오늘이 바로 그런 날입니다. 🙅</p>
+
+<hr />
+
+<h2 id="-오늘-시장은-왜-이렇게-험악했나요">📉 오늘 시장은 왜 이렇게 험악했나요?</h2>
+
+<p>오늘 코스닥 지수가 <strong>-2.51%</strong> 급락했습니다. 코스닥은 중소형·기술주 중심의 시장인데, 하루에 2.5%가 빠졌다는 건 꽤 큰 하락입니다.</p>
+
+<p>거기다 알고리즘이 감지한 <strong>매크로 경고 신호도 4개</strong>나 동시에 켜졌습니다. 매크로 경고란, 금리·환율·원자재 같은 큰 경제 변수에서 위험 신호가 나온다는 뜻입니다.</p>
+
+<p>이런 날에는 아무리 좋아 보이는 종목도 다음 날 시초가가 높게 시작하기 어렵습니다.</p>
+
+<hr />
+
+<h2 id="-후보-종목들-왜-탈락했을까요">🔍 후보 종목들, 왜 탈락했을까요?</h2>
+
+<p>오늘 최종 관문을 통과하지 못한 주요 종목들의 이유를 살펴봤습니다.</p>
+
+<p><strong>SK하이닉스 / LG이노텍 / 삼성생명</strong>
+오후 <strong>2시 이후</strong>부터 외국인 투자자들이 이 종목들을 팔기 시작했습니다. 외국인이 장 막판에 파는 건 안 좋은 신호입니다. 내일 시초가가 낮게 시작할 가능성이 높아집니다.</p>
+
+<p><strong>DB하이텍</strong>
+단기 기술 흐름(15분봉 60이동평균선)을 아래로 이탈했습니다. 쉽게 말해, 단기 상승 흐름이 꺾였다는 뜻입니다.</p>
+
+<p><strong>대원화성</strong>
+오늘 좋은 소식이 있었지만 장 중에 이미 주가가 충분히 올랐습니다. 호재가 주가에 이미 반영됐기 때문에 내일 추가 상승 근거가 부족합니다.</p>
+
+<hr />
+
+<h2 id="-nexttheme-알고리즘의-판단은">🤔 NextTheme 알고리즘의 판단은?</h2>
+
+<p><strong>신뢰도: 높음(HIGH)</strong></p>
+
+<p>오늘 무포지션 결정에 대한 알고리즘의 확신도는 높습니다. 시장 전체 위험 + 개별 종목의 근거 부족이 동시에 겹쳤기 때문입니다.</p>
+
+<hr />
+
+<h2 id="-혹시-내일-반등-가능성은">💡 혹시 내일 반등 가능성은?</h2>
+
+<p>단 하나, 반전 시나리오가 있습니다.</p>
+
+<p>오늘 밤 미국에서 발표되는 <strong>필라델피아 연은 제조업 활동지수</strong>와 <strong>신규 실업수당 청구 건수</strong>가 예상보다 좋게 나온다면, 반도체 관련 주식이 내일 시초가부터 오를 가능성이 있습니다.</p>
+
+<p>다만 주의할 점이 있습니다. 최근 <strong>60일 동안 외국인이 꾸준히 판 종목</strong>은 설령 미국 지표가 좋게 나와도 회피하는 것이 안전합니다. 외국인 수급이 무너진 종목은 단기 반등 재료 하나로 쉽게 방향을 바꾸지 않기 때문입니다.</p>
+
+<hr />
+
+<h2 id="-오늘의-결론-한눈에-보기">📊 오늘의 결론 한눈에 보기</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>항목</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>베팅 등급</td>
+      <td>무포지션</td>
+    </tr>
+    <tr>
+      <td>신뢰도</td>
+      <td><strong>높음(HIGH)</strong></td>
+    </tr>
+    <tr>
+      <td>오늘 코스닥</td>
+      <td><strong>-2.51%</strong> 급락</td>
+    </tr>
+    <tr>
+      <td>매크로 경고</td>
+      <td><strong>4개</strong> 동시 발생</td>
+    </tr>
+    <tr>
+      <td>선별 종목</td>
+      <td><strong>없음</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>오늘 종가배팅은 쉬어 가는 날입니다.</strong> 쉬는 것도 수익을 지키는 전략임을 기억해 주세요. 💪</p>
+
+<hr />
+
+<h2 id="-내일을-위한-한-줄-정리">🌙 내일을 위한 한 줄 정리</h2>
+
+<blockquote>
+  <p>코스닥 <strong>-2.51%</strong> 급락 + 매크로 경고 <strong>4개</strong> — 오늘은 무포지션. 미국 밤 경제지표 확인 후 내일 전략 업데이트 예정.</p>
+</blockquote>
+
+<hr />
+
+<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
+
+<p>#종가배팅 #수급분석 #NextTheme #주식투자 #코스닥 #무포지션 #오늘주식 #종목분석 #한국주식</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[오늘 시장, 한마디로 “위험 신호 가득” ⚠️]]></summary></entry><entry><title type="html">6/17 종가배팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/18/review-20260617-review/" rel="alternate" type="text/html" title="6/17 종가배팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-06-18T09:00:00+09:00</published><updated>2026-06-18T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/18/review_20260617-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/18/review-20260617-review/"><![CDATA[<blockquote>
   <p>데이터 기준: 2026-06-18 10:03 키움 ka10001 일괄 조회</p>
 </blockquote>
 
@@ -2060,171 +2160,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
 
-<p>#종가배팅 #수급분석 #주식투자 #NextTheme #오늘주식 #시황브리핑 #일본금리 #한온시스템 #KB금융 #반도체주식</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[안녕하세요! 오늘 아침도 NextTheme 전략 브리핑으로 하루를 시작합니다. 🌅 간밤 미국 증시가 깜짝 급등했는데, 오늘 국내 시장은 어떻게 흘러갈까요?]]></summary></entry><entry><title type="html">한온시스템 외</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/15/nt2-1505-snapshot/" rel="alternate" type="text/html" title="한온시스템 외" /><published>2026-06-15T15:05:00+09:00</published><updated>2026-06-15T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/15/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/15/nt2-1505-snapshot/"><![CDATA[<p>📈 <strong>2026년 6월 15일(월) 오후 3시 05분 기준 분석</strong></p>
-
-<hr />
-
-<h2 id="오늘-시장-한-마디로-요약하면">오늘 시장, 한 마디로 요약하면?</h2>
-
-<p>오늘 주식 시장은 그야말로 <strong>폭발적인 상승장</strong>이었습니다. KOSPI가 무려 <strong>+5%</strong> 오르며 강세장으로 전환됐습니다. 이런 날에는 시장 전체가 오르는 만큼, 어떤 종목을 골라야 할지 더욱 중요해지죠.</p>
-
-<p>한·미 종전 합의 소식이 시장에 큰 활력을 불어넣었습니다. 특히 <strong>전기차 부품</strong>과 <strong>은행</strong> 테마가 오늘의 주인공이었습니다. NextTheme 알고리즘이 이 두 테마에서 각 1개씩, 총 2개 종목을 선별했습니다.</p>
-
-<hr />
-
-<h2 id="-오늘-선별된-종목-분석">🎯 오늘 선별된 종목 분석</h2>
-
-<h3 id="-한온시스템-018880--전기차-부품-테마-대표주">① 한온시스템 (018880) — 전기차 부품 테마 대표주</h3>
-
-<blockquote>
-  <p><strong>전략: 종가 소량 매수 후 내일 아침 추가 진입</strong></p>
-</blockquote>
-
-<p>오늘 한온시스템은 무려 <strong>+20.43%</strong> 급등했습니다. 하루에 20%가 넘게 오른다는 게 놀랍지요? 그 이면에는 탄탄한 수급이 있었습니다.</p>
-
-<p><strong>💡 왜 이 종목이 선택됐나요?</strong></p>
-
-<ul>
-  <li>🏦 <strong>큰 기관과 외국인이 동시에 대거 매수</strong>: 외국인이 <strong>750만 주</strong>, 기관이 <strong>5.8만 주</strong>를 오늘 사들였습니다</li>
-  <li>💰 <strong>거래대금 4,373억원</strong> — 엄청난 규모의 자금이 이 종목에 집중됐습니다</li>
-  <li>📊 15분 단위 차트에서도 주가가 안정적인 위치를 유지하고 있습니다</li>
-  <li>🚀 오전보다 오후에 거래량이 <strong>2.2배 폭발적으로 증가</strong> — 관심이 계속 높아지고 있다는 신호입니다</li>
-  <li>📍 오늘 오후 3시까지 <strong>4번 연속 모니터링 목록에 등장</strong> — 꾸준히 주목받은 종목입니다</li>
-</ul>
-
-<p><strong>한·미 종전 합의로 전기차 부품 투자가 확대될 것이라는 기대감</strong>이 이 종목을 끌어올리고 있습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>항목</th>
-      <th>내용</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>진입 가격</td>
-      <td><strong>5,580원</strong> (종가 부근)</td>
-    </tr>
-    <tr>
-      <td>1차 매도 목표</td>
-      <td><strong>5,800원</strong> (+3%)</td>
-    </tr>
-    <tr>
-      <td>손절 기준</td>
-      <td>내일 갭하락 -5% 이상(약 5,350원) 시 즉시 매도</td>
-    </tr>
-  </tbody>
-</table>
-
-<p><strong>⚠️ 내일 아침 갭하락 폭에 따라 전략이 달라집니다:</strong></p>
-<ul>
-  <li>갭하락 <strong>-4% 이내</strong>: 09:00~10:30 사이 주가가 다시 오를 때 추가 매수 고려 → 반등 +3% 지점에서 매도</li>
-  <li>갭하락 <strong>-5% 이상</strong>: 미련 없이 즉시 손절</li>
-</ul>
-
-<hr />
-
-<h3 id="-kb금융-105560--은행-테마-대표주">② KB금융 (105560) — 은행 테마 대표주</h3>
-
-<blockquote>
-  <p><strong>전략: 장 마감 직전 매수 → 내일 시초가 상승 시 분할 매도</strong></p>
-</blockquote>
-
-<p>KB금융은 국내 대표 금융주로, 오늘 은행 테마의 중심에 섰습니다.</p>
-
-<p><strong>💡 왜 이 종목이 선택됐나요?</strong></p>
-
-<ul>
-  <li>💰 <strong>거래대금 2,381억원</strong> — 오전 대비 <strong>2.1배 증가</strong>하며 자금이 몰리고 있습니다</li>
-  <li>🏦 오후 2시 이후 기관(큰 투자기관)이 <strong>8.8만 주를 꾸준히 순매수</strong> — 전문 투자자들이 마감 직전까지 사들이고 있다는 의미입니다</li>
-  <li>📊 매수 호가에 약 <strong>2.3억원</strong>어치 주문이 쌓여 있어 가격 방어력이 있습니다</li>
-  <li>📍 <strong>3번 연속 모니터링 목록 등장</strong> — 지속적인 자금 유입 신호입니다</li>
-</ul>
-
-<p><strong>한·미 종전 합의로 경제 불확실성이 줄어들면서 은행 같은 안전한 대형주로 자금이 몰리는 흐름</strong>입니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>항목</th>
-      <th>내용</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>진입 가격</td>
-      <td><strong>170,300원</strong> (종가 부근)</td>
-    </tr>
-    <tr>
-      <td>1차 매도 목표</td>
-      <td><strong>174,000원</strong> (+2%)</td>
-    </tr>
-    <tr>
-      <td>손절 기준</td>
-      <td>내일 갭하락 <strong>-2%</strong> 시 즉시 손절(약 167,000원)</td>
-    </tr>
-  </tbody>
-</table>
-
-<hr />
-
-<h2 id="️-꼭-알아야-할-위험-요소">⚠️ 꼭 알아야 할 위험 요소</h2>
-
-<p>이번 주 <strong>미국에서 FOMC(연방준비제도 금리 결정 회의)</strong>가 16~17일에 열립니다. 만약 이 회의에서 “금리를 더 올리겠다”는 강경한 발언이 나온다면, 내일 아침 은행주가 크게 하락해서 시작할 수 있습니다.</p>
-
-<ul>
-  <li><strong>KB금융은 -2% 손절을 반드시 지키세요</strong> — 이것이 가장 중요한 위험 관리입니다</li>
-  <li><strong>한온시스템도 갭하락 -5% 이상이면 즉시 손절</strong>이 원칙입니다</li>
-</ul>
-
-<hr />
-
-<h2 id="-nexttheme-알고리즘이-이-종목들을-고른-이유는">🧠 NextTheme 알고리즘이 이 종목들을 고른 이유는?</h2>
-
-<p>NextTheme는 단순히 오늘 많이 오른 종목을 고르지 않습니다. <strong>“내일 아침 시초가가 오늘 종가보다 높게 시작할 종목”</strong>을 선별합니다.</p>
-
-<p>오늘 두 종목 모두 종합 점수가 <strong>47점</strong>으로 동일했습니다. 차이는 비중 배분에 있습니다:</p>
-<ul>
-  <li>한온시스템: 자금의 <strong>40%</strong> 배분 — 오전 대비 2.2배 거래량 폭발 + 기관·외국인 동시 매수 + 4슬롯 연속 등장</li>
-  <li>KB금융: 자금의 <strong>50%</strong> 배분 — 오전 대비 2.1배 거래량 + 마감 직전까지 기관 매수 지속 + 3슬롯 연속 등장</li>
-</ul>
-
-<p>기관과 외국인이 동시에 사고 있고, 거래량이 오후에 더 폭발적으로 늘어난 종목 — 이것이 바로 NextTheme가 선별하는 핵심 기준입니다.</p>
-
-<hr />
-
-<h2 id="-오늘의-전략-요약">📋 오늘의 전략 요약</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>비중</th>
-      <th>전략</th>
-      <th>핵심 포인트</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>한온시스템</td>
-      <td><strong>40%</strong></td>
-      <td>내일 눌림목 추가 진입</td>
-      <td>갭하락 -5% 즉시 손절</td>
-    </tr>
-    <tr>
-      <td>KB금융</td>
-      <td><strong>50%</strong></td>
-      <td>시초가 상승 시 분할 매도</td>
-      <td>-2% 손절 엄수</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>오늘 시장이 강하게 올랐지만, 내일은 FOMC를 앞두고 변동성이 클 수 있습니다. <strong>손절 기준을 지키는 것이 가장 중요한 전략</strong>임을 명심하세요! 💪</p>
-
-<hr />
-
-<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
-
-<p>#종가배팅 #수급분석 #NextTheme #한온시스템 #KB금융 #주식투자 #전기차주 #은행주 #오늘의주식 #종목분석</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[📈 2026년 6월 15일(월) 오후 3시 05분 기준 분석]]></summary></entry></feed>
+<p>#종가배팅 #수급분석 #주식투자 #NextTheme #오늘주식 #시황브리핑 #일본금리 #한온시스템 #KB금융 #반도체주식</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[안녕하세요! 오늘 아침도 NextTheme 전략 브리핑으로 하루를 시작합니다. 🌅 간밤 미국 증시가 깜짝 급등했는데, 오늘 국내 시장은 어떻게 흘러갈까요?]]></summary></entry></feed>
