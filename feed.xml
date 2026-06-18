@@ -1,4 +1,122 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-18T16:32:13+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">무포지션 선언 — 코스닥 급락, NextTheme이 기둥을 찾지 못했습니다</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/18/nt2-1505-snapshot/" rel="alternate" type="text/html" title="무포지션 선언 — 코스닥 급락, NextTheme이 기둥을 찾지 못했습니다" /><published>2026-06-18T15:05:00+09:00</published><updated>2026-06-18T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/18/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/18/nt2-1505-snapshot/"><![CDATA[<p>📉 오늘 코스닥이 <strong>-3.01%</strong> 급락했습니다. 이런 날, 과감히 ‘오늘은 쉬자’를 선택하는 것도 투자 전략입니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-19T06:03:08+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">YELLOW — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/19/0600-briefing/" rel="alternate" type="text/html" title="YELLOW — 오늘 아침 시황" /><published>2026-06-19T06:00:00+09:00</published><updated>2026-06-19T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/19/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/19/0600-briefing/"><![CDATA[<p>🌅 코스피가 역사적인 <strong>9,000포인트</strong>를 돌파한 날, 여러분은 어떤 마음으로 아침을 맞이하셨나요? 큰 이벤트 뒤에는 항상 “지금 들어가도 될까?” 라는 의문이 따라오죠. 오늘은 그 질문에 함께 답해보려 합니다.</p>
+
+<hr />
+
+<h2 id="어젯밤-미국-시장은-어땠나요-">어젯밤 미국 시장은 어땠나요? 🌐</h2>
+
+<p>어젯밤 미국 시장은 반도체 소식에 힘입어 강하게 올랐습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>지수</th>
+      <th>등락</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>다우존스</td>
+      <td><strong>+0.14%</strong></td>
+    </tr>
+    <tr>
+      <td>S&amp;P 500</td>
+      <td><strong>+1.08%</strong></td>
+    </tr>
+    <tr>
+      <td>나스닥</td>
+      <td><strong>+1.91%</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>특히 인텔과 애플이 반도체 분야에서 협력한다는 소식이 전해지면서, 반도체 관련 기업들을 모아놓은 <strong>필라델피아 반도체 지수가 +6.42%</strong> 급등했습니다. 미국 반도체 훈풍이 오늘 국내 종목에도 이어질 가능성이 높습니다.</p>
+
+<hr />
+
+<h2 id="오늘의-베팅-등급은--yellow--신중하게">오늘의 베팅 등급은? 🟡 YELLOW — “신중하게”</h2>
+
+<p>NextTheme 알고리즘이 오늘 분위기를 <strong>YELLOW(주의)</strong> 등급으로 판단했습니다. 점수로는 <strong>20점</strong> 수준입니다 (100점 만점 기준, 50점 이상이 적극 진입 구간).</p>
+
+<h3 id="왜-yellow인가요">왜 YELLOW인가요?</h3>
+
+<p>코스피가 사상 처음으로 <strong>9,000포인트</strong>를 돌파한 건 분명 역사적인 순간입니다. 외국인 큰 투자자들이 하루에만 <strong>1조 2,000억 원</strong>을 사들였습니다. 그런데 문제는 쏠림 현상입니다.</p>
+
+<ul>
+  <li>🔴 코스닥은 같은 날 <strong>-3%</strong> 급락 — 중소형주가 동시에 빠진다는 건 자금이 대형 반도체주에만 몰렸다는 뜻</li>
+  <li>🔴 원화 가치도 <strong>+11.5원</strong> 약세 — 외국 자금이 들어오는데 환율이 오른다면 주의 신호</li>
+  <li>⚠️ 워시 연준 의장이 금리를 다시 올릴 수 있다고 발언 — 금리 인상은 주식 시장에 부담</li>
+</ul>
+
+<p>AI 전략 요약: <strong>반도체 대표주 중심으로 자금의 70% 이하만 분할해서 진입</strong>하고, 한 번에 몰빵은 피하세요.</p>
+
+<hr />
+
+<h2 id="오늘-주목해야-할-뉴스-">오늘 주목해야 할 뉴스 📰</h2>
+
+<h3 id="️-긍정-신호">🕊️ 긍정 신호</h3>
+
+<ul>
+  <li><strong>미국-이란 종전 MOU</strong> 체결 소식 + <strong>호르무즈 해협 개방</strong>으로 유가 하락 중
+    <ul>
+      <li>유가가 내려가면 물류비·에너지 비용이 줄어 기업 실적에 긍정적</li>
+    </ul>
+  </li>
+  <li><strong>인텔-애플 반도체 협력</strong> → 필라델피아 반도체 지수 <strong>+6.42%</strong> 급등
+    <ul>
+      <li>국내 반도체 부품·장비 기업들도 수혜 기대</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="️-주의-신호">⚠️ 주의 신호</h3>
+
+<ul>
+  <li><strong>워시 연준 의장 금리인상 시사</strong> — 미국이 금리를 올리면 달러 강세 → 원화 약세 → 외국인 자금 유출 우려</li>
+  <li><strong>코스닥 -3% 급락</strong> — 코스피 대비 중소형주 차별화 심화 중</li>
+</ul>
+
+<hr />
+
+<h2 id="오늘의-전략-정리-">오늘의 전략 정리 📋</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>진입 비중</td>
+      <td>보유 자금의 <strong>70% 이하</strong></td>
+    </tr>
+    <tr>
+      <td>집중 분야</td>
+      <td>반도체 대표 대형주</td>
+    </tr>
+    <tr>
+      <td>주의 종목</td>
+      <td>코스닥 중소형 테마주</td>
+    </tr>
+    <tr>
+      <td>리스크 대비</td>
+      <td>방어주(식품·유틸리티 등) 일부 병행</td>
+    </tr>
+    <tr>
+      <td>진입 방식</td>
+      <td>한 번에 사지 말고 <strong>나눠서 분할 매수</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>코스피 9,000 돌파는 분명 축제 분위기지만, 큰 상승 뒤에는 숨 고르기가 올 수 있습니다. 오늘 하루는 욕심보다 신중함이 정답입니다. 🧘</p>
+
+<hr />
+
+<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
+
+<p>#종가배팅 #수급분석 #주식투자 #NextTheme #오늘시황 #코스피9000 #반도체주식 #주식브리핑 #YELLOW등급 #금리인상리스크</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[🌅 코스피가 역사적인 9,000포인트를 돌파한 날, 여러분은 어떤 마음으로 아침을 맞이하셨나요? 큰 이벤트 뒤에는 항상 “지금 들어가도 될까?” 라는 의문이 따라오죠. 오늘은 그 질문에 함께 답해보려 합니다.]]></summary></entry><entry><title type="html">무포지션 선언 — 코스닥 급락, NextTheme이 기둥을 찾지 못했습니다</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/18/nt2-1505-snapshot/" rel="alternate" type="text/html" title="무포지션 선언 — 코스닥 급락, NextTheme이 기둥을 찾지 못했습니다" /><published>2026-06-18T15:05:00+09:00</published><updated>2026-06-18T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/18/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/18/nt2-1505-snapshot/"><![CDATA[<p>📉 오늘 코스닥이 <strong>-3.01%</strong> 급락했습니다. 이런 날, 과감히 ‘오늘은 쉬자’를 선택하는 것도 투자 전략입니다.</p>
 
 <hr />
 
@@ -2010,140 +2128,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가배팅 #복기일지 #20260615 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-06-16 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">RED — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/16/0600-briefing/" rel="alternate" type="text/html" title="RED — 오늘 아침 시황" /><published>2026-06-16T06:00:00+09:00</published><updated>2026-06-16T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/16/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/16/0600-briefing/"><![CDATA[<p>안녕하세요! 오늘 아침도 NextTheme 전략 브리핑으로 하루를 시작합니다. 🌅
-간밤 미국 증시가 깜짝 급등했는데, 오늘 국내 시장은 어떻게 흘러갈까요?</p>
-
-<hr />
-
-<h2 id="-간밤-미국-시장-무슨-일이-있었나요">🌍 간밤 미국 시장, 무슨 일이 있었나요?</h2>
-
-<p>어젯밤 미국 주식시장이 크게 올랐습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>지수</th>
-      <th>변동</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>다우 존스</td>
-      <td><strong>+0.92%</strong></td>
-    </tr>
-    <tr>
-      <td>S&amp;P 500</td>
-      <td><strong>+1.65%</strong></td>
-    </tr>
-    <tr>
-      <td>나스닥</td>
-      <td><strong>+3.07%</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>특히 나스닥이 <strong>하루에 3%</strong> 넘게 오른 건 굉장히 큰 움직임이에요. 보통 나스닥이 이렇게 급등할 때는 “뭔가 큰 뉴스가 있었구나” 하고 의심해볼 만합니다.</p>
-
-<p>가장 핵심 이유는 <strong>미국-이란 종전(戰爭 끝) 합의</strong>였습니다. 전쟁이 끝나면 원유 공급이 늘어나 유가가 떨어지고, 기업 비용이 줄어드니 주식에 호재입니다. 실제로 간밤 국제 유가가 <strong>-4.13%</strong> 급락했고, 덕분에 물가 부담이 줄 거라는 기대감이 시장에 퍼졌어요. 반도체 관련 주식들은 무려 <strong>+5.45%</strong> 올랐습니다.</p>
-
-<hr />
-
-<h2 id="-오늘-배팅-등급은--red-주의">🎯 오늘 배팅 등급은? — RED (주의)</h2>
-
-<blockquote>
-  <table>
-    <tbody>
-      <tr>
-        <td><strong>오늘 등급: RED</strong></td>
-        <td>신중 지수: <strong>65점</strong> (100점 만점)</td>
-      </tr>
-    </tbody>
-  </table>
-</blockquote>
-
-<p>미국 시장이 좋았는데 왜 RED(주의) 등급일까요?</p>
-
-<p>바로 <strong>일본 중앙은행의 금리 결정(오늘 낮 12:00)</strong> 때문입니다.</p>
-
-<p>일본은 지금 금리를 <strong>0.75%에서 1.0%로 올릴 가능성</strong>이 높은 상황입니다. 금리를 올리면 일본 엔화 가치가 올라가면서, 외국인 큰 투자기관들이 국내 주식을 팔고 일본 쪽으로 자금을 옮길 수 있어요. 이런 이유로 오늘 오전장은 미국 호재에도 불구하고 불확실성이 높습니다.</p>
-
-<p><strong>NextTheme AI 전략 요약:</strong></p>
-
-<blockquote>
-  <p>미국 강세와 종전 랠리 분위기는 긍정적입니다. 하지만 일본 금리 발표(12:00) 결과를 먼저 확인하는 것이 중요합니다. <strong>기존에 보유 중인 주식은 전략 그대로 유지</strong>하고, <strong>새로 살 주식은 12:00 이후로 미루는 것</strong>을 권장합니다.</p>
-</blockquote>
-
-<hr />
-
-<h2 id="️-오늘-꼭-챙겨야-할-변수">⚠️ 오늘 꼭 챙겨야 할 변수</h2>
-
-<p><strong>기회 요인 🟢</strong></p>
-<ul>
-  <li>미국-이란 종전 합의 → 글로벌 위험자산 선호 분위기</li>
-  <li>유가 <strong>-4.13%</strong> 급락 → 인플레이션(물가 상승) 완화 기대</li>
-  <li>반도체 섹터 <strong>+5.45%</strong> 강세 → 국내 반도체주 반등 가능성</li>
-</ul>
-
-<p><strong>위험 요인 🔴</strong></p>
-<ul>
-  <li>일본 금리 결정(오전 12:00) → 결과에 따라 외국인 투자자 매매 방향 급변 가능</li>
-  <li>금리 인상 시 엔화 강세 → 외국인이 국내 주식 팔고 일본 자산으로 이동할 우려</li>
-  <li>발표 전후 30분간 변동성(가격 요동) 확대 주의</li>
-</ul>
-
-<hr />
-
-<h2 id="-어제-ai-선별-복기--오늘-어떻게-해야-할까요">📋 어제 AI 선별 복기 — 오늘 어떻게 해야 할까요?</h2>
-
-<p>어제 NextTheme이 선별한 종목들의 오늘 대응 방향을 정리했습니다.</p>
-
-<p><strong>전체 기조: 신중 관망</strong> — 어제 시장 흐름과 오늘 일본 금리 변수를 함께 고려한 전략입니다.</p>
-
-<hr />
-
-<h3 id="-한온시스템-018880--️-보유-중">🏢 한온시스템 (018880) — ⚠️ 보유 중</h3>
-
-<p>어제 <strong>5,660원</strong> 기준으로 종가 매수 전략을 제시했고, 실제로 매수한 종목입니다.</p>
-
-<p><strong>오늘 대응:</strong></p>
-<ul>
-  <li>시초가가 <strong>5,400원(-4%) 안쪽</strong>으로 살짝 낮게 시작하면 → 오전 9:00~10:30 사이 추가로 더 살 기회 탐색</li>
-  <li>시초가가 <strong>5,350원(-5%) 이하</strong>로 크게 낮게 시작하면 → 손실 확정(손절)</li>
-</ul>
-
-<blockquote>
-  <p>⚠️ <strong>주의</strong>: 일본 금리 발표(12:00) 전후로 가격이 갑자기 흔들릴 수 있습니다. 발표 전후 단기 급등락에 당황하지 마세요.</p>
-</blockquote>
-
-<hr />
-
-<h3 id="-kb금융-105560--지켜보기">🏦 KB금융 (105560) — 지켜보기</h3>
-
-<p>어제 <strong>170,000원</strong> 기준으로 제시됐으나, 실제 매수는 하지 않은 종목입니다.</p>
-
-<p><strong>오늘 대응:</strong></p>
-<ul>
-  <li>오늘 시초가가 어느 방향으로 출발하는지 먼저 확인</li>
-  <li>일본 금리 발표(12:00) 결과 보고 나서 행동 판단</li>
-</ul>
-
-<blockquote>
-  <p>⚠️ <strong>주의</strong>: 금리 인상 시 외국인 큰 투자기관들이 금융주를 팔 수 있어 영향 불확실. 12:00 이후 방향 확인 권장.</p>
-</blockquote>
-
-<hr />
-
-<h2 id="-오늘의-핵심-정리">💡 오늘의 핵심 정리</h2>
-
-<ol>
-  <li><strong>미국 증시는 종전 호재로 크게 올랐지만</strong>, 국내 시장은 일본 금리 변수가 오전 내내 발목을 잡을 수 있습니다.</li>
-  <li><strong>새 종목 매수는 오후 12:00 이후</strong>가 원칙 — 금리 발표 결과 확인 후 진입해도 늦지 않습니다.</li>
-  <li><strong>기존 보유 중인 분</strong>은 사전에 세운 전략(손절가·목표가)을 그대로 유지하세요. 흔들리지 않는 것이 핵심입니다.</li>
-  <li>오후 결과가 긍정적이라면(금리 동결 or 예상 내 인상), 반도체·방산 테마 중심으로 빠른 움직임이 나올 수 있습니다.</li>
-</ol>
-
-<hr />
-
-<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
-
-<p>#종가배팅 #수급분석 #주식투자 #NextTheme #오늘주식 #시황브리핑 #일본금리 #한온시스템 #KB금융 #반도체주식</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[안녕하세요! 오늘 아침도 NextTheme 전략 브리핑으로 하루를 시작합니다. 🌅 간밤 미국 증시가 깜짝 급등했는데, 오늘 국내 시장은 어떻게 흘러갈까요?]]></summary></entry></feed>
+<p>#종가배팅 #복기일지 #20260615 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-06-16 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
