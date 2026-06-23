@@ -1,4 +1,110 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-23T15:19:15+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">서킷브레이커 발동·무포지션</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/23/nt2-1505-snapshot/" rel="alternate" type="text/html" title="서킷브레이커 발동·무포지션" /><published>2026-06-23T15:05:00+09:00</published><updated>2026-06-23T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/23/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/23/nt2-1505-snapshot/"><![CDATA[<p>2026년 6월 23일 오후 3시 05분, 오늘 장 마감 직전 NextTheme 알고리즘이 최종 분석을 완료했습니다 📊</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-24T06:04:13+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">RED — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/24/0600-briefing/" rel="alternate" type="text/html" title="RED — 오늘 아침 시황" /><published>2026-06-24T06:00:00+09:00</published><updated>2026-06-24T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/24/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/24/0600-briefing/"><![CDATA[<hr />
+
+<p>📢 오늘 아침, 시장이 보내는 경고 신호를 절대 무시하면 안 됩니다.</p>
+
+<p>어제 코스피가 단 하루 만에 <strong>-9.99%</strong> 폭락하는 역사적인 하락을 기록했습니다. 이런 날일수록 공황에 휩쓸려 섣불리 행동하면 더 큰 손실로 이어질 수 있습니다. 오늘은 NextTheme AI가 분석한 아침 시황과 오늘 전략을 함께 정리해 드릴게요.</p>
+
+<hr />
+
+<h2 id="-어제-미국-증시는-어땠나요">🇺🇸 어제 미국 증시는 어땠나요?</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>지수</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>다우존스</td>
+      <td><strong>-0.09%</strong></td>
+    </tr>
+    <tr>
+      <td>S&amp;P500</td>
+      <td><strong>-1.44%</strong></td>
+    </tr>
+    <tr>
+      <td>나스닥</td>
+      <td><strong>-2.22%</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>숫자만 보면 미국은 그나마 선방한 것처럼 보이지만, 속을 들여다보면 상황이 심각합니다.</p>
+
+<p>AI·반도체 관련 미국 기업들이 평균 <strong>-7.87%</strong> 급락했습니다. 그동안 “AI가 세상을 바꾼다”는 기대감에 많이 올랐던 주가가 한꺼번에 조정받고 있는 것입니다. 투자자들의 불안감을 나타내는 “공포지수(VIX)”도 <strong>+12.79%</strong> 급등해, 시장 전체가 흔들리고 있음을 보여줍니다.</p>
+
+<hr />
+
+<h2 id="-오늘의-베팅-등급-red-위험--감정-점수-25100">🚨 오늘의 베팅 등급: RED (위험) — 감정 점수 25/100</h2>
+
+<p>NextTheme AI가 분석한 오늘의 베팅 등급은 <strong>RED</strong>, 시장 감정 점수는 <strong>25점</strong>으로 최악 수준에 가깝습니다.</p>
+
+<p>아래 악재들이 동시에 겹쳐 있기 때문입니다:</p>
+
+<ul>
+  <li>코스피 어제 <strong>-9.99%</strong> 폭락 (역대급 충격, 장중 서킷브레이커 발동 수준)</li>
+  <li>외국인 큰손들이 어제 하루에만 <strong>-5.9조원</strong> 어치를 팔아치움</li>
+  <li>달러 대비 원화 환율 <strong>1,533원</strong> 고착 → 외국인이 한국 주식을 팔아 달러로 바꾸기 유리한 환경 지속</li>
+  <li>오늘 밤 미국에서 중요 경제 지표 <strong>4개</strong> 발표 대기 (근원PCE·GDP·신규실업수당 등)</li>
+</ul>
+
+<p>📌 <strong>NextTheme 오늘의 전략: 기술적 반등이 와도 확인 전까지 관망</strong></p>
+
+<p>너무 많이 떨어졌기 때문에 오늘 잠깐 반등하는 시도는 있을 수 있습니다. 그러나 그것이 진짜 바닥인지 아닌지는 오늘 밤 미국 GDP·소비자물가 지표를 확인해야 알 수 있습니다. 확인 전까지 포지션을 최소화하는 것이 정답입니다.</p>
+
+<hr />
+
+<h2 id="️-오늘-꼭-주목해야-할-위험-요인들">⚠️ 오늘 꼭 주목해야 할 위험 요인들</h2>
+
+<p><strong>1. MSCI 선진국지수 편입 불발 📉</strong></p>
+
+<p>한국이 세계 주요 주가 지수(MSCI 선진국)에 편입되지 못했습니다. 이 지수에 편입되면 전 세계 펀드들이 자동으로 한국 주식을 사야 하는데, 이번에 또 탈락하면서 그 기대감이 완전히 사라졌습니다. 이건 단기 이슈가 아니라 앞으로 수개월간 외국인 매수를 막는 구조적 악재입니다.</p>
+
+<p><strong>2. 삼성전자·SK하이닉스 폭락 💥</strong></p>
+
+<p>우리나라 대표 반도체 기업 두 곳이 어제 각각 <strong>12%대</strong> 폭락했습니다. 이런 대형주가 하루에 12% 떨어지는 것은 매우 이례적인 일입니다. 2배 수익을 노리는 레버리지 ETF는 무려 <strong>25%</strong> 급락해 하루 만에 4분의 1 손실이 발생했습니다.</p>
+
+<p><strong>3. 마이크론 실적 발표 대기 🔍</strong></p>
+
+<p>미국 반도체 기업 마이크론의 실적이 곧 발표됩니다. 좋으면 반도체 반등 기대, 나쁘면 추가 하락 가능성이 있어 결과를 지켜봐야 합니다.</p>
+
+<p><strong>4. 국민연금 7월 추가 매도 압력 💸</strong></p>
+
+<p>국민연금이 7월부터 주식 비중 조정을 재개할 것으로 예고됐습니다. 국민연금은 국내 증시 최대 기관투자자 중 하나로, 이들이 주식을 팔면 추가 하락 압력이 생깁니다.</p>
+
+<p><strong>5. 환율 1,533원 고착 💱</strong></p>
+
+<p>원화 가치가 약해져 달러 강세가 계속되고 있습니다. 외국인 입장에서 한국 주식을 사면 환율 손해까지 볼 수 있어 매수 유인이 줄어듭니다.</p>
+
+<hr />
+
+<h2 id="-오늘-나는-어떻게-해야-할까요">📋 오늘 나는 어떻게 해야 할까요?</h2>
+
+<p>NextTheme이 제안하는 오늘 행동 지침입니다:</p>
+
+<p>✅ <strong>신규 매수 절대 자제</strong> — 지금은 사는 타이밍이 아닙니다<br />
+✅ <strong>관심 종목 목록 작성만</strong> — 실제 매수는 미국 지표 확인 후로 미루기<br />
+✅ <strong>오늘 밤 근원PCE·GDP 확인 후 내일 전략 수립</strong><br />
+❌ <strong>레버리지 상품(2배·3배 ETF) 절대 금지</strong> — 손실이 2~3배로 커질 수 있습니다<br />
+❌ <strong>폭락 종목 공황 매도도 자제</strong> — 이미 많이 빠졌다면 손절보다 관망이 나을 수 있음</p>
+
+<hr />
+
+<h2 id="-결론">💡 결론</h2>
+
+<p>어제 코스피가 역대급으로 폭락한 후 오늘 아침도 안심할 수 없는 상황입니다. 지금 가장 중요한 것은 <strong>“잃지 않는 것”</strong>입니다.</p>
+
+<p>반등이 와도 “이게 진짜 반등인가” 확인 후 들어가는 것이 현명합니다. NextTheme은 오늘 RED 등급으로 종가배팅 전략을 보류하며, 시장이 안정될 때까지 관망을 권장합니다.</p>
+
+<p>내일 아침 미국 지표 결과에 따라 시장 방향이 어느 정도 가려질 것입니다. 그때까지 무리한 포지션은 자제해 주세요.</p>
+
+<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
+
+<hr />
+
+<p>#종가배팅 #수급분석 #주식투자 #코스피폭락 #NextTheme #오늘주식시황 #RED등급 #주식초보 #한국주식 #증시브리핑</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">서킷브레이커 발동·무포지션</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/23/nt2-1505-snapshot/" rel="alternate" type="text/html" title="서킷브레이커 발동·무포지션" /><published>2026-06-23T15:05:00+09:00</published><updated>2026-06-23T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/23/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/23/nt2-1505-snapshot/"><![CDATA[<p>2026년 6월 23일 오후 3시 05분, 오늘 장 마감 직전 NextTheme 알고리즘이 최종 분석을 완료했습니다 📊</p>
 
 <hr />
 
@@ -1678,150 +1784,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <hr />
 
-<p>#종목분석 #대한전선 #수급분석 #NextTheme #001440 #종가배팅 #해상풍력 #HVDC #주식투자 #전선주분석</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[📅 분석 시점: 2026년 6월 20일 오전 11시 36분 종목코드: 001440]]></summary></entry><entry><title type="html">HD현대마린엔진(071970)을 심층 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/20/1046-detail-071970-detail/" rel="alternate" type="text/html" title="HD현대마린엔진(071970)을 심층 분석" /><published>2026-06-20T10:46:00+09:00</published><updated>2026-06-20T10:46:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/20/1046_detail_071970-detail</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/20/1046-detail-071970-detail/"><![CDATA[<blockquote>
-  <table>
-    <tbody>
-      <tr>
-        <td>분석 시각: 2026년 6월 20일 오전 10시 46분</td>
-        <td>종목코드: 071970</td>
-      </tr>
-    </tbody>
-  </table>
-</blockquote>
-
-<hr />
-
-<h2 id="-hd현대마린엔진-어떤-회사인가요">🚢 HD현대마린엔진, 어떤 회사인가요?</h2>
-
-<p>HD현대마린엔진은 선박용 대형 엔진을 만드는 회사입니다. 배가 움직이려면 엔진이 필요하죠 — 이 회사가 바로 그 핵심 부품을 공급합니다. 요즘 조선업이 다시 살아나면서 선박 발주가 늘고 있는데, 그 수혜를 직접 받는 부품 공급사입니다.</p>
-
-<p>오늘 아침 조회 기준으로 <strong>67,400원</strong> 수준에서 거래되고 있으며, 전날보다 <strong>-2.03%</strong> 하락 중입니다. 큰 수주 소식이 있음에도 주가가 빠지고 있어 “지금 사야 하나, 기다려야 하나” 고민이 생기는 시점입니다. 오늘 NextTheme 알고리즘이 이 종목을 어떻게 평가했는지 낱낱이 공개합니다.</p>
-
-<hr />
-
-<h2 id="-오늘-외국인기관은-이-종목을-어떻게-거래했을까">📊 오늘 외국인·기관은 이 종목을 어떻게 거래했을까?</h2>
-
-<p>현재 가격: <strong>67,400원</strong> (전일 대비 <strong>-2.03%</strong>)</p>
-
-<ul>
-  <li>외국인(해외 큰손): <strong>순매수</strong> (오늘 +7,991주 매수 우위) — <strong>2일 연속</strong> 사고 있습니다</li>
-  <li>큰 투자기관(기관): <strong>순매수</strong> (오늘 +170주 소량 매수) — 방금 1일 들어왔습니다</li>
-</ul>
-
-<h3 id="60일-수급-흐름에서-주목할-변곡점-2가지">60일 수급 흐름에서 주목할 변곡점 2가지</h3>
-
-<p>📈 <strong>4월 24일 대규모 매집</strong>: 외국인이 무려 <strong>428,949주</strong>를, 기관도 <strong>133,435주</strong>를 같은 날 동시에 사들였습니다. 이날 하루 외국인·기관이 함께 대규모로 쓸어담은 건 매우 이례적인 신호였습니다.</p>
-
-<p>📉 <strong>4월 말~6월 중순 외국인 이탈</strong>: 그 이후 4월 말부터 6월 초반까지 외국인이 꾸준히 주식을 팔았습니다. 약 2달 가까이 팔고 나서, 이제 막 다시 사기 시작한 것이 지금 상황입니다(6월 18일~19일 2일 연속 복귀).</p>
-
-<hr />
-
-<h2 id="-차트로-보는-이-종목의-위치">📈 차트로 보는 이 종목의 위치</h2>
-
-<ul>
-  <li><strong>단기(5일 이동평균)</strong>: 상승 흐름이었으나 최근 5일선을 밑으로 이탈 — 단기 조정 신호</li>
-  <li><strong>중기(주봉 기준)</strong>: 하락 흐름 — 주간 단위로 보면 아직 하락 추세 유지</li>
-  <li><strong>장기(월봉 기준)</strong>: 상승 흐름 ✅ — 큰 그림에서 우상향 기조는 살아 있습니다</li>
-</ul>
-
-<p><strong>정리하자면</strong>: 장기적으로는 좋은 방향이지만, 단기·중기에서는 아직 힘이 약합니다. 월봉(장기)과 주봉·일봉(단·중기)이 서로 다른 방향을 가리키고 있어, 지금 당장 타이밍이 좋다고 보기는 어렵습니다.</p>
-
-<hr />
-
-<h2 id="-호재-뉴스는-있는데-왜-주가는-빠질까">📰 호재 뉴스는 있는데, 왜 주가는 빠질까?</h2>
-
-<table>
-  <tbody>
-    <tr>
-      <td>**뉴스 신호: 호재 ✅</td>
-      <td>촉매 유형: 실적(수주)**</td>
-    </tr>
-  </tbody>
-</table>
-
-<p><strong>📌 핵심 뉴스 요약</strong>
-2주 사이에 두 건의 대형 선박엔진 공급계약이 연달아 터졌습니다:</p>
-<ul>
-  <li>1차 계약: <strong>280억원</strong> 규모</li>
-  <li>2차 계약: <strong>468억원</strong> 규모</li>
-  <li>합계: <strong>748억원</strong> — 이는 2025년 연간 매출(약 4,024억원)의 <strong>18.6%</strong>에 해당하는 엄청난 규모입니다</li>
-</ul>
-
-<p>삼성중공업, 우후조선소 같은 대형 고객사 두 곳에서 동시에 수주가 들어왔다는 점도 의미가 큽니다. 조선업 호황이 본격화되면서 엔진 수요가 늘어나고 있다는 신호로 볼 수 있습니다.</p>
-
-<p><strong>⚠️ 리스크 포인트</strong></p>
-<ul>
-  <li>계약 이행 기간이 <strong>2028년까지</strong>로 길어, 그 사이 조선 사이클이 꺾일 수 있습니다</li>
-  <li>주식선물 가격제한폭 확대 공시(6월 17일 상승, 6월 8·5일 하락)로 <strong>변동성이 높은 구간</strong>입니다</li>
-</ul>
-
-<blockquote>
-  <p>💡 “호재인데 왜 빠지나?”의 이유: 수주 뉴스는 2028년까지 서서히 매출로 반영됩니다. 시장은 이미 호재를 어느 정도 가격에 반영했고, 전체 시장이 약세(코스닥 -3.43%)인 날이라 단기 차익실현 매물이 나오는 것으로 보입니다.</p>
-</blockquote>
-
-<hr />
-
-<h2 id="-ai가-매긴-종합-등급은">🤖 AI가 매긴 종합 등급은?</h2>
-
-<p><strong>등급: ⭐ ONE_STAR (1성급)</strong>
-<strong>투자 분위기: 맑음☀️</strong></p>
-
-<p><strong>AI 종합 의견:</strong></p>
-<blockquote>
-  <p>“실적 호재(748억 수주)가 있지만, 주가는 5일선을 이탈하고 주봉 기준으로 하락 흐름입니다. 외국인이 2일 연속 사고 있지만 기관은 아직 소량(1일)입니다. 오늘 시장 전체도 약세(코스닥 -3.43%)입니다. 현재는 소량 진입 또는 관망을 권고합니다.”</p>
-</blockquote>
-
-<p><strong>✅ 행동 가이드:</strong></p>
-<blockquote>
-  <p>단기 수주 호재가 반영된 조정 구간에서 매수 검토. 2028년까지 수주 매출이 단계적으로 인식될 점을 감안해 보유하며 분기별 실적 공시를 추적하는 전략이 유효합니다.</p>
-</blockquote>
-
-<h3 id="실적-성장세가-놀랍습니다-">실적 성장세가 놀랍습니다 📊</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>연도</th>
-      <th>매출</th>
-      <th>영업이익</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>2023년</td>
-      <td>2,444억</td>
-      <td>184억</td>
-    </tr>
-    <tr>
-      <td>2024년</td>
-      <td>3,158억</td>
-      <td>332억</td>
-    </tr>
-    <tr>
-      <td>2025년</td>
-      <td>4,024억</td>
-      <td>759억</td>
-    </tr>
-    <tr>
-      <td><strong>2026년 예상</strong></td>
-      <td><strong>6,154억</strong></td>
-      <td><strong>1,515억</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>2023년 대비 2026년 매출이 <strong>2.5배</strong>, 영업이익이 <strong>8.2배</strong> 성장이 예상됩니다. 조선업 사이클 수혜가 숫자로 증명되고 있습니다.</p>
-
-<hr />
-
-<h2 id="-오늘의-결론">💬 오늘의 결론</h2>
-
-<p>HD현대마린엔진은 <strong>장기 성장 스토리는 탄탄</strong>하지만, 지금 당장 타이밍을 잡기엔 조금 이른 시점입니다. 수주 호재는 실재하고, 외국인도 2일째 다시 사고 있습니다. 하지만 주봉 하락 추세와 전체 시장 약세가 맞물려 있어 <strong>“조정이 더 오면 사자”</strong> 는 전략이 합리적입니다.</p>
-
-<p><strong>NextTheme 1성급(⭐) 평가</strong> — 관심 목록에 담아두고, 주봉이 반등 시그널을 보여줄 때 본격 진입을 고려해보세요.</p>
-
-<p>💬 이 종목 어떻게 보세요? 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
-
-<hr />
-
-<p>#종목분석 #HD현대마린엔진 #수급분석 #NextTheme #071970 #종가배팅 #조선주 #선박엔진 #수주호재 #주식투자</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[분석 시각: 2026년 6월 20일 오전 10시 46분 종목코드: 071970]]></summary></entry></feed>
+<p>#종목분석 #대한전선 #수급분석 #NextTheme #001440 #종가배팅 #해상풍력 #HVDC #주식투자 #전선주분석</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[📅 분석 시점: 2026년 6월 20일 오전 11시 36분 종목코드: 001440]]></summary></entry></feed>
