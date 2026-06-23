@@ -1,4 +1,87 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-23T10:03:37+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">6/22 종가배팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/23/review-20260622-review/" rel="alternate" type="text/html" title="6/22 종가배팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-06-23T09:00:00+09:00</published><updated>2026-06-23T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/23/review_20260622-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/23/review-20260622-review/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-23T15:19:15+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">서킷브레이커 발동·무포지션</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/23/nt2-1505-snapshot/" rel="alternate" type="text/html" title="서킷브레이커 발동·무포지션" /><published>2026-06-23T15:05:00+09:00</published><updated>2026-06-23T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/23/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/23/nt2-1505-snapshot/"><![CDATA[<p>2026년 6월 23일 오후 3시 05분, 오늘 장 마감 직전 NextTheme 알고리즘이 최종 분석을 완료했습니다 📊</p>
+
+<hr />
+
+<h2 id="오늘-시장-분위기는-">오늘 시장 분위기는? 😨</h2>
+
+<p>오늘 주식 시장에서는 역사에 남을 만한 일이 일어났습니다.</p>
+
+<p>코스피 지수가 하루 만에 <strong>8%</strong> 가까이 폭락하면서 <strong>서킷브레이커(Circuit Breaker)</strong> 가 발동됐습니다. 서킷브레이커란 주식 시장이 너무 빠르게 떨어질 때 모든 거래를 일시 중단하는 ‘비상 안전장치’입니다. 일반 투자자들도 갑작스러운 하락에 패닉 상태였고, 시장 자체가 제대로 돌아가지 않는 극단적인 상황이었습니다.</p>
+
+<p>거래 대금이 일부 대장주(휴대폰 카메라, 클라우드 관련)에만 집중되고, 나머지 종목들은 사실상 거래가 멈춘 것이나 다름없었습니다.</p>
+
+<hr />
+
+<h2 id="오늘-nexttheme가-선택한-종목은-">오늘 NextTheme가 선택한 종목은? 🤔</h2>
+
+<p>오늘은 <strong>선택된 종목이 없습니다.</strong></p>
+
+<p>이건 알고리즘이 멈춘 게 아닙니다. <strong>오히려 제대로 작동한 결과입니다.</strong></p>
+
+<p>NextTheme는 매일 장 마감 전 수백 개 종목을 분석하여 ‘내일 아침 시작가(시초가)가 오늘 종가보다 높게 출발할 가능성이 높은 종목’을 선별합니다. 그런데 오늘처럼 시장 전체가 공황 상태에 빠진 날에는, 어떤 종목도 그 조건을 충족하지 못했습니다.</p>
+
+<p>신뢰도 평가: <strong>LOW(낮음)</strong> — 시장 신뢰도 자체가 붕괴된 날</p>
+
+<hr />
+
+<h2 id="왜-오늘-아무것도-선택하지-않았을까-">왜 오늘 아무것도 선택하지 않았을까? 🧠</h2>
+
+<p>종가배팅 전략의 핵심은 <strong>‘좋은 날 제대로 베팅하는 것’</strong> 입니다. 반대로 말하면, <strong>나쁜 날에는 아무것도 하지 않는 것이 최선</strong>입니다.</p>
+
+<p>오늘처럼 코스피가 <strong>-8%</strong> 폭락하고 서킷브레이커까지 발동된 날에는:</p>
+
+<ul>
+  <li>🚫 수급 분석 데이터 자체가 왜곡됨 (패닉 매도가 정상 수급을 덮어버림)</li>
+  <li>🚫 거래 대금이 소수 대장주에만 비정상적으로 몰림</li>
+  <li>🚫 내일 시초가 방향을 예측하기 불가능한 환경</li>
+</ul>
+
+<p>이런 상황에서 억지로 종목을 선택하면, 오히려 손실 확률이 높아집니다. NextTheme는 “오늘은 쉬어가는 날”이라고 판단했습니다.</p>
+
+<hr />
+
+<h2 id="내일-대응-전략은-">내일 대응 전략은? 📋</h2>
+
+<p>시장이 폭락한 다음 날, 반드시 조심해야 할 패턴이 있습니다.</p>
+
+<blockquote>
+  <p>⚠️ <strong>‘시초가만 오르고 장중에 밀리는’ 패턴 경고</strong></p>
+
+  <p>미국 주가지수 선물이 약세를 보이고 있는 상황입니다. 내일 아침 반등 시초가가 나온다고 해서 무작정 보유하면 안 됩니다. 장이 열리자마자 반등이 나오더라도 빠르게 매도하지 않으면, 갭(Gap·아침 상승분)이 사라져버릴 수 있습니다.</p>
+</blockquote>
+
+<p><strong>내일 핵심 원칙:</strong></p>
+<ul>
+  <li>시초가 반등이 나오면 <strong>즉시 매도 고려</strong></li>
+  <li>‘더 오르겠지’라는 기대로 보유하면 갭이 사라질 위험</li>
+  <li>오늘 공황 매도로 저가 진입한 물량도 빠른 이익실현 우선</li>
+</ul>
+
+<hr />
+
+<h2 id="nexttheme-알고리즘의-통찰-">NextTheme 알고리즘의 통찰 💡</h2>
+
+<p>오늘 무포지션 결정은 단순히 “종목이 없어서”가 아닙니다.</p>
+
+<p>종가배팅 전략이 8년간 쌓아온 핵심 원칙은 하나입니다: <strong>“시장이 명확한 방향을 보여줄 때만 베팅한다.”</strong></p>
+
+<p>서킷브레이커가 발동된 날, 시장이 우리에게 보내는 메시지는 명확합니다. “지금은 판단 불가 상태”라는 신호입니다. 이 신호를 무시하고 억지로 종목을 고르는 것은 전략이 아닌 도박입니다.</p>
+
+<p>NextTheme는 오늘처럼 극단적인 날을 피하고, 내일 또는 모레처럼 시장이 안정된 날 다시 좋은 기회를 찾아드립니다.</p>
+
+<hr />
+
+<h2 id="마무리--오늘은-쉬어가는-것도-전략입니다-️">마무리 — 오늘은 쉬어가는 것도 전략입니다 🛡️</h2>
+
+<p>폭락장에서 아무것도 안 한 게 답입니다. 수익보다 손실을 피하는 것이 먼저입니다.</p>
+
+<p>NextTheme는 매일 오후 3시 5분, 장 마감 직전 알고리즘 분석을 통해 내일 아침 가장 유리한 조건의 종목만을 선별합니다. 오늘처럼 시장이 혼란스러운 날은 과감하게 무포지션을 선언하고, 다음 기회를 기다립니다.</p>
+
+<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
+
+<hr />
+
+<p>#종가배팅 #수급분석 #주식투자 #NextTheme #서킷브레이커 #코스피폭락 #무포지션전략 #주식초보 #종목분석 #오늘주식</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[2026년 6월 23일 오후 3시 05분, 오늘 장 마감 직전 NextTheme 알고리즘이 최종 분석을 완료했습니다 📊]]></summary></entry><entry><title type="html">6/22 종가배팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/23/review-20260622-review/" rel="alternate" type="text/html" title="6/22 종가배팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-06-23T09:00:00+09:00</published><updated>2026-06-23T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/23/review_20260622-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/23/review-20260622-review/"><![CDATA[<blockquote>
   <p>데이터 기준: 2026-06-23 10:03 키움 ka10001 일괄 조회</p>
 </blockquote>
 
@@ -1741,157 +1824,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <hr />
 
-<p>#종목분석 #HD현대마린엔진 #수급분석 #NextTheme #071970 #종가배팅 #조선주 #선박엔진 #수주호재 #주식투자</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[분석 시각: 2026년 6월 20일 오전 10시 46분 종목코드: 071970]]></summary></entry><entry><title type="html">HJ중공업(097230)을 심층 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/20/1039-detail-097230-detail/" rel="alternate" type="text/html" title="HJ중공업(097230)을 심층 분석" /><published>2026-06-20T10:39:00+09:00</published><updated>2026-06-20T10:39:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/20/1039_detail_097230-detail</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/20/1039-detail-097230-detail/"><![CDATA[<h2 id="️-공항-건설-수주에-기관-14일-연속-매수까지--오늘-hj중공업을-주목하는-이유">🏗️ 공항 건설 수주에 기관 14일 연속 매수까지 — 오늘 HJ중공업을 주목하는 이유</h2>
-
-<p>안녕하세요! 2026년 6월 20일 오전 10시 39분, NextTheme 시스템이 HJ중공업(097230)을 심층 분석했습니다.</p>
-
-<p>HJ중공업은 조선·방산·건설을 아우르는 복합 중공업 기업입니다. 오늘 주가는 소폭 하락 중이지만, 큰 투자기관(기관)이 무려 <strong>14일째 연속으로 주식을 사들이고</strong> 있어 주목할 만한 상황입니다. 왜 기관은 조정 구간에서도 계속 살까요?</p>
-
-<hr />
-
-<h2 id="-현재-주가와-오늘의-매매-흐름--누가-사고-누가-팔고-있나요">📊 현재 주가와 오늘의 매매 흐름 — 누가 사고, 누가 팔고 있나요?</h2>
-
-<ul>
-  <li><strong>현재 주가: 22,300원</strong> (전일 대비 <strong>-3.67%</strong> 하락)</li>
-  <li><strong>오늘 외국인</strong>: 24,314주 순매도 (팔고 있음)</li>
-  <li><strong>오늘 기관</strong>: 76,840주 순매수 (사고 있음)</li>
-</ul>
-
-<p>오늘은 외국인이 팔고 기관이 사는 구도입니다. 특히 큰 투자기관(기관)은 <strong>6월 1일부터 오늘까지 14거래일 연속으로 단 하루도 쉬지 않고 매수를 이어가고</strong> 있습니다. 보통 며칠 사고 쉬는 패턴이 일반적인데, 이렇게 2주 넘게 연속으로 사들인다는 건 기관이 이 종목의 중장기 가치를 상당히 높이 보고 있다는 강한 신호입니다.</p>
-
-<h3 id="-최근-60일-수급-흐름에서-눈여겨볼-변화-2가지">🔍 최근 60일 수급 흐름에서 눈여겨볼 변화 2가지</h3>
-
-<p><strong>1️⃣ 4월 중순 — 외국인+기관 동반 폭발적 매수</strong>
-4월 14일 외국인이 <strong>995,816주를 대규모 순매수</strong>했고, 4월 22일에는 <strong>무려 1,681,156주</strong>를 쏟아붓듯 사들였습니다. 기관도 함께 매수하며 강한 상승 에너지가 집중됐던 구간입니다.</p>
-
-<p><strong>2️⃣ 5월 이후 — 외국인 이탈, 기관이 바통 이어받기</strong>
-5월부터 외국인이 빠져나갔지만, 6월 들어 기관이 매일 꾸준히 사들이며 수급 주도권을 넘겨받은 모습입니다. “스마트머니의 저점 축적 구간”으로 해석할 여지가 있습니다.</p>
-
-<hr />
-
-<h2 id="-차트로-보는-주가-위치--단기중기장기-어디에-있나요">📈 차트로 보는 주가 위치 — 단기·중기·장기 어디에 있나요?</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>기간</th>
-      <th>흐름</th>
-      <th>해석</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>일봉(단기)</td>
-      <td>상승 흐름이나 <strong>5일선 이탈 중</strong></td>
-      <td>단기 조정 구간</td>
-    </tr>
-    <tr>
-      <td>주봉(중기)</td>
-      <td>하락 흐름</td>
-      <td>중기 추세 아직 회복 전</td>
-    </tr>
-    <tr>
-      <td>월봉(장기)</td>
-      <td>상승 흐름</td>
-      <td>큰 그림에선 우상향</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>일봉과 월봉은 상승 방향이지만 주봉은 하락세라 <strong>방향이 엇갈리는(다이버전스)</strong> 상황입니다. 오늘 -3.67% 하락도 이 단기 조정의 연장선입니다. 주봉 추세가 돌아서는 시점을 확인하는 것이 핵심입니다.</p>
-
-<hr />
-
-<h2 id="-뉴스-분석--가덕도신공항-국책사업-참여">📰 뉴스 분석 — 가덕도신공항 국책사업 참여!</h2>
-
-<ul>
-  <li><strong>뉴스 신호</strong>: ☀️ 호재 (정책 촉매)</li>
-</ul>
-
-<p>HJ중공업이 <strong>가덕도신공항 부지조성 사업</strong> 수의계약자 컨소시엄의 주요 구성원으로 참여하게 됐습니다. 국토교통부가 직접 “차질 없는 수행”을 당부할 만큼, 국가 핵심 인프라 사업에 공식적으로 이름을 올린 셈입니다.</p>
-
-<p>⚠️ <strong>주의사항</strong>:</p>
-<ul>
-  <li><strong>6월 17일(3거래일 이내)에 투자판단 경고공시</strong>가 있었는데 구체 내용이 아직 확인되지 않았습니다. 직접 확인이 꼭 필요합니다.</li>
-  <li>건설·인프라 사업 특성상 공사비 상승, 수익성 악화 위험이 있습니다.</li>
-  <li>가덕도 사업은 정치 환경 변화에 따라 예산·일정이 바뀔 수 있습니다.</li>
-</ul>
-
-<hr />
-
-<h2 id="-ai-종합-판단--nexttheme의-결론은">🤖 AI 종합 판단 — NextTheme의 결론은?</h2>
-
-<p><strong>AI 등급: ★★ 2스타</strong> / <strong>투자 분위기: 맑음 ☀️</strong></p>
-
-<blockquote>
-  <p><em>“기관 14일 연속 매수와 흑자 전환, 가덕도 신공항 정책 호재로 60% 비중 진입 권고. 다만 주봉 하락세와 일봉 MA5 이탈로 단기 조정 주의.”</em></p>
-</blockquote>
-
-<h3 id="-실적도-확인해보세요--적자에서-흑자로">💡 실적도 확인해보세요 — 적자에서 흑자로!</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>연도</th>
-      <th>주당순이익(EPS)</th>
-      <th>연간 매출(억원)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>2023년</td>
-      <td><strong>-1,369원</strong> (적자)</td>
-      <td>21,621</td>
-    </tr>
-    <tr>
-      <td>2024년</td>
-      <td><strong>+64원</strong> (흑자 전환!)</td>
-      <td>18,860</td>
-    </tr>
-    <tr>
-      <td>2025년</td>
-      <td><strong>+605원</strong></td>
-      <td>19,997</td>
-    </tr>
-    <tr>
-      <td>2026년(전망)</td>
-      <td><strong>+1,739원</strong></td>
-      <td>25,040</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>2023년 적자에서 2024년 흑자로 전환, 2026년에는 주당순이익이 <strong>1,739원</strong>으로 크게 늘어날 전망입니다. 실적 성장이 수급을 뒷받침하고 있다는 점이 긍정적입니다.</p>
-
-<hr />
-
-<h2 id="-실전-대응-가이드">✅ 실전 대응 가이드</h2>
-
-<blockquote>
-  <p><strong>가덕도신공항 계약 내용과 투자판단 경고공시 전문을 먼저 확인한 후 포지션을 결정하세요. 단기는 정책 리스크를 주시하고, 중기는 수주가 실제 매출로 이어지는 시점에 주목하세요.</strong></p>
-</blockquote>
-
-<table>
-  <thead>
-    <tr>
-      <th>구분</th>
-      <th>내용</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>✅ 긍정</td>
-      <td>기관 14일 연속 매수 · 실적 흑자 전환 · 가덕도 국책사업 참여</td>
-    </tr>
-    <tr>
-      <td>⚠️ 주의</td>
-      <td>주봉 하락 추세 미회복 · 오늘 단기 조정(-3.67%) · 투자경고공시 내용 미확인</td>
-    </tr>
-  </tbody>
-</table>
-
-<hr />
-
-<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
-
-<p>#종목분석 #HJ중공업 #수급분석 #NextTheme #097230 #종가배팅 #가덕도신공항 #기관연속매수 #주식투자 #건설주분석 #중공업주</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[🏗️ 공항 건설 수주에 기관 14일 연속 매수까지 — 오늘 HJ중공업을 주목하는 이유]]></summary></entry></feed>
+<p>#종목분석 #HD현대마린엔진 #수급분석 #NextTheme #071970 #종가배팅 #조선주 #선박엔진 #수주호재 #주식투자</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[분석 시각: 2026년 6월 20일 오전 10시 46분 종목코드: 071970]]></summary></entry></feed>
