@@ -1,4 +1,136 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-24T10:03:31+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">6/23 종가배팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/24/review-20260623-review/" rel="alternate" type="text/html" title="6/23 종가배팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-06-24T09:00:00+09:00</published><updated>2026-06-24T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/24/review_20260623-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/24/review-20260623-review/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-24T15:11:39+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">대한항공 외</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/24/nt2-1505-snapshot/" rel="alternate" type="text/html" title="대한항공 외" /><published>2026-06-24T15:05:00+09:00</published><updated>2026-06-24T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/24/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/24/nt2-1505-snapshot/"><![CDATA[<p>안녕하세요! 오늘 장(2026년 6월 24일)은 한마디로 <strong>“반도체는 뜨거웠는데, 미국이 찬물을 끼얹은 날”</strong>이었습니다. 📉</p>
+
+<p>반도체 관련 종목에 시장 거래대금이 압도적으로 몰렸지만, 간밤 미국에서 반도체 주가가 크게 빠지면서 내일 아침 시초가 이후 흐름을 조심해야 하는 하루였어요. NextTheme 알고리즘이 오늘 오후 3시 5분 기준으로 2개 종목을 최종 선별했습니다.</p>
+
+<hr />
+
+<h2 id="-오늘-시장은-어떠했나요">📊 오늘 시장은 어떠했나요?</h2>
+
+<p>오늘 국내 시장에서는 반도체 테마에 매매 금액(거래대금)이 압도적으로 집중됐습니다. 쉽게 말하면 “오늘 투자자들이 가장 많이 사고 판 종목은 반도체 관련주”였다는 뜻이에요.</p>
+
+<p>그런데 문제가 생겼어요. 전날 밤 미국 주식시장에서 반도체 관련 주가들이 크게 하락했거든요. 미국 시장의 흐름은 다음 날 한국 시장 개장(오전 9시)에 영향을 주기 때문에, 오늘 좋은 자리에서 종가에 산 종목이라도 내일 아침에 가격이 떨어진 채로 시작할 수 있어요.</p>
+
+<blockquote>
+  <p>⚠️ <strong>주의할 시나리오</strong>: 미국 반도체 지수가 추가로 하락하면, 내일 아침 반도체 대형주들이 낮은 가격에서 출발(갭하락)할 수 있어요. 이 경우 손실이 <strong>-2%</strong> 수준을 넘으면 빠르게 매도하는 원칙을 지키는 것이 중요합니다.</p>
+</blockquote>
+
+<p>오늘 NextTheme 알고리즘의 <strong>신뢰도는 MEDIUM(중간)</strong>입니다. 반도체 수급은 강했지만 미국發 변동성 리스크가 있어서 자신감이 100%가 아닌 상황이에요.</p>
+
+<hr />
+
+<h2 id="-오늘-왜-이-종목들이-선택됐을까요">🔍 오늘 왜 이 종목들이 선택됐을까요?</h2>
+
+<p>NextTheme가 오늘 선별한 종목은 <strong>대한항공</strong>과 <strong>삼성전자</strong> 2개입니다. 반도체가 아닌 항공주가 들어간 게 의외죠? 이유를 하나씩 살펴볼게요.</p>
+
+<hr />
+
+<h3 id="️-1위-대한항공-003490">✈️ 1위: 대한항공 (003490)</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>항목</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>알고리즘 점수</td>
+      <td><strong>39점</strong></td>
+    </tr>
+    <tr>
+      <td>자금 비중</td>
+      <td><strong>52.3%</strong> (오늘 선별 종목 중 1위)</td>
+    </tr>
+    <tr>
+      <td>진입 가격</td>
+      <td><strong>27,250원</strong></td>
+    </tr>
+    <tr>
+      <td>전략</td>
+      <td>내일 아침 갭상승 노리기 (GAP TRADE)</td>
+    </tr>
+    <tr>
+      <td>신뢰도</td>
+      <td>MEDIUM</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>대한항공은 오늘 <strong>항공 테마를 이끄는 대장주</strong> 역할을 했어요. 쉽게 말하면, 항공 관련 주식들 중에서 제일 주목을 많이 받은 종목이라는 뜻입니다.</p>
+
+<p>큰 투자기관(기관 투자자)과 해외 투자자(외국인)가 오늘 함께 대한항공 주식을 매수했고, 오후까지 거래금액도 꾸준히 유지됐어요. 15분 단위 주가 흐름을 봐도 한 번 눌린 이후 다시 반등하는 모습이라, <strong>내일 아침 주가가 더 높은 자리에서 시작(갭상승)할 가능성</strong>이 있다고 판단된 거예요.</p>
+
+<hr />
+
+<h3 id="-2위-삼성전자-005930">💾 2위: 삼성전자 (005930)</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>항목</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>알고리즘 점수</td>
+      <td><strong>31점</strong></td>
+    </tr>
+    <tr>
+      <td>자금 비중</td>
+      <td><strong>47.7%</strong></td>
+    </tr>
+    <tr>
+      <td>진입 가격</td>
+      <td><strong>337,000원</strong></td>
+    </tr>
+    <tr>
+      <td>전략</td>
+      <td>내일 아침 갭상승 노리기 (GAP TRADE)</td>
+    </tr>
+    <tr>
+      <td>신뢰도</td>
+      <td>MEDIUM</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>삼성전자는 오늘 국내 주식시장 전체에서 <strong>가장 많은 돈이 거래된 종목</strong>이었어요. 큰 투자기관들이 삼성전자를 무려 <strong>300만 주 넘게 순매수</strong>(파는 것보다 사는 게 훨씬 많음)했습니다. 그것도 한 번 주가가 눌린 뒤 다시 올라오는 흐름에서요.</p>
+
+<p>반도체 대표 종목인 만큼 내일 아침 관심이 집중될 수 있지만, 앞서 말한 것처럼 미국 반도체 시장 흐름에 민감하게 반응할 수 있다는 점을 꼭 기억해주세요.</p>
+
+<hr />
+
+<h2 id="-nexttheme-알고리즘이-이-종목들을-고른-이유">🤖 NextTheme 알고리즘이 이 종목들을 고른 이유</h2>
+
+<p>NextTheme는 단순히 “많이 오른 종목”이나 “유명한 종목”을 고르지 않아요. 다음 세 가지를 동시에 확인합니다.</p>
+
+<ol>
+  <li><strong>기관 투자자와 외국인이 함께 사고 있는가?</strong> — 대형 자금이 함께 움직이면 신뢰도가 높아집니다.</li>
+  <li><strong>오후 늦게까지 거래금액이 유지되고 있는가?</strong> — 장이 끝날 때까지 관심이 유지돼야 내일 아침 강세로 이어질 가능성이 높아요.</li>
+  <li><strong>주가 흐름이 눌린 뒤 다시 올라오는 패턴인가?</strong> — 이 패턴이 나타나면 다음 날 아침 추격 매수가 들어올 확률이 올라갑니다.</li>
+</ol>
+
+<p>오늘 대한항공과 삼성전자는 이 세 조건을 모두 충족했기 때문에 최종 선별된 것이랍니다. 🎯</p>
+
+<hr />
+
+<h2 id="-오늘의-전략-정리">📌 오늘의 전략 정리</h2>
+
+<ul>
+  <li><strong>대한항공</strong>: 항공 테마 대장주, 기관+외국인 동반 매수. 내일 아침 시초가 강세 기대.</li>
+  <li><strong>삼성전자</strong>: 시장 최대 거래대금 + 기관 대량 매수. 단, 미국 반도체 흐름 확인 필수.</li>
+  <li><strong>공통 주의사항</strong>: 미국 시장이 추가로 나빠지면 내일 아침 <strong>갭하락</strong>(낮게 시작)할 수 있어요. 이 경우 <strong>-2%에서 손절</strong> 원칙을 꼭 지키세요.</li>
+</ul>
+
+<p>오늘 분석은 투자 권유가 아닌 NextTheme 알고리즘 결과 공유입니다. 투자 결정은 본인의 판단과 책임 하에 진행해 주세요! 😊</p>
+
+<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
+
+<hr />
+
+<p>#종가배팅 #수급분석 #NextTheme #대한항공 #삼성전자 #주식투자 #반도체주식 #항공주 #오늘주식 #종목추천</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[안녕하세요! 오늘 장(2026년 6월 24일)은 한마디로 “반도체는 뜨거웠는데, 미국이 찬물을 끼얹은 날”이었습니다. 📉]]></summary></entry><entry><title type="html">6/23 종가배팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/24/review-20260623-review/" rel="alternate" type="text/html" title="6/23 종가배팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-06-24T09:00:00+09:00</published><updated>2026-06-24T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/24/review_20260623-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/24/review-20260623-review/"><![CDATA[<blockquote>
   <p>데이터 기준: 2026-06-24 10:03 키움 ka10001 일괄 조회</p>
 </blockquote>
 
@@ -1944,115 +2076,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <hr />
 
-<p>#종가배팅 #주간시장리뷰 #수급분석 #NextTheme #주식투자 #2026W25 #코스피 #반도체 #HBM #주식전략</p>]]></content><author><name>NextTheme</name></author><category term="weekly" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">YELLOW — 월요일 개장 핵심 변수</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/21/weekend/" rel="alternate" type="text/html" title="YELLOW — 월요일 개장 핵심 변수" /><published>2026-06-21T06:00:00+09:00</published><updated>2026-06-21T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/21/weekend</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/21/weekend/"><![CDATA[<table>
-  <tbody>
-    <tr>
-      <td>2026년 6월 21일</td>
-      <td>NextTheme 종가배팅 시스템</td>
-    </tr>
-  </tbody>
-</table>
-
-<hr />
-
-<p>내일 월요일 개장, 어떻게 준비하셨나요? 🌅</p>
-
-<p>이번 주말은 국내 증시가 코스피 9000선을 돌파하는 역사적인 순간이 있었던 만큼, 월요일 시장 흐름에 많은 투자자들이 주목하고 있을 것 같습니다. NextTheme 시스템이 오늘 새벽 분석한 내용을 함께 살펴봐요.</p>
-
-<hr />
-
-<h2 id="미국-시장은-어떻게-마감됐나요-">미국 시장은 어떻게 마감됐나요? 🇺🇸</h2>
-
-<p>미국 증시는 전반적으로 강세로 마감했습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>지수</th>
-      <th>등락</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>다우존스</td>
-      <td><strong>+0.14%</strong></td>
-    </tr>
-    <tr>
-      <td>S&amp;P500</td>
-      <td><strong>+1.08%</strong></td>
-    </tr>
-    <tr>
-      <td>나스닥</td>
-      <td><strong>+1.91%</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>특히 반도체 관련 주식들을 모아놓은 ‘필라델피아 반도체 지수’가 <strong>+6.42%</strong> 급등했습니다. 이건 정말 큰 움직임이에요. AI 반도체에 대한 수요가 폭발적으로 늘고 있는 게 수치로 확인된 셈입니다.</p>
-
-<p>다만 원/달러 환율이 <strong>1,520원대</strong>까지 올라간 점은 부담 요인입니다. 이 정도면 외환위기 이후 가장 높은 수준이라, 외국인 투자자들이 국내 주식을 팔아 달러로 바꿀 가능성도 염두에 두어야 합니다.</p>
-
-<hr />
-
-<h2 id="오늘의-베팅-등급은-">오늘의 베팅 등급은? 📊</h2>
-
-<p><strong>🟡 YELLOW — 심리 점수 65점 (100점 만점)</strong></p>
-
-<p>YELLOW 등급은 “선별적으로 진입하되, 무리하지 말자”는 의미입니다. 모든 종목을 공격적으로 사기엔 변수가 많지만, 잘 고른 종목이라면 충분히 기회가 있는 상황이에요.</p>
-
-<p><strong>NextTheme 전략 요약:</strong></p>
-<ul>
-  <li>반도체 대형주 중심으로 쏠림 현상이 심화되고 있어, 이 흐름에 올라탈 종목 위주로 선별</li>
-  <li>전자부품 ‘MLCC(적층세라믹콘덴서)’ 품귀 현상으로 관련 기업 수급이 강해지는 신호 포착</li>
-  <li>환율 <strong>1,520원대</strong>와 코스닥 <strong>-3.43%</strong> 약세를 경계하며 중소형주는 신중하게</li>
-</ul>
-
-<p><strong>대응 방침:</strong> 반도체 대형주의 모멘텀(상승 흐름)은 계속 지켜보세요. 환율과 금리가 변수가 될 수 있으므로, 중소형주가 약해지면 보유 물량을 나눠서 파는 걸 고려하세요. 코스닥은 <strong>-3.43%</strong> 낙폭이 나온 만큼 개별 종목 리스크 관리를 강화하세요.</p>
-
-<hr />
-
-<h2 id="이번-주-주목할-섹터는-">이번 주 주목할 섹터는? 🔍</h2>
-
-<h3 id="-반도체--지금-가장-핫한-섹터">🔵 반도체 — 지금 가장 핫한 섹터</h3>
-<p>미국 필라델피아 반도체 지수가 <strong>+6.42%</strong> 뛰었습니다. MLCC(스마트폰·전기차·AI 서버에 들어가는 핵심 부품)가 구하기 어려워지면서 관련 기업들로 투자 자금이 몰리고 있어요. 삼성전자, SK하이닉스에 큰 투자기관과 외국인 자금이 집중되는 흐름이 이어지고 있습니다.</p>
-
-<h3 id="-2차전지--ai가-밀어주는-상승세">🟢 2차전지 — AI가 밀어주는 상승세</h3>
-<p>국내 2차전지 관련 주식이 <strong>+2.13%</strong> 올랐습니다. 전 세계적으로 AI 인프라(데이터센터, 서버 등)를 짓는 데 전력이 엄청나게 필요해지면서, 배터리와 에너지 저장 관련 수요가 함께 커지고 있어요.</p>
-
-<h3 id="-건설--원전ai-데이터센터-수혜">🟡 건설 — 원전·AI 데이터센터 수혜</h3>
-<p>원전(원자력발전), SMR(소형모듈원전), AI 데이터센터 건설 발주가 현실화되면서 건설주에도 관심이 모이고 있습니다. 증권사들도 반등 가능성을 분석하고 있는 섹터입니다.</p>
-
-<hr />
-
-<h2 id="월요일-개장-이것이-변수입니다-">월요일 개장, 이것이 변수입니다 📅</h2>
-
-<p><strong>월요일 예상 흐름:</strong></p>
-
-<p>미국 반도체 강세(<strong>+6.42%</strong>) 영향으로 삼성전자·SK하이닉스 같은 반도체 대형주가 갭 상승(전날보다 높게 시작)할 가능성이 높습니다.</p>
-
-<p><strong>주요 변수:</strong></p>
-<ol>
-  <li><strong>환율 1,533원</strong> — 달러 강세가 계속된다면 외국인이 파는 압력이 생길 수 있어요</li>
-  <li><strong>코스닥 약세 분화</strong> — 대형주는 오르고 중소형주는 약한 ‘양극화’가 지속될지 지켜봐야 합니다</li>
-</ol>
-
-<p><strong>보유 중인 종목 대응:</strong></p>
-<ul>
-  <li>중소형주가 약해지면 → 분할 청산(나눠서 팔기) 검토</li>
-  <li>코스닥 낙폭이 더 커지면 → 미리 정해둔 손절 기준 지키기</li>
-  <li>반도체 대형주는 → 갭 상승 확인 후 익절(수익 실현) 타이밍 포착</li>
-</ul>
-
-<hr />
-
-<h2 id="정리-">정리 💡</h2>
-
-<p>이번 주말의 핵심은 <strong>“반도체 대형주 집중, 중소형주 신중”</strong> 입니다. 미국에서 반도체 강세 신호가 강하게 나왔으니 월요일 관련주 갭 상승을 기대할 수 있지만, 환율 부담과 코스닥 약세는 여전히 경계해야 할 변수입니다.</p>
-
-<p>무리하게 전 종목을 쫓기보다, NextTheme 시스템이 선별해주는 종목 중 조건이 잘 맞는 것만 선택하는 전략이 이 YELLOW 등급에서 가장 안전합니다.</p>
-
-<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
-
-<hr />
-
-<p>#종가배팅 #수급분석 #주식투자 #NextTheme #반도체주 #코스피9000 #주말브리핑 #월요일시장 #삼성전자 #SK하이닉스</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[2026년 6월 21일 NextTheme 종가배팅 시스템]]></summary></entry></feed>
+<p>#종가배팅 #주간시장리뷰 #수급분석 #NextTheme #주식투자 #2026W25 #코스피 #반도체 #HBM #주식전략</p>]]></content><author><name>NextTheme</name></author><category term="weekly" /><summary type="html"><![CDATA[]]></summary></entry></feed>
