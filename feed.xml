@@ -1,4 +1,86 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-26T15:10:41+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">서킷브레이커 발동</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/26/nt2-1505-snapshot/" rel="alternate" type="text/html" title="서킷브레이커 발동" /><published>2026-06-26T15:05:00+09:00</published><updated>2026-06-26T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/26/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/26/nt2-1505-snapshot/"><![CDATA[<table>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-27T06:03:25+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">YELLOW — 한 주 회고와 다음 주 준비</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/27/weekend/" rel="alternate" type="text/html" title="YELLOW — 한 주 회고와 다음 주 준비" /><published>2026-06-27T06:00:00+09:00</published><updated>2026-06-27T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/27/weekend</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/27/weekend/"><![CDATA[<p>안녕하세요, NextTheme입니다. 😊
+드디어 한 주가 끝났습니다. 이번 주는 정말 쉽지 않은 한 주였죠. 서킷브레이커가 두 번이나 발동될 만큼 극심한 변동성을 경험하신 분들, 많이 놀라셨을 텐데요. 오늘은 지난 한 주를 차분히 돌아보고, 다음 주를 어떻게 준비해야 할지 함께 이야기해 볼게요. ☕</p>
+
+<hr />
+
+<h2 id="-간밤-미국-시장은-어땠을까요">🌙 간밤 미국 시장은 어땠을까요?</h2>
+
+<p>간밤 미국 증시는 소폭 하락하며 마감했습니다.</p>
+
+<ul>
+  <li>다우존스: <strong>-0.09%</strong></li>
+  <li>S&amp;P500: <strong>-0.05%</strong></li>
+  <li>나스닥: <strong>-0.24%</strong></li>
+</ul>
+
+<p>큰 폭의 하락은 아니었지만, 마이크론이 깜짝 실적을 발표했음에도 나스닥이 5일 연속 하락했다는 점이 눈에 띕니다. 반도체 기업의 실적이 좋은데도 주가가 내려가는 건, 투자자들이 “이미 많이 올랐으니 일단 팔고 보자”는 심리가 작동하고 있다는 신호입니다.</p>
+
+<p>또한 씨티그룹이 기술주에 대한 투자의견을 낮췄고, 미국 중앙은행(연준) 인사인 카시카리가 금리를 더 올릴 수 있다고 발언하면서 시장에 찬물을 끼얹었습니다. 반면 금 가격은 <strong>4,089달러</strong>까지 급등했고, 국제 유가(WTI)는 <strong>70달러 아래</strong>로 내려왔습니다.</p>
+
+<hr />
+
+<h2 id="-이번-주-베팅-등급은-yellow--신중하게">📊 이번 주 베팅 등급은? YELLOW — 신중하게</h2>
+
+<p>NextTheme이 분석한 이번 주 시장 심리 점수는 <strong>50점(100점 만점)</strong>, 등급은 <strong>YELLOW(주의)</strong> 입니다.</p>
+
+<p>YELLOW 등급은 “완전히 나쁘진 않지만, 선뜻 들어가기엔 불안한 상태”라고 보시면 됩니다. 실제로 이번 주 코스피는 <strong>23일에 -9.99%, 26일에 -5.81%</strong> 하락하며 두 차례나 서킷브레이커(급락 시 거래를 잠시 멈추는 제도)가 발동됐습니다.</p>
+
+<p>서킷브레이커가 한 주에 두 번 발동된 건 매우 이례적인 사건입니다. 외국인 큰 투자기관들(외국인)이 6월 한 달에만 무려 <strong>47조 원어치</strong>를 팔아치웠고, 반도체·레버리지 ETF(지수 상승폭을 2~3배로 추종하는 펀드)에 투자자들이 몰리면서 작은 악재에도 급락이 증폭되는 구조가 만들어진 것입니다.</p>
+
+<p><strong>NextTheme 전략</strong>: 차주는 방향성(올라가냐 내려가냐)을 예측하려 하기보다는 <strong>변동성 대응</strong>에 집중하는 게 핵심입니다.</p>
+
+<p><strong>실천 지침 4가지</strong>:</p>
+<ul>
+  <li>① 지수가 급락해도 무리하게 추가 매수(물타기) 하지 않기</li>
+  <li>② 반도체 대형주 레버리지 거래는 자제</li>
+  <li>③ 외국인이 하루 순매수로 전환하는지 관찰</li>
+  <li>④ 월말 리밸런싱(기관들의 월말 포트폴리오 조정)이 끝난 후 수급 안정 여부 확인</li>
+</ul>
+
+<hr />
+
+<h2 id="-다음-주-주목할-섹터는">🔍 다음 주 주목할 섹터는?</h2>
+
+<h3 id="1-반도체-️">1. 반도체 🖥️</h3>
+<p>5월 수출 통계에서 반도체가 무려 <strong>+169%</strong> 성장했습니다. D램은 <strong>+369%</strong>, 낸드는 <strong>+206%</strong>로 폭발적인 성장세입니다. AI 서버용 반도체 수요가 계속 늘고 있기 때문인데요.</p>
+
+<p>다만 레버리지 ETF의 과열이 진정될 때까지는 무리한 진입을 자제하고, 필라델피아 반도체 지수(미국 반도체 종목들의 대표 지수)가 안정을 찾은 후 접근하는 게 좋습니다.</p>
+
+<h3 id="2-화장품-">2. 화장품 💄</h3>
+<p>K-뷰티의 인기는 계속됩니다. 5월 화장품 수출이 <strong>+24.2%</strong> 성장하며 역대 5월 최대치를 기록했습니다. 외국인 관광객들의 백화점 소비도 회복되면서 신세계 같은 유통주도 목표가가 올라가고 있습니다.</p>
+
+<h3 id="3-비철금속-">3. 비철금속 ⚡</h3>
+<p>구리·알루미늄 수출이 <strong>+41.5%</strong> 성장했습니다. AI 데이터센터를 짓고 전기 인프라를 늘리는 데 필요한 금속 수요가 급증하고 있어서입니다. 금 가격이 <strong>4,089달러</strong>까지 치솟으면서 관련 종목도 주목받고 있습니다.</p>
+
+<hr />
+
+<h2 id="-다음-주-핵심-변수--월요일-개장-전-체크리스트">📅 다음 주 핵심 변수 — 월요일 개장 전 체크리스트</h2>
+
+<p><strong>월요일 시장 예상</strong>: 반도체 기업들의 실적은 탄탄하지만, 외국인 매도세가 계속되고 기술적으로 많이 오른 데 대한 부담감이 남아 있습니다. 필라델피아 반도체 지수가 <strong>-5.29%</strong> 하락한 영향으로 삼성전자·SK하이닉스의 추가 조정 가능성이 있습니다.</p>
+
+<p>긍정적인 부분은 달러 대비 원화 환율이 <strong>1,535원대</strong>에서 안정되고 있다는 점입니다. 단기적으로 코스피는 <strong>8,200~8,600선</strong> 사이에서 등락할 것으로 예상됩니다.</p>
+
+<p><strong>보유 종목 대응 전략</strong> (손실 관리 최우선):</p>
+<ul>
+  <li>보유 종목은 <strong>-3% 손절선</strong> 반드시 지키기</li>
+  <li>수익이 <strong>+5%</strong> 에 도달하면 절반 익절로 선제 대응</li>
+  <li>반도체 대형주는 레버리지 ETF 변동성 주의</li>
+  <li>분할 매도로 리스크 분산</li>
+</ul>
+
+<hr />
+
+<h2 id="-마치며">💬 마치며</h2>
+
+<p>이번 주 서킷브레이커 두 번은 정말 무서운 경험이었습니다. 하지만 5월 수출 <strong>877억 달러(역대 최대)</strong> 라는 실물 경제 지표는 여전히 탄탄합니다. 지금은 무리하게 승부를 걸기보다 변동성이 진정되는 것을 확인하면서 선별적으로 접근하는 것이 현명합니다.</p>
+
+<p>다음 주도 NextTheme이 함께 시장을 분석해 드리겠습니다. 💪</p>
+
+<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
+
+<hr />
+
+<p>#종가배팅 #수급분석 #주식투자 #NextTheme #주말브리핑 #코스피전망 #반도체주 #서킷브레이커 #K뷰티 #주식공부</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[안녕하세요, NextTheme입니다. 😊 드디어 한 주가 끝났습니다. 이번 주는 정말 쉽지 않은 한 주였죠. 서킷브레이커가 두 번이나 발동될 만큼 극심한 변동성을 경험하신 분들, 많이 놀라셨을 텐데요. 오늘은 지난 한 주를 차분히 돌아보고, 다음 주를 어떻게 준비해야 할지 함께 이야기해 볼게요. ☕]]></summary></entry><entry><title type="html">서킷브레이커 발동</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/26/nt2-1505-snapshot/" rel="alternate" type="text/html" title="서킷브레이커 발동" /><published>2026-06-26T15:05:00+09:00</published><updated>2026-06-26T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/26/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/26/nt2-1505-snapshot/"><![CDATA[<table>
   <tbody>
     <tr>
       <td>📅 2026년 6월 26일</td>
@@ -1726,200 +1808,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <p>💬 <strong>댓글로 의견 나눠주세요! 이웃 추가하면 매일 종목 분석 받아보실 수 있어요 😊</strong></p>
 
-<p>#종목분석 #삼성전자 #수급분석 #NextTheme #005930 #종가배팅 #주식투자 #반도체주 #AI가전 #삼성전자분석 #HBM #AI반도체</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[2026년 6월 24일 오후 5시 35분, NextTheme AI가 삼성전자(005930)를 심층 분석했습니다. 국내 대표 반도체·AI 가전 기업이 오늘 하루 +9.84% 급등했는데요, 지금 들어가도 괜찮을까요? 데이터로 하나씩 뜯어봅니다. 📊]]></summary></entry><entry><title type="html">대한항공(003490)을 심층 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/24/1730-detail-003490-detail/" rel="alternate" type="text/html" title="대한항공(003490)을 심층 분석" /><published>2026-06-24T17:30:00+09:00</published><updated>2026-06-24T17:30:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/24/1730_detail_003490-detail</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/24/1730-detail-003490-detail/"><![CDATA[<h2 id="2026년-6월-24일-오후-5시-30분-대한항공을-살펴봤습니다-️">2026년 6월 24일 오후 5시 30분, 대한항공을 살펴봤습니다 ✈️</h2>
-
-<p>오늘 대한항공(003490)이 <strong>+5.6%</strong> 급등하며 <strong>27,350원</strong>에 마감했습니다. 항공주를 눈여겨보시던 분들이라면 오늘 움직임이 꽤 인상적이셨을 텐데요. NextTheme 알고리즘으로 수급·차트·뉴스·재무까지 꼼꼼하게 뜯어봤습니다.</p>
-
-<hr />
-
-<h2 id="오늘-누가-얼마나-사고팔았을까요-">오늘 누가, 얼마나 사고팔았을까요? 💰</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>항목</th>
-      <th>수치</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>현재 가격</strong></td>
-      <td><strong>27,350원</strong></td>
-    </tr>
-    <tr>
-      <td><strong>오늘 등락률</strong></td>
-      <td><strong>+5.6%</strong> 상승</td>
-    </tr>
-    <tr>
-      <td><strong>큰 투자기관(기관) 순매수</strong></td>
-      <td><strong>약 20.6만 주 매수</strong></td>
-    </tr>
-    <tr>
-      <td><strong>외국인 순매도</strong></td>
-      <td><strong>약 13.6만 주 매도</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>오늘 연기금·자산운용사 같은 큰 투자기관은 꾸준히 사들였지만, 외국인 투자자는 팔고 나가는 모습이었습니다. 기관은 오늘 포함 <strong>1일째 연속 순매수</strong> 중이고, 외국인은 아직 연속 매수 흐름을 보이지 않습니다.</p>
-
-<h3 id="60일-흐름에서-눈에-띄는-변곡점은">60일 흐름에서 눈에 띄는 변곡점은?</h3>
-
-<p>지난 두 달 데이터를 보면 크게 두 번의 강한 매수 신호가 있었습니다.</p>
-
-<ul>
-  <li><strong>6월 15일</strong>: 외국인이 무려 <strong>약 249만 주</strong>, 기관이 <strong>약 231만 주</strong>를 동시에 쏟아 부었습니다. 기관과 외국인이 같은 날 이렇게 대규모로 동시에 사는 건 드문 신호입니다.</li>
-  <li><strong>6월 12일</strong>: 외국인 <strong>약 133만 주</strong>, 기관 <strong>약 88만 주</strong> 순매수로 연이틀 대규모 매집이 이어졌습니다.</li>
-</ul>
-
-<p>그러다가 오늘(6/24)은 기관이 사면서도 외국인이 소폭 팔기 시작한 모습입니다. 대규모 매집 이후 차익 실현이 나오는 초입일 수 있어 주의가 필요합니다.</p>
-
-<hr />
-
-<h2 id="차트로-본-대한항공의-현재-위치는-">차트로 본 대한항공의 현재 위치는? 📊</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>기간</th>
-      <th>방향</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>단기(일봉)</strong></td>
-      <td>상승 흐름</td>
-    </tr>
-    <tr>
-      <td><strong>중기(주봉)</strong></td>
-      <td>상승 흐름</td>
-    </tr>
-    <tr>
-      <td><strong>장기(월봉)</strong></td>
-      <td>상승 흐름</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>단기·중기·장기 차트가 모두 같은 방향으로 올라가고 있습니다. 이처럼 모든 기간이 같은 방향을 가리킬 때는 방향성 자체가 탄탄하다는 신호입니다.</p>
-
-<p>다만 AI 분석에서는 오늘 장중 고점 대비 현재가가 5일 이동평균선 아래로 살짝 내려왔을 가능성을 지적했습니다. 추세 자체는 살아있지만 당장 뛰어들기보다 조금 더 지켜볼 구간입니다.</p>
-
-<hr />
-
-<h2 id="뉴스는-대한항공에-무슨-일이-있었나요-">뉴스는? 대한항공에 무슨 일이 있었나요? 📰</h2>
-
-<p>오늘 뉴스 신호는 <strong>호재(테마편승)</strong> 로 분류됐습니다.</p>
-
-<p><strong>핵심 이슈 3가지:</strong></p>
-<ul>
-  <li><strong>AI 기술 전시</strong>: 국토교통기술대전에서 AI 기반 항공기 정비·드론 검사 솔루션을 선보였습니다. 정비 자동화로 비용을 줄이겠다는 방향성이 가시화된 것입니다.</li>
-  <li><strong>아시아나 합병 마무리 임박</strong>: 오는 12월 16일 스타얼라이언스(세계 최대 항공사 연합) 통합이 예정되어 있어, 아시아나와 완전히 한 몸이 됩니다.</li>
-  <li><strong>신사업 모멘텀</strong>: 정비사 훈련 시뮬레이터 등 새로운 사업 가능성이 열리고 있습니다.</li>
-</ul>
-
-<p><strong>그러나 주의할 점도 있습니다:</strong></p>
-<ul>
-  <li>기술 전시는 당장 실적이 나오는 게 아니라 홍보 성격이 강합니다.</li>
-  <li>아시아나 합병 시너지가 실제 이익으로 이어지려면 <strong>최소 6개월 이상</strong> 걸립니다.</li>
-  <li>6월 15일 주식선물 가격제한폭 확대 이슈는 이미 9영업일이 지나 주가에 반영 완료 상태입니다.</li>
-</ul>
-
-<hr />
-
-<h2 id="재무는-튼튼할까요-">재무는 튼튼할까요? 📈</h2>
-
-<p><strong>연간 실적 추이</strong></p>
-
-<table>
-  <thead>
-    <tr>
-      <th>연도</th>
-      <th>매출</th>
-      <th>영업이익</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>2023</td>
-      <td>16.1조원</td>
-      <td>1.79조원</td>
-    </tr>
-    <tr>
-      <td>2024</td>
-      <td>17.9조원</td>
-      <td>2.11조원</td>
-    </tr>
-    <tr>
-      <td>2025</td>
-      <td>25.2조원</td>
-      <td>1.11조원</td>
-    </tr>
-    <tr>
-      <td>2026E</td>
-      <td>27.2조원</td>
-      <td>0.88조원</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>매출은 늘고 있지만 영업이익이 2024년을 정점으로 내리막입니다. 아시아나 인수 관련 비용 등이 수익성을 눌러온 탓입니다.</p>
-
-<p><strong>2026년 분기별 흐름</strong></p>
-
-<table>
-  <thead>
-    <tr>
-      <th>분기</th>
-      <th>영업이익</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>2026년 1분기</td>
-      <td><strong>+5,174억원</strong> (양호)</td>
-    </tr>
-    <tr>
-      <td>2026년 2분기 (예상)</td>
-      <td><strong>-1,843억원</strong> (적자 전망)</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>1분기가 좋았던 것과 달리, 2분기(4~6월) 영업이익이 적자로 예상된다는 점이 눈에 걸립니다.</p>
-
-<hr />
-
-<h2 id="nexttheme-ai가-내린-판단은-">NextTheme AI가 내린 판단은? 🤖</h2>
-
-<p><strong>투자 분위기: 맑음☀️</strong>
-<strong>AI 등급: ★☆☆ (ONE_STAR)</strong></p>
-
-<p>ONE_STAR는 “관심은 두되, 소량만” 이라는 신호입니다. AI는 이렇게 판단했습니다:</p>
-
-<blockquote>
-  <p>차트는 일·주·월봉 모두 상승 흐름이고 호재도 있지만, 기관은 이제 막 1일째 사기 시작했고 외국인은 오히려 팔고 있습니다. 영업이익도 줄어드는 추세(2분기 적자 전망)입니다. 오늘 장중 고점 대비 가격도 내려와 있어 투자금의 <strong>30% 이하 소량</strong>으로만 접근하고, 시장 전체가 좋지 않은 날은 관망을 우선하세요.</p>
-</blockquote>
-
-<p><strong>AI 핵심 조언:</strong></p>
-<blockquote>
-  <p>중장기로는 아시아나 통합 시너지와 기술 고도화에 긍정적이나, 단기 수익성 개선 신호가 부족합니다. 기술 전시는 홍보 성격으로 평가하고, 하반기 실적 발표 후 추가 확인을 권장합니다.</p>
-</blockquote>
-
-<hr />
-
-<h2 id="결론-대한항공-지금-어떻게-할까요-">결론: 대한항공, 지금 어떻게 할까요? 🎯</h2>
-
-<p>오늘 <strong>+5.6%</strong> 급등은 인상적이지만, NextTheme AI는 <strong>ONE_STAR(소량만)</strong> 등급을 줬습니다. 추세는 강하고 아시아나 합병이라는 중장기 재료도 분명하지만, <strong>외국인 매도 전환 + 2분기 적자 전망 + 영업이익 하락 추세</strong>가 단기 추가 상승의 부담 요인입니다.</p>
-
-<p>투자금의 <strong>30% 이하 소량 접근</strong>을 고려하되, 시장 분위기가 좋지 않은 날은 과감히 관망하는 것이 현명합니다.</p>
-
-<blockquote>
-  <p>💡 아시아나 합병 완료(12월) 이후 통합 시너지가 실적에 반영되는 <strong>2027년 이후</strong>가 진짜 판단 시점이 될 수 있습니다.</p>
-</blockquote>
-
-<hr />
-
-<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
-
-<p>#종목분석 #대한항공 #수급분석 #NextTheme #003490 #종가배팅 #항공주 #주식투자 #아시아나합병 #수급흐름</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[2026년 6월 24일 오후 5시 30분, 대한항공을 살펴봤습니다 ✈️]]></summary></entry></feed>
+<p>#종목분석 #삼성전자 #수급분석 #NextTheme #005930 #종가배팅 #주식투자 #반도체주 #AI가전 #삼성전자분석 #HBM #AI반도체</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[2026년 6월 24일 오후 5시 35분, NextTheme AI가 삼성전자(005930)를 심층 분석했습니다. 국내 대표 반도체·AI 가전 기업이 오늘 하루 +9.84% 급등했는데요, 지금 들어가도 괜찮을까요? 데이터로 하나씩 뜯어봅니다. 📊]]></summary></entry></feed>
