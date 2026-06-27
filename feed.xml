@@ -1,4 +1,109 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-27T06:03:25+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">YELLOW — 한 주 회고와 다음 주 준비</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/27/weekend/" rel="alternate" type="text/html" title="YELLOW — 한 주 회고와 다음 주 준비" /><published>2026-06-27T06:00:00+09:00</published><updated>2026-06-27T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/27/weekend</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/27/weekend/"><![CDATA[<p>안녕하세요, NextTheme입니다. 😊
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-28T06:03:32+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">YELLOW — 월요일 개장 핵심 변수</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/28/weekend/" rel="alternate" type="text/html" title="YELLOW — 월요일 개장 핵심 변수" /><published>2026-06-28T06:00:00+09:00</published><updated>2026-06-28T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/28/weekend</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/28/weekend/"><![CDATA[<p>안녕하세요! 내일이면 드디어 월요일 개장입니다. 📅
+이번 주 코스피가 하루에만 큰 폭으로 흔들리는 장세를 보였는데요, NextTheme이 오늘 아침 주말 브리핑을 정리해 드립니다.</p>
+
+<hr />
+
+<h2 id="-미국-야간-시장--월요일-분위기를-좌우한다">📊 미국 야간 시장 — 월요일 분위기를 좌우한다</h2>
+
+<p>지난 금요일 미국 시장은 세 지수 모두 소폭 하락 마감했습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>지수</th>
+      <th>등락</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>다우존스</td>
+      <td><strong>-0.09%</strong> (보합 수준)</td>
+    </tr>
+    <tr>
+      <td>S&amp;P 500</td>
+      <td><strong>-0.05%</strong> (거의 제자리)</td>
+    </tr>
+    <tr>
+      <td>나스닥</td>
+      <td><strong>-0.24%</strong> (기술주 소폭 약세)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>미국 시장이 크게 흔들리지 않았다는 건 그나마 다행입니다. 다만 반도체 주도주 중심의 상승 피로감이 쌓이고 있어, 국내 시장도 긴장을 늦출 수 없는 상황이에요. 환율이 <strong>1,500원대</strong>에 고착화되고 있다는 점도 주목해야 합니다.</p>
+
+<hr />
+
+<h2 id="-이번-주-베팅-등급--yellow-주의">🟡 이번 주 베팅 등급 — <strong>YELLOW (주의)</strong></h2>
+
+<p>NextTheme의 이번 주 베팅 등급은 <strong>YELLOW(주의)</strong>, 심리 점수는 <strong>45점</strong> (100점 만점)입니다.</p>
+
+<p><strong>YELLOW 등급이란?</strong> — 시장이 위아래로 흔들릴 수 있는 구간입니다. 일부 잘 선별된 종목은 가능하지만, 전체 포지션을 크게 늘리는 건 자제가 필요한 때예요.</p>
+
+<h3 id="이번-주-전략-요약-">이번 주 전략 요약 💡</h3>
+
+<p>이번 주 가장 눈에 띄는 사건은 단연 <strong>코스피 하루 425조 증발(-5.81%)</strong> 이었습니다. 반도체 종목으로 자금이 집중된 비율이 무려 <strong>58%</strong> — 역대 가장 높은 수준의 쏠림입니다.</p>
+
+<p>좋은 소식도 있습니다. 미국 마이크론 반도체가 깜짝 호실적을 발표하면서, JP모건은 목표가를 <strong>1,540달러</strong>로 대폭 올렸어요. 메모리 반도체(D램·낸드) 가격은 <strong>600~800% 급등</strong>, 공급 부족은 <strong>2028년까지 지속</strong>될 것이라는 전망이 나왔습니다.</p>
+
+<p>핵심 전략을 요약하면 이렇습니다:</p>
+
+<ul>
+  <li>✅ 반도체 실적 모멘텀은 여전히 유효</li>
+  <li>⚠️ 쏠림이 극심한 만큼 고점 추격은 위험</li>
+  <li>💡 조정이 나올 때 분할로 조금씩 매수하는 전략</li>
+  <li>📉 <strong>-3~5% 손절 라인</strong> 엄격히 지킬 것</li>
+</ul>
+
+<hr />
+
+<h2 id="-월요일-주목-섹터--어디를-봐야-할까">🔍 월요일 주목 섹터 — 어디를 봐야 할까?</h2>
+
+<h3 id="1️⃣-반도체">1️⃣ 반도체</h3>
+
+<p>마이크론 호실적으로 삼성전자·SK하이닉스 등 국내 반도체주 반등 시도가 예상됩니다. D램과 낸드 가격이 급등하고 있어 국내 기업들의 실적 기대감도 높아지고 있어요. 단, 이미 많이 오른 종목은 추격보다 조정 구간을 노리는 게 현명합니다.</p>
+
+<h3 id="2️⃣-소프트웨어--ai-서비스">2️⃣ 소프트웨어 / AI 서비스</h3>
+
+<p>미국에서 관련 섹터가 <strong>+4.52%</strong> 오르는 강세를 보였습니다. 데이터센터 투자가 계속되는 가운데, 스페이스X의 나스닥100 편입 소식도 관련 업계에 온기를 줄 수 있어요. 클라우드·AI 관련 국내 중소형주 중 저평가 종목을 눈여겨볼 만합니다.</p>
+
+<h3 id="3️⃣-화장품-k-뷰티">3️⃣ 화장품 (K-뷰티)</h3>
+
+<p>5월 수출이 역대 최대치(<strong>+24.2%</strong> 증가)를 기록했습니다. K-뷰티 인기가 전 세계에서 계속되고 있어요. 이번 주 반도체 장세에 가려졌지만, 중소형 화장품주 중에서 선별적 관심이 유효한 시기입니다.</p>
+
+<hr />
+
+<h2 id="-다음-주-월요일--꼭-체크할-변수">📅 다음 주 월요일 — 꼭 체크할 변수</h2>
+
+<p>월요일 장이 열리면 이 흐름을 먼저 확인하세요:</p>
+
+<ol>
+  <li>
+    <p><strong>오전 반도체 방향성</strong> — 삼성전자·SK하이닉스 시초가가 장 전체 분위기를 결정합니다. 마이크론 호재가 얼마나 반영되는지 보세요.</p>
+  </li>
+  <li>
+    <p><strong>국민연금 움직임</strong> — 국민연금이 리밸런싱(포트폴리오 재조정) 매물을 내놓을 경우 지수 상단 부담이 생깁니다. 외국인 자금 흐름도 함께 확인하세요.</p>
+  </li>
+  <li>
+    <p><strong>보유 종목 대응</strong> — 이미 보유 중인 종목은 손절 라인 <strong>-3~5%</strong> 를 지키면서 반도체 급등 종목은 차익실현을 검토하세요. 중소형주 단기 반등 시에는 분할로 조금씩 익절하는 전략이 권장됩니다.</p>
+  </li>
+</ol>
+
+<hr />
+
+<h2 id="-오늘의-결론">💬 오늘의 결론</h2>
+
+<p>이번 주는 반도체라는 하나의 테마로 시장 전체가 쏠린 독특한 구간이었습니다. <strong>마이크론 호실적이라는 든든한 펀더멘털</strong>이 있지만, 동시에 <strong>레버리지 ETF 출시 이후 무려 29회 사이드카</strong>(역대 최다)가 발동될 만큼 변동성도 극심했어요.</p>
+
+<p>월요일은 이 반도체 흐름이 이어지느냐, 아니면 국민연금·외국인 매물에 눌리느냐가 핵심입니다. 섣불리 추격하기보다 <strong>오전 방향성 확인 후 선별 접근</strong>이 안전합니다.</p>
+
+<hr />
+
+<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
+
+<hr />
+
+<p>#종가배팅 #수급분석 #주식투자 #NextTheme #반도체주식 #월요일증시 #코스피전망 #주말브리핑 #삼성전자 #SK하이닉스 #마이크론 #K뷰티 #AI주식</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[안녕하세요! 내일이면 드디어 월요일 개장입니다. 📅 이번 주 코스피가 하루에만 큰 폭으로 흔들리는 장세를 보였는데요, NextTheme이 오늘 아침 주말 브리핑을 정리해 드립니다.]]></summary></entry><entry><title type="html">YELLOW — 한 주 회고와 다음 주 준비</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/27/weekend/" rel="alternate" type="text/html" title="YELLOW — 한 주 회고와 다음 주 준비" /><published>2026-06-27T06:00:00+09:00</published><updated>2026-06-27T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/27/weekend</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/27/weekend/"><![CDATA[<p>안녕하세요, NextTheme입니다. 😊
 드디어 한 주가 끝났습니다. 이번 주는 정말 쉽지 않은 한 주였죠. 서킷브레이커가 두 번이나 발동될 만큼 극심한 변동성을 경험하신 분들, 많이 놀라셨을 텐데요. 오늘은 지난 한 주를 차분히 돌아보고, 다음 주를 어떻게 준비해야 할지 함께 이야기해 볼게요. ☕</p>
 
 <hr />
@@ -1578,234 +1683,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <hr />
 
-<p>#종가배팅 #수급분석 #주식투자 #마이크론 #반도체 #경제지표 #RED등급</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[좋은 아침입니다! 🌅]]></summary></entry><entry><title type="html">삼성전자(005930)를 심층 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/24/1735-detail-005930-detail/" rel="alternate" type="text/html" title="삼성전자(005930)를 심층 분석" /><published>2026-06-24T17:35:00+09:00</published><updated>2026-06-24T17:35:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/24/1735_detail_005930-detail</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/24/1735-detail-005930-detail/"><![CDATA[<p>2026년 6월 24일 오후 5시 35분, NextTheme AI가 삼성전자(005930)를 심층 분석했습니다. 국내 대표 반도체·AI 가전 기업이 오늘 하루 <strong>+9.84%</strong> 급등했는데요, 지금 들어가도 괜찮을까요? 데이터로 하나씩 뜯어봅니다. 📊</p>
-
-<hr />
-
-<h2 id="-오늘-주가는-얼마나-올랐나요">💰 오늘 주가는 얼마나 올랐나요?</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>항목</th>
-      <th>수치</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>현재가</td>
-      <td><strong>340,500원</strong></td>
-    </tr>
-    <tr>
-      <td>오늘 등락률</td>
-      <td><strong>+9.84%</strong> 🔥</td>
-    </tr>
-    <tr>
-      <td>외국인 큰손</td>
-      <td>순매도 (약 <strong>-225억원</strong>)</td>
-    </tr>
-    <tr>
-      <td>투자기관</td>
-      <td>순매도 (약 <strong>-436억원</strong>)</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>오늘 삼성전자는 <strong>9.84%</strong> 급등하며 장을 마감했습니다. 그런데 한 가지 눈에 띄는 점이 있어요. 주가는 크게 올랐는데, 큰 투자기관과 외국인 큰손들은 오히려 팔고 있었습니다.</p>
-
-<p>이게 무슨 뜻일까요? 개인 투자자들이 주도하는 상승이라는 의미입니다. 기관과 외국인이 함께 사줄 때 상승이 더 안정적인 편인데, 지금은 그 반대 상황입니다.</p>
-
-<hr />
-
-<h2 id="-3개월-수급-흐름-무슨-일이-있었나요">📈 3개월 수급 흐름, 무슨 일이 있었나요?</h2>
-
-<p>3월 말부터 5월까지 외국인 투자자들이 삼성전자를 꾸준히 팔아왔습니다. 3월 31일 하루에만 <strong>약 1,171억원</strong> 순매도가 나왔고, 5월 초에도 매물이 쏟아졌습니다.</p>
-
-<p>전환점은 6월 중순이었습니다. <strong>6월 12일</strong>, 외국인(+288억)과 기관(+330억)이 동시에 사들이며 “바닥 반등” 신호가 등장했고, <strong>6월 18일</strong>에도 외국인(+242억)·기관(+194억)이 함께 매수했습니다. 하지만 6월 19일 이후 다시 매도세로 돌아섰고, 오늘도 기관과 외국인의 매도는 이어지고 있습니다.</p>
-
-<p>✅ <strong>핵심 요약</strong>: 6월 중순 반등 이후 재차 매물 부담이 들어오는 패턴입니다.</p>
-
-<hr />
-
-<h2 id="-차트-위치는-어떤가요">📊 차트 위치는 어떤가요?</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>기간</th>
-      <th>추세</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>단기 (일봉)</td>
-      <td>🟢 상승 흐름</td>
-    </tr>
-    <tr>
-      <td>중기 (주봉)</td>
-      <td>🟢 상승 흐름</td>
-    </tr>
-    <tr>
-      <td>장기 (월봉)</td>
-      <td>🟢 상승 흐름</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>일봉·주봉·월봉 <strong>모두 상승 흐름</strong>으로 정렬되어 있습니다. 단기·중기·장기가 같은 방향을 가리킬 때를 “추세 정렬”이라고 하는데, 이 상태에서는 상승의 신뢰도가 높아집니다. 오늘의 급등이 일시적 튀어오름이 아닐 가능성을 보여줍니다.</p>
-
-<hr />
-
-<h2 id="-오늘-왜-이렇게-올랐나요">📰 오늘 왜 이렇게 올랐나요?</h2>
-
-<p><strong>뉴스 신호</strong>: 호재 ✅<br />
-<strong>촉매 유형</strong>: AI 테마 편승</p>
-
-<p>삼성전자가 <strong>AI 모듈러 홈 시장</strong>에 진출한다는 소식이 오늘 강세의 배경입니다. 단순히 AI 가전을 파는 수준이 아니라, 조립식 주택을 시작으로 일반 주택·아파트·빌딩까지 AI 홈 플랫폼을 확장하겠다는 계획입니다. AI 반도체에 이어 AI 생활 인프라까지 사업을 넓히는 그림입니다.</p>
-
-<p>📌 <strong>오늘의 핵심 이슈 3가지</strong></p>
-
-<ul>
-  <li><strong>AI 가전 신사업</strong>: 모듈러 주택 시장에서 AI 홈 플랫폼 구축 → 새로운 수익원 창출 기대</li>
-  <li><strong>경기 회복 연동</strong>: 주택·건설 시장과 맞물려, 경제 회복 시 매출 확대 가능성</li>
-  <li><strong>단기 변동성 심화</strong>: 연일 가격제한폭 확대 공시로 큰손 매매가 활발, 단기 변동성 높음</li>
-</ul>
-
-<p>⚠️ <strong>주의할 점</strong></p>
-<ul>
-  <li>모듈러 홈은 아직 초기 진출 단계라 실제 수익화까지 시간이 걸립니다</li>
-  <li>SK하이닉스가 7월 10일 미국 주식시장 상장을 앞두고 있어, 반도체·AI 자금이 분산될 수 있습니다</li>
-</ul>
-
-<hr />
-
-<h2 id="-실적은-얼마나-좋아졌나요">📋 실적은 얼마나 좋아졌나요?</h2>
-
-<h3 id="연간-실적-단위-억원">연간 실적 (단위: 억원)</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>연도</th>
-      <th>매출</th>
-      <th>영업이익</th>
-      <th>영업이익률</th>
-      <th>주당순이익</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>2023</td>
-      <td>258.9조</td>
-      <td>6.6조</td>
-      <td>2%</td>
-      <td>2,131원</td>
-    </tr>
-    <tr>
-      <td>2024</td>
-      <td>300.9조</td>
-      <td>32.7조</td>
-      <td>10%</td>
-      <td>4,950원</td>
-    </tr>
-    <tr>
-      <td>2025</td>
-      <td>333.6조</td>
-      <td>43.6조</td>
-      <td>13%</td>
-      <td>6,564원</td>
-    </tr>
-    <tr>
-      <td>2026(예상)</td>
-      <td><strong>705.9조</strong></td>
-      <td><strong>365.6조</strong></td>
-      <td><strong>51%</strong></td>
-      <td><strong>44,704원</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>2026년 예상 실적이 눈에 띕니다. 매출이 전년 대비 2배 이상 뛰고, 영업이익은 8배 이상 늘어나는 전망입니다. 현재 주가 340,500원 기준 주가수익비율(PER)은 약 <strong>7.6배</strong> 수준으로, 실적 성장 속도에 비해 주가가 아직 따라오지 못한 모습입니다.</p>
-
-<h3 id="최근-분기-흐름도-가파릅니다">최근 분기 흐름도 가파릅니다</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>분기</th>
-      <th>매출</th>
-      <th>영업이익</th>
-      <th>이익률</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>2025년 Q2</td>
-      <td>74.6조</td>
-      <td>4.7조</td>
-      <td>6%</td>
-    </tr>
-    <tr>
-      <td>2025년 Q4</td>
-      <td>93.8조</td>
-      <td>20.1조</td>
-      <td>21%</td>
-    </tr>
-    <tr>
-      <td>2026년 Q1</td>
-      <td><strong>133.9조</strong></td>
-      <td><strong>57.2조</strong></td>
-      <td><strong>42%</strong></td>
-    </tr>
-    <tr>
-      <td>2026년 Q2(예상)</td>
-      <td><strong>170.8조</strong></td>
-      <td><strong>87.4조</strong></td>
-      <td><strong>51%</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>분기마다 실적이 폭발적으로 늘고 있습니다. AI 반도체(HBM) 수요가 이익률을 끌어올리는 핵심 동력으로 보입니다.</p>
-
-<hr />
-
-<h2 id="-ai는-어떻게-판단했나요">🤖 AI는 어떻게 판단했나요?</h2>
-
-<p><strong>AI 등급</strong>: ⭐⭐ TWO_STAR<br />
-<strong>투자 분위기</strong>: 맑음 ☀️</p>
-
-<blockquote>
-  <p><em>“차트와 재무는 모두 양호합니다. 하지만 외국인·기관의 당일 매도세와 시장 전반적인 조심스러운 분위기를 고려해, 평소보다 <strong>60% 비중으로 줄여서 진입</strong>하는 것을 권장합니다. 단기 변동성에 주의하세요.”</em></p>
-</blockquote>
-
-<p>AI가 삼성전자를 나쁘게 보는 것은 아닙니다. 차트도 좋고 실적도 뛰어납니다. 다만 오늘 큰손들이 팔고 있다는 점이 걸려서, “조심스럽게 들어가라”는 조언을 내놓은 것입니다. 만약 장이 더 긍정적이었다면 세 별(THREE_STAR)도 가능했을 종목입니다.</p>
-
-<p><strong>📋 한줄 투자 조언</strong>:<br />
-신사업 성장성은 긍정적이나 단기 변동성이 크므로, 장기 보유 관점에서 <strong>단계적 매수</strong>를 고려하세요. 분기별 실적과 AI 홈 사업 진전을 꼭 모니터링하세요.</p>
-
-<hr />
-
-<h2 id="-정리--오늘-삼성전자-어떻게-볼까요">🎯 정리 — 오늘 삼성전자 어떻게 볼까요?</h2>
-
-<p>✅ <strong>긍정 요소</strong></p>
-<ul>
-  <li>일·주·월봉 모두 상승 추세 정렬</li>
-  <li>2026년 실적 폭발적 성장 예상 (PER 7배대 저평가)</li>
-  <li>AI 반도체 + AI 가전 신사업 이중 성장 스토리</li>
-</ul>
-
-<p>⚠️ <strong>리스크 요소</strong></p>
-<ul>
-  <li>오늘도 기관·외국인 매도 (개인 주도 상승)</li>
-  <li>AI 모듈러 홈은 초기 단계 — 수익화 기간 불확실</li>
-  <li>단기 변동성 높음, SK하이닉스 상장 이후 자금 흐름 변화 가능성</li>
-</ul>
-
-<p><strong>NextTheme AI 최종 판단</strong>: 장기 관점의 분할 매수 접근, 단기 트레이딩은 신중하게.</p>
-
-<hr />
-
-<p>💬 <strong>댓글로 의견 나눠주세요! 이웃 추가하면 매일 종목 분석 받아보실 수 있어요 😊</strong></p>
-
-<p>#종목분석 #삼성전자 #수급분석 #NextTheme #005930 #종가배팅 #주식투자 #반도체주 #AI가전 #삼성전자분석 #HBM #AI반도체</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[2026년 6월 24일 오후 5시 35분, NextTheme AI가 삼성전자(005930)를 심층 분석했습니다. 국내 대표 반도체·AI 가전 기업이 오늘 하루 +9.84% 급등했는데요, 지금 들어가도 괜찮을까요? 데이터로 하나씩 뜯어봅니다. 📊]]></summary></entry></feed>
+<p>#종가배팅 #수급분석 #주식투자 #마이크론 #반도체 #경제지표 #RED등급</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[좋은 아침입니다! 🌅]]></summary></entry></feed>
