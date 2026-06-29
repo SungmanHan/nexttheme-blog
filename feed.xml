@@ -1,4 +1,125 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-29T19:11:02+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">두산에너빌리티 외</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/29/nt2-1505-snapshot/" rel="alternate" type="text/html" title="두산에너빌리티 외" /><published>2026-06-29T15:05:00+09:00</published><updated>2026-06-29T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/29/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/29/nt2-1505-snapshot/"><![CDATA[<table>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-06-30T06:03:40+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">YELLOW — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/30/0600-briefing/" rel="alternate" type="text/html" title="YELLOW — 오늘 아침 시황" /><published>2026-06-30T06:00:00+09:00</published><updated>2026-06-30T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/30/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/30/0600-briefing/"><![CDATA[<p>안녕하세요, NextTheme입니다! 🌅</p>
+
+<p>오늘 아침, 미국 증시가 깜짝 반등을 보여줬습니다. 밤새 뉴스를 확인하셨나요? 잠들기 전 걱정하셨던 분들께 반가운 소식이 있습니다. 다만 마냥 기뻐하기엔 이른 면도 있어서, 오늘 아침 함께 꼼꼼히 살펴봐야 할 것들을 정리했습니다.</p>
+
+<hr />
+
+<h2 id="-어젯밤-미국-시장은-어땠나요">🇺🇸 어젯밤 미국 시장은 어땠나요?</h2>
+
+<p>미국 3대 지수가 모두 올랐습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>지수</th>
+      <th>등락</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>다우존스</td>
+      <td><strong>+0.59%</strong></td>
+    </tr>
+    <tr>
+      <td>S&amp;P500</td>
+      <td><strong>+1.18%</strong></td>
+    </tr>
+    <tr>
+      <td>나스닥</td>
+      <td><strong>+2.07%</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>특히 반도체 관련 주가를 추종하는 <strong>필라델피아 반도체 지수</strong>가 무려 <strong>+3.83%</strong> 급등했습니다. 이 지수가 오르면 삼성전자, SK하이닉스 같은 국내 반도체 관련 종목들에도 긍정적인 신호가 됩니다.</p>
+
+<p>또 눈에 띄는 소식으로, 다우존스 지수가 처음으로 <strong>52,000선</strong>을 돌파했는데요, 알파벳(구글의 모회사)이 새로 편입된 효과가 컸습니다. 테슬라와 스페이스X도 강세를 보였습니다.</p>
+
+<hr />
+
+<h2 id="-오늘의-베팅-등급-yellow-신중">📊 오늘의 베팅 등급: YELLOW (신중)</h2>
+
+<p>NextTheme 알고리즘이 오늘 시장을 <strong>노란불(YELLOW)</strong> 으로 평가했습니다. 점수는 <strong>55점</strong>입니다.</p>
+
+<blockquote>
+  <p>🟡 <strong>YELLOW 등급이란?</strong> 마냥 달려들기엔 리스크가 있고, 완전히 쉬기엔 기회도 있는 상태입니다. <strong>신중하게 고르고, 적게 베팅하는</strong> 전략이 맞습니다.</p>
+</blockquote>
+
+<h3 id="오늘의-전략-핵심">오늘의 전략 핵심</h3>
+
+<p>미국 기술주가 밤새 강하게 반등한 건 분명히 좋은 신호입니다. 하지만 국내 주식 시장에서는 지난 주말 동안 <strong>외국인 큰 투자자들이 무려 8조 1천억 원</strong>어치를 팔아치웠습니다. 이 매도 압력이 오늘도 이어질 수 있어서 무조건 낙관하긴 어렵습니다.</p>
+
+<p><strong>오늘 추천 행동:</strong></p>
+<ul>
+  <li>✅ 투자 금액을 평소의 <strong>70% 수준</strong>으로 줄여서 신중하게 진입</li>
+  <li>✅ 반도체 야간 반등이 확인된 만큼 <strong>2차전지·전력·그린카 테마</strong> 내 차트가 강한 종목 집중</li>
+  <li>✅ 차트가 강한 종목의 기준: RSI(상대강도지수) <strong>60 이상</strong>, 거래량이 평소보다 <strong>1.5배 이상</strong> 되는 종목</li>
+  <li>⏳ 오늘 밤 23:00 미국에서 발표되는 <strong>JOLTS(일자리 공고 수)</strong> 와 <strong>CB소비자신뢰지수</strong> 결과 대기 필수 — 예상보다 나쁘게 나오면 내일 아침 갭 하락 위험</li>
+</ul>
+
+<hr />
+
+<h2 id="-오늘-주목할-뉴스와-변수">📰 오늘 주목할 뉴스와 변수</h2>
+
+<p><strong>기회 요인 🟢</strong></p>
+<ul>
+  <li>미국 나스닥 +2.07%, 필라델피아 반도체 +3.83% — 국내 반도체주 반등 기대</li>
+  <li>다우 52,000선 첫 돌파로 글로벌 투자심리 개선</li>
+  <li>국민연금 4월 수익률 <strong>14%</strong>, 국내 주식 비중 60% 기록 — 연기금 국내 주식 선호 확인</li>
+  <li>미·이란 협상 재개로 지정학적 불안 일부 완화</li>
+  <li>코스닥이 어제 <strong>+8.13%</strong> 급등 (정부 메가프로젝트·순환매 효과) — 테마별 순환매 활발</li>
+</ul>
+
+<p><strong>위험 요인 🔴</strong></p>
+<ul>
+  <li>외국인 큰 투자자들이 어제 하루만 <strong>8조 1천억 원</strong> 순매도 — 대형주 중심 매도 압력 지속 가능성</li>
+  <li>BIS(국제결제은행)에서 AI 투자 과열 경고 발표 — AI 테마 속도 조절 가능성</li>
+  <li>오늘 밤 JOLTS·CB소비자신뢰지수 발표 — 결과에 따라 내일 방향 바뀔 수 있음</li>
+</ul>
+
+<hr />
+
+<h2 id="-어제-ai-선별-복기">📋 어제 AI 선별 복기</h2>
+
+<blockquote>
+  <p>어제(6/29) NextTheme AI가 선별한 종목들을 오늘 시초가 기준으로 어떻게 대응할지 정리했습니다.</p>
+</blockquote>
+
+<p><strong>전체 방향: 유지 관찰 (MAINTAIN)</strong> — 미국 야간 반등이 확인됐으나 외국인 매도 지속으로 시초가 방향을 최종 확인해야 합니다.</p>
+
+<hr />
+
+<p><strong>1. 두산에너빌리티 (보유 중 🔵)</strong></p>
+
+<p>어제 정부 메가프로젝트 발표로 전력·온실가스 테마가 강하게 움직인 종목입니다. 오늘은 외국인이 많이 팔고 있는 상황이라 <strong>시초가에서 갭 상승이 나오는지 최종 확인 후 판단</strong>하세요.</p>
+
+<p>⚠️ <strong>주의</strong>: 어제 외국인 큰손들이 8조 원 넘게 팔았습니다. 오늘도 대형주 중심으로 매도가 이어질 수 있어 주의가 필요합니다.</p>
+
+<hr />
+
+<p><strong>2. HD한국조선해양 (미보유)</strong></p>
+
+<p>어제 매수하지 않았습니다. 오늘은 <strong>시초가가 약보합~-1% 이내로 소폭 내려서 출발하면</strong> 분할 매수를 고려할 수 있습니다. 기관 큰 투자기관들이 어제 26만 주 가까이 순매수했고, 조선 분야 기본 체력은 양호합니다.</p>
+
+<hr />
+
+<p><strong>3. LG에너지솔루션 (미보유)</strong></p>
+
+<p>어제 확신도가 낮게 평가됐던 종목입니다. 오늘 밤 필라델피아 반도체 반등이 이미 확인됐으니 <strong>시초가 갭 상승 강도를 보고 최종 판단</strong>하세요. 다만 오늘 밤 미국 경제지표 이벤트가 있어 서둘러 진입하기보단 관망이 우선입니다.</p>
+
+<p>⚠️ <strong>주의</strong>: 어제 확신도가 낮았고, 오늘 밤 이벤트 결과를 먼저 확인하는 게 안전합니다.</p>
+
+<hr />
+
+<h2 id="-오늘의-결론">✅ 오늘의 결론</h2>
+
+<p>미국 시장은 강하게 반등했지만, 국내에서는 외국인의 대규모 매도가 부담입니다. 섣불리 달려들기보다는 <strong>70% 비중으로 신중하게</strong>, 차트가 강한 2차전지·전력·그린카 테마 종목에 집중하세요. 그리고 오늘 밤 미국 경제지표 발표 결과를 꼭 확인하세요!</p>
+
+<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
+
+<hr />
+
+<p>#종가배팅 #수급분석 #주식투자 #NextTheme #오늘주식 #시황브리핑 #반도체주 #2차전지 #전력테마 #그린카 #코스피 #코스닥 #두산에너빌리티 #HD한국조선해양 #LG에너지솔루션</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[안녕하세요, NextTheme입니다! 🌅]]></summary></entry><entry><title type="html">두산에너빌리티 외</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/29/nt2-1505-snapshot/" rel="alternate" type="text/html" title="두산에너빌리티 외" /><published>2026-06-29T15:05:00+09:00</published><updated>2026-06-29T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/29/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/29/nt2-1505-snapshot/"><![CDATA[<table>
   <tbody>
     <tr>
       <td>📅 <strong>2026년 6월 29일 (월) 15:05 기준</strong></td>
@@ -1820,122 +1941,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가배팅 #복기일지 #20260625 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-06-26 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">YELLOW — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/26/0600-briefing/" rel="alternate" type="text/html" title="YELLOW — 오늘 아침 시황" /><published>2026-06-26T06:00:00+09:00</published><updated>2026-06-26T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/26/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/26/0600-briefing/"><![CDATA[<p>🌅 <strong>2026년 6월 26일 (목)</strong> — 반도체 기대감은 있지만, 조심스럽게 접근해야 할 아침입니다.</p>
-
-<p>마이크론(미국 반도체 기업)이 깜짝 실적을 내놓으면서 반도체 섹터에 기대감이 커졌어요. 그런데 나스닥이 살짝 내려앉고 애플이 급락하면서 “마냥 달려들기엔” 조금 조심스러운 상황입니다. 오늘 어떻게 대응하면 좋을지 함께 살펴볼게요!</p>
-
-<hr />
-
-<h2 id="-어젯밤-미국-시장-어떠했나요">📊 어젯밤 미국 시장, 어떠했나요?</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>지수</th>
-      <th>등락</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>다우존스 (전통 산업주)</td>
-      <td><strong>+0.14%</strong> ↑</td>
-    </tr>
-    <tr>
-      <td>S&amp;P 500 (대형주 전체)</td>
-      <td><strong>-0.01%</strong> →</td>
-    </tr>
-    <tr>
-      <td>나스닥 (기술주 위주)</td>
-      <td><strong>-0.46%</strong> ↓</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>세 지수가 엇갈린 하루였습니다. 다우는 소폭 올랐지만 기술주가 많은 나스닥은 내려갔어요.</p>
-
-<p>📌 <strong>좋은 소식 하나</strong>: 미국의 경제성장률(GDP)이 <strong>2.1%</strong>로 발표됐는데, 전문가 예상치인 <strong>1.6%</strong>를 크게 웃돌았습니다. “미국 경제가 생각보다 탄탄하다”는 신호로, 우리 시장에도 긍정적인 소식이에요.</p>
-
-<hr />
-
-<h2 id="-오늘-베팅-등급--yellow노란불-점수-65점">🚦 오늘 베팅 등급 — <strong>YELLOW(노란불), 점수 65점</strong></h2>
-
-<blockquote>
-  <p><strong>YELLOW</strong>는 신호등의 노란불처럼 완전히 멈추지는 않지만 <strong>속도를 줄이고 조심하는</strong> 상태입니다.<br />
-“기회는 있되, 한 종목에 올인하지 말고 <strong>전체 비중 70% 이하</strong>로 신중하게 접근하세요.”</p>
-</blockquote>
-
-<p><strong>🤖 AI가 분석한 오늘 전략:</strong></p>
-
-<p>마이크론 실적 호조로 반도체 강세가 이어질 것으로 보이지만, 두 가지를 조심해야 합니다.</p>
-
-<ul>
-  <li>나스닥과 미국 반도체 지수가 올라가다 <strong>윗꼬리</strong>를 남겼습니다. “위로 튀어 올랐다가 다시 내려왔다”는 뜻으로 <strong>매도 압력이 있다는 신호</strong>예요.</li>
-  <li>외국의 큰 투자자들(외국인)이 우리 주식을 <strong>8,452억원</strong> 넘게 팔고 있어 수급 부담이 있습니다.</li>
-</ul>
-
-<p><strong>✅ 오늘 추천 대응:</strong></p>
-<ul>
-  <li>반도체·항공 섹터 중심으로 신중 진입</li>
-  <li>시장이 열릴 때 처음 가격(시초가)을 확인한 후 <strong>분할 매수</strong> (한 번에 다 사지 않기)</li>
-  <li>총 투자 비중 <strong>70% 이하</strong> 유지</li>
-</ul>
-
-<hr />
-
-<h2 id="-오늘-주목해야-할-뉴스">📰 오늘 주목해야 할 뉴스</h2>
-
-<p><strong>기회 요인 🟢</strong></p>
-
-<ul>
-  <li><strong>JP모건이 코스피 목표 1만 5,000으로 상향</strong> — 세계 최대 투자은행이 한국 증시를 매우 낙관적으로 본다는 의미입니다</li>
-  <li><strong>마이크론 어닝 서프라이즈</strong> — 1년 전보다 매출이 무려 <strong>345%</strong> 늘었습니다. AI용 메모리 반도체 수요가 그만큼 폭발적이에요</li>
-  <li><strong>국제유가 4개월 만에 최저</strong> — 비행기 연료값이 내려가면 항공사 수익이 좋아집니다. 항공주에 호재!</li>
-</ul>
-
-<p><strong>주의 요인 🔴</strong></p>
-
-<ul>
-  <li><strong>애플 6% 급락</strong> — 메모리 반도체 부족으로 맥북·아이패드 가격을 일제히 올렸더니 주가가 크게 빠졌어요. 기술주 전반의 피로 신호입니다</li>
-  <li><strong>코스닥 -2.36% 약세</strong> — 중소형 성장주 위주의 코스닥이 어제 많이 내려갔습니다</li>
-  <li><strong>강제 청산 1,100억원</strong> — “검은 화요일” 여파로 빚을 내서 투자한 분들의 주식이 강제로 팔렸어요. 시장에 부담이 될 수 있습니다</li>
-</ul>
-
-<hr />
-
-<h2 id="-어제6월-25일-ai-선별-복기">📋 어제(6월 25일) AI 선별 복기</h2>
-
-<p>어제 NextTheme AI가 선별한 종목들, 오늘 어떻게 대응할지 확인해보겠습니다.</p>
-
-<p><strong>전체 방향: MAINTAIN (유지)</strong> — 어제 세운 전략을 그대로 이어갑니다.</p>
-
-<hr />
-
-<h3 id="1-sk하이닉스-보유-중-">1. SK하이닉스 (보유 중) ✅</h3>
-
-<p><strong>오늘 행동:</strong> 시초가가 어제보다 높게 시작(갭상승)하면 <strong>어제 세워둔 청산 계획 그대로 실행</strong>합니다. 매도 압력이 없으면 보유를 이어가세요.</p>
-
-<p>마이크론 실적으로 AI 메모리 수요가 다시 확인됐고, 국내 대표 반도체주로서 <strong>+7.34% 강세</strong> 흐름이 기대됩니다. 미국 반도체 지수의 윗꼬리는 살짝 걱정이지만 전체 흐름은 긍정적입니다.</p>
-
-<hr />
-
-<h3 id="2-대한항공-보유-중-">2. 대한항공 (보유 중) ✅</h3>
-
-<p><strong>오늘 행동:</strong> 시초가가 어제보다 높게 시작(갭상승)하면 <strong>어제 세워둔 청산 계획 그대로 실행</strong>합니다. 유가 하락 혜택이 이어질 전망입니다.</p>
-
-<p>국제유가 4개월 최저 + 항공·저가항공사 섹터 <strong>+4.45% 강세</strong>. 외국인과 기관 모두 꾸준히 사고 있어 수급 흐름도 좋습니다.</p>
-
-<hr />
-
-<h2 id="-오늘의-핵심-한-줄-정리">💡 오늘의 핵심 한 줄 정리</h2>
-
-<blockquote>
-  <p>“마이크론·유가 덕분에 반도체·항공 기회는 있지만, 나스닥 피로와 외국인 매도가 부담 — <strong>비중 70% 이하, 시초가 확인 후 분할 진입</strong>이 정답.”</p>
-</blockquote>
-
-<p>오늘도 성공적인 매매 되세요! 💪</p>
-
-<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
-
-<hr />
-
-<p>#종가배팅 #수급분석 #주식투자 #NextTheme #아침시황 #반도체주식 #SK하이닉스 #대한항공 #마이크론 #코스피전망</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[🌅 2026년 6월 26일 (목) — 반도체 기대감은 있지만, 조심스럽게 접근해야 할 아침입니다.]]></summary></entry></feed>
+<p>#종가배팅 #복기일지 #20260625 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-06-26 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
