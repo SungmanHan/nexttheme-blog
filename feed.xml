@@ -1,4 +1,138 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-01T15:20:39+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">LS ELECTRIC</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/01/nt2-1505-snapshot/" rel="alternate" type="text/html" title="LS ELECTRIC" /><published>2026-07-01T15:05:00+09:00</published><updated>2026-07-01T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/01/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/01/nt2-1505-snapshot/"><![CDATA[<p>📉 오늘(2026년 7월 1일) 코스피가 <strong>2% 가까이 하락</strong>하는 약세장이었습니다. 대부분의 종목이 힘을 쓰지 못한 하루였는데요, 그런 날에도 돈이 몰리는 곳은 반드시 생깁니다. 오늘 시장에서 그 자금이 향한 곳은 <strong>전력·인프라</strong>와 <strong>반도체 장비</strong> 섹터였습니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-02T06:04:39+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">RED — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/02/0600-briefing/" rel="alternate" type="text/html" title="RED — 오늘 아침 시황" /><published>2026-07-02T06:00:00+09:00</published><updated>2026-07-02T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/02/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/02/0600-briefing/"><![CDATA[<p>2026년 7월 2일 목요일 아침 시황 브리핑입니다 📊</p>
+
+<h2 id="오늘-아침-주식-시장-어떻게-열릴까요">오늘 아침, 주식 시장 어떻게 열릴까요?</h2>
+
+<p>어젯밤 미국에서 반도체 주식들이 크게 떨어졌습니다. 코스피도 <strong>-2.04%</strong> 급락하면서 오늘 개장 분위기가 무겁습니다. 하지만 전력·인프라 관련 주식들은 여전히 강세를 보이고 있어, 업종별로 차별화된 장이 펼쳐질 것으로 보입니다.</p>
+
+<hr />
+
+<h2 id="-간밤에-미국-시장에서는-무슨-일이">🌏 간밤에 미국 시장에서는 무슨 일이?</h2>
+
+<p>어젯밤 미국 뉴욕 증시 결과입니다:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>지수</th>
+      <th>변동</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>다우존스</td>
+      <td><strong>-0.03%</strong> (거의 보합)</td>
+    </tr>
+    <tr>
+      <td>S&amp;P500</td>
+      <td><strong>-0.22%</strong> (소폭 하락)</td>
+    </tr>
+    <tr>
+      <td>나스닥</td>
+      <td><strong>-0.66%</strong> (기술주 하락)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>전반적으로 미국 시장은 큰 폭의 하락은 아니었지만, 우리가 주목해야 할 건 <strong>반도체</strong> 업종입니다.</p>
+
+<p>마이크론(메모리 반도체 회사)이 <strong>-10%</strong> 급락했고, 필라델피아 반도체 지수도 <strong>-6.27%</strong> 떨어졌습니다. 미국 반도체 주식이 이렇게 크게 빠지면, 삼성전자·SK하이닉스 같은 국내 반도체 주식들도 영향을 받을 수밖에 없습니다.</p>
+
+<p>또 미국 Fed(중앙은행) 의장이 “인플레이션이 너무 높다”고 발언했는데, 이는 금리를 빠르게 내리기 어렵다는 신호여서 주식 시장 전반에 부담이 됩니다. 고용 지표도 <strong>9.8만 명</strong> 증가로 예상보다 낮게 나왔습니다.</p>
+
+<hr />
+
+<h2 id="-오늘의-베팅-등급은--red-위험">🚦 오늘의 베팅 등급은? — <strong>RED (위험)</strong></h2>
+
+<p>NextTheme AI가 오늘 시장에 <strong>RED</strong> 등급을 부여했습니다.
+<strong>베팅 심리지수: 25점</strong> (100점 만점, 낮을수록 위험)</p>
+
+<h3 id="red-등급이란">RED 등급이란?</h3>
+
+<p>RED는 “오늘은 적극적으로 사기보다는 조심하는 게 좋다”는 신호입니다. 큰 투자기관(기관)과 외국인 투자자들이 대규모로 주식을 팔고 있어 시장 전체가 약한 상태입니다.</p>
+
+<h3 id="ai가-제안하는-오늘의-전략">AI가 제안하는 오늘의 전략</h3>
+
+<blockquote>
+  <p>미국 반도체 폭락의 여파로 코스피가 <strong>-2.04%</strong> 급락한 상황입니다.
+전력·인프라 관련 주식(전선 <strong>+17%</strong>, 전력설비 <strong>+10%</strong>)은 여전히 강세지만,
+외국인이 <strong>-2.14조 원</strong>어치나 팔아치우며 시장 전반이 취약합니다.
+<strong>자금의 30% 이하만 제한적으로 진입하거나, 오늘은 관망을 권장합니다.</strong></p>
+</blockquote>
+
+<p>💡 <strong>한 줄 요약</strong>: 반도체는 피하고, 전력·인프라 쪽도 소량만, 아니면 그냥 지켜보세요.</p>
+
+<hr />
+
+<h2 id="-오늘-주목해야-할-변수들">📰 오늘 주목해야 할 변수들</h2>
+
+<h3 id="️-위험-요인">⚠️ 위험 요인</h3>
+
+<ul>
+  <li><strong>미국 반도체 대폭락</strong>: 마이크론 <strong>-10%</strong>, 필라반도체 <strong>-6.27%</strong> — 국내 반도체주 동반 약세 예상</li>
+  <li><strong>Fed 의장 발언</strong>: “인플레이션이 너무 높다” — 금리 인하 기대감이 꺾일 수 있어 주가에 부담</li>
+  <li><strong>외국인 대규모 매도</strong>: 어제 하루에만 <strong>-2.14조 원</strong> 팔았습니다. 평소보다 훨씬 많은 양</li>
+</ul>
+
+<h3 id="-기회-요인">💡 기회 요인</h3>
+
+<ul>
+  <li><strong>전력·인프라 순환매 지속</strong>: 전선 <strong>+17%</strong>, 전력설비 <strong>+10%</strong> — 이 업종은 아직 버티고 있습니다</li>
+  <li><strong>고환율 수출 우호</strong>: 달러 대비 원화가 <strong>1,551.5원</strong> 수준 — 수출 기업들에게는 좋은 환경</li>
+  <li><strong>국제 유가 하락</strong>: <strong>68.11달러</strong>로 4개월 최저 — 에너지 비용 부담 줄어드는 업종에 긍정</li>
+  <li><strong>코스닥 상대적 강세</strong>: 코스피가 빠질 때 코스닥은 <strong>+1.44%</strong> 반등 — 중소형주 쪽은 분위기가 달랐습니다</li>
+  <li><strong>금 안전자산 선호</strong>: 금 가격 <strong>+7.7달러</strong> 상승 — 불안한 시장에서 안전자산에 돈이 몰리는 흐름</li>
+</ul>
+
+<hr />
+
+<h2 id="-어제-ai-선별-복기--어제-어떤-종목을-봤었나요">📋 어제 AI 선별 복기 — 어제 어떤 종목을 봤었나요?</h2>
+
+<p><strong>전체 방향: 신중</strong> — 어제도 조심스럽게 접근하는 분위기였습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>어제 전략</th>
+      <th>오늘 판단</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>LS ELECTRIC</strong></td>
+      <td>갭 트레이딩 관찰</td>
+      <td>시초가 관찰 후 신중 접근</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>LS ELECTRIC</strong>은 전력 인프라 대장주로 어제 거래대금 <strong>1.1조 원</strong>의 강한 흐름을 보였습니다. 오늘도 전력설비 섹터 강세가 이어지고 있지만, 외국인 대규모 매도와 코스피 전반 급락으로 신규 진입은 보류 권고입니다. 시초가(장 시작 직후 가격)를 먼저 확인하고 결정하세요.</p>
+
+<hr />
+
+<h2 id="-결론--오늘-어떻게-대응할까요">✅ 결론 — 오늘 어떻게 대응할까요?</h2>
+
+<p>오늘은 <strong>관망 또는 극히 소량 진입</strong> 전략이 맞습니다.</p>
+
+<ul>
+  <li>❌ <strong>반도체 관련 주식</strong>: 오늘은 피하세요. 미국 반도체 폭락 여파가 국내까지 옵니다</li>
+  <li>⚡ <strong>전력·인프라 주식</strong>: 섹터 자체는 강하지만 시장 전체가 약할 때는 같이 흔들릴 수 있어요. 들어간다면 소량만</li>
+  <li>🛡️ <strong>안전자산 관심</strong>: 금처럼 불안할 때 오르는 자산 비중을 높이는 것도 방법입니다</li>
+  <li>👀 <strong>시초가 먼저 확인</strong>: 장 시작부터 크게 빠지면 오늘은 그냥 쉬는 게 답입니다</li>
+</ul>
+
+<blockquote>
+  <p>RED 등급인 날 무리하게 진입하면 손실 확률이 높아집니다.
+오늘처럼 외국인이 대규모로 파는 날엔 내일을 노리는 것도 훌륭한 전략입니다. 💪</p>
+</blockquote>
+
+<hr />
+
+<p>💬 오늘 시장 어떻게 보시나요? 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
+
+<hr />
+
+<p>#종가배팅 #수급분석 #주식투자 #NextTheme #오늘주식 #시황브리핑 #RED등급 #코스피 #전력주 #반도체하락</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[2026년 7월 2일 목요일 아침 시황 브리핑입니다 📊]]></summary></entry><entry><title type="html">LS ELECTRIC</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/01/nt2-1505-snapshot/" rel="alternate" type="text/html" title="LS ELECTRIC" /><published>2026-07-01T15:05:00+09:00</published><updated>2026-07-01T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/01/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/01/nt2-1505-snapshot/"><![CDATA[<p>📉 오늘(2026년 7월 1일) 코스피가 <strong>2% 가까이 하락</strong>하는 약세장이었습니다. 대부분의 종목이 힘을 쓰지 못한 하루였는데요, 그런 날에도 돈이 몰리는 곳은 반드시 생깁니다. 오늘 시장에서 그 자금이 향한 곳은 <strong>전력·인프라</strong>와 <strong>반도체 장비</strong> 섹터였습니다.</p>
 
 <p>전체 시장이 빠지는데 일부 테마에만 돈이 집중되는 현상을 ‘순환매 장세’라고 합니다. 이런 날일수록 돈이 몰리는 테마의 대표 종목을 잘 골라야 합니다. NextTheme 알고리즘이 오늘 최종 선별한 종목을 지금 공개합니다.</p>
 
@@ -2394,134 +2528,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <hr />
 
-<p>#종목분석 #주성엔지니어링 #수급분석 #NextTheme #036930 #반도체장비 #종가배팅 #주식투자 #외국인순매수 #기관매수</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[📅 분석 시점 &amp; 종목 소개]]></summary></entry><entry><title type="html">RED — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/06/29/0600-briefing/" rel="alternate" type="text/html" title="RED — 오늘 아침 시황" /><published>2026-06-29T06:00:00+09:00</published><updated>2026-06-29T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/06/29/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/06/29/0600-briefing/"><![CDATA[<h2 id="-오늘-아침-시장이-강한-경고를-보내고-있습니다">📢 오늘 아침, 시장이 강한 경고를 보내고 있습니다</h2>
-
-<p>안녕하세요, NextTheme입니다. 오늘(2026년 6월 29일) 아침은 지난주 역사적 폭락장의 여진이 채 가라앉지 않은 매우 긴장된 개장을 맞이하고 있습니다. 서킷브레이커까지 2번이나 발동되는 충격적인 하락을 경험한 뒤, 오늘 장을 어떻게 대응해야 할지 솔직하게 정리해 드리겠습니다.</p>
-
-<hr />
-
-<h2 id="-어젯밤-미국-시장은-어떻게-끝났나요">🌏 어젯밤 미국 시장은 어떻게 끝났나요?</h2>
-
-<p>어젯밤 미국 주식시장은 소폭 하락하며 마감했습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>지수</th>
-      <th>등락</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>다우존스</td>
-      <td><strong>-0.09%</strong></td>
-    </tr>
-    <tr>
-      <td>S&amp;P500</td>
-      <td><strong>-0.05%</strong></td>
-    </tr>
-    <tr>
-      <td>나스닥</td>
-      <td><strong>-0.24%</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>표면적으로 보면 미국 시장은 큰 하락 없이 보합권을 유지했습니다. 하지만 여기서 주목해야 할 숫자가 있습니다. 반도체 주식들의 선행 지표 역할을 하는 <strong>필라델피아 반도체 지수가 무려 -5.29%</strong> 급락한 것입니다.</p>
-
-<p>필라델피아 반도체 지수는 엔비디아, TSMC 등 글로벌 반도체 대표주를 모아 놓은 지수로, 삼성전자·SK하이닉스 같은 국내 반도체 기업 주가의 방향을 하루 앞서 보여주는 경향이 있습니다. 이 지수가 <strong>5% 넘게 급락했다는 것은 오늘 국내 반도체 주식에 추가 하락 압력이 상당할 수 있음</strong>을 의미합니다.</p>
-
-<hr />
-
-<h2 id="-오늘의-베팅-등급-red-위험-경보">🔴 오늘의 베팅 등급: RED (위험 경보)</h2>
-
-<p>NextTheme 알고리즘이 오늘 시장 상황을 <strong>RED 등급 / 점수 20점</strong>으로 평가했습니다.</p>
-
-<p>100점 만점에 20점은 “지금은 새로운 주식을 사는 것이 매우 위험하다”는 강한 경고 신호입니다. 점수가 낮을수록 시장 상황이 불안정하다는 의미이며, 현재 20점은 최근 몇 달 중 가장 낮은 수준입니다.</p>
-
-<h3 id="그렇다면-오늘-어떻게-대응해야-할까요">그렇다면 오늘 어떻게 대응해야 할까요?</h3>
-
-<blockquote>
-  <p><strong>한 마디 요약: 오늘은 관망이 최고의 전략입니다.</strong></p>
-</blockquote>
-
-<p>구체적인 행동 지침은 다음과 같습니다.</p>
-
-<ul>
-  <li>🚫 <strong>신규 매수 전면 보류</strong> — 오늘 새로운 종목을 사지 않는 것 자체가 전략입니다</li>
-  <li>⏳ <strong>오늘 예정된 중요 경제 발표 3가지 대기</strong>
-    <ul>
-      <li><strong>08:00</strong> 한국 소매판매 지수 발표</li>
-      <li><strong>23:00</strong> 미국 JOLTS 발표 (미국 기업들이 현재 직원을 얼마나 더 뽑으려 하는지 나타내는 지표)</li>
-      <li><strong>23:00</strong> 미국 CB 소비자신뢰지수 발표 (미국 소비자들이 경기를 어떻게 느끼는지)</li>
-    </ul>
-  </li>
-  <li>⚠️ <strong>이미 주식을 보유 중이라면</strong> — 손절선 <strong>-3%</strong>를 반드시 지킬 것. 이 선을 넘으면 과감하게 정리하는 것이 장기적으로 유리합니다</li>
-  <li>📉 <strong>반등이 온다고 해서 서두르지 마세요</strong> — 급반등 시에도 분할 익절을 우선으로 하고, 추가 매수는 금물</li>
-  <li>🚫 <strong>레버리지 상품 절대 금지</strong> — 반도체 레버리지 ETF, 곱버스 등은 변동성이 극심한 지금 건드리면 큰 손실이 날 수 있습니다</li>
-</ul>
-
-<hr />
-
-<h2 id="-지금-시장에서-무슨-일이-벌어지고-있나요">📰 지금 시장에서 무슨 일이 벌어지고 있나요?</h2>
-
-<h3 id="-국내-시장-역사적인-폭락">🇰🇷 국내 시장: 역사적인 폭락</h3>
-
-<p>전 거래일 코스피가 <strong>-7.08%</strong> 급락하면서 <strong>서킷브레이커(거래 일시정지)가 하루에 2번</strong>이나 발동됐습니다. 서킷브레이커는 주가가 너무 빠르게 떨어질 때 시장을 잠시 멈추는 안전장치인데, 하루에 2번 발동되는 것은 대단히 이례적인 사태입니다.</p>
-
-<p>한 주 동안 국내 주식 시장에서 <strong>425조 원이 증발</strong>했으며, 외국인 투자자와 큰 투자기관들이 합쳐서 무려 <strong>20조 원 이상을 팔아치웠습니다</strong>. 특히 삼성전자·SK하이닉스 등 반도체 주식에 매도가 집중되는 비율이 <strong>58%</strong>에 달해 역대 최고 수준이었습니다.</p>
-
-<h3 id="-지정학적-위험-중동-긴장">🌍 지정학적 위험: 중동 긴장</h3>
-
-<p>미국과 이란 사이의 긴장이 <strong>호르무즈 해협</strong>에서 3일째 충돌이 이어지고 있습니다. 호르무즈 해협은 전 세계 석유 수출량의 약 20%가 지나가는 핵심 통로입니다. 이 곳에서 분쟁이 길어지면 국제 유가가 상승하고, 이는 전반적인 경기와 주식 시장에 부정적인 영향을 줄 수 있습니다.</p>
-
-<h3 id="-반도체-업종-추가-조정-가능성">💻 반도체 업종: 추가 조정 가능성</h3>
-
-<p>나스닥 지수는 <strong>15개월 만에 최대 월간 하락</strong>을 기록했습니다. SK하이닉스는 미국 주식 시장 상장(ADR) 계획이 7월로 예정돼 있고, 일부 증권사에서는 목표 주가를 330만 원까지 높게 제시했지만, 단기적으로는 매도 압력이 강한 상황입니다.</p>
-
-<hr />
-
-<h2 id="-nexttheme-알고리즘-요약">📌 NextTheme 알고리즘 요약</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>항목</th>
-      <th>내용</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>등급</td>
-      <td>🔴 <strong>RED</strong> (위험 구간)</td>
-    </tr>
-    <tr>
-      <td>점수</td>
-      <td><strong>20점</strong> / 100점</td>
-    </tr>
-    <tr>
-      <td>오늘 전략</td>
-      <td>관망 또는 극소량(<strong>30% 이하</strong>) 진입만 허용</td>
-    </tr>
-    <tr>
-      <td>핵심 리스크</td>
-      <td>반도체 추가 하락 + 경제 지표 불확실성</td>
-    </tr>
-  </tbody>
-</table>
-
-<hr />
-
-<h2 id="-결론-오늘은-현금이-최고의-포지션입니다">✅ 결론: 오늘은 현금이 최고의 포지션입니다</h2>
-
-<p>시장이 크게 흔들릴 때 가장 중요한 것은 <strong>‘아무것도 하지 않는 용기’</strong> 입니다. RED 등급 상황에서 무리하게 매수하다 손실을 키우는 것보다, 오늘 예정된 경제 발표 결과를 확인한 뒤 더 좋은 기회를 기다리는 것이 현명한 선택입니다.</p>
-
-<p>조급함이 가장 큰 적입니다. 폭락장 이후 반등처럼 보이는 움직임도 ‘죽은 고양이의 반등’일 수 있으니, 충분히 확인된 이후에 움직이세요.</p>
-
-<p>오늘도 소중한 자산을 지키는 현명한 투자 되세요! 🙏</p>
-
-<hr />
-
-<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 아침 시황 분석을 받아보실 수 있어요 😊</p>
-
-<p>#종가배팅 #수급분석 #주식투자 #오늘시황 #코스피 #NextTheme #RED등급 #서킷브레이커 #반도체주식 #주식초보</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[📢 오늘 아침, 시장이 강한 경고를 보내고 있습니다]]></summary></entry></feed>
+<p>#종목분석 #주성엔지니어링 #수급분석 #NextTheme #036930 #반도체장비 #종가배팅 #주식투자 #외국인순매수 #기관매수</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[📅 분석 시점 &amp; 종목 소개]]></summary></entry></feed>
