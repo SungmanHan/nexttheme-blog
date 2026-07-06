@@ -156,6 +156,7 @@
 .badge-snap     { background: var(--c-snap-bg);    color: var(--c-snap); }
 .badge-weekly   { background: var(--c-weekly-bg);  color: var(--c-weekly); }
 .badge-detail   { background: var(--c-detail-bg);  color: var(--c-detail); }
+.badge-daily    { background: var(--c-daily-bg);   color: var(--c-daily); }
 .badge-other    { background: var(--c-surface-2);  color: var(--c-text-sub); }
 
 /* === Grade tags === */

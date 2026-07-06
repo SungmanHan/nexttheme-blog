@@ -18,13 +18,14 @@
   --c-up:        #d63031;
   --c-down:      #2563eb;
 
-  /* === Category badge colors (7 types) === */
+  /* === Category badge colors (8 types) === */
   --c-brief:     #075985;   /* BRIEFING */
   --c-midsnap:   #c2410c;   /* SNAPSHOT-MID */
   --c-snap:      #991b1b;   /* SNAPSHOT (final) */
   --c-weekly:    #6b21a8;   /* WEEKLY */
   --c-detail:    #0f766e;   /* DETAIL */
   --c-review:    #b45309;   /* REVIEW (종가배팅복기) */
+  --c-daily:     #4338ca;   /* DAILY (하루 마감 종합) */
 
   --c-brief-bg:    #e0f2fe;
   --c-midsnap-bg:  #ffedd5;
@@ -32,6 +33,7 @@
   --c-weekly-bg:   #f3e8ff;
   --c-detail-bg:   #ccfbf1;
   --c-review-bg:   #fef3c7;
+  --c-daily-bg:    #e0e7ff;
 
   /* === Briefing grade colors === */
   --c-grade-red:    #ef4444;
@@ -91,6 +93,7 @@
     --c-weekly-bg:   #3b0764;
     --c-detail-bg:   #042f2e;
     --c-review-bg:   #451a03;
+    --c-daily-bg:    #312e81;
     --c-grade-green-bg: #14532d;
 
     --sh-sm: 0 1px 3px rgba(0,0,0,0.3);

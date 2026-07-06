@@ -1,4 +1,385 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-06T20:07:05+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">한화오션 외</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/06/nt2-1505-snapshot/" rel="alternate" type="text/html" title="한화오션 외" /><published>2026-07-06T15:05:00+09:00</published><updated>2026-07-06T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/06/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/06/nt2-1505-snapshot/"><![CDATA[<p>안녕하세요! 오늘(2026년 7월 6일) 장이 끝났습니다. 📊
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-06T23:40:34+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">반도체 약세·외인 매도 속 조선·건설만 빛난 하루 — 하루 마감 종합</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/06/daily/" rel="alternate" type="text/html" title="반도체 약세·외인 매도 속 조선·건설만 빛난 하루 — 하루 마감 종합" /><published>2026-07-06T21:00:00+09:00</published><updated>2026-07-06T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/06/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/06/daily/"><![CDATA[<p>안녕하세요, NextTheme 종가배팅 분석입니다 📊
+오늘 7월 6일(월) 시장은 한마디로 <strong>“반도체는 무겁고, 조선·건설은 빛났다”</strong>는 말로 정리됩니다.
+코스피는 겨우 보합을 유지했지만 코스닥은 크게 빠졌고, 외국인 큰손들은 2조원 넘게 팔아치웠습니다.</p>
+
+<hr />
+
+<h2 id="-어젯밤-미국-시장--반도체가-발목을-잡다">🌙 어젯밤 미국 시장 — 반도체가 발목을 잡다</h2>
+
+<p>어제 미국 시장은 혼조세였습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>지수</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>다우존스</td>
+      <td><strong>+1.14%</strong></td>
+    </tr>
+    <tr>
+      <td>S&amp;P 500</td>
+      <td><strong>0.00%</strong></td>
+    </tr>
+    <tr>
+      <td>나스닥</td>
+      <td><strong>-0.80%</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>겉으로는 나쁘지 않아 보이지만, 문제는 <strong>반도체 전문 지수(필라델피아 반도체 지수)가 -5.45% 급락</strong>했다는 점입니다. SNS 대기업 메타가 클라우드 사업 방향을 바꾼다는 소식에 AI·데이터센터 관련 반도체 기업들이 줄줄이 하락했습니다. 이 여파가 오늘 국내 반도체주를 강하게 눌렀습니다.</p>
+
+<p>오늘 밤 한국 시간 <strong>23:00</strong>에는 미국 ISM 비제조업 지수(미국 서비스업 경기 척도)가 발표됩니다. 결과에 따라 내일 시장 방향도 영향을 받을 수 있습니다.</p>
+
+<hr />
+
+<h2 id="-오늘-코스피코스닥-마감-결과">📊 오늘 코스피·코스닥 마감 결과</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>지수</th>
+      <th>종가</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>코스피</strong></td>
+      <td><strong>8,051.33pt</strong></td>
+      <td><strong>-0.46%</strong></td>
+    </tr>
+    <tr>
+      <td><strong>코스닥</strong></td>
+      <td><strong>847.07pt</strong></td>
+      <td><strong>-2.46%</strong></td>
+    </tr>
+    <tr>
+      <td>원/달러 환율</td>
+      <td><strong>1,531.6원</strong></td>
+      <td>—</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>코스피는 그나마 -0.46%로 버텼지만, 코스닥은 -2.46% 하락해 중소형 기술주들이 무너졌습니다.</p>
+
+<h3 id="코스피-최근-2주-흐름">코스피 최근 2주 흐름</h3>
+
+<p>지난 6월 22일 <strong>9,114pt</strong> 고점 이후 코스피는 지속적으로 조정을 받아, 지난 7월 2일(수) <strong>7,648pt</strong>까지 빠졌습니다. 이후 7월 3일(금) <strong>+5.76% 급반등</strong>(기관이 4.6조원을 사들이며 주도)이 나왔고, 오늘은 그 반등 자리를 소화하는 흐름이었습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>날짜</th>
+      <th>코스피</th>
+      <th>비고</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>6/22</td>
+      <td>9,114.55</td>
+      <td>고점</td>
+    </tr>
+    <tr>
+      <td>6/23</td>
+      <td>8,203.84</td>
+      <td>급락 시작</td>
+    </tr>
+    <tr>
+      <td>7/2</td>
+      <td>7,648.09</td>
+      <td>저점</td>
+    </tr>
+    <tr>
+      <td>7/3 (금)</td>
+      <td>8,088.34</td>
+      <td><strong>+5.76% 급반등</strong></td>
+    </tr>
+    <tr>
+      <td><strong>7/6 (오늘)</strong></td>
+      <td><strong>8,051.33</strong></td>
+      <td>-0.46% 숨 고르기</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>코스닥도 6월 1,031pt에서 오늘 847pt까지 약 18% 조정을 받은 상태입니다.</p>
+
+<hr />
+
+<h2 id="-오늘-돈이-가장-많이-몰린-종목들">💰 오늘 돈이 가장 많이 몰린 종목들</h2>
+
+<blockquote>
+  <p>거래대금 = 하루 동안 해당 종목에 얼마나 많은 돈이 오갔는지 보여주는 지표입니다. 많을수록 시장의 관심이 집중됐다는 뜻이에요.</p>
+</blockquote>
+
+<table>
+  <thead>
+    <tr>
+      <th>순위</th>
+      <th>종목명</th>
+      <th>거래대금</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>SK하이닉스</td>
+      <td><strong>1,382.8억원</strong></td>
+      <td>-2.6%</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>삼성전자</td>
+      <td><strong>1,149.7억원</strong></td>
+      <td>+1.8%</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>삼성전기</td>
+      <td><strong>214.6억원</strong></td>
+      <td>-8.4%</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>SK스퀘어</td>
+      <td><strong>176.0억원</strong></td>
+      <td>-6.2%</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>한화오션</td>
+      <td><strong>109.6억원</strong></td>
+      <td><strong>+8.0%</strong></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>레몬헬스케어</td>
+      <td><strong>96.5억원</strong></td>
+      <td>+0.9%</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>삼성전자우</td>
+      <td><strong>78.2억원</strong></td>
+      <td>+1.2%</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>현대차</td>
+      <td><strong>66.9억원</strong></td>
+      <td>+1.2%</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>LS ELECTRIC</td>
+      <td><strong>35.4억원</strong></td>
+      <td>-5.2%</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>두산에너빌리티</td>
+      <td><strong>34.7억원</strong></td>
+      <td>-1.3%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>오늘 반도체 대장주들은 방향이 엇갈렸습니다.</p>
+<ul>
+  <li><strong>삼성전자</strong>: 오는 7일(화) 2분기 실적 발표를 앞두고 기대감에 <strong>+1.8%</strong> 상승</li>
+  <li><strong>SK하이닉스</strong>: 미국 반도체 지수 급락 여파로 <strong>-2.6%</strong> 하락</li>
+  <li><strong>삼성전기</strong>: 무려 <strong>-8.4%</strong> 급락 (반도체 소재·부품 중 가장 큰 낙폭)</li>
+</ul>
+
+<p>5위 <strong>한화오션</strong>이 오늘의 주인공입니다. <strong>+8.0% 급등</strong>하며 조선 섹터 전체를 이끌었습니다. 캐나다의 대형 잠수함 건조 사업 발표가 임박했다는 재료가 강한 매수를 불렀습니다.</p>
+
+<hr />
+
+<h2 id="-오늘-가장-강했던-테마는">🔥 오늘 가장 강했던 테마는?</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>테마</th>
+      <th>상승 종목</th>
+      <th>전체 종목</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>그린카·하이브리드카/전기차</td>
+      <td>6개</td>
+      <td>13개</td>
+    </tr>
+    <tr>
+      <td>조선·해양플랜트</td>
+      <td><strong>4개</strong></td>
+      <td><strong>4개</strong> (전종목 상승!)</td>
+    </tr>
+    <tr>
+      <td>조선·Eco선</td>
+      <td>4개</td>
+      <td>5개</td>
+    </tr>
+    <tr>
+      <td>증권</td>
+      <td><strong>18개</strong></td>
+      <td><strong>19개</strong></td>
+    </tr>
+    <tr>
+      <td>건설·해외건설</td>
+      <td>2개</td>
+      <td>5개</td>
+    </tr>
+    <tr>
+      <td>방위산업</td>
+      <td>7개</td>
+      <td>10개</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>오늘 두 테마가 압도적이었습니다.</p>
+
+<ul>
+  <li><strong>조선·해양플랜트</strong>: 테마에 속한 4종목 <strong>전부</strong> 상승했습니다. 이런 경우는 흔치 않습니다. 한화오션을 비롯해 조선 대형주들이 일제히 올랐습니다.</li>
+  <li><strong>증권</strong>: 19개 종목 중 18개가 상승했습니다. 시장 변동성이 커지면 증권주에 거래 수수료가 늘어난다는 기대감이 작용한 것으로 보입니다.</li>
+</ul>
+
+<p>반면 반도체·IT 계열은 전반적으로 무거운 흐름이었습니다.</p>
+
+<hr />
+
+<h2 id="-오늘-ai가-고른-종가배팅-종목">🎯 오늘 AI가 고른 종가배팅 종목</h2>
+
+<blockquote>
+  <p><strong>오늘 베팅등급: 🔴 RED</strong>
+“코스피가 장중 약세로 전환되고 외국인이 <strong>2.38조원</strong> 어치를 판 하루였습니다. 시장 분위기가 좋지 않아 AI는 가장 신중한 모드(RED)로 판단했습니다.”</p>
+</blockquote>
+
+<p>RED 등급이란 “시장 전체 환경이 좋지 않으니 선별 종목을 최소화하고, 정말 좋은 종목만 담자”는 의미입니다. 그럼에도 내일 아침 갭 상승 가능성이 높은 종목 2개가 선택됐습니다.</p>
+
+<h3 id="-gs건설-006360--총점-43점">① GS건설 (006360) — 총점 <strong>43점</strong></h3>
+<ul>
+  <li>전략: <strong>갭 트레이드</strong> (내일 시초가 갭 상승 노림)</li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>종가: <strong>30,450원</strong></td>
+          <td>오늘 등락률: <strong>+6.65%</strong></td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+</ul>
+
+<p>오늘 건설 섹터에서 가장 강하게 오른 종목입니다. 큰 투자기관과 외국인이 동시에 사들인 종목으로, 오후에도 재차 상승하며 건강한 흐름을 보였습니다. 매수 주문이 두껍게 쌓여 있어 안정감이 있었습니다. 다만 오늘 거래대금이 약 <strong>1,080억원</strong>으로 1·2위 종목들보다는 상대적으로 얇다는 점은 유의할 필요가 있습니다.</p>
+
+<h3 id="-한화오션-042660--총점-41점">② 한화오션 (042660) — 총점 <strong>41점</strong></h3>
+<ul>
+  <li>전략: <strong>갭 트레이드</strong> (내일 시초가 갭 상승 노림)</li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>종가: <strong>115,400원</strong></td>
+          <td>오늘 등락률: <strong>+7.95%</strong></td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+</ul>
+
+<p>오늘 조선 테마 전체에서 거래대금이 <strong>압도적 1위</strong>였습니다. 캐나다 잠수함 사업 발표 임박이라는 강력한 재료가 있습니다. 이런 구체적인 이벤트가 있을 때는 내일 아침에도 관련 뉴스를 타고 추격 매수가 들어오는 경우가 많습니다.</p>
+
+<hr />
+
+<h2 id="-선별-복기-어제오늘-2층-구조">🔍 선별 복기 (어제·오늘 2층 구조)</h2>
+
+<h3 id="-어제75-선별--오늘-아침-실현-성과">① 어제(7/5) 선별 → 오늘 아침 실현 성과</h3>
+
+<blockquote>
+  <p>📭 어제 선별된 종목 데이터가 없어 복기를 생략합니다.</p>
+</blockquote>
+
+<hr />
+
+<h3 id="-오늘76-선별--애프터마켓-잠정-흐름">② 오늘(7/6) 선별 → 애프터마켓 잠정 흐름</h3>
+
+<p>오늘 AI가 선별한 종목들이 장 마감 후(오후 4~8시) 어떻게 움직였는지 잠정 흐름입니다.
+⚠️ <strong>실제 수익은 내일 아침 시초가에서 결정됩니다. 아래 수치는 확정 성과가 아닙니다.</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>② 잠정 갭%</th>
+      <th>세션 내 최고%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>GS건설</td>
+      <td>+0.5%</td>
+      <td>+0.5%</td>
+    </tr>
+    <tr>
+      <td>한화오션</td>
+      <td>-1.2%</td>
+      <td>+0.3%</td>
+    </tr>
+    <tr>
+      <td>미래에셋증권</td>
+      <td>-0.1%</td>
+      <td>+2.0%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>애프터마켓은 거래량이 매우 적어 방향이 내일 아침과 달라질 수 있습니다. 내일 아침 실제 시초가 결과는 다음 글에서 확인하세요.</p>
+
+<hr />
+
+<h2 id="-오늘-하루-총정리">📝 오늘 하루 총정리</h2>
+
+<p>오늘은 한마디로 <strong>‘두 개의 시장’</strong>이 공존했습니다.</p>
+
+<ul>
+  <li>🔴 <strong>무거웠던 쪽</strong>: 반도체(SK하이닉스 -2.6%, 삼성전기 -8.4%), 코스닥(-2.46%), 외국인 2.38조원 순매도</li>
+  <li>🟢 <strong>강했던 쪽</strong>: 조선(한화오션 +8.0%), 건설(GS건설 +6.65%), 증권 테마(19개 중 18개 상승)</li>
+</ul>
+
+<p><strong>내일(7/7) 핵심 포인트:</strong></p>
+<ul>
+  <li>📊 <strong>삼성전자 2분기 실적 발표</strong> — 컨센서스(시장 예상) 영업이익 약 85조원. 결과에 따라 내일 반도체 섹터와 시장 전체 방향이 결정됩니다</li>
+  <li>🌏 <strong>오늘 밤 ISM 비제조업 지수</strong> (한국 시간 23:00)</li>
+  <li>🚢 <strong>조선 테마 모멘텀 지속 여부</strong> — 캐나다 잠수함 사업 관련 추가 뉴스 여부</li>
+</ul>
+
+<hr />
+
+<h2 id="-마무리">✨ 마무리</h2>
+
+<blockquote>
+  <p><em>“시장이 두 갈래로 갈릴 때, 흐름을 읽는 눈이 수익을 만듭니다.”</em></p>
+</blockquote>
+
+<p>내일도 NextTheme AI가 시장을 꼼꼼히 분석해 가장 좋은 종가배팅 후보를 찾아드립니다 🔍</p>
+
+<p>💬 <strong>오늘 시장 어떻게 보셨나요? 댓글로 의견 나눠주세요! 이웃 추가하면 매일 아침 브리핑과 저녁 마감 분석을 받아보실 수 있어요 😊</strong></p>
+
+<hr />
+
+<p>#종가배팅 #수급분석 #주식투자 #NextTheme #코스피 #오늘주식 #한화오션 #GS건설 #종목분석 #하루마감</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[안녕하세요, NextTheme 종가배팅 분석입니다 📊 오늘 7월 6일(월) 시장은 한마디로 “반도체는 무겁고, 조선·건설은 빛났다”는 말로 정리됩니다. 코스피는 겨우 보합을 유지했지만 코스닥은 크게 빠졌고, 외국인 큰손들은 2조원 넘게 팔아치웠습니다.]]></summary></entry><entry><title type="html">한화오션 외</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/06/nt2-1505-snapshot/" rel="alternate" type="text/html" title="한화오션 외" /><published>2026-07-06T15:05:00+09:00</published><updated>2026-07-06T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/06/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/06/nt2-1505-snapshot/"><![CDATA[<p>안녕하세요! 오늘(2026년 7월 6일) 장이 끝났습니다. 📊
 코스피가 장 후반 약세로 돌아서고 외국인이 무려 <strong>2조 3,800억 원</strong>을 팔아치운 어려운 날이었는데요, 그럼에도 불구하고 <strong>조선·증권·건설</strong> 섹터에는 돈이 몰렸습니다. 시장 전체는 힘들어도, 특정 종목에는 기회가 있다는 걸 오늘 다시 확인했습니다. 💪</p>
 
 <hr />
@@ -1793,126 +2174,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <hr />
 
-<p>#종가배팅 #수급분석 #주식투자 #NextTheme #코스피 #오늘주식 #시황브리핑 #KB금융 #반도체주 #주식초보</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[📅 2026년 7월 3일 (목) 06:00 브리핑]]></summary></entry><entry><title type="html">KB금융</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/02/nt2-1505-snapshot/" rel="alternate" type="text/html" title="KB금융" /><published>2026-07-02T15:05:00+09:00</published><updated>2026-07-02T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/02/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/02/nt2-1505-snapshot/"><![CDATA[<p>📉 코스피 <strong>-7%</strong>, 오늘 장은 그야말로 전쟁터였습니다</p>
-
-<p>2026년 7월 2일, 코스피가 <strong>-7%</strong> 급락한 날입니다. 반도체, 2차전지, 바이오… 대부분의 종목이 날벼락을 맞은 하루였죠. 이런 날, 투자자 대부분은 멍하니 화면만 바라봤을 겁니다. “이럴 때 어디에 돈이 숨어 있을까?” — NextTheme 알고리즘은 그 답을 찾아냈습니다. 👀</p>
-
-<hr />
-
-<h2 id="-오늘-시장-한마디로-요약하면">📊 오늘 시장, 한마디로 요약하면?</h2>
-
-<p><strong>“폭락장 속 살얼음판”</strong>이었습니다.</p>
-
-<p>거의 모든 테마의 거래대금은 오히려 늘었습니다. 공포에 팔자 물량이 쏟아졌기 때문이죠. 그런데 주가는 내려갔습니다. 즉, 팔려는 사람이 사려는 사람보다 훨씬 많았던 날이에요.</p>
-
-<p>딱 하나, 예외가 있었습니다. <strong>은행 테마</strong>였습니다.</p>
-
-<p>🔑 오늘의 핵심 수치:</p>
-<ul>
-  <li>코스피 <strong>-7%</strong> 하락 (충격적인 수준)</li>
-  <li>은행 테마 <strong>+3.4%</strong> (유일하게 방어)</li>
-  <li>은행 테마 거래대금: <strong>4,182억 원</strong> (전 테마 1위)</li>
-</ul>
-
-<hr />
-
-<h2 id="-오늘의-선별-종목-kb금융">💰 오늘의 선별 종목: KB금융</h2>
-
-<h3 id="폭락장에서도-혼자-오른-종목이-있다">“폭락장에서도 혼자 오른 종목이 있다?”</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>항목</th>
-      <th>내용</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>종목명</td>
-      <td>KB금융 (105560)</td>
-    </tr>
-    <tr>
-      <td>진입 참고가</td>
-      <td><strong>164,700원</strong></td>
-    </tr>
-    <tr>
-      <td>NextTheme 점수</td>
-      <td><strong>37점</strong></td>
-    </tr>
-    <tr>
-      <td>선별 신뢰도</td>
-      <td>LOW (낮음)</td>
-    </tr>
-    <tr>
-      <td>전략</td>
-      <td>내일 시초가 갭 트레이드</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>📌 <strong>왜 KB금융이 선택됐을까요?</strong></p>
-
-<p>오늘 코스피가 <strong>-7%</strong> 폭락하는 와중에 KB금융이 속한 은행 테마는 <strong>+3.4%</strong> 올랐습니다. 다른 테마가 모두 무너질 때 “방어 순환매”가 들어온 것이죠. 쉽게 말하면, 시장이 무서울 때 투자자들이 그나마 안전하다고 판단한 곳으로 돈이 몰렸다는 뜻입니다.</p>
-
-<p>구체적으로 보면:</p>
-<ul>
-  <li>🏦 <strong>큰 투자기관(기관)</strong> 이 KB금융 주식을 오늘 하루에만 <strong>71만 주</strong> 나 사들였습니다</li>
-  <li>📈 15분봉 차트에서 <strong>60일 이동평균선</strong>(가격이 지지받는 중요 기준선) 위에서 반등을 확인했습니다</li>
-  <li>💸 은행 테마 거래대금이 <strong>전 종목 1위(4,182억 원)</strong> 로, 오늘 장에서 실제 돈이 가장 많이 몰린 곳</li>
-</ul>
-
-<hr />
-
-<h2 id="-nexttheme-알고리즘이-주목한-이유">🤖 NextTheme 알고리즘이 주목한 이유</h2>
-
-<h3 id="알고리즘은-폭락장에서-무엇을-볼까">“알고리즘은 폭락장에서 무엇을 볼까?”</h3>
-
-<p>NextTheme는 매일 수천 개의 종목 중에서 <strong>“내일 시초가에 갭 상승할 가능성이 높은 종목”</strong> 을 찾아냅니다.</p>
-
-<p>오늘처럼 코스피가 폭락하는 날, 알고리즘이 주목하는 건 딱 하나입니다 — <strong>“오늘 하루 동안 진짜 돈이 몰린 곳이 어디냐?”</strong></p>
-
-<p>KB금융은 그 답이었습니다. 기관이 <strong>71만 주</strong>를 매수하고, 은행 테마 거래대금 <strong>1위</strong>를 기록했으니까요. 폭락장에서도 살아남는 ‘기둥 종목’의 특징을 보여줬습니다.</p>
-
-<hr />
-
-<h2 id="️-반드시-알아야-할-리스크">⚠️ 반드시 알아야 할 리스크</h2>
-
-<blockquote>
-  <p><strong>오늘 밤 미국 비농업고용지수 발표가 예정돼 있습니다.</strong>
-이 지표가 나쁘게 나오거나 반도체 투매가 계속된다면, 내일 아침 은행주도 갭하락할 수 있습니다.</p>
-</blockquote>
-
-<p>그래서 오늘 신뢰도가 <strong>“LOW(낮음)”</strong> 입니다. 선별은 됐지만 변수가 크다는 뜻이에요. 이런 날일수록 손절선을 철저히 지켜야 합니다.</p>
-
-<hr />
-
-<h2 id="-전략-요약--이렇게-대응하세요">📋 전략 요약 — 이렇게 대응하세요</h2>
-
-<p>✅ <strong>GAP_TRADE 전략</strong> — 내일 시초가(장 시작 직후 가격)를 보고 갭 상승 시 단기 매매</p>
-
-<ul>
-  <li>진입 참고가: <strong>164,700원</strong> 부근</li>
-  <li><strong>손절 -2% 엄수</strong> (폭락장 특성상 반등이 와도 다시 꺾일 수 있음)</li>
-  <li>오늘 밤 뉴스(미국 고용지표) 반드시 확인 후 판단</li>
-</ul>
-
-<p>❌ <strong>하면 안 되는 것</strong></p>
-<ul>
-  <li>손절선(-2%)을 무시하고 버티기</li>
-  <li>고용지표 발표 전 큰 포지션 진입</li>
-</ul>
-
-<hr />
-
-<h2 id="-마무리">🏁 마무리</h2>
-
-<p>오늘은 코스피 <strong>-7%</strong> 폭락이라는 충격적인 하루였습니다. 그럼에도 NextTheme 알고리즘은 단 하나의 기둥 — <strong>KB금융</strong>을 찾아냈습니다. 은행 테마로 방어 순환매가 들어온 것이죠.</p>
-
-<p>다만 신뢰도 “LOW”이고 오늘 밤 미국 고용지표라는 변수가 있는 만큼, 포지션 크기를 줄이고 손절선을 철저히 지키는 전략이 중요합니다. 폭락장에서 살아남는 것이 먼저입니다.</p>
-
-<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
-
-<hr />
-
-<p>#종가배팅 #수급분석 #NextTheme #KB금융 #주식투자 #은행주 #코스피폭락 #갭트레이드 #종목분석 #주식알림</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[📉 코스피 -7%, 오늘 장은 그야말로 전쟁터였습니다]]></summary></entry></feed>
+<p>#종가배팅 #수급분석 #주식투자 #NextTheme #코스피 #오늘주식 #시황브리핑 #KB금융 #반도체주 #주식초보</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[📅 2026년 7월 3일 (목) 06:00 브리핑]]></summary></entry></feed>
