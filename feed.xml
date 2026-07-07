@@ -1,4 +1,99 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-07T10:03:35+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">7/6 종가배팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/07/review-20260706-review/" rel="alternate" type="text/html" title="7/6 종가배팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-07-07T09:00:00+09:00</published><updated>2026-07-07T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/07/review_20260706-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/07/review-20260706-review/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-07T20:07:01+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">KB금융</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/07/nt2-1505-snapshot/" rel="alternate" type="text/html" title="KB금융" /><published>2026-07-07T15:05:00+09:00</published><updated>2026-07-07T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/07/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/07/nt2-1505-snapshot/"><![CDATA[<h2 id="오늘-시장-정말-무섭지-않으셨나요-">오늘 시장, 정말 무섭지 않으셨나요? 😨</h2>
+
+<p>2026년 7월 7일(월), 코스피 지수가 하루 만에 <strong>5% 가까이</strong> 급락하며 서킷브레이커(주식 거래 일시 중단 제도)까지 발동됐습니다. 반도체 업종이 “이미 최고점을 지났다”는 우려가 확산되면서 외국인 투자자들이 대규모로 주식을 팔아치웠기 때문입니다.</p>
+
+<p>이런 날일수록 중요한 것은 <strong>어디에 돈이 모이는가</strong> 입니다. 오늘 NextTheme AI가 발견한 흐름, 지금 바로 공유합니다.</p>
+
+<hr />
+
+<h2 id="-공포-속에서-돈이-몰린-곳은-어디일까요">💰 공포 속에서 돈이 몰린 곳은 어디일까요?</h2>
+
+<p>급락장에서 투자자들은 상대적으로 안전한 곳을 찾게 됩니다. 오늘 그 무대는 <strong>은행</strong>과 <strong>정유</strong> 같은 실적이 탄탄한 방어 업종이었습니다.</p>
+
+<p>반도체·성장주에서 빠져나온 자금이 이쪽으로 집중됐고, NextTheme 알고리즘이 이 흐름을 정확히 포착했습니다.</p>
+
+<hr />
+
+<h2 id="-오늘의-핵심-선별-종목-kb금융">🏦 오늘의 핵심 선별 종목: KB금융</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>항목</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>종목명</td>
+      <td>KB금융 (105560)</td>
+    </tr>
+    <tr>
+      <td>전략</td>
+      <td>갭 상승 매매 (GAP_TRADE)</td>
+    </tr>
+    <tr>
+      <td>알고리즘 점수</td>
+      <td><strong>39점</strong></td>
+    </tr>
+    <tr>
+      <td>진입 기준가</td>
+      <td><strong>172,800원</strong></td>
+    </tr>
+    <tr>
+      <td>비중</td>
+      <td><strong>100%</strong> (단독 선별)</td>
+    </tr>
+    <tr>
+      <td>신뢰도</td>
+      <td>보통 (MEDIUM)</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="왜-kb금융이-선택됐을까요">왜 KB금융이 선택됐을까요?</h3>
+
+<p>오늘처럼 시장 전체가 무너지는 날, KB금융에는 특별한 일이 일어났습니다.</p>
+
+<ul>
+  <li>🔴 <strong>거래대금 4배 폭증</strong>: 평소보다 무려 4배나 많은 돈이 KB금융 하루 만에 거래됐습니다. 시장이 공포에 빠진 날에도 누군가는 열심히 사들이고 있었다는 신호입니다.</li>
+  <li>📈 <strong>큰 투자기관(기관)이 5일 연속 순매수</strong>: 큰 기관 투자자들이 닷새째 쉬지 않고 KB금융을 사들이고 있습니다. 단기 반등 기대가 아닌, 중장기 관점의 매수 신호입니다.</li>
+  <li>🛡️ <strong>지지선 방어 후 반등</strong>: 단기 차트(15분봉)에서 중요한 지지선을 지키며 반등에 성공했습니다.</li>
+</ul>
+
+<p>시장이 무너질 때 혼자 버텨내는 종목, 이것이 바로 NextTheme이 찾아내는 “기둥”입니다.</p>
+
+<hr />
+
+<h2 id="-nexttheme-알고리즘이-이-종목을-선택한-이유">🤖 NextTheme 알고리즘이 이 종목을 선택한 이유</h2>
+
+<p>오늘처럼 극단적인 공포장에서는 대부분의 종목이 함께 하락합니다. 그런데 KB금융은 달랐습니다.</p>
+
+<p><strong>안전자산으로의 자금 이동</strong> — 외국인이 반도체를 팔고 나온 자금이 상대적으로 안정적인 은행주로 유입됐습니다. KB금융은 이 흐름의 수혜를 가장 직접적으로 받은 종목입니다.</p>
+
+<p>기관이 5일 연속 매수한다는 건 의미 있는 신호입니다. 하락장에서도 이 매수 흐름이 꺾이지 않았다는 것은 내일 아침에도 방어 매수세가 이어질 가능성이 있다는 뜻입니다.</p>
+
+<blockquote>
+  <p>⚠️ <strong>주의</strong>: 오늘은 서킷브레이커가 발동된 이례적인 급락일입니다. 신뢰도가 ‘보통(MEDIUM)’으로 표시된 만큼, 내일 시장 전체 분위기를 먼저 확인한 뒤 비중 조절을 권장합니다.</p>
+</blockquote>
+
+<hr />
+
+<h2 id="-오늘-전략-요약">📋 오늘 전략 요약</h2>
+
+<ul>
+  <li><strong>시장 전체</strong>: 서킷브레이커 발동 급락장, 외국인 대량 매도</li>
+  <li><strong>주도 흐름</strong>: 반도체·성장주 → 은행·정유 방어 업종으로 자금 이동</li>
+  <li><strong>선별 종목</strong>: KB금융 1종목 (단독, 신뢰도 보통)</li>
+  <li><strong>전략</strong>: 내일 아침 갭 상승 노리기 (GAP_UP_BASE)</li>
+  <li><strong>진입 기준</strong>: <strong>172,800원</strong></li>
+</ul>
+
+<hr />
+
+<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
+
+<p>#종가배팅 #수급분석 #NextTheme #KB금융 #주식투자 #서킷브레이커 #은행주 #갭매매 #종가배팅분석 #오늘주식</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[오늘 시장, 정말 무섭지 않으셨나요? 😨]]></summary></entry><entry><title type="html">7/6 종가배팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/07/review-20260706-review/" rel="alternate" type="text/html" title="7/6 종가배팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-07-07T09:00:00+09:00</published><updated>2026-07-07T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/07/review_20260706-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/07/review-20260706-review/"><![CDATA[<blockquote>
   <p>데이터 기준: 2026-07-07 10:03 키움 ka10001 일괄 조회</p>
 </blockquote>
 
@@ -2027,138 +2122,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <hr />
 
-<p>#종가배팅 #수급분석 #주식투자 #NextTheme #삼성전자실적 #반도체주 #YELLOW등급 #주말브리핑 #주식초보 #종가배팅전략</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[한 주가 끝났습니다. 이번 주 반도체 시장은 그야말로 롤러코스터였습니다. 📊 하루에 -14%까지 빠졌다가 다음 날 +11% 반등하는 모습, 보신 분들 많이 당황하셨을 것 같아요. 오늘은 이번 한 주를 정리하고 다음 주를 어떻게 준비할지 함께 살펴보겠습니다.]]></summary></entry><entry><title type="html">SK하이닉스 외</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/03/nt2-1505-snapshot/" rel="alternate" type="text/html" title="SK하이닉스 외" /><published>2026-07-03T15:05:00+09:00</published><updated>2026-07-03T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/03/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/03/nt2-1505-snapshot/"><![CDATA[<h2 id="-오늘-시장-무슨-일이-있었나요">📈 오늘 시장, 무슨 일이 있었나요?</h2>
-
-<p>오늘 코스피가 마침내 <strong>8,000선</strong>을 회복했습니다! 반도체 대장주를 중심으로 강한 반등이 나왔고, 은행·증권주에도 온기가 퍼졌습니다. 오랫동안 기다려온 투자자들에게 정말 반가운 하루였죠. 😊</p>
-
-<p>NextTheme AI가 오늘 장 마감 직전(15:05) 수급 데이터를 분석해 내일 아침 시초가 상승이 기대되는 종목들을 골라냈습니다.</p>
-
-<hr />
-
-<h2 id="-오늘-왜-이-종목들이-선택됐을까요">🔍 오늘 왜 이 종목들이 선택됐을까요?</h2>
-
-<h3 id="1위--sk하이닉스-000660">1위 🏆 SK하이닉스 (000660)</h3>
-
-<blockquote>
-  <p>“오늘 시장 전체를 끌어올린 반도체 대장주”</p>
-</blockquote>
-
-<p>SK하이닉스는 오늘 코스피 반등의 주역이었습니다. 증권사들이 목표 주가를 올리고, 메모리 반도체(HBM) 공급이 부족하다는 소식이 더해지면서 투자자들의 관심이 집중됐습니다.</p>
-
-<ul>
-  <li>📊 <strong>AI 점수: 37점</strong></li>
-  <li>💰 <strong>매수 기준가: 2,444,000원</strong></li>
-  <li>🎯 <strong>전략: 내일 아침 시초가 갭 상승 狙</strong></li>
-  <li>✅ <strong>신뢰도: HIGH (높음)</strong></li>
-</ul>
-
-<p>오늘 못 산 투자자들이 내일 아침 시초가에서 추격 매수할 가능성이 높습니다. AI가 이 패턴을 포착했습니다.</p>
-
-<hr />
-
-<h3 id="2위--신한지주-055550">2위 🥈 신한지주 (055550)</h3>
-
-<blockquote>
-  <p>“은행주가 52주 최고가 문 앞까지 왔습니다”</p>
-</blockquote>
-
-<p>신한지주가 <strong>52주 최고가</strong> 근처까지 올라왔습니다. 큰 투자기관(기관투자자)들이 꾸준히 사들이고 있다는 게 포인트입니다. 고점을 돌파하려는 시도는 다음날 아침 시초가에서 더 강하게 나타나는 경향이 있습니다.</p>
-
-<ul>
-  <li>📊 <strong>AI 점수: 43점</strong> (오늘 선별 종목 중 최고!)</li>
-  <li>💰 <strong>매수 기준가: 107,500원</strong></li>
-  <li>🎯 <strong>전략: 내일 아침 시초가 갭 상승 狙</strong></li>
-  <li>✅ <strong>신뢰도: HIGH (높음)</strong></li>
-</ul>
-
-<p>반도체만 오른 게 아니라 은행주에도 돈이 들어왔다는 건, 오늘 반등이 좀 더 넓게 퍼진 건강한 상승이라는 뜻이에요.</p>
-
-<hr />
-
-<h3 id="3위--삼성전기-009150">3위 🥉 삼성전기 (009150)</h3>
-
-<blockquote>
-  <p>“반도체 훈풍을 받은 카메라 부품 대장주”</p>
-</blockquote>
-
-<p>삼성전기는 스마트폰 카메라 부품을 만드는 회사인데, 반도체 반등과 함께 오후까지 거래대금이 유지됐습니다. 다만 오늘 상승폭이 앞의 두 종목보다 크지 않아 내일 추격 동력이 다소 약할 수 있습니다.</p>
-
-<ul>
-  <li>📊 <strong>AI 점수: 36점</strong></li>
-  <li>💰 <strong>매수 기준가: 1,984,000원</strong></li>
-  <li>🎯 <strong>전략: 내일 아침 시초가 갭 상승 狙</strong></li>
-  <li>⚠️ <strong>신뢰도: LOW (낮음)</strong> — 추격 동력이 약할 수 있어요</li>
-</ul>
-
-<hr />
-
-<h2 id="️-내일-주의해야-할-위험">⚠️ 내일 주의해야 할 위험</h2>
-
-<p>오늘 밤 미국에서 반도체 관련 주가지수가 <strong>-11%</strong> 급락했다는 소식이 있습니다. 이게 내일 아침 국내 시장에도 영향을 줄 수 있어요.</p>
-
-<p>가장 걱정되는 시나리오는 이것입니다:</p>
-
-<blockquote>
-  <p>“내일 아침에는 반짝 오르다가, 장 중반부터 미국 충격 여파로 밀리는 ‘전강후약’ 흐름”</p>
-</blockquote>
-
-<p><strong>그래서 이 전략의 핵심 원칙은 ‘아침에 열리자마자 판다’입니다.</strong> 오래 들고 있으면 위험해질 수 있어요.</p>
-
-<hr />
-
-<h2 id="-nexttheme가-이-종목을-고른-이유">🤖 NextTheme가 이 종목을 고른 이유</h2>
-
-<p>NextTheme AI는 오늘 오후 3시 5분 수급 데이터를 기반으로 분석했습니다.</p>
-
-<ul>
-  <li><strong>오늘 시장을 이끈 주도 테마</strong> (반도체·은행)에서 대장 역할을 한 종목</li>
-  <li><strong>내일 아침 추격 매수 심리</strong>가 강하게 예상되는 종목</li>
-  <li><strong>리스크 대비 기대수익</strong>이 높은 갭 트레이딩 후보</li>
-</ul>
-
-<p>세 종목 모두 “내일 아침 시초가에 갭 상승 후 바로 매도”하는 단기 전략입니다. 하룻밤 보유 → 내일 아침 시초가 매도가 기본 원칙입니다.</p>
-
-<hr />
-
-<h2 id="-오늘-전략-요약">📋 오늘 전략 요약</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>AI 점수</th>
-      <th>신뢰도</th>
-      <th>매수 기준가</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>SK하이닉스</td>
-      <td><strong>37점</strong></td>
-      <td>HIGH ✅</td>
-      <td><strong>2,444,000원</strong></td>
-    </tr>
-    <tr>
-      <td>신한지주</td>
-      <td><strong>43점</strong></td>
-      <td>HIGH ✅</td>
-      <td><strong>107,500원</strong></td>
-    </tr>
-    <tr>
-      <td>삼성전기</td>
-      <td><strong>36점</strong></td>
-      <td>LOW ⚠️</td>
-      <td><strong>1,984,000원</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<blockquote>
-  <p>⚠️ <strong>공통 주의사항</strong>: 내일 아침 미국발 반도체 충격 여파로 장 중반 밀릴 수 있습니다. <strong>시초가 매도 원칙을 반드시 지키세요.</strong></p>
-</blockquote>
-
-<hr />
-
-<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
-
-<p>#종가배팅 #수급분석 #NextTheme #주식투자 #SK하이닉스 #신한지주 #삼성전기 #갭트레이딩 #코스피반등 #반도체주식</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[📈 오늘 시장, 무슨 일이 있었나요?]]></summary></entry></feed>
+<p>#종가배팅 #수급분석 #주식투자 #NextTheme #삼성전자실적 #반도체주 #YELLOW등급 #주말브리핑 #주식초보 #종가배팅전략</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[한 주가 끝났습니다. 이번 주 반도체 시장은 그야말로 롤러코스터였습니다. 📊 하루에 -14%까지 빠졌다가 다음 날 +11% 반등하는 모습, 보신 분들 많이 당황하셨을 것 같아요. 오늘은 이번 한 주를 정리하고 다음 주를 어떻게 준비할지 함께 살펴보겠습니다.]]></summary></entry></feed>
