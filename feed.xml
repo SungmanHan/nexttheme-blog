@@ -1,4 +1,322 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-08T10:03:37+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">7/7 종가배팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/08/review-20260707-review/" rel="alternate" type="text/html" title="7/7 종가배팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-07-08T09:00:00+09:00</published><updated>2026-07-08T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/08/review_20260707-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/08/review-20260707-review/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-08T21:04:54+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 -5.35% 이틀 연속 폭락 — 하루 마감 종합</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/08/daily/" rel="alternate" type="text/html" title="코스피 -5.35% 이틀 연속 폭락 — 하루 마감 종합" /><published>2026-07-08T21:00:00+09:00</published><updated>2026-07-08T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/08/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/08/daily/"><![CDATA[<p>어제(-4.91% 서킷브레이커)에 이어 오늘도 코스피가 <strong>-5.35%</strong> 폭락하며 투자자들의 공포가 극에 달했습니다. 반도체 정점(피크아웃) 우려와 외국인 대규모 매도가 맞물리며 시장 전체가 무너진 하루였습니다. 😔</p>
+
+<hr />
+
+<h2 id="-어제-미국-시장은-어땠을까">🌏 어제 미국 시장은 어땠을까?</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>지수</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>다우존스</td>
+      <td>-0.25%</td>
+    </tr>
+    <tr>
+      <td>S&amp;P500</td>
+      <td>-0.45%</td>
+    </tr>
+    <tr>
+      <td>나스닥</td>
+      <td><strong>-1.16%</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>전날 미국 증시도 반도체 중심으로 약세를 보였습니다. 미국 반도체 지수(필라델피아 반도체)가 <strong>-4.65%</strong> 하락했고, 마이크론은 무려 <strong>-7%</strong> 급락했습니다.</p>
+
+<p>가장 주목할 뉴스는 <strong>삼성전자의 사상 최대 실적</strong> 발표였습니다. 영업이익 <strong>89조 원</strong>이라는 역대 최고 성적을 냈는데도 주가는 오히려 크게 하락했습니다. 이유는 미국의 대형 투자은행 모건스탠리가 “반도체가 이미 최고점을 찍었을 수 있다”며 삼성전자·SK하이닉스 주식을 줄이라고 권고했기 때문입니다.</p>
+
+<p>💡 쉽게 말하면, 좋은 실적이 이미 주가에 다 반영됐고 앞으로는 더 좋아지기 어려울 수 있다는 우려입니다. 이렇게 “좋은 소식에 주가가 떨어지는” 상황을 흔히 ‘호재 소진’이라고 부릅니다.</p>
+
+<p>그 외 주요 뉴스:</p>
+<ul>
+  <li>🛢️ 미국-이란 원유제재 재개 → 국제 유가 <strong>5% 급등(WTI 배럴당 72.24달러)</strong></li>
+  <li>🇺🇸 SK하이닉스 미국 ADR 상장(7월 10일 예정) → 약 <strong>11조 원</strong> 투자 유입 기대</li>
+  <li>💱 달러/원 환율 <strong>1,507.2원</strong> (전일 1,515원 대비 소폭 하락)</li>
+  <li>월스트리트저널이 코스피를 ‘오징어게임 급락’에 비유하며 경고</li>
+</ul>
+
+<hr />
+
+<h2 id="-오늘-코스피코스닥-흐름">📉 오늘 코스피·코스닥 흐름</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>지수</th>
+      <th>오늘 종가</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>코스피</td>
+      <td><strong>7,246.79pt</strong></td>
+      <td><strong>-5.35%</strong></td>
+    </tr>
+    <tr>
+      <td>코스닥</td>
+      <td><strong>785.00pt</strong></td>
+      <td><strong>-5.56%</strong></td>
+    </tr>
+    <tr>
+      <td>달러/원 환율</td>
+      <td><strong>1,507.2원</strong></td>
+      <td>—</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>코스피와 코스닥이 동시에 <strong>5% 넘게</strong> 떨어졌습니다. 이런 급락이 이틀 연속 이어지는 것은 매우 이례적인 상황입니다.</p>
+
+<p>📊 <strong>최근 코스피 흐름 (약 3주)</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>날짜</th>
+      <th>코스피</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>6/22 (최근 고점)</td>
+      <td>9,114.55</td>
+    </tr>
+    <tr>
+      <td>6/23</td>
+      <td>8,203.84</td>
+    </tr>
+    <tr>
+      <td>6/29</td>
+      <td>8,394.65</td>
+    </tr>
+    <tr>
+      <td>7/2</td>
+      <td>7,648.09</td>
+    </tr>
+    <tr>
+      <td>7/7 (어제)</td>
+      <td>7,656.31</td>
+    </tr>
+    <tr>
+      <td><strong>7/8 (오늘)</strong></td>
+      <td><strong>7,246.79</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>6월 22일 고점 9,114포인트에서 오늘 7,246포인트까지, <strong>불과 2주 반 만에 약 -20% 하락</strong>했습니다. 이 속도는 코로나 초기 급락에 비견될 만큼 가파릅니다.</p>
+
+<p>외국인 투자자(해외 큰 자금)가 이 기간 동안 대규모 매도(<strong>약 -2.9조 원 추정</strong>)를 이어가며 하락을 주도했습니다.</p>
+
+<hr />
+
+<h2 id="-오늘-거래대금-상위-종목">💰 오늘 거래대금 상위 종목</h2>
+
+<p>오늘 가장 많이 거래된 종목들입니다. 대부분 팔자 물량이 쏟아지며 거래대금이 폭증했습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>순위</th>
+      <th>종목</th>
+      <th>거래대금</th>
+      <th>등락률</th>
+      <th>거래량</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1위</td>
+      <td>SK하이닉스</td>
+      <td><strong>21.0조원</strong></td>
+      <td><strong>-5.1%</strong></td>
+      <td><strong>956만주</strong></td>
+    </tr>
+    <tr>
+      <td>2위</td>
+      <td>삼성전자</td>
+      <td><strong>14.9조원</strong></td>
+      <td><strong>-6.6%</strong></td>
+      <td><strong>5,205만주</strong></td>
+    </tr>
+    <tr>
+      <td>3위</td>
+      <td>삼성전기</td>
+      <td><strong>2.6조원</strong></td>
+      <td><strong>-11.2%</strong></td>
+      <td><strong>170만주</strong></td>
+    </tr>
+    <tr>
+      <td>4위</td>
+      <td>SK스퀘어</td>
+      <td><strong>2.2조원</strong></td>
+      <td><strong>-6.3%</strong></td>
+      <td><strong>169만주</strong></td>
+    </tr>
+    <tr>
+      <td>5위</td>
+      <td>LG전자</td>
+      <td><strong>1.0조원</strong></td>
+      <td><strong>+3.0%</strong></td>
+      <td><strong>514만주</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>반도체 관련주들(SK하이닉스·삼성전자·삼성전기·SK스퀘어)이 모두 크게 하락했습니다. SK하이닉스 하루 거래대금이 <strong>21조 원</strong>에 달했다는 것은 수많은 투자자가 공포에 사고팔기를 반복했다는 의미입니다.</p>
+
+<p>반면 <strong>LG전자</strong>는 유일하게 <strong>+3.0% 상승</strong>했습니다. 가전·B2B(기업간 거래) 사업 중심이라 반도체 피크아웃 공포의 직접 영향을 덜 받은 덕분입니다.</p>
+
+<p>⚠️ 삼성전기는 <strong>-11.2%</strong> 하락하며 큰 폭의 손실을 기록했습니다. 반도체 패키지 부품 회사로 반도체 업황 우려가 직격탄이 됐습니다.</p>
+
+<hr />
+
+<h2 id="️-오늘-테마별-흐름">🏷️ 오늘 테마별 흐름</h2>
+
+<p>시장 전체가 급락하다 보니 대부분 테마에서 오르는 종목보다 내리는 종목이 훨씬 많았습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>순위</th>
+      <th>테마</th>
+      <th>상승 종목</th>
+      <th>전체 종목수</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1위</td>
+      <td>LED</td>
+      <td>2</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>2위</td>
+      <td>보험·손해보험</td>
+      <td>0</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>3위</td>
+      <td>운송·해운</td>
+      <td>1</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>4위</td>
+      <td>게임·온라인</td>
+      <td><strong>5</strong></td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <td>5위</td>
+      <td>클라우드 컴퓨팅</td>
+      <td>2</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>6위</td>
+      <td>은행</td>
+      <td>0</td>
+      <td>7</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>게임·온라인 테마</strong>에서 5종목이 상승한 것이 눈에 띕니다. 내수 중심이라 외국인 매도 영향을 덜 받은 데다, 투자자들이 낙폭이 큰 반도체 대신 방어적 종목을 찾으면서 상대적으로 선전했습니다.</p>
+
+<p>은행과 보험주는 상승 종목이 0이었지만, 시장 전체 대비 낙폭은 크지 않아 ‘방어주’ 역할을 어느 정도 한 것으로 보입니다.</p>
+
+<hr />
+
+<h2 id="-오늘-nexttheme-종가-선별-결과">🎯 오늘 NextTheme 종가 선별 결과</h2>
+
+<p><strong>오늘 베팅 등급: 🔴 RED (매수 자제)</strong></p>
+
+<blockquote>
+  <p><em>코스피·코스닥이 5% 넘게 동반 급락한 패닉 장세로 반도체 정점 우려와 외국인 매도가 심리를 짓눌렀고, 방어적으로 버틴 소수 종목만 눈에 띄었다.</em></p>
+</blockquote>
+
+<p><strong>🔴 RED 등급 = 오늘은 새로운 종가 매수를 하지 않는 날입니다.</strong></p>
+
+<p>NextTheme 알고리즘은 시장 전체가 공포에 빠진 날에는 종목 선별을 하지 않습니다. 아무리 좋아 보이는 종목도 시장 급락에 함께 끌려 내려갈 수 있기 때문입니다. 내일 오후 미국 FOMC(연방공개시장위원회) 회의록 발표라는 중요 이벤트도 앞두고 있어 불확실성이 높은 상황입니다.</p>
+
+<p><strong>오늘 선별 종목: 없음 (RED 등급 무포지션 유지)</strong></p>
+
+<hr />
+
+<h2 id="-선별-복기-어제-선별-vs-오늘-결과">📊 선별 복기 (어제 선별 vs 오늘 결과)</h2>
+
+<h3 id="-어제77-선별--오늘78-아침-실현-성과-">① 어제(7/7) 선별 → 오늘(7/8) 아침 실현 성과 ✅</h3>
+
+<p>어제 NextTheme이 선별했던 종목을 오늘 아침 시초가(장 시작 가격)에 실제로 팔았을 때의 결과입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>① 아침 실현 갭</th>
+      <th>세션 내 최고</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>KB금융</td>
+      <td><strong>+1.4%</strong></td>
+      <td><strong>+1.8%</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>시장이 폭락하는 공포 속에서도 어제 선별된 <strong>KB금융</strong>은 오늘 아침 <strong>+1.4% 수익</strong>으로 실현됐습니다. 은행주의 방어적 특성 덕분에 급락장에서도 소폭 플러스를 냈습니다. 👍</p>
+
+<blockquote>
+  <p>💡 종가배팅의 실제 청산은 ‘다음 날 아침 시초가’에 이루어집니다. 오래 보유하는 방식이 아니라, 다음 날 아침 시장이 열리자마자 파는 방식입니다.</p>
+</blockquote>
+
+<h3 id="-오늘78-선별--오늘-애프터마켓-잠정-흐름">② 오늘(7/8) 선별 → 오늘 애프터마켓 잠정 흐름</h3>
+
+<p>오늘 RED 등급으로 선별 종목이 없어 해당 사항이 없습니다. 무포지션을 유지한 날입니다.</p>
+
+<hr />
+
+<h2 id="-오늘-시장-총정리">📝 오늘 시장 총정리</h2>
+
+<p><strong>오늘 핵심 흐름 3가지:</strong></p>
+
+<ol>
+  <li><strong>반도체 피크아웃 공포</strong> — 삼성전자 역대 최대 실적에도 불구하고 주가 급락. 모건스탠리 비중 축소 권고가 기름을 부었습니다.</li>
+  <li><strong>이틀 연속 5% 이상 폭락</strong> — 어제(-4.91%) + 오늘(-5.35%). 코스피 고점 대비 약 -20% 하락.</li>
+  <li><strong>LG전자만 상승, 게임주 선방</strong> — 반도체와 거리가 먼 종목들이 방어주 역할.</li>
+</ol>
+
+<p><strong>내일 주목할 이벤트:</strong></p>
+<ul>
+  <li>🇺🇸 <strong>FOMC 회의록 발표(내일 오후)</strong> — 미국 금리 방향에 대한 힌트가 나올 수 있는 중요 이벤트</li>
+  <li>🇺🇸 SK하이닉스 ADR 미국 상장(7월 10일) — 국내 주가 영향 주목</li>
+</ul>
+
+<p>NextTheme은 오늘 RED 등급을 유지하며 신규 매수를 추천하지 않았고, 어제 선별된 KB금융(은행)이 오늘 아침 +1.4%로 실현된 것이 그나마 긍정적인 성과였습니다.</p>
+
+<hr />
+
+<h2 id="-마무리">🌙 마무리</h2>
+
+<p><em>“시장이 두려움에 빠졌을 때 사라”는 격언이 있지만, 그 두려움이 아직 끝나지 않았을 때 서두르면 더 큰 공포를 맞이할 수 있습니다. 내일 FOMC 회의록을 확인하고 시장 방향을 재점검해 보세요.</em></p>
+
+<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
+
+<hr />
+
+<p>#종가배팅 #수급분석 #주식투자 #NextTheme #코스피급락 #반도체피크아웃 #삼성전자 #SK하이닉스 #오늘주식시장 #주식시장정리</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[어제(-4.91% 서킷브레이커)에 이어 오늘도 코스피가 -5.35% 폭락하며 투자자들의 공포가 극에 달했습니다. 반도체 정점(피크아웃) 우려와 외국인 대규모 매도가 맞물리며 시장 전체가 무너진 하루였습니다. 😔]]></summary></entry><entry><title type="html">7/7 종가배팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/08/review-20260707-review/" rel="alternate" type="text/html" title="7/7 종가배팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-07-08T09:00:00+09:00</published><updated>2026-07-08T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/08/review_20260707-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/08/review-20260707-review/"><![CDATA[<blockquote>
   <p>데이터 기준: 2026-07-08 10:03 키움 ka10001 일괄 조회</p>
 </blockquote>
 
@@ -2370,158 +2688,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가배팅 #복기일지 #20260703 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-07-06 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">RED — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/06/0600-briefing/" rel="alternate" type="text/html" title="RED — 오늘 아침 시황" /><published>2026-07-06T06:00:00+09:00</published><updated>2026-07-06T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/06/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/06/0600-briefing/"><![CDATA[<h2 id="오늘-아침-분위기-미국-반도체-악재--한국-기관-역발동-속-신중이-정답">오늘 아침 분위기: “미국 반도체 악재 + 한국 기관 역발동” 속 신중이 정답</h2>
-
-<p>“반도체 강국 한국 시장에서 반도체주가 무서운 날이 왔습니다.”</p>
-
-<p>지난밤 미국 필라델피아 반도체 지수가 <strong>-5.45%</strong> 급락했습니다. 메타의 클라우드 전환 뉴스에 AI 데이터센터 투자 둔화 우려가 확산되면서 세계 반도체 섹터를 흔들었거든요. 우리나라는 반도체 수출이 <strong>448억달러</strong>로 사상 처음 400억달러를 넘겼을 정도로 의존도가 높습니다. 그래서 오늘 아침은 위험신호인 <strong>RED</strong> 등급으로 판정했습니다. 무작정 사는 것보다 신중하게 지켜보는 날이라는 뜻입니다.</p>
-
-<hr />
-
-<h2 id="미국-시장-혼조-속-반도체만-유독-차가운-밤">미국 시장: 혼조 속 반도체만 유독 차가운 밤</h2>
-
-<p>밤사이 미국 시장은 엇갈렸습니다.</p>
-<ul>
-  <li><strong>다우지수</strong>: +1.14% (전통적 대형주·금융주 선호)</li>
-  <li><strong>S&amp;P500</strong>: ±0.00% (방향감 상실)</li>
-  <li><strong>나스닥</strong>: -0.80% (기술주·AI관련주 부진)</li>
-</ul>
-
-<p>특히 나스닥이 약한 이유는 메타(Meta)의 발표 때문입니다. 메타가 자체 AI 칩 개발에 집중하면서 삼성전자, SK하이닉스 같은 외부 반도체 회사의 클라우드 칩 수요가 줄어들 수 있다는 우려가 확산된 겁니다. 이것이 필라델피아 반도체 지수 <strong>-5.45%</strong> 급락으로 이어졌고, 이제 한국 반도체 섹터도 그 여파를 받고 있는 상황입니다.</p>
-
-<hr />
-
-<h2 id="오늘의-베팅-등급-red는-신중과-방어">오늘의 베팅 등급: RED는 “신중과 방어”</h2>
-
-<p><strong>RED 등급 의미</strong>: 신규 진입을 자제하고, 보유 종목은 익절 타이밍을 점검하는 날입니다.</p>
-
-<p>왜 RED인가요?</p>
-
-<p><strong>① 미국 반도체 약세의 직격탄</strong>
-필라델피아 반도체 지수는 2일간 <strong>-11.4%</strong> 내려갔습니다. 한국의 핵심 수출 산업인 반도체가 흔들리면, 우리 시장도 함께 흔들릴 가능성이 높습니다.</p>
-
-<p><strong>② 외국인 매도세 지속</strong>
-어제 코스피는 <strong>+5.76%</strong> 반등했지만, 그 이유는 기관의 <strong>4.6조원</strong> 매수 때문이었습니다. 반면 외국인은 <strong>-2.3조원</strong>을 팔았습니다. 즉, 한국 기관은 사고 있는데 세계 투자자들은 팔고 있는 “전강후약(앞은 강하고 뒤는 약한)” 상황입니다. 이런 상황에서 무리해서 사면 위험합니다.</p>
-
-<p><strong>③ 삼성전자 ‘벼랑 끝’ 실적 발표</strong>
-반도체의 대장주인 삼성전자가 <strong>7월 7일(내일)</strong> 2분기 실적을 발표합니다. 컨센서스(시장 예상)는 <strong>85조원</strong>이지만, “메모리 반도체가 계속 좋을 것인가(슈퍼사이클)” vs “이미 피크를 넘었나(피크아웃)” 사이에서 시장이 갈라져 있습니다. 내일 그 답이 나옵니다.</p>
-
-<p><strong>📊 오늘의 대응 전략</strong></p>
-
-<ol>
-  <li><strong>신규 진입은 보류</strong> — 오늘 23:00 미국 ISM 비제조업 지수 발표까지 관망</li>
-  <li><strong>지수 50 하회 시 주의</strong> — 경기 둔화 신호이므로 방어 섹터(금융, 필수소비재) 선호</li>
-  <li><strong>반도체주 보유자는 검토</strong> — 일부 차익 실현해서 리스크 줄이기</li>
-  <li><strong>환율 1560원 주의</strong> — 원화 약세 시 외국인 이탈이 가속화될 수 있음</li>
-</ol>
-
-<hr />
-
-<h2 id="주목할-뉴스-5가지-위험-vs-기회">주목할 뉴스 5가지: 위험 vs 기회</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>뉴스</th>
-      <th>영향</th>
-      <th>대응</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>① 삼성전자 실적 발표(7일)</strong></td>
-      <td>반도체주 방향 결정</td>
-      <td>내일까지 신규 매수 자제</td>
-    </tr>
-    <tr>
-      <td><strong>② SK하이닉스 나스닥 상장(10일)</strong></td>
-      <td>290억달러 규모 ADR 출범</td>
-      <td>긍정 신호이나 실적 우선 확인</td>
-    </tr>
-    <tr>
-      <td><strong>③ 필라델피아 반도체 -5.45%</strong></td>
-      <td>한국 반도체 동반 조정 압박</td>
-      <td>AI 투자 둔화 신호 경계</td>
-    </tr>
-    <tr>
-      <td><strong>④ ISM 비제조업(23:00)</strong></td>
-      <td>미국 경기 판단 기준</td>
-      <td>50 하회 시 경기 둔화 우려</td>
-    </tr>
-    <tr>
-      <td><strong>⑤ 수출 1,023억달러 사상 최대</strong></td>
-      <td>펀더멘털 견조 신호</td>
-      <td>단기 약세와 중기 강세의 괴리</td>
-    </tr>
-  </tbody>
-</table>
-
-<hr />
-
-<h2 id="-금요일-ai-선별-복기-어제-전략-vs-오늘-대응">📋 금요일 AI 선별 복기: 어제 전략 vs 오늘 대응</h2>
-
-<p><strong>어제 종합 판단</strong>: 신중함(CAUTIOUS) — 반도체 주도의 반등이지만, 실적 확인 필수</p>
-
-<h3 id="1️⃣-신한지주-055550--보유-중-">1️⃣ 신한지주 (055550) — 보유 중 ✅</h3>
-
-<p><strong>어제 전략</strong>: 갭 트레이드 진입 → 시초가 갭업 시 익절
-<strong>오늘 대응</strong>: 전일 청산 시나리오 유지</p>
-
-<p>“은행주는 반도체 직접 타격을 회피하는 섹터입니다.”</p>
-
-<p>어제 신한지주는 +5.58% 올랐고, 주말 미국 금융주(복합보험 +3.46%)도 견조했습니다. RED 등급이지만 금융주는 디펜시브 섹터이므로, 어제 세운 출구 전략(시초가 갭업 → 목표가 도달 → 익절 실행)을 그대로 유지하는 게 맞습니다.</p>
-
-<p><strong>핵심</strong>: 오늘 시초가를 확인하고 갭업하면 목표가 도달 여부를 확인한 후 익절 버튼을 누르세요.</p>
-
-<hr />
-
-<h3 id="2️⃣-sk하이닉스-000660--스킵-">2️⃣ SK하이닉스 (000660) — 스킵 🚫</h3>
-
-<p><strong>어제 전략</strong>: 갭 트레이드 진입 계획
-<strong>오늘 대응</strong>: 신규 매수 보류</p>
-
-<p>⚠️ <strong>위험 신호</strong>: AI 데이터센터 투자 둔화 우려 확산</p>
-
-<p>“필라델피아 반도체 -5.45%의 직격탄을 가장 먼저 받는 종목이 SK하이닉스입니다.”</p>
-
-<p>메모리 반도체(DRAM·낸드플래시) 공급 과잉 우려와 AI 칩 투자 둔화가 겹쳤기 때문입니다. 물론 10일에는 나스닥 상장(290억달러 규모 ADR)이라는 긍정 신호가 있습니다. 하지만 7일 삼성전자 실적 확인과 필라델피아 반도체 섹터 바닥 확인이 먼저입니다.</p>
-
-<p><strong>핵심</strong>: 오늘은 시초가를 확인한 후, 반도체 섹터 추가 약세 없을 때 재평가하세요.</p>
-
-<hr />
-
-<h3 id="3️⃣-삼성전기-009150--스킵-">3️⃣ 삼성전기 (009150) — 스킵 🚫</h3>
-
-<p><strong>어제 전략</strong>: 갭 트레이드 진입 (저 확신도)
-<strong>오늘 대응</strong>: 신규 매수 제외</p>
-
-<p>“카메라·센서 카테고리의 대장주이지만, 어제 확신도가 LOW였던 이유가 오늘 현실이 됐습니다.”</p>
-
-<p>휴대폰 카메라 모듈 업체는 반도체 반등의 수혜를 받아 어제 올랐습니다. 하지만 자체 모멘텀이 약했고(확신도 LOW), 이제 필라델피아 반도체 급락으로 연관 섹터 동반 조정이 우려됩니다.</p>
-
-<p><strong>핵심</strong>: 오늘은 신규 매수를 제외하고 시장 안정화를 기다리세요.</p>
-
-<hr />
-
-<h2 id="결론-내일까지는-관망-모레부터-재평가">결론: “내일까지는 관망, 모레부터 재평가”</h2>
-
-<p>어제의 “신중함”이 오늘의 정답이었습니다. 필라델피아 반도체 -5.45% 급락과 메타의 클라우드 전환 뉴스가 실제로 한국 시장을 흔들었거든요.</p>
-
-<p><strong>오늘 할 일:</strong></p>
-<ol>
-  <li>보유 반도체주(신한지주)는 어제 세운 출구 계획 실행</li>
-  <li>신규 진입은 <strong>삼성전자 실적 발표(7일) 후</strong> 재개</li>
-  <li>23:00 미국 ISM 지수 확인 — 경기 신호 포착</li>
-</ol>
-
-<p><strong>내일부터 달라질 이유:</strong></p>
-<ul>
-  <li>삼성전자 실적 발표로 “슈퍼사이클 vs 피크아웃” 논쟁 종료</li>
-  <li>미국 반도체 섹터의 바닥 신호 확인 또는 추가 하락 판정</li>
-</ul>
-
-<p>오늘은 욕심내지 마세요. 시장이 충분히 무섭고 불안한 날입니다.</p>
-
-<p>💬 <strong>댓글로 의견 나눠주세요! 반도체 섹터가 걱정되시나요? 이웃 추가하면 매일 분석 받아보실 수 있어요.</strong></p>
-
-<p>#종가배팅 #수급분석 #반도체투자 #주식초보 #시장분석 #미국반도체 #삼성전자 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[오늘 아침 분위기: “미국 반도체 악재 + 한국 기관 역발동” 속 신중이 정답]]></summary></entry></feed>
+<p>#종가배팅 #복기일지 #20260703 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-07-06 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
