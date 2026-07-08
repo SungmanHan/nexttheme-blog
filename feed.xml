@@ -1,4 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-08T22:33:54+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 -5.35% 이틀 연속 폭락 — 하루 마감 종합</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/08/daily/" rel="alternate" type="text/html" title="코스피 -5.35% 이틀 연속 폭락 — 하루 마감 종합" /><published>2026-07-08T21:00:00+09:00</published><updated>2026-07-08T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/08/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/08/daily/"><![CDATA[<p>어제(-4.91% 서킷브레이커)에 이어 오늘도 코스피가 <strong>-5.35%</strong> 폭락하며 투자자들의 공포가 극에 달했습니다. 반도체 정점(피크아웃) 우려와 외국인 대규모 매도가 맞물리며 시장 전체가 무너진 하루였습니다. 😔</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-09T06:03:54+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">RED — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/09/0600-briefing/" rel="alternate" type="text/html" title="RED — 오늘 아침 시황" /><published>2026-07-09T06:00:00+09:00</published><updated>2026-07-09T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/09/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/09/0600-briefing/"><![CDATA[<h2 id="-오늘-아침-시장이-조심하라고-합니다">🔴 오늘 아침, 시장이 조심하라고 합니다</h2>
+
+<p>어제 코스피가 무려 <strong>-5.35%</strong> 급락했습니다. 일반 투자자분들께서는 많이 당황하셨을 텐데요. 오늘도 여전히 불안한 환경이 이어지고 있습니다. NextTheme AI가 오늘 아침 베팅 등급을 <strong>RED</strong>로 판단한 이유, 지금 바로 살펴보겠습니다.</p>
+
+<hr />
+
+<h2 id="-어젯밤-미국-시장은-어땠나요">🌐 어젯밤 미국 시장은 어땠나요?</h2>
+
+<p>미국 주요 지수는 혼조세로 마감했습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>지수</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>다우존스</td>
+      <td><strong>-1.09%</strong></td>
+    </tr>
+    <tr>
+      <td>S&amp;P500</td>
+      <td><strong>-0.28%</strong></td>
+    </tr>
+    <tr>
+      <td>나스닥</td>
+      <td><strong>+0.20%</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>다우와 S&amp;P500은 하락했지만 나스닥은 소폭 오르며 버텼습니다. 기술주 중심의 나스닥이 플러스를 유지했다는 점은 그나마 위안입니다. 그러나 전반적인 분위기는 여전히 불안정합니다.</p>
+
+<hr />
+
+<h2 id="-오늘의-베팅-등급-red-점수-25점">🎯 오늘의 베팅 등급: RED (점수 25점)</h2>
+
+<p>NextTheme AI가 오늘 아침 베팅 등급을 <strong>RED</strong>로 판정했습니다. 이는 “오늘은 신규 진입을 자제하고 현금 비중을 유지하라”는 신호입니다.</p>
+
+<h3 id="왜-red인가요">왜 RED인가요?</h3>
+
+<p>오늘은 악재가 한꺼번에 겹쳐 있습니다.</p>
+
+<p><strong>① 중동 긴장 재고조</strong> 🛢️</p>
+
+<p>트럼프 전 대통령이 이란에 대한 추가 공격을 시사하면서 국제 유가(WTI)가 <strong>+4.35달러 급등해 배럴당 74.79달러</strong>까지 뛰었습니다. 유가가 오르면 기업들의 원자재 비용이 높아져 실적에 직접 부담을 줍니다.</p>
+
+<p><strong>② 전일 코스피 -5.35% 급락 후유증</strong> 📉</p>
+
+<p>어제 국내 증시는 자동 거래 제동 장치(매도 사이드카)까지 발동될 정도로 심하게 떨어졌습니다. 반도체주 차익 실현과 중동 리스크가 겹치면서 하루 만에 회복되기 어려운 심리적 충격이 남아 있습니다.</p>
+
+<p><strong>③ FOMC 회의록 + 실업수당 이중 이벤트</strong> 📋</p>
+
+<p>오늘 밤(미국 시각) 미국 연방준비제도(Fed·중앙은행) 회의록이 공개됩니다. 인플레이션(물가 상승) 우려가 담겨 있을 경우, 금리 인하 기대가 꺾이면서 증시에 또 한 번 부담을 줄 수 있습니다.</p>
+
+<h3 id="nexttheme-전략-권고">NextTheme 전략 권고</h3>
+
+<blockquote>
+  <p>“관망 우선, 신규 진입 보류. 시초가 방향을 확인한 뒤 판단하세요. 반등이 온다 해도 전체 자금의 <strong>30% 이하</strong>로 신중하게 접근하세요.”</p>
+</blockquote>
+
+<hr />
+
+<h2 id="️-오늘-주목할-변수">⚠️ 오늘 주목할 변수</h2>
+
+<h3 id="위험-요인">위험 요인</h3>
+
+<ul>
+  <li>🛢️ <strong>중동 지정학적 리스크</strong> — 트럼프의 이란 공격 경고로 유가 급등세 지속 가능성</li>
+  <li>📋 <strong>FOMC 회의록</strong> — 인플레이션 우려 확인 시 금리 인하 기대 후퇴</li>
+  <li>📉 <strong>어제 급락 충격</strong> — 외국인·기관 이탈 심리가 단기간 회복되기 어려울 수 있음</li>
+</ul>
+
+<h3 id="기회-요인">기회 요인</h3>
+
+<ul>
+  <li>💼 <strong>SK하이닉스 ADR 나스닥 상장 예정</strong> — 몇 배 초과 청약으로 글로벌 투자자들의 관심이 높다는 긍정 신호. 장기적으로 한국 반도체에 우호적입니다.</li>
+  <li>🏦 <strong>IMF 한국 성장률 상향</strong> — IMF가 한국 경제성장률 전망을 <strong>1.9% → 2.6%</strong>로 대폭 올렸습니다. 단기 악재 속에서도 한국 경제의 기초 체력은 견고합니다.</li>
+</ul>
+
+<hr />
+
+<h2 id="-오늘-하루-대응-전략">📌 오늘 하루 대응 전략</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>장 시작 상황</th>
+      <th>권장 대응</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>급등 (+1% 이상)</td>
+      <td>보유 비중 <strong>30% 이하</strong>로만 참여, 분할 접근</td>
+    </tr>
+    <tr>
+      <td>보합 (-0.5% ~ +0.5%)</td>
+      <td>방향 확인 후 판단, 성급한 매수 자제</td>
+    </tr>
+    <tr>
+      <td>추가 하락</td>
+      <td>관망, 현금 보유 유지</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>오늘처럼 변동성이 큰 날은 <strong>“쉬는 것도 훌륭한 전략”</strong> 입니다. NextTheme AI는 리스크가 높은 날 무포지션을 권고합니다. 이것이 실제로 자산을 지키는 방법입니다.</p>
+
+<hr />
+
+<h2 id="-마무리">💬 마무리</h2>
+
+<p>오늘 시장은 쉽지 않습니다. 중동 리스크, FOMC 이벤트, 어제의 충격이 한꺼번에 겹쳐 있습니다. 그러나 IMF의 성장률 상향 조정과 SK하이닉스의 글로벌 주목이 보여주듯, 긴 안목에서 한국 증시의 체력은 살아있습니다.</p>
+
+<p>오늘은 관망하면서 시장의 흐름을 차분히 지켜보는 것을 권장드립니다. 내일도 NextTheme AI가 최선의 분석으로 찾아오겠습니다! 🙏</p>
+
+<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
+
+<hr />
+
+<p>#종가배팅 #수급분석 #주식투자 #NextTheme #코스피전망 #오늘주식 #주식브리핑 #RED등급 #중동리스크 #FOMC회의록</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[🔴 오늘 아침, 시장이 조심하라고 합니다]]></summary></entry><entry><title type="html">코스피 -5.35% 이틀 연속 폭락 — 하루 마감 종합</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/08/daily/" rel="alternate" type="text/html" title="코스피 -5.35% 이틀 연속 폭락 — 하루 마감 종합" /><published>2026-07-08T21:00:00+09:00</published><updated>2026-07-08T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/08/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/08/daily/"><![CDATA[<p>어제(-4.91% 서킷브레이커)에 이어 오늘도 코스피가 <strong>-5.35%</strong> 폭락하며 투자자들의 공포가 극에 달했습니다. 반도체 정점(피크아웃) 우려와 외국인 대규모 매도가 맞물리며 시장 전체가 무너진 하루였습니다. 😔</p>
 
 <hr />
 
@@ -2212,148 +2335,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <hr />
 
-<p>#종가배팅 #수급분석 #주식투자 #NextTheme #코스피 #코스닥 #한화오션 #조선주 #반도체주 #GS건설 #하루마감 #주식시황</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[안녕하세요, NextTheme입니다. 🗓️]]></summary></entry><entry><title type="html">한화오션 외</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/06/nt2-1505-snapshot/" rel="alternate" type="text/html" title="한화오션 외" /><published>2026-07-06T15:05:00+09:00</published><updated>2026-07-06T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/06/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/06/nt2-1505-snapshot/"><![CDATA[<p>안녕하세요! 오늘(2026년 7월 6일) 장이 끝났습니다. 📊
-코스피가 장 후반 약세로 돌아서고 외국인이 무려 <strong>2조 3,800억 원</strong>을 팔아치운 어려운 날이었는데요, 그럼에도 불구하고 <strong>조선·증권·건설</strong> 섹터에는 돈이 몰렸습니다. 시장 전체는 힘들어도, 특정 종목에는 기회가 있다는 걸 오늘 다시 확인했습니다. 💪</p>
-
-<hr />
-
-<h2 id="-오늘-시장-어땠나요">📰 오늘 시장, 어땠나요?</h2>
-
-<p>오늘 코스피는 장 중반까지 버티다 후반 들어 약세로 돌아섰습니다. 큰 투자기관(기관)과 외국인이 매도세를 키우면서 지수 전체가 눌렸지만, 특이하게도 <strong>조선·증권·건설</strong> 테마는 거래가 활발하게 유지됐습니다.</p>
-
-<p>주목할 점은, 외국인이 전체 시장에서 팔면서도 <strong>일부 종목에는 오히려 사들였다</strong>는 것입니다. NextTheme 알고리즘은 이런 엇갈린 흐름 속에서도 내일 아침 갭 상승 가능성이 높은 종목을 골라냈습니다.</p>
-
-<hr />
-
-<h2 id="-오늘-왜-이-종목들이-선택됐을까">🔍 오늘 왜 이 종목들이 선택됐을까?</h2>
-
-<p>NextTheme 알고리즘은 단순히 오늘 많이 오른 종목이 아니라, <strong>내일 아침 시초가에서 갭 상승이 예상되는 종목</strong>을 고릅니다. 오늘 선별된 종목은 총 <strong>2개</strong>입니다.</p>
-
-<hr />
-
-<h3 id="️-gs건설-006360--건설-대장주-기관외국인-동시-매수">🏗️ GS건설 (006360) — 건설 대장주, 기관·외국인 동시 매수</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>항목</th>
-      <th>수치</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>오늘 주가 변동</td>
-      <td><strong>+6.65%</strong></td>
-    </tr>
-    <tr>
-      <td>매수 기준가</td>
-      <td><strong>30,450원</strong></td>
-    </tr>
-    <tr>
-      <td>거래대금</td>
-      <td><strong>약 1,080억 원</strong></td>
-    </tr>
-    <tr>
-      <td>알고리즘 점수</td>
-      <td><strong>43점</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>오늘 GS건설은 건설 테마 대장주로서 <strong>+6.65%</strong> 강하게 올랐습니다. 더 중요한 건 큰 투자기관(기관)과 외국인이 <strong>동시에</strong> 이 종목을 사들였다는 점입니다. 보통 기관과 외국인이 같이 사는 종목은 수급 측면에서 안정적인 경우가 많습니다.</p>
-
-<p>오후에 일시적으로 눌렸다가 다시 올라온 패턴도 확인됩니다. 이를 ‘눌림 소화’라고 하는데, 팔고 싶은 사람들이 다 팔고 난 뒤 다시 올라간다는 의미로 해석할 수 있습니다.</p>
-
-<p>⚠️ <strong>주의할 점</strong>: 거래대금이 <strong>1,080억 원</strong>으로 비교적 적은 편입니다. 거래대금이 작으면 큰 금액으로 매매할 때 원하는 가격에 사고팔기 어려울 수 있어, <strong>신뢰도(LOW)</strong>를 부여했습니다.</p>
-
-<hr />
-
-<h3 id="-한화오션-042660--캐나다-60조-잠수함-수주-임박">🚢 한화오션 (042660) — 캐나다 60조 잠수함 수주 임박!</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>항목</th>
-      <th>수치</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>매수 기준가</td>
-      <td><strong>115,400원</strong></td>
-    </tr>
-    <tr>
-      <td>거래대금</td>
-      <td><strong>약 1조 원</strong> (조선 테마 압도적 1위)</td>
-    </tr>
-    <tr>
-      <td>알고리즘 점수</td>
-      <td><strong>41점</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>오늘 가장 주목받은 종목입니다. 한화오션의 조선 테마 거래대금이 <strong>1조 원</strong>으로 오늘 전체 섹터 중 압도적 1위를 기록했습니다. <strong>1조 원</strong>이라는 거래대금은, 정말 많은 투자자들이 이 종목을 주목하고 있다는 신호입니다.</p>
-
-<p>🌟 <strong>핵심 촉매</strong>: 캐나다 정부의 <strong>60조 원 규모 잠수함 사업</strong> 수주 사업자 발표가 임박했다는 소식이 전해지고 있습니다. 이런 대형 방산 계약은 발표 전날 기대감으로 주가가 상승하고, 발표 당일 아침 시초가에서 추가 상승이 나오는 패턴이 자주 나타납니다.</p>
-
-<p>오늘 많은 투자자들이 “내일 아침에 더 오를 것 같다”는 기대를 갖고 사들이는 흐름이 감지됩니다. <strong>신뢰도(MEDIUM)</strong>로 평가됐습니다.</p>
-
-<hr />
-
-<h2 id="-nexttheme-알고리즘은-왜-이-두-종목을-골랐을까">🤖 NextTheme 알고리즘은 왜 이 두 종목을 골랐을까?</h2>
-
-<p>NextTheme 알고리즘의 핵심 원리는 ‘<strong>내일 아침 갭 상승</strong>‘입니다. 단순히 오늘 오른 종목을 추종하는 게 아니라, 다음 날 아침 시초가에서 위로 떠서 시작할 가능성을 분석합니다.</p>
-
-<p>오늘 선별된 두 종목의 공통점:</p>
-<ul>
-  <li>✅ <strong>기관 또는 외국인의 매수 참여</strong> — 큰 손들이 관심을 갖고 있다</li>
-  <li>✅ <strong>명확한 촉매 존재</strong> — GS건설(건설 테마 강세), 한화오션(수주 기대감)</li>
-  <li>✅ <strong>갭 상승 전략(GAP_TRADE)</strong> — 종가 매수 후 내일 아침 시초가 차익 실현</li>
-</ul>
-
-<p>전략 코드 <strong>GAP_UP_BASE</strong>는 “내일 아침 시초가가 오늘 종가보다 위에서 출발할 것”이라는 예측에 기반한 전략입니다.</p>
-
-<hr />
-
-<h2 id="-오늘의-종합-정리">📋 오늘의 종합 정리</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>점수</th>
-      <th>전략</th>
-      <th>매수가</th>
-      <th>비중</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>GS건설</td>
-      <td>43점</td>
-      <td>갭 트레이딩</td>
-      <td>30,450원</td>
-      <td>50%</td>
-    </tr>
-    <tr>
-      <td>한화오션</td>
-      <td>41점</td>
-      <td>갭 트레이딩</td>
-      <td>115,400원</td>
-      <td>50%</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>오늘은 전반적으로 어려운 시장이었지만, 조선·건설 테마에서 기회를 포착했습니다. 시장 전체가 빠질 때도 특정 테마는 힘을 유지한다는 점, 항상 기억해 두세요! 📌</p>
-
-<hr />
-
-<p>내일 아침 두 종목의 시초가가 어떻게 나올지 함께 지켜봐요. 투자는 항상 본인의 판단 하에 신중하게 하시기 바랍니다. 😊</p>
-
-<p>💬 <strong>댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</strong></p>
-
-<hr />
-
-<p>#종가배팅 #수급분석 #NextTheme #주식투자 #한화오션 #GS건설 #조선주 #건설주 #오늘주식 #갭투자</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[안녕하세요! 오늘(2026년 7월 6일) 장이 끝났습니다. 📊 코스피가 장 후반 약세로 돌아서고 외국인이 무려 2조 3,800억 원을 팔아치운 어려운 날이었는데요, 그럼에도 불구하고 조선·증권·건설 섹터에는 돈이 몰렸습니다. 시장 전체는 힘들어도, 특정 종목에는 기회가 있다는 걸 오늘 다시 확인했습니다. 💪]]></summary></entry></feed>
+<p>#종가배팅 #수급분석 #주식투자 #NextTheme #코스피 #코스닥 #한화오션 #조선주 #반도체주 #GS건설 #하루마감 #주식시황</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[안녕하세요, NextTheme입니다. 🗓️]]></summary></entry></feed>
