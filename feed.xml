@@ -1,4 +1,144 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-13T10:03:39+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">7/10 종가배팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/13/review-20260710-review/" rel="alternate" type="text/html" title="7/10 종가배팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-07-13T09:00:00+09:00</published><updated>2026-07-13T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/13/review_20260710-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/13/review-20260710-review/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-13T20:06:52+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 서킷브레이커 폭락장, SK이노베이션 주목</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/13/nt2-1505-snapshot/" rel="alternate" type="text/html" title="코스피 서킷브레이커 폭락장, SK이노베이션 주목" /><published>2026-07-13T15:05:00+09:00</published><updated>2026-07-13T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/13/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/13/nt2-1505-snapshot/"><![CDATA[<hr />
+
+<h2 id="-오늘-시장은-역사에-남을-하루였습니다">📉 오늘 시장은 역사에 남을 하루였습니다</h2>
+
+<p><strong>코스피가 하루 만에 -7.6%</strong> 급락하면서 거래를 일시 정지시키는 <strong>서킷브레이커</strong>까지 발동됐습니다. 이런 날은 보통 모든 종목이 함께 떨어지는데, 오늘은 딱 한 곳에만 투자자들의 돈이 몰렸습니다.</p>
+
+<p>바로 <strong>정유·윤활유</strong> 섹터입니다. 중동 긴장이 고조되면서 국제 유가가 오르고, 그 수혜가 정유 기업들에 집중된 것입니다.</p>
+
+<hr />
+
+<h2 id="-오늘-시장-브리핑--모든-게-내려갈-때-홀로-버틴-섹터">🌍 오늘 시장 브리핑 — “모든 게 내려갈 때 홀로 버틴 섹터”</h2>
+
+<p>오늘 장을 한마디로 정리하면 이렇습니다.</p>
+
+<blockquote>
+  <p><strong>“중동발 지정학적 위기 → 유가 상승 기대 → 정유·윤활유에만 수급 집중”</strong></p>
+</blockquote>
+
+<p>코스피 전체가 무너지는 와중에도 정유 관련 종목들은 오히려 주목받았습니다. 이런 극단적인 급락장에서 특정 섹터에 돈이 집중되는 현상은, 내일도 그 흐름이 이어질 가능성을 높입니다. 급락장에서 살아남은 종목에는 “다음 날 아침” 추격 매수가 들어오는 경우가 많기 때문입니다.</p>
+
+<hr />
+
+<h2 id="-오늘-선별된-종목--sk이노베이션은-왜">🔍 오늘 선별된 종목 — SK이노베이션은 왜?</h2>
+
+<p>오늘 NextTheme AI가 선별한 종목은 단 <strong>1개</strong>, 바로 <strong>SK이노베이션(096770)</strong>입니다.</p>
+
+<h3 id="sk이노베이션-핵심-지표">SK이노베이션 핵심 지표</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>항목</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>진입 기준가</td>
+      <td><strong>109,800원</strong></td>
+    </tr>
+    <tr>
+      <td>오늘 거래대금</td>
+      <td><strong>약 2,200억원</strong> (정유 섹터 내 1위)</td>
+    </tr>
+    <tr>
+      <td>기관 연속 매수</td>
+      <td><strong>5거래일 연속</strong> 순매수 중</td>
+    </tr>
+    <tr>
+      <td>전략</td>
+      <td><strong>GAP_TRADE</strong> (내일 아침 갭상승 狙</td>
+    </tr>
+    <tr>
+      <td>신뢰도</td>
+      <td>MEDIUM</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="-왜-sk이노베이션인가">📊 왜 SK이노베이션인가?</h2>
+
+<p>오늘 정유·윤활유 섹터 전체에서 돈이 몰렸는데, 그 중에서도 SK이노베이션이 선별된 이유는 세 가지입니다.</p>
+
+<h3 id="1️⃣-거래대금-1위--돈이-가장-많이-몰렸습니다">1️⃣ 거래대금 1위 — 돈이 가장 많이 몰렸습니다</h3>
+<p>정유 종목들 중 오늘 <strong>거래대금이 가장 큰 종목</strong>이 SK이노베이션입니다. <strong>2,200억원</strong>이 거래됐습니다. 돈이 많이 몰린 종목은 다음 날도 관심이 이어지는 경향이 있습니다.</p>
+
+<h3 id="2️⃣-큰-투자기관기관이-5일-연속-매수-중">2️⃣ 큰 투자기관(기관)이 5일 연속 매수 중</h3>
+<p>하루가 아닙니다. <strong>5거래일 연속</strong>으로 큰 투자기관들이 이 종목을 사들이고 있습니다. 기관은 단기 매매보다는 며칠에 걸쳐 조금씩 사는 경향이 있는데, 5일 연속이라면 그들의 확신이 상당하다는 신호입니다.</p>
+
+<h3 id="3️⃣-급락장에서-버텼습니다">3️⃣ 급락장에서 버텼습니다</h3>
+<p>코스피가 <strong>-7.6%</strong> 폭락하는 날에도 SK이노베이션은 15분봉 기준 지지선 위에서 버텼습니다. 이 종목을 팔지 않고 보유한 투자자들이 그만큼 많다는 의미이고, 내일 아침 유가 테마 관련 뉴스가 나오면 추가 매수세가 유입될 조건이 됩니다.</p>
+
+<hr />
+
+<h2 id="-nexttheme-알고리즘은-왜-이-종목을-골랐을까">🤖 NextTheme 알고리즘은 왜 이 종목을 골랐을까?</h2>
+
+<p>오늘처럼 시장 전체가 흔들리는 날, AI는 “모두가 팔 때 버티는 종목”을 찾습니다.</p>
+
+<ul>
+  <li><strong>테마 집중</strong>: 오늘 거의 유일하게 돈이 집중된 정유·윤활유 섹터</li>
+  <li><strong>거래대금 주도</strong>: 섹터 내에서도 가장 많은 거래가 일어난 종목</li>
+  <li><strong>기관 지지</strong>: 5일 연속 기관이 사고 있는 종목은 이유 없이 팔기 어렵습니다</li>
+  <li><strong>기술적 위치</strong>: 급락장에서 지지선을 지켰다는 것은 매수 의지가 강하다는 뜻</li>
+</ul>
+
+<p>이 네 가지가 겹친 결과입니다.</p>
+
+<hr />
+
+<h2 id="️-주의할-점">⚠️ 주의할 점</h2>
+
+<ul>
+  <li><strong>서킷브레이커 발동일 다음 날</strong>은 변동성이 매우 높습니다. 시장 분위기에 따라 갭상승/갭하락 모두 가능합니다.</li>
+  <li><strong>중동 관련 뉴스</strong>가 밤 사이 추가로 나올 수 있습니다. 유가가 더 오르면 긍정적, 긴장이 완화되면 부정적입니다.</li>
+  <li>종가배팅은 <strong>내일 아침 매도</strong>를 기본으로 합니다. 장기 보유 목적의 선별이 아닙니다.</li>
+</ul>
+
+<hr />
+
+<h2 id="-오늘의-결론">📋 오늘의 결론</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>항목</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>선별 종목</td>
+      <td><strong>SK이노베이션</strong></td>
+    </tr>
+    <tr>
+      <td>진입 기준가</td>
+      <td><strong>109,800원</strong></td>
+    </tr>
+    <tr>
+      <td>전략</td>
+      <td>내일 아침 유가 테마 갭상승 狙</td>
+    </tr>
+    <tr>
+      <td>핵심 근거</td>
+      <td>급락장 유일 강세 섹터 + 기관 5일 연속 매수 + 거래대금 1위</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>오늘 같은 폭락장에서 선별 종목이 1개뿐이라는 것 자체가 의미 있습니다. 아무 종목이나 담지 않고, 진짜 돈이 몰린 곳에만 집중하는 것이 종가배팅의 원칙입니다.</p>
+
+<p>내일 아침 유가 관련 뉴스와 함께 SK이노베이션의 흐름을 주목해 보세요.</p>
+
+<hr />
+
+<p>💬 <strong>댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</strong></p>
+
+<hr />
+
+<p>#종가배팅 #수급분석 #주식투자 #NextTheme #SK이노베이션 #정유주 #코스피폭락 #서킷브레이커 #유가상승 #기관매수</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">7/10 종가배팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/13/review-20260710-review/" rel="alternate" type="text/html" title="7/10 종가배팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-07-13T09:00:00+09:00</published><updated>2026-07-13T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/13/review_20260710-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/13/review-20260710-review/"><![CDATA[<blockquote>
   <p>데이터 기준: 2026-07-13 10:03 키움 ka10001 일괄 조회</p>
 </blockquote>
 
@@ -1770,304 +1910,4 @@ SK하이닉스가 미국 나스닥에 상장 첫날 <strong>+13%</strong> 급등
 
 <hr />
 
-<p>#종가배팅 #수급분석 #주식투자 #NextTheme #SK하이닉스나스닥 #반도체주 #HBM #원전주 #YELLOW등급 #주말브리핑 #주식초보 #종가배팅전략</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[한 주가 끝났습니다. 이번 주의 하이라이트는 단연 SK하이닉스의 미국 나스닥 데뷔였습니다. 🎉 첫날 공모가 대비 무려 +13% 급등하며 화려하게 미국 무대에 등장했는데요, 국내 반도체 관련주도 덩달아 활활 불타올랐습니다. 하지만 동시에 외국인 투자자들의 대규모 매도가 이어지면서 시장 전체는 한쪽이 뜨겁고 한쪽은 차가운 엇갈린 분위기였어요. 함께 정리해 보겠습니다.]]></summary></entry><entry><title type="html">반도체 훈풍에 코스피·코스닥 동반 급등 — 하루 마감 종합</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/10/daily/" rel="alternate" type="text/html" title="반도체 훈풍에 코스피·코스닥 동반 급등 — 하루 마감 종합" /><published>2026-07-10T21:00:00+09:00</published><updated>2026-07-10T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/10/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/10/daily/"><![CDATA[<h2 id="-오늘-하루-반도체-하나가-시장-전체를-들어올렸습니다">🌅 오늘 하루, 반도체 하나가 시장 전체를 들어올렸습니다</h2>
-
-<p>오늘(7월 10일) 코스피가 <strong>+2.52%</strong>, 코스닥이 무려 <strong>+5.47%</strong> 치솟으며 반도체·HBM·장비 테마로 돈이 몰린 강세장이었습니다. SK하이닉스 미국 나스닥 상장(ADR) 기대감이 시장 전체를 끌어올린 하루였어요.</p>
-
-<hr />
-
-<h2 id="-어젯밤-미국-시장-분위기">🇺🇸 어젯밤 미국 시장 분위기</h2>
-
-<p>어젯밤 미국 시장은 반도체 중심으로 반등했습니다.</p>
-
-<ul>
-  <li><strong>다우 +0.27%</strong> / <strong>S&amp;P500 +0.81%</strong> / <strong>나스닥 +1.30%</strong></li>
-  <li>SK하이닉스 나스닥 ADR 공모가가 <strong>149달러</strong>(한국 종가 대비 +3.1% 프리미엄)로 확정되면서 글로벌 투자자들의 관심이 집중됐어요</li>
-  <li>마이크론이 미국에 <strong>377조원</strong>을 투자하겠다고 선언하며 AI 메모리 수요에 대한 확신을 더했습니다</li>
-  <li>다만 필라델피아 반도체지수가 장중 고점에서 밀려 윗꼬리를 남긴 점(실질 -1.22%)은 아직 위쪽 매도 압력이 남아 있음을 보여줬어요</li>
-  <li>미국·이란 호르무즈 해협 분쟁 재점화로 유가가 <strong>71.83달러</strong>로 출렁이는 변동성도 있었습니다</li>
-</ul>
-
-<hr />
-
-<h2 id="-오늘-코스피코스닥-종가">📊 오늘 코스피·코스닥 종가</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>지수</th>
-      <th>종가</th>
-      <th>등락률</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>코스피</td>
-      <td><strong>7,475.94p</strong></td>
-      <td><strong>+2.52%</strong></td>
-    </tr>
-    <tr>
-      <td>코스닥</td>
-      <td><strong>837.43p</strong></td>
-      <td><strong>+5.47%</strong></td>
-    </tr>
-    <tr>
-      <td>달러/원</td>
-      <td><strong>1,504.0원</strong></td>
-      <td>—</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>최근 흐름을 보면, 코스피는 6월 21일 9,052p에서 7월 8일 7,247p까지 한 달 남짓 만에 약 20% 가까이 내려앉았습니다. 코스닥도 같은 기간 966p에서 785p까지 하락했어요. 그런데 오늘은 이 하락 추세에 제동을 걸었습니다. 코스피 +2.52%, 코스닥 +5.47% 동반 급등이 나왔고, 장중에는 <strong>매수 사이드카(지수 급등 시 5분간 매수 호가를 잠시 멈추는 장치)까지 발동</strong>될 정도의 강세였습니다.</p>
-
-<hr />
-
-<h2 id="-오늘-거래대금-상위--어디에-돈이-몰렸나요">💰 오늘 거래대금 상위 — 어디에 돈이 몰렸나요?</h2>
-
-<p><em>거래대금이 많다는 것은 그만큼 큰 투자자들(기관·외국인 등)이 많이 매매했다는 뜻이에요.</em></p>
-
-<table>
-  <thead>
-    <tr>
-      <th>순위</th>
-      <th>종목</th>
-      <th>거래대금</th>
-      <th>등락률</th>
-      <th>거래량</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>SK하이닉스</td>
-      <td><strong>15.4조원</strong></td>
-      <td>+0.82%</td>
-      <td>689.5만주</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>삼성전자</td>
-      <td><strong>8.9조원</strong></td>
-      <td>+3.96%</td>
-      <td>3,074.4만주</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>삼성전기</td>
-      <td><strong>1.9조원</strong></td>
-      <td>+5.83%</td>
-      <td>121.3만주</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>SK스퀘어</td>
-      <td><strong>1.4조원</strong></td>
-      <td>+6.03%</td>
-      <td>97.2만주</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>펩트론</td>
-      <td>6,755억원</td>
-      <td><strong>-29.94%</strong></td>
-      <td>577.8만주</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>삼성전자우</td>
-      <td>6,322억원</td>
-      <td>+5.87%</td>
-      <td>326.3만주</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>현대차</td>
-      <td>4,708억원</td>
-      <td>+3.70%</td>
-      <td>102.3만주</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>KB금융</td>
-      <td>4,294억원</td>
-      <td>+8.17%</td>
-      <td>232.0만주</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>LG이노텍</td>
-      <td>4,097억원</td>
-      <td>-0.67%</td>
-      <td>55.5만주</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>주성엔지니어링</td>
-      <td>4,076억원</td>
-      <td>+8.58%</td>
-      <td>213.7만주</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>SK하이닉스가 <strong>15조 4천억원</strong>이라는 어마어마한 거래대금으로 압도적 1위였습니다. ADR 상장 소식에 국내외 투자자들이 동시에 몰린 결과예요. 반면 <strong>펩트론은 -29.94%</strong> 급락하면서도 거래대금 5위에 올랐는데, 그만큼 매도 물량이 쏟아졌다는 뜻입니다.</p>
-
-<hr />
-
-<h2 id="-오늘-강세-테마--반도체-생태계-총집결">🔥 오늘 강세 테마 — 반도체 생태계 총집결</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>순위</th>
-      <th>테마</th>
-      <th>상승/전체</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>LED장비</td>
-      <td>11/11 (전 종목 상승)</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>반도체 장비</td>
-      <td>92/94</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>HBM(고대역폭메모리)</td>
-      <td>33/33 (전 종목 상승)</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>반도체 기판 (FC-BGA·PCB·MLB)</td>
-      <td>13/14</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>광통신 (광케이블·광섬유)</td>
-      <td>14/14 (전 종목 상승)</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>반도체 재료/부품</td>
-      <td>68/69</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>오늘의 주인공은 <strong>반도체 생태계 전체</strong>였습니다. HBM(AI용 고성능 메모리)·반도체 장비·기판·재료·LED장비까지 반도체 관련 테마가 통째로 올랐어요. LED장비·HBM·광통신은 테마 내 모든 종목이 상승하는 완전한 강세를 보였습니다.</p>
-
-<hr />
-
-<h2 id="-오늘-nexttheme-ai가-고른-종가배팅-종목">🎯 오늘 NextTheme AI가 고른 종가배팅 종목</h2>
-
-<blockquote>
-  <p><strong>베팅 등급: 🟢 GREEN</strong> — 오늘은 기둥이 선 날, 종가배팅 실행 등급입니다.</p>
-</blockquote>
-
-<p>미국 반도체 강세가 국내 시장으로 연결되고, 매수 사이드카까지 발동된 강세장에서 AI는 두 종목을 선별했습니다.</p>
-
-<h3 id="1️⃣-삼성전기-점수-47점--gap_trade-전략">1️⃣ 삼성전기 (점수: <strong>47점</strong>) — GAP_TRADE 전략</h3>
-
-<p>반도체 기판 테마(FC-BGA·PCB 등)를 이끄는 대장주입니다.</p>
-
-<ul>
-  <li>종가: <strong>1,580,000원</strong></li>
-  <li>오늘 등락률: <strong>+5.83%</strong></li>
-  <li>거래대금: <strong>1조 9,297억원</strong></li>
-</ul>
-
-<p>오늘 거래대금이 거의 2조원에 달했습니다. 이렇게 많은 돈이 들어온다는 건 대형 기관이나 외국인 투자자들이 적극적으로 매수에 나섰다는 강한 신호예요. NextTheme AI는 내일 아침 추가 상승(갭 상승) 가능성에 주목했습니다.</p>
-
-<h3 id="2️⃣-삼성전자-점수-41점--gap_trade-전략">2️⃣ 삼성전자 (점수: <strong>41점</strong>) — GAP_TRADE 전략</h3>
-
-<p>HBM 테마에서 외국인·기관이 동시에 대량으로 사들인 종목입니다.</p>
-
-<ul>
-  <li>종가: <strong>289,000원</strong></li>
-  <li>오늘 등락률: <strong>+3.96%</strong></li>
-  <li>거래대금: <strong>8조 9,209억원</strong></li>
-</ul>
-
-<p>외국인과 기관 투자자(큰 투자기관)가 나란히 사들이는 모습은 수급이 탄탄하다는 뜻입니다. 다만 워낙 큰 대형주라 내일 아침 시초가 갭 여지는 제한적일 수 있다고 AI는 분석했어요.</p>
-
-<hr />
-
-<h2 id="-선별-복기--어제-결과--오늘-장후-흐름">📋 선별 복기 — 어제 결과 &amp; 오늘 장후 흐름</h2>
-
-<h3 id="-어제79-선별--오늘-아침-실현-갭--확정된-성과">① 어제(7/9) 선별 → 오늘 아침 실현 갭 ✅ 확정된 성과</h3>
-
-<p>어제 저녁 NextTheme AI가 고른 SK하이닉스의 오늘 아침 매도 결과입니다. 종가배팅은 아침에 팔아야 실현 손익이 확정돼요.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>아침 갭 (실현)</th>
-      <th>장중 최고</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>SK하이닉스</td>
-      <td><strong>+1.47%</strong></td>
-      <td><strong>+6.98%</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>SK하이닉스는 오늘 아침 열리자마자 <strong>+1.47%</strong> 갭으로 출발했습니다. 종가배팅 실현 수익은 <strong>+1.47%</strong> 확정이에요. 장중에는 최고 <strong>+6.98%</strong>까지 올라 이틀 연속 좋은 흐름을 보여줬습니다. 🎯</p>
-
-<h3 id="-오늘710-선별--장-마감-후-잠정-흐름-️-아직-확정-아님">② 오늘(7/10) 선별 → 장 마감 후 잠정 흐름 ⚠️ 아직 확정 아님</h3>
-
-<p>오늘 선별한 종목들의 장 마감 후 애프터마켓 움직임입니다. <strong>내일 아침 실제 매도 시점이 진짜 성과</strong>이니 오늘 밤 흐름은 참고용으로만 봐주세요.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>장후 갭 (잠정)</th>
-      <th>장후 최고</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>삼성전기</td>
-      <td>0.0%</td>
-      <td>+0.5%</td>
-    </tr>
-    <tr>
-      <td>삼성전자</td>
-      <td>-0.87%</td>
-      <td>-0.69%</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>장 마감 직후는 삼성전기 횡보, 삼성전자 소폭 마이너스 흐름입니다. 밤 사이 미국 시장 결과에 따라 내일 아침 시초가는 크게 달라질 수 있어요.</p>
-
-<hr />
-
-<h2 id="-오늘-시장-한줄-총정리">🔍 오늘 시장 한줄 총정리</h2>
-
-<p>오늘은 <strong>SK하이닉스 ADR 상장이라는 대형 이벤트가 반도체 생태계 전체를 한꺼번에 끌어올린 날</strong>이었습니다. 코스닥 +5.47%는 최근 급락장에서의 강한 반전 신호이기도 해요. 내일은 미국 반도체지수의 추가 반응과 SK하이닉스 ADR 첫날 성과가 관건이 될 것 같습니다.</p>
-
-<hr />
-
-<h2 id="️-마무리">✍️ 마무리</h2>
-
-<blockquote>
-  <p><em>“시장은 단기적으로 투표 기계지만, 장기적으로는 저울이다.” — 벤저민 그레이엄</em></p>
-</blockquote>
-
-<p>오늘처럼 강세장에서도 흔들리지 않고 데이터를 보며 종목을 고르는 것이 종가배팅의 핵심입니다. 내일 아침 결과가 어떻게 나올지 함께 지켜봐요!</p>
-
-<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
-
-<hr />
-
-<p>#종가배팅 #수급분석 #주식투자 #NextTheme #반도체주식 #SK하이닉스 #삼성전자 #삼성전기 #코스피 #코스닥 #HBM #주식일기</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[🌅 오늘 하루, 반도체 하나가 시장 전체를 들어올렸습니다]]></summary></entry></feed>
+<p>#종가배팅 #수급분석 #주식투자 #NextTheme #SK하이닉스나스닥 #반도체주 #HBM #원전주 #YELLOW등급 #주말브리핑 #주식초보 #종가배팅전략</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[한 주가 끝났습니다. 이번 주의 하이라이트는 단연 SK하이닉스의 미국 나스닥 데뷔였습니다. 🎉 첫날 공모가 대비 무려 +13% 급등하며 화려하게 미국 무대에 등장했는데요, 국내 반도체 관련주도 덩달아 활활 불타올랐습니다. 하지만 동시에 외국인 투자자들의 대규모 매도가 이어지면서 시장 전체는 한쪽이 뜨겁고 한쪽은 차가운 엇갈린 분위기였어요. 함께 정리해 보겠습니다.]]></summary></entry></feed>
