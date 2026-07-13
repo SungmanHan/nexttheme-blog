@@ -1,4 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-13T21:02:03+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 -8.95% 급락, 중동 긴장에 정유만 살아남다 — 하루 마감 종합</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/13/daily/" rel="alternate" type="text/html" title="코스피 -8.95% 급락, 중동 긴장에 정유만 살아남다 — 하루 마감 종합" /><published>2026-07-13T21:00:00+09:00</published><updated>2026-07-13T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/13/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/13/daily/"><![CDATA[<h2 id="도입--오늘-하루는-정리해야-할-하루였습니다">도입 — 오늘 하루는 정리해야 할 하루였습니다</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-14T06:04:32+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">RED — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/14/0600-briefing/" rel="alternate" type="text/html" title="RED — 오늘 아침 시황" /><published>2026-07-14T06:00:00+09:00</published><updated>2026-07-14T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/14/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/14/0600-briefing/"><![CDATA[<blockquote>
+  <p><strong>2026년 7월 14일 (월) 오전 6시 기준</strong></p>
+</blockquote>
+
+<hr />
+
+<h2 id="-오늘-아침-주식-앱-열기가-두렵다면">😰 오늘 아침, 주식 앱 열기가 두렵다면</h2>
+
+<p>전일 코스피가 하루 만에 <strong>9%</strong> 가까이 폭락했습니다. 그리고 간밤에 미국 시장도 흔들렸습니다. 여러 악재가 한꺼번에 터진 상황에서 오늘 아침 출근길에 잔고를 확인하기 두려운 분들이 많으실 것 같습니다. NextTheme AI는 오늘 <strong>베팅 등급 RED</strong>를 유지하며 신규 진입을 강하게 말리고 있습니다.</p>
+
+<hr />
+
+<h2 id="-간밤-미국-시장-요약">🌐 간밤 미국 시장 요약</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>지수</th>
+      <th>등락</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>다우존스</td>
+      <td><strong>-0.26%</strong></td>
+    </tr>
+    <tr>
+      <td>S&amp;P500</td>
+      <td><strong>-0.79%</strong></td>
+    </tr>
+    <tr>
+      <td>나스닥</td>
+      <td><strong>-1.55%</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>미국 3대 지수가 모두 하락했습니다. 특히 반도체 관련 주식들이 <strong>-4.8%</strong> 급락하면서 기술주 중심의 나스닥이 가장 큰 타격을 받았습니다. 투자자들의 불안 심리를 나타내는 <strong>VIX(공포 지수)</strong>도 하루 만에 <strong>+14% 급등</strong>했는데, 이건 시장 참여자들이 얼마나 겁을 먹고 있는지를 보여주는 수치입니다.</p>
+
+<p>여기에 트럼프 전 대통령이 중동의 주요 원유 수송 통로인 호르무즈 해협에 <strong>20% 통행료</strong>를 부과하겠다고 선언하면서 국제 유가가 단숨에 <strong>+6.7% 폭등</strong>했습니다. 유가가 오르면 당장은 정유주에 호재처럼 보이지만, 사실 전체 물가가 다시 오를 수 있다는 무서운 신호이기도 합니다.</p>
+
+<hr />
+
+<h2 id="-오늘-베팅-등급-red-감정-점수-25100">🔴 오늘 베팅 등급: RED (감정 점수 25/100)</h2>
+
+<p><strong>RED 등급이란, 시장 환경이 너무 불안정해서 어떤 종목을 골라도 손실 위험이 매우 높다는 뜻입니다.</strong> 이럴 때 NextTheme은 “아무것도 하지 않는 것”이 최선의 전략이라고 판단합니다.</p>
+
+<h3 id="지금-상황이-위험한-이유">지금 상황이 위험한 이유</h3>
+
+<ul>
+  <li>전일 코스피 <strong>-9%</strong> 폭락 후 미국에서도 반도체 추가 급락</li>
+  <li>해외 큰손 투자자(외국인)이 전일 <strong>2.1조 원어치</strong>를 팔아치우고 있음</li>
+  <li>달러 대비 원화 환율이 <strong>1,499원</strong>을 다시 돌파 → 외국인 추가 이탈 압력 지속</li>
+  <li>오늘 밤 <strong>21시 30분에 미국 CPI(소비자물가지수)</strong> 발표, 내일 새벽엔 PPI(생산자물가지수)까지</li>
+</ul>
+
+<p>특히 오늘 밤의 CPI 발표가 핵심입니다. 물가가 예상치(<strong>YoY 3.8%</strong>)보다 높게 나오면 미국 연준(중앙은행)이 금리를 또 올릴 수 있다는 우려로 주가가 추가 하락할 수 있습니다. 반대로 물가가 낮게 나와도, 이미 유가가 <strong>+6.7%</strong> 급등한 상황이라 앞으로 물가가 다시 오를 거라는 걱정이 반등을 막을 것입니다.</p>
+
+<blockquote>
+  <p>💡 <strong>오늘의 전략</strong>: CPI(오늘)·PPI(내일)의 2연속 인플레이션 이벤트를 통과하기 전까지 신규 진입 보류. 이미 보유 중인 종목이 있다면 시초가(장 시작 직후) 반짝 오르는 순간을 분할 청산 기회로 활용하세요.</p>
+</blockquote>
+
+<hr />
+
+<h2 id="️-오늘-주목해야-할-변수들">⚠️ 오늘 주목해야 할 변수들</h2>
+
+<p>📉 <strong>SK하이닉스 ADR -9.3% 급락</strong>
+미국 나스닥에 상장된 SK하이닉스 ADR(해외 예탁증서)이 어젯밤 <strong>9.3%</strong> 떨어졌습니다. 최근 나스닥 상장으로 모았던 기대감이 한꺼번에 무너진 셈입니다. 오늘 국내 SK하이닉스 주가에 직접적인 영향이 예상됩니다.</p>
+
+<p>💸 <strong>개인 투자자 예탁금 한달새 34조 증발</strong>
+코스피 7,000선이 무너지면서 주식 투자를 위해 증권사에 맡겨둔 개인투자자의 돈(예탁금)이 한 달 만에 <strong>34조 원</strong>이나 줄었습니다. 레버리지 ETF(지수의 2~3배 수익·손실을 추구하는 상품)는 <strong>-40%</strong> 손실을 기록했습니다.</p>
+
+<p>🛢️ <strong>트럼프, 16일(수) 중동 관련 대국민 기자회견 예고</strong>
+어떤 발언이 나올지에 따라 유가와 관련 주식들이 또 한번 크게 흔들릴 수 있습니다.</p>
+
+<p>🏦 <strong>미국 연준 이사 “물가 높으면 긴축 검토” 발언</strong>
+월러 Fed 이사가 “6월 근원물가가 높게 나오면 금리인상을 다시 검토하겠다”고 발언했습니다. 오늘 밤 CPI가 더욱 중요해진 이유입니다.</p>
+
+<hr />
+
+<h2 id="-어제-ai-선별-복기-2026-07-13">📋 어제 AI 선별 복기 (2026-07-13)</h2>
+
+<p>어제 NextTheme AI는 <strong>신중(CAUTIOUS)</strong> 기조를 유지했습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>어제 전략</th>
+      <th>오늘 대응</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>SK이노베이션</strong></td>
+      <td>갭 트레이딩 후보</td>
+      <td>관망(보류)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>SK이노베이션</strong>: 유가가 어제에 이어 <strong>+6.7%</strong> 추가 폭등해 정유 테마는 이론상 유효합니다. 그러나 유가 급등이 인플레이션 재점화 우려로 바뀌어 오히려 금리인상 리스크를 키우고 있습니다. 전일 정유주가 <strong>+3.9%</strong> 오른 이후 이익실현 매물이 나올 가능성도 있습니다. RED 등급 + CPI 이벤트 앞에서는 신규 진입보다 관망이 맞습니다.</p>
+
+<p>⚠️ <strong>리스크 주의</strong>: 유가 급등이 오히려 인플레이션 압력으로 전환되어 변동성이 더 커질 수 있는 구간입니다.</p>
+
+<blockquote>
+  <p>✅ 어제 SK이노베이션은 실제로 매수하지 않았습니다.</p>
+</blockquote>
+
+<hr />
+
+<h2 id="-결론-오늘은-현금이-최강의-무기">✅ 결론: 오늘은 현금이 최강의 무기</h2>
+
+<p>지금 시장은 “어떤 종목을 사야 할까”가 아니라 “어떻게 손실을 줄이고 현금을 지킬까”가 핵심인 구간입니다.</p>
+
+<p><strong>오늘 밤 CPI, 내일 새벽 PPI — 이 두 이벤트를 통과한 뒤, 시장이 안정되는 신호를 확인하고 움직여도 절대 늦지 않습니다.</strong> 이런 구간에서 급하게 들어갔다가 추가 하락을 맞는 것이 가장 위험합니다.</p>
+
+<p>현금을 지키는 것도 훌륭한 투자 전략입니다. 오늘 하루 시장을 관찰하며 다음 기회를 준비하세요. 💪</p>
+
+<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
+
+<hr />
+
+<p>#종가배팅 #수급분석 #주식투자 #NextTheme #오늘주식전망 #코스피전망 #CPI발표 #인플레이션 #RED등급 #주식브리핑 #종가배팅전략</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[2026년 7월 14일 (월) 오전 6시 기준]]></summary></entry><entry><title type="html">코스피 -8.95% 급락, 중동 긴장에 정유만 살아남다 — 하루 마감 종합</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/13/daily/" rel="alternate" type="text/html" title="코스피 -8.95% 급락, 중동 긴장에 정유만 살아남다 — 하루 마감 종합" /><published>2026-07-13T21:00:00+09:00</published><updated>2026-07-13T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/13/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/13/daily/"><![CDATA[<h2 id="도입--오늘-하루는-정리해야-할-하루였습니다">도입 — 오늘 하루는 정리해야 할 하루였습니다</h2>
 
 <p>코스피가 <strong>−8.95%(-608포인트)</strong> 떨어졌습니다. 코스닥도 <strong>−4.55%</strong> 내려갔어요. 
 서킷브레이커까지 발동된 극단적인 급락장이었어요.</p>
@@ -2001,149 +2124,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <hr />
 
-<p>#종목분석 #SK케미칼 #수급분석 #NextTheme #285130 #종가배팅 #기관매수연속 #ESG투자 #신약테마 #화학주</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[2026년 7월 11일 오후 6시 04분 기준 분석 결과입니다. SK케미칼(285130)은 친환경 소재와 제약·바이오 사업을 함께 영위하는 종합 화학 기업입니다. 최근 ESG 테마와 신약 파이프라인 소식이 이어지는 가운데, 큰 투자기관(기관)의 연속 매수가 포착되었습니다. 과연 지금 주목해야 할 종목일까요? 🤔]]></summary></entry><entry><title type="html">한국전력(015760)을 심층 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/11/1757-detail-015760-detail/" rel="alternate" type="text/html" title="한국전력(015760)을 심층 분석" /><published>2026-07-11T17:57:00+09:00</published><updated>2026-07-11T17:57:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/11/1757_detail_015760-detail</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/11/1757-detail-015760-detail/"><![CDATA[<hr />
-
-<p>2026년 7월 11일 오후 5시 57분, NextTheme AI가 <strong>한국전력(015760)</strong>을 심층 분석했습니다.</p>
-
-<p>한국전력은 우리나라 전력 공급의 핵심 공기업입니다. 전국 가정과 기업에 전기를 공급하는 역할을 하며, 최근 AI 데이터센터·반도체 공장 확대로 전력 수요가 급증하면서 다시 주목받고 있는 종목입니다.</p>
-
-<hr />
-
-<h2 id="-오늘-가격과-큰-투자자-동향은">📊 오늘 가격과 큰 투자자 동향은?</h2>
-
-<p>오늘 한국전력은 <strong>36,200원</strong> (+<strong>2.84%</strong>)으로 마감했습니다.</p>
-
-<ul>
-  <li>🏦 <strong>큰 투자기관(기관)</strong>: 오늘 <strong>약 21만 8천 주</strong> 순매수</li>
-  <li>🌍 <strong>외국인</strong>: 오늘 <strong>약 3만 주</strong> 순매수 (소규모지만 방향은 매수)</li>
-</ul>
-
-<p>특히 <strong>외국인이 연속 2일째 순매수</strong>, <strong>기관도 오늘 사들이는 중</strong>입니다. 큰손들이 조심스럽게 담고 있는 모습입니다.</p>
-
-<h3 id="-60일-수급-흐름에서-의미-있는-변화">🔍 60일 수급 흐름에서 의미 있는 변화</h3>
-
-<p>4~5월에는 외국인이 꾸준히 팔면서 개인 투자자가 받아내는 패턴이 이어졌습니다. 그러다 <strong>6월 11~12일</strong> 외국인이 이틀 연속 큰 규모(각각 45만주, 31만주)로 사들이는 변화가 나타났습니다.</p>
-
-<p>기관도 6월 29일(70만주), 7월 2일(112만주) 등 <strong>간헐적 대규모 매수</strong>가 눈에 띄었고, 7월 들어서는 기관 매수가 자주 등장하고 있습니다.</p>
-
-<hr />
-
-<h2 id="-차트-위치는-어디에-있을까">📈 차트 위치는 어디에 있을까?</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>시간 기준</th>
-      <th style="text-align: center">현재 방향</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>단기 (일봉 기준)</td>
-      <td style="text-align: center">⬇️ <strong>하락 흐름</strong></td>
-    </tr>
-    <tr>
-      <td>중기 (주봉 기준)</td>
-      <td style="text-align: center">⬇️ <strong>하락 흐름</strong></td>
-    </tr>
-    <tr>
-      <td>장기 (월봉 기준)</td>
-      <td style="text-align: center">⬆️ <strong>상승 흐름</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>단기·중기가 모두 내려가는 중이고, 장기적으로만 올라온 상태입니다. 이런 경우를 <strong>다이버전스(방향 불일치)</strong>라고 부릅니다.</p>
-
-<p>📌 오늘 +<strong>2.84% 반등</strong>은 나왔지만, 일·주봉이 아직 하락 추세이므로 “추세가 진짜 돌아섰다”고 보기엔 이릅니다. 추가 확인이 필요합니다.</p>
-
-<hr />
-
-<h2 id="-뉴스-분석--정책-수혜-기대-단-불확실성도-존재">📰 뉴스 분석 — 정책 수혜 기대, 단 불확실성도 존재</h2>
-
-<table>
-  <tbody>
-    <tr>
-      <td>**뉴스 신호: 호재 ✅</td>
-      <td>촉매 유형: 정책**</td>
-    </tr>
-  </tbody>
-</table>
-
-<blockquote>
-  <p>정부가 <strong>ESS(에너지저장장치)</strong> 구축으로 재생에너지 1GW 확보를 추진 중이며, <strong>호남 반도체 벨트(800조원 규모)</strong> 투자가 현실화될 경우 전력 인프라를 한국전력이 담당하게 됩니다.</p>
-</blockquote>
-
-<p>쉽게 말하면 — <strong>반도체 공장이 늘어날수록 전기가 더 필요하고 = 한전 수익이 늘어난다</strong>는 논리입니다.</p>
-
-<h3 id="핵심-이슈-3가지">핵심 이슈 3가지</h3>
-
-<ol>
-  <li><strong>배전망 ESS 구축 착수</strong> — 호남·제주 재생에너지 전력 병목 해소, 한전 운영 효율 개선 기대</li>
-  <li><strong>호남 반도체 투자 전력 주도권</strong> — 800조원 투자 확정 시 한전의 전력 공급 역할 대폭 확대</li>
-  <li><strong>제12차 전력수급기본계획 지연</strong> ⚠️ — 추석 이후 공개 예정, 그 전까지 중장기 수익성 판단 어려움</li>
-</ol>
-
-<hr />
-
-<h2 id="-ai-종합-등급--결론">🤖 AI 종합 등급 &amp; 결론</h2>
-
-<p><strong>등급: ★★★★★ 중 ★1성 (ONE_STAR)</strong>
-<strong>투자 분위기: 맑음☀️</strong></p>
-
-<blockquote>
-  <p><em>“기관이 사고 있으나(연속 2일) 차트는 계속 내려가는 중(일·주봉 하락). 뉴스는 좋지만 현재가가 5일 평균 아래로 약세 상태. <strong>소량 관찰 권고</strong>.”</em></p>
-</blockquote>
-
-<p>NextTheme AI가 별 하나를 준 이유를 요약하면:</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>항목</th>
-      <th>평가</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>뉴스·정책 모멘텀</td>
-      <td>✅ 긍정적</td>
-    </tr>
-    <tr>
-      <td>기관·외국인 수급</td>
-      <td>✅ 매수 중</td>
-    </tr>
-    <tr>
-      <td>단기 차트</td>
-      <td>❌ 하락 추세</td>
-    </tr>
-    <tr>
-      <td>5일 이동평균 대비</td>
-      <td>❌ 현재가 아래</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>좋은 재료가 있어도 <strong>차트가 아직 내려가고 있다</strong>는 게 발목을 잡습니다. “사고 싶은 마음은 이해하지만 지금 당장 올인은 이르다”는 의미입니다.</p>
-
-<h3 id="-대응-가이드">📋 대응 가이드</h3>
-
-<blockquote>
-  <p>정책 수혜 확실성이 높아지고는 있지만, <strong>전력수급기본계획 공개 전까지 중장기 수익성 판단을 유보</strong>하는 것이 현명합니다. <strong>ESS 사업 진행 상황</strong>과 <strong>호남 반도체 투자 구체화 로드맵</strong>을 지속적으로 추적하세요.</p>
-</blockquote>
-
-<hr />
-
-<h2 id="-결론--관찰은-지금-진입은-조금-더-기다리자">🏁 결론 — 관찰은 지금, 진입은 조금 더 기다리자</h2>
-
-<p>한국전력은 <strong>정책 수혜 + 전력 수요 급증</strong>이라는 큰 흐름에서 매력적인 종목입니다. 기관도 조심스럽게 사들이고 있고, 오늘 반등도 나왔습니다.</p>
-
-<p>하지만 <strong>일·주봉이 모두 하락 추세</strong>인 상태에서 서두르기보다는, <strong>주봉 추세가 돌아서는 신호(고점 갱신 or 이동평균 위 안착)</strong>를 확인한 후 접근하는 전략이 현명합니다.</p>
-
-<p>ESS 사업 착수 소식이 구체화되거나, 호남 반도체 투자 일정이 확정되는 시점이 진입을 재검토하기 좋은 타이밍이 될 수 있습니다. 지금은 <strong>관심 종목에 넣고 조용히 지켜보는 단계</strong>입니다.</p>
-
-<hr />
-
-<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
-
-<p>#종목분석 #한국전력 #수급분석 #NextTheme #015760 #종가배팅 #ESS #전력주 #한전 #주식투자 #정책주 #반도체전력</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[]]></summary></entry></feed>
+<p>#종목분석 #SK케미칼 #수급분석 #NextTheme #285130 #종가배팅 #기관매수연속 #ESG투자 #신약테마 #화학주</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[2026년 7월 11일 오후 6시 04분 기준 분석 결과입니다. SK케미칼(285130)은 친환경 소재와 제약·바이오 사업을 함께 영위하는 종합 화학 기업입니다. 최근 ESG 테마와 신약 파이프라인 소식이 이어지는 가운데, 큰 투자기관(기관)의 연속 매수가 포착되었습니다. 과연 지금 주목해야 할 종목일까요? 🤔]]></summary></entry></feed>
