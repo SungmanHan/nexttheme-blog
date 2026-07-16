@@ -1,4 +1,130 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-16T10:03:33+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">7/15 종가배팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/16/review-20260715-review/" rel="alternate" type="text/html" title="7/15 종가배팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-07-16T09:00:00+09:00</published><updated>2026-07-16T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/16/review_20260715-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/16/review-20260715-review/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-16T20:07:14+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가배팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가배팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 6% 급락, SK이노베이션 주목</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/16/nt2-1505-snapshot/" rel="alternate" type="text/html" title="코스피 6% 급락, SK이노베이션 주목" /><published>2026-07-16T15:05:00+09:00</published><updated>2026-07-16T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/16/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/16/nt2-1505-snapshot/"><![CDATA[<h2 id="-오늘-하루-정말-험난했습니다">📉 오늘 하루, 정말 험난했습니다</h2>
+
+<p>2026년 7월 16일, 코스피가 단 하루에 <strong>6% 넘게 급락</strong>했습니다. 이런 날은 대부분의 투자자가 패닉 상태에 빠집니다. 무엇을 해야 할지 모르고, 손에 잡히는 것을 팔아버리고 싶은 충동이 들죠. 하지만 그 급락 장세 속에서도 오히려 강하게 버틴 종목이 있었습니다. 오늘 NextTheme 알고리즘이 주목한 종목이 바로 그것입니다.</p>
+
+<hr />
+
+<h2 id="-오늘-시장은-어땠나요">📊 오늘 시장은 어땠나요?</h2>
+
+<p>코스피가 단기간에 6% 이상 급락하는 것은 매우 이례적인 사건입니다. 이런 날엔 반도체·자동차·금융 등 대부분의 업종이 함께 추락합니다. 그런데 조선, 정유 같은 일부 방어적 업종에는 오히려 돈이 몰렸습니다.</p>
+
+<p>왜일까요? 시장 전반이 무너지는 날, 큰 투자기관(기관 투자자)들은 “그래도 내일도 살아있을 회사”를 찾습니다. 정유 업종은 경기와 상관없이 에너지 수요가 유지되고, 조선은 이미 받아놓은 수주잔고가 있어 단기 충격에도 견고합니다. 바로 그런 이유에서 이날 자금이 방어 업종 대장주로 집중됐습니다.</p>
+
+<hr />
+
+<h2 id="-오늘의-선별-종목-sk이노베이션-096770">🔍 오늘의 선별 종목: SK이노베이션 (096770)</h2>
+
+<h3 id="왜-sk이노베이션이-선택됐을까요">왜 SK이노베이션이 선택됐을까요?</h3>
+
+<blockquote>
+  <p>“시장이 <strong>6% 넘게 급락한 날</strong>에도 정유 대표주로 자금이 몰렸고, 큰 투자기관이 여러 날 연속 사들이며 오늘도 강하게 순매수해 내일 아침에도 사고 싶어질 자리입니다.”</p>
+</blockquote>
+
+<p>이 한 문장이 핵심입니다. 코스피가 폭락하는 날 대부분의 종목은 같이 떨어집니다. 하지만 SK이노베이션은 달랐습니다. 오늘 단 하나의 종목으로 집중 선별된 이유도 여기에 있습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>항목</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>종목</td>
+      <td><strong>SK이노베이션 (096770)</strong></td>
+    </tr>
+    <tr>
+      <td>종합 점수</td>
+      <td><strong>35점</strong></td>
+    </tr>
+    <tr>
+      <td>비중</td>
+      <td><strong>100%</strong> (오늘 단독 선별)</td>
+    </tr>
+    <tr>
+      <td>진입 참고가</td>
+      <td><strong>121,600원</strong></td>
+    </tr>
+    <tr>
+      <td>전략</td>
+      <td><strong>갭 트레이딩</strong> (내일 아침 갭 상승 기대)</td>
+    </tr>
+    <tr>
+      <td>신뢰도</td>
+      <td>MEDIUM (보통)</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="갭-트레이딩이-뭔가요">갭 트레이딩이 뭔가요?</h3>
+
+<p>‘갭 트레이딩(GAP_TRADE)’이란, 오늘 종가 부근에서 사서 내일 아침 시초가가 오늘보다 <strong>높게 시작할 때</strong> 차익을 얻는 전략입니다. 즉, 오늘 밤 추가 악재가 없다면 <strong>내일 아침 매도</strong>하는 아주 단기 전략이에요.</p>
+
+<p>큰 기관 투자자들이 여러 날 연속으로 SK이노베이션을 사들였다는 것은, 이 종목에 대한 기관의 매수 의지가 그만큼 강하다는 신호입니다. 코스피가 6% 폭락하는 날에도 그 흐름이 꺾이지 않았다면, 내일 아침 시장이 조금이라도 안정된다면 먼저 오를 수 있는 자리라는 판단입니다.</p>
+
+<hr />
+
+<h2 id="-nexttheme-알고리즘은-오늘-무엇을-봤을까">💡 NextTheme 알고리즘은 오늘 무엇을 봤을까?</h2>
+
+<p>오늘처럼 시장 전체가 크게 흔들린 날, NextTheme 알고리즘이 집중하는 두 가지 포인트가 있습니다.</p>
+
+<p><strong>① 시장 전체가 무너질 때 상대적으로 버틴 종목</strong>
+코스피가 6% 빠지는 날 함께 빠지지 않은 종목은 “누군가 열심히 사고 있다”는 뜻입니다. 이 자금 흐름이 내일 아침에도 이어질 가능성이 높습니다.</p>
+
+<p><strong>② 큰 기관들이 꾸준히 매수하고 있는 종목</strong>
+개인 투자자는 패닉에 팔지만, 기관 투자자는 오히려 저점에서 삽니다. 기관이 여러 날 연속으로 같은 종목을 사고 있다는 것은 단순한 우연이 아닙니다.</p>
+
+<p>SK이노베이션은 이 두 가지 조건을 오늘 모두 충족했습니다. 그래서 오늘 유일한 종가배팅 후보로 이름을 올린 것입니다.</p>
+
+<hr />
+
+<h2 id="️-오늘의-리스크-체크">⚠️ 오늘의 리스크 체크</h2>
+
+<p>코스피가 6% 급락한 날의 선별이라는 점에서 주의가 필요합니다. 신뢰도가 MEDIUM(보통)인 점도 감안하세요. 오늘 밤 미국 시장이나 추가 악재 뉴스에 따라 내일 아침 시초가가 예상과 다르게 형성될 수 있습니다. 진입 여부는 반드시 본인의 판단 하에 결정하시기 바랍니다.</p>
+
+<hr />
+
+<h2 id="-오늘-요약">📌 오늘 요약</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>항목</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>오늘 시장</td>
+      <td>코스피 6%+ 급락, 방어 업종으로 자금 이동</td>
+    </tr>
+    <tr>
+      <td>선별 종목</td>
+      <td><strong>SK이노베이션 (096770)</strong></td>
+    </tr>
+    <tr>
+      <td>핵심 이유</td>
+      <td>급락장에서도 기관 연속 순매수 + 정유 대장주 집중</td>
+    </tr>
+    <tr>
+      <td>전략</td>
+      <td>오늘 종가 부근 매수 → 내일 아침 갭 상승 시 매도</td>
+    </tr>
+    <tr>
+      <td>주의사항</td>
+      <td>신뢰도 MEDIUM — 시장 회복 여부 확인 후 판단</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>급락 장에서도 빛을 발하는 종목이 있습니다. 오늘 NextTheme이 찾은 기둥은 SK이노베이션 하나입니다. 시장 전반이 흔들리는 상황인 만큼, 무리한 베팅보다는 신중하게 접근하시길 권장합니다. 내일도 함께 기둥을 찾겠습니다.</p>
+
+<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
+
+<hr />
+
+<p>#종가배팅 #수급분석 #NextTheme #SK이노베이션 #주식투자 #코스피급락 #정유주 #갭트레이딩 #오늘의주식 #종목분석</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[📉 오늘 하루, 정말 험난했습니다]]></summary></entry><entry><title type="html">7/15 종가배팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/16/review-20260715-review/" rel="alternate" type="text/html" title="7/15 종가배팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-07-16T09:00:00+09:00</published><updated>2026-07-16T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/16/review_20260715-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/16/review-20260715-review/"><![CDATA[<blockquote>
   <p>데이터 기준: 2026-07-16 10:03 키움 ka10001 일괄 조회</p>
 </blockquote>
 
@@ -2156,127 +2282,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가배팅 #복기일지 #20260713 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-07-14 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">RED — 오늘 아침 시황</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/14/0600-briefing/" rel="alternate" type="text/html" title="RED — 오늘 아침 시황" /><published>2026-07-14T06:00:00+09:00</published><updated>2026-07-14T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/14/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/14/0600-briefing/"><![CDATA[<blockquote>
-  <p><strong>2026년 7월 14일 (월) 오전 6시 기준</strong></p>
-</blockquote>
-
-<hr />
-
-<h2 id="-오늘-아침-주식-앱-열기가-두렵다면">😰 오늘 아침, 주식 앱 열기가 두렵다면</h2>
-
-<p>전일 코스피가 하루 만에 <strong>9%</strong> 가까이 폭락했습니다. 그리고 간밤에 미국 시장도 흔들렸습니다. 여러 악재가 한꺼번에 터진 상황에서 오늘 아침 출근길에 잔고를 확인하기 두려운 분들이 많으실 것 같습니다. NextTheme AI는 오늘 <strong>베팅 등급 RED</strong>를 유지하며 신규 진입을 강하게 말리고 있습니다.</p>
-
-<hr />
-
-<h2 id="-간밤-미국-시장-요약">🌐 간밤 미국 시장 요약</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>지수</th>
-      <th>등락</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>다우존스</td>
-      <td><strong>-0.26%</strong></td>
-    </tr>
-    <tr>
-      <td>S&amp;P500</td>
-      <td><strong>-0.79%</strong></td>
-    </tr>
-    <tr>
-      <td>나스닥</td>
-      <td><strong>-1.55%</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>미국 3대 지수가 모두 하락했습니다. 특히 반도체 관련 주식들이 <strong>-4.8%</strong> 급락하면서 기술주 중심의 나스닥이 가장 큰 타격을 받았습니다. 투자자들의 불안 심리를 나타내는 <strong>VIX(공포 지수)</strong>도 하루 만에 <strong>+14% 급등</strong>했는데, 이건 시장 참여자들이 얼마나 겁을 먹고 있는지를 보여주는 수치입니다.</p>
-
-<p>여기에 트럼프 전 대통령이 중동의 주요 원유 수송 통로인 호르무즈 해협에 <strong>20% 통행료</strong>를 부과하겠다고 선언하면서 국제 유가가 단숨에 <strong>+6.7% 폭등</strong>했습니다. 유가가 오르면 당장은 정유주에 호재처럼 보이지만, 사실 전체 물가가 다시 오를 수 있다는 무서운 신호이기도 합니다.</p>
-
-<hr />
-
-<h2 id="-오늘-베팅-등급-red-감정-점수-25100">🔴 오늘 베팅 등급: RED (감정 점수 25/100)</h2>
-
-<p><strong>RED 등급이란, 시장 환경이 너무 불안정해서 어떤 종목을 골라도 손실 위험이 매우 높다는 뜻입니다.</strong> 이럴 때 NextTheme은 “아무것도 하지 않는 것”이 최선의 전략이라고 판단합니다.</p>
-
-<h3 id="지금-상황이-위험한-이유">지금 상황이 위험한 이유</h3>
-
-<ul>
-  <li>전일 코스피 <strong>-9%</strong> 폭락 후 미국에서도 반도체 추가 급락</li>
-  <li>해외 큰손 투자자(외국인)이 전일 <strong>2.1조 원어치</strong>를 팔아치우고 있음</li>
-  <li>달러 대비 원화 환율이 <strong>1,499원</strong>을 다시 돌파 → 외국인 추가 이탈 압력 지속</li>
-  <li>오늘 밤 <strong>21시 30분에 미국 CPI(소비자물가지수)</strong> 발표, 내일 새벽엔 PPI(생산자물가지수)까지</li>
-</ul>
-
-<p>특히 오늘 밤의 CPI 발표가 핵심입니다. 물가가 예상치(<strong>YoY 3.8%</strong>)보다 높게 나오면 미국 연준(중앙은행)이 금리를 또 올릴 수 있다는 우려로 주가가 추가 하락할 수 있습니다. 반대로 물가가 낮게 나와도, 이미 유가가 <strong>+6.7%</strong> 급등한 상황이라 앞으로 물가가 다시 오를 거라는 걱정이 반등을 막을 것입니다.</p>
-
-<blockquote>
-  <p>💡 <strong>오늘의 전략</strong>: CPI(오늘)·PPI(내일)의 2연속 인플레이션 이벤트를 통과하기 전까지 신규 진입 보류. 이미 보유 중인 종목이 있다면 시초가(장 시작 직후) 반짝 오르는 순간을 분할 청산 기회로 활용하세요.</p>
-</blockquote>
-
-<hr />
-
-<h2 id="️-오늘-주목해야-할-변수들">⚠️ 오늘 주목해야 할 변수들</h2>
-
-<p>📉 <strong>SK하이닉스 ADR -9.3% 급락</strong>
-미국 나스닥에 상장된 SK하이닉스 ADR(해외 예탁증서)이 어젯밤 <strong>9.3%</strong> 떨어졌습니다. 최근 나스닥 상장으로 모았던 기대감이 한꺼번에 무너진 셈입니다. 오늘 국내 SK하이닉스 주가에 직접적인 영향이 예상됩니다.</p>
-
-<p>💸 <strong>개인 투자자 예탁금 한달새 34조 증발</strong>
-코스피 7,000선이 무너지면서 주식 투자를 위해 증권사에 맡겨둔 개인투자자의 돈(예탁금)이 한 달 만에 <strong>34조 원</strong>이나 줄었습니다. 레버리지 ETF(지수의 2~3배 수익·손실을 추구하는 상품)는 <strong>-40%</strong> 손실을 기록했습니다.</p>
-
-<p>🛢️ <strong>트럼프, 16일(수) 중동 관련 대국민 기자회견 예고</strong>
-어떤 발언이 나올지에 따라 유가와 관련 주식들이 또 한번 크게 흔들릴 수 있습니다.</p>
-
-<p>🏦 <strong>미국 연준 이사 “물가 높으면 긴축 검토” 발언</strong>
-월러 Fed 이사가 “6월 근원물가가 높게 나오면 금리인상을 다시 검토하겠다”고 발언했습니다. 오늘 밤 CPI가 더욱 중요해진 이유입니다.</p>
-
-<hr />
-
-<h2 id="-어제-ai-선별-복기-2026-07-13">📋 어제 AI 선별 복기 (2026-07-13)</h2>
-
-<p>어제 NextTheme AI는 <strong>신중(CAUTIOUS)</strong> 기조를 유지했습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>어제 전략</th>
-      <th>오늘 대응</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>SK이노베이션</strong></td>
-      <td>갭 트레이딩 후보</td>
-      <td>관망(보류)</td>
-    </tr>
-  </tbody>
-</table>
-
-<p><strong>SK이노베이션</strong>: 유가가 어제에 이어 <strong>+6.7%</strong> 추가 폭등해 정유 테마는 이론상 유효합니다. 그러나 유가 급등이 인플레이션 재점화 우려로 바뀌어 오히려 금리인상 리스크를 키우고 있습니다. 전일 정유주가 <strong>+3.9%</strong> 오른 이후 이익실현 매물이 나올 가능성도 있습니다. RED 등급 + CPI 이벤트 앞에서는 신규 진입보다 관망이 맞습니다.</p>
-
-<p>⚠️ <strong>리스크 주의</strong>: 유가 급등이 오히려 인플레이션 압력으로 전환되어 변동성이 더 커질 수 있는 구간입니다.</p>
-
-<blockquote>
-  <p>✅ 어제 SK이노베이션은 실제로 매수하지 않았습니다.</p>
-</blockquote>
-
-<hr />
-
-<h2 id="-결론-오늘은-현금이-최강의-무기">✅ 결론: 오늘은 현금이 최강의 무기</h2>
-
-<p>지금 시장은 “어떤 종목을 사야 할까”가 아니라 “어떻게 손실을 줄이고 현금을 지킬까”가 핵심인 구간입니다.</p>
-
-<p><strong>오늘 밤 CPI, 내일 새벽 PPI — 이 두 이벤트를 통과한 뒤, 시장이 안정되는 신호를 확인하고 움직여도 절대 늦지 않습니다.</strong> 이런 구간에서 급하게 들어갔다가 추가 하락을 맞는 것이 가장 위험합니다.</p>
-
-<p>현금을 지키는 것도 훌륭한 투자 전략입니다. 오늘 하루 시장을 관찰하며 다음 기회를 준비하세요. 💪</p>
-
-<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
-
-<hr />
-
-<p>#종가배팅 #수급분석 #주식투자 #NextTheme #오늘주식전망 #코스피전망 #CPI발표 #인플레이션 #RED등급 #주식브리핑 #종가배팅전략</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[2026년 7월 14일 (월) 오전 6시 기준]]></summary></entry></feed>
+<p>#종가배팅 #복기일지 #20260713 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-07-14 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
