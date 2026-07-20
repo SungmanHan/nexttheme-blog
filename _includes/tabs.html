@@ -1,5 +1,5 @@
 <nav class="cat-tabs" aria-label="카테고리">
-  {% assign tabs = "all|전체,daily|데일리,briefing|브리핑,snapshot|종가배팅,weekly|주간리뷰,detail|종목상세,review|종가배팅복기" | split: "," %}
+  {% assign tabs = "all|전체,daily|데일리,briefing|브리핑,snapshot|종가베팅,weekly|주간리뷰,detail|종목상세,review|종가베팅복기" | split: "," %}
   {% for tab in tabs %}
     {% assign parts = tab | split: "|" %}
     {% assign slug = parts[0] %}
