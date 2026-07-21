@@ -1,4 +1,170 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-21T11:27:47+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">솔디펜스 +30% 급등 당일 수급 분석 — 외국인 매도 속 개인 주도 급등의 의미</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/21/1124-detail-215090-detail/" rel="alternate" type="text/html" title="솔디펜스 +30% 급등 당일 수급 분석 — 외국인 매도 속 개인 주도 급등의 의미" /><published>2026-07-21T11:24:00+09:00</published><updated>2026-07-21T11:24:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/21/1124_detail_215090-detail</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/21/1124-detail-215090-detail/"><![CDATA[<p>📅 <strong>2026년 7월 21일 오전 11시 24분</strong> 기준 분석 결과입니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-21T20:08:21+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 4%대 급등, SK하이닉스·레인보우로보틱스에 자금 집중된 이유 — 오늘 수급 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/21/nt2-1505-snapshot/" rel="alternate" type="text/html" title="코스피 4%대 급등, SK하이닉스·레인보우로보틱스에 자금 집중된 이유 — 오늘 수급 분석" /><published>2026-07-21T15:05:00+09:00</published><updated>2026-07-21T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/21/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/21/nt2-1505-snapshot/"><![CDATA[<p>오늘은 오랜만에 시장 전체가 한 방향으로 강하게 움직인 날이었습니다. 코스피가 <strong>4%대 급등</strong>하며 연일 강세를 이어갔고, 반도체와 로봇이라는 두 섹터로 투자자들의 시선이 동시에 집중됐습니다. 📈</p>
+
+<h2 id="-오늘-시장은-왜-이렇게-올랐을까">📊 오늘 시장은 왜 이렇게 올랐을까?</h2>
+
+<p>오늘 시장을 뒤흔든 핵심 재료는 <strong>레버리지 ETF 청산이 약 75% 마무리됐다</strong>는 소식이었습니다.</p>
+
+<p>레버리지 ETF란 지수 상승폭의 2배를 추구하는 펀드인데, 이 펀드들이 청산될 때는 보유 주식을 대거 내다팔아야 합니다. 최근 몇 주간 이 청산 물량이 외국인(해외 대형 투자자) 매도 압력의 주범 중 하나로 꼽혔는데, 오늘 75% 가량 소화됐다는 뉴스가 나오자 <strong>“이제 매도 폭탄이 거의 끝난다”</strong>는 안도감이 퍼지며 증시 전반에 반등 매수가 쏟아졌습니다.</p>
+
+<p>자금은 특히 <strong>반도체 대장주 SK하이닉스</strong>와 <strong>로봇 테마 대표주 레인보우로보틱스</strong>로 집중됐습니다. NextTheme 알고리즘이 오늘 15시 최종 선별에서 이 두 종목을 고른 배경을 살펴보겠습니다.</p>
+
+<hr />
+
+<h2 id="-오늘-선별된-종목들-왜-골랐을까">🔍 오늘 선별된 종목들, 왜 골랐을까?</h2>
+
+<h3 id="1️⃣-sk하이닉스--반도체-대장-외국인기관이-동시에-사들였다">1️⃣ SK하이닉스 — 반도체 대장, 외국인·기관이 동시에 사들였다</h3>
+
+<p>SK하이닉스는 오늘 종가 기준 <strong>1,858,000원, 하루에 +5.33%</strong> 상승 마감했습니다.</p>
+
+<p>특히 눈에 띄는 것은 수급입니다. 외국인이 오늘 하루에만 <strong>+16만 주</strong>를 순매수했고, 큰 투자기관(기관 투자자)도 <strong>+29만 주</strong>를 함께 매수했습니다. 레버리지 ETF 청산 소식으로 외국인 매도 압력이 완화되자마자, 그 자금이 반도체 대장주로 집중된 구도입니다. 삼성전자·SK하이닉스를 아우르는 S7 테마에서 <strong>1위</strong>를 기록했고, AI 선별 신뢰도는 HIGH(높음)로 평가됐습니다.</p>
+
+<p><strong>📋 SK하이닉스 분석 데이터</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>항목</th>
+      <th>수치</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>기본</td>
+      <td>당일 종가 / 등락률</td>
+      <td>1,858,000원 / <strong>+5.33%</strong></td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>거래대금 / 시총</td>
+      <td><strong>12.0조원</strong> / 1,324.2조원</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>주도 테마 / 테마내순위</td>
+      <td>S7(삼성전자/SK하이닉스 등) / <strong>1위</strong></td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>RSI / RVOL / 이평수렴</td>
+      <td>41.3 / 0.60 / +0.17%</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>52주 신고가 / OBV</td>
+      <td>아님 / 중립</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>외인 순매수 / 기관 순매수</td>
+      <td><strong>+16만 주</strong> / <strong>+29만 주</strong></td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>매출 YoY 성장률</td>
+      <td><strong>+277.5%</strong></td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>최근 분기 실적</td>
+      <td>2026.06: 매출 839,264억원 / 영업이익 76억원</td>
+    </tr>
+    <tr>
+      <td>점수</td>
+      <td>AI 종합 점수</td>
+      <td><strong>45점</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<blockquote>
+  <p>※ AI 기록상 종가는 1,858,000원입니다.</p>
+</blockquote>
+
+<p>특히 매출이 전년 동기 대비 <strong>+277.5%</strong> 성장했다는 수치는, 이 종목이 테마 모멘텀만이 아니라 실제 실적 성장에 기반한 반도체 핵심 기업임을 보여줍니다.</p>
+
+<hr />
+
+<h3 id="2️⃣-레인보우로보틱스--로봇-대장주-거래대금-최근-5일-평균의-3배">2️⃣ 레인보우로보틱스 — 로봇 대장주, 거래대금 최근 5일 평균의 3배</h3>
+
+<p>레인보우로보틱스는 오늘 <strong>415,000원, 하루에 +10.67%</strong> 급등하며 강한 흐름을 보였습니다.</p>
+
+<p>오늘 거래대금이 최근 5일 평균 대비 약 <strong>3배</strong> 수준(RVOL <strong>2.27</strong>)으로 폭증했습니다. 협동로봇·산업용 로봇 테마에서 <strong>1위</strong> 종목으로, 오늘 로봇 섹터가 시장을 주도했다는 것을 거래량이 증명한 셈입니다. AI 선별 신뢰도는 MEDIUM(중간 수준)으로 기록됐습니다.</p>
+
+<p><strong>📋 레인보우로보틱스 분석 데이터</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>항목</th>
+      <th>수치</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>기본</td>
+      <td>당일 종가 / 등락률</td>
+      <td>415,000원 / <strong>+10.67%</strong></td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>거래대금 / 시총</td>
+      <td><strong>1,420억원</strong> / 8.1조원</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>주도 테마 / 테마내순위</td>
+      <td>로봇(산업용/협동로봇 등) / <strong>1위</strong></td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>RSI / RVOL / 이평수렴</td>
+      <td>38.8 / <strong>2.27</strong> / +0.46%</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>52주 신고가 / OBV</td>
+      <td>아님 / 중립</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>외인 순매수 / 기관 순매수</td>
+      <td>0주 / +2,000주</td>
+    </tr>
+    <tr>
+      <td>점수</td>
+      <td>AI 종합 점수</td>
+      <td><strong>29점</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<blockquote>
+  <p>※ AI 기록상 종가는 415,000원입니다.</p>
+</blockquote>
+
+<hr />
+
+<h2 id="-오늘-흐름에서-주목한-것--두-종목-성격은-달랐지만-선별-기준은-같았다">💡 오늘 흐름에서 주목한 것 — 두 종목, 성격은 달랐지만 선별 기준은 같았다</h2>
+
+<p>오늘 선별된 두 종목을 나란히 놓고 보면 흥미로운 대비가 보입니다.</p>
+
+<p>SK하이닉스는 <strong>시가총액 1,300조 원대의 코스피 초대형주</strong>입니다. 오늘만 거래대금 <strong>12조 원</strong>이 몰렸고, 외국인과 기관이 동시에 대규모로 사들였습니다. 반면 레인보우로보틱스는 <strong>시총 8조 원대의 성장형 로봇주</strong>입니다. 기관·외국인 수급보다는 거래대금 폭증과 테마 주도성이 선별 근거였습니다.</p>
+
+<p>이처럼 성격이 다른 두 종목을 고른 공통 기준은 하나였습니다 — <strong>“오늘 시장에서 그 섹터를 이끈 대장 종목인가”</strong>. 반도체가 강한 날에는 반도체 대장을, 로봇이 달리는 날에는 로봇 대장을 — NextTheme 알고리즘이 오늘의 주도 흐름과 수급이 집중된 종목을 교차 검증한 결과입니다.</p>
+
+<hr />
+
+<h2 id="-오늘-정리">📝 오늘 정리</h2>
+
+<p>코스피 4%대 급등이라는 강한 하루를 마쳤습니다. 레버리지 ETF 청산 진행 소식이 외국인 매도 압력을 완화시키며 반도체와 로봇 두 축으로 자금이 집중됐고, NextTheme 알고리즘은 각 섹터의 대장 종목으로 SK하이닉스와 레인보우로보틱스를 선별했습니다. 오늘 이 수급 흐름이 어떻게 이어질지는 내일 시장이 확인해줄 것입니다.</p>
+
+<p>오늘 선별 데이터나 시장 흐름에 대해 궁금한 점이 있으시면 댓글로 남겨주세요. 📊</p>
+
+<hr />
+
+<p>#SK하이닉스 #레인보우로보틱스 #코스피급등 #반도체주 #로봇주 #NextTheme #종가베팅 #수급분석 #레버리지ETF #오늘주식시장</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[오늘은 오랜만에 시장 전체가 한 방향으로 강하게 움직인 날이었습니다. 코스피가 4%대 급등하며 연일 강세를 이어갔고, 반도체와 로봇이라는 두 섹터로 투자자들의 시선이 동시에 집중됐습니다. 📈]]></summary></entry><entry><title type="html">솔디펜스 +30% 급등 당일 수급 분석 — 외국인 매도 속 개인 주도 급등의 의미</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/21/1124-detail-215090-detail/" rel="alternate" type="text/html" title="솔디펜스 +30% 급등 당일 수급 분석 — 외국인 매도 속 개인 주도 급등의 의미" /><published>2026-07-21T11:24:00+09:00</published><updated>2026-07-21T11:24:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/21/1124_detail_215090-detail</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/21/1124-detail-215090-detail/"><![CDATA[<p>📅 <strong>2026년 7월 21일 오전 11시 24분</strong> 기준 분석 결과입니다.</p>
 
 <p>오늘 솔디펜스(215090)가 장중 상한가 직전까지 치솟았습니다. 방산 기업이 단숨에 <strong>+30%</strong> 가까이 오른 날, 수급 데이터가 말해주는 이야기를 차근차근 살펴볼게요.</p>
 
@@ -1881,136 +2047,4 @@ NextTheme도 이번 주 초반은 신중하게 지켜보며, 진짜 기회가 �
 
 <hr />
 
-<p>#종가베팅 #주식투자 #수급분석 #NextTheme #주말브리핑 #코스피전망 #반도체주 #방산주 #조선주 #정유주 #월요일주식 #RED등급 #주식초보</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">YELLOW — 한 주 회고와 다음 주 준비</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/18/weekend/" rel="alternate" type="text/html" title="YELLOW — 한 주 회고와 다음 주 준비" /><published>2026-07-18T06:00:00+09:00</published><updated>2026-07-18T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/18/weekend</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/18/weekend/"><![CDATA[<p>한 주가 끝났습니다. 숨 한 번 고르고, 다음 주를 준비할 시간입니다. 📅</p>
-
-<hr />
-
-<h2 id="-미국-야간-시장--반도체-충격-여진은-계속">🌏 미국 야간 시장 — 반도체 충격, 여진은 계속</h2>
-
-<p>금요일 밤 미국 증시가 전반적으로 하락했습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>지수</th>
-      <th>등락률</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>다우존스</td>
-      <td><strong>-0.77%</strong></td>
-    </tr>
-    <tr>
-      <td>S&amp;P500</td>
-      <td><strong>-1.01%</strong></td>
-    </tr>
-    <tr>
-      <td>나스닥</td>
-      <td><strong>-1.40%</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>“AI 반도체 거품”이라는 말이 시장에 퍼지면서 반도체 관련 주식들을 모아 놓은 필라델피아 반도체지수가 고점 대비 <strong>-20%</strong> 하락, 공식 약세장(베어마켓)에 진입했습니다. 엔비디아가 크게 떨어지면서 한동안 1위 자리를 뺏겼던 애플이 시가총액 세계 1위를 다시 가져갔습니다.</p>
-
-<p>여기에 중동 긴장도 시장을 압박하고 있습니다. 미국과 이란 간 보복 공습이 6일째 이어지며 국제 유가(WTI)가 하루 만에 <strong>+3.43%</strong> 급등했습니다.</p>
-
-<p>국내에서도 굵직한 소식이 있었습니다. 한국은행이 <strong>3년 반 만에 기준금리를 인상(2.75%)</strong>했고, 레버리지 ETF 변동성 규제도 강화됐습니다. 금리 인상은 대출 이자 부담을 높여 시장 전반에 압박 요인으로 작용합니다.</p>
-
-<hr />
-
-<h2 id="-이번-주말-베팅-등급--yellow-신중-접근">🎯 이번 주말 베팅 등급 — YELLOW (신중 접근)</h2>
-
-<p><strong>현재 시장 심리 점수: 50점 / 100점</strong></p>
-
-<p>지금은 “무조건 사자”도, “무조건 팔자”도 아닌 <strong>황색 신호</strong> 구간입니다. 방향을 잘 골라 선별적으로 접근해야 할 때입니다.</p>
-
-<blockquote>
-  <p>📌 <strong>NextTheme 전략 방향</strong>
-변동성이 커지는 국면에서는 방어적인 섹터 중심으로 접근합니다. 반도체 조정이 더 이어질 수 있지만, 국내 수출이 견조하고 무역흑자가 나오는 건 펀더멘털(기업 기초체력) 면에서 긍정적인 신호입니다. 중동 긴장으로 유가가 뛰면서 정유·조선 같은 에너지·방어 업종에 돈이 몰리고 있습니다.</p>
-</blockquote>
-
-<p><strong>실천 포인트:</strong></p>
-<ul>
-  <li>반도체 추가 하락 시 섣불리 따라 사지 않기</li>
-  <li>유가 상승 혜택을 보는 섹터의 대표 종목 위주로 단기 대응</li>
-  <li>변동성이 클수록 손절 라인을 더 철저히 지키기</li>
-</ul>
-
-<hr />
-
-<h2 id="-다음-주-주목할-3대-섹터">🔍 다음 주 주목할 3대 섹터</h2>
-
-<h3 id="-조선">🚢 조선</h3>
-<p>올해 상반기 전 세계 선박 발주량이 전년 대비 <strong>88% 급증</strong>했습니다. 세계 해양 시장이 살아나면서 국내 조선사들이 큰 수혜를 받고 있습니다. 방어적 성격을 갖추면서도 성장 모멘텀까지 갖춘 섹터입니다.</p>
-
-<h3 id="️-정유">🛢️ 정유</h3>
-<p>중동 지정학적 긴장이 이어지면서 유가가 급등하면 정유사 이익이 늘어납니다. 원유를 사서 휘발유·경유 등으로 정제해 파는 ‘정제 마진’이 개선될 것으로 기대됩니다.</p>
-
-<h3 id="-통신">📡 통신</h3>
-<p>금리 인상·변동성 확대 국면에서 주가 등락이 작고 꾸준한 배당을 지급하는 통신 업종에 안전을 원하는 자금이 몰리고 있습니다. “시장이 흔들릴 때 자산을 지키는” 성격의 투자처로 주목받습니다.</p>
-
-<hr />
-
-<h2 id="-금요일716-선별-복기">📋 금요일(7/16) 선별 복기</h2>
-
-<p>어제 AI가 주목한 종목을 점검합니다.</p>
-
-<p><strong>전체 방향: 유지(MAINTAIN)</strong> — 시장 흐름과 선별 방향이 일치한 상태입니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>상태</th>
-      <th>대응 방향</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>SK이노베이션 (096770)</td>
-      <td>관심 종목</td>
-      <td>HOLD_WATCH (지켜보기)</td>
-    </tr>
-  </tbody>
-</table>
-
-<blockquote>
-  <p><strong>SK이노베이션</strong>: 정유 대표주로, 전체 시장이 흔들리는 상황에서도 혼자 <strong>+3.93% 상승</strong>했습니다. 큰 투자기관(기관)이 무려 <strong>8일 연속</strong> 순매수를 이어가고 있다는 점이 눈에 띕니다. 직전 고점인 <strong>166,000원</strong> 저항선 부근에서 밀릴 수 있으니, 시초가 기준으로 흐름을 먼저 확인한 후 대응하는 것이 좋습니다. 60일 평균 주가선(<strong>119,462원</strong>) 지지 여부도 체크 포인트입니다.</p>
-</blockquote>
-
-<p><em>(실제 매수하지 않은 관심 종목입니다.)</em></p>
-
-<hr />
-
-<h2 id="-다음-주-핵심-변수">📆 다음 주 핵심 변수</h2>
-
-<p><strong>월요일 개장 전 체크리스트:</strong></p>
-
-<ul>
-  <li>🔴 삼성전자·SK하이닉스: 미국 반도체 약세 여파로 추가 조정 가능. 반등 확인 전 추격 매수 자제</li>
-  <li>🟡 조선·정유 방어주: 최근 고점(저항선) 부근 테스트 예상. 지지 여부 확인 후 대응</li>
-  <li>⚠️ 외국인·기관 동시 매도 지속 시: 추가 하락 압력 가능 — 포지션 비중 조절 고려</li>
-</ul>
-
-<p><strong>보유 종목 대응 기준:</strong></p>
-<ol>
-  <li>60일 평균 주가선 아래로 떨어지면 즉시 매도</li>
-  <li>직전 고점(저항선) 앞에서 분할 매도로 수익 일부 확보</li>
-  <li>시장 추가 조정 시 미리 정해 둔 손절 라인 엄격하게 지키기</li>
-</ol>
-
-<hr />
-
-<h2 id="-한-줄-정리">✅ 한 줄 정리</h2>
-
-<blockquote>
-  <p><strong>변동성이 커진 지금, 살아남는 법은 방어 섹터에 집중하고 반도체 추격을 참는 것입니다. 이번 주 잘 버티셨다면, 다음 주도 침착하게 갑니다.</strong></p>
-</blockquote>
-
-<p>💬 댓글로 의견 나눠주세요! 이웃 추가하면 매일 분석 받아보실 수 있어요 😊</p>
-
-<hr />
-
-<p>#종가베팅 #수급분석 #주식투자 #NextTheme #주말브리핑 #반도체조정 #조선주 #정유주 #SK이노베이션 #주식전략</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[한 주가 끝났습니다. 숨 한 번 고르고, 다음 주를 준비할 시간입니다. 📅]]></summary></entry></feed>
+<p>#종가베팅 #주식투자 #수급분석 #NextTheme #주말브리핑 #코스피전망 #반도체주 #방산주 #조선주 #정유주 #월요일주식 #RED등급 #주식초보</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[]]></summary></entry></feed>
