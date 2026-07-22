@@ -1,4 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-22T21:04:08+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">외국인 순매수 전환, 반도체·로봇 급반등 — 오늘 종가베팅 선별 기록</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/22/daily/" rel="alternate" type="text/html" title="외국인 순매수 전환, 반도체·로봇 급반등 — 오늘 종가베팅 선별 기록" /><published>2026-07-22T21:00:00+09:00</published><updated>2026-07-22T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/22/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/22/daily/"><![CDATA[<p>반도체 디레버리징 막바지 소식에 외국인 매수가 전환되며 코스피가 0.74% 상승한 하루입니다. 미국 3대 지수도 모두 상승 마감했고, 로봇·반도체 같은 핵심 섹터가 다시 살아났습니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-23T06:03:09+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">유가 급등에 GDP 발표까지, 오늘 종가베팅은 신중 모드로 갑니다</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/23/0600-briefing/" rel="alternate" type="text/html" title="유가 급등에 GDP 발표까지, 오늘 종가베팅은 신중 모드로 갑니다" /><published>2026-07-23T06:00:00+09:00</published><updated>2026-07-23T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/23/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/23/0600-briefing/"><![CDATA[<p>☀️ 안녕하세요, 오늘 아침 시장은 반가운 소식과 불안한 소식이 동시에 도착했습니다. 외국인 투자자들이 3거래일 연속으로 <strong>3.4조원</strong>을 순매수하며 국내 증시에 대한 관심을 보여준 반면, 국제 유가는 미국-이란 갈등 격화로 급등해 물가 부담이 다시 고개를 들고 있어요. 좋은 신호와 조심스러운 신호가 뒤섞인 하루, 함께 정리해볼게요.</p>
+
+<h2 id="-어제-선별했던-종목-오늘-아침-결과는">📋 어제 선별했던 종목, 오늘 아침 결과는?</h2>
+
+<p>어제 종가베팅 AI가 선별한 종목의 오늘 아침 상황을 먼저 복기합니다. 전체 방향은 <strong>신중(CAUTIOUS)</strong>으로 판단됐어요.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목명</th>
+      <th>어제 전략</th>
+      <th>오늘 아침 결과</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>레인보우로보틱스</td>
+      <td>갭 매매(시초가 상승 흐름 활용)</td>
+      <td>시초가 갭상승 시 차익실현 압력 예상, 변동성 관찰 후 재판단</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>레인보우로보틱스는 전일 로봇 테마가 <strong>+16.52%</strong> 급등하며 크게 주목받았던 종목입니다. 다만 오늘은 미국 증시가 약세를 보이고 유가까지 급등하면서, 투자 심리를 자극하는 요인(리스크온)이 약해진 상태예요. 이 종목은 실제 매수로 이어지지는 않았고(actuallyBought=false), AI 기록상 어제 종가는 <strong>479,500원</strong>이었습니다. 오늘 시초가에서 갭상승이 나올 경우 차익 실현 물량이 나올 수 있어 변동성을 지켜보자는 게 어제 판단의 핵심이었어요.</p>
+
+<h2 id="미국-시장은-어젯밤-어땠을까">미국 시장은 어젯밤 어땠을까?</h2>
+
+<p>지난밤 미국 3대 지수는 대체로 숨 고르기 흐름을 보였습니다.</p>
+
+<ul>
+  <li>다우존스: <strong>-0.01%</strong></li>
+  <li>S&amp;P500: <strong>-0.14%</strong></li>
+  <li>나스닥: <strong>-0.57%</strong></li>
+</ul>
+
+<p>전반적으로 약보합 마감이었어요. 개별 종목으로는 알파벳(구글 모기업)이 클라우드 사업 호실적으로 <strong>+82%</strong>에 달하는 강한 반응을 보인 반면, 테슬라는 시장 기대에 못 미치는 실적으로 실망감을 안겼습니다. 빅테크 안에서도 온도차가 뚜렷했던 밤이었네요.</p>
+
+<h2 id="오늘-종가베팅-등급과-전략은">오늘 종가베팅 등급과 전략은?</h2>
+
+<p>오늘 등급은 <strong>YELLOW(신중)</strong>, 시장 온도를 나타내는 심리 점수는 <strong>40점</strong>입니다. 여기서 잠깐 설명드리면, 종가베팅은 오늘 장 마감 무렵 좋은 종목을 골라두고 내일 아침 갭상승을 기대하는 전략인데요, YELLOW 등급은 “기회는 있지만 평소보다 조심스럽게 접근하자”는 신호로 이해하시면 됩니다.</p>
+
+<p>오늘 전략의 핵심은 이렇습니다. 외국인이 3거래일 연속 대규모 순매수를 이어간 건 수급이 개선되고 있다는 긍정적 신호예요. 하지만 국제 유가가 <strong>WTI 기준 배럴당 86.47달러(+2.13%)</strong>까지 오르며 인플레이션 우려를 자극하고 있고, 오늘 오전 8시로 예정된 GDP(국내총생산) 발표 결과를 기다려야 하는 상황이라 신중함이 필요합니다. 그래서 오늘은 투자금의 <strong>70% 이하로 나눠서</strong> 접근하는 분할 진입이 권고되고 있어요.</p>
+
+<p>대응 관점에서 참고할 부분은, 어제 급등했던 로봇 테마 관련 종목들이 오늘 갭상승으로 출발한다면 차익 실현 매물이 나올 가능성이 있다는 점입니다. GDP 발표 결과를 먼저 확인하고 시장 반응을 지켜본 뒤 대응하는 흐름이 합리적으로 보입니다.</p>
+
+<h2 id="오늘-주목해야-할-변수는">오늘 주목해야 할 변수는?</h2>
+
+<p>가장 눈여겨볼 이슈는 <strong>미국-이란 갈등</strong>입니다. 갈등이 격화되면서 국제 유가가 한때 배럴당 95달러까지 터치했다는 소식이 전해졌고, 이는 원자재 가격을 자극해 인플레이션 우려로 이어질 수 있는 재료입니다. 다만 이런 흐름 속에서도 외국인들은 국내 반도체 관련주를 저가 매수하는 움직임을 보이고 있다고 해요. 위기와 기회가 공존하는 하루라고 볼 수 있겠네요.</p>
+
+<p>제가 오늘 흐름에서 눈여겨보는 부분은, 외국인 수급이라는 우호적인 신호와 유가·GDP라는 불확실 요인이 동시에 존재한다는 점이에요. 이런 날은 한쪽 신호만 보고 서두르기보다, 발표 결과를 확인한 뒤 시장이 실제로 어떻게 반응하는지 지켜보는 편이 데이터상으로도 합리적인 접근으로 보입니다.</p>
+
+<h2 id="마무리하며">마무리하며</h2>
+
+<p>오늘은 유가 급등과 GDP 발표라는 두 개의 큰 변수를 동시에 지켜봐야 하는 날입니다. 외국인 수급 개선이라는 긍정적 흐름은 이어지고 있으니, 조급해하지 않고 발표 결과를 확인하며 대응하는 하루가 되었으면 합니다. 오늘 시장을 어떻게 보고 계신가요? 댓글로 의견 나눠주세요 😊</p>
+
+<p>#NextTheme #종가베팅 #유가급등 #GDP발표 #외국인순매수 #레인보우로보틱스 #로봇테마 #증시전망</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[☀️ 안녕하세요, 오늘 아침 시장은 반가운 소식과 불안한 소식이 동시에 도착했습니다. 외국인 투자자들이 3거래일 연속으로 3.4조원을 순매수하며 국내 증시에 대한 관심을 보여준 반면, 국제 유가는 미국-이란 갈등 격화로 급등해 물가 부담이 다시 고개를 들고 있어요. 좋은 신호와 조심스러운 신호가 뒤섞인 하루, 함께 정리해볼게요.]]></summary></entry><entry><title type="html">외국인 순매수 전환, 반도체·로봇 급반등 — 오늘 종가베팅 선별 기록</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/22/daily/" rel="alternate" type="text/html" title="외국인 순매수 전환, 반도체·로봇 급반등 — 오늘 종가베팅 선별 기록" /><published>2026-07-22T21:00:00+09:00</published><updated>2026-07-22T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/22/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/22/daily/"><![CDATA[<p>반도체 디레버리징 막바지 소식에 외국인 매수가 전환되며 코스피가 0.74% 상승한 하루입니다. 미국 3대 지수도 모두 상승 마감했고, 로봇·반도체 같은 핵심 섹터가 다시 살아났습니다.</p>
 
 <h2 id="미국-야간-시장--공포-완화-신호">미국 야간 시장 — 공포 완화 신호</h2>
 
@@ -1981,130 +2036,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가베팅 #복기일지 #20260720 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-07-21 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">미-이란 충돌·코스피 급락, 오늘 종가베팅 등급은? — 7월 21일 아침 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/21/0600-briefing/" rel="alternate" type="text/html" title="미-이란 충돌·코스피 급락, 오늘 종가베팅 등급은? — 7월 21일 아침 분석" /><published>2026-07-21T06:00:00+09:00</published><updated>2026-07-21T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/21/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/21/0600-briefing/"><![CDATA[<p>📌 오늘 아침 시장 분위기는 무겁습니다. 전날 코스피가 <strong>-4.46%</strong>, 코스닥이 <strong>-5.33%</strong> 급락하며 시장 전체가 크게 흔들렸고, 중동(미국-이란) 군사적 긴장 상황은 여전히 해소되지 않고 있습니다. 불안한 아침을 맞이하는 투자자 분들을 위해 오늘 분석 결과를 공유합니다.</p>
-
-<hr />
-
-<h2 id="-어제720-ai-선별-복기--오늘-대응-방향">📋 어제(7/20) AI 선별 복기 — 오늘 대응 방향</h2>
-
-<p>어제 NextTheme AI가 선별한 종목과, 야간 흐름을 반영해 조정된 오늘 대응 방향입니다.</p>
-
-<p><strong>전체 방향: 신중 (야간 상황 반영 조정)</strong></p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목명</th>
-      <th>어제 AI 전략</th>
-      <th>오늘 대응 (AI 기록)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>흥구석유</td>
-      <td>갭 트레이딩 — 갭상승 기준 대응</td>
-      <td>갭상승 시 분할 청산 / 갭하락 시 매수벽(AI 기록 13,290원) 이탈 확인 후 손절</td>
-    </tr>
-  </tbody>
-</table>
-
-<blockquote>
-  <p>야간 국제 유가(WTI)가 <strong>배럴당 82.49달러</strong>로 전일 대비 <strong>+0.71달러</strong> 상승 유지되며 중동 리스크 프리미엄이 가격에 반영됐습니다. 중동 휴전안이 부상하고 있으나 아직 미확정 상태이고, 코스피 급락으로 전반적 리스크 관리가 필요한 상황입니다. 위 수치와 시나리오는 AI가 기록한 참고 정보이며 매수·매도 지시가 아닙니다.</p>
-</blockquote>
-
-<hr />
-
-<h2 id="-미국-시장-브리핑">🌎 미국 시장 브리핑</h2>
-
-<p>어젯밤(현지 시간) 미국 주요 지수는 소폭 하락했습니다.</p>
-
-<ul>
-  <li>다우존스: <strong>-0.59%</strong></li>
-  <li>S&amp;P500: <strong>-0.19%</strong></li>
-  <li>나스닥: <strong>-0.05%</strong></li>
-</ul>
-
-<p>표면적으로는 작은 하락이지만, 세부 업종을 보면 반도체 섹터 분위기가 좋지 않습니다. 반도체 관련 미국 기업들을 묶어 표시하는 <strong>필라델피아 반도체 지수가 -1.75%</strong> 하락하며 반도체 업황 피크아웃(정점 통과) 우려가 확산됐습니다.</p>
-
-<p>7월 22일부터 알파벳(구글 모회사)을 시작으로 대형 클라우드·AI 기업들(하이퍼스케일러)의 실적 발표가 시작됩니다. 이 결과가 국내 반도체·AI 관련주의 방향을 결정하는 가장 큰 변수가 될 전망입니다.</p>
-
-<hr />
-
-<h2 id="-오늘의-베팅-등급-red--관망">🚦 오늘의 베팅 등급: RED — 관망</h2>
-
-<p>오늘 AI가 산출한 종가베팅 등급은 <strong>RED(심각 경계)</strong> 입니다.</p>
-
-<p><strong>감성 점수: 25 / 100</strong> — 시장 심리가 매우 위축된 상태를 나타냅니다.</p>
-
-<p><strong>AI 판단 근거:</strong></p>
-<ul>
-  <li>전날 코스피 <strong>-4.46%</strong>, 코스닥 <strong>-5.33%</strong> 급락</li>
-  <li>중동(미국-이란) 군사 충돌 지속 — 불확실성 고조</li>
-  <li>외국인 투자자 3개월간 <strong>108조 원</strong> 규모 순매도 행렬 지속</li>
-  <li>빅테크 실적 발표(7월 22일~) 앞두고 추가 변동성 경계 심리 확산</li>
-</ul>
-
-<p><strong>오늘 대응 방향:</strong> 관망 또는 최소 비중(<strong>30% 이하</strong>) 유지. 22일부터 시작되는 하이퍼스케일러 실적 발표 결과를 확인한 뒤 판단하는 것이 합리적입니다.</p>
-
-<hr />
-
-<h2 id="️-오늘-주목할-변수">⚠️ 오늘 주목할 변수</h2>
-
-<p><strong>① 중동 리스크 — 유가 상승 압력</strong>
-미국-이란 군사 충돌로 호르무즈 해협 리스크가 커지고 있습니다. 국제 유가는 <strong>배럴당 82.49달러</strong> 수준으로 상승 흐름을 유지 중입니다. 유가 상승은 정유·에너지 관련 종목에 단기 모멘텀으로 작용할 수 있지만, 전체 시장 리스크가 더 크게 작용하는 국면입니다.</p>
-
-<p><strong>② 빅테크 실적 시즌 (7월 22일~)</strong>
-알파벳을 시작으로 주요 대형 기술 기업들의 실적 발표가 이어집니다. 이 결과가 국내 반도체·AI 관련주의 방향을 결정하는 핵심 단서가 됩니다. 기대 이상의 실적이 나오면 반등 모멘텀이 생길 수 있고, 실망스러운 수치가 나오면 추가 조정 가능성도 있습니다.</p>
-
-<p><strong>③ 레버리지 ETF 규제 발표</strong>
-국내에서 레버리지 ETF(두 배 추종 상품) 관련 규제 발표가 있었음에도 이날 국내 시장 거래대금은 <strong>12조 원</strong>을 초과했습니다. 단기 유동성은 살아 있지만, 규제 불확실성이 일부 투자 심리를 억누를 수 있습니다.</p>
-
-<p><strong>④ 외국인 수급 동향</strong>
-최근 3개월간 외국인(해외 큰 투자기관)이 국내 증시에서 <strong>108조 원</strong> 규모를 순매도(팔기)했습니다. 이런 구조적 이탈 흐름이 지속되는 환경에서는 단기 반등 시 매물 압박이 나타날 수 있는 상황입니다.</p>
-
-<hr />
-
-<h2 id="-오늘-흐름에서-주목한-것">💭 오늘 흐름에서 주목한 것</h2>
-
-<p>코스피가 하루 만에 4% 이상 빠진 날, 다음 장은 항상 두 가지 시나리오가 공존합니다. 기술적 반등이 나오기도 하고, 추가 하락이 이어지기도 하죠. 오늘 AI가 RED를 낸 핵심 이유는 ‘급락 자체’보다 외국인 108조 매도라는 구조적 흐름과 빅테크 실적이라는 외부 변수가 아직 해소되지 않았다는 데 있습니다. 방향이 결정되지 않은 상황에서 섣불리 움직이기보다 실적 발표를 기다리는 쪽이 더 합리적으로 느껴지는 아침입니다.</p>
-
-<hr />
-
-<h2 id="-오늘-정리">📌 오늘 정리</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>항목</th>
-      <th>내용</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>베팅 등급</td>
-      <td><strong>RED (관망)</strong></td>
-    </tr>
-    <tr>
-      <td>감성 점수</td>
-      <td><strong>25 / 100</strong></td>
-    </tr>
-    <tr>
-      <td>핵심 리스크</td>
-      <td>중동 군사 충돌 + 외국인 매도 행렬 + 빅테크 실적 불확실성</td>
-    </tr>
-    <tr>
-      <td>오늘 전략</td>
-      <td>관망 또는 최소 비중 <strong>30% 이하</strong></td>
-    </tr>
-    <tr>
-      <td>다음 분기점</td>
-      <td>7월 22일~ 하이퍼스케일러 실적 확인 후 재판단</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>시장이 흔들릴 때 쉬어가는 것도 전략입니다. 오늘 분석이 도움이 되셨다면, 이웃 추가하시면 매일 아침 종가베팅 분석을 받아보실 수 있습니다.</p>
-
-<hr />
-
-<p>#종가베팅 #NextTheme #코스피급락 #중동리스크 #유가상승 #흥구석유 #빅테크실적 #주식시장 #오늘주식분석 #베팅등급</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[📌 오늘 아침 시장 분위기는 무겁습니다. 전날 코스피가 -4.46%, 코스닥이 -5.33% 급락하며 시장 전체가 크게 흔들렸고, 중동(미국-이란) 군사적 긴장 상황은 여전히 해소되지 않고 있습니다. 불안한 아침을 맞이하는 투자자 분들을 위해 오늘 분석 결과를 공유합니다.]]></summary></entry></feed>
+<p>#종가베팅 #복기일지 #20260720 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-07-21 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
