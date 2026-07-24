@@ -1,4 +1,83 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-24T10:03:32+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">7/23 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/24/review-20260723-review/" rel="alternate" type="text/html" title="7/23 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-07-24T09:00:00+09:00</published><updated>2026-07-24T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/24/review_20260723-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/24/review-20260723-review/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-24T20:24:37+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 5% 급락 사이드카 발동일, 홀로 6% 오른 조선기자재주의 비밀</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/24/nt2-1505-snapshot/" rel="alternate" type="text/html" title="코스피 5% 급락 사이드카 발동일, 홀로 6% 오른 조선기자재주의 비밀" /><published>2026-07-24T15:05:00+09:00</published><updated>2026-07-24T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/24/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/24/nt2-1505-snapshot/"><![CDATA[<p>😨 오늘 코스피는 5%가 넘게 급락하며 매도 사이드카까지 발동됐습니다. 계좌가 파랗게 물든 하루, “오늘은 뭘 해도 안 되는 날”이라는 생각이 드셨을 텐데요. 그런데 이런 급락장 속에서도 유독 자금이 몰리며 홀로 버틴 업종이 있었습니다.</p>
+
+<h2 id="오늘-시장-무슨-일이-있었나">오늘 시장, 무슨 일이 있었나</h2>
+
+<p>오늘은 코스피가 5% 넘게 급락한 매도 사이드카 발동일이었습니다. 시장 전체가 패닉에 가까운 매도세에 휩싸였지만, 이런 와중에도 <strong>조선기자재</strong>와 <strong>에너지</strong> 업종으로는 오히려 자금이 집중되는 흐름이 나타났습니다. 시장 전체가 무너질 때 상대적으로 강한 업종을 찾아내는 것, 이게 바로 종가베팅에서 중요하게 보는 포인트 중 하나입니다.</p>
+
+<h2 id="오늘-눈에-띈-종목--sk오션플랜트">오늘 눈에 띈 종목 — SK오션플랜트</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>항목</th>
+      <th>수치</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>기본</td>
+      <td>당일 종가 / 등락률</td>
+      <td><strong>18,350원</strong> / <strong>+6.32%</strong></td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>거래대금 / 시총</td>
+      <td><strong>3,787억원</strong> / <strong>1.1조원</strong></td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>주도 테마 / 테마내순위</td>
+      <td>조선기자재 / <strong>1위</strong></td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>RSI / RVOL / 이평수렴</td>
+      <td>63.6 / <strong>7.8배</strong> / +0.19%</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>52주 신고가 / OBV</td>
+      <td>아님 / 중립</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>외인 순매수 / 기관 순매수</td>
+      <td>0주 / <strong>+47만 주</strong></td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>매출 YoY</td>
+      <td><strong>-27.1%</strong></td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>최근 분기 실적</td>
+      <td>2026년 2분기: 매출 1,754억원 / 영업이익 9억원</td>
+    </tr>
+    <tr>
+      <td>점수</td>
+      <td>AI 종합 점수</td>
+      <td>36점</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>시장 전체가 5% 넘게 빠지는 와중에도 SK오션플랜트는 홀로 <strong>6% 넘게 상승</strong>하며 조선기자재 테마 안에서 자금이 쏠리는 흐름의 맨 앞자리를 지켰습니다. 거래대금도 <strong>3,787억원</strong>으로 시가총액(1.1조원) 대비 상당히 큰 규모였고, 평소 대비 거래량이 <strong>약 7.8배</strong>나 터졌습니다. 이는 큰 투자기관(기관)들도 관심을 갖고 <strong>47만 주</strong> 순매수에 나섰다는 뜻이기도 합니다.</p>
+
+<p>다만 최근 분기 실적을 보면 매출은 전년 대비 <strong>27.1% 줄어든</strong> 상황입니다. 그럼에도 주가가 오른 건, 오늘 하루의 수급 쏠림과 테마 내 위치가 실적보다 더 크게 작용했다는 의미로 해석할 수 있습니다.</p>
+
+<h2 id="nexttheme-알고리즘은-왜-이-종목을-주목했나">NextTheme 알고리즘은 왜 이 종목을 주목했나</h2>
+
+<p>NextTheme 알고리즘은 단순히 “오른 종목”을 찾는 게 아니라, <strong>시장이 흔들릴 때 상대적으로 자금이 몰리는 곳</strong>을 찾습니다. 오늘처럼 코스피가 5% 넘게 급락한 날에는 대부분 종목이 동반 하락하기 마련인데, 이런 날 홀로 거래량이 폭증하며 강세를 보인 종목은 “다음 날 아침에도 못 산 사람들의 관심이 이어질 가능성”이 있다고 봅니다. 거래량이 평소의 8배 가까이 터졌다는 건 그만큼 많은 투자자들의 시선이 쏠렸다는 신호이기도 하고요.</p>
+
+<p>📊 <strong>오늘 이 흐름에서 제가 주목한 부분은</strong>, 시장 전체가 패닉에 빠진 날일수록 오히려 어떤 업종에 자금이 남아있는지가 더 선명하게 드러난다는 점이었습니다. 급락장 속 “혼자 버틴 종목”은 그 자체로 그날의 수급 쏠림을 보여주는 기록이라, 저는 이런 날의 데이터를 유심히 들여다보는 편입니다. (물론 실적 둔화라는 반대 신호도 함께 있었다는 점은 균형 있게 봐야겠죠.)</p>
+
+<h2 id="마무리">마무리</h2>
+
+<p>오늘은 시장 전체가 크게 흔들린 하루였지만, 그 안에서도 조선기자재 업종으로 자금이 쏠렸다는 사실 자체는 기록해둘 만합니다. AI가 오늘 이 종목을 왜 주목했는지 근거를 함께 살펴봤는데요, 여러분은 오늘 같은 급락장에서 어떤 업종을 눈여겨보셨나요? 댓글로 의견 나눠주세요 😊</p>
+
+<p>#NextTheme #종가베팅 #SK오션플랜트 #조선기자재 #코스피급락 #매도사이드카 #수급분석</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[😨 오늘 코스피는 5%가 넘게 급락하며 매도 사이드카까지 발동됐습니다. 계좌가 파랗게 물든 하루, “오늘은 뭘 해도 안 되는 날”이라는 생각이 드셨을 텐데요. 그런데 이런 급락장 속에서도 유독 자금이 몰리며 홀로 버틴 업종이 있었습니다.]]></summary></entry><entry><title type="html">7/23 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/24/review-20260723-review/" rel="alternate" type="text/html" title="7/23 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-07-24T09:00:00+09:00</published><updated>2026-07-24T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/24/review_20260723-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/24/review-20260723-review/"><![CDATA[<blockquote>
   <p>데이터 기준: 2026-07-24 10:03 키움 ka10001 일괄 조회</p>
 </blockquote>
 
@@ -1632,97 +1711,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <p>삼성전자발 로봇 테마 소식이 레인보우로보틱스를 하루 만에 16% 넘게 끌어올렸지만, 수급과 차트, 실적을 종합한 AI 판단은 신중했습니다. 테마 초입의 기대감과, 그 이면의 수급 이탈 신호를 함께 봐야 하는 하루였습니다. 이 종목 어떻게 보고 계신가요? 댓글로 의견 나눠주세요.</p>
 
-<p>#레인보우로보틱스 #277810 #종목분석 #수급분석 #NextTheme #로봇테마 #삼성전자로봇 #종가베팅</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[오늘(7월 22일) 레인보우로보틱스가 삼성전자 로봇 사업 확대 소식에 힘입어 하루 만에 16.28% 급등했습니다. 코스피 전체는 알파벳(구글) 실적 발표를 앞두고 경계 심리로 상승분을 반납했지만, 이 종목만큼은 홀로 강한 존재감을 보여준 하루였습니다. 이렇게 크게 뛴 종목을 보면 “지금이라도 올라타야 하나” 고민되실 텐데요, 오늘 수급과 차트, 뉴스를 하나씩 뜯어보겠습니다.]]></summary></entry><entry><title type="html">코스피 7000 탈환한 날, 레인보우로보틱스에 돈이 몰린 이유 — 삼성전자발 로봇주 훈풍</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/22/nt2-1505-snapshot/" rel="alternate" type="text/html" title="코스피 7000 탈환한 날, 레인보우로보틱스에 돈이 몰린 이유 — 삼성전자발 로봇주 훈풍" /><published>2026-07-22T15:05:00+09:00</published><updated>2026-07-22T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/22/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/22/nt2-1505-snapshot/"><![CDATA[<p>오늘 코스피는 정말 오랜만에 시원하게 뚫었습니다. 외국인들의 대규모 매수에 힘입어 <strong>5% 넘게 급등</strong>하며 <strong>7000선을 다시 회복</strong>했고, 그 와중에도 유독 한 섹터로 돈이 몰렸습니다. 바로 <strong>로봇 관련주</strong>입니다. 🤖</p>
-
-<h2 id="-오늘-시장은-왜-이렇게-뜨거웠을까">📊 오늘 시장은 왜 이렇게 뜨거웠을까?</h2>
-
-<p>오늘 상승의 주역은 외국인이었습니다. 해외 대형 투자자들이 코스피 전반에 대규모 매수를 넣으면서 지수를 5% 넘게 끌어올렸고, 그 결과 코스피는 심리적 저항선으로 여겨지던 <strong>7000선을 다시 넘어섰습니다</strong>.</p>
-
-<p>지수 전체가 강했던 날이지만, 그중에서도 특히 눈에 띈 것은 로봇 테마였습니다. <strong>삼성전자가 로봇 사업을 전담할 조직을 새로 만들었다</strong>는 소식이 전해지면서, 대형주 하나의 뉴스가 로봇 관련 종목 전체로 불을 붙이는 모습이었습니다. 국내 최대 기업이 로봇 사업을 정식 조직으로 키우겠다고 밝힌 만큼, 관련 종목들에 대한 투자자들의 관심이 자연스럽게 쏠린 하루였습니다.</p>
-
-<p>이런 흐름 속에서 NextTheme 알고리즘이 오늘 15시 최종 선별에서 고른 종목을 살펴보겠습니다.</p>
-
-<hr />
-
-<h2 id="-오늘-선별된-종목-왜-골랐을까">🔍 오늘 선별된 종목, 왜 골랐을까?</h2>
-
-<h3 id="레인보우로보틱스--로봇-대장주-거래대금이-평소의-6배-넘게-터졌다">레인보우로보틱스 — 로봇 대장주, 거래대금이 평소의 6배 넘게 터졌다</h3>
-
-<p>레인보우로보틱스는 오늘 <strong>479,500원</strong>에 마감하며 하루에 <strong>+16.5%</strong> 급등했습니다.</p>
-
-<p>오늘 거래대금은 평소 대비 약 <strong>6배</strong>(RVOL <strong>6.3</strong>) 수준으로 폭증했습니다. 삼성전자의 로봇 조직 신설 소식이 나오자마자 이 종목으로 매수세가 집중된 것으로 보이는데, 산업용·협동로봇 테마 안에서도 <strong>1위</strong> 자리를 지켰습니다. 15분봉 기준 60선(최근 흐름을 나타내는 이동평균선) 위에서 마감을 지켜냈다는 점도 오늘 상승세가 하루짜리 반짝 반등이 아니라는 신호로 읽힙니다.</p>
-
-<p>수급을 보면 외국인은 오늘 순매수가 없었던 반면, 큰 투자기관(기관)은 <strong>+2만 주</strong>를 순매수했습니다. 개인 투자자들의 매수세가 주가를 밀어올린 하루였다는 뜻으로 해석할 수 있습니다. AI 선별 신뢰도는 MEDIUM(중간 수준)으로 기록됐습니다.</p>
-
-<p><strong>📋 레인보우로보틱스 분석 데이터</strong></p>
-
-<table>
-  <thead>
-    <tr>
-      <th>구분</th>
-      <th>항목</th>
-      <th>수치</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>기본</td>
-      <td>당일 종가 / 등락률</td>
-      <td>479,500원 / <strong>+16.5%</strong></td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>거래대금 / 시총</td>
-      <td><strong>5,216억원</strong> / 9.3조원</td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>주도 테마 / 테마내순위</td>
-      <td>로봇(산업용/협동로봇 등) / <strong>1위</strong></td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>RSI / RVOL / 이평수렴</td>
-      <td>48.1 / <strong>6.3</strong> / +0.4%</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>52주 신고가 / OBV</td>
-      <td>아님 / 중립</td>
-    </tr>
-    <tr>
-      <td>수급</td>
-      <td>외인 순매수 / 기관 순매수</td>
-      <td>0주 / <strong>+2만 주</strong></td>
-    </tr>
-    <tr>
-      <td>점수</td>
-      <td>AI 종합 점수</td>
-      <td><strong>38점</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<blockquote>
-  <p>※ AI 기록상 종가는 479,500원입니다.</p>
-</blockquote>
-
-<hr />
-
-<h2 id="-오늘-흐름에서-주목한-것--대형주-뉴스가-소형-테마-전체를-흔들-때">💡 오늘 흐름에서 주목한 것 — 대형주 뉴스가 소형 테마 전체를 흔들 때</h2>
-
-<p>오늘 눈여겨본 부분은 삼성전자라는 초대형주의 뉴스 하나가 로봇이라는 특정 테마 전체를 흔들었다는 점입니다. 지수가 5% 넘게 뛴 강세장 속에서도 자금이 아무 데나 흩어지지 않고, 그날의 뉴스와 가장 밀접한 종목으로 쏠려서 몰렸다는 것이 인상적이었습니다. 레인보우로보틱스가 거래대금 6배 폭증에도 이평선 위에서 마감을 지켜냈다는 점은, 오늘 하루 사고 끝낸 매수가 아니라 남은 관심이 여전히 있다는 신호로 볼 수 있습니다.</p>
-
-<p>NextTheme 알고리즘은 이런 흐름 속에서 “오늘 그 뉴스의 중심에 가장 가까이 있던 종목”을 교차 검증해 선별했습니다. 로봇 테마 안에서도 1위 자리를 지킨 점, 거래대금이 평소 대비 크게 튄 점이 함께 확인된 결과입니다.</p>
-
-<hr />
-
-<h2 id="-오늘-정리">📝 오늘 정리</h2>
-
-<p>코스피가 외국인 매수에 힘입어 7000선을 다시 회복한 강한 하루였습니다. 삼성전자의 로봇 조직 신설 소식은 대형주 뉴스 하나가 관련 테마 전체를 움직이는 사례를 보여줬고, 그 중심에서 NextTheme 알고리즘은 레인보우로보틱스를 오늘의 대장주로 선별했습니다. 이 흐름이 내일까지 이어질지는 시장이 직접 확인해줄 부분입니다.</p>
-
-<p>오늘 선별 데이터나 로봇 테마 흐름에 대해 궁금한 점이 있으시면 댓글로 남겨주세요. 📊</p>
-
-<hr />
-
-<p>#레인보우로보틱스 #코스피7000 #로봇주 #삼성전자로봇 #협동로봇 #NextTheme #종가베팅 #수급분석 #외국인매수 #오늘주식시장</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[오늘 코스피는 정말 오랜만에 시원하게 뚫었습니다. 외국인들의 대규모 매수에 힘입어 5% 넘게 급등하며 7000선을 다시 회복했고, 그 와중에도 유독 한 섹터로 돈이 몰렸습니다. 바로 로봇 관련주입니다. 🤖]]></summary></entry></feed>
+<p>#레인보우로보틱스 #277810 #종목분석 #수급분석 #NextTheme #로봇테마 #삼성전자로봇 #종가베팅</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[오늘(7월 22일) 레인보우로보틱스가 삼성전자 로봇 사업 확대 소식에 힘입어 하루 만에 16.28% 급등했습니다. 코스피 전체는 알파벳(구글) 실적 발표를 앞두고 경계 심리로 상승분을 반납했지만, 이 종목만큼은 홀로 강한 존재감을 보여준 하루였습니다. 이렇게 크게 뛴 종목을 보면 “지금이라도 올라타야 하나” 고민되실 텐데요, 오늘 수급과 차트, 뉴스를 하나씩 뜯어보겠습니다.]]></summary></entry></feed>
