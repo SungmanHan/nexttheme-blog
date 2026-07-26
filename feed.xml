@@ -1,4 +1,177 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-26T22:05:13+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">이번 주 코스피는 왜 요동쳤나 — 반도체 약세와 중동 긴장의 충돌</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/26/weekly/" rel="alternate" type="text/html" title="이번 주 코스피는 왜 요동쳤나 — 반도체 약세와 중동 긴장의 충돌" /><published>2026-07-26T22:00:00+09:00</published><updated>2026-07-26T22:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/26/weekly</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/26/weekly/"><![CDATA[<h2 id="도입부">도입부</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-27T06:05:14+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">반도체 폭락에 외국인까지 이탈… 오늘은 왜 무포지션일까</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/27/0600-briefing/" rel="alternate" type="text/html" title="반도체 폭락에 외국인까지 이탈… 오늘은 왜 무포지션일까" /><published>2026-07-27T06:00:00+09:00</published><updated>2026-07-27T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/27/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/27/0600-briefing/"><![CDATA[<p>오늘 시장은 적신호입니다. 어제 코스피가 <strong>-5.72%</strong> 급락했고, 미국 필라델피아 반도체 지수마저 <strong>-4.25%</strong> 폭락했습니다. 투자자들의 현금 보유 욕구가 매우 강해서 신규 진입은 위험한 상황입니다.</p>
+
+<hr />
+
+<h2 id="-지난-금요일-무포지션-전략-복기">📋 지난 금요일 무포지션 전략 복기</h2>
+
+<p>지난 금요일(7/24) 주말 브리핑에서는 시장 변동성 극심에 따라 <strong>무포지션 원칙</strong>을 강조했습니다. 그 판단이 정확했습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>금요일 전략</th>
+      <th>오늘 판단</th>
+      <th>사유</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>SK오션플랜트</td>
+      <td>GAP_TRADE 시초가 확인</td>
+      <td><strong>✋ SKIP</strong></td>
+      <td>RED 등급 유지 + 내일 FOMC·실적 예정</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>분석</strong>: SK오션플랜트는 조선기자재 테마로 유가 영향을 받습니다. 어제 급락장에서도 상대적으로 방어했지만, 오늘 같은 약세장에서 신규 진입은 손절 위험이 큽니다. 주말 브리핑서 권고한 “관망”이 정답이 됐습니다.</p>
+
+<hr />
+
+<h2 id="미국-야간-시장--나스닥-약세-반도체-폭락">미국 야간 시장 — 나스닥 약세, 반도체 폭락</h2>
+
+<p>미국 주식은 섹터별로 엇갈렸습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>지수</th>
+      <th style="text-align: center">등락률</th>
+      <th>평가</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>다우 (기간산업)</td>
+      <td style="text-align: center"><strong>+0.46%</strong></td>
+      <td>상대 강세</td>
+    </tr>
+    <tr>
+      <td>S&amp;P500</td>
+      <td style="text-align: center"><strong>+0.05%</strong></td>
+      <td>거의 무변</td>
+    </tr>
+    <tr>
+      <td>나스닥 (빅테크)</td>
+      <td style="text-align: center"><strong>-0.64%</strong></td>
+      <td>약세</td>
+    </tr>
+    <tr>
+      <td>필라델피아 반도체</td>
+      <td style="text-align: center"><strong>-4.25%</strong></td>
+      <td>폭락 ⚠️</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>나스닥 하락이 중요합니다.</strong> 필라델피아 반도체 지수 <strong>-4.25%</strong> 폭락으로 글로벌 반도체 공급망이 재평가받고 있습니다. 한국 삼성·SK하이닉스도 영향을 피할 수 없습니다.</p>
+
+<hr />
+
+<h2 id="오늘의-베팅-등급-red-강세도-20점--극도로-약함">오늘의 베팅 등급: RED (강세도 20점 — 극도로 약함)</h2>
+
+<h3 id="시장이-이렇게-약한-이유">시장이 이렇게 약한 이유</h3>
+
+<p>어제의 -5.72% 급락은 일시적 조정이 아닙니다. 몇 가지 구조적 우려 신호가 동시에 작용하고 있습니다:</p>
+
+<p><strong>①</strong> <strong>외국인 자금 대규모 이탈</strong></p>
+<ul>
+  <li>어제 외국인이 <strong>-4.3조 원</strong> 순매도했습니다</li>
+  <li>개인만 <strong>6.7조 원</strong> 순매수하며 시장을 혼자 지탱하는 상황 → 불안정한 구조</li>
+</ul>
+
+<p><strong>②</strong> <strong>예탁금 5개월 최저</strong></p>
+<ul>
+  <li>투자자들이 현금으로 도망치고 있습니다</li>
+  <li>극도의 약세 신호입니다</li>
+</ul>
+
+<p><strong>③</strong> <strong>레버리지 ETF 규제 조기시행 (7/31)</strong></p>
+<ul>
+  <li>변동성 투자자들의 대규모 포지션 청산 가능</li>
+  <li>추가 낙폭 트리거될 수 있습니다</li>
+</ul>
+
+<h3 id="오늘-대응-전략--무포지션-유지">오늘 대응 전략 — 무포지션 유지</h3>
+
+<p>✋ <strong>신규 진입 자제</strong> → 현금 보유가 최고의 방어입니다.</p>
+
+<p><strong>보유 종목(현대힘스) 갭 확인 후:</strong></p>
+<ul>
+  <li>① <strong>갭하락 시</strong> (-3~-5% 선): <strong>손절선 엄수</strong> (약세장에서 가장 중요)</li>
+  <li>② <strong>갭상승 후에도</strong>: 분할 청산으로 위험을 낮추고, 조선기자재 테마 지속성을 재확인한 후에만 재진입 검토</li>
+</ul>
+
+<p>극소량 단타는 <strong>조선기자재·에너지 역행 섹터</strong>만 갭 확인 후 고려합니다.</p>
+
+<hr />
+
+<h2 id="주목할-변수--이번-주의-결정-요인들">주목할 변수 — 이번 주의 결정 요인들</h2>
+
+<h3 id="-반도체-실적-임박">🚨 반도체 실적 임박</h3>
+
+<p><strong>삼성·SK하이닉스 2분기 실적 발표가 임박했습니다.</strong> 엔비디아·MS·메타 등 빅테크의 AI 투자 지속 여부가 핵심입니다.</p>
+<ul>
+  <li>실적 부진 → 반도체 약세 지속</li>
+  <li>실적 호조 → 반등 신호</li>
+</ul>
+
+<h3 id="sk하이닉스-adr-과열-경고">SK하이닉스 ADR 과열 경고</h3>
+
+<p>SK하이닉스의 미국 증권거래(ADR)에서 프리미엄이 과도해졌다는 WSJ 칼럼이 나왔습니다. <strong>ADR 보유자들의 청산 가능성</strong>을 높입니다.</p>
+
+<h3 id="유가와-지정학-리스크">유가와 지정학 리스크</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>항목</th>
+      <th style="text-align: center">현재값</th>
+      <th>평가</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>WTI 유가</td>
+      <td style="text-align: center">89달러 (−2.88%)</td>
+      <td>고유가 지속</td>
+    </tr>
+    <tr>
+      <td>중동 긴장</td>
+      <td style="text-align: center">일부 완화</td>
+      <td>안정화 시도 중</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>조선·조선기자재 테마는 <strong>유가 연동도가 높으므로</strong> 유가의 향후 움직임을 주시해야 합니다.</p>
+
+<h3 id="서학개미의-국장-이탈">서학개미의 국장 이탈</h3>
+
+<p>국내 개인 투자자의 미국 주식 순매수가 <strong>4배 급증</strong>했습니다. <strong>국내 장을 떠나 미국 장으로 자금이 이동 중</strong>입니다.</p>
+
+<hr />
+
+<h2 id="오늘-투자자-관점--약세장에서의-올바른-판단">오늘 투자자 관점 — 약세장에서의 올바른 판단</h2>
+
+<p>어제 같은 큰 폭락이 나오면 “이제 바닥일까” 생각하기 쉽습니다. 하지만 <strong>이번 조정은 구조적</strong>입니다.</p>
+
+<p>빅테크 AI 수요 불확실성 + 외국인 이탈 + 변동성 규제 조기시행이 <strong>동시에 작용</strong>하고 있습니다. 이 다중 리스크가 해결되지 않은 상태에서 진입하면, 내일 또 -3~-4% 급락이 나올 때 손절 신호를 받게 됩니다.</p>
+
+<p><strong>오늘은 “한 번 더 떨어질 수도” 시나리오를 대비하는 것이 현명한 행동</strong>입니다. 외국인이 <strong>2일 연속 순매수로 전환</strong>되거나, <strong>FOMC(7/30~31) 결과</strong>에서 긍정 신호가 나올 때까지 기다리겠습니다.</p>
+
+<hr />
+
+<h2 id="결론">결론</h2>
+
+<p>오늘 코스피는 여전히 적신호입니다. 무포지션을 유지하고, 보유 종목은 갭 방향에 따라 신속히 대응하세요.</p>
+
+<p>약세장에서는 <strong>“기둥을 찾는 것”보다 “손절을 지키는 것”이 더 중요</strong>합니다. 이번 주 FOMC와 실적 결과를 기다리면서 현금을 지켜내겠습니다.</p>
+
+<p>💬 <strong>현대힘스나 다른 조선 테마 종목의 오늘 시초 흐름을 보신 분들, 댓글로 의견 나눠주세요.</strong> 약세장을 함께 버티겠습니다.</p>
+
+<p>#코스피약세 #종가베팅 #무포지션 #반도체폭락 #FOMC #조선기자재</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[오늘 시장은 적신호입니다. 어제 코스피가 -5.72% 급락했고, 미국 필라델피아 반도체 지수마저 -4.25% 폭락했습니다. 투자자들의 현금 보유 욕구가 매우 강해서 신규 진입은 위험한 상황입니다.]]></summary></entry><entry><title type="html">이번 주 코스피는 왜 요동쳤나 — 반도체 약세와 중동 긴장의 충돌</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/26/weekly/" rel="alternate" type="text/html" title="이번 주 코스피는 왜 요동쳤나 — 반도체 약세와 중동 긴장의 충돌" /><published>2026-07-26T22:00:00+09:00</published><updated>2026-07-26T22:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/26/weekly</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/26/weekly/"><![CDATA[<h2 id="도입부">도입부</h2>
 
 <p>이번 주 증시는 ‘극심한 변동성’ 그 자체였습니다 📉. 월요일 -4.44%로 시작해 화요일 +3.5%, 수요일 +2.0%, 목요일 +3.81%로 반등했다가 금요일 -5.41%로 마무리되며 주간 <strong>-2.5%</strong> 낙폭을 기록했습니다. 마치 줄넘기하듯 오르락내리락하는 시장에 투자자들의 신경은 곤두서 있습니다.</p>
 
@@ -1574,101 +1747,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <hr />
 
-<p>#NextTheme #종가베팅 #코스피 #SK이터닉스 #GS건설 #대원전선 #전선테마 #풍력에너지 #전력설비</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[간밤 미국 증시는 잔잔했는데, 오늘 코스피는 정반대로 크게 움직였습니다. 유가 급등과 지정학 리스크 속에서도 전선·풍력·전력설비 같은 에너지 인프라 종목에 돈이 몰리며 지수를 끌어올린 하루였습니다. 🔥]]></summary></entry><entry><title type="html">코스피 7000 재탈환한 날, 상한가 간 SK이터닉스 — 전력 인프라에 돈이 몰린 이유</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/23/nt2-1505-snapshot/" rel="alternate" type="text/html" title="코스피 7000 재탈환한 날, 상한가 간 SK이터닉스 — 전력 인프라에 돈이 몰린 이유" /><published>2026-07-23T15:05:00+09:00</published><updated>2026-07-23T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/23/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/23/nt2-1505-snapshot/"><![CDATA[<p>오늘 코스피가 다시 <strong>7,000선을 회복</strong>하며 <strong>3% 넘게 오르는 강세장</strong>을 보여줬습니다. 그런데 지수 전체가 좋았던 것과 별개로, 유독 한 방향으로 돈이 쏠린 하루였습니다. 바로 전선·풍력·전력설비 같은 <strong>에너지 인프라</strong> 관련 종목들입니다. ⚡</p>
-
-<hr />
-
-<h2 id="-오늘-시장은-왜-이렇게-뜨거웠을까">📊 오늘 시장은 왜 이렇게 뜨거웠을까?</h2>
-
-<p>오늘 상승의 배경에는 국제유가 급등이 있었습니다. 유가가 오르면 화석연료 대신 신재생에너지에 대한 관심이 커지는데, 오늘이 딱 그런 하루였습니다. 풍력·전선·전력설비처럼 “전기를 만들고 옮기는” 일을 하는 종목들로 자금이 몰렸고, 그 흐름 속에서 관련 종목 여러 개가 큰 폭으로 올랐습니다.</p>
-
-<p>지수가 강했던 날에는 보통 돈이 여기저기 흩어지기 마련인데, 오늘은 오히려 특정 테마로 자금이 뚜렷하게 집중된 점이 눈에 띄었습니다. 이런 흐름 속에서 NextTheme 알고리즘이 오늘 15시 최종 선별에서 고른 종목들을 살펴보겠습니다.</p>
-
-<hr />
-
-<h2 id="-오늘-선별된-종목-왜-골랐을까">🔍 오늘 선별된 종목, 왜 골랐을까?</h2>
-
-<h3 id="sk이터닉스--풍력-대장주-오늘-하루-상한가-마감">SK이터닉스 — 풍력 대장주, 오늘 하루 상한가 마감</h3>
-
-<p>SK이터닉스는 오늘 <strong>80,600원</strong>에 마감하며 <strong>+30.0%(상한가)</strong>를 기록했습니다.</p>
-
-<p>국제유가 급등으로 신재생에너지에 돈이 몰린 가운데, 이 종목은 오늘 하루 거래대금이 <strong>1조 3,570억원</strong>에 달하며 풍력에너지 테마 안에서 압도적인 <strong>1위</strong> 자리를 지켰습니다. 큰 투자기관(기관)도 <strong>+14만 주</strong>를 순매수하며 힘을 보탰습니다. AI는 “오늘 사지 못한 투자자들의 관심이 여전히 남아있는 자리”로 이 종목을 골랐다고 기록했는데, 실제로 최근 분기(2026년 6월) 매출이 전년 대비 <strong>3배 넘게(+302%)</strong> 늘어난 점도 함께 확인됩니다. AI 선별 신뢰도는 HIGH(높음)로 기록됐습니다.</p>
-
-<p><strong>📋 SK이터닉스 분석 데이터</strong></p>
-<ul>
-  <li>당일 종가 / 등락률: <strong>80,600원 / +30.0%</strong></li>
-  <li>거래대금 / 시총: <strong>1.4조원 / 2.7조원</strong></li>
-  <li>주도 테마 / 테마내순위: 풍력에너지 / <strong>1위</strong></li>
-  <li>RSI / RVOL / 이평수렴: 75.6 / <strong>3.1</strong> / +0.3%</li>
-  <li>52주 신고가: <strong>예</strong></li>
-  <li>외인 순매수 / 기관 순매수: 0주 / <strong>+14만 주</strong></li>
-  <li>최근 분기(2026.06) 매출 / 영업이익: 2,627억원 / 7억원 (전년 대비 매출 <strong>+302%</strong>)</li>
-  <li>AI 종합 점수: <strong>61점</strong></li>
-</ul>
-
-<blockquote>
-  <p>※ AI 기록상 종가는 80,600원입니다.</p>
-</blockquote>
-
-<h3 id="gs건설--건설-대표주-외국인기관-동시에-사들인-하루">GS건설 — 건설 대표주, 외국인·기관 동시에 사들인 하루</h3>
-
-<p>GS건설은 오늘 <strong>34,150원</strong>에 마감하며 <strong>+17.35%</strong> 올랐습니다.</p>
-
-<p>건설 대표 자리에서 외국인은 <strong>57만 주</strong>, 큰 투자기관(기관)은 <strong>32만 주</strong>를 장 막판까지 함께 사들였습니다. 오늘 거래대금은 평소 대비 <strong>3배 넘게(RVOL 3.2)</strong> 튀었고, 공급계약 소식까지 겹쳤습니다. AI는 두 주요 투자 주체가 동시에 매수에 나선 점과 거래 규모가 크게 늘어난 점을 근거로 이 종목을 선별했습니다. AI 선별 신뢰도는 MEDIUM(중간)입니다.</p>
-
-<p><strong>📋 GS건설 분석 데이터</strong></p>
-<ul>
-  <li>당일 종가 / 등락률: <strong>34,150원 / +17.35%</strong></li>
-  <li>거래대금 / 시총: <strong>2,495억원 / 2.9조원</strong></li>
-  <li>주도 테마 / 테마내순위: 건설 대표주 / <strong>1위</strong></li>
-  <li>RSI / RVOL / 이평수렴: 61.1 / <strong>3.2</strong> / +0.1%</li>
-  <li>52주 신고가: 아니오</li>
-  <li>외인 순매수 / 기관 순매수: <strong>+57만 주 / +32만 주</strong></li>
-  <li>AI 종합 점수: <strong>50점</strong></li>
-</ul>
-
-<blockquote>
-  <p>※ AI 기록상 종가는 34,150원입니다.</p>
-</blockquote>
-
-<h3 id="대원전선--전선-테마-1위-매수-대기-물량이-두껍게-쌓인-종목">대원전선 — 전선 테마 1위, 매수 대기 물량이 두껍게 쌓인 종목</h3>
-
-<p>대원전선은 오늘 <strong>14,130원</strong>에 마감하며 <strong>+16.2%</strong> 상승했습니다.</p>
-
-<p>전선 테마 안에서 거래대금 1위 자리를 지켰고, 마감 직전에는 사려는 주문이 팔려는 물량보다 <strong>4.5배</strong> 두껍게 쌓여 있었습니다(호가신호: 매수벽 강함). 외국인도 <strong>59만 주</strong>를 순매수했습니다. 전력 인프라 관련 투자 기대가 이어지는 흐름 속에서 이 종목이 함께 선별됐습니다. AI 선별 신뢰도는 MEDIUM(중간)입니다.</p>
-
-<p><strong>📋 대원전선 분석 데이터</strong></p>
-<ul>
-  <li>당일 종가 / 등락률: <strong>14,130원 / +16.2%</strong></li>
-  <li>거래대금 / 시총: <strong>3,622억원 / 1.1조원</strong></li>
-  <li>주도 테마 / 테마내순위: 전선 / <strong>1위</strong></li>
-  <li>RSI / RVOL / 이평수렴: 59.1 / <strong>2.0</strong> / +0.1%</li>
-  <li>52주 신고가: 아니오</li>
-  <li>외인 순매수 / 기관 순매수: <strong>+59만 주</strong> / 0주</li>
-  <li>호가신호: <strong>매수벽 강함</strong></li>
-  <li>AI 종합 점수: <strong>44점</strong></li>
-</ul>
-
-<blockquote>
-  <p>※ AI 기록상 종가는 14,130원입니다.</p>
-</blockquote>
-
-<hr />
-
-<h2 id="-오늘-흐름에서-주목한-것--유가-뉴스-하나가-만든-테마-3개">💡 오늘 흐름에서 주목한 것 — 유가 뉴스 하나가 만든 테마 3개</h2>
-
-<p>오늘 눈여겨본 부분은 국제유가라는 하나의 매크로 뉴스가 풍력·건설·전선이라는 서로 다른 테마 3개를 동시에 흔들었다는 점입니다. 지수가 3% 넘게 오른 강세장이었는데도 자금이 넓게 퍼지지 않고, “전력을 만들고 옮기는” 공통분모를 가진 종목들로 뚜렷하게 쏠렸습니다. SK이터닉스가 상한가까지 가면서도 거래대금이 같은 테마 내 다른 종목을 압도했다는 점, 대원전선의 매수 대기 물량이 두껍게 쌓였다는 점은 오늘 하루 사고 끝난 매수가 아니라 관심이 이어지고 있다는 신호로 볼 수 있습니다.</p>
-
-<p>NextTheme 알고리즘은 이런 흐름 속에서 “오늘의 매크로 뉴스와 가장 밀접하게 맞닿아 있으면서, 각 테마 안에서 거래가 가장 몰린 종목”을 교차 검증해 선별했습니다.</p>
-
-<hr />
-
-<h2 id="-오늘-정리">📝 오늘 정리</h2>
-
-<p>코스피가 7,000선을 다시 회복한 강한 하루, 그 중심에는 국제유가 급등이라는 매크로 이슈가 있었습니다. 풍력·건설·전선으로 나뉘어 있던 자금이 결국 “전력 인프라”라는 하나의 이야기로 묶이는 모습이었고, NextTheme 알고리즘은 그 흐름 안에서 SK이터닉스·GS건설·대원전선을 오늘의 선별 종목으로 기록했습니다. 이 흐름이 내일까지 이어질지는 시장이 직접 확인해줄 부분입니다.</p>
-
-<p>오늘 선별 데이터나 에너지 인프라 테마 흐름에 대해 궁금한 점이 있으시면 댓글로 남겨주세요. 📊</p>
-
-<hr />
-
-<p>#SK이터닉스 #GS건설 #대원전선 #풍력에너지 #전선테마 #코스피7000 #국제유가 #NextTheme #종가베팅 #수급분석</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[오늘 코스피가 다시 7,000선을 회복하며 3% 넘게 오르는 강세장을 보여줬습니다. 그런데 지수 전체가 좋았던 것과 별개로, 유독 한 방향으로 돈이 쏠린 하루였습니다. 바로 전선·풍력·전력설비 같은 에너지 인프라 관련 종목들입니다. ⚡]]></summary></entry></feed>
+<p>#NextTheme #종가베팅 #코스피 #SK이터닉스 #GS건설 #대원전선 #전선테마 #풍력에너지 #전력설비</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[간밤 미국 증시는 잔잔했는데, 오늘 코스피는 정반대로 크게 움직였습니다. 유가 급등과 지정학 리스크 속에서도 전선·풍력·전력설비 같은 에너지 인프라 종목에 돈이 몰리며 지수를 끌어올린 하루였습니다. 🔥]]></summary></entry></feed>
