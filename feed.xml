@@ -1,4 +1,288 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-27T20:06:40+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">삼성에스디에스, 앤트로픽과 손잡은 날 — 코스피 혼조 속 나홀로 강세 이유</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/27/nt2-1505-snapshot/" rel="alternate" type="text/html" title="삼성에스디에스, 앤트로픽과 손잡은 날 — 코스피 혼조 속 나홀로 강세 이유" /><published>2026-07-27T15:05:00+09:00</published><updated>2026-07-27T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/27/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/27/nt2-1505-snapshot/"><![CDATA[<p>오늘 코스피는 방향을 잡지 못하고 오르내림을 반복했지만, 코스닥은 상대적으로 강한 흐름을 보인 하루였습니다. 그 와중에 유독 눈에 띄는 종목 하나가 있었는데요, 바로 <strong>삼성에스디에스</strong>입니다. 오늘 이 종목이 왜 주목받았는지 살펴보겠습니다. 📊</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-27T21:02:45+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">외국인 4.3조 이탈 속 개인 반발 — 오늘 코스피 혼조의 의미</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/27/daily/" rel="alternate" type="text/html" title="외국인 4.3조 이탈 속 개인 반발 — 오늘 코스피 혼조의 의미" /><published>2026-07-27T21:00:00+09:00</published><updated>2026-07-27T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/27/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/27/daily/"><![CDATA[<h2 id="도입--오늘-하루의-흐름">도입 — 오늘 하루의 흐름</h2>
+
+<p>😰 오늘 코스피는 큰 음파 속에서도 +0.97%로 반등했습니다. 변동성이 극심한 하루였는데, 외국인 대량 매도(4.3조원)에도 불구하고 개인 투자자들의 순매수(6.7조원)가 지지한 모습입니다. 코스닥은 더 강했습니다 — +2.22%로 종가했습니다.</p>
+
+<hr />
+
+<h2 id="미국-야간-시장--반도체-주도의-하락-시그널">미국 야간 시장 — 반도체 주도의 하락 시그널</h2>
+
+<p>미국 증시는 완전히 엇갈렸습니다. 다우지수는 +0.46%를 기록했으나, 핵심은 필라델피아 반도체 지수의 -4.25% 폭락입니다. 엔비디아, MS, 메타 등 빅테크의 AI 투자 지속 여부에 대한 시장의 불안감이 커지고 있다는 신호입니다. S&amp;P500은 +0.05%에 그쳤고, 나스닥은 -0.64%로 약세를 보였습니다.</p>
+
+<hr />
+
+<h2 id="코스피--코스닥-흐름--급락-후-반등의-악전고투">코스피 · 코스닥 흐름 — 급락 후 반등의 악전고투</h2>
+
+<p><strong>코스피 일별 추이:</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>날짜</th>
+      <th>지수</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>7/23</td>
+      <td>7,096.89</td>
+    </tr>
+    <tr>
+      <td>7/24</td>
+      <td>6,690.62</td>
+    </tr>
+    <tr>
+      <td>7/25</td>
+      <td>6,690.62</td>
+    </tr>
+    <tr>
+      <td>7/26</td>
+      <td>6,690.62</td>
+    </tr>
+    <tr>
+      <td><strong>7/27</strong></td>
+      <td><strong>6,755.75</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>지난 월요일(7/23) 7,096포인트까지 올랐던 코스피가 화요일 급락 후 3거래일 동결되었다가 오늘 반등한 흐름입니다. 외국인 이탈에 따른 기술적 과매도 상태에서 개인·기관의 반발매수가 작동한 것 같습니다.</p>
+
+<hr />
+
+<h2 id="거래대금-상위-10개-종목--대형주-양극단-반도체-혼전">거래대금 상위 10개 종목 — 대형주 양극단, 반도체 혼전</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>순위</th>
+      <th>종목</th>
+      <th>거래대금</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>SK하이닉스</td>
+      <td>9.6조원</td>
+      <td>+3.3%</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>삼성전자</td>
+      <td>7.2조원</td>
+      <td>+1.6%</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>NAVER</td>
+      <td>1.4조원</td>
+      <td>+8.43%</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>SK스퀘어</td>
+      <td>1.1조원</td>
+      <td>−1.35%</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>삼성전기</td>
+      <td>914억원</td>
+      <td>−0.53%</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>SK이터닉스</td>
+      <td>628억원</td>
+      <td>−29.91%</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>SK텔레콤</td>
+      <td>574억원</td>
+      <td>−1.9%</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>삼성전자우</td>
+      <td>334억원</td>
+      <td>+1.69%</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>현대차</td>
+      <td>321억원</td>
+      <td>+0.25%</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>한화오션</td>
+      <td>291억원</td>
+      <td>+0.91%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>SK하이닉스와 삼성전자가 거래대금의 절대 다수(약 16.8조원)를 차지했습니다. SK이터닉스의 <strong>−29.91%</strong> 폭락은 오늘 이슈였습니다. 대형 반도체주 중에서 SK하이닉스는 +3.3%로 버티고 있는데, 미국 반도체 약세와 한국 시장의 진행 방향이 엇갈렸습니다.</p>
+
+<hr />
+
+<h2 id="주도-테마--ai와-로봇-중심의-자금-쏠림">주도 테마 — AI와 로봇 중심의 자금 쏠림</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>테마</th>
+      <th>상승종목 수</th>
+      <th>전체 종목 수</th>
+      <th>상승률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>제습기</td>
+      <td>8</td>
+      <td>8</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>AI 챗봇</td>
+      <td>24</td>
+      <td>31</td>
+      <td>77%</td>
+    </tr>
+    <tr>
+      <td>지능형로봇/인공지능</td>
+      <td>54</td>
+      <td>66</td>
+      <td>82%</td>
+    </tr>
+    <tr>
+      <td>인터넷 대표주</td>
+      <td>2</td>
+      <td>2</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>피지컬 AI/휴머노이드 로봇</td>
+      <td>35</td>
+      <td>42</td>
+      <td>83%</td>
+    </tr>
+    <tr>
+      <td>온디바이스 AI</td>
+      <td>18</td>
+      <td>24</td>
+      <td>75%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>👍 외국인이 빠져나간 자리를 AI·로봇 테마가 메웠습니다. 특히 AI 챗봇(77%), 로봇(83%), 온디바이스 AI(75%) 테마는 상승률 70% 이상으로 자금이 몰렸습니다. NAVER가 +8.43%로 급등한 것도 ‘인터넷 대표주’로서의 AI 관련성 때문으로 보입니다. 다만 이는 제한적인 쏠림일 수 있으므로 주의가 필요합니다.</p>
+
+<hr />
+
+<h2 id="종가-선별--1개-종목-낮은-신뢰도의-하루">종가 선별 — 1개 종목, 낮은 신뢰도의 하루</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>점수</th>
+      <th>한 줄 사유</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>삼성에스디에스</td>
+      <td>30점</td>
+      <td>앤트로픽 AI 협력 실질 재료 + 기관 6거래일 연속 순매수 중</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>⚠️ <strong>베팅등급 YELLOW</strong> — 극도의 관망세 속에서 단 1개 종목만 선별했습니다. 삼성에스디에스(018260)는 미국 앤트로픽과의 국내 첫 AI 협력이라는 실질 재료가 있고, 기관이 6거래일 연속 순매수하고 있습니다. 15분봉 60선을 딛고 반등하는 기술적 신호도 보이고 있습니다.</p>
+
+<p>다만 <strong>종가 217,500원(+3.82%), 거래대금 2,252억원, 시총 16.8조원</strong> 규모에서 외국인은 −13만 주 순매도, 기관만 +7만 주 순매수라는 점을 고려하면, 기관의 단기 매매 성격이 짙습니다. 내일 아침의 변화를 주시해야 합니다.</p>
+
+<hr />
+
+<h2 id="선별-복기--어제는-大손-오늘은-小익">선별 복기 — 어제는 大손, 오늘은 小익</h2>
+
+<h3 id="-어제-선별의-실현-갭-오늘-아침-청산">① 어제 선별의 실현 갭 (오늘 아침 청산)</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>갭률</th>
+      <th>세션내 최고</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>SK오션플랜트</strong></td>
+      <td><strong>−10.03%</strong></td>
+      <td>0.54%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>😞 어제 종가베팅으로 선별했던 SK오션플랜트는 오늘 아침에 <strong>−10.03%</strong> 갭다운으로 시작했습니다. 세션 중 0.54%까지 반등했지만 손절 물이 남았습니다. 이는 어제 레드 장에서도 극소량 단타만 추천했던 진정한 이유입니다 — 외국인 이탈 국면에서 소형주는 통제 불능입니다.</p>
+
+<h3 id="-오늘-선별의-잠정-흐름-애프터마켓-기준">② 오늘 선별의 잠정 흐름 (애프터마켓 기준)</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>잠정 갭률</th>
+      <th>세션내 최고</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>삼성에스디에스</strong></td>
+      <td><strong>+0.92%</strong></td>
+      <td>+1.15%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>😌 오늘 종가베팅 선별종목 삼성에스디에스는 애프터마켓(현재) 기준 <strong>+0.92%</strong> 유지 중입니다. 세션내 최고는 +1.15%였습니다. <strong>⚠️ 이는 아직 확정이 아닙니다</strong> — 실현 갭은 내일 아침입니다. 오늘 밤 미국 지수가 다시 빠지거나, 내일 장 시작 전 뉴스 변수가 있을 수 있습니다.</p>
+
+<hr />
+
+<h2 id="오늘-시장을-정리하며">오늘 시장을 정리하며</h2>
+
+<p><strong>한 줄 요약:</strong> 외국인 대량 매도(−4.3조)에도 개인 반발(+6.7조)이 지지하며 코스피는 반등했으나, 미국 반도체 폭락·레버리지 ETF 규제 시행 임박으로 변동성은 앞으로 더 클 것 같습니다.</p>
+
+<p><strong>메인 흐름:</strong></p>
+<ul>
+  <li>반도체는 미국 악재에 따라 천차만별 (SK하이닉스 +3.3% vs SK이터닉스 −29.91%)</li>
+  <li>AI·로봇 테마는 개인·기관의 대체 수요처로 작동</li>
+  <li>외국인은 계속 이탈 중 (예탁금 5개월 최저)</li>
+</ul>
+
+<p><strong>내일 주시사항:</strong></p>
+<ul>
+  <li>SK하이닉스 · 삼성전자 2분기 실적 발표 임박 — 엔비디아 수요 전망이 핵심</li>
+  <li>레버리지 ETF 예탁금 규제 7/31 시행 (내일 1일 남음)</li>
+  <li>미국 PCE 인플레 데이터 영향</li>
+</ul>
+
+<hr />
+
+<h2 id="마무리--내일-또-기둥을-찾겠습니다">마무리 — 내일 또 기둥을 찾겠습니다</h2>
+
+<blockquote>
+  <p>변동성 극심한 시장에서는 “아무것도 모른다”는 겸허함이 자산을 지킵니다. 어제 배운 대로, 내일도 수급 신호가 분명한 기둥만 노립니다. 의견을 댓글로 나눠 주세요. 이웃 추가하시면 매일 아침 선별 분석을 받아보실 수 있습니다.</p>
+</blockquote>
+
+<hr />
+
+<p>#NextTheme #종가베팅 #외국인매도 #AI테마 #삼성에스디에스 #반도체 #개인순매수</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[도입 — 오늘 하루의 흐름]]></summary></entry><entry><title type="html">삼성에스디에스, 앤트로픽과 손잡은 날 — 코스피 혼조 속 나홀로 강세 이유</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/27/nt2-1505-snapshot/" rel="alternate" type="text/html" title="삼성에스디에스, 앤트로픽과 손잡은 날 — 코스피 혼조 속 나홀로 강세 이유" /><published>2026-07-27T15:05:00+09:00</published><updated>2026-07-27T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/27/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/27/nt2-1505-snapshot/"><![CDATA[<p>오늘 코스피는 방향을 잡지 못하고 오르내림을 반복했지만, 코스닥은 상대적으로 강한 흐름을 보인 하루였습니다. 그 와중에 유독 눈에 띄는 종목 하나가 있었는데요, 바로 <strong>삼성에스디에스</strong>입니다. 오늘 이 종목이 왜 주목받았는지 살펴보겠습니다. 📊</p>
 
 <h2 id="-오늘-시장은-어떤-하루였을까">📈 오늘 시장은 어떤 하루였을까?</h2>
 
@@ -1984,111 +2268,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가베팅 #복기일지 #20260723 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-07-24 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">야간 나스닥 -2.15%, 오늘 코스피는 갭 방향부터 — 종가베팅 신중 모드</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/24/0600-briefing/" rel="alternate" type="text/html" title="야간 나스닥 -2.15%, 오늘 코스피는 갭 방향부터 — 종가베팅 신중 모드" /><published>2026-07-24T06:00:00+09:00</published><updated>2026-07-24T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/24/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/24/0600-briefing/"><![CDATA[<p>오늘 아침은 “야간 불안감”으로 시작합니다. 어제 코스피가 외국인 <strong>2조 7,000억 원</strong> 순매수로 +4.4% 크게 올랐던 강세가 야간 미국 급락으로 반전됐거든요. 😰</p>
-
-<hr />
-
-<h2 id="-어제-ai-선별-복기-하이라이트">📋 어제 AI 선별 복기 (하이라이트)</h2>
-
-<p>어제(7/23) 선별은 <strong>신중 모드(CAUTIOUS)</strong> 였고, 야간 미국 조정으로 전부 갭 리스크가 커졌습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>어제 전략</th>
-      <th>오늘 상황</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>SK이터닉스</strong></td>
-      <td>갭 거래</td>
-      <td>⚠️ SKIP — 상한가 후 나스닥 -2.15% 급락으로 갭 반전 리스크</td>
-    </tr>
-    <tr>
-      <td><strong>GS건설</strong></td>
-      <td>갭 거래</td>
-      <td>시초가 갭 확인 후 신중 대응 (갭다운 진입 보류)</td>
-    </tr>
-    <tr>
-      <td><strong>대원전선</strong></td>
-      <td>갭 거래</td>
-      <td>시초가 갭 확인 후 대응 (갭업은 분할 청산 준비)</td>
-    </tr>
-  </tbody>
-</table>
-
-<p><strong>핵심:</strong> 어제 풍력·건설 테마가 강했지만, <strong>야간 VIX +12.38% 급등</strong>과 <strong>나스닥 -2.15%</strong> 하락으로 “고점 마감 후 갭 반전” 리스크가 과하게 커졌습니다.</p>
-
-<hr />
-
-<h2 id="미국-시장-브리핑">미국 시장 브리핑</h2>
-
-<p>야간 미국이 심각했습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>지수</th>
-      <th>변화율</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>다우</td>
-      <td>-0.97%</td>
-    </tr>
-    <tr>
-      <td>S&amp;P500</td>
-      <td>-1.21%</td>
-    </tr>
-    <tr>
-      <td>나스닥</td>
-      <td>-2.15%</td>
-    </tr>
-    <tr>
-      <td>VIX</td>
-      <td>+12.38%</td>
-    </tr>
-  </tbody>
-</table>
-
-<p><strong>원인은 인플레이션 재점화 우려입니다.</strong> 국제유가가 <strong>WTI +5.43% → 92.26달러</strong>, 브렌트유는 <strong>100달러 돌파</strong>했거든요. 중동 긴장이 고조되면서 에너지 가격이 솟았고, 이것이 인플레이션 심화로 읽혀서 기술주(고금리 민감)가 팔렸습니다. 알파벳·테슬라도 실적 후 하락했으니 AI 투자 우려도 섞여 있네요.</p>
-
-<hr />
-
-<h2 id="오늘의-베팅-등급--전략">오늘의 베팅 등급 &amp; 전략</h2>
-
-<p><strong>오늘 등급: RED (약세)</strong> — 감정도 <strong>25점</strong> 아주 낮습니다.</p>
-
-<p><strong>아침 대응:</strong></p>
-<ul>
-  <li><strong>신규 매수는 자제합니다.</strong> 시초가 갭 방향을 먼저 확인하고, <strong>갭업이면 신중하게 30% 이하</strong>만 고려</li>
-  <li><strong>보유 중인 포지션:</strong> 갭다운이면 손절 우선, 갭업이어도 <strong>분할 청산</strong> 생각해야 합니다</li>
-</ul>
-
-<p>왜냐하면 전일 외국인이 강했어도(+2.7조), 야간 미국 충격이 크면 아침 개장이 어떻게 나올지 불확실하거든요. 무포지션도 오늘 같은 날씨는 지나가는 것을 지켜보는 전략입니다.</p>
-
-<hr />
-
-<h2 id="주목할-변수">주목할 변수</h2>
-
-<p><strong>장중 주의:</strong></p>
-<ul>
-  <li><strong>미국 PMI (22:45)</strong>, <strong>주택판매 (23:00)</strong> — 오늘 밤 또 다른 경제지표가 나옵니다. 인플레이션 신호가 더 약해지면 기술주가 반등할 여지도 있고, 강해지면 또 팔릴 수 있습니다</li>
-  <li><strong>원화 약세</strong> — 미 재무부가 한국을 환율 관찰대상으로 유지했으니, 원고가 약해지면 외국인 이탈도 가능합니다</li>
-  <li><strong>2Q GDP</strong> — 한국은 어제 <strong>0.6% 성장</strong>(예상 0.4% 초과)으로 긍정이었으나, 해외 경기 약세가 상쇄합니다</li>
-</ul>
-
-<hr />
-
-<h2 id="결론--오늘의-포인트">결론 &amp; 오늘의 포인트</h2>
-
-<p>오늘은 <strong>“글로벌 리스크 대여받는 날”</strong> 같습니다. 야간 유가·VIX 급등이 아침 코스피 갭을 결정할 텐데, 아무도 100% 예측할 수 없으니 갭 방향을 먼저 본 후 차분히 움직이면 됩니다. 😌</p>
-
-<p><strong>댓글로 오늘 아침 종가베팅 계획을 나눠주세요.</strong> “갭업이면 어떻게?”, “갭다운이면?” 같은 if-then 대응도 좋고요. 또 <strong>이웃 추가하면 오늘 장중 실시간 포지션 현황도 공유</strong>합니다!</p>
-
-<hr />
-
-<p>#종가베팅 #갭거래 #야간미국 #유가급등 #코스피 #NextTheme #리스크회피 #SK이터닉스 #GS건설</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[오늘 아침은 “야간 불안감”으로 시작합니다. 어제 코스피가 외국인 2조 7,000억 원 순매수로 +4.4% 크게 올랐던 강세가 야간 미국 급락으로 반전됐거든요. 😰]]></summary></entry></feed>
+<p>#종가베팅 #복기일지 #20260723 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-07-24 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
