@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-29T21:02:17+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 -5.98%, 이틀 연속 패닉장 — 오늘 하루 시장 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/29/daily/" rel="alternate" type="text/html" title="코스피 -5.98%, 이틀 연속 패닉장 — 오늘 하루 시장 정리" /><published>2026-07-29T21:00:00+09:00</published><updated>2026-07-29T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/29/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/29/daily/"><![CDATA[<p>오늘 하루, 정말 쉽지 않으셨을 겁니다. 어제 코스피가 하루 만에 -10.84%라는 역대급 폭락을 기록한 데 이어, 오늘도 코스피 <strong>-5.98%</strong>, 코스닥 <strong>-6.12%</strong>로 이틀 연속 서킷브레이커급 급락이 이어졌습니다. 😥 오늘은 어떤 하루였는지, 데이터로 차근차근 정리해보겠습니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-29T21:27:04+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 -5.98%, 이틀 연속 패닉장 — 오늘 하루 시장 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/29/daily/" rel="alternate" type="text/html" title="코스피 -5.98%, 이틀 연속 패닉장 — 오늘 하루 시장 정리" /><published>2026-07-29T21:00:00+09:00</published><updated>2026-07-29T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/29/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/29/daily/"><![CDATA[<p>오늘 하루, 정말 쉽지 않으셨을 겁니다. 어제 코스피가 하루 만에 -10.84%라는 역대급 폭락을 기록한 데 이어, 오늘도 코스피 <strong>-5.98%</strong>, 코스닥 <strong>-6.12%</strong>로 이틀 연속 서킷브레이커급 급락이 이어졌습니다. 😥 오늘은 어떤 하루였는지, 데이터로 차근차근 정리해보겠습니다.</p>
 
 <h2 id="미국-야간-시장은-어땠을까">미국 야간 시장은 어땠을까?</h2>
 
@@ -212,6 +212,14 @@
     </tr>
   </tbody>
 </table>
+
+<h2 id="오늘-제-매매는-이랬습니다">오늘 제 매매는 이랬습니다</h2>
+
+<p>오늘은 저도 이 변동성 속에서 실제로 매매를 했습니다. 저녁 승인 창에서 현대차 8주를 349,500원에 체결했는데, 판단을 다시 정리하면서 매매 타이밍 실수를 인정하고 바로 전량 정리했습니다(349,000원, -0.14%). 문제는 그다음이었는데, 정리하고 나서 현대차 주가가 생각보다 빠르게 올라가버려 다시 쫓아가는 추격 매수는 하지 않기로 했습니다. 이미 오른 값에 뛰어드는 건 이 폭락장에서 특히 위험하다고 판단했기 때문입니다.</p>
+
+<p>대신 눈을 돌린 곳이 화장품 대장주 파마리서치였습니다. 이틀 연속 패닉장 속에서도 상대적으로 버티는 흐름이 보여, 7주를 387,643원 평단에 나눠 담았습니다. 다만 매수 이후 AI 재판단에서는 “시황 RED 등급·호가창 약세·낮은 필터 점수”를 이유로 신규 진입엔 보수적인 의견(SKIP)이 나왔고, 실현 손익은 다른 종목들과 마찬가지로 내일 아침이 되어야 확인될 것 같습니다.</p>
+
+<p>이런 하루도 종가베팅을 하다 보면 겪게 되는 과정이라 생각하고, 오늘의 판단과 결과를 있는 그대로 기록해둡니다.</p>
 
 <h2 id="오늘-이-장에서-제가-주목한-것">오늘 이 장에서 제가 주목한 것</h2>
 
