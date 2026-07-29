@@ -1,4 +1,137 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-29T20:31:48+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">파마리서치, 시장 급락 국면에서 주목할 가치는? — 기관 4일 연속 매수 vs 시장 패닉</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/29/2030-detail-214450-detail/" rel="alternate" type="text/html" title="파마리서치, 시장 급락 국면에서 주목할 가치는? — 기관 4일 연속 매수 vs 시장 패닉" /><published>2026-07-29T20:30:00+09:00</published><updated>2026-07-29T20:30:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/29/2030_detail_214450-detail</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/29/2030-detail-214450-detail/"><![CDATA[<p>오늘(7월 29일) 저녁 8시, 코스피가 사상 초유의 이틀 연속 서킷브레이커로 <strong>5,600선을 붕괴</strong>시키며 개인 투자자들의 패닉셀이 확산되고 있습니다. 이런 시장 위기 국면에서도 주목할 만한 종목이 있습니다. 바로 <strong>파마리서치</strong>인데요.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-29T20:42:02+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">녹십자홀딩스, 4개월 기관순매도 끝나도 반등이 안 되는 이유 — 수급과 실적의 불일치</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/29/2040-detail-005250-detail/" rel="alternate" type="text/html" title="녹십자홀딩스, 4개월 기관순매도 끝나도 반등이 안 되는 이유 — 수급과 실적의 불일치" /><published>2026-07-29T20:40:00+09:00</published><updated>2026-07-29T20:40:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/29/2040_detail_005250-detail</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/29/2040-detail-005250-detail/"><![CDATA[<p>📊 <strong>2026년 7월 29일 20:40 분석</strong></p>
+
+<p>녹십자홀딩스(005250)는 현재 <strong>9,040원</strong>으로 전날 대비 <strong>3% 하락</strong>했습니다. 아직 자회사 실적 부담과 하락 추세가 해소되지 않았다는 신호인데, 다만 기관의 매도 심화가 2개월 사이 완화되고 있다는 점이 눈에 띕니다. 오늘은 이 종목의 수급과 차트가 왜 어긋났는지, 그리고 어디서부터 반등의 신호를 찾아야 할지를 살펴보겠습니다. 🔍</p>
+
+<h2 id="현재-가격--수급-흐름--순매수가-나도-가격은-안-올라">현재 가격 &amp; 수급 흐름 — “순매수가 나도 가격은 안 올라?”</h2>
+
+<p>오늘 녹십자홀딩스의 순매수 구성을 보면 흥미로운 모습이 드러납니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>당일 추이</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>외국인 순매수</td>
+      <td><strong>+2만 주</strong></td>
+    </tr>
+    <tr>
+      <td>기관 순매수</td>
+      <td><strong>+1,999주</strong></td>
+    </tr>
+    <tr>
+      <td>개인 순매도</td>
+      <td>(추정)</td>
+    </tr>
+    <tr>
+      <td>현재가</td>
+      <td>9,040원 (-3.0%)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>외국인이 2만 주를 순매수한 것은 평소 대비 상당히 많은 양</strong>입니다. 기관도 4일 연속 순매수 중입니다. 그런데 가격은 왜 안 올라갈까요?</p>
+
+<p>더 큰 그림을 보면 그 이유가 드러납니다. <strong>5월부터 기관이 누적 수백만 주를 순매도한 흐름이 있었고, 외국인도 수억 주 규모의 매도 압력이 있었습니다.</strong> 개인 투자자들이 지속적으로 매수했음에도 불구하고 가격이 반등하지 못한 것은, 더 큰 플레이어들의 이탈 흐름이 개인의 매수 수요를 상쇄했기 때문입니다. 최근 기관의 매도 심화가 완화된 것은 다행이지만, <strong>지난 4개월간의 누적 매도 부담이 여전히 남아 있는 상황</strong>입니다.</p>
+
+<h2 id="차트-위치-분석--모든-시간축이-하락을-가리키고-있습니다">차트 위치 분석 — “모든 시간축이 하락을 가리키고 있습니다”</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>시간축</th>
+      <th>추세</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>일봉</td>
+      <td>하락 흐름 (MA5 이탈)</td>
+    </tr>
+    <tr>
+      <td>주봉</td>
+      <td>하락 흐름</td>
+    </tr>
+    <tr>
+      <td>월봉</td>
+      <td>하락 흐름</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>일·주·월 모든 시간축이 동시에 하락을 가리키고 있습니다. 이는 <strong>추세 정렬(추하향 정렬)</strong>이라는 패턴으로, 단기 반등이 있어도 큰 틀의 방향성은 바뀌지 않았다는 의미입니다. 특히 일봉이 MA5(5일선)를 이탈했다는 것은 <strong>최근 5일간의 평균 가격대까지도 미처 회복하지 못했다</strong>는 뜻이며, 이는 수급 개선 신호가 약하다는 것을 시사합니다.</p>
+
+<h2 id="뉴스-분석--자회사-부담과-규제-리스크의-이중-고민">뉴스 분석 — “자회사 부담과 규제 리스크의 이중 고민”</h2>
+
+<table>
+  <tbody>
+    <tr>
+      <td>**뉴스 신호: 중립</td>
+      <td>촉매: 리스크**</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>녹십자홀딩스를 둘러싼 주요 이슈는 두 가지입니다.</p>
+
+<p><strong>1) 자회사 실적 부담</strong></p>
+<ul>
+  <li>IBK증권이 자회사 녹십자(의약품 사업부)의 목표가를 22만원에서 19만원으로 하향 조정했습니다</li>
+  <li>2분기 영업익이 큰 폭으로 감소할 것으로 예상된다는 신호입니다</li>
+  <li>지주사 녹십자홀딩스는 자회사 지분법 이익에 의존하는 구조이므로, <strong>자회사 실적 부진은 지주사의 수익성도 직결</strong>되어 있습니다</li>
+</ul>
+
+<p><strong>2) 우선주 단기과열종목 반복 지정</strong></p>
+<ul>
+  <li>우선주(녹십자홀딩스2우)가 3주째 반복해서 거래소로부터 단기과열종목(가격 급등 경고) 지정을 받고 있습니다</li>
+  <li>이는 최근 수 거래일간의 급격한 가격 변동성에 대한 규제 신호입니다</li>
+  <li>투자자들의 추격매수보다는 <strong>변동성 경고로 인한 기술적 압박</strong>이 가격 형성에 영향을 미치고 있는 상황입니다</li>
+</ul>
+
+<h2 id="ai-종합-등급--결론">AI 종합 등급 &amp; 결론</h2>
+
+<table>
+  <tbody>
+    <tr>
+      <td>**등급: NONE (진입 금지)</td>
+      <td>분위기: 흐림☁️**</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>이 종목에 대한 AI의 판단은 명확합니다: <strong>“진입 금지”</strong></p>
+
+<p>AI의 근거는 다음과 같습니다:</p>
+
+<ul>
+  <li><strong>추세 정렬</strong>: 월봉·주봉·일봉 전면 하락 흐름</li>
+  <li><strong>실적 부담</strong>: 자회사 눈높이 하향으로 인한 지주사 이익 악화 전망</li>
+  <li><strong>수급 불일치</strong>: 기관 4일 연속 순매수에도 <strong>차트 반등이 없다</strong>는 것은, 외부 판매 압력(혹은 개인의 손절)이 기관 매수를 상쇄하고 있다는 의미입니다</li>
+  <li><strong>RED 등급 시장</strong>: 현재 시장 심리(RED=약세)에서 역배열 종목(약한 추세를 역행하는 종목)은 회피 대상입니다</li>
+</ul>
+
+<h2 id="투자자-관점--오늘-이-흐름에서-내가-주목한-것">투자자 관점 — 오늘 이 흐름에서 내가 주목한 것</h2>
+
+<p>기관과 외국인의 순매수 전환은 긍정적인 신호처럼 보이지만, <strong>4개월간의 누적 매도 부담 앞에서는 미미한 수준</strong>입니다. 더 중요한 것은 차트 신호와 뉴스의 강도입니다. 자회사 실적 하향 조정은 즉각적 영향을 미칠 이슈이고, 월·주·일 전면 하락 정렬 상태에서는 기술적 반등도 제한적입니다.</p>
+
+<p>다만 주목할 지점은 이겁니다: <strong>언제 자회사 실적이 시장 기대치를 다시 조정하고, 그에 따라 지주사의 분할 가치가 재평가될 것인가 하는 점</strong>입니다. 현재는 그 전환점에 도달하지 못한 상태로 보입니다.</p>
+
+<h2 id="결론--행동-가이드">결론 &amp; 행동 가이드</h2>
+
+<p>🚫 <strong>현재는 반등 신호가 명확하지 않습니다.</strong> 기관 순매수의 전환은 긍정 신호이지만, 가격이 반응하지 않는 것은 여전히 공급 압력이 존재한다는 의미입니다. 자회사 실적 발표와 우선주 과열 지정 해제 여부를 함께 모니터링한 후 접근을 권장합니다.</p>
+
+<p>기술적 반등은 <strong>일봉이 MA5를 회복하고, 차트가 주봉 하락과 다이버전스를 보일 때</strong>가 하나의 신호가 될 수 있습니다.</p>
+
+<hr />
+
+<p>궁금한 종목이 있으신가요? 📝 <strong>댓글로 알려주시면 분석을 이어가겠습니다.</strong> 녹십자홀딩스의 향후 흐름이 궁금하다면 이웃 추가로 매일의 분석을 받아보세요. 👋</p>
+
+<hr />
+
+<p>#종목분석 #녹십자홀딩스 #005250 #수급분석 #차트분석 #실적부담 #기관순매수 #주식분석</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[📊 2026년 7월 29일 20:40 분석]]></summary></entry><entry><title type="html">파마리서치, 시장 급락 국면에서 주목할 가치는? — 기관 4일 연속 매수 vs 시장 패닉</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/29/2030-detail-214450-detail/" rel="alternate" type="text/html" title="파마리서치, 시장 급락 국면에서 주목할 가치는? — 기관 4일 연속 매수 vs 시장 패닉" /><published>2026-07-29T20:30:00+09:00</published><updated>2026-07-29T20:30:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/29/2030_detail_214450-detail</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/29/2030-detail-214450-detail/"><![CDATA[<p>오늘(7월 29일) 저녁 8시, 코스피가 사상 초유의 이틀 연속 서킷브레이커로 <strong>5,600선을 붕괴</strong>시키며 개인 투자자들의 패닉셀이 확산되고 있습니다. 이런 시장 위기 국면에서도 주목할 만한 종목이 있습니다. 바로 <strong>파마리서치</strong>인데요.</p>
 
 <h2 id="-현재-가격과-수급-흐름">📊 현재 가격과 수급 흐름</h2>
 
@@ -1507,288 +1640,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <p>궁금한 종목이나 오늘 시황에 대한 생각, 댓글로 편하게 남겨주세요 🙌</p>
 
-<p>#NextTheme #종가베팅 #반도체 #CXMT #유가급락 #SK하이닉스 #네이버 #외국인수급 #베팅등급</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[안녕하세요 😊 오늘 아침 시장을 열어보니 분위기가 딱 하나로 정리되지 않는 날입니다. 반도체 쪽에서는 놀랄 만한 소식이 터졌는데, 정작 유가는 큰 폭으로 떨어지면서 서로 다른 힘이 부딪히고 있어요. 이런 날일수록 서두르지 않고 차분하게 오늘 상황을 짚어보겠습니다.]]></summary></entry><entry><title type="html">외국인 4.3조 이탈 속 개인 반발 — 오늘 코스피 혼조의 의미</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/27/daily/" rel="alternate" type="text/html" title="외국인 4.3조 이탈 속 개인 반발 — 오늘 코스피 혼조의 의미" /><published>2026-07-27T21:00:00+09:00</published><updated>2026-07-27T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/27/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/27/daily/"><![CDATA[<h2 id="도입--오늘-하루의-흐름">도입 — 오늘 하루의 흐름</h2>
-
-<p>😰 오늘 코스피는 큰 음파 속에서도 +0.97%로 반등했습니다. 변동성이 극심한 하루였는데, 외국인 대량 매도(4.3조원)에도 불구하고 개인 투자자들의 순매수(6.7조원)가 지지한 모습입니다. 코스닥은 더 강했습니다 — +2.22%로 종가했습니다.</p>
-
-<hr />
-
-<h2 id="미국-야간-시장--반도체-주도의-하락-시그널">미국 야간 시장 — 반도체 주도의 하락 시그널</h2>
-
-<p>미국 증시는 완전히 엇갈렸습니다. 다우지수는 +0.46%를 기록했으나, 핵심은 필라델피아 반도체 지수의 -4.25% 폭락입니다. 엔비디아, MS, 메타 등 빅테크의 AI 투자 지속 여부에 대한 시장의 불안감이 커지고 있다는 신호입니다. S&amp;P500은 +0.05%에 그쳤고, 나스닥은 -0.64%로 약세를 보였습니다.</p>
-
-<hr />
-
-<h2 id="코스피--코스닥-흐름--급락-후-반등의-악전고투">코스피 · 코스닥 흐름 — 급락 후 반등의 악전고투</h2>
-
-<p><strong>코스피 일별 추이:</strong></p>
-
-<table>
-  <thead>
-    <tr>
-      <th>날짜</th>
-      <th>지수</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>7/23</td>
-      <td>7,096.89</td>
-    </tr>
-    <tr>
-      <td>7/24</td>
-      <td>6,690.62</td>
-    </tr>
-    <tr>
-      <td>7/25</td>
-      <td>6,690.62</td>
-    </tr>
-    <tr>
-      <td>7/26</td>
-      <td>6,690.62</td>
-    </tr>
-    <tr>
-      <td><strong>7/27</strong></td>
-      <td><strong>6,755.75</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>지난 월요일(7/23) 7,096포인트까지 올랐던 코스피가 화요일 급락 후 3거래일 동결되었다가 오늘 반등한 흐름입니다. 외국인 이탈에 따른 기술적 과매도 상태에서 개인·기관의 반발매수가 작동한 것 같습니다.</p>
-
-<hr />
-
-<h2 id="거래대금-상위-10개-종목--대형주-양극단-반도체-혼전">거래대금 상위 10개 종목 — 대형주 양극단, 반도체 혼전</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>순위</th>
-      <th>종목</th>
-      <th>거래대금</th>
-      <th>등락률</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>SK하이닉스</td>
-      <td>9.6조원</td>
-      <td>+3.3%</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>삼성전자</td>
-      <td>7.2조원</td>
-      <td>+1.6%</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>NAVER</td>
-      <td>1.4조원</td>
-      <td>+8.43%</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>SK스퀘어</td>
-      <td>1.1조원</td>
-      <td>−1.35%</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>삼성전기</td>
-      <td>914억원</td>
-      <td>−0.53%</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>SK이터닉스</td>
-      <td>628억원</td>
-      <td>−29.91%</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>SK텔레콤</td>
-      <td>574억원</td>
-      <td>−1.9%</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>삼성전자우</td>
-      <td>334억원</td>
-      <td>+1.69%</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>현대차</td>
-      <td>321억원</td>
-      <td>+0.25%</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>한화오션</td>
-      <td>291억원</td>
-      <td>+0.91%</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>SK하이닉스와 삼성전자가 거래대금의 절대 다수(약 16.8조원)를 차지했습니다. SK이터닉스의 <strong>−29.91%</strong> 폭락은 오늘 이슈였습니다. 대형 반도체주 중에서 SK하이닉스는 +3.3%로 버티고 있는데, 미국 반도체 약세와 한국 시장의 진행 방향이 엇갈렸습니다.</p>
-
-<hr />
-
-<h2 id="주도-테마--ai와-로봇-중심의-자금-쏠림">주도 테마 — AI와 로봇 중심의 자금 쏠림</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>테마</th>
-      <th>상승종목 수</th>
-      <th>전체 종목 수</th>
-      <th>상승률</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>제습기</td>
-      <td>8</td>
-      <td>8</td>
-      <td>100%</td>
-    </tr>
-    <tr>
-      <td>AI 챗봇</td>
-      <td>24</td>
-      <td>31</td>
-      <td>77%</td>
-    </tr>
-    <tr>
-      <td>지능형로봇/인공지능</td>
-      <td>54</td>
-      <td>66</td>
-      <td>82%</td>
-    </tr>
-    <tr>
-      <td>인터넷 대표주</td>
-      <td>2</td>
-      <td>2</td>
-      <td>100%</td>
-    </tr>
-    <tr>
-      <td>피지컬 AI/휴머노이드 로봇</td>
-      <td>35</td>
-      <td>42</td>
-      <td>83%</td>
-    </tr>
-    <tr>
-      <td>온디바이스 AI</td>
-      <td>18</td>
-      <td>24</td>
-      <td>75%</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>👍 외국인이 빠져나간 자리를 AI·로봇 테마가 메웠습니다. 특히 AI 챗봇(77%), 로봇(83%), 온디바이스 AI(75%) 테마는 상승률 70% 이상으로 자금이 몰렸습니다. NAVER가 +8.43%로 급등한 것도 ‘인터넷 대표주’로서의 AI 관련성 때문으로 보입니다. 다만 이는 제한적인 쏠림일 수 있으므로 주의가 필요합니다.</p>
-
-<hr />
-
-<h2 id="종가-선별--1개-종목-낮은-신뢰도의-하루">종가 선별 — 1개 종목, 낮은 신뢰도의 하루</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>점수</th>
-      <th>한 줄 사유</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>삼성에스디에스</td>
-      <td>30점</td>
-      <td>앤트로픽 AI 협력 실질 재료 + 기관 6거래일 연속 순매수 중</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>⚠️ <strong>베팅등급 YELLOW</strong> — 극도의 관망세 속에서 단 1개 종목만 선별했습니다. 삼성에스디에스(018260)는 미국 앤트로픽과의 국내 첫 AI 협력이라는 실질 재료가 있고, 기관이 6거래일 연속 순매수하고 있습니다. 15분봉 60선을 딛고 반등하는 기술적 신호도 보이고 있습니다.</p>
-
-<p>다만 <strong>종가 217,500원(+3.82%), 거래대금 2,252억원, 시총 16.8조원</strong> 규모에서 외국인은 −13만 주 순매도, 기관만 +7만 주 순매수라는 점을 고려하면, 기관의 단기 매매 성격이 짙습니다. 내일 아침의 변화를 주시해야 합니다.</p>
-
-<hr />
-
-<h2 id="선별-복기--어제는-大손-오늘은-小익">선별 복기 — 어제는 大손, 오늘은 小익</h2>
-
-<h3 id="-어제-선별의-실현-갭-오늘-아침-청산">① 어제 선별의 실현 갭 (오늘 아침 청산)</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>갭률</th>
-      <th>세션내 최고</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>SK오션플랜트</strong></td>
-      <td><strong>−10.03%</strong></td>
-      <td>0.54%</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>😞 어제 종가베팅으로 선별했던 SK오션플랜트는 오늘 아침에 <strong>−10.03%</strong> 갭다운으로 시작했습니다. 세션 중 0.54%까지 반등했지만 손절 물이 남았습니다. 이는 어제 레드 장에서도 극소량 단타만 추천했던 진정한 이유입니다 — 외국인 이탈 국면에서 소형주는 통제 불능입니다.</p>
-
-<h3 id="-오늘-선별의-잠정-흐름-애프터마켓-기준">② 오늘 선별의 잠정 흐름 (애프터마켓 기준)</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>잠정 갭률</th>
-      <th>세션내 최고</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>삼성에스디에스</strong></td>
-      <td><strong>+0.92%</strong></td>
-      <td>+1.15%</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>😌 오늘 종가베팅 선별종목 삼성에스디에스는 애프터마켓(현재) 기준 <strong>+0.92%</strong> 유지 중입니다. 세션내 최고는 +1.15%였습니다. <strong>⚠️ 이는 아직 확정이 아닙니다</strong> — 실현 갭은 내일 아침입니다. 오늘 밤 미국 지수가 다시 빠지거나, 내일 장 시작 전 뉴스 변수가 있을 수 있습니다.</p>
-
-<hr />
-
-<h2 id="오늘-시장을-정리하며">오늘 시장을 정리하며</h2>
-
-<p><strong>한 줄 요약:</strong> 외국인 대량 매도(−4.3조)에도 개인 반발(+6.7조)이 지지하며 코스피는 반등했으나, 미국 반도체 폭락·레버리지 ETF 규제 시행 임박으로 변동성은 앞으로 더 클 것 같습니다.</p>
-
-<p><strong>메인 흐름:</strong></p>
-<ul>
-  <li>반도체는 미국 악재에 따라 천차만별 (SK하이닉스 +3.3% vs SK이터닉스 −29.91%)</li>
-  <li>AI·로봇 테마는 개인·기관의 대체 수요처로 작동</li>
-  <li>외국인은 계속 이탈 중 (예탁금 5개월 최저)</li>
-</ul>
-
-<p><strong>내일 주시사항:</strong></p>
-<ul>
-  <li>SK하이닉스 · 삼성전자 2분기 실적 발표 임박 — 엔비디아 수요 전망이 핵심</li>
-  <li>레버리지 ETF 예탁금 규제 7/31 시행 (내일 1일 남음)</li>
-  <li>미국 PCE 인플레 데이터 영향</li>
-</ul>
-
-<hr />
-
-<h2 id="마무리--내일-또-기둥을-찾겠습니다">마무리 — 내일 또 기둥을 찾겠습니다</h2>
-
-<blockquote>
-  <p>변동성 극심한 시장에서는 “아무것도 모른다”는 겸허함이 자산을 지킵니다. 어제 배운 대로, 내일도 수급 신호가 분명한 기둥만 노립니다. 의견을 댓글로 나눠 주세요. 이웃 추가하시면 매일 아침 선별 분석을 받아보실 수 있습니다.</p>
-</blockquote>
-
-<hr />
-
-<p>#NextTheme #종가베팅 #외국인매도 #AI테마 #삼성에스디에스 #반도체 #개인순매수</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[도입 — 오늘 하루의 흐름]]></summary></entry></feed>
+<p>#NextTheme #종가베팅 #반도체 #CXMT #유가급락 #SK하이닉스 #네이버 #외국인수급 #베팅등급</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[안녕하세요 😊 오늘 아침 시장을 열어보니 분위기가 딱 하나로 정리되지 않는 날입니다. 반도체 쪽에서는 놀랄 만한 소식이 터졌는데, 정작 유가는 큰 폭으로 떨어지면서 서로 다른 힘이 부딪히고 있어요. 이런 날일수록 서두르지 않고 차분하게 오늘 상황을 짚어보겠습니다.]]></summary></entry></feed>
