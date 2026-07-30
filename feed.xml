@@ -1,4 +1,89 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-30T10:03:36+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">7/29 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/30/review-20260729-review/" rel="alternate" type="text/html" title="7/29 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-07-30T09:00:00+09:00</published><updated>2026-07-30T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/30/review_20260729-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/30/review-20260729-review/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-30T20:06:48+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피·코스닥 흔들린 하루, 자금은 조선으로 몰렸다 — 한화오션 종가 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/30/nt2-1505-snapshot/" rel="alternate" type="text/html" title="코스피·코스닥 흔들린 하루, 자금은 조선으로 몰렸다 — 한화오션 종가 분석" /><published>2026-07-30T15:05:00+09:00</published><updated>2026-07-30T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/30/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/30/nt2-1505-snapshot/"><![CDATA[<p>오늘 코스피와 코스닥이 나란히 약세를 보이며 흔들리는 장이었습니다 📉 방향을 잡기 어려운 변동성 큰 하루였지만, 그 와중에도 자금이 확실히 몰린 곳이 있었습니다. 바로 <strong>실적과 유가 수혜를 동시에 받는 조선·정유 테마</strong>입니다. 시장 전체가 흔들려도 돈이 갈 곳은 정해져 있다는 걸 다시 확인한 하루네요.</p>
+
+<h2 id="오늘-시장-한마디로-정리하면">오늘 시장, 한마디로 정리하면</h2>
+
+<p>오늘 시황을 요약하면 “지수는 약했지만 테마는 뚜렷했다”입니다. 코스피·코스닥 전반의 하락 압력 속에서도 조선·정유 업종으로는 자금이 뚜렷하게 집중되는 모습이 나타났습니다. 이런 날은 지수만 보면 “쉬어야 하나” 싶지만, 실제로는 특정 업종에 자금이 쏠리며 종목별 온도차가 크게 벌어지는 날이기도 합니다.</p>
+
+<h2 id="오늘-ai가-주목한-종목--한화오션">오늘 AI가 주목한 종목 — 한화오션</h2>
+
+<p>NextTheme 알고리즘이 오늘 종가 기준으로 선별한 종목은 <strong>한화오션(042660)</strong>입니다. 오늘 자금이 가장 강하게 몰린 조선 테마 안에서도 대표주(1위) 자리를 차지한 종목입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>항목</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>기본</td>
+      <td>당일 종가 / 등락률</td>
+      <td><strong>78,500원</strong> / <strong>+5.2%</strong></td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>거래대금 / 시가총액</td>
+      <td><strong>3,036억원</strong> / 24.1조원</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>주도 테마 / 테마 내 순위</td>
+      <td>조선 / <strong>1위</strong></td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>RSI / RVOL / 이평수렴</td>
+      <td>38.9 / 0.71 / +0.3%</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>52주 신고가 / 거래강도(OBV)</td>
+      <td>아님 / 중립</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>외국인 순매수 / 기관 순매수</td>
+      <td><strong>+59만 주</strong> / +7만 주</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>매출 YoY 성장률</td>
+      <td><strong>+23.9%</strong></td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>최근 분기 실적(2026.06.)</td>
+      <td>매출 <strong>40,809억원</strong> / 영업이익 13억원</td>
+    </tr>
+    <tr>
+      <td>점수</td>
+      <td>AI 종합 점수</td>
+      <td><strong>42점</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>외국인이 59만 주</strong>, <strong>큰 투자기관(기관)이 7만 주</strong>를 동시에 순매수한 점이 눈에 띕니다. 외국인과 기관이 같은 방향으로 함께 움직였다는 건, 그만큼 이 종목에 대한 시장의 확신이 크다는 뜻으로 볼 수 있습니다.</p>
+
+<h3 id="왜-이-종목이-선택됐을까">왜 이 종목이 선택됐을까?</h3>
+
+<p>AI가 이 종목을 오늘의 대표 선별 종목으로 꼽은 근거는 이렇게 정리됩니다. 오후 들어 외국인과 기관이 동시에 순매수에 나섰고, 2분기 매출이 4조 원을 넘기며 최근 분기 실적이 역대급으로 집계됐습니다. 여기에 방산 관련 기대감까지 겹치면서, 오늘 이 종목을 사지 못한 투자자들의 관심이 계속 이어질 만한 재료가 갖춰졌다는 것이 AI의 판단입니다. RSI(과열 정도를 보여주는 지표)는 38.9로 아직 과열 구간과는 거리가 있어, 단기 급등 이후의 부담이 크지 않다는 점도 함께 참고할 만합니다.</p>
+
+<h2 id="nexttheme-알고리즘-통찰">NextTheme 알고리즘 통찰</h2>
+
+<p>NextTheme 알고리즘은 단순히 “많이 오른 종목”을 고르지 않습니다. 오늘처럼 지수 전체가 약할 때는 오히려 <strong>자금이 어디로 쏠렸는지</strong>를 더 유심히 봅니다. 조선 테마 안에서도 거래대금과 수급(외국인·기관 매매 동향)이 가장 뚜렷하게 몰린 종목, 그리고 실적이라는 펀더멘털 근거까지 갖춘 종목을 우선순위에 두는 방식입니다. 지수 방향과 무관하게 자금이 몰리는 테마가 있다는 건, 시장 참여자들이 특정 재료(실적·유가·방산)에 대해 공통된 판단을 하고 있다는 신호이기도 합니다.</p>
+
+<p>제가 오늘 이 흐름에서 주목한 부분은, 지수가 흔들리는 날일수록 테마 쏠림이 더 선명하게 드러난다는 점입니다. 시장 전체가 방향을 잃으면 투자자들의 관심이 오히려 확실한 재료가 있는 곳으로 더 집중되는 경향이 있는데, 오늘 조선·정유 테마가 딱 그런 모습이었습니다. 물론 이건 오늘 하루의 관찰일 뿐, 내일도 같은 흐름이 이어진다고 단정할 수는 없습니다.</p>
+
+<h2 id="마무리하며">마무리하며</h2>
+
+<p>오늘은 지수보다 테마의 쏠림이 더 인상적인 하루였습니다. 한화오션은 조선 테마 대장주로서 거래대금·수급·실적 세 박자가 함께 확인된 종목이었고, AI 기록상 종가는 <strong>78,500원</strong>이었습니다. 이 수치는 매수 시점이나 목표가를 제시하는 것이 아니라, 오늘 AI가 기록한 선별 결과임을 참고해주세요.</p>
+
+<p>내일 시장이 오늘의 조선·정유 쏠림을 이어갈지, 아니면 또 다른 테마로 자금이 옮겨갈지 지켜보겠습니다. 궁금한 종목이 있으면 댓글로 남겨주세요 😊</p>
+
+<p>#NextTheme #종가베팅 #한화오션 #조선주 #042660 #수급분석 #테마주분석</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[오늘 코스피와 코스닥이 나란히 약세를 보이며 흔들리는 장이었습니다 📉 방향을 잡기 어려운 변동성 큰 하루였지만, 그 와중에도 자금이 확실히 몰린 곳이 있었습니다. 바로 실적과 유가 수혜를 동시에 받는 조선·정유 테마입니다. 시장 전체가 흔들려도 돈이 갈 곳은 정해져 있다는 걸 다시 확인한 하루네요.]]></summary></entry><entry><title type="html">7/29 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/30/review-20260729-review/" rel="alternate" type="text/html" title="7/29 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-07-30T09:00:00+09:00</published><updated>2026-07-30T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/30/review_20260729-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/30/review-20260729-review/"><![CDATA[<blockquote>
   <p>데이터 기준: 2026-07-30 10:03 키움 ka10001 일괄 조회</p>
 </blockquote>
 
@@ -1683,330 +1768,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <p><strong>더 궁금한 종목이나 의견 있으시면 댓글로 나눠주세요.</strong> 🙏</p>
 
-<p>#종목분석 #삼성에스디에스 #수급분석 #018260 #AI테마 #테마주 #NextTheme #기술주분석</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[📊 분석 시점: 2026년 7월 28일 21:43]]></summary></entry><entry><title type="html">코스피 -10.8% 급락, 반도체 쇼크와 유가 급락이 겹친 하루 — 오늘 종가베팅 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/28/daily/" rel="alternate" type="text/html" title="코스피 -10.8% 급락, 반도체 쇼크와 유가 급락이 겹친 하루 — 오늘 종가베팅 정리" /><published>2026-07-28T21:00:00+09:00</published><updated>2026-07-28T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/28/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/28/daily/"><![CDATA[<p>오늘 시장은 정말 힘든 하루였습니다 📉 코스피가 하루 만에 <strong>-10.8%</strong>, 코스닥은 <strong>-7.7%</strong> 급락하며 많은 투자자분들의 마음을 무겁게 만든 날이었어요. 중국 반도체 기업의 상장 소식이 국내 반도체주 전반을 강타한 하루였습니다.</p>
-
-<h2 id="간밤-미국-시장은-어땠을까요">간밤 미국 시장은 어땠을까요?</h2>
-
-<p>미국 증시는 다우 <strong>+0.51%</strong>, S&amp;P500 <strong>+0.02%</strong>, 나스닥 <strong>-0.18%</strong>로 뚜렷한 방향성 없이 마무리됐습니다. 미국 시장은 잔잔했는데, 국내 시장만 유독 크게 흔들린 날이었어요. 이유는 아래에서 자세히 짚어볼게요.</p>
-
-<h2 id="코스피코스닥-무슨-일이-있었나">코스피·코스닥, 무슨 일이 있었나</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>지수</th>
-      <th>종가</th>
-      <th>등락률</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>코스피</td>
-      <td>6,023.66포인트</td>
-      <td><strong>-10.84%</strong></td>
-    </tr>
-    <tr>
-      <td>코스닥</td>
-      <td>705.85포인트</td>
-      <td><strong>-7.72%</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>원/달러 환율은 <strong>1,459.7원</strong>을 기록했습니다. 최근 열흘간 코스피는 6,500~7,500포인트 사이 박스권을 오갔는데, 오늘 하루 만에 6,000선 초반까지 밀려났습니다. 코스닥도 어제 764.86포인트에서 오늘 705.85포인트로 큰 폭 하락했고요. 하루 만에 지수가 이렇게 크게 흔들렸다는 건 그만큼 시장을 뒤흔든 충격적인 소식이 있었다는 뜻입니다.</p>
-
-<h2 id="오늘-거래대금-상위-종목">오늘 거래대금 상위 종목</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>순위</th>
-      <th>종목명</th>
-      <th>거래대금</th>
-      <th>등락률</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>SK하이닉스</td>
-      <td>15.0조원</td>
-      <td>-14.3%</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>삼성전자</td>
-      <td>12.0조원</td>
-      <td>-13.4%</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>삼성전기</td>
-      <td>1.5조원</td>
-      <td>-16.8%</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>SK스퀘어</td>
-      <td>1.2조원</td>
-      <td>-16.2%</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>NAVER</td>
-      <td>9,597억원</td>
-      <td>-6.7%</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>삼성전자우</td>
-      <td>5,860억원</td>
-      <td>-12.4%</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>현대차</td>
-      <td>4,810억원</td>
-      <td>-10.6%</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>SK이터닉스</td>
-      <td>3,579억원</td>
-      <td>-14.4%</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>SK텔레콤</td>
-      <td>3,150억원</td>
-      <td>-17.2%</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>셀트리온</td>
-      <td>2,982억원</td>
-      <td>-1.2%</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>거래대금 상위 10종목이 전부 하락 마감했을 만큼, 대형주 전반이 골고루 흔들린 하루였습니다.</p>
-
-<h2 id="오늘-뜬-테마는">오늘 뜬 테마는?</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>순위</th>
-      <th>테마명</th>
-      <th>상승 종목 수 / 전체 종목 수</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>AI 챗봇(챗GPT 등)</td>
-      <td>5 / 31</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>음성인식</td>
-      <td>3 / 11</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>지능형로봇/인공지능(AI)</td>
-      <td>9 / 66</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>CCTV＆DVR</td>
-      <td>1 / 7</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>클라우드 컴퓨팅</td>
-      <td>2 / 35</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>블록체인</td>
-      <td>1 / 23</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>전체 종목 수 대비 상승 종목 수가 눈에 띄게 적습니다. 시장 전체가 약세였던 만큼 테마 내에서도 오른 종목보다 내린 종목이 훨씬 많았던 하루예요.</p>
-
-<h2 id="왜-이렇게-급락했을까--오늘의-핵심-뉴스">왜 이렇게 급락했을까 — 오늘의 핵심 뉴스</h2>
-
-<ul>
-  <li>중국 CXMT(창신메모리)가 상장 첫날 중국 본토 시가총액 1위에 오르며 메모리 반도체 경쟁 심화 우려가 커졌습니다. 이 여파로 네덜란드 ASML이 -8%, SK하이닉스 미국예탁증서(ADR)가 -7.5% 급락했어요.</li>
-  <li>반대로 미국과 이란의 협상이 진전되며 중동 긴장이 완화됐고, 국제유가(WTI)는 하루 만에 <strong>-8.2%</strong> 급락한 81.98달러를 기록했습니다.</li>
-  <li>애플이 시가총액 1위 자리를 다시 찾았고, 네이버는 엔비디아·브룩필드와 AI 인프라 투자 소식이 전해졌습니다. 다만 시장 전체가 크게 흔들린 날이라 네이버 역시 오늘 종가 기준으로는 하락 마감했습니다.</li>
-  <li>SK하이닉스 ADR은 내일(29일)부터 본주 전환이 시작되는데, 프리미엄이 최대 52%에 달해 시장의 관심이 쏠리고 있습니다.</li>
-</ul>
-
-<p>오늘 아침 브리핑에서는 신중한 진입(비중 70% 이하)을 권고하며 반도체를 제외한 AI 서비스·로봇·정유 테마를 주목하자는 전략이 제시됐었는데, 실제로는 반도체 충격이 시장 전체로 번지며 예상보다 훨씬 큰 폭의 조정이 나온 하루였습니다.</p>
-
-<h2 id="오늘의-종가베팅-선별-결과">오늘의 종가베팅 선별 결과</h2>
-
-<p>오늘 AI가 매긴 베팅 등급은 <strong>RED</strong>입니다. “코스피 -10.81%, 코스닥 -8.74% 극단적인 하락 — 오늘은 무포지션이 정답입니다”라는 판단이 내려지면서, 오늘은 새로 선별된 종목이 하나도 없었습니다. 종가베팅에서는 이렇게 ‘아무것도 하지 않는 것’도 하나의 중요한 전략입니다.</p>
-
-<h2 id="선별-복기--맞은-날도-틀린-날도-있는-그대로">선별 복기 — 맞은 날도, 틀린 날도 있는 그대로</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>구분</th>
-      <th>갭 %</th>
-      <th>세션 내 최고 %</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>삼성에스디에스</td>
-      <td>①실현 (어제 선별 → 오늘 아침)</td>
-      <td><strong>-6.21%</strong></td>
-      <td>-1.38%</td>
-    </tr>
-    <tr>
-      <td>삼성에스디에스</td>
-      <td>②잠정 (오늘 선별 → 애프터마켓, 미확정)</td>
-      <td><strong>-0.10%</strong></td>
-      <td>+0.30%</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>어제 선별했던 삼성에스디에스는 오늘 아침 실제로는 <strong>-6.21%</strong> 갭으로 열렸고, 장중 최고점도 -1.38%에 그쳐 아쉬운 결과로 마무리됐습니다. ②번 잠정 수치는 오늘 애프터마켓 기준으로, 아직 확정된 결과가 아니라 내일 아침 실제 갭을 봐야 최종 결과를 알 수 있어요. 매일 맞을 수는 없고, 이렇게 틀리는 날도 있는 그대로 전해드리는 게 저희 원칙입니다.</p>
-
-<h2 id="그래서-저는-무엇을-했나--삼성에스디에스-재매수-관점">그래서 저는 무엇을 했나 — 삼성에스디에스 재매수 관점</h2>
-
-<p>알고리즘은 오늘 새 종목을 뽑지 않았습니다. 그래서 저는 <strong>어제 선별됐던 삼성에스디에스(018260)를 오늘 다시 담았습니다.</strong> 새로운 종목을 발굴한 게 아니라, 너무 많이 빠진 자리에서 기술적 반등을 노린 진입입니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>항목</th>
-      <th>내용</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>종목</td>
-      <td>삼성에스디에스 (018260)</td>
-    </tr>
-    <tr>
-      <td>매수 단가</td>
-      <td><strong>198,804원</strong></td>
-    </tr>
-    <tr>
-      <td>수량</td>
-      <td>23주 (약 457만원)</td>
-    </tr>
-    <tr>
-      <td>당일 종가</td>
-      <td>200,500원 (<strong>-7.82%</strong>)</td>
-    </tr>
-    <tr>
-      <td>당일 고가 / 저가</td>
-      <td>215,500원 / 198,600원</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>정규장 종가보다 약 0.9% 낮은, 당일 저가 부근에서 애프터마켓으로 들어갔습니다.</p>
-
-<h3 id="-기관은-오늘도-샀습니다--판-건-외국인과-개인이었어요">① 기관은 오늘도 샀습니다 — 판 건 외국인과 개인이었어요</h3>
-
-<p>오늘 삼성에스디에스의 투자자별 순매수입니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>투자자</th>
-      <th>순매수</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>기관 합계</strong></td>
-      <td><strong>+174억원</strong></td>
-    </tr>
-    <tr>
-      <td>├ 연기금 등</td>
-      <td>+90억원</td>
-    </tr>
-    <tr>
-      <td>├ 투신</td>
-      <td>+46억원</td>
-    </tr>
-    <tr>
-      <td>├ 금융투자</td>
-      <td>+33억원</td>
-    </tr>
-    <tr>
-      <td>└ 보험</td>
-      <td>+6억원</td>
-    </tr>
-    <tr>
-      <td>외국인</td>
-      <td>-46억원</td>
-    </tr>
-    <tr>
-      <td>개인</td>
-      <td>-123억원</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>-7.8% 급락한 날인데 <strong>기관은 174억원을 순매수</strong>했습니다. 연기금·투신·금융투자가 고르게 담았고, 판 쪽은 외국인(-46억원)과 개인(-123억원)이었어요. 기관 순매수는 7월 20일부터 <strong>7거래일 연속</strong>입니다. 급락일에 장기 성격의 자금이 물량을 받아간다는 건, 적어도 ‘기관까지 같이 던지는’ 투매와는 성격이 다릅니다.</p>
-
-<h3 id="-지수보다-덜-빠졌습니다">② 지수보다 덜 빠졌습니다</h3>
-
-<p>오늘 코스피는 -10.84%였는데 삼성에스디에스는 -7.82%였습니다. 3%p가량 덜 빠진 셈이에요. 거래대금도 647억원으로 어제(1,172억원)보다 오히려 줄었습니다. 개별 종목에서 투매가 터진 게 아니라, 시장 전체 하락에 같이 끌려 내려온 쪽에 가깝다고 봤습니다.</p>
-
-<h3 id="-이격은-벌어졌고-과열은-식었습니다">③ 이격은 벌어졌고, 과열은 식었습니다</h3>
-
-<ul>
-  <li><strong>60일 이동평균선 약 211,600원</strong> → 종가는 여기서 <strong>-5.3% 아래</strong></li>
-  <li><strong>RSI 48.7</strong> — 지난주 급등 구간의 과열이 하루 만에 중립까지 내려왔습니다</li>
-  <li><strong>공매도 비중 21.2%</strong> — 반등이 나오면 숏커버 물량이 붙을 여지가 있습니다</li>
-</ul>
-
-<p>7월 23일 +11.2%까지 나왔던 자리에서 이틀 만에 60일선 아래로 밀려난 상태입니다. 추세를 따라가는 매수 자리는 분명히 아니지만, <strong>되돌림 폭이 과했다고 보고 반등 구간을 노린 진입</strong>이었습니다.</p>
-
-<h3 id="알고리즘-판정은-반대였습니다">알고리즘 판정은 반대였습니다</h3>
-
-<p>솔직하게 적어두면, 오늘 AI 판정은 <strong>SKIP(-5점)</strong> 이었습니다.</p>
-
-<ul>
-  <li>15분봉 60선(205,551원) 이탈 — 추세 매수 조건 미달</li>
-  <li>호가창 B등급 — 큰손 참여 신호 부족</li>
-  <li>시황 RED — 오버나이트로 들고 갈 근거 부재</li>
-</ul>
-
-<p>즉 <strong>알고리즘의 종가베팅 기준으로는 탈락한 자리</strong>에, 사람이 다른 근거(기관 수급 + 이격 + 숏커버)로 들어간 것입니다. 종가베팅이 노리는 ‘내일 시초가 갭상승’과 오늘 제가 노린 ‘기술적 반등’은 성격이 다른 베팅이라는 점을 분명히 해두고 싶습니다.</p>
-
-<h3 id="리스크도-그대로-적습니다">리스크도 그대로 적습니다</h3>
-
-<ul>
-  <li>60일선·120일선을 모두 아래로 이탈한 상태 — <strong>추세가 꺾였을 가능성</strong>을 배제할 수 없습니다</li>
-  <li>외국인은 어제 -391억원, 오늘 -46억원으로 <strong>이틀 연속 순매도</strong> 중입니다</li>
-  <li>CXMT 이슈는 단순 변동성이 아니라 업종 경쟁력 우려라, 하루 이틀에 정리될 재료가 아닙니다</li>
-  <li>반등이 아니라 추가 하락으로 이어지면 손절 대응이 필요한 자리입니다</li>
-</ul>
-
-<p>맞았는지 틀렸는지는 내일 아침 결과로 그대로 공유드리겠습니다.</p>
-
-<h2 id="오늘-하루를-돌아보며">오늘 하루를 돌아보며</h2>
-
-<p>제가 오늘 흐름에서 주목한 건, 반도체 하나의 뉴스가 시장 전체를 얼마나 크게 흔들 수 있는지였습니다. 유가 급락이라는 우호적인 소식이 동시에 나왔음에도 지수는 두 자릿수 하락을 피하지 못했죠. 이런 날 무리하게 자리를 만들지 않는 것도 종가베팅 전략의 일부라는 걸 다시 확인한 하루였습니다.</p>
-
-<h2 id="마무리">마무리</h2>
-
-<p>시장은 매일 이기는 게임이 아니라 잃지 않는 날을 쌓아가는 게임이라는 말이 있죠. 오늘 같은 급락장에서는 쉬어가는 것도 하나의 실력입니다. 오늘 시장, 어떻게 보고 계셨나요? 댓글로 의견 나눠주세요 💬</p>
-
-<p>#NextTheme #종가베팅 #코스피급락 #반도체쇼크 #SK하이닉스 #삼성전자 #CXMT #유가급락 #코스닥 #삼성에스디에스 #기술적반등 #기관수급</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[오늘 시장은 정말 힘든 하루였습니다 📉 코스피가 하루 만에 -10.8%, 코스닥은 -7.7% 급락하며 많은 투자자분들의 마음을 무겁게 만든 날이었어요. 중국 반도체 기업의 상장 소식이 국내 반도체주 전반을 강타한 하루였습니다.]]></summary></entry></feed>
+<p>#종목분석 #삼성에스디에스 #수급분석 #018260 #AI테마 #테마주 #NextTheme #기술주분석</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[📊 분석 시점: 2026년 7월 28일 21:43]]></summary></entry></feed>
