@@ -1,4 +1,103 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-30T21:02:42+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">패닉장 속 조선주만 웃었다 — 2026년 7월 30일 하루 마감 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/30/daily/" rel="alternate" type="text/html" title="패닉장 속 조선주만 웃었다 — 2026년 7월 30일 하루 마감 정리" /><published>2026-07-30T21:00:00+09:00</published><updated>2026-07-30T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/30/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/30/daily/"><![CDATA[<p>오늘 코스피와 코스닥이 나란히 크게 흔들린 하루였습니다. 미국발 악재가 밤사이 쌓이더니 장중 한때 국내 증시가 크게 출렁였고, 그 와중에도 자금이 몰린 곳은 분명했습니다. 바로 조선·정유 테마입니다. 😮</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-07-31T06:06:10+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">반도체 강세로 나스닥 +2.78%, 국내 규제·환율·금리 변수로 신중 접근</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/31/0600-briefing/" rel="alternate" type="text/html" title="반도체 강세로 나스닥 +2.78%, 국내 규제·환율·금리 변수로 신중 접근" /><published>2026-07-31T06:00:00+09:00</published><updated>2026-07-31T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/31/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/31/0600-briefing/"><![CDATA[<p>미국 야간 반도체주 강세(나스닥 +2.78%)가 기술적 공포를 완화했지만, 국내는 오늘 레버리지 ETF 규제 시행과 일본 금리 결정(12:00)이 변수인 신중한 아침입니다. 이벤트 통과까지 방어적인 자세가 필요합니다.</p>
+
+<h2 id="-어제-ai-선별-복기-신중-전략">📋 어제 AI 선별 복기 (신중 전략)</h2>
+
+<p><strong>어제 전체 평가</strong>: 신중한 접근을 유지했습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>슬롯</th>
+      <th>어제 전략</th>
+      <th>오늘 계획</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>한화오션</td>
+      <td>FINAL</td>
+      <td>갭 트레이드</td>
+      <td>갭상승 시 시초가 1/2 청산, 78,100원 이탈 시 나머지 손절</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>한화오션은 어제 15:10 최종 선별에서 선택되어 매수되었고, 오늘 아침 현재도 <strong>✅ 보유 중</strong>입니다.</p>
+
+<p><strong>저녁 애프터마켓 흐름</strong>: 15:40~19:59 동안 평단(78,634원) 기준으로 최고 <strong>+1.61%</strong> 상승했으나, 최저는 <strong>-0.42%</strong> 까지 내려가며 변동성이 나타났습니다.</p>
+
+<p>⚠️ <strong>오늘의 리스크</strong>:</p>
+<ul>
+  <li>레버리지 ETF 기본예탁금 규제 시행으로 조선 테마 내 ETF 청산 압력 가능</li>
+  <li>일본 금리 결정 서프라이즈 시 환율 급변동</li>
+</ul>
+
+<p>계획된 분할 청산 전략(갭상승 시 시초가 1/2 정리 + 78,100원 이탈 시 손절)을 반드시 실행해야 할 상황입니다.</p>
+
+<h2 id="미국-시장-브리핑">미국 시장 브리핑</h2>
+
+<p>어제 밤 미국 시장은 적극적인 반등을 보였습니다:</p>
+<ul>
+  <li><strong>다우</strong>: +1.19%</li>
+  <li><strong>S&amp;P500</strong>: +1.66%</li>
+  <li><strong>나스닥</strong>: +2.78% (강세)</li>
+</ul>
+
+<p>반도체주가 주도했습니다. MS 호실적과 SK하이닉스 ADR이 18% 급등하며 클라우드 수요 회복 신호를 보냈습니다. 아마존 AWS도 37% 성장률을 기록해 기술주 강세를 뒷받침했습니다. 최태원 회장의 SK하이닉스 48억원 장내 매수는 기업 경영진의 신뢰 메시지로 해석됩니다. 6거래일의 기술적 공포가 일부 해소되는 신호입니다.</p>
+
+<h2 id="오늘의-베팅-등급--전략">오늘의 베팅 등급 &amp; 전략</h2>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>등급: YELLOW (신중/조심)</strong></td>
+      <td>감정점수 40점</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>오늘은 변수가 많은 날입니다:</p>
+
+<ol>
+  <li><strong>레버리지 ETF 규제 시행</strong> — 3000만원 기본예탁금 상향으로 조선 테마 내 ETF 청산 압력 가능</li>
+  <li><strong>일본 금리 결정</strong> (12:00) — 엔저 환율에 영향, 서프라이즈 시 원/달러 급변동</li>
+  <li><strong>테마 흐름</strong> — 조선·정유 등 고유가·방산 수혜주는 전일 강세 지속 가능이나 전체 시장은 신중</li>
+</ol>
+
+<p><strong>추천 대응</strong>:</p>
+<ul>
+  <li><strong>보유 종목</strong>: 갭상승 시 분할 청산 원칙 유지 (무조건 들고 있지 말 것)</li>
+  <li><strong>신규 진입</strong>: 일본 금리 결정 통과 후 시장 반응 확인 후 70% 이하 비중으로 신중 접근</li>
+  <li><strong>테마 선택</strong>: 조선·정유 강세는 매력적이나 추격보다 눌림 대기가 현명합니다</li>
+</ul>
+
+<h2 id="주목할-변수">주목할 변수</h2>
+
+<p><strong>긍정 신호</strong>:</p>
+<ul>
+  <li>미국 반도체주 강세로 기술주 매매 심리 개선</li>
+  <li>MS·SK하이닉스·아마존 등 대형주 호실적 확인으로 경기 신뢰도 상승</li>
+</ul>
+
+<p><strong>리스크 요소</strong>:</p>
+<ul>
+  <li>레버리지 ETF 규제 시행으로 추가 매도 압력 가능 (특히 조선 테마)</li>
+  <li>일본 금리 결정에 따른 엔저/원화 급변동 (환율 리스크)</li>
+  <li>국내 변동성 확대 가능성</li>
+</ul>
+
+<h2 id="결론--cta">결론 + CTA</h2>
+
+<p>오늘은 미국의 반도체주 강세가 긍정 에너지를 주지만, 국내의 규제 시행과 해외 금리 결정이 브레이크 역할을 할 수 있는 날입니다.</p>
+
+<p><strong>보유 중인 한화오션</strong> 같은 조선주는 갭상승 기회를 활용해 계획된 분할 청산을 반드시 실행하세요. 신규 진입은 이벤트 통과 후 시장 반응을 충분히 지켜본 다음 신중하게 접근하는 것을 권합니다.</p>
+
+<p>오늘 시장을 어떻게 보실지, 혹은 보유 중인 종목 대응에 대한 의견을 댓글로 남겨주세요. 내일도 함께 시장을 읽어보겠습니다.</p>
+
+<hr />
+
+<p>#반도체 #조선 #나스닥강세 #레버리지규제 #환율 #기술주 #갭상승 #종가베팅 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[미국 야간 반도체주 강세(나스닥 +2.78%)가 기술적 공포를 완화했지만, 국내는 오늘 레버리지 ETF 규제 시행과 일본 금리 결정(12:00)이 변수인 신중한 아침입니다. 이벤트 통과까지 방어적인 자세가 필요합니다.]]></summary></entry><entry><title type="html">패닉장 속 조선주만 웃었다 — 2026년 7월 30일 하루 마감 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/30/daily/" rel="alternate" type="text/html" title="패닉장 속 조선주만 웃었다 — 2026년 7월 30일 하루 마감 정리" /><published>2026-07-30T21:00:00+09:00</published><updated>2026-07-30T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/30/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/30/daily/"><![CDATA[<p>오늘 코스피와 코스닥이 나란히 크게 흔들린 하루였습니다. 미국발 악재가 밤사이 쌓이더니 장중 한때 국내 증시가 크게 출렁였고, 그 와중에도 자금이 몰린 곳은 분명했습니다. 바로 조선·정유 테마입니다. 😮</p>
 
 <h2 id="밤사이-미국-시장은-어땠을까">밤사이 미국 시장은 어땠을까?</h2>
 
@@ -1822,109 +1921,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가베팅 #복기일지 #20260728 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-07-29 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">코스피 역대급 폭락, 오늘은 FOMC 이전 관망 — 중국·반도체 변수</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/29/0600-briefing/" rel="alternate" type="text/html" title="코스피 역대급 폭락, 오늘은 FOMC 이전 관망 — 중국·반도체 변수" /><published>2026-07-29T06:00:00+09:00</published><updated>2026-07-29T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/29/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/29/0600-briefing/"><![CDATA[<h2 id="도입부--어제는-어떤-하루였나">도입부 — 어제는 어떤 하루였나?</h2>
-
-<p>어제 코스피가 <strong>-10.84%</strong>라는 역대급 낙폭을 기록하며 <strong>6000선이 붕괴</strong>되었습니다. 서킷브레이커까지 발동된 이 장세에서, 외국인이 <strong>5조원대 규모</strong>로 한 번에 이탈했습니다.</p>
-
-<p>오늘 아침 분위기는 매우 무거울 수밖에 없습니다. 투자심리를 나타내는 감정점수는 <strong>25점</strong>(0~100 중 극저점)이며, 베팅 등급은 <strong>RED(무포지션 권고)</strong>입니다.</p>
-
-<hr />
-
-<h2 id="미국-시장-브리핑--나스닥은-이미-흔들렸다">미국 시장 브리핑 — 나스닥은 이미 흔들렸다</h2>
-
-<p>어제 미국 시장은 혼조를 보였습니다.</p>
-<ul>
-  <li><strong>다우지수</strong>: +1.03%(소폭 상승)</li>
-  <li><strong>S&amp;P500</strong>: +0.21%(거의 보합)</li>
-  <li><strong>나스닥</strong>: -0.22%(약세)</li>
-</ul>
-
-<p>겉으로는 선방한 것처럼 보이지만, <strong>필라델피아 반도체지수가 -4.49%</strong>로 큰 낙폭을 기록한 것이 핵심입니다. 이는 한국의 반도체 기업들에 직결되었습니다. <strong>SK하이닉스 ADR이 -9%</strong>를 기록한 것도 이 때문입니다.</p>
-
-<hr />
-
-<h2 id="오늘의-베팅-등급--전략--관망-또는-최소-진입만">오늘의 베팅 등급 &amp; 전략 — 관망 또는 최소 진입만</h2>
-
-<p><strong>오늘 베팅 등급: RED(적색 경보)</strong></p>
-
-<p><strong>AI 전략:</strong></p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>관망 또는 30% 이하 최소 진입만 검토
-</code></pre></div></div>
-
-<p>현재 상황을 정리하면:</p>
-<ul>
-  <li>전일 외국인 대규모 이탈 지속</li>
-  <li>내일 새벽 <strong>FOMC 금리 결정</strong> + <strong>GDP</strong> + <strong>PCE</strong> 동시 발표 리스크 집중</li>
-  <li>반도체 섹터 약세 지속 가능성</li>
-</ul>
-
-<p>이 상황에서 오늘 무리하게 진입했다가 내일 뉉스에 휘청이기 쉽습니다.</p>
-
-<hr />
-
-<h2 id="주목할-변수들">주목할 변수들</h2>
-
-<h3 id="-중국-cxmt-상장-충격">📍 중국 CXMT 상장 충격</h3>
-<p>중국 D램 업체 <strong>CXMT가 상장 첫날 주가 +466% 급등</strong>했으며 중국 시총 <strong>1위 기업</strong>이 되었습니다. 이는 반도체 산업 구도에 근본적인 변화를 알리는 신호입니다. 가격 경쟁 심화 우려가 기존 반도체 기업들에게 큰 부담으로 작용 중입니다.</p>
-
-<h3 id="-엔비디아-ai-투자-회의론">📍 엔비디아 AI 투자 회의론</h3>
-<p>미국에서 <strong>엔비디아의 거대 AI 투자가 실제 반사익으로 이어질지 우려</strong>하는 목소리가 커지면서, 반도체 섹터 전반에 투매 압력이 가해졌습니다. “돈 쓰는 것만 보이고 이득은 불투명하다”는 심리입니다.</p>
-
-<h3 id="-레버리지-etf-대폭락-우려">📍 레버리지 ETF 대폭락 우려</h3>
-<p>국내 레버리지 ETF가 <strong>-22~28% 폭락</strong>하는 과정에서 <strong>강제 정산 압박</strong>이 발생할 가능성이 높습니다. 이는 추가 낙폭으로 연결될 수 있는 위험 요소입니다.</p>
-
-<h3 id="-유가-급락은-일부-회복-요인">📍 유가 급락은 일부 회복 요인</h3>
-<p>다만 <strong>유가가 -3.39달러 급락</strong>한 것은 긍정 신호입니다. 에너지·운송비 부담 완화로 인플레이션 우려를 약간 상쇄할 수 있기 때문입니다.</p>
-
-<hr />
-
-<h2 id="오늘과-내일의-일정">오늘과 내일의 일정</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>구분</th>
-      <th>내용</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>오늘(7/29)</strong></td>
-      <td>SK하이닉스 2분기 실적 발표</td>
-    </tr>
-    <tr>
-      <td><strong>내일(7/30) 새벽</strong></td>
-      <td>FOMC 금리 결정 발표</td>
-    </tr>
-    <tr>
-      <td><strong>내일 새벽</strong></td>
-      <td>연방공개시장위원회 기자회견</td>
-    </tr>
-    <tr>
-      <td><strong>내일 새벽</strong></td>
-      <td>미국 2분기 GDP 발표</td>
-    </tr>
-    <tr>
-      <td><strong>내일 새벽</strong></td>
-      <td>7월 PCE 물가지수 발표</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>내일 새벽 이 <strong>네 가지가 동시에 쏟아지</strong>는 만큼, 변동성이 매우 클 것으로 예상됩니다. 이 결과를 먼저 확인한 후 재진입 시점을 판단하는 것이 현명합니다.</p>
-
-<hr />
-
-<h2 id="결론--오늘은-기다림의-가치">결론 — 오늘은 기다림의 가치</h2>
-
-<p>어제의 역대급 폭락은 단순한 기술적 조정을 넘어 <strong>심리적·구조적 리셋</strong>의 신호입니다.</p>
-
-<p>중국 D램 경쟁 심화와 미국 금리 불확실성이라는 이중 악재 속에서, 서둘러 진입했다가는 손실을 키우기 쉽습니다. <strong>오늘은 전략적으로 관망하고, 내일 FOMC 결과와 SK하이닉스 실적 반응을 보며 재진입 시점을 찾는 것을 권장합니다.</strong></p>
-
-<p>반도체 섹터가 추가 조정을 받을 가능성이 있으므로, 서두르지 말고 신호를 기다리세요.</p>
-
-<hr />
-
-<p>오늘 시장을 어떻게 보시는지 <strong>댓글로 의견을 나눠주세요</strong>. 또한 <strong>이웃 추가하시면 매일 아침 종가베팅 분석을 받아보실 수 있습니다</strong>.</p>
-
-<p>#코스피 #폭락 #FOMC #반도체 #종가베팅 #NextTheme #SK하이닉스 #관망 #중국 #ETF</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[도입부 — 어제는 어떤 하루였나?]]></summary></entry></feed>
+<p>#종가베팅 #복기일지 #20260728 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-07-29 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
