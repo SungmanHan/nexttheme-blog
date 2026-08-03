@@ -1,4 +1,206 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-03T20:06:27+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 5% 급락한 날, 로봇주 혼자 웃었다 — 에스피지가 눈에 띈 이유</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/03/nt2-1505-snapshot/" rel="alternate" type="text/html" title="코스피 5% 급락한 날, 로봇주 혼자 웃었다 — 에스피지가 눈에 띈 이유" /><published>2026-08-03T15:05:00+09:00</published><updated>2026-08-03T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/03/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/03/nt2-1505-snapshot/"><![CDATA[<p>오늘 증시, 정말 정신없는 하루였습니다. 😮‍💨 코스피가 <strong>5% 넘게 급락</strong>하면서 계좌 빨간불에 마음 졸이신 분들 많으셨을 텐데요. 그런데 같은 날 코스닥에서는 로봇·AI 관련 종목으로 돈이 몰리며 정반대 분위기가 펼쳐졌습니다. 오늘은 이 “급락장 속 나 홀로 강세” 흐름과, 그 중심에 있었던 종목 하나를 데이터로 짚어보겠습니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-03T21:03:11+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 급락 -5.12% 속 로봇·AI 테마 독주 — 오늘의 하루 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/03/daily/" rel="alternate" type="text/html" title="코스피 급락 -5.12% 속 로봇·AI 테마 독주 — 오늘의 하루 정리" /><published>2026-08-03T21:00:00+09:00</published><updated>2026-08-03T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/03/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/03/daily/"><![CDATA[<p>오늘은 급락의 하루였습니다. 코스피는 <strong>-5.12%</strong>로 차익실현에 흔들렸지만, 로봇·AI 테마 쏠림으로 코스닥은 <strong>+2.44%</strong>로 오르며 대조를 이뤘습니다. 미국(다우 +0.53%, S&amp;P500 +0.70%, 나스닥 +1.00%)의 소폭 상승에도 불구하고, 한국 시장은 어제 사상 최대 폭등(+6.36%)에 따른 통상의 수익 매물이 터져 나왔습니다.</p>
+
+<h2 id="미국-야간-시장--펀더멘털">미국 야간 시장 &amp; 펀더멘털</h2>
+
+<p>미국 3대 지수는 소폭 상승했지만 반도체 지표인 필라델피아 지수는 <strong>-3.45%</strong>로 하락했습니다. 금리 전망 혼조 속에서 특정 섹터 쏠림이 심화하는 구조입니다. 한편, 외국인 순매수는 <strong>8.8조원</strong> 규모로 여전히 긍정적이며, 한국의 반도체 수출이 <strong>448억 달러</strong>(+199.5%, 사상 최대)를 경신하고 무역흑자가 <strong>362억 달러</strong>를 넘으면서 펀더멘털 뒷받침은 남아있습니다.</p>
+
+<h2 id="코스피코스닥-흐름">코스피·코스닥 흐름</h2>
+
+<p>코스피는 <strong>6,257.45</strong>(-5.12%)로 급락했습니다. 어제의 극단적 폭등(6,595.45에서 시작해 6시 이내 상승)에서 한숨을 돌리는 국면입니다. 최근 흐름을 보면 7월 15일 7,284.41에서 시작한 지수가 7월 28~30일 사이 5,593~5,663으로 내려섰다가 어제 급반등한 후 오늘 부분 조정된 모습입니다.</p>
+
+<p>코스닥은 <strong>737.35</strong>(+2.44%)로 인상적입니다. 로봇·AI 테마의 약진이 소형주 지수를 받쳐주고 있습니다. 환율은 <strong>1,427.6원/달러</strong>로 원화 강세 진행 중입니다.</p>
+
+<h2 id="거래대금-상위--반도체-약세-로봇-강세-양극단">거래대금 상위 — 반도체 약세, 로봇 강세 양극단</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>순위</th>
+      <th>종목명</th>
+      <th>거래대금</th>
+      <th>등락률</th>
+      <th>거래량</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>SK하이닉스</td>
+      <td><strong>1.15조원</strong></td>
+      <td>-8.85%</td>
+      <td>719만 주</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>삼성전자</td>
+      <td><strong>1.00조원</strong></td>
+      <td>-8.76%</td>
+      <td>4,115만 주</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>삼성전기</td>
+      <td><strong>251억원</strong></td>
+      <td>+2.28%</td>
+      <td>210만 주</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>SK스퀘어</td>
+      <td><strong>107억원</strong></td>
+      <td>-2.41%</td>
+      <td>105만 주</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>에스피지</td>
+      <td><strong>71억원</strong></td>
+      <td>+13.64%</td>
+      <td>678만 주</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>어제의 사상 최대 폭등 이후 반도체 대형주(SK하이닉스, 삼성전자)가 수익 매물에 눌렸습니다. 반면 로봇·협동로봇 대표주인 <strong>에스피지</strong>가 거래대금 상위권에서 <strong>+13.64%</strong> 상승하며 테마 강세를 확인시켰습니다.</p>
+
+<h2 id="테마-분석--로봇ai-독주">테마 분석 — 로봇·AI 독주</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>순위</th>
+      <th>테마명</th>
+      <th>상승종목/전체</th>
+      <th>상승률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>로봇(산업용/협동로봇 등)</td>
+      <td>63/71</td>
+      <td>88.7%</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>피지컬 AI/휴머노이드 로봇</td>
+      <td>33/43</td>
+      <td>76.7%</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>제습기</td>
+      <td>5/8</td>
+      <td>62.5%</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>비만치료제</td>
+      <td>26/35</td>
+      <td>74.3%</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>지능형로봇/인공지능(AI)</td>
+      <td>48/65</td>
+      <td>73.8%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>오늘 시장의 가장 주목할 점은 로봇·AI 테마의 <strong>88.7%</strong>(63/71종목)가 상승했다는 것입니다. 코스피 급락 속에서도 이 테마만 따로 국면을 형성했습니다.</p>
+
+<h2 id="종가-선별--에스피지-단일-종목">종가 선별 — 에스피지 단일 종목</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목명</th>
+      <th>점수</th>
+      <th>선별 근거</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>에스피지</strong></td>
+      <td><strong>42점</strong></td>
+      <td>미국이 중국산 로봇 수입을 사실상 제한하고, 삼성전자가 로봇 사업 강화 추진하면서 로봇 대표주로 부상. 아침부터 마감까지 거래대금이 계속 불어난 종목 — 못 산 투자자가 내일 시초가에 밀려 몰릴 가능성.</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>오늘의 AI 종가 선별은 <strong>에스피지</strong>(058610) 1건이었습니다. 급락장 속에서 로봇 테마 쏠림을 정확히 포착했습니다. 상세 지표로는 RSI <strong>63.7</strong>(과열 진입 전), RVOL <strong>4.9배</strong>(높은 관심도), 기관 순매수 <strong>9만 주</strong>, 외인 매수 없음. 52주 신고가 아님, 시총 <strong>2.4조원</strong>.</p>
+
+<h2 id="선별-복기--어제-아침-실현-vs-오늘-애프터마켓-잠정">선별 복기 — 어제 아침 실현 vs 오늘 애프터마켓 잠정</h2>
+
+<h3 id="-어제-선별의-오늘-아침-실현-갭">📊 어제 선별의 오늘 아침 실현 갭</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목명</th>
+      <th>실현 갭 %</th>
+      <th>세션내 최고 %</th>
+      <th>세션내 최저 %</th>
+      <th>구간</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>삼성전기</strong></td>
+      <td><strong>+9.81%</strong> ✓</td>
+      <td>+9.81%</td>
+      <td>-1.58%</td>
+      <td>08:00~09:59</td>
+    </tr>
+    <tr>
+      <td><strong>SK하이닉스</strong></td>
+      <td><strong>-5.41%</strong> ✗</td>
+      <td>-1.57%</td>
+      <td>-8.91%</td>
+      <td>08:00~09:59</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>어제 선별된 두 종목의 운명이 갈렸습니다. <strong>삼성전기</strong>는 진입가 1,142,000원 대비 아침 한두 시간 만에 <strong>+9.81%</strong>를 실현했습니다. 반면 <strong>SK하이닉스</strong>(진입가 1,718,000원)는 아침 개장 직후부터 밀리기 시작해 <strong>-5.41%</strong> 손실로 청산됐습니다. 이는 어제 폭등장에서 반도체와 로봇의 방향성이 이미 갈라지고 있었음을 보여줍니다.</p>
+
+<h3 id="-오늘-선별의-애프터마켓-잠정-흐름">📌 오늘 선별의 애프터마켓 잠정 흐름</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목명</th>
+      <th>잠정 갭 %</th>
+      <th>세션내 최고 %</th>
+      <th>세션내 최저 %</th>
+      <th>구간</th>
+      <th>상태</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>에스피지</strong></td>
+      <td><strong>-2.51%</strong></td>
+      <td>+0.93%</td>
+      <td>-3.35%</td>
+      <td>15:40~19:59</td>
+      <td>확정 대기</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>오늘 선별된 <strong>에스피지</strong>(진입가 107,500원)는 장 마감 후(15:40) 저녁 시간대에 진입가 대비 <strong>-2.51%</strong> 약세로 마감했습니다. 진입가 대비 최고는 <strong>+0.93%</strong>, 최저는 <strong>-3.35%</strong>로, 저녁 4시간 20분간(15:40~19:59) 소폭 밀림세였습니다. 실현 여부는 내일 아침 개장(09:00)에 결정됩니다.</p>
+
+<h2 id="전체-요약">전체 요약</h2>
+
+<p>오늘은 <strong>급락 속 로봇 테마 독주</strong>의 하루였습니다. 코스피 -5.12% 약세와 반도체 대형주 수익 매물에도 불구하고, 로봇·AI 테마는 무려 88.7% 이상이 상승하며 따로 국면을 형성했습니다. 어제 아침 실현에서는 <strong>삼성전기 +9.81%</strong> 수익, <strong>SK하이닉스 -5.41%</strong> 손실로 엇갈렸고, 오늘 선별된 <strong>에스피지</strong>는 저녁 시간 소폭 약세로 내일 아침 판정을 기다리고 있습니다.</p>
+
+<h2 id="마무리">마무리</h2>
+
+<p>내일(8월 4일)은 <strong>한국 CPI 발표일</strong>입니다. 오늘 5% 급락 후 기술적 반등 욕구와 로봇 테마 쏠림의 지속성이 주요 변수입니다. 댓글로 의견 나눠주세요 — 내일 시초가의 방향성을 함께 짚어봅시다.</p>
+
+<p>#로봇 #AI #에스피지 #코스피 #코스닥 #반도체 #종가베팅 #NextTheme #시황분석 #당일복기</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[오늘은 급락의 하루였습니다. 코스피는 -5.12%로 차익실현에 흔들렸지만, 로봇·AI 테마 쏠림으로 코스닥은 +2.44%로 오르며 대조를 이뤘습니다. 미국(다우 +0.53%, S&amp;P500 +0.70%, 나스닥 +1.00%)의 소폭 상승에도 불구하고, 한국 시장은 어제 사상 최대 폭등(+6.36%)에 따른 통상의 수익 매물이 터져 나왔습니다.]]></summary></entry><entry><title type="html">코스피 5% 급락한 날, 로봇주 혼자 웃었다 — 에스피지가 눈에 띈 이유</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/03/nt2-1505-snapshot/" rel="alternate" type="text/html" title="코스피 5% 급락한 날, 로봇주 혼자 웃었다 — 에스피지가 눈에 띈 이유" /><published>2026-08-03T15:05:00+09:00</published><updated>2026-08-03T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/03/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/03/nt2-1505-snapshot/"><![CDATA[<p>오늘 증시, 정말 정신없는 하루였습니다. 😮‍💨 코스피가 <strong>5% 넘게 급락</strong>하면서 계좌 빨간불에 마음 졸이신 분들 많으셨을 텐데요. 그런데 같은 날 코스닥에서는 로봇·AI 관련 종목으로 돈이 몰리며 정반대 분위기가 펼쳐졌습니다. 오늘은 이 “급락장 속 나 홀로 강세” 흐름과, 그 중심에 있었던 종목 하나를 데이터로 짚어보겠습니다.</p>
 
 <h2 id="오늘-시장-무슨-일이-있었나">오늘 시장, 무슨 일이 있었나</h2>
 
@@ -1626,103 +1828,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가베팅 #복기일지 #20260730 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-07-31 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">반도체 강세로 나스닥 +2.78%, 국내 규제·환율·금리 변수로 신중 접근</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/31/0600-briefing/" rel="alternate" type="text/html" title="반도체 강세로 나스닥 +2.78%, 국내 규제·환율·금리 변수로 신중 접근" /><published>2026-07-31T06:00:00+09:00</published><updated>2026-07-31T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/31/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/31/0600-briefing/"><![CDATA[<p>미국 야간 반도체주 강세(나스닥 +2.78%)가 기술적 공포를 완화했지만, 국내는 오늘 레버리지 ETF 규제 시행과 일본 금리 결정(12:00)이 변수인 신중한 아침입니다. 이벤트 통과까지 방어적인 자세가 필요합니다.</p>
-
-<h2 id="-어제-ai-선별-복기-신중-전략">📋 어제 AI 선별 복기 (신중 전략)</h2>
-
-<p><strong>어제 전체 평가</strong>: 신중한 접근을 유지했습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>슬롯</th>
-      <th>어제 전략</th>
-      <th>오늘 계획</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>한화오션</td>
-      <td>FINAL</td>
-      <td>갭 트레이드</td>
-      <td>갭상승 시 시초가 1/2 청산, 78,100원 이탈 시 나머지 손절</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>한화오션은 어제 15:10 최종 선별에서 선택되어 매수되었고, 오늘 아침 현재도 <strong>✅ 보유 중</strong>입니다.</p>
-
-<p><strong>저녁 애프터마켓 흐름</strong>: 15:40~19:59 동안 평단(78,634원) 기준으로 최고 <strong>+1.61%</strong> 상승했으나, 최저는 <strong>-0.42%</strong> 까지 내려가며 변동성이 나타났습니다.</p>
-
-<p>⚠️ <strong>오늘의 리스크</strong>:</p>
-<ul>
-  <li>레버리지 ETF 기본예탁금 규제 시행으로 조선 테마 내 ETF 청산 압력 가능</li>
-  <li>일본 금리 결정 서프라이즈 시 환율 급변동</li>
-</ul>
-
-<p>계획된 분할 청산 전략(갭상승 시 시초가 1/2 정리 + 78,100원 이탈 시 손절)을 반드시 실행해야 할 상황입니다.</p>
-
-<h2 id="미국-시장-브리핑">미국 시장 브리핑</h2>
-
-<p>어제 밤 미국 시장은 적극적인 반등을 보였습니다:</p>
-<ul>
-  <li><strong>다우</strong>: +1.19%</li>
-  <li><strong>S&amp;P500</strong>: +1.66%</li>
-  <li><strong>나스닥</strong>: +2.78% (강세)</li>
-</ul>
-
-<p>반도체주가 주도했습니다. MS 호실적과 SK하이닉스 ADR이 18% 급등하며 클라우드 수요 회복 신호를 보냈습니다. 아마존 AWS도 37% 성장률을 기록해 기술주 강세를 뒷받침했습니다. 최태원 회장의 SK하이닉스 48억원 장내 매수는 기업 경영진의 신뢰 메시지로 해석됩니다. 6거래일의 기술적 공포가 일부 해소되는 신호입니다.</p>
-
-<h2 id="오늘의-베팅-등급--전략">오늘의 베팅 등급 &amp; 전략</h2>
-
-<table>
-  <tbody>
-    <tr>
-      <td><strong>등급: YELLOW (신중/조심)</strong></td>
-      <td>감정점수 40점</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>오늘은 변수가 많은 날입니다:</p>
-
-<ol>
-  <li><strong>레버리지 ETF 규제 시행</strong> — 3000만원 기본예탁금 상향으로 조선 테마 내 ETF 청산 압력 가능</li>
-  <li><strong>일본 금리 결정</strong> (12:00) — 엔저 환율에 영향, 서프라이즈 시 원/달러 급변동</li>
-  <li><strong>테마 흐름</strong> — 조선·정유 등 고유가·방산 수혜주는 전일 강세 지속 가능이나 전체 시장은 신중</li>
-</ol>
-
-<p><strong>추천 대응</strong>:</p>
-<ul>
-  <li><strong>보유 종목</strong>: 갭상승 시 분할 청산 원칙 유지 (무조건 들고 있지 말 것)</li>
-  <li><strong>신규 진입</strong>: 일본 금리 결정 통과 후 시장 반응 확인 후 70% 이하 비중으로 신중 접근</li>
-  <li><strong>테마 선택</strong>: 조선·정유 강세는 매력적이나 추격보다 눌림 대기가 현명합니다</li>
-</ul>
-
-<h2 id="주목할-변수">주목할 변수</h2>
-
-<p><strong>긍정 신호</strong>:</p>
-<ul>
-  <li>미국 반도체주 강세로 기술주 매매 심리 개선</li>
-  <li>MS·SK하이닉스·아마존 등 대형주 호실적 확인으로 경기 신뢰도 상승</li>
-</ul>
-
-<p><strong>리스크 요소</strong>:</p>
-<ul>
-  <li>레버리지 ETF 규제 시행으로 추가 매도 압력 가능 (특히 조선 테마)</li>
-  <li>일본 금리 결정에 따른 엔저/원화 급변동 (환율 리스크)</li>
-  <li>국내 변동성 확대 가능성</li>
-</ul>
-
-<h2 id="결론--cta">결론 + CTA</h2>
-
-<p>오늘은 미국의 반도체주 강세가 긍정 에너지를 주지만, 국내의 규제 시행과 해외 금리 결정이 브레이크 역할을 할 수 있는 날입니다.</p>
-
-<p><strong>보유 중인 한화오션</strong> 같은 조선주는 갭상승 기회를 활용해 계획된 분할 청산을 반드시 실행하세요. 신규 진입은 이벤트 통과 후 시장 반응을 충분히 지켜본 다음 신중하게 접근하는 것을 권합니다.</p>
-
-<p>오늘 시장을 어떻게 보실지, 혹은 보유 중인 종목 대응에 대한 의견을 댓글로 남겨주세요. 내일도 함께 시장을 읽어보겠습니다.</p>
-
-<hr />
-
-<p>#반도체 #조선 #나스닥강세 #레버리지규제 #환율 #기술주 #갭상승 #종가베팅 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[미국 야간 반도체주 강세(나스닥 +2.78%)가 기술적 공포를 완화했지만, 국내는 오늘 레버리지 ETF 규제 시행과 일본 금리 결정(12:00)이 변수인 신중한 아침입니다. 이벤트 통과까지 방어적인 자세가 필요합니다.]]></summary></entry></feed>
+<p>#종가베팅 #복기일지 #20260730 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-07-31 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
