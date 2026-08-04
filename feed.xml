@@ -1,4 +1,151 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-04T10:03:39+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">8/3 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/04/review-20260803-review/" rel="alternate" type="text/html" title="8/3 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-08-04T09:00:00+09:00</published><updated>2026-08-04T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/04/review_20260803-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/04/review-20260803-review/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-04T20:07:27+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스닥 5%대 급등한 날, 네이버·GS건설이 대장주로 뽑힌 이유</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/04/nt2-1505-snapshot/" rel="alternate" type="text/html" title="코스닥 5%대 급등한 날, 네이버·GS건설이 대장주로 뽑힌 이유" /><published>2026-08-04T15:05:00+09:00</published><updated>2026-08-04T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/04/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/04/nt2-1505-snapshot/"><![CDATA[<p>오늘 장 지켜보신 분들이라면 다들 놀라셨을 것 같아요 😲 코스닥이 하루 만에 <strong>+5.7%</strong>나 급등했는데, 정작 코스피는 약세를 보이면서 두 지수가 완전히 엇갈리는 하루였습니다. 이렇게 시장이 갈라지는 날은 어떤 종목에 자금이 실제로 몰리는지 확인하는 게 특히 중요한데요, 오늘 NextTheme 알고리즘이 장 마감 직전 마지막 스크리닝에서 골라낸 종목과 그 근거를 정리해봤습니다.</p>
+
+<h2 id="오늘-시장-한마디로-정리하면">오늘 시장, 한마디로 정리하면</h2>
+
+<p>오늘은 코스닥 시장으로 자금이 크게 쏠린 하루였습니다. AI, 건설, 우주항공 테마 쪽으로 투자자들의 관심이 집중되며 코스닥 지수를 끌어올렸는데요, 반대로 코스피는 약세를 면치 못하면서 시장 전체가 혼조세를 보였습니다. 이런 장세에서는 각 테마를 대표하는 대장주 위주로 자금이 몰리는 경향이 있는데, 오늘도 그런 흐름이 뚜렷했습니다.</p>
+
+<h2 id="오늘-최종-선별된-종목은">오늘 최종 선별된 종목은?</h2>
+
+<h3 id="1-네이버naver--ai-챗봇-테마의-자금-쏠림-1위">1. 네이버(NAVER) — AI 챗봇 테마의 자금 쏠림 1위</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>항목</th>
+      <th>수치</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>기본</td>
+      <td>당일 종가 / 등락률</td>
+      <td><strong>226,500원</strong> / <strong>+9.2%</strong></td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>거래대금 / 시총</td>
+      <td><strong>1.0조원</strong> / 35.5조원</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>주도 테마 / 테마내순위</td>
+      <td>AI 챗봇(챗GPT 등) / <strong>1위</strong></td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>RSI / RVOL / 이평수렴</td>
+      <td>58.4 / <strong>2.0배</strong> / +0.07%</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>52주 신고가 / OBV</td>
+      <td>아님 / 약세 다이버전스</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>외인 순매수 / 기관 순매수</td>
+      <td><strong>+21만 주</strong> / <strong>+41만 주</strong></td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>호가신호</td>
+      <td>매수벽 강함</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>매출 YoY</td>
+      <td>+15.5%</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>최근 분기 실적</td>
+      <td>2026년 2분기: 매출 33,662억원 / 영업이익 16억원</td>
+    </tr>
+    <tr>
+      <td>점수</td>
+      <td>AI 종합 점수</td>
+      <td>50점</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>네이버는 오늘 하루 종일 거래대금이 <strong>1조원</strong>까지 불어나며 AI 챗봇 테마에서 자금이 가장 많이 몰린 종목이었습니다. 외국인이 <strong>21만 주</strong>, 큰 투자기관(기관)이 <strong>41만 주</strong>를 동시에 순매수했고, 매수 호가 쪽에도 큰손 자금이 두껍게 쌓인 상태(매수벽 강함)로 마감했습니다. AI 기록상 종가는 226,500원이며, 오늘 종가에 사지 못한 투자자들의 관심이 여전히 남아 있는지가 관건입니다.</p>
+
+<h3 id="2-gs건설--건설-대표주-하루-만에-18-급등">2. GS건설 — 건설 대표주, 하루 만에 +18% 급등</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>항목</th>
+      <th>수치</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>기본</td>
+      <td>당일 종가 / 등락률</td>
+      <td><strong>28,750원</strong> / <strong>+18.6%</strong></td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>거래대금 / 시총</td>
+      <td><strong>1,424억원</strong> / 2.5조원</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>주도 테마 / 테마내순위</td>
+      <td>건설 대표주 / <strong>1위</strong></td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>RSI / RVOL / 이평수렴</td>
+      <td>52.6 / <strong>1.8배</strong> / +0.17%</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>52주 신고가 / OBV</td>
+      <td>아님 / 중립</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>외인 순매수 / 기관 순매수</td>
+      <td><strong>+37만 주</strong> / <strong>+75만 주</strong></td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>매출 YoY</td>
+      <td>-14.1%</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>최근 분기 실적</td>
+      <td>2026년 2분기: 매출 27,461억원 / 영업이익 4억원</td>
+    </tr>
+    <tr>
+      <td>점수</td>
+      <td>AI 종합 점수</td>
+      <td>39점</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>GS건설은 건설 업종 대표주로 오늘 하루에만 <strong>+18.6%</strong> 급등했습니다. 외국인(<strong>37만 주</strong>)과 기관(<strong>75만 주</strong>)이 장중 함께 사들인 점이 눈에 띄는데요, 소형모듈원전(SMR) 관련 세제혜택 기대와 실적 개선 기대감이 겹치면서 매수세가 살아 있었습니다. 다만 매출은 전년 대비 -14.1% 감소한 상태라 재무 지표만 보면 아쉬운 부분도 함께 있습니다.</p>
+
+<h2 id="nexttheme-알고리즘은-왜-이-둘을-골랐을까">NextTheme 알고리즘은 왜 이 둘을 골랐을까?</h2>
+
+<p>오늘 알고리즘은 두 종목에 각각 다른 비중(신뢰도)을 매겼습니다. 네이버는 <strong>58.6%</strong> 비중에 신뢰도 HIGH, GS건설은 <strong>41.4%</strong> 비중에 신뢰도 LOW로 구분됐는데요. 네이버는 거래대금·수급·호가 신호가 모두 강하게 정렬돼 있어 높은 신뢰도를 받은 반면, GS건설은 상승폭은 크지만 매수 호가 쌓임(호가신호)이 약하고 매출 감소라는 약점이 함께 잡혀 상대적으로 낮은 신뢰도로 분류됐습니다. 같은 ‘급등 대장주’라도 알고리즘이 보는 근거의 두께가 다르다는 걸 보여주는 사례입니다.</p>
+
+<h2 id="오늘-흐름에서-제가-주목한-것">오늘 흐름에서 제가 주목한 것</h2>
+
+<p>오늘처럼 코스닥과 코스피가 정반대로 움직이는 날은, 지수보다 개별 테마 안에서 돈이 어디로 쏠리는지를 보는 게 더 유용하다고 느꼈습니다. 네이버처럼 거래대금·수급·호가가 삼박자로 맞아떨어지는 종목과, GS건설처럼 상승률은 화려해도 재무나 호가 쪽에 약점이 있는 종목은 같은 ‘급등주’라도 성격이 다르다는 점이 오늘 데이터에서 확인됐습니다. 물론 이후 흐름이 어떻게 이어질지는 지켜봐야 할 부분입니다.</p>
+
+<h2 id="마무리">마무리</h2>
+
+<p>오늘처럼 지수가 엇갈리는 날일수록 대장주 중심의 수급 데이터를 꼼꼼히 보는 게 도움이 됩니다. 오늘 선별 결과에 대해 궁금한 점이나 다른 의견 있으시면 댓글로 남겨주세요!</p>
+
+<p>#NAVER #GS건설 #코스닥급등 #AI챗봇테마 #건설대표주 #종가베팅 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[오늘 장 지켜보신 분들이라면 다들 놀라셨을 것 같아요 😲 코스닥이 하루 만에 +5.7%나 급등했는데, 정작 코스피는 약세를 보이면서 두 지수가 완전히 엇갈리는 하루였습니다. 이렇게 시장이 갈라지는 날은 어떤 종목에 자금이 실제로 몰리는지 확인하는 게 특히 중요한데요, 오늘 NextTheme 알고리즘이 장 마감 직전 마지막 스크리닝에서 골라낸 종목과 그 근거를 정리해봤습니다.]]></summary></entry><entry><title type="html">8/3 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/04/review-20260803-review/" rel="alternate" type="text/html" title="8/3 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-08-04T09:00:00+09:00</published><updated>2026-08-04T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/04/review_20260803-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/04/review-20260803-review/"><![CDATA[<blockquote>
   <p>데이터 기준: 2026-08-04 10:03 키움 ka10001 일괄 조회</p>
 </blockquote>
 
@@ -1590,226 +1737,4 @@ AI 선별 5건 중 <strong>S7(반도체)·HBM·AI 챗봇·조선 4건이 집중<
 
 <p>혹시 다음 주 전략에 대해 궁금한 점이 있으면 댓글로 남겨주세요. 함께 실시간으로 점검하겠습니다!</p>
 
-<p>#NextTheme #반도체 #SK하이닉스 #삼성전자 #AI인프라 #외국인대매수 #갭상승</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[한 주가 끝났습니다. 지난주는 반도체의 대반격으로 시작해 외국인의 대규모 매수가 이어진 한 주였습니다. 😅]]></summary></entry><entry><title type="html">코스피 하루 만에 17% 반등, 반도체 쏠림 장세 — 오늘 하루 마감 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/07/31/daily/" rel="alternate" type="text/html" title="코스피 하루 만에 17% 반등, 반도체 쏠림 장세 — 오늘 하루 마감 정리" /><published>2026-07-31T21:00:00+09:00</published><updated>2026-07-31T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/07/31/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/07/31/daily/"><![CDATA[<p>오늘 하루를 한 줄로 요약하면, “패닉이었던 급락장이 하루 만에 큰 폭으로 되돌아온 날”입니다. 지난 며칠간 이어진 급락에 지쳐있던 투자자라면 오늘 반등장이 반가웠을 텐데요 📈, 그 이면에 어떤 수급과 흐름이 있었는지 데이터로 차근차근 살펴보겠습니다.</p>
-
-<h2 id="미국-시장은-6거래일-만에-반도체-랠리">미국 시장은 6거래일 만에 반도체 랠리</h2>
-
-<p>간밤 미국 증시는 다우 <strong>+1.19%</strong>, S&amp;P500 <strong>+1.66%</strong>, 나스닥 <strong>+2.78%</strong>로 3대 지수가 동반 상승했습니다. 마이크로소프트의 호실적과 SK하이닉스 ADR(미국 예탁증서)이 <strong>18%</strong> 급등한 소식이 반도체주 전반의 반등을 이끌었고, 아마존 AWS(클라우드 사업부)도 <strong>37%</strong> 성장률을 확인하며 기술주 전반에 안도감을 줬습니다. 다만 국내 증시는 오늘부터 레버리지 ETF 기본예탁금 3000만원 규제가 시행되고, 일본 중앙은행의 금리 결정이 낮 12시에 발표될 예정이어서 변동성 부담은 여전히 남아있었습니다.</p>
-
-<h2 id="코스피-1791-코스닥-1163--급락-이후-큰-폭-되돌림">코스피 +17.91%, 코스닥 +11.63% — 급락 이후 큰 폭 되돌림</h2>
-
-<p>오늘 코스피는 <strong>6,595.45포인트</strong>로 전일 대비 <strong>+17.91%</strong> 급등 마감했고, 코스닥도 <strong>719.76포인트</strong>로 <strong>+11.63%</strong> 올랐습니다. 원/달러 환율은 <strong>1,440.4원</strong>을 기록했습니다.</p>
-
-<p>최근 지수 흐름을 보면 이번 반등이 왜 눈에 띄는지 알 수 있습니다. 코스피는 7월 12일 <strong>7,475.94</strong>에서 시작해 7월 30일 <strong>5,593.56</strong>까지 계속 밀렸는데, 2주 남짓한 기간 동안 약 <strong>25%</strong> 급락한 셈입니다. 이렇게 짓눌려 있던 지수가 오늘 하루 만에 <strong>6,595.45</strong>까지 튀어 오른 겁니다. 코스닥도 같은 기간 <strong>837.43</strong>(7/12)에서 <strong>644.78</strong>(7/30)까지 밀렸다가 오늘 <strong>719.76</strong>으로 반등했습니다. 급락과 급등이 반복되는 변동성 장세라는 점은 유의할 필요가 있습니다.</p>
-
-<h2 id="거래대금-상위--반도체-쏠림이-뚜렷했다">거래대금 상위 — 반도체 쏠림이 뚜렷했다</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>순위</th>
-      <th>종목명</th>
-      <th>거래대금</th>
-      <th>등락률</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>SK하이닉스</td>
-      <td>27.8조원</td>
-      <td>+29.95%</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>삼성전자</td>
-      <td>23.9조원</td>
-      <td>+28.74%</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>SK스퀘어</td>
-      <td>1.6조원</td>
-      <td>+29.91%</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>삼성전기</td>
-      <td>1.4조원</td>
-      <td>+29.92%</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>삼성전자우</td>
-      <td>1.4조원</td>
-      <td>+25.43%</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>한미반도체</td>
-      <td>8,075억원</td>
-      <td>+28.28%</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>NAVER</td>
-      <td>6,900억원</td>
-      <td>+7.34%</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>현대차</td>
-      <td>6,693억원</td>
-      <td>+10.97%</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>LS ELECTRIC</td>
-      <td>5,473억원</td>
-      <td>+24.12%</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>LG전자</td>
-      <td>4,494억원</td>
-      <td>+9.05%</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>거래대금 상위 10개 종목 중 6개가 <strong>+25% 이상</strong>(사실상 상한가권) 상승했습니다. SK하이닉스와 삼성전자가 압도적인 거래대금(각각 27.8조원, 23.9조원)을 기록하며 시장 전체 수급을 빨아들인 하루였습니다. 최태원 SK그룹 회장이 SK하이닉스 주식을 장내에서 48억원어치 직접 매수했다는 소식도 투자자 신뢰에 영향을 준 것으로 보입니다.</p>
-
-<h2 id="오늘의-주도-테마">오늘의 주도 테마</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>순위</th>
-      <th>테마명</th>
-      <th>상승종목수/전체종목수</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>S7(삼성전자/SK하이닉스 등)</td>
-      <td>7/7</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>소캠(SOCAMM)</td>
-      <td>11/11</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>반도체 기판(FC-BGA/PCB/MLB 등)</td>
-      <td>14/14</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>반도체 대표주(생산)</td>
-      <td>3/3</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>온디바이스 AI</td>
-      <td>24/24</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>HBM(고대역폭메모리)</td>
-      <td>33/33</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>상위 6개 테마 모두 소속 종목 전원이 상승하며(상승종목수=전체종목수) 반도체·AI 관련주로 수급이 완전히 쏠린 하루였음을 보여줍니다.</p>
-
-<h2 id="종가-선별--오늘-ai가-고른-종목은">종가 선별 — 오늘 AI가 고른 종목은?</h2>
-
-<p>오늘 AI 선별 등급은 <strong>GREEN</strong>입니다. “미국 빅테크 호실적과 반도체 지수 급등으로 국내 반도체·AI 전반에 강한 매수세가 몰린 강세장”이라는 게 AI의 종합 판단입니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목명</th>
-      <th>점수</th>
-      <th>한 줄 사유</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>SK하이닉스</td>
-      <td>49점</td>
-      <td>대장주가 상한가를 기록하며 외국인·기관 자금이 동시에 몰렸고 매수 호가가 두껍게 쌓인 점을 주목</td>
-    </tr>
-    <tr>
-      <td>삼성전기</td>
-      <td>43점</td>
-      <td>반도체 기판 대표주로 상한가를 기록, 미국 반도체 강세가 직접 이어지는 자리라는 점을 주목</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>두 종목 모두 시초가 갭 전략(GAP_TRADE) 유형으로 분류됐습니다. SK하이닉스는 외국인 순매수 <strong>+18만 주</strong>, 기관 순매수 <strong>+50만 주</strong>가 동시에 들어왔고, 삼성전기는 외국인 <strong>+8만 주</strong>, 기관 <strong>+14만 주</strong> 순매수를 기록했습니다. 참고로 SK하이닉스는 최근 분기(2026년 6월)에 매출이 전년 대비 <strong>+278.6%</strong> 늘어난 것으로 기록돼 있습니다.</p>
-
-<h2 id="어제-선별의-오늘-아침-실현-성과--한화오션">어제 선별의 오늘 아침 실현 성과 — 한화오션</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>구분</th>
-      <th>갭 %</th>
-      <th>세션내 최고 %</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>한화오션</td>
-      <td>①실현</td>
-      <td>+6.88%</td>
-      <td>+6.88%</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>어제 AI가 선별한 한화오션은 오늘 아침(08:00~09:59) 진입가 대비 <strong>+6.88%</strong> 갭으로 출발해 세션 중 최고 <strong>+6.88%</strong>, 최저 <strong>+1.15%</strong>를 오간 것으로 나타났습니다. 이는 어제 선별의 실제 청산 성과로, 확정된 결과입니다.</p>
-
-<h2 id="오늘-선별-종목의-저녁-잠정-흐름">오늘 선별 종목의 저녁 잠정 흐름</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>구분</th>
-      <th>최저 %(진입가 대비)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>SK하이닉스</td>
-      <td>②잠정</td>
-      <td>-2.04%</td>
-    </tr>
-    <tr>
-      <td>삼성전기</td>
-      <td>②잠정</td>
-      <td>0.0%</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>오늘(15:40~19:59) 애프터마켓에서 SK하이닉스는 진입가 대비 최저 <strong>-2.04%</strong>까지 밀린 구간이 있었고, 삼성전기는 큰 변동 없이 진입가 부근에서 움직였습니다. 이 수치는 잠정 흐름일 뿐이며, 실제 실현 성과는 내일 아침 확인할 수 있습니다.</p>
-
-<h2 id="오늘-흐름에서-주목한-것">오늘 흐름에서 주목한 것</h2>
-
-<p>개인적으로 오늘 눈에 띈 건 반등의 ‘폭’보다 ‘쏠림’이었습니다. 거래대금 상위 6개 종목이 일제히 상한가권으로 튀었고, 상위 테마 6개는 소속 종목 전원이 상승했습니다. 이렇게 특정 섹터로 수급이 완전히 몰리는 날은 그 자체로 시장의 성격을 보여주는 신호라고 생각합니다. 다만 2주 만에 지수가 25% 급락했다가 하루 만에 다시 튀어 오르는 흐름 자체가 변동성이 매우 크다는 뜻이기도 해서, 이런 장세에서는 데이터를 하나씩 차분히 확인하는 습관이 더 중요해지는 것 같습니다.</p>
-
-<h2 id="오늘-하루-정리">오늘 하루 정리</h2>
-
-<p>오늘은 미국발 반도체 훈풍과 최태원 회장의 매수 소식이 겹치며 국내 반도체·AI 관련주로 자금이 집중된 하루였습니다. 코스피·코스닥 모두 두 자릿수 반등을 기록했지만, 레버리지 ETF 규제 시행과 일본 금리 결정 등 변수도 함께 있었던 만큼 앞으로도 데이터 흐름을 계속 지켜볼 필요가 있습니다.</p>
-
-<p>“시장은 매일 다른 얼굴을 보여준다”는 말처럼, 오늘의 급반등도 내일이면 또 다른 국면으로 이어질 수 있습니다. 오늘 데이터 어떻게 보셨나요? 댓글로 의견 나눠주세요 🙌</p>
-
-<p>#NextTheme #종가베팅 #SK하이닉스 #삼성전기 #한화오션 #코스피 #반도체 #HBM</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[오늘 하루를 한 줄로 요약하면, “패닉이었던 급락장이 하루 만에 큰 폭으로 되돌아온 날”입니다. 지난 며칠간 이어진 급락에 지쳐있던 투자자라면 오늘 반등장이 반가웠을 텐데요 📈, 그 이면에 어떤 수급과 흐름이 있었는지 데이터로 차근차근 살펴보겠습니다.]]></summary></entry></feed>
+<p>#NextTheme #반도체 #SK하이닉스 #삼성전자 #AI인프라 #외국인대매수 #갭상승</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[한 주가 끝났습니다. 지난주는 반도체의 대반격으로 시작해 외국인의 대규모 매수가 이어진 한 주였습니다. 😅]]></summary></entry></feed>
