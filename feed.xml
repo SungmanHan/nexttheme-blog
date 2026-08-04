@@ -1,4 +1,231 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-04T20:07:27+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스닥 5%대 급등한 날, 네이버·GS건설이 대장주로 뽑힌 이유</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/04/nt2-1505-snapshot/" rel="alternate" type="text/html" title="코스닥 5%대 급등한 날, 네이버·GS건설이 대장주로 뽑힌 이유" /><published>2026-08-04T15:05:00+09:00</published><updated>2026-08-04T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/04/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/04/nt2-1505-snapshot/"><![CDATA[<p>오늘 장 지켜보신 분들이라면 다들 놀라셨을 것 같아요 😲 코스닥이 하루 만에 <strong>+5.7%</strong>나 급등했는데, 정작 코스피는 약세를 보이면서 두 지수가 완전히 엇갈리는 하루였습니다. 이렇게 시장이 갈라지는 날은 어떤 종목에 자금이 실제로 몰리는지 확인하는 게 특히 중요한데요, 오늘 NextTheme 알고리즘이 장 마감 직전 마지막 스크리닝에서 골라낸 종목과 그 근거를 정리해봤습니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-04T21:03:55+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스닥 5.8% 급등, 반도체 투톱 약세 속 NAVER·GS건설 추격 — 오늘 종가베팅 하루 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/04/daily/" rel="alternate" type="text/html" title="코스닥 5.8% 급등, 반도체 투톱 약세 속 NAVER·GS건설 추격 — 오늘 종가베팅 하루 정리" /><published>2026-08-04T21:00:00+09:00</published><updated>2026-08-04T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/04/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/04/daily/"><![CDATA[<p>오늘 하루는 글로벌 리스크 완화에 반도체 투톱이 동반 조정하며 <strong>코스피는 -5.12% 급락, 코스닥은 +5.88% 급등</strong>하는 극단적 엇갈림이 펼쳐졌습니다. 외국인 자금 <strong>4조원 이상</strong>이 순매도하는 가운데 AI·건설·우주항공 테마로 자금이 쏠리는 선별 효과가 두드러진 시장이었습니다.</p>
+
+<h2 id="미국-이란-긴장-완화에-동반-상승">미국, 이란 긴장 완화에 동반 상승</h2>
+
+<p>다우 <strong>+1.32%</strong> / S&amp;P500 <strong>+1.48%</strong> / 나스닥 <strong>+2.13%</strong> 로 마감하며 트럼프 이란 공격 취소·호르무즈 협상 재개 소식에 일제 상승했습니다. 유가가 <strong>5% 급락</strong>하고 다우는 <strong>사상 최고치</strong>를 기록했으나, 이 강세가 국내로 이어지지 않으면서 시장의 <strong>디커플링 현상</strong>이 명확해졌습니다.</p>
+
+<h2 id="코스피는-약세-코스닥은-테마주-중심-강세">코스피는 약세, 코스닥은 테마주 중심 강세</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>지수</th>
+      <th>종가</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>코스피</td>
+      <td><strong>6,358.95</strong></td>
+      <td>-5.12%</td>
+    </tr>
+    <tr>
+      <td>코스닥</td>
+      <td><strong>780.72</strong></td>
+      <td>+5.88%</td>
+    </tr>
+    <tr>
+      <td>달러/원</td>
+      <td><strong>1,430.1</strong></td>
+      <td>—</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>코스피는 <strong>7,096</strong> 피크(23일)에서 지난 일주일간 <strong>1개월 이상 후퇴</strong>하며 강한 조정세를 이어가고 있습니다. 한편 코스닥은 반도체 공백을 AI 챗봇·우주항공·건설 테마가 메우면서 오늘 강한 반등을 시연했습니다.</p>
+
+<h2 id="거래대금-상위-반도체-투톱-거래량-폭감">거래대금 상위: 반도체 투톱 거래량 폭감</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">순위</th>
+      <th>종목명</th>
+      <th>거래대금</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">1</td>
+      <td>SK하이닉스</td>
+      <td><strong>1.1조원</strong></td>
+      <td>-0.26%</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2</td>
+      <td>삼성전자</td>
+      <td><strong>1.0조원</strong></td>
+      <td>-0.42%</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">3</td>
+      <td>삼성전기</td>
+      <td><strong>2,010억원</strong></td>
+      <td>+0.17%</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">4</td>
+      <td>SK스퀘어</td>
+      <td><strong>1,224억원</strong></td>
+      <td>+3.02%</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">5</td>
+      <td>NAVER</td>
+      <td><strong>1.0조원</strong></td>
+      <td>+9.16%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>삼성전자·SK하이닉스는 거래대금이 전일 대비 급격히 줄었습니다(전일 12조→1조 수준). 반대로 <strong>NAVER가 AI 챗봇 테마 선도주</strong>로 거래대금 <strong>1조원</strong>까지 불어나며 이목을 집중시켰고, 건설·우주항공 종목들이 거래량과 수익률을 동시에 확대했습니다.</p>
+
+<h2 id="테마-분석-ai우주항공건설-선도">테마 분석: AI·우주항공·건설 선도</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>테마명</th>
+      <th style="text-align: center">상승종목 / 전체</th>
+      <th>성격</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>AI 챗봇(챗GPT 등)</td>
+      <td style="text-align: center">30 / 31</td>
+      <td>최강세</td>
+    </tr>
+    <tr>
+      <td>지능형로봇/AI</td>
+      <td style="text-align: center">61 / 66</td>
+      <td>광폭 상승</td>
+    </tr>
+    <tr>
+      <td>우주항공산업</td>
+      <td style="text-align: center">35 / 36</td>
+      <td>강세</td>
+    </tr>
+    <tr>
+      <td>건설 대표주</td>
+      <td style="text-align: center">5 / 6</td>
+      <td>급등</td>
+    </tr>
+    <tr>
+      <td>면역항암제</td>
+      <td style="text-align: center">33 / 35</td>
+      <td>선도</td>
+    </tr>
+    <tr>
+      <td>광통신</td>
+      <td style="text-align: center">13 / 13</td>
+      <td>전폭 상승</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>코스닥의 <strong>+5.88% 급등</strong>은 AI·우주항공·건설 테마가 대거 상한가 근처까지 오르며 견인했습니다. 특히 광통신 테마는 <strong>전체 13개 종목이 전부 상승</strong>하고, AI 챗봇 테마도 31개 중 30개가 올랐습니다.</p>
+
+<h2 id="종가-선별-결과-대장주-중심-2개">종가 선별 결과: 대장주 중심 2개</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">종목명</th>
+      <th>AI 점수</th>
+      <th>선별 사유</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><strong>NAVER</strong></td>
+      <td><strong>50점</strong></td>
+      <td>AI 챗봇 테마 대장으로 거래대금 1조 돌파, 매수 호가 자금 두터움 — 내일 아침 시초가 추격 매수 유력</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><strong>GS건설</strong></td>
+      <td><strong>39점</strong></td>
+      <td>건설 대표주로 +18% 급등, 기관·외국인 동반 매수 — SMR 세제혜택·실적 개선 기대</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>오늘 종가 기준 선별은 <strong>테마 선도주 중심</strong>으로 압축되었습니다. NAVER는 거래대금이 계속 불어나는 가운데 <strong>기관 +41만 주, 외국인 +21만 주</strong> 동반 매수로 모멘텀이 지속되고 있고, GS건설은 건설 테마의 체계적 상승 속에서 대표주 지위를 재확인했습니다.</p>
+
+<h2 id="복기-어제-선별-vs-오늘-애프터마켓-상황">복기: 어제 선별 vs 오늘 애프터마켓 상황</h2>
+
+<h3 id="어제-선별의-오늘-아침-실현-종가베팅-청산-성과">어제 선별의 오늘 아침 실현 (종가베팅 청산 성과)</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목명</th>
+      <th>진입가</th>
+      <th>아침 갭</th>
+      <th>세션내 최고</th>
+      <th>세션내 최저</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>에스피지</strong></td>
+      <td>107,500원</td>
+      <td><strong>-0.93%</strong></td>
+      <td>+1.77%</td>
+      <td>-6.05%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>어제 선별했던 <strong>에스피지</strong>는 오늘 아침 갭이 <strong>-0.93%</strong> 실현되며 손익 기준을 형성했습니다. 세션 내에서 최고 <strong>+1.77%</strong>까지 오르며 회복 시도를 했으나 최저 <strong>-6.05%</strong>까지 떨어지는 <strong>높은 변동성</strong>을 보였습니다.</p>
+
+<h3 id="오늘-선별의-애프터마켓-잠정-흐름-내일-아침-청산-예상">오늘 선별의 애프터마켓 잠정 흐름 (내일 아침 청산 예상)</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목명</th>
+      <th>진입가</th>
+      <th>저녁 갭</th>
+      <th>세션내 최고</th>
+      <th>세션내 최저</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>GS건설</strong></td>
+      <td>28,750원</td>
+      <td>0.00%</td>
+      <td>0.00%</td>
+      <td>0.00%</td>
+    </tr>
+    <tr>
+      <td><strong>NAVER</strong></td>
+      <td>226,500원</td>
+      <td><strong>+0.44%</strong></td>
+      <td>+0.66%</td>
+      <td>-0.88%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>오늘 선별의 GS건설은 저녁 애프터마켓 기간(15:40~19:59) 동안 <strong>진입가 기준 보합</strong>으로 마감했으며, NAVER는 <strong>+0.44% 잠정 갭</strong>을 기록했습니다. NAVER는 저녁 내내 <strong>+0.66%</strong> 최고까지 오르는 <strong>모멘텀 유지</strong>를 보이는 중입니다.</p>
+
+<p>⚠️ 위 수치들은 <strong>오늘 애프터마켓 잠정 흐름일 뿐</strong> — 실현 청산은 <strong>내일 아침</strong> 시초가 매도 시점입니다.</p>
+
+<h2 id="오늘-시장의-의미">오늘 시장의 의미</h2>
+
+<p>코스닥이 반도체 공백을 AI·건설·우주항공으로 메우며 강한 반등을 시연한 가운데, <strong>대장주 중심의 단기 추격 매수 심리</strong>가 NAVER·GS건설 같은 <strong>테마 선도주</strong>에 집중되었습니다. 외국인 <strong>4조원 대 순매도</strong>는 구조적 위험을 드러냈으나, <strong>테마 선별의 효율성</strong>은 여전히 유효함을 보여줍니다.</p>
+
+<p>내일은 새벽 <strong>ADP 고용·ISM 비제조업</strong> 등 HIGH 이벤트 4건이 대기해 추가 변동성이 우려되는 만큼, <strong>관망 중심의 신중한 포지셔닝</strong>이 권고됩니다.</p>
+
+<hr />
+
+<p>종가배팅은 매일 시장 흐름을 읽고 차근차근 기록하는 과정입니다. 오늘의 실적과 내일의 전략을 댓글로 나눠주세요 — 함께 배우면서 성장하는 투자입니다. 이웃 추가하시고 내일 아침 시초가 갭을 함께 복기해보겠습니다.</p>
+
+<p>#NAVER #GS건설 #코스닥 #AI챗봇 #건설테마 #종가베팅 #NextTheme #거래대금 #테마주</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[오늘 하루는 글로벌 리스크 완화에 반도체 투톱이 동반 조정하며 코스피는 -5.12% 급락, 코스닥은 +5.88% 급등하는 극단적 엇갈림이 펼쳐졌습니다. 외국인 자금 4조원 이상이 순매도하는 가운데 AI·건설·우주항공 테마로 자금이 쏠리는 선별 효과가 두드러진 시장이었습니다.]]></summary></entry><entry><title type="html">코스닥 5%대 급등한 날, 네이버·GS건설이 대장주로 뽑힌 이유</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/04/nt2-1505-snapshot/" rel="alternate" type="text/html" title="코스닥 5%대 급등한 날, 네이버·GS건설이 대장주로 뽑힌 이유" /><published>2026-08-04T15:05:00+09:00</published><updated>2026-08-04T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/04/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/04/nt2-1505-snapshot/"><![CDATA[<p>오늘 장 지켜보신 분들이라면 다들 놀라셨을 것 같아요 😲 코스닥이 하루 만에 <strong>+5.7%</strong>나 급등했는데, 정작 코스피는 약세를 보이면서 두 지수가 완전히 엇갈리는 하루였습니다. 이렇게 시장이 갈라지는 날은 어떤 종목에 자금이 실제로 몰리는지 확인하는 게 특히 중요한데요, 오늘 NextTheme 알고리즘이 장 마감 직전 마지막 스크리닝에서 골라낸 종목과 그 근거를 정리해봤습니다.</p>
 
 <h2 id="오늘-시장-한마디로-정리하면">오늘 시장, 한마디로 정리하면</h2>
 
@@ -1623,118 +1850,4 @@ AI 선별 5건 중 <strong>S7(반도체)·HBM·AI 챗봇·조선 4건이 집중<
 
 <hr />
 
-<p><strong>#종가베팅 #반도체주 #SK하이닉스 #삼성전자 #한미반도체 #수급분석 #월요일전망</strong></p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[☀️ 일요일 아침, 외국인과 개인의 엇갈린 거래 방향이 월요일 시장의 핵심 변수가 될 전망입니다.]]></summary></entry><entry><title type="html">반도체 상한가 후 외국인 대매수, 다음 주 기회인가 위험인가</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/01/weekend/" rel="alternate" type="text/html" title="반도체 상한가 후 외국인 대매수, 다음 주 기회인가 위험인가" /><published>2026-08-01T06:00:00+09:00</published><updated>2026-08-01T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/01/weekend</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/01/weekend/"><![CDATA[<p>한 주가 끝났습니다. 지난주는 반도체의 대반격으로 시작해 외국인의 대규모 매수가 이어진 한 주였습니다. 😅</p>
-
-<h2 id="미국-야간-시장--빅테크-ai-투자-확대">미국 야간 시장 — 빅테크 AI 투자 확대</h2>
-
-<p>미국 증시는 실적 호조에 힘입어 가파른 상승을 이어갔습니다. 다우지수 <strong>+0.53%</strong>, S&amp;P500 <strong>+0.70%</strong>, 나스닥 <strong>+1.00%</strong> — 특히 빅테크 (아마존·MS·알파벳) 의 AI 투자 확대 소식이 시장을 주도했습니다. 이는 국내 반도체 섹터의 모멘텀 지속 가능성을 뒷받침하는 신호입니다.</p>
-
-<h2 id="베팅-등급--전략--yellow-변동성-높은-환경">베팅 등급 &amp; 전략 — YELLOW, 변동성 높은 환경</h2>
-
-<p>다음 주 종가베팅 등급은 <strong>YELLOW</strong> 입니다. 변동성이 높은 환경이라는 뜻이고, 월요일 갭상승 가능성은 <strong>중상(75점)</strong>으로 평가됩니다. 극단적 반등 후 변동성 지속이 예상되는 만큼, <strong>반도체 중심 매수 + 타 업종 관망</strong>이 적절합니다.</p>
-
-<p><strong>대응 방향</strong>:</p>
-<ul>
-  <li><strong>보유</strong>: 반도체·AI 인프라 중심 홀딩</li>
-  <li><strong>신규</strong>: 반도체 대장주 분할 진입 (변동성 대비)</li>
-  <li><strong>회피</strong>: 개인 투자심리 이탈 업종 (소재·화학 등 경기민감)</li>
-</ul>
-
-<h2 id="주목할-섹터-3개">주목할 섹터 3개</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>섹터</th>
-      <th>포인트</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>반도체</strong></td>
-      <td>HBM·CXL 중심 AI 인프라 수혜 지속, 미국 빅테크 자본지출 확인</td>
-    </tr>
-    <tr>
-      <td><strong>온디바이스 AI</strong></td>
-      <td>SK하이닉스 상한가 견인, 글로벌 AI 투자 모멘텀 회복</td>
-    </tr>
-    <tr>
-      <td><strong>S7 (삼성전자/SK하이닉스)</strong></td>
-      <td>외국인 집중 매수, 기술주 랠리 주도</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>특히 <strong>SK하이닉스가 17년만에 상한가</strong>를 기록하며 섹터 주도권을 확보했고, <strong>삼성전자도 26.81% 급등</strong>하며 강한 반발을 보였습니다. 한편 <strong>외국인 8.8조 역대 최대 매수</strong>가 이어진 반면, <strong>개인은 10.2조 최대 매도</strong>를 기록해 수급 이중성이 뚜렷합니다. ⚠️ 유동성 축소 우려도 함께 주시해야 합니다.</p>
-
-<h2 id="-금요일어제-선별-결과-복기">📋 금요일(어제) 선별 결과 복기</h2>
-
-<p>어제 AI 선별 결과를 정리하면 다음과 같습니다:</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>코드</th>
-      <th>어제 전략</th>
-      <th>결과</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>한미반도체</td>
-      <td>042700</td>
-      <td>GAP_TRADE</td>
-      <td>✅ 보유 중</td>
-    </tr>
-    <tr>
-      <td>삼성전자</td>
-      <td>005930</td>
-      <td>최종 선별 외</td>
-      <td>어제 매수 후 당일 청산</td>
-    </tr>
-    <tr>
-      <td>SK하이닉스</td>
-      <td>000660</td>
-      <td>GAP_TRADE</td>
-      <td>미매수</td>
-    </tr>
-    <tr>
-      <td>삼성전기</td>
-      <td>009150</td>
-      <td>GAP_TRADE</td>
-      <td>미매수</td>
-    </tr>
-  </tbody>
-</table>
-
-<p><strong>세부 기록</strong>:</p>
-<ul>
-  <li><strong>한미반도체</strong>: 평단(211,000원) 대비 저녁 <strong>+1.18% ~ -2.13%</strong>. 저녁 내내 변동성이 컸으나 보유 지속</li>
-  <li><strong>삼성전자</strong>: 어제 매수 후 시가에서 바로 청산 — <strong>실현 +0.83%</strong></li>
-  <li><strong>SK하이닉스</strong>: 기술적 선별에만 포함됐으며 신규 진입은 없음. 종가 대비 저녁 최고 0% / 최저 -2.04%</li>
-  <li><strong>삼성전기</strong>: 마찬가지로 기술적 기준 탐색 후보였으나 실매수 없음</li>
-</ul>
-
-<p><strong>해석</strong>: YELLOW 환경에서 최종 선별 기준을 엄격하게 적용한 결과입니다. 한미반도체만 최종 추천으로 이어졌고, 삼성전자는 수동으로 진입해 당일 매도로 기술적 회피를 완료했습니다. SK하이닉스와 삼성전기는 “후보”에만 있다가 상한가/급등 이후 진입 기회를 재평가하는 것이 자연스럽습니다.</p>
-
-<h2 id="다음-주-핵심-변수--출구-전략-">다음 주 핵심 변수 &amp; 출구 전략 🔍</h2>
-
-<p>월요일은 <strong>반도체주 추가 상승 vs 차익실현 압력</strong>이 교차할 것으로 예상됩니다. 외국인 매수세 지속 여부가 관건입니다.</p>
-
-<p><strong>명확한 출구 기준</strong>:</p>
-<ul>
-  <li><strong>수익 실현</strong>: 반도체주 <strong>+10% 이상</strong> 추가 상승 시 일부 차익 정리</li>
-  <li><strong>손절 기준</strong>: 코스피 <strong>6,800 돌파 실패</strong> 시 방어 준비</li>
-  <li><strong>포지션 축소</strong>: 변동성 <strong>+30% 이상</strong> 지속 시 규모 조정</li>
-</ul>
-
-<p>현재 보유 중인 한미반도체는 월요일 시초가에서의 갭을 최우선으로 모니터링하고, 반도체 섹터 전체 모멘텀이 지속되는지 확인한 후 다음 수동 진입 기회를 판단하세요.</p>
-
-<h2 id="마무리">마무리</h2>
-
-<p>지난주 반도체 랠리는 글로벌 AI 투자 확대라는 실질적 근거 위에 섰습니다. 다음 주는 그 모멘텀이 <strong>진정으로 지속될 것인지</strong>, 아니면 <strong>차익실현에 밀릴 것인지</strong>가 분수령입니다. 개인 대매도와 외국인 대매수의 엇갈림 속에서, 종가베팅 관점에서는 <strong>갭 발생 여부와 초반 거래량</strong>을 정확히 읽는 것이 핵심입니다. 😊</p>
-
-<p>혹시 다음 주 전략에 대해 궁금한 점이 있으면 댓글로 남겨주세요. 함께 실시간으로 점검하겠습니다!</p>
-
-<p>#NextTheme #반도체 #SK하이닉스 #삼성전자 #AI인프라 #외국인대매수 #갭상승</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[한 주가 끝났습니다. 지난주는 반도체의 대반격으로 시작해 외국인의 대규모 매수가 이어진 한 주였습니다. 😅]]></summary></entry></feed>
+<p><strong>#종가베팅 #반도체주 #SK하이닉스 #삼성전자 #한미반도체 #수급분석 #월요일전망</strong></p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[☀️ 일요일 아침, 외국인과 개인의 엇갈린 거래 방향이 월요일 시장의 핵심 변수가 될 전망입니다.]]></summary></entry></feed>
