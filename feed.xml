@@ -1,4 +1,98 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-05T10:03:47+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">8/4 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/05/review-20260804-review/" rel="alternate" type="text/html" title="8/4 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-08-05T09:00:00+09:00</published><updated>2026-08-05T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/05/review_20260804-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/05/review-20260804-review/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-06T06:05:14+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">미국 고용지표 앞두고 국내 증시 숨고르기 — 오늘 종가베팅은 관망</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/06/0600-briefing/" rel="alternate" type="text/html" title="미국 고용지표 앞두고 국내 증시 숨고르기 — 오늘 종가베팅은 관망" /><published>2026-08-06T06:00:00+09:00</published><updated>2026-08-06T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/06/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/06/0600-briefing/"><![CDATA[<p>간밤 미국 증시가 지수별로 엇갈리면서, 오늘 아침 종가베팅 신호등은 <strong>RED(위험)</strong>에 맞춰져 있습니다. 전일 코스피가 깜짝 급등했던 만큼, 오늘은 잠시 숨을 고르는 하루가 될 가능성이 커 보입니다. 🚦</p>
+
+<h2 id="-어제-ai-선별-복기--신중했던-하루">📋 어제 AI 선별 복기 — “신중”했던 하루</h2>
+
+<p>어제(2026-08-04) AI 선별의 전반적인 방향은 <strong>신중(CAUTIOUS)</strong>이었고, 실제로 4개 종목 모두 매수까지 이어지지는 않았습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목명</th>
+      <th>슬롯</th>
+      <th>어제 전략</th>
+      <th>오늘 결과</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>NAVER</td>
+      <td>15:10 최종</td>
+      <td>갭 트레이딩(갭상승 기준 청산)</td>
+      <td>갭업 시 분할 청산 권고. 저녁 시간외 한때 +0.66%까지 올랐다가 -0.88%까지 밀리는 등락 ⚠️</td>
+    </tr>
+    <tr>
+      <td>GS건설</td>
+      <td>15:10 최종</td>
+      <td>갭 트레이딩(갭상승 기준 청산)</td>
+      <td>시초가 갭하락 시 즉시 손절 권고. 저녁 시간외 저점(28,000원)까지 밀렸던 종목 ⚠️</td>
+    </tr>
+    <tr>
+      <td>대한광통신</td>
+      <td>19:10 선별</td>
+      <td>갭 트레이딩(갭상승 기준 청산)</td>
+      <td>시초가 확인 후 갭하락 시 즉시 손절. 광통신 테마 정점 국면 경계 ⚠️</td>
+    </tr>
+    <tr>
+      <td>한화에어로스페이스</td>
+      <td>12:10 탐색</td>
+      <td>(탐색 단계 후보)</td>
+      <td>오늘 신규 진입 보류. 우주항공 재료 확인 필요</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>NAVER와 GS건설은 15:10 최종 선별 종목이었고, 대한광통신은 19:10 애프터마켓 슬롯에서 나온 종목입니다. 한화에어로스페이스는 12:10 점심 탐색 슬롯에서 포착된 후보였을 뿐, 최종 선별에는 포함되지 않았습니다. 네 종목 모두 실제 매수는 없었습니다.</p>
+
+<p>NAVER는 어제 종가(226,500원) 기준 저녁 시간외 거래에서 +0.66%~-0.88% 구간을 오갔지만, 실제 보유 포지션이 없었기 때문에 이 변동은 참고용 데이터입니다. GS건설은 전일 +18% 급등 이후 차익실현 압력이 우려됐던 종목이라, 시초가 갭하락 시 즉시 손절이 권고됐던 케이스입니다.</p>
+
+<h2 id="간밤-미국장-무슨-일이-있었나">간밤 미국장, 무슨 일이 있었나?</h2>
+
+<p>오늘 아침 시장 심리에 가장 큰 영향을 준 건 역시 간밤 미국장입니다. 다우존스는 <strong>+0.49%</strong> 오르며 선방했지만, S&amp;P500은 <strong>-0.17%</strong>, 기술주 중심의 나스닥은 <strong>-0.83%</strong> 밀리며 지수별 온도차가 컸습니다.</p>
+
+<p>특히 AI 관련 종목들의 투자 심리가 흔들렸고, 구글은 AI 조직 개편 소식에 주가가 -4% 급락했습니다. 여기에 7월 ADP 민간고용이 4.4만 명 증가에 그치며 시장 예상치(7.5만 명)를 크게 밑돌았는데, 이는 내일 밤 발표되는 미국 공식 고용지표를 앞두고 시장 긴장감을 높이는 재료입니다.</p>
+
+<p>다만 나쁜 소식만 있는 건 아닙니다. 호르무즈 해협 재개방 협상이 진전되고 있다는 소식은 중동 지정학 리스크가 완화될 수 있다는 기대감으로 이어지고 있고, 삼성전자·SK하이닉스의 주주환원 확대 검토 보도는 국내 대형주에 우호적인 재료로 볼 수 있습니다.</p>
+
+<h2 id="오늘-종가베팅-등급은-위험--오늘의-전략">오늘 종가베팅 등급은? “위험” — 오늘의 전략</h2>
+
+<p>오늘 종가베팅 신호등은 <strong>RED(위험)</strong>, 시장 심리 점수는 100점 만점에 <strong>25점</strong>으로 낮게 나왔습니다.</p>
+
+<p>배경은 이렇습니다. 미국 지수가 혼조세를 보이는 가운데 내일 밤 고용지표 발표를 앞두고 있어 변동성 리스크가 높은 상황이고, 전일 코스피(+3.76%)·코스닥(+2.42%)이 크게 오른 만큼 오늘은 차익실현 압력도 경계해야 합니다. 그래서 오늘 전략은 <strong>30% 이하 소극 진입 또는 관망</strong>으로 제시됐습니다. 보유 종목이 있다면 갭하락 시 손절이나 분할 청산을 검토하고, 내일 밤 고용지표 결과를 확인한 뒤 금요일 대응을 준비하라는 권고입니다.</p>
+
+<h2 id="오늘-주목할-변수">오늘 주목할 변수</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>완화 요인</td>
+      <td>호르무즈 해협 재개방 협상 진전 — 중동 지정학 리스크 완화 기대</td>
+    </tr>
+    <tr>
+      <td>국내 호재</td>
+      <td>삼성전자·SK하이닉스 주주환원 확대 검토 보도</td>
+    </tr>
+    <tr>
+      <td>경계 요인</td>
+      <td>미국 기술주·AI 관련주 약세, 7월 ADP 고용 예상치 하회</td>
+    </tr>
+    <tr>
+      <td>변동성 변수</td>
+      <td>내일 밤 미국 고용지표 발표</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>오늘 흐름에서 제가 눈여겨본 부분은, 전일 코스피가 3%대 넘게 급등했음에도 오늘 아침 신호는 오히려 ‘관망’에 가깝다는 점입니다. 지수가 크게 오른 다음 날일수록 차익실현 물량과 대외 변수(고용지표)가 겹칠 때는 쉬어가는 것도 하나의 전략이 될 수 있다는 걸 다시 확인한 아침이었습니다.</p>
+
+<p>오늘 같은 관망장에서는 무리한 진입보다 내일 밤 고용지표 결과를 지켜본 뒤 금요일 흐름을 준비하는 게 나을 수 있습니다. 오늘 시장, 여러분은 어떻게 보고 계신가요? 댓글로 의견 나눠주세요. 🙋</p>
+
+<p>#종가베팅 #NextTheme #코스피 #나스닥 #고용지표 #NAVER #GS건설 #대한광통신 #호르무즈해협</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[간밤 미국 증시가 지수별로 엇갈리면서, 오늘 아침 종가베팅 신호등은 RED(위험)에 맞춰져 있습니다. 전일 코스피가 깜짝 급등했던 만큼, 오늘은 잠시 숨을 고르는 하루가 될 가능성이 커 보입니다. 🚦]]></summary></entry><entry><title type="html">8/4 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/05/review-20260804-review/" rel="alternate" type="text/html" title="8/4 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-08-05T09:00:00+09:00</published><updated>2026-08-05T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/05/review_20260804-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/05/review-20260804-review/"><![CDATA[<blockquote>
   <p>데이터 기준: 2026-08-05 10:03 키움 ka10001 일괄 조회</p>
 </blockquote>
 
@@ -2076,96 +2170,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가베팅 #복기일지 #20260731 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-08-03 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">전일 +17.91% 역대급 폭등 후, 오늘은 왜 신중해야 할까</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/03/0600-briefing/" rel="alternate" type="text/html" title="전일 +17.91% 역대급 폭등 후, 오늘은 왜 신중해야 할까" /><published>2026-08-03T06:00:00+09:00</published><updated>2026-08-03T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/03/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/03/0600-briefing/"><![CDATA[<h2 id="아침-시황">아침 시황</h2>
-
-<p>전 거래일 코스피가 사상 최대 일일 상승폭 +17.91%를 기록했다. 외국인 프로그램 매매 주도로 레버리지 ETF 규제 시행에도 불구하고 강한 상승세를 보였다. 하지만 오늘 아침은 상황이 달라진다. <strong>차익실현 압력이 본격화되고, 내일(8월 4일) 한국 CPI 발표 앞에서 변동성 리스크가 겹치기 때문이다.</strong> 이런 날일수록 신중함이 가장 좋은 전략이다.</p>
-
-<h2 id="-어제-ai-선별-복기-지난-금요일">📋 어제 AI 선별 복기 (지난 금요일)</h2>
-
-<p>AI는 <strong>신중 방향</strong>으로 금요일을 마감했다. 선별 종목은 3개였고, 실제 매매 기록을 보면 다음과 같다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목명</th>
-      <th>슬롯</th>
-      <th>지난 금요일 전략</th>
-      <th>어제(일요일) 결과</th>
-      <th>보유여부</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>한미반도체</td>
-      <td>프리마켓 선택</td>
-      <td>갭트레이드</td>
-      <td>갭하락 시 즉시 손절</td>
-      <td>✅ <strong>보유 중</strong></td>
-    </tr>
-    <tr>
-      <td>삼성전자</td>
-      <td>최종 선택</td>
-      <td>갭트레이드</td>
-      <td>어제 매수 후 당일 정리 (+0.83%)</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>삼성전기</td>
-      <td>최종 선택</td>
-      <td>갭트레이드</td>
-      <td>시초가 반응 관찰</td>
-      <td>—</td>
-    </tr>
-  </tbody>
-</table>
-
-<p><strong>실제 매매 기록:</strong></p>
-<ul>
-  <li><strong>한미반도체</strong>: 어제 평단 211,188원에 56주 매수 후 계속 보유 중. 저녁 애프터마켓에서 평단 대비 <strong>-2.13% 하회</strong>하며 위험 신호 발생.</li>
-  <li><strong>삼성전자</strong>: 어제 평단 256,861원에 18주 매수 후 <strong>당일 내 전량 청산</strong>. 실현손익 <strong>+0.83%</strong> 로 빠져나감.</li>
-  <li><strong>삼성전기</strong>: 매수 기록 없음. 전일 상한가 마감 후 저녁 애프터마켓 변동 없음.</li>
-</ul>
-
-<p>⚠️ <strong>한미반도체 위험 경고</strong>: 필라델피아 반도체 지수가 -3.45% 하락했고, 저녁 애프터마켓에서 이미 평단을 -2.13% 이탈했다. <strong>갭하락 시 즉시 손절이 권장된다.</strong></p>
-
-<h2 id="미국-시장과-반도체-모멘텀">미국 시장과 반도체 모멘텀</h2>
-
-<p>미국 야간 시장은 다우 +0.53%, S&amp;P500 +0.70%, 나스닥 +1.00%로 소폭 상승했다. <strong>하지만 반도체 섹터는 역풍이 불고 있다.</strong> 필라델피아 반도체 지수 <strong>-3.45% 하락</strong>은 국내 반도체 종목에 직접적인 압력을 미친다. 특히 한미반도체처럼 미국 의존도가 높은 기업들이 영향을 받기 쉽다.</p>
-
-<p>긍정 신호는 <strong>외국인 8.8조 원 순매수</strong> 지속이다. 전날 폭등의 주인공인 외국인 프로그램 매매가 여전히 시장에 참여하고 있다는 뜻이다. 다만 <strong>원화 강세(USD/KRW -19.8원)는 외국인의 이탈 신호가 될 수 있다</strong>는 점을 경계해야 한다.</p>
-
-<h2 id="오늘의-베팅-등급-yellow-신중-진입">오늘의 베팅 등급: YELLOW (신중 진입)</h2>
-
-<p><strong>등급 근거:</strong></p>
-<ul>
-  <li>전일 +17.91% 역대급 폭등 후 <strong>차익실현 압력 상높음</strong></li>
-  <li>내일 오전 8시 <strong>한국 CPI 발표</strong> 앞 변동성 리스크</li>
-  <li>필라델피아 반도체 -3.45% 하락으로 <strong>반도체 모멘텀 지속성 불확실</strong></li>
-  <li>70% 이하 신중 진입이 권장됨</li>
-</ul>
-
-<p><strong>오늘의 대응 전략:</strong></p>
-<ul>
-  <li><strong>시초가 갭상승 시</strong>: 분할 익절이 우선이다. 전일 큰 상승 후 오늘은 쉬어가는 하루가 될 가능성이 높기 때문이다.</li>
-  <li><strong>반도체 테마 진입</strong>: 내일 CPI 발표 전까지는 <strong>포지션을 경량으로 유지</strong>하는 것이 현명하다.</li>
-  <li><strong>한미반도체 보유자</strong>: 시초가 갭하락 시 손절을 실행하고, 갭상승이라도 <strong>15분 이상 흔들림 없이 지탱</strong>하는지 확인 후 행동하라.</li>
-</ul>
-
-<h2 id="오늘-주목할-변수">오늘 주목할 변수</h2>
-
-<p><strong>레버리지 ETF 규제 &amp; 금융위 조치:</strong>
-어제 규제에도 불구하고 코스피가 사상 최대 상승폭을 기록했다. <strong>금융위가 긴급조치권을 도입하려는 것은 정부의 시장 관리 의지를 보여준다.</strong> 이것이 긍정으로 읽힐 수도, 시장을 억누르는 규제로 읽힐 수도 있다.</p>
-
-<p><strong>반도체 수출 사상 최대 &amp; 무역흑자:</strong></p>
-<ul>
-  <li>반도체 수출: <strong>448억$(+199.5%)</strong> 사상 최대 경신</li>
-  <li>무역흑자: <strong>362억$(처음 300억$ 초과)</strong></li>
-</ul>
-
-<p><strong>이것은 펀더멘털 뒷받침이다.</strong> 국내 반도체 산업의 실적이 극도로 좋다는 뜻이다. 필라델피아 지수 하락은 단기 기술적 조정일 가능성도 있다. 다만 내일 CPI 발표 전까지는 이를 확인하기 어렵다.</p>
-
-<h2 id="마무리">마무리</h2>
-
-<p>전일 역대급 폭등은 투자자들에게 탐욕을 자극한다. 하지만 <strong>가장 강한 움직임 다음에는 언제나 차익실현이 온다.</strong> 오늘은 그 차익실현이 일어날 가능성이 높은 날이다. 또한 내일 CPI 발표는 시장의 방향을 뒤흔들 수 있는 요인이다.</p>
-
-<p><strong>신중 진입(YELLOW)은 약함이 아니라, 불필요한 손실을 피하는 전략이다.</strong> 오늘 차익을 챙기거나 소량으로 반응을 본 후 내일 CPI 발표 후 본격 진입을 노려보는 것은 어떨까. 댓글로 오늘 시초가 반응에 대해 나눠주세요.</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[아침 시황]]></summary></entry></feed>
+<p>#종가베팅 #복기일지 #20260731 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-08-03 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
