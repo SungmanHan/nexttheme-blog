@@ -1,4 +1,154 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-07T10:03:41+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">8/6 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/07/review-20260806-review/" rel="alternate" type="text/html" title="8/6 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-08-07T09:00:00+09:00</published><updated>2026-08-07T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/07/review_20260806-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/07/review-20260806-review/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-07T20:06:47+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 하락장에도 뭉칫돈 몰린 종목은 어디? — 석유화학·2차전지 종가베팅 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/07/nt2-1505-snapshot/" rel="alternate" type="text/html" title="코스피 하락장에도 뭉칫돈 몰린 종목은 어디? — 석유화학·2차전지 종가베팅 분석" /><published>2026-08-07T15:05:00+09:00</published><updated>2026-08-07T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/07/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/07/nt2-1505-snapshot/"><![CDATA[<p>오늘 코스피와 코스닥이 나란히 하락 마감하며 시장 분위기가 무거웠습니다 📉 이렇게 시장 전체가 흔들리는 날에도 유독 자금이 몰린 종목들이 있는데요, 오늘 종가베팅 분석에서 눈에 띈 두 종목을 살펴보겠습니다.</p>
+
+<h2 id="오늘-시장-왜-이렇게-힘이-없었을까">오늘 시장, 왜 이렇게 힘이 없었을까?</h2>
+
+<p>오늘 코스피·코스닥은 동반 약세를 보였습니다. 밤에 발표될 미국 고용지표를 앞두고 투자자들이 몸을 사린 영향이 컸는데요, 이런 관망 분위기 속에서도 <strong>2차전지·정유·석유화학</strong> 업종으로는 자금이 뚜렷하게 집중됐습니다. 시장 전체가 하락할 때 오히려 자금이 몰리는 곳을 찾는 것, 이게 종가베팅에서 중요하게 보는 포인트 중 하나입니다.</p>
+
+<h2 id="오늘-ai가-주목한-두-종목">오늘 AI가 주목한 두 종목</h2>
+
+<h3 id="1️⃣-한화솔루션--정책-수혜-업고-자금-집중">1️⃣ 한화솔루션 — 정책 수혜 업고 자금 집중</h3>
+
+<p>한화솔루션은 오늘 <strong>+9.9%</strong> 오르며 석유화학 테마에서 거래대금 <strong>1위</strong>를 기록했습니다. 미국의 태양광 관세와 국내 생산 세액공제라는 정책 수혜에 실적 개선 기대까지 겹치면서 오늘 하루에만 <strong>6,673억원</strong>의 거래대금이 몰렸습니다. 외국인이 <strong>23만 주</strong>, 큰 투자기관(기관)이 <strong>158만 주</strong>를 함께 순매수했고, 매수벽도 두껍게 쌓여있는 모습이었습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>항목</th>
+      <th>수치</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>기본</td>
+      <td>당일 종가 / 등락률</td>
+      <td>33,400원 / +9.9%</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>거래대금 / 시총</td>
+      <td>6,673억원 / 5.7조원</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>주도 테마 / 테마내순위</td>
+      <td>석유화학 / 1위</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>RSI / RVOL / 이평수렴</td>
+      <td>59.0 / 5.2 / +0.2%</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>52주 신고가 / OBV</td>
+      <td>아님 / 중립</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>외국인 순매수 / 기관 순매수</td>
+      <td>+23만 주 / +158만 주</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>호가신호</td>
+      <td>매수벽 강함</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>매출YoY</td>
+      <td>+45.3%</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>최근 분기 실적</td>
+      <td>2026년 2분기: 매출 45,286억원 / 영업이익 4억원</td>
+    </tr>
+    <tr>
+      <td>점수</td>
+      <td>AI 종합 점수</td>
+      <td>45점</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="2️⃣-삼성전기--전고체-배터리-대장주에-뭉칫돈">2️⃣ 삼성전기 — 전고체 배터리 대장주에 뭉칫돈</h3>
+
+<p>삼성전기는 오늘 시장에서 가장 많은 돈이 몰린 <strong>전고체 배터리</strong> 대표주였습니다. <strong>+4.3%</strong> 오르며 거래대금 <strong>1.9조원</strong>을 기록했는데, 외국인과 기관이 함께 순매수에 나섰고 아직 과열 신호(RSI)도 낮은 편이라 시장의 관심이 계속될지가 관건입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>항목</th>
+      <th>수치</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>기본</td>
+      <td>당일 종가 / 등락률</td>
+      <td>1,282,000원 / +4.3%</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>거래대금 / 시총</td>
+      <td>1.9조원 / 95.7조원</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>주도 테마 / 테마내순위</td>
+      <td>2차전지(전고체) / 1위</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>RSI / RVOL / 이평수렴</td>
+      <td>46.8 / 0.9 / +0.3%</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>52주 신고가 / OBV</td>
+      <td>아님 / 중립</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>외국인 순매수 / 기관 순매수</td>
+      <td>+3만 주 / +3만 주</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>호가신호</td>
+      <td>매수벽 강함</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>매출YoY</td>
+      <td>+19.1%</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>최근 분기 실적</td>
+      <td>2026년 2분기: 매출 33,162억원 / 영업이익 12억원</td>
+    </tr>
+    <tr>
+      <td>점수</td>
+      <td>AI 종합 점수</td>
+      <td>39점</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="nexttheme-알고리즘은-왜-이-종목들을-골랐을까">NextTheme 알고리즘은 왜 이 종목들을 골랐을까?</h2>
+
+<p>NextTheme 알고리즘은 단순히 오늘 많이 오른 종목이 아니라, <strong>외국인·기관이 동시에 사들이면서 거래대금까지 폭발한 종목</strong>을 우선적으로 찾습니다. 두 종목 모두 하락장 속에서도 수급이 꺾이지 않았고, 매수 호가가 두껍게 쌓여 있어 시장 심리가 쉽게 무너지지 않는 구간에 있었다는 공통점이 있습니다. AI 기록상 종가는 한화솔루션 33,400원, 삼성전기 1,282,000원입니다.</p>
+
+<p>오늘 흐름에서 개인적으로 주목한 부분은, 지수가 하락하는데도 특정 테마로만 자금이 몰리는 ‘쏠림’이 뚜렷했다는 점입니다. 이런 쏠림이 다음 거래일까지 이어질지, 아니면 하루짜리 순환매로 그칠지는 지켜봐야 할 부분이라고 생각합니다.</p>
+
+<h2 id="마무리하며">마무리하며</h2>
+
+<p>오늘은 지수 전체가 약세였던 만큼, 종목을 고를 때 업종별 자금 쏠림을 확인하는 게 더 중요했던 하루였습니다. 미국 고용지표 발표 결과에 따라 <strong>다음 주 월요일</strong> 시장 분위기가 달라질 수 있는 만큼, 이 두 종목의 수급이 계속 유지되는지가 관전 포인트입니다. 오늘 분석, 어떻게 보셨나요? 궁금한 종목이 있으면 댓글로 남겨주세요 💬</p>
+
+<p>#한화솔루션 #삼성전기 #석유화학 #전고체배터리 #2차전지 #종가베팅 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[오늘 코스피와 코스닥이 나란히 하락 마감하며 시장 분위기가 무거웠습니다 📉 이렇게 시장 전체가 흔들리는 날에도 유독 자금이 몰린 종목들이 있는데요, 오늘 종가베팅 분석에서 눈에 띈 두 종목을 살펴보겠습니다.]]></summary></entry><entry><title type="html">8/6 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/07/review-20260806-review/" rel="alternate" type="text/html" title="8/6 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-08-07T09:00:00+09:00</published><updated>2026-08-07T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/07/review_20260806-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/07/review-20260806-review/"><![CDATA[<blockquote>
   <p>데이터 기준: 2026-08-07 10:03 키움 ka10001 일괄 조회</p>
 </blockquote>
 
@@ -2422,101 +2572,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가베팅 #복기일지 #20260804 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-08-05 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">유가 급락과 반도체 모멘텀 강화, 오늘 외국인 수급 방향이 관건</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/05/0600-briefing/" rel="alternate" type="text/html" title="유가 급락과 반도체 모멘텀 강화, 오늘 외국인 수급 방향이 관건" /><published>2026-08-05T06:00:00+09:00</published><updated>2026-08-05T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/05/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/05/0600-briefing/"><![CDATA[<p>☀️ 아침이 밝았습니다. 간밤 미국이 저희 수익의 큰 방향을 정해두고 갔네요.</p>
-
-<h2 id="-어제-ai-선별-복기">📋 어제 AI 선별 복기</h2>
-
-<p>어제(2026-08-04) 전략은 <strong>신중한 판단</strong>이었습니다. 3종목을 선별했으나 실제 매수는 없었습니다.</p>
-
-<p>어제 전략의 실제 결과를 정리하면:</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목명</th>
-      <th>슬롯</th>
-      <th>어제 전략</th>
-      <th>오늘 결과</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>NAVER</td>
-      <td>15:10 최종</td>
-      <td>GAP_TRADE (갭상승 기대)</td>
-      <td>저녁 갭 +0.66% / -0.88%① 횡보. 시초가 AI 챗봇 테마 거래대금 지속 여부 관찰 후 재진입 검토</td>
-    </tr>
-    <tr>
-      <td>GS건설</td>
-      <td>15:10 최종</td>
-      <td>GAP_TRADE</td>
-      <td>저녁 갭 없음. 건설 테마 +18% 급등 후 청산 완료. 신규 진입 보류</td>
-    </tr>
-    <tr>
-      <td>대한광통신</td>
-      <td>19:10 선별</td>
-      <td>GAP_TRADE</td>
-      <td>저녁 갭 없음. 광통신 테마 대장으로 시초가 관심 지속 여부 관찰</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>① 종가 226,500원 기준</p>
-
-<p><strong>⚠️ NAVER</strong>: 외국인 전일 -8,769억원 이탈. 장중 HIGH 이벤트 다수로 변동성 리스크 주의</p>
-
-<p><strong>⚠️ 대한광통신</strong>: 테마 열기 정점 국면. 뒤늦은 진입 위험</p>
-
-<blockquote>
-  <p>어제는 외국인 수급 악화 지속이 일부 현실화되며 신중한 모습이 역할을 했습니다.</p>
-</blockquote>
-
-<h2 id="간밤-미국장--사상-최고치-경신과-유가-급락">간밤 미국장 — 사상 최고치 경신과 유가 급락</h2>
-
-<p><strong>간밤 미국장</strong>은 역사를 썼습니다:</p>
-<ul>
-  <li><strong>다우</strong>: <strong>+1.71%</strong> 사상 최고치 경신</li>
-  <li><strong>S&amp;P500</strong>: <strong>+1.79%</strong> 사상 최고치 경신</li>
-  <li><strong>나스닥</strong>: <strong>+2.59%</strong> 사상 최고치 경신</li>
-</ul>
-
-<p>호르무즈 해협 통항 협약 진전으로 국제유가가 <strong>-5%</strong> 급락했습니다. 유가 하락은 반도체·AI 테마의 원가 축소를 의미하며, 월가는 SK하이닉스 ADR에 매수 의견을 집중해 <strong>+8%</strong> 급등했습니다. 또한 스페이스X의 상장 후 첫 실적도 시장 예상을 상회하며 테크 모멘텀을 구성했습니다.</p>
-
-<p>다만 <strong>외국인 전일 -8,769억원 이탈</strong>이 지속 우려를 남기고 있습니다.</p>
-
-<h2 id="오늘의-베팅-등급-yellow-신중-모드">오늘의 베팅 등급: YELLOW (신중 모드)</h2>
-
-<p><strong>등급</strong>: YELLOW (신중도 <strong>65점</strong>)</p>
-
-<p>미국 3대 지수 사상 최고치 갱신과 호르무즈 협상 진전으로 반도체·AI 테마 모멘텀이 강세입니다. 하지만:</p>
-
-<ol>
-  <li><strong>외국인 이탈 지속</strong> (전일 -8,769억원)</li>
-  <li><strong>장중 HIGH 이벤트 다수</strong>: 21:15 ADP 고용지표, ISM 제조업 지수, 원유재고 발표</li>
-  <li><strong>변동성 대비 필요</strong></li>
-</ol>
-
-<h2 id="오늘의-대응-전략">오늘의 대응 전략</h2>
-
-<p>시초가 AI·반도체 테마가 갭업으로 열릴 가능성이 높습니다. 다만:</p>
-
-<p>✓ <strong>시초가 모멘텀 관찰</strong>: 갭업 강도와 거래대금 지속성 확인<br />
-✓ <strong>외국인 수급 방향 재확인</strong>: 어제 이탈이 계속되는지, 아니면 반전되는지<br />
-✓ <strong>HIGH 이벤트 변동성 대응</strong>: 21:15 ADP는 특히 주의(미국 최대 민간 고용지표)<br />
-✓ <strong>NAVER 외 AI 대장주 흐름</strong>: 테마 수렴도와 거래대금 추이 연속 모니터링</p>
-
-<h2 id="주목할-변수">주목할 변수</h2>
-
-<p><strong>🟢 기회</strong>: 호르무즈 협상 진전 지속 + 유가 추가 하락 시나리오 → 반도체·원가절감 테마 강화<br />
-<strong>🔴 리스크</strong>: 외국인 이탈 심화 + HIGH 이벤트 변동성 (ADP, ISM) → 테마 흐름 꺾임 우려<br />
-<strong>🟡 관건</strong>: SK하이닉스 ADR +8% 후 장중 수급 방향 — 추격매수 vs 익절 판단 분기</p>
-
-<h2 id="결론">결론</h2>
-
-<p>간밤 미국 사상 최고치는 오늘 아침 시장에 분명 긍정 신호입니다. 다만 외국인 이탈과 장중 이벤트 변동성이 공존하므로, <strong>시초가 모멘텀 확인 후</strong> 진입이 현명합니다.</p>
-
-<p>AI·반도체 테마의 지속성을 확인하고, NAVER·SK하이닉스·대형 반도체주의 흐름을 연속 관찰하면서 진입 타이밍을 잡아보세요.</p>
-
-<p>궁금한 종목이 있다면 댓글로 남겨주세요. 오늘의 시장 흐름을 함께 읽어보겠습니다.</p>
-
-<p>#반도체테마 #AI테마 #유가 #외국인수급 #SK하이닉스 #NAVER #종가베팅 #NextTheme #미국장 #오늘전략</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[☀️ 아침이 밝았습니다. 간밤 미국이 저희 수익의 큰 방향을 정해두고 갔네요.]]></summary></entry></feed>
+<p>#종가베팅 #복기일지 #20260804 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-08-05 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
