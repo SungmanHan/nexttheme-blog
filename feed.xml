@@ -1,4 +1,131 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-11T21:02:45+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">금호건설 상한가에 코스피는 강세 마감 — 8월 11일 종가베팅 하루 마감 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/11/daily/" rel="alternate" type="text/html" title="금호건설 상한가에 코스피는 강세 마감 — 8월 11일 종가베팅 하루 마감 정리" /><published>2026-08-11T21:00:00+09:00</published><updated>2026-08-11T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/11/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/11/daily/"><![CDATA[<p>오늘 하루도 고생 많으셨습니다 😊 코스피는 대형주 강세에 힘입어 상승 마감했고, 건설·태양광 정책 테마에 자금이 집중된 하루였습니다. 그 중심에는 상한가에 안착한 금호건설이 있었습니다. 오늘 시장이 어떻게 흘렀는지, AI가 어떤 종목을 종가베팅 후보로 골랐는지 정리해드립니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-12T06:05:45+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">미국 야간 약세에 외국인 순매도 지속 — 오늘 종가베팅 등급 RED, 신중한 포지셔닝 필수</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/12/0600-briefing/" rel="alternate" type="text/html" title="미국 야간 약세에 외국인 순매도 지속 — 오늘 종가베팅 등급 RED, 신중한 포지셔닝 필수" /><published>2026-08-12T06:00:00+09:00</published><updated>2026-08-12T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/12/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/12/0600-briefing/"><![CDATA[<h2 id="아침-시장-분위기-">아침 시장 분위기 📉</h2>
+
+<p>간밤 미국장이 3대 지수 동반 약세로 마감했습니다. 다우 <strong>-0.34%</strong> / S&amp;P500 <strong>-0.32%</strong> / 나스닥 <strong>-0.60%</strong>로 일제히 내렸고, 특히 기술주 중심 나스닥의 낙폭이 두드러졌습니다. 국내 시장도 이 흐름에 영향을 받아 <strong>외국인 순매도가 -2,142억원</strong>으로 계속 이어질 가능성이 높습니다.</p>
+
+<p>종가베팅 입장에서는 조심스러운 아침입니다. 오늘은 미국 CPI(21:30)라는 HIGH 이벤트가 남아 있어서, 시초가 방향을 먼저 확인하고 신중하게 접근할 필요가 있습니다.</p>
+
+<hr />
+
+<h2 id="-어제-ai-선별-복기--미국-약세외국인-매도-시나리오-현실화">📋 어제 AI 선별 복기 — 미국 약세·외국인 매도 시나리오 현실화</h2>
+
+<p>어제 선별 방향은 <strong>STANDBY(관망)</strong>였으며, 실제로 야간 미국 약세와 외국인 순매도 지속이 모두 실현됐습니다.</p>
+
+<h3 id="선별-종목-현황">선별 종목 현황</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목명</th>
+      <th>슬롯</th>
+      <th>어제 전략</th>
+      <th>오늘 상황</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>삼성전자</strong></td>
+      <td>19:10 선별</td>
+      <td>갭트레이드</td>
+      <td>✅ 보유 중(평단 240,500원) — 야간 -1.25% 락(14,538원), 시초가 약세 우려. 외국인 매수 신호 감지 후 익절 계획 실행 권고</td>
+    </tr>
+    <tr>
+      <td><strong>대원전선</strong></td>
+      <td>—</td>
+      <td>—</td>
+      <td>✅ 보유 중(평단 15,268원) — AI 선별 밖 수동 매수 품목. 저녁 <strong>-4.90% 락</strong> 후 추가 약세 시 즉시 손절 필수 ⚠️</td>
+    </tr>
+    <tr>
+      <td><strong>금호건설</strong></td>
+      <td>15:10 최종</td>
+      <td>갭트레이드</td>
+      <td>상한가(+11.6%) 도달했으나 미매수. 시초가 상승폭 확인 후 외국인 신규 매수 신호 시에만 추격</td>
+    </tr>
+    <tr>
+      <td><strong>NHN</strong></td>
+      <td>19:10 선별</td>
+      <td>갭트레이드</td>
+      <td>상한가(+12.0%) 도달했으나 미매수. 나스닥 -0.60% + 외국인 순매도 우려로 시초가 추격 약화 예상</td>
+    </tr>
+    <tr>
+      <td><strong>주성엔지니어링</strong></td>
+      <td>15:10 최종</td>
+      <td>갭트레이드</td>
+      <td>어제 신뢰도 LOW였으며 미매수. 미국 장비섹터 약세 추가로 다른 기회 대기 권고</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="복기-핵심">복기 핵심</h4>
+
+<ul>
+  <li><strong>삼성전자</strong>: 야간 미국 약세에 윗꼬리 0.54(반도체 섹터 저항) 고착. 평단 대비 저녁 <strong>-1.25%</strong> 락으로 시초가 약세 신호 명확.</li>
+  <li><strong>대원전선</strong>: 전일 내 실현손익 <strong>-100%</strong> 기록했던 품목. 저녁 -4.90% 락 후 미국 약세 추가 압박으로 아침 추가 약세 고위험. <strong>손절 우선</strong>.</li>
+  <li><strong>금호건설, NHN</strong>: 어제 상한가 도달 후 외국인 매수 신호 없이 미국 약세 → 오늘 추격 약화가 정상 판단.</li>
+  <li><strong>전체 방향</strong>: 어제 예상했던 “<strong>야간 미국 선물 급반등 또는 외국인 순매수 전환</strong>” 미발동. 현재까지 미국 지수 약세 + 외국인 순매도 기록 → <strong>RED 등급 유지</strong> 정당.</li>
+</ul>
+
+<hr />
+
+<h2 id="-간밤-미국장-상황-분석">🌍 간밤 미국장 상황 분석</h2>
+
+<p><strong>다우(-0.34%), S&amp;P500(-0.32%), 나스닥(-0.60%)</strong> 3대 지수가 동반 약세로 마감했습니다. 특히 필라델피아 반도체 지수에서 <strong>윗꼬리 0.54~0.90</strong> 형태의 상단 매도압력이 고착돼 있어서, 기술주와 반도체 섹터가 추가 약세 리스크를 안고 있습니다.</p>
+
+<p>기술적으로도 <strong>윗꼬리</strong>는 “장 중 상승했으나 상단에서 밀려남”을 의미하는데, 이는 단기 매도세의 저항이 강하다는 신호입니다. 외국인의 일시적 손절로 이어질 가능성도 있어서, 국내 시장도 시초가 때 외국인 방향을 먼저 살피는 것이 중요합니다.</p>
+
+<hr />
+
+<h2 id="-오늘의-베팅-등급--전략">📊 오늘의 베팅 등급 &amp; 전략</h2>
+
+<h3 id="등급-red-감정점수-28100">등급: <strong>RED</strong> (감정점수 28/100)</h3>
+
+<p>강한 약세 신호입니다. 감정점수 <strong>28점</strong>은 시장 신경이 매우 곤두서 있고, 추가 낙폭 가능성이 높다는 뜻입니다.</p>
+
+<h3 id="전략-분석">전략 분석</h3>
+
+<p>미국 3대 지수 일제 약세(<strong>다우-0.34% / 나스닥-0.60%</strong>) + <strong>상단 매도압력(윗꼬리 0.65~0.90) + 외국인 순매도(-2,142억원) 지속</strong> 이 세 신호가 모두 가리키는 방향은 같습니다: <strong>오늘은 종가베팅 비중을 30% 이하로 제한하거나 관망하는 것이 정답</strong>입니다.</p>
+
+<p>다만, 완전히 피해야 할 이유만은 아닙니다. 장 중 HIGH 이벤트인 <strong>미국 CPI(21:30)</strong> 가 예정돼 있고, 만약 예상보다 약할 경우 빠른 반등이 이어질 수 있기 때문입니다. 따라서:</p>
+<ul>
+  <li><strong>시초가 갭 형태를 먼저 확인</strong> — 갭상승 vs 갭하락</li>
+  <li><strong>외국인 신규 매수 신호 감지 후 조건부 진입</strong> — 30~50% 수준의 제한 비중만 취할 것</li>
+</ul>
+
+<hr />
+
+<h2 id="️-주목할-변수-오늘의-이벤트와-리스크">⚠️ 주목할 변수: 오늘의 이벤트와 리스크</h2>
+
+<h3 id="호르무즈-해협-협상-불확실성--유가-반등">호르무즈 해협 협상 불확실성 + 유가 반등</h3>
+<p>협상이 언제든 결렬될 수 있다는 시장의 불안감으로 유가가 <strong>83.5달러</strong>로 반등했습니다. 유가 반등은 에너지·조선·자동차 테마에 긍정적이지만, 또 한번 협상 불안정 뉴스가 나올 경우 급락할 수 있는 구조입니다.</p>
+
+<h3 id="반도체-수출-호조-vs-나스닥-약세의-괴리">반도체 수출 호조 vs 나스닥 약세의 괴리</h3>
+<p>한국의 반도체 수출이 <strong>사상 2위(410.1억$, +178.8%)</strong> 기록하며 메모리 가격 강세가 지속되고 있습니다. 이는 장기 긍정 신호이지만, <strong>나스닥이 -0.60%</strong> 내려간 것과는 괴리가 있습니다. 즉, 반도체·반도체장비 테마 추격은 <strong>외국인 매수 신호가 명확해진 후</strong>에만 시작해야 합니다.</p>
+
+<h3 id="미국-고용-둔화--금리인상-기대-후퇴-금값-상승">미국 고용 둔화 → 금리인상 기대 후퇴, 금값 상승</h3>
+<p>고용이 약해질 신호가 보이면서 연방준비제도(FED)의 금리인상 가능성이 낮아지고 있습니다. 이는 금에 호재인데, <strong>금값이 4,426.6달러</strong>로 상승한 것으로 확인됩니다. 장기 안전자산 선호 심화 신호이기도 합니다.</p>
+
+<h3 id="오늘-2130-cpi--내일-생산자물가신규-실업수당-high-이벤트">오늘 21:30 CPI + 내일 생산자물가·신규 실업수당 HIGH 이벤트</h3>
+<p>오늘 미국 물가지수(CPI) 발표가 예정돼 있고, 내일도 생산자물가(PPI)와 신규 실업수당(Initial Jobless Claims)이라는 민감한 지표가 나옵니다. <strong>익일 변동성 리스크가 높은</strong> 상황이므로, 오늘 진입한 포지션은 최대한 당일 정리를 권고합니다.</p>
+
+<hr />
+
+<h2 id="결론-신중함이-경쟁력인-날">결론: 신중함이 경쟁력인 날</h2>
+
+<p>오늘은 <strong>RED 등급 + 미국 약세 + 외국인 순매도</strong> 삼박자가 맞았습니다. 지난 며칠간의 추격 모멘텀이 한 발 물러난 상황입니다.</p>
+
+<p><strong>추천 행동 방침:</strong></p>
+<ol>
+  <li>시초가 갭 크기를 먼저 관찰하기 — 갭상승 시에만 관심</li>
+  <li>반도체·컴퓨터·무선통신 수출 수혜 테마는 <strong>외국인 매수 전환이 명확해진 후</strong>에만 진입</li>
+  <li>기존 보유 종목 중 저녁 락이 큰 건(예: 대원전선 -4.90%) <strong>손절 우선</strong></li>
+  <li>비중은 평소의 30~50% 수준만 — CPI 발표 후 변동성 확대 가능</li>
+  <li>내일 생산자물가·신규 실업수당으로 또 한번 흔들릴 준비</li>
+</ol>
+
+<p><strong>댓글로 오늘의 시장 분위기나 전략을 나눠주세요. 함께 관찰하겠습니다.</strong></p>
+
+<hr />
+
+<p>#미국약세 #종가베팅 #RED등급 #외국인순매도 #반도체테마 #경건한거래 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[아침 시장 분위기 📉]]></summary></entry><entry><title type="html">금호건설 상한가에 코스피는 강세 마감 — 8월 11일 종가베팅 하루 마감 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/11/daily/" rel="alternate" type="text/html" title="금호건설 상한가에 코스피는 강세 마감 — 8월 11일 종가베팅 하루 마감 정리" /><published>2026-08-11T21:00:00+09:00</published><updated>2026-08-11T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/11/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/11/daily/"><![CDATA[<p>오늘 하루도 고생 많으셨습니다 😊 코스피는 대형주 강세에 힘입어 상승 마감했고, 건설·태양광 정책 테마에 자금이 집중된 하루였습니다. 그 중심에는 상한가에 안착한 금호건설이 있었습니다. 오늘 시장이 어떻게 흘렀는지, AI가 어떤 종목을 종가베팅 후보로 골랐는지 정리해드립니다.</p>
 
 <h2 id="미국-시장-반도체가-흔들렸다">미국 시장, 반도체가 흔들렸다</h2>
 
@@ -2183,124 +2310,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <p>궁금한 섹터나 다음주 전략이 있으면 댓글로 남겨주세요. 다음주 이벤트들의 결과에 따라 종목 선별도 크게 달라질 것 같습니다.</p>
 
-<p>#코스닥 #2차전지 #화장품 #반도체 #순환매 #코스피 #CPI발표 #금리인하 #K뷰티 #환율 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="weekly" /><summary type="html"><![CDATA[이번 주는 “미국의 신호, 국내의 대변동” 으로 요약됩니다. 미국 고용 약세로 금리인하 기대가 높아지면서 나스닥이 호황을 누렸지만, 국내 시장은 반도체 약세 때문에 코스피가 −5.10% 내려앉았습니다. 반면 코스닥은 +10.98% 급등하며 두 지수가 정반대 방향으로 갈라진 한 주였습니다.]]></summary></entry><entry><title type="html">월요일 개장 앞두고, 반도체·2차전지 모멘텀이 국내로 올까?</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/09/weekend/" rel="alternate" type="text/html" title="월요일 개장 앞두고, 반도체·2차전지 모멘텀이 국내로 올까?" /><published>2026-08-09T06:00:00+09:00</published><updated>2026-08-09T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/09/weekend</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/09/weekend/"><![CDATA[<h2 id="일요일-저녁-다시-생각해보는-시장-흐름">일요일 저녁, 다시 생각해보는 시장 흐름</h2>
-
-<p>주말도 시장은 쉬지 않습니다. 미국 주식시장의 움직임이 월요일 한국 증시에 영향을 미칠 테니까요. 어제(금요일) 선별한 종목들을 보면서, 월요일 장 초반이 어떻게 흘러갈지 생각해봅시다. 🌅</p>
-
-<h2 id="-미국-야간-시장--매크로-분위기">🌍 미국 야간 시장 &amp; 매크로 분위기</h2>
-
-<p>그저께 밤(금요일) 미국 주식시장은 기술주 중심으로 상승했습니다. 다우지수 <strong>+0.28%</strong>, S&amp;P500 <strong>+0.62%</strong>, 나스닥 <strong>+1.30%</strong>의 모습입니다. 특히 반도체 강세가 두드러졌는데, 필라델피아 반도체 지수가 <strong>+2.56%</strong> 올랐거든요.</p>
-
-<p>이게 왜 중요할까요? 한국의 삼성전자, 삼성전기, SK하이닉스 같은 반도체 관련 종목들은 미국 반도체 시장의 신호를 민감하게 따릅니다. 미국에서 반도체 수요가 강하다는 신호가 나오면, 한국 반도체 수출 기업들에 대한 기대감이 높아지는 거죠.</p>
-
-<p>더하면, 금주 우리 시장도 나름 강했습니다:</p>
-<ul>
-  <li><strong>반도체 수출</strong> 사상 첫 <strong>400억$ 돌파</strong> (전월 대비 +199.5%의 폭발적 증가)</li>
-  <li><strong>무역흑자</strong> 최대치인 <strong>362억$ 경신</strong></li>
-  <li><strong>원화 강세</strong> (원달러 -13.5원)</li>
-  <li><strong>2차전지·정유 섹터</strong> 주간 +7% 대 강세</li>
-</ul>
-
-<p>다만, <strong>외국인의 순매도</strong> 흐름(-1.24조)은 여전히 불안 신호입니다.</p>
-
-<h2 id="-월요일-베팅-등급--전략">📊 월요일 베팅 등급 &amp; 전략</h2>
-
-<table>
-  <tbody>
-    <tr>
-      <td><strong>등급: YELLOW(조건부 관망)</strong></td>
-      <td><strong>신호 강도: 2/100</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>이런 분위기에서 월요일 시장은 어떻게 될까요? 미국 반도체 강세가 후속될지가 핵심입니다.</p>
-
-<p><strong>추천 전략:</strong></p>
-<ul>
-  <li>차주 초반, <strong>미국 반도체 강세가 얼마나 지속되는지가 기준</strong></li>
-  <li>만약 월요일 장 초반 <strong>반도체·2차전지가 갭상승</strong>하면, 단기 모멘텀에 탑승할 기회가 생길 수 있습니다</li>
-  <li>외국인 이탈이 계속되는 상황이므로, <strong>기관·개인 매수가 동반하는 중소형주 중심으로 분산</strong> 선별이 필요합니다</li>
-  <li>장중 초반 강세 이후 <strong>차익실현 압력</strong>이 나타날 수 있으니 주의</li>
-</ul>
-
-<h2 id="-주목할-섹터는">🔍 주목할 섹터는?</h2>
-
-<p><strong>2차전지</strong> — 미국 필라반도체 강세(+2.56%) + 국내 섹터 주간 +7.54% 모멘텀 + 반도체 수출 폭발(+199.5% YoY) 배경에서 전기차 수요 기대감이 높습니다.</p>
-
-<p><strong>반도체</strong> — 미국 반도체 강세 + 한국 반도체 수출 최대치 돌파(448억$). HBM·DDR5 같은 고부가 메모리 수요가 견조한 상황이 긍정적입니다.</p>
-
-<p><strong>정유·석유화학</strong> — 국내 섹터 주간 +7.01%, WTI 유가 +0.89 상승. 석유제품 수출 증가 흐름이 반영되고 있습니다.</p>
-
-<h2 id="-그저께금요일-ai-선별-복기-하이라이트">📋 그저께(금요일) AI 선별 복기 (하이라이트)</h2>
-
-<p>금요일 15:10 종가 시점 <strong>4개 종목이 선별</strong>됐고, 추가로 탐색 슬롯에서 1개 종목이 후보였습니다.</p>
-
-<p>전체 방향은 <strong>관망(MAINTAIN)</strong> 으로, 금요일 장과 시장이 잘 맞아떨어진 상황이었습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목명</th>
-      <th>슬롯</th>
-      <th>금요일 전략</th>
-      <th>저녁 추이</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>삼성전기</td>
-      <td>15:10 최종</td>
-      <td>갭트레이드(갭업 시 익절)</td>
-      <td>종가 대비 <strong>+1.40%</strong> (15:40~19:59)</td>
-    </tr>
-    <tr>
-      <td>한화솔루션</td>
-      <td>15:10 최종</td>
-      <td>갭트레이드(갭업 시 익절)</td>
-      <td>종가 대비 <strong>+1.50%</strong> (15:40~19:59)</td>
-    </tr>
-    <tr>
-      <td>삼성SDI</td>
-      <td>12:10 탐색</td>
-      <td>장중 탐색 후보</td>
-      <td>종가 대비 -0.55%~+1.89% (변동폭)</td>
-    </tr>
-    <tr>
-      <td>포스코퓨처엠</td>
-      <td>10:10 탐색</td>
-      <td>장중 탐색 후보</td>
-      <td>종가 대비 -0.58%~+0.78% (변동폭)</td>
-    </tr>
-    <tr>
-      <td>대원전선</td>
-      <td>이월보유</td>
-      <td>보유 종목</td>
-      <td><strong>평단 대비 -10.24%</strong> (저점, 보유중)</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>전체적으로 반도체·2차전지 관련주 중심의 선별이었고, <strong>삼성전기·한화솔루션은 저녁 수익 구간에서 움직였습니다</strong>. 다만 대원전선처럼 평단 대비 큰 낙폭을 기록한 이월보유 종목도 있으니, <strong>월요일 시초가에서 방향 전환이 있는지 주목</strong>해야 합니다.</p>
-
-<h2 id="-월요일-핵심-변수--포지션-대응">🎯 월요일 핵심 변수 &amp; 포지션 대응</h2>
-
-<p><strong>장 초반이 결정적입니다.</strong> 미국 필라반도체 강세가 후속되면, 국내 반도체·2차전지가 갭상승할 확률이 높습니다. 이때:</p>
-
-<ul>
-  <li><strong>대형주(외국인 선호) 중 저점 진입 종목</strong> → 월요일 갭상승 시 <strong>일부 익절</strong> 고려</li>
-  <li><strong>중소형주(기관·개인 선호)</strong> → <strong>HOLD</strong> — 모멘텀이 더 오래 지속될 가능성</li>
-  <li><strong>2차전지 관련주</strong> → 미국 후속 모멘텀을 <strong>1시간 이상 관찰한 후</strong> 판단</li>
-</ul>
-
-<p>이월보유 중 하락폭이 큰 종목들은 월요일 시초가에서 <strong>기술적 반등이 있는지 확인</strong>하는 게 중요합니다.</p>
-
-<h2 id="마무리--월요일은-시작에-불과">마무리 — 월요일은 시작에 불과</h2>
-
-<p>“주말이 끝났다”는 생각보다 “미국이 보낸 신호를 어떻게 읽을 것인가”가 더 중요한 순간입니다. 반도체 강세, 무역흑자 최대치, 원화 강세 — 여러 긍정 신호가 있지만, 외국인 이탈은 여전한 불안 신호.</p>
-
-<p><strong>월요일 장 초반 30분이 주의 흐름을 결정합니다.</strong> 오늘 분석을 참고해 월요일을 맞이하세요. 혹시 궁금한 종목이 있으면 댓글로 남겨주시고, 이웃 추가 많이 부탁드립니다 🤝</p>
-
-<hr />
-
-<p>#종가베팅 #반도체 #2차전지 #월요일시장 #미국반도체강세 #NextTheme #종목분석 #수급분석 #모멘텀</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[일요일 저녁, 다시 생각해보는 시장 흐름]]></summary></entry></feed>
+<p>#코스닥 #2차전지 #화장품 #반도체 #순환매 #코스피 #CPI발표 #금리인하 #K뷰티 #환율 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="weekly" /><summary type="html"><![CDATA[이번 주는 “미국의 신호, 국내의 대변동” 으로 요약됩니다. 미국 고용 약세로 금리인하 기대가 높아지면서 나스닥이 호황을 누렸지만, 국내 시장은 반도체 약세 때문에 코스피가 −5.10% 내려앉았습니다. 반면 코스닥은 +10.98% 급등하며 두 지수가 정반대 방향으로 갈라진 한 주였습니다.]]></summary></entry></feed>
