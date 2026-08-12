@@ -1,4 +1,115 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-12T21:02:36+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 하루 만에 +3.68%, 반도체·전선에 외국인 자금 몰린 날 — 종가베팅 하루 마감 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/12/daily/" rel="alternate" type="text/html" title="코스피 하루 만에 +3.68%, 반도체·전선에 외국인 자금 몰린 날 — 종가베팅 하루 마감 정리" /><published>2026-08-12T21:00:00+09:00</published><updated>2026-08-12T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/12/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/12/daily/"><![CDATA[<p>오늘 코스피가 하루 만에 6,579선까지 뛰어올랐습니다 🚀 미국 증시는 밤사이 약세였는데, 국내 시장은 반도체와 전선 테마를 중심으로 완전히 다른 그림을 그린 하루였습니다. 오늘 하루를 시황부터 AI 종가 선별 복기까지 순서대로 정리해 드립니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-13T06:06:02+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 3연상 후 내일 소매판매 앞, 베팅 등급은 YELLOW — 아침 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/13/0600-briefing/" rel="alternate" type="text/html" title="코스피 3연상 후 내일 소매판매 앞, 베팅 등급은 YELLOW — 아침 분석" /><published>2026-08-13T06:00:00+09:00</published><updated>2026-08-13T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/13/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/13/0600-briefing/"><![CDATA[<h2 id="도입부-">도입부 🌅</h2>
+
+<p>간밤 미국장에서는 나스닥·S&amp;P500이 완만한 상승세를 보였으나, 다우지수는 <strong>−0.04%</strong> 내림세로 혼조를 이루었습니다. 국내는 어제 외국인 <strong>32,861억원</strong> 규모의 순매수가 몰리면서 코스피가 <strong>3.68% 상승</strong>해 6500선을 회복했습니다. 하지만 필라델피아 반도체지수의 상단꼬리(0.91)와 내일의 미국 소매판매 고강도 이벤트가 변동성 요인으로 남아 있어, 오늘은 신중함이 필요한 하루입니다.</p>
+
+<h2 id="-어제8월-12일-ai-선별-복기--신중-국면에서의-진입과-관망">📋 어제(8월 12일) AI 선별 복기 — 신중 국면에서의 진입과 관망</h2>
+
+<p>어제 AI가 선별한 <strong>5개 종목</strong> 중 최종 선별(15:10 최종)로 진입한 삼성전자·대원전선과 저녁 NXT 슬롯(19:10 선별)의 실리콘투 3개 종목을 실제로 매수했습니다. 전체 판단은 <strong>신중 국면(CAUTIOUS)</strong>이었는데, 그 이유는 야간 미국 시장의 혼조와 반도체지수 매도압력을 고려한 결정입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목명</th>
+      <th>진입 슬롯</th>
+      <th>어제 전략</th>
+      <th>오늘 대응</th>
+      <th>상태</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>삼성전자</strong></td>
+      <td>15:10 최종</td>
+      <td>갭트레이드</td>
+      <td>시초가 갭상승(+1% 이상) 확인 후 외국인 매수량 평가 → 약하면 즉시 손절</td>
+      <td>✅ 보유 중</td>
+    </tr>
+    <tr>
+      <td><strong>대원전선</strong></td>
+      <td>15:10 최종</td>
+      <td>갭트레이드</td>
+      <td>시초가 갭상승 확인 후 출구 계획 실행 / 갭 미달 시 시초가 −1.5% 근처 손절</td>
+      <td>✅ 보유 중</td>
+    </tr>
+    <tr>
+      <td><strong>실리콘투</strong></td>
+      <td>19:10 선별</td>
+      <td>갭트레이드</td>
+      <td>시초가 갭상승(+1.5% 이상) 시 단계적 수익 실현 / 갭 미달 시 관망</td>
+      <td>✅ 보유 중</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>저녁 흐름 정리:</strong></p>
+<ul>
+  <li><strong>삼승전자</strong>: 평단 258,500원 기준으로 저녁에 <strong>+0.19% ~ −1.16%</strong> 진동</li>
+  <li><strong>대원전선</strong>: 평단 16,030원 기준으로 저녁내 <strong>0% 횡보</strong>(변화 없음)</li>
+  <li><strong>실리콘투</strong>: 평단 45,169원 기준으로 <strong>+0.84% ~ −0.26%</strong> 진동</li>
+</ul>
+
+<p><strong>장중 탐색 후보(실매수 없음):</strong></p>
+<ul>
+  <li><strong>한국콜마</strong>(10:10 탐색): 장중 탐색 후보였으나 실매수는 없었습니다. 야간 종가 기준 <strong>−5.40%</strong> 급락으로 갭하락 리스크가 크며, 화장품 테마의 수익 실현 압력을 반영하고 있습니다.</li>
+  <li><strong>LG전자</strong>(14:30 선별): 14:30 슬롯 후보였으나 신규 진입 없었습니다. 야간 저점이 <strong>(+1.49%)</strong> 높아 갭다운 리스크는 낮으나, confidence=LOW 수준의 판단이었습니다.</li>
+</ul>
+
+<blockquote>
+  <p>⚠️ <strong>리스크 플래그</strong>: 삼성전자의 필라델피아 반도체 상단꼬리(0.91)와 한국콜마의 급락폭(−5.40%)이 주목할 점입니다. 특히 삼성전자는 시초가 강도가 약화될 리스크가 있으며, 내일 소매판매 이벤트 결과에 따라 외국인 이탈이 가능합니다.</p>
+</blockquote>
+
+<h2 id="간밤-미국장-복기-">간밤 미국장 복기 🌍</h2>
+
+<p>7월 CPI가 <strong>3.4%</strong> 예상치에 부합하면서 9월 금리 인상 우려가 완화됐습니다. 이에 나스닥은 <strong>+0.54%</strong>, S&amp;P500은 <strong>+0.26%</strong> 소폭 상승했으나, 다우는 <strong>−0.04%</strong>로 내렸고 상단꼬리(<strong>0.84</strong>)를 형성했습니다.</p>
+
+<p>특히 <strong>필라델피아 반도체지수는 상단꼬리 0.91</strong>을 기록하며 장 막판 매도세를 드러냈습니다. 이는 나스닥·S&amp;P500의 상승세가 광범위하지 못하고, 일부 기술주 수익 실현이 진행 중임을 시사합니다.</p>
+
+<h2 id="오늘의-베팅-등급--전략-">오늘의 베팅 등급 &amp; 전략 📊</h2>
+
+<p><strong>베팅 등급: YELLOW (신중, 점수 58/100)</strong></p>
+
+<p>국내 반도체·전선·화장품 테마는 지표 개선 진행 중입니다. 어제 외국인의 대규모 순매수(<strong>32,861억원</strong>)와 코스피 3거래일 연속 상승이 긍정적 신호입니다. 다만:</p>
+
+<ol>
+  <li><strong>미국 혼조 + 반도체 상단꼬리</strong> → 나스닥 강세가 계속될지 불확실</li>
+  <li><strong>내일 소매판매 HIGH 이벤트</strong> → 예상보다 높으면 금리 인상 우려 재부각, 예상 이하면 나스닥 추가 상승</li>
+</ol>
+
+<p><strong>오늘의 대응 전략:</strong></p>
+<ul>
+  <li><strong>시초가 갭 방향 확인</strong>: 시초가가 <strong>+1% 이상</strong> 갭상승하면 외국인 10분봉 누적량을 확인</li>
+  <li><strong>외국인 추가 매수 신호 필수</strong>: 갭만 크고 장중 회피하면 매도세 신호로 봐 즉시 손절 기준 적용</li>
+  <li><strong>포지션 비중 관리</strong>: 보유 종목은 <strong>70% 이하</strong> 비중으로, 손절 기준을 시초가 <strong>−2%</strong> 또는 저녁 저점 근처로 설정</li>
+  <li><strong>신규 진입 보류</strong>: 내일 이벤트 결과까지 추가 매수는 자제, 기존 포지션 관리에 집중</li>
+</ul>
+
+<h2 id="내일-주목할-변수-">내일 주목할 변수 ⚡</h2>
+
+<p><strong>🔴 고강도(HIGH) 이벤트: 미국 소매판매</strong></p>
+
+<p>근원 및 명목 소매판매 발표가 예정되어 있습니다.</p>
+
+<ul>
+  <li><strong>상승 시나리오</strong>: 소비 호조 재확인 → 금리 인상 우려 완화 → 나스닥·국내 IT 추가 상승</li>
+  <li><strong>하락 시나리오</strong>: 소비 부진 신호 → 경기 둔화 우려 → 반도체·IT 급락. 오늘의 갭 강도가 시초 신호</li>
+</ul>
+
+<p><strong>📌 야간 저점 형성 종목 주의</strong></p>
+
+<ul>
+  <li><strong>한국콜마(−5.40%)</strong>: 갭하락 가능성 높음. 접근 금지 권고</li>
+  <li><strong>삼성전자(−1.16%)</strong>: 저녁 저점까지 내려갔다는 것은 외국인 수익 실현 신호 가능성. 시초가 강도로 재판단 필수</li>
+</ul>
+
+<h2 id="마무리-">마무리 💡</h2>
+
+<p>오늘 국내 시장은 반도체·전선 섹터 선호도가 높으나, 내일 소매판매 이벤트 앞에서 변동성이 커질 수 있습니다. <strong>포지션을 줄이고 손절 기준을 명확히 하는 것</strong>이 오늘의 생존 전략입니다.</p>
+
+<p>현재 보유 중인 삼성전자·대원전선·실리콘투 세 종목은 어제 최종 선별로 진입했으나, 오늘은 <strong>“갭 강도로 재판단”하는 날</strong>입니다. 시초가가 약하거나 장중 회피 신호가 나타나면 망설이지 말고 손절하세요.</p>
+
+<p>궁금한 점이나 오늘의 시장 흐름이 어떻게 전개되는지 댓글로 의견 나눠주세요!</p>
+
+<p>#반도체 #외국인 #종가베팅 #NextTheme #나스닥 #코스피 #갭트레이드 #삼성전자</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[도입부 🌅]]></summary></entry><entry><title type="html">코스피 하루 만에 +3.68%, 반도체·전선에 외국인 자금 몰린 날 — 종가베팅 하루 마감 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/12/daily/" rel="alternate" type="text/html" title="코스피 하루 만에 +3.68%, 반도체·전선에 외국인 자금 몰린 날 — 종가베팅 하루 마감 정리" /><published>2026-08-12T21:00:00+09:00</published><updated>2026-08-12T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/12/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/12/daily/"><![CDATA[<p>오늘 코스피가 하루 만에 6,579선까지 뛰어올랐습니다 🚀 미국 증시는 밤사이 약세였는데, 국내 시장은 반도체와 전선 테마를 중심으로 완전히 다른 그림을 그린 하루였습니다. 오늘 하루를 시황부터 AI 종가 선별 복기까지 순서대로 정리해 드립니다.</p>
 
 <h2 id="미국-시장은-약세-그런데-유가와-반도체-수출은">미국 시장은 약세, 그런데 유가와 반도체 수출은?</h2>
 
@@ -2252,198 +2363,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <p>오늘은 작은 것이 크게 오르는 세상이 됐습니다. 제2우주센터 발표와 미국의 반도체 강세가 겹치면서 <strong>“지금 할 말은 내일 아침 갭이 전부”</strong>라는 원칙을 다시 한 번 증명했습니다. 내일 아침 시초가 전개를 기다리며, 오늘의 진입 물량이 확인될지 관망합시다. 궁금한 종목이나 의견이 있으신 분은 댓글로 남겨주세요.</p>
 
-<p>#종가베팅 #코스닥 #우주항공 #광통신 #반도체장비 #갭상승 #대한광통신 #한화에어로스페이스 #주성엔지니어링 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[반도체와 우주항공 자금이 동시에 살아난 강세장을 마감합니다. 미국 필라델피아 반도체지수의 연쇄 강세가 국내로 전이되면서 코스닥이 6.97% 급등했지만, 외국인의 1.24조원 순매도가 계속되면서 코스피는 0.65% 상승으로 제한됐습니다. 오늘 하루는 대형주가 버티는 동안 우주항공·광통신·반도체 장비 같은 중소형 테마가 자금을 총괄한 ‘섹터 회전의 날’이었습니다.]]></summary></entry><entry><title type="html">코스닥 6% 급등한 날, 자금은 우주항공·광통신으로 몰렸다 — 오늘 종가베팅 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/10/nt2-1505-snapshot/" rel="alternate" type="text/html" title="코스닥 6% 급등한 날, 자금은 우주항공·광통신으로 몰렸다 — 오늘 종가베팅 분석" /><published>2026-08-10T15:05:00+09:00</published><updated>2026-08-10T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/10/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/10/nt2-1505-snapshot/"><![CDATA[<p>오늘 코스닥은 6%가 넘게 뛰며 후끈 달아올랐습니다. 이런 날은 “어디에 돈이 몰렸는가”만 봐도 시장의 속내가 보이는데, 오늘은 우주항공·광통신·반도체 장비 세 업종으로 자금이 뚜렷하게 집중됐어요. 종가베팅 알고리즘 NextTheme이 오늘 마감 시점(15:10) 최종 스냅샷에서 골라낸 세 종목을 함께 살펴보겠습니다 📊</p>
-
-<h2 id="오늘-시장-한눈에-보기">오늘 시장, 한눈에 보기</h2>
-
-<p>코스닥이 6% 넘게 급등한 강세장에서 우주항공·광통신·반도체 장비로 자금이 집중된 하루였습니다. 특정 종목 한두 개가 튄 게 아니라, 정책·규제 관련 뉴스가 겹치면서 관련 업종 전체가 동시에 강하게 움직인 모습이에요. 이렇게 업종 전체가 함께 움직이는 날은 개별 종목의 단기 이슈보다 “자금이 어디로 흘러가는지”가 더 중요한 신호가 됩니다.</p>
-
-<h2 id="오늘-ai가-고른-종목들">오늘 AI가 고른 종목들</h2>
-
-<h3 id="1️⃣-대한광통신--광통신-대장주-규제-이슈가-살아있다">1️⃣ 대한광통신 — 광통신 대장주, 규제 이슈가 살아있다</h3>
-
-<p>미국이 중국산 광케이블 수입을 막는다는 실제 규제 소식이 나오면서, 관련 대장주인 대한광통신에 자금이 몰렸습니다. 오늘 오후 외국인과 큰 투자기관(기관)이 동시에 대량으로 사들였고, 거래량은 평소보다 <strong>3.6배</strong>나 터졌습니다. 이렇게 두 주체가 같은 방향으로 함께 움직이면 우연이 아니라 확신을 갖고 들어온 자금일 가능성이 높다고 봅니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>구분</th>
-      <th>항목</th>
-      <th>내용</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>기본</td>
-      <td>당일 종가 / 등락률</td>
-      <td><strong>13,580원</strong> / <strong>+18.5%</strong></td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>거래대금 / 시가총액</td>
-      <td><strong>5,485억원</strong> / 2.1조원</td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>주도 테마 / 테마내 순위</td>
-      <td>광통신(광케이블/광섬유 등) / <strong>1위</strong></td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>RSI / RVOL / 이평수렴</td>
-      <td>59.0 / <strong>3.6배</strong> / +0.5%</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>52주 신고가 / OBV</td>
-      <td>아님 / 상승 다이버전스</td>
-    </tr>
-    <tr>
-      <td>수급</td>
-      <td>외국인 순매수 / 기관 순매수</td>
-      <td><strong>+107만 주</strong> / <strong>+67만 주</strong></td>
-    </tr>
-    <tr>
-      <td>재무</td>
-      <td>최근 분기 실적</td>
-      <td>2026년 2분기 기준 매출·영업이익 미반영</td>
-    </tr>
-    <tr>
-      <td>점수</td>
-      <td>AI 종합 점수</td>
-      <td><strong>41점</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<h3 id="2️⃣-한화에어로스페이스--우주항공-대표주-하루-종일-자리를-지켰다">2️⃣ 한화에어로스페이스 — 우주항공 대표주, 하루 종일 자리를 지켰다</h3>
-
-<p>정부가 제2우주센터 건립을 발표하면서 우주항공 관련주로 가장 빠르게 자금이 몰렸습니다. 그중에서도 한화에어로스페이스는 아침·점심·마감까지 하루 내내 강세 자리를 지켰다는 점이 눈에 띕니다. 시가총액이 59.6조원에 달하는 대형주인데도 이 정도로 자금이 꾸준히 들어왔다는 건, 일회성 재료가 아니라 정책 방향성에 대한 기대가 반영된 걸로 해석할 수 있습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>구분</th>
-      <th>항목</th>
-      <th>내용</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>기본</td>
-      <td>당일 종가 / 등락률</td>
-      <td><strong>1,156,000원</strong> / <strong>+5.4%</strong></td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>거래대금 / 시가총액</td>
-      <td><strong>2,371억원</strong> / 59.6조원</td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>주도 테마 / 테마내 순위</td>
-      <td>우주항공산업(누리호/인공위성 등) / <strong>1위</strong></td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>RSI / RVOL / 이평수렴</td>
-      <td>64.3 / 0.7배 / +0.1%</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>52주 신고가 / OBV</td>
-      <td>아님 / 중립</td>
-    </tr>
-    <tr>
-      <td>수급</td>
-      <td>외국인 순매수 / 기관 순매수</td>
-      <td>+4만 주 / +4,000주</td>
-    </tr>
-    <tr>
-      <td>재무</td>
-      <td>매출 증가율(전년 대비)</td>
-      <td><strong>+19.7%</strong></td>
-    </tr>
-    <tr>
-      <td>재무</td>
-      <td>최근 분기 실적</td>
-      <td>2026년 2분기: 매출 <strong>75,530억원</strong> / 영업이익 13억원</td>
-    </tr>
-    <tr>
-      <td>점수</td>
-      <td>AI 종합 점수</td>
-      <td><strong>41점</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<h3 id="3️⃣-주성엔지니어링--반도체-투심-회복에-자금-확산">3️⃣ 주성엔지니어링 — 반도체 투심 회복에 자금 확산</h3>
-
-<p>반도체 업종에 대한 투자 심리가 살아나면서 자금이 빠르게 퍼진 반도체 장비 대표주입니다. 오후 들어 외국인 매수가 이어졌고, 단기 흐름을 보여주는 15분봉 60일 이동평균선 위를 지켰다는 점이 특징이에요. 다만 매출은 전년 대비 줄어든 상태라, 오늘 움직임은 실적보다는 업종 전반의 투심 회복에 더 기대고 있는 흐름으로 보입니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>구분</th>
-      <th>항목</th>
-      <th>내용</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>기본</td>
-      <td>당일 종가 / 등락률</td>
-      <td><strong>144,900원</strong> / <strong>+13.4%</strong></td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>거래대금 / 시가총액</td>
-      <td><strong>2,152억원</strong> / 6.7조원</td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>주도 테마 / 테마내 순위</td>
-      <td>반도체 장비 / <strong>1위</strong></td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>RSI / RVOL / 이평수렴</td>
-      <td>47.5 / 0.9배 / +0.3%</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>52주 신고가 / OBV</td>
-      <td>아님 / 중립</td>
-    </tr>
-    <tr>
-      <td>수급</td>
-      <td>외국인 순매수 / 기관 순매수</td>
-      <td><strong>+20만 주</strong> / -2만 주</td>
-    </tr>
-    <tr>
-      <td>재무</td>
-      <td>매출 증가율(전년 대비)</td>
-      <td>-16.4%</td>
-    </tr>
-    <tr>
-      <td>재무</td>
-      <td>최근 분기 실적</td>
-      <td>2026년 2분기: 매출 659억원 / 영업이익 9억원</td>
-    </tr>
-    <tr>
-      <td>점수</td>
-      <td>AI 종합 점수</td>
-      <td><strong>36점</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="왜-이-세-종목이었을까">왜 이 세 종목이었을까?</h2>
-
-<p>NextTheme 알고리즘은 단순히 오늘 많이 오른 종목이 아니라, “외국인·기관 같은 큰 손이 함께 사들였는가”와 “거래대금이 실제로 터졌는가”를 함께 봅니다. 세 종목 모두 각자 업종에서 자금 유입 <strong>1위</strong> 자리를 지켰고, 뉴스 재료(규제·정책 발표)가 뚜렷하다는 공통점이 있어요. 오늘 제가 눈여겨본 부분은, 대형주인 한화에어로스페이스까지 이런 흐름에 동참했다는 점입니다. 대형주는 원래 자금이 잘 안 몰리는 편인데, 오늘처럼 하루 종일 강세를 유지했다면 단순 수급 쏠림보다는 조금 더 무게감 있는 흐름으로 볼 여지가 있다고 생각했습니다. 다만 이건 어디까지나 오늘까지의 데이터를 바탕으로 한 해석이라는 점은 짚고 넘어가야겠죠.</p>
-
-<h2 id="마무리하며">마무리하며</h2>
-
-<p>오늘은 코스닥 급등장 속에서 우주항공·광통신·반도체 장비 세 업종에 자금이 집중된 하루였습니다. 종가베팅은 이렇게 장 마감 무렵 자금 흐름과 수급 데이터를 근거로 종목을 기록하고, 내일 시초가 흐름을 지켜보는 방식으로 검증해 나갑니다. 오늘 소개한 종목들에 대한 생각이나 궁금한 점이 있으면 댓글로 남겨주세요 💬</p>
-
-<p>#NextTheme #종가베팅 #대한광통신 #한화에어로스페이스 #주성엔지니어링 #광통신 #우주항공산업 #반도체장비 #코스닥급등</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[오늘 코스닥은 6%가 넘게 뛰며 후끈 달아올랐습니다. 이런 날은 “어디에 돈이 몰렸는가”만 봐도 시장의 속내가 보이는데, 오늘은 우주항공·광통신·반도체 장비 세 업종으로 자금이 뚜렷하게 집중됐어요. 종가베팅 알고리즘 NextTheme이 오늘 마감 시점(15:10) 최종 스냅샷에서 골라낸 세 종목을 함께 살펴보겠습니다 📊]]></summary></entry></feed>
+<p>#종가베팅 #코스닥 #우주항공 #광통신 #반도체장비 #갭상승 #대한광통신 #한화에어로스페이스 #주성엔지니어링 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[반도체와 우주항공 자금이 동시에 살아난 강세장을 마감합니다. 미국 필라델피아 반도체지수의 연쇄 강세가 국내로 전이되면서 코스닥이 6.97% 급등했지만, 외국인의 1.24조원 순매도가 계속되면서 코스피는 0.65% 상승으로 제한됐습니다. 오늘 하루는 대형주가 버티는 동안 우주항공·광통신·반도체 장비 같은 중소형 테마가 자금을 총괄한 ‘섹터 회전의 날’이었습니다.]]></summary></entry></feed>
