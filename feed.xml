@@ -1,4 +1,128 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-13T21:02:33+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">반도체 강세의 하루, 외국인이 3조 원대를 사들였다 — 8월 13일 종가베팅 마감 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/13/daily/" rel="alternate" type="text/html" title="반도체 강세의 하루, 외국인이 3조 원대를 사들였다 — 8월 13일 종가베팅 마감 정리" /><published>2026-08-13T21:00:00+09:00</published><updated>2026-08-13T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/13/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/13/daily/"><![CDATA[<p>📈 <strong>오늘의 시장</strong>: 미국 물가가 예상치 부합하며 나스닥과 반도체가 강했던 하루. 코스피는 +3.56% 올라 <strong>6,813포인트</strong>로 마감했고, 외국인이 대규모로 매수하면서 반도체·IT 섹터가 주도했다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-14T06:05:07+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">반도체 강세에 코스피 3.56% 급등, 오늘 종가베팅 전략은 — 어제 선별 복기 포함</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/14/0600-briefing/" rel="alternate" type="text/html" title="반도체 강세에 코스피 3.56% 급등, 오늘 종가베팅 전략은 — 어제 선별 복기 포함" /><published>2026-08-14T06:00:00+09:00</published><updated>2026-08-14T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/14/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/14/0600-briefing/"><![CDATA[<p>안녕하세요 😊 금요일 아침입니다. 어제 코스피가 <strong>+3.56%</strong> 급등하며 화끈하게 마감했죠. 미국 물가 지표가 안정된 신호를 보이면서 반도체 중심으로 시장 분위기가 살아났는데요, 금요일 장을 앞두고 오늘은 어떤 전략으로 접근해야 할지 데이터로 차근차근 풀어보겠습니다.</p>
+
+<h2 id="-어제-ai-선별-복기부터-짚어봅니다">📋 어제 AI 선별 복기부터 짚어봅니다</h2>
+
+<p>먼저 어제 AI가 선별했던 종목들이 오늘 아침 시점에서 어떤 흐름을 보였는지 확인하는 게 우선입니다. 시스템 판정은 <strong>“유지(MAINTAIN)”</strong> — 전반적인 방향이 시장 흐름과 잘 맞아떨어졌다는 뜻입니다. 참고로 <strong>실제로 새로 매수한 거래는 없었습니다.</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목명</th>
+      <th>슬롯</th>
+      <th>어제 전략</th>
+      <th>오늘 아침 판단</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>⚠️ 실리콘투</td>
+      <td>— (이월 보유)</td>
+      <td>이전부터 보유 중인 종목</td>
+      <td>저녁 시간외 평단 대비 <strong>-7.72%~-9.07%</strong> 큰 손실 관측, 갭하락 시 즉시 손절 원칙</td>
+    </tr>
+    <tr>
+      <td>⚠️ 대원전선</td>
+      <td>— (이월 보유)</td>
+      <td>이전부터 보유 중인 종목</td>
+      <td>저녁 시간외 평단 대비 <strong>-4.70%</strong> 약세, 갭하락 시 손절 원칙 적용</td>
+    </tr>
+    <tr>
+      <td>삼성전기</td>
+      <td>15:10 최종</td>
+      <td>갭상승 시나리오 기반 갭 트레이드</td>
+      <td>저녁 저점 <strong>-3.38%</strong> 관측됐지만, 모건스탠리 톱픽 교체 모멘텀을 신뢰해 갭하락 시 분할 매수 판단</td>
+    </tr>
+    <tr>
+      <td>SK하이닉스</td>
+      <td>15:10 최종</td>
+      <td>갭상승 시나리오 기반 갭 트레이드</td>
+      <td>저녁 +0.38%/<strong>-2.20%</strong> 양방향 흔들림, 시초가 갭 방향 확인 후 재진입 판단</td>
+    </tr>
+    <tr>
+      <td>미래에셋증권</td>
+      <td>15:10 최종</td>
+      <td>갭상승 시나리오 기반 갭 트레이드</td>
+      <td>저녁 +0.93%/<strong>-0.53%</strong> 소폭 등락, confidence가 낮았던 만큼 관망 유지</td>
+    </tr>
+    <tr>
+      <td>미래에셋벤처투자</td>
+      <td>12:10 탐색(장중 탐색 후보)</td>
+      <td>점심 탐색 단계 후보</td>
+      <td>저녁 <strong>-4.09%</strong> 약세, 신규 진입 보류</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>⚠️ 표시된 실리콘투·대원전선은 이전부터 보유 중이던 종목인데, 저녁 시간외 거래에서 평단 대비 손실이 컸던 만큼 오늘 갭이 하락으로 열리면 손절 원칙이 적용될 예정이라는 점, 미리 알아두시면 좋겠습니다.</p>
+
+<h2 id="-간밤-미국장-물가-안정에-반도체가-웃었습니다">🌙 간밤 미국장, 물가 안정에 반도체가 웃었습니다</h2>
+
+<p>간밤 미국장은 7월 생산자물가(PPI)가 보합으로 나오면서 “물가가 잡히고 있다”는 안도감이 퍼졌습니다. 그 덕에 S&amp;P500은 사상 최고치를 새로 썼고, 반도체·기술주 중심으로 강세가 뚜렷했습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>지수</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>다우존스</td>
+      <td>+0.13%</td>
+    </tr>
+    <tr>
+      <td>S&amp;P500</td>
+      <td>+0.65%</td>
+    </tr>
+    <tr>
+      <td>나스닥 종합</td>
+      <td>+0.81%</td>
+    </tr>
+    <tr>
+      <td>나스닥100</td>
+      <td>+1.15%</td>
+    </tr>
+    <tr>
+      <td>다우운송</td>
+      <td>+1.50%</td>
+    </tr>
+    <tr>
+      <td>필라델피아 반도체</td>
+      <td>+0.46%</td>
+    </tr>
+    <tr>
+      <td>VIX(변동성 지수)</td>
+      <td>+0.55%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>다우존스는 상승폭이 제한적이었지만, 나스닥100과 다우운송이 1%대 상승을 보이며 위험자산 선호 심리가 살아 있었다는 걸 확인할 수 있습니다. 다만 VIX(시장의 불안 심리를 나타내는 지수)도 소폭 올랐다는 점은, 강세 속에서도 완전히 안심할 단계는 아니라는 신호로 볼 수 있습니다.</p>
+
+<h2 id="-오늘의-베팅-등급--전략">📊 오늘의 베팅 등급 &amp; 전략</h2>
+
+<p>오늘 종가베팅 등급은 <strong>YELLOW</strong>(신중 진입 구간)입니다. 미국 PPI 둔화로 물가 안정 신호가 확인됐고, 반도체 중심 강세에 코스피가 <strong>+3.56%</strong> 급등하면서 외국인이 <strong>2.2조원</strong> 순매수하며 동조 흐름을 만든 것이 배경입니다.</p>
+
+<p>다만 다우 상승폭이 +0.13%로 제한적이었던 만큼, 반도체·기술주 모멘텀이 뚜렷하더라도 <strong>70% 이하 신중 진입</strong>이 타당하다는 게 시스템 판단입니다.</p>
+
+<p><strong>대응 방향</strong>은 이렇습니다 — 반도체 대장주의 시초가 갭 방향을 먼저 확인한 뒤 진입하고, 금요일 특성상 주말을 넘기는 리스크가 있으니 한 번에 다 넣기보다 나눠서 접근하는 분할 진입 원칙이 권장됩니다. 오늘 하루 외국인 수급이 계속 이어지는지가 핵심 확인 포인트가 되겠습니다.</p>
+
+<h2 id="-주목할-변수">🔍 주목할 변수</h2>
+
+<p>이번 미국 반도체 강세의 배경에는 슈퍼마이크로컴퓨터의 깜짝 실적과 샌디스크의 <strong>+13%</strong> 급등이 있었습니다. 이 온기가 국내로 넘어오면서 삼성전자·SK하이닉스가 3거래일째 반등했고, 모건스탠리가 최선호주(톱픽)를 삼성전기로 교체한 점도 눈에 띕니다.</p>
+
+<p>원자재 쪽은 엇갈렸습니다. 국제유가는 <strong>81.2달러(-2.07%)</strong>로 내렸고, 금 가격도 <strong>4,406달러(-61.2달러)</strong> 하락하며 안전자산 선호가 다소 누그러진 모습입니다.</p>
+
+<p>제가 오늘 흐름에서 특히 주목한 부분은, 어제 선별됐던 반도체 관련주(삼성전기·SK하이닉스)가 저녁 시간외에서는 오히려 약세(-2~3%대)를 보였다는 점입니다. 코스피가 크게 오른 날 다음 날 아침엔 시초가 갭 방향이 생각보다 엇갈릴 수 있다는 걸 보여주는 사례라, 시초가를 꼭 확인한 뒤 판단하는 게 중요해 보입니다.</p>
+
+<h2 id="마무리">마무리</h2>
+
+<p>물가 안정 신호와 반도체 랠리가 만나 코스피가 크게 뛴 하루였지만, 그만큼 시초가 갭 방향 확인이 오늘 하루의 핵심 변수가 될 것 같습니다. 다음 주 월요일 장까지 이어지는 흐름도 함께 지켜봐야겠죠.</p>
+
+<p>오늘 시장 어떻게 보셨나요? 궁금한 종목 있으면 댓글로 남겨주세요 🙌</p>
+
+<p>#종가베팅 #NextTheme #코스피급등 #반도체강세 #삼성전기 #SK하이닉스 #실리콘투 #대원전선 #미국증시</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[안녕하세요 😊 금요일 아침입니다. 어제 코스피가 +3.56% 급등하며 화끈하게 마감했죠. 미국 물가 지표가 안정된 신호를 보이면서 반도체 중심으로 시장 분위기가 살아났는데요, 금요일 장을 앞두고 오늘은 어떤 전략으로 접근해야 할지 데이터로 차근차근 풀어보겠습니다.]]></summary></entry><entry><title type="html">반도체 강세의 하루, 외국인이 3조 원대를 사들였다 — 8월 13일 종가베팅 마감 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/13/daily/" rel="alternate" type="text/html" title="반도체 강세의 하루, 외국인이 3조 원대를 사들였다 — 8월 13일 종가베팅 마감 정리" /><published>2026-08-13T21:00:00+09:00</published><updated>2026-08-13T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/13/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/13/daily/"><![CDATA[<p>📈 <strong>오늘의 시장</strong>: 미국 물가가 예상치 부합하며 나스닥과 반도체가 강했던 하루. 코스피는 +3.56% 올라 <strong>6,813포인트</strong>로 마감했고, 외국인이 대규모로 매수하면서 반도체·IT 섹터가 주도했다.</p>
 
 <h2 id="미국-야간-cpi-둔화-반도체-강세-이어져">미국 야간: CPI 둔화, 반도체 강세 이어져</h2>
 
@@ -2230,150 +2354,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <p>“시장은 매일 다른 얼굴을 보여줍니다. 오늘의 데이터를 기록해두는 것이 다음 판단의 재료가 됩니다.” 오늘 정리는 여기까지입니다. 궁금한 종목이나 테마가 있으면 댓글로 남겨주세요!</p>
 
-<p>#NextTheme #종가베팅 #금호건설 #주성엔지니어링 #건설테마 #태양광에너지 #코스피 #하루마감정리</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[오늘 하루도 고생 많으셨습니다 😊 코스피는 대형주 강세에 힘입어 상승 마감했고, 건설·태양광 정책 테마에 자금이 집중된 하루였습니다. 그 중심에는 상한가에 안착한 금호건설이 있었습니다. 오늘 시장이 어떻게 흘렀는지, AI가 어떤 종목을 종가베팅 후보로 골랐는지 정리해드립니다.]]></summary></entry><entry><title type="html">금호건설 상한가로 본 건설 정책테마 — 오늘 종가베팅 선별 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/11/nt2-1505-snapshot/" rel="alternate" type="text/html" title="금호건설 상한가로 본 건설 정책테마 — 오늘 종가베팅 선별 분석" /><published>2026-08-11T15:05:00+09:00</published><updated>2026-08-11T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/11/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/11/nt2-1505-snapshot/"><![CDATA[<p>오늘 코스피는 강세로 마감했지만 코스닥은 약세를 보이며 시장이 엇갈렸습니다 🌗 게임주들의 실적 서프라이즈와 건설·태양광 정책 관련 테마로 돈이 몰리는 하루였는데요, 야간에 발표되는 미국 물가지표를 앞두고 시장 전체는 조심스러운 분위기였습니다.</p>
-
-<h2 id="오늘-시장-어떤-하루였나요">오늘 시장, 어떤 하루였나요?</h2>
-
-<p>코스피가 강세로 전환한 반면 코스닥은 힘을 쓰지 못하며 지수별로 온도차가 컸던 하루입니다. 자금은 뚜렷하게 두 방향으로 흘렀습니다. 하나는 게임주들의 깜짝 실적, 다른 하나는 정부 정책 수혜가 기대되는 건설·태양광 테마입니다. 다만 밤사이 발표될 미국 물가지표(CPI)라는 큰 변수가 남아 있어서, 투자자들은 비중을 크게 늘리기보다는 신중한 자세를 유지했습니다.</p>
-
-<h2 id="오늘-ai가-주목한-종목">오늘 AI가 주목한 종목</h2>
-
-<p>AI가 오늘 최종 선별한 종목은 총 <strong>2개</strong>입니다. 두 종목 모두 ‘오늘 시장에서 자금이 몰린 흔적이 뚜렷해서, {nextSession.label} 시초가에 추격 매수가 붙을 가능성’을 근거로 골랐습니다.</p>
-
-<h3 id="1-금호건설--정부-정책-수혜로-상한가">1) 금호건설 — 정부 정책 수혜로 상한가</h3>
-
-<p>금호건설은 오늘 <strong>+29.98%</strong> 오르며 상한가로 마감했습니다. 정부가 호남 지역 반도체 공장을 예정보다 앞당겨 착공하기로 하면서, 관련 건설 수혜주로 꼽히는 이 종목에 매수세가 집중된 것으로 보입니다. AI는 이 종목을 “오늘 못 산 투자자들이 내일 시초가에 추격 매수를 할 가능성이 있는 종목”으로 판단했고, AI 선별 종합점수 배분 비중도 <strong>56.1%</strong>로 두 종목 중 가장 높게 책정했습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>구분</th>
-      <th>항목</th>
-      <th>수치</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>기본</td>
-      <td>AI 기록상 종가 / 등락률</td>
-      <td>11,490원 / +29.98%</td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>거래대금 / 시총</td>
-      <td>1,429억원 / 4,281억원</td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>주도 테마 / 테마내순위</td>
-      <td>건설 중소형 / 1위</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>RSI / RVOL / 이평수렴</td>
-      <td>56.9 / 2.2 / +0.2%</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>52주 신고가 / 추세 신호</td>
-      <td>아님 / 약세 다이버전스 주의</td>
-    </tr>
-    <tr>
-      <td>수급</td>
-      <td>외국인 순매수 / 기관 순매수</td>
-      <td>+15만 주 / +4,000주</td>
-    </tr>
-    <tr>
-      <td>재무</td>
-      <td>매출 YoY</td>
-      <td>+1.8%</td>
-    </tr>
-    <tr>
-      <td>재무</td>
-      <td>최근 분기 실적</td>
-      <td>2026년 2분기: 매출 5,406억원 / 영업이익 3억원</td>
-    </tr>
-    <tr>
-      <td>점수</td>
-      <td>AI 종합 점수</td>
-      <td>36점</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>외국인과 기관이 동시에 순매수(둘 다 사들이는 방향)에 나선 점이 눈에 띕니다. 다만 거래량 지표 중 하나(OBV)는 가격 상승과 반대로 흐르는 다이버전스 신호를 보이고 있어, 상승 강도를 무조건 낙관하기보다는 흐름을 지켜볼 필요가 있는 종목입니다.</p>
-
-<h3 id="2-주성엔지니어링--반도체태양광-밸류체인-대장주">2) 주성엔지니어링 — 반도체·태양광 밸류체인 대장주</h3>
-
-<p>주성엔지니어링은 <strong>+11.81%</strong> 상승했습니다. 인텔의 대규모 투자 소식이 나오면서 관련 반도체 장비·태양광 밸류체인 전반에 자금이 몰렸고, 이 종목은 해당 테마의 대장주로 꼽히며 거래대금이 오전부터 오후까지 꾸준히 늘어났습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>구분</th>
-      <th>항목</th>
-      <th>수치</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>기본</td>
-      <td>AI 기록상 종가 / 등락률</td>
-      <td>161,900원 / +11.81%</td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>거래대금 / 시총</td>
-      <td>5,038억원 / 7.5조원</td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>주도 테마 / 테마내순위</td>
-      <td>태양광에너지 / 1위</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>RSI / RVOL / 이평수렴</td>
-      <td>52.3 / 1.9 / +0.3%</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>52주 신고가 / 추세 신호</td>
-      <td>아님 / 중립</td>
-    </tr>
-    <tr>
-      <td>수급</td>
-      <td>외국인 순매수 / 기관 순매수</td>
-      <td>-32만 주 (순매도) / +4,000주</td>
-    </tr>
-    <tr>
-      <td>재무</td>
-      <td>매출 YoY</td>
-      <td>-16.4%</td>
-    </tr>
-    <tr>
-      <td>재무</td>
-      <td>최근 분기 실적</td>
-      <td>2026년 2분기: 매출 659억원 / 영업이익 9억원</td>
-    </tr>
-    <tr>
-      <td>점수</td>
-      <td>AI 종합 점수</td>
-      <td>35점</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>이 종목은 외국인은 오히려 순매도(파는 방향)했지만, 거래대금 자체가 워낙 커서(5,038억원) 테마 내 대장주 지위와 시장 관심도를 기준으로 선별됐습니다. 최근 분기 매출은 작년 같은 기간보다 줄었다는 점은 참고할 만한 대목입니다.</p>
-
-<h2 id="nexttheme는-왜-이-두-종목을-골랐을까">NextTheme는 왜 이 두 종목을 골랐을까?</h2>
-
-<p>두 종목의 공통점은 ‘정부 정책’과 ‘대규모 투자 소식’이라는 명확한 촉매가 있었고, 그 촉매가 하루 종일 거래대금 증가로 이어졌다는 점입니다. 종가베팅은 오늘 상한가를 친 종목을 쫓아가는 게 아니라, 오늘 못 탄 투자자들이 다음 거래일 시초가에 몰릴 가능성이 있는 ‘기둥’ 종목을 미리 짚어보는 방식입니다. 다만 금호건설의 다이버전스 신호나 주성엔지니어링의 외국인 순매도처럼, 겉보기 상승률만으로는 보이지 않는 균열도 함께 있다는 점이 오늘 선별의 특징입니다.</p>
-
-<p>제가 오늘 흐름에서 눈여겨본 부분은, 게임주 실적 랠리와 정책 테마 랠리가 동시에 나타났지만 정작 AI 선별은 정책 테마 쪽에 집중됐다는 점입니다. 실적은 이미 확인된 재료라 시장이 선반영했을 가능성이 있는 반면, 정책 테마는 아직 자금 유입이 진행 중인 흐름이라는 해석이 가능해 보입니다.</p>
-
-<h2 id="마무리">마무리</h2>
-
-<p>오늘은 건설·태양광 정책 테마에 자금이 몰린 하루였고, 그 흐름의 중심에 금호건설과 주성엔지니어링이 있었습니다. 다만 야간 미국 물가지표라는 변수가 남아 있는 만큼, 시장 전체가 어떻게 반응할지는 지켜봐야 할 부분입니다. 오늘 선별 결과에 대해 어떻게 생각하시는지 댓글로 의견 나눠주세요 💬</p>
-
-<p>#NextTheme #종가베팅 #금호건설 #주성엔지니어링 #건설테마 #태양광테마 #코스피</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[오늘 코스피는 강세로 마감했지만 코스닥은 약세를 보이며 시장이 엇갈렸습니다 🌗 게임주들의 실적 서프라이즈와 건설·태양광 정책 관련 테마로 돈이 몰리는 하루였는데요, 야간에 발표되는 미국 물가지표를 앞두고 시장 전체는 조심스러운 분위기였습니다.]]></summary></entry></feed>
+<p>#NextTheme #종가베팅 #금호건설 #주성엔지니어링 #건설테마 #태양광에너지 #코스피 #하루마감정리</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[오늘 하루도 고생 많으셨습니다 😊 코스피는 대형주 강세에 힘입어 상승 마감했고, 건설·태양광 정책 테마에 자금이 집중된 하루였습니다. 그 중심에는 상한가에 안착한 금호건설이 있었습니다. 오늘 시장이 어떻게 흘렀는지, AI가 어떤 종목을 종가베팅 후보로 골랐는지 정리해드립니다.]]></summary></entry></feed>
