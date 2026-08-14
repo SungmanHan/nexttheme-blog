@@ -1,4 +1,271 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-14T10:03:40+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">8/13 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/14/review-20260813-review/" rel="alternate" type="text/html" title="8/13 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-08-14T09:00:00+09:00</published><updated>2026-08-14T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/14/review_20260813-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/14/review-20260813-review/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-14T20:07:21+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">GS 1년 최고가 육박, 정유·2차전지·로봇 3색 강세 — 오늘 종가베팅 선별 3종목</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/14/nt2-1505-snapshot/" rel="alternate" type="text/html" title="GS 1년 최고가 육박, 정유·2차전지·로봇 3색 강세 — 오늘 종가베팅 선별 3종목" /><published>2026-08-14T15:05:00+09:00</published><updated>2026-08-14T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/14/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/14/nt2-1505-snapshot/"><![CDATA[<p>오늘 코스피는 외국인의 화끈한 순매수 속에 강세로 마감했습니다. 정유, 2차전지, 그리고 AI 로봇까지 — 한 테마가 아니라 <strong>여러 테마에 동시에 자금이 몰린 하루</strong>였습니다. 이런 날은 어디에 힘이 실렸는지 헷갈리기 쉬운데요, 오늘 종가베팅 알고리즘이 고른 3개 종목을 통해 자금이 실제로 어디로 향했는지 짚어보겠습니다.</p>
+
+<h2 id="시장-브리핑">시장 브리핑</h2>
+
+<p>오늘 코스피는 외국인 대량 순매수를 발판 삼아 강세를 나타냈습니다. 특징적인 점은 자금이 한 곳에 쏠리지 않고 <strong>정유·AI 로봇·2차전지</strong> 세 테마로 고르게 집중됐다는 점입니다. 서로 성격이 다른 업종이 동시에 움직였다는 건 특정 이슈 하나가 아니라 시장 전반의 매수 심리가 살아났다는 신호로 볼 수 있습니다. 종가베팅 알고리즘은 이 세 테마 각각에서 가장 힘이 실린 종목 1개씩을 골라냈습니다.</p>
+
+<h2 id="핵심-선별-종목">핵심 선별 종목</h2>
+
+<h3 id="삼성sdi--2차전지-대표주-두꺼운-매수벽">삼성SDI — 2차전지 대표주, 두꺼운 매수벽</h3>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>종목:</strong> 삼성SDI</td>
+      <td><strong>종가:</strong> 516,000원</td>
+      <td><strong>등락률:</strong> <strong>+5.95%</strong></td>
+    </tr>
+    <tr>
+      <td><strong>거래대금:</strong> 3,698억원</td>
+      <td><strong>시가총액:</strong> 41.6조원</td>
+      <td><strong>테마:</strong> 2차전지(생산) 내 <strong>1위</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>2차전지 대표주답게 매수 호가에 큰돈이 두껍게 쌓여 있고, 외국인과 기관이 동시에 이 종목을 담았습니다. 이런 흐름이 이어지면 <strong>다음 주 월요일</strong> 개장 초반에도 매수세가 살아있을 가능성이 있다는 것이 알고리즘의 해석입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>항목</th>
+      <th>값</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>기본</td>
+      <td>종가 / 등락률</td>
+      <td>516,000원 / +5.95%</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>거래대금 / 시총</td>
+      <td>3,698억원 / 41.6조원</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>주도 테마 / 순위</td>
+      <td>2차전지(생산) / 1위</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>RSI / RVOL / 이평수렴</td>
+      <td>62.4 / 1.02배 / +0.14%</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>52주 신고가 / OBV</td>
+      <td>아님 / 중립</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>외인 순매수 / 기관 순매수</td>
+      <td>+3만 주 / +4,000주</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>호가신호</td>
+      <td>매수벽 약함</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>매출 YoY</td>
+      <td>+15.3%</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>최근 분기 실적</td>
+      <td>2026.06.: 매출 36,646억원 / 영업이익 0억원</td>
+    </tr>
+    <tr>
+      <td>점수</td>
+      <td>AI 종합 점수</td>
+      <td>46점</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h3 id="gs--정유-대장주-1년-최고가-경신">GS — 정유 대장주, 1년 최고가 경신</h3>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>종목:</strong> GS</td>
+      <td><strong>종가:</strong> 116,800원</td>
+      <td><strong>등락률:</strong> <strong>+8.75%</strong></td>
+    </tr>
+    <tr>
+      <td><strong>거래대금:</strong> 1,060억원</td>
+      <td><strong>시가총액:</strong> 10.8조원</td>
+      <td><strong>테마:</strong> 정유 내 <strong>1위</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>정유 대장주답게 오늘 8%대 급등하며 <strong>52주 신고가를 새로 썼습니다.</strong> 기관은 나흘째 연속으로 순매수를 이어가고 있어, 오늘 못 산 투자자들의 다음 주 월요일 추격 매수 여지가 있다는 것이 알고리즘의 판단입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>항목</th>
+      <th>값</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>기본</td>
+      <td>종가 / 등락률</td>
+      <td>116,800원 / +8.75%</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>거래대금 / 시총</td>
+      <td>1,060억원 / 10.8조원</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>주도 테마 / 순위</td>
+      <td>정유 / 1위</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>RSI / RVOL / 이평수렴</td>
+      <td>77.4 / 1.31배 / +0.26%</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>52주 신고가 / OBV</td>
+      <td>신고가 경신 / 중립</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>외인 순매수 / 기관 순매수</td>
+      <td>0주 / +22만 주</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>매출 YoY</td>
+      <td>+16.9%</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>최근 분기 실적</td>
+      <td>2026.06.: 매출 69,390억원 / 영업이익 16억원</td>
+    </tr>
+    <tr>
+      <td>점수</td>
+      <td>AI 종합 점수</td>
+      <td>40점</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h3 id="현대차--ai-로봇-테마-속-8대-급등">현대차 — AI 로봇 테마 속 8%대 급등</h3>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>종목:</strong> 현대차</td>
+      <td><strong>종가:</strong> 454,500원</td>
+      <td><strong>등락률:</strong> <strong>+8.60%</strong></td>
+    </tr>
+    <tr>
+      <td><strong>거래대금:</strong> 9,478억원</td>
+      <td><strong>시가총액:</strong> 93.0조원</td>
+      <td><strong>테마:</strong> 피지컬 AI/휴머노이드 로봇 내 <strong>2위</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>외국인과 기관이 함께 사들이며 오늘 8% 넘게 급등했습니다. 시장을 이끄는 AI 로봇 테마 안에서도 거래대금이 크게 실린 자리라, 다음 주 월요일 시초가에서도 관심이 이어질 수 있다는 것이 알고리즘의 시각입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>항목</th>
+      <th>값</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>기본</td>
+      <td>종가 / 등락률</td>
+      <td>454,500원 / +8.60%</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>거래대금 / 시총</td>
+      <td>9,478억원 / 93.0조원</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>주도 테마 / 순위</td>
+      <td>피지컬 AI/휴머노이드 로봇 / 2위</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>RSI / RVOL / 이평수렴</td>
+      <td>58.1 / 1.71배 / +0.29%</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>52주 신고가 / OBV</td>
+      <td>아님 / 중립</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>외인 순매수 / 기관 순매수</td>
+      <td>+11만 주 / +6만 주</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>매출 YoY</td>
+      <td>+0.9%</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>최근 분기 실적</td>
+      <td>2026.06.: 매출 486,974억원 / 영업이익 6억원</td>
+    </tr>
+    <tr>
+      <td>점수</td>
+      <td>AI 종합 점수</td>
+      <td>34점</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="nexttheme-알고리즘-통찰">NextTheme 알고리즘 통찰</h2>
+
+<p>오늘 3개 종목이 선별된 배경에는 공통점이 있습니다. <strong>각 테마에서 자금이 가장 두껍게 쌓인 자리</strong>라는 점입니다.</p>
+
+<ul>
+  <li><strong>삼성SDI</strong>: 2차전지 테마 안에서 매수 호가에 돈이 가장 두껍게 쌓인 종목이자, 외국인·기관이 동시에 사들인 자리</li>
+  <li><strong>GS</strong>: 정유 테마 1위이면서 52주 신고가를 새로 쓴 종목. 기관의 연속 매수가 뒷받침</li>
+  <li><strong>현대차</strong>: AI 로봇 테마에서 거래대금이 가장 크게 실린 종목. 외국인과 기관 모두 순매수</li>
+</ul>
+
+<p>세 종목 모두 단순히 ‘오늘 많이 오른 종목’이 아니라, <strong>여러 수급 주체가 같은 방향을 보고 있는 자리</strong>라는 공통 조건을 충족했습니다.</p>
+
+<p>오늘 흐름에서 개인적으로 눈에 띈 부분은 GS입니다. RSI가 77.4까지 올라 이미 과열 구간에 들어섰는데도 기관 매수가 나흘째 이어지고 있다는 점인데요, 숫자만 보면 부담스러울 수 있지만 수급이 꾸준히 뒷받침되는 흐름은 단순 단기 급등과는 결이 다르다는 생각이 들었습니다.</p>
+
+<h2 id="결론">결론</h2>
+
+<p>오늘은 정유·2차전지·AI 로봇이라는 서로 다른 세 테마에 동시에 자금이 몰린 하루였고, 각 테마의 대표주에서 외국인·기관 동시 매수 흔적이 뚜렷하게 확인됐습니다. 다음 주 월요일 개장을 지켜보며 이 흐름이 이어지는지 확인해볼 부분입니다.</p>
+
+<p>궁금한 종목이 있으면 댓글로 남겨주세요. 이웃 추가하시면 매일 선별 분석을 받아볼 수 있어요.</p>
+
+<p>#NextTheme #종가베팅 #삼성SDI #GS #현대차 #정유 #2차전지 #피지컬AI로봇 #외국인순매수</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[오늘 코스피는 외국인의 화끈한 순매수 속에 강세로 마감했습니다. 정유, 2차전지, 그리고 AI 로봇까지 — 한 테마가 아니라 여러 테마에 동시에 자금이 몰린 하루였습니다. 이런 날은 어디에 힘이 실렸는지 헷갈리기 쉬운데요, 오늘 종가베팅 알고리즘이 고른 3개 종목을 통해 자금이 실제로 어디로 향했는지 짚어보겠습니다.]]></summary></entry><entry><title type="html">8/13 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/14/review-20260813-review/" rel="alternate" type="text/html" title="8/13 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-08-14T09:00:00+09:00</published><updated>2026-08-14T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/14/review_20260813-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/14/review-20260813-review/"><![CDATA[<blockquote>
   <p>데이터 기준: 2026-08-14 10:03 키움 ka10001 일괄 조회</p>
 </blockquote>
 
@@ -2401,131 +2668,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가베팅 #복기일지 #20260811 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-08-12 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">미국 야간 약세에 외국인 순매도 지속 — 오늘 종가베팅 등급 RED, 신중한 포지셔닝 필수</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/12/0600-briefing/" rel="alternate" type="text/html" title="미국 야간 약세에 외국인 순매도 지속 — 오늘 종가베팅 등급 RED, 신중한 포지셔닝 필수" /><published>2026-08-12T06:00:00+09:00</published><updated>2026-08-12T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/12/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/12/0600-briefing/"><![CDATA[<h2 id="아침-시장-분위기-">아침 시장 분위기 📉</h2>
-
-<p>간밤 미국장이 3대 지수 동반 약세로 마감했습니다. 다우 <strong>-0.34%</strong> / S&amp;P500 <strong>-0.32%</strong> / 나스닥 <strong>-0.60%</strong>로 일제히 내렸고, 특히 기술주 중심 나스닥의 낙폭이 두드러졌습니다. 국내 시장도 이 흐름에 영향을 받아 <strong>외국인 순매도가 -2,142억원</strong>으로 계속 이어질 가능성이 높습니다.</p>
-
-<p>종가베팅 입장에서는 조심스러운 아침입니다. 오늘은 미국 CPI(21:30)라는 HIGH 이벤트가 남아 있어서, 시초가 방향을 먼저 확인하고 신중하게 접근할 필요가 있습니다.</p>
-
-<hr />
-
-<h2 id="-어제-ai-선별-복기--미국-약세외국인-매도-시나리오-현실화">📋 어제 AI 선별 복기 — 미국 약세·외국인 매도 시나리오 현실화</h2>
-
-<p>어제 선별 방향은 <strong>STANDBY(관망)</strong>였으며, 실제로 야간 미국 약세와 외국인 순매도 지속이 모두 실현됐습니다.</p>
-
-<h3 id="선별-종목-현황">선별 종목 현황</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목명</th>
-      <th>슬롯</th>
-      <th>어제 전략</th>
-      <th>오늘 상황</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>삼성전자</strong></td>
-      <td>19:10 선별</td>
-      <td>갭트레이드</td>
-      <td>✅ 보유 중(평단 240,500원) — 야간 -1.25% 락(14,538원), 시초가 약세 우려. 외국인 매수 신호 감지 후 익절 계획 실행 권고</td>
-    </tr>
-    <tr>
-      <td><strong>대원전선</strong></td>
-      <td>—</td>
-      <td>—</td>
-      <td>✅ 보유 중(평단 15,268원) — AI 선별 밖 수동 매수 품목. 저녁 <strong>-4.90% 락</strong> 후 추가 약세 시 즉시 손절 필수 ⚠️</td>
-    </tr>
-    <tr>
-      <td><strong>금호건설</strong></td>
-      <td>15:10 최종</td>
-      <td>갭트레이드</td>
-      <td>상한가(+11.6%) 도달했으나 미매수. 시초가 상승폭 확인 후 외국인 신규 매수 신호 시에만 추격</td>
-    </tr>
-    <tr>
-      <td><strong>NHN</strong></td>
-      <td>19:10 선별</td>
-      <td>갭트레이드</td>
-      <td>상한가(+12.0%) 도달했으나 미매수. 나스닥 -0.60% + 외국인 순매도 우려로 시초가 추격 약화 예상</td>
-    </tr>
-    <tr>
-      <td><strong>주성엔지니어링</strong></td>
-      <td>15:10 최종</td>
-      <td>갭트레이드</td>
-      <td>어제 신뢰도 LOW였으며 미매수. 미국 장비섹터 약세 추가로 다른 기회 대기 권고</td>
-    </tr>
-  </tbody>
-</table>
-
-<h4 id="복기-핵심">복기 핵심</h4>
-
-<ul>
-  <li><strong>삼성전자</strong>: 야간 미국 약세에 윗꼬리 0.54(반도체 섹터 저항) 고착. 평단 대비 저녁 <strong>-1.25%</strong> 락으로 시초가 약세 신호 명확.</li>
-  <li><strong>대원전선</strong>: 전일 내 실현손익 <strong>-100%</strong> 기록했던 품목. 저녁 -4.90% 락 후 미국 약세 추가 압박으로 아침 추가 약세 고위험. <strong>손절 우선</strong>.</li>
-  <li><strong>금호건설, NHN</strong>: 어제 상한가 도달 후 외국인 매수 신호 없이 미국 약세 → 오늘 추격 약화가 정상 판단.</li>
-  <li><strong>전체 방향</strong>: 어제 예상했던 “<strong>야간 미국 선물 급반등 또는 외국인 순매수 전환</strong>” 미발동. 현재까지 미국 지수 약세 + 외국인 순매도 기록 → <strong>RED 등급 유지</strong> 정당.</li>
-</ul>
-
-<hr />
-
-<h2 id="-간밤-미국장-상황-분석">🌍 간밤 미국장 상황 분석</h2>
-
-<p><strong>다우(-0.34%), S&amp;P500(-0.32%), 나스닥(-0.60%)</strong> 3대 지수가 동반 약세로 마감했습니다. 특히 필라델피아 반도체 지수에서 <strong>윗꼬리 0.54~0.90</strong> 형태의 상단 매도압력이 고착돼 있어서, 기술주와 반도체 섹터가 추가 약세 리스크를 안고 있습니다.</p>
-
-<p>기술적으로도 <strong>윗꼬리</strong>는 “장 중 상승했으나 상단에서 밀려남”을 의미하는데, 이는 단기 매도세의 저항이 강하다는 신호입니다. 외국인의 일시적 손절로 이어질 가능성도 있어서, 국내 시장도 시초가 때 외국인 방향을 먼저 살피는 것이 중요합니다.</p>
-
-<hr />
-
-<h2 id="-오늘의-베팅-등급--전략">📊 오늘의 베팅 등급 &amp; 전략</h2>
-
-<h3 id="등급-red-감정점수-28100">등급: <strong>RED</strong> (감정점수 28/100)</h3>
-
-<p>강한 약세 신호입니다. 감정점수 <strong>28점</strong>은 시장 신경이 매우 곤두서 있고, 추가 낙폭 가능성이 높다는 뜻입니다.</p>
-
-<h3 id="전략-분석">전략 분석</h3>
-
-<p>미국 3대 지수 일제 약세(<strong>다우-0.34% / 나스닥-0.60%</strong>) + <strong>상단 매도압력(윗꼬리 0.65~0.90) + 외국인 순매도(-2,142억원) 지속</strong> 이 세 신호가 모두 가리키는 방향은 같습니다: <strong>오늘은 종가베팅 비중을 30% 이하로 제한하거나 관망하는 것이 정답</strong>입니다.</p>
-
-<p>다만, 완전히 피해야 할 이유만은 아닙니다. 장 중 HIGH 이벤트인 <strong>미국 CPI(21:30)</strong> 가 예정돼 있고, 만약 예상보다 약할 경우 빠른 반등이 이어질 수 있기 때문입니다. 따라서:</p>
-<ul>
-  <li><strong>시초가 갭 형태를 먼저 확인</strong> — 갭상승 vs 갭하락</li>
-  <li><strong>외국인 신규 매수 신호 감지 후 조건부 진입</strong> — 30~50% 수준의 제한 비중만 취할 것</li>
-</ul>
-
-<hr />
-
-<h2 id="️-주목할-변수-오늘의-이벤트와-리스크">⚠️ 주목할 변수: 오늘의 이벤트와 리스크</h2>
-
-<h3 id="호르무즈-해협-협상-불확실성--유가-반등">호르무즈 해협 협상 불확실성 + 유가 반등</h3>
-<p>협상이 언제든 결렬될 수 있다는 시장의 불안감으로 유가가 <strong>83.5달러</strong>로 반등했습니다. 유가 반등은 에너지·조선·자동차 테마에 긍정적이지만, 또 한번 협상 불안정 뉴스가 나올 경우 급락할 수 있는 구조입니다.</p>
-
-<h3 id="반도체-수출-호조-vs-나스닥-약세의-괴리">반도체 수출 호조 vs 나스닥 약세의 괴리</h3>
-<p>한국의 반도체 수출이 <strong>사상 2위(410.1억$, +178.8%)</strong> 기록하며 메모리 가격 강세가 지속되고 있습니다. 이는 장기 긍정 신호이지만, <strong>나스닥이 -0.60%</strong> 내려간 것과는 괴리가 있습니다. 즉, 반도체·반도체장비 테마 추격은 <strong>외국인 매수 신호가 명확해진 후</strong>에만 시작해야 합니다.</p>
-
-<h3 id="미국-고용-둔화--금리인상-기대-후퇴-금값-상승">미국 고용 둔화 → 금리인상 기대 후퇴, 금값 상승</h3>
-<p>고용이 약해질 신호가 보이면서 연방준비제도(FED)의 금리인상 가능성이 낮아지고 있습니다. 이는 금에 호재인데, <strong>금값이 4,426.6달러</strong>로 상승한 것으로 확인됩니다. 장기 안전자산 선호 심화 신호이기도 합니다.</p>
-
-<h3 id="오늘-2130-cpi--내일-생산자물가신규-실업수당-high-이벤트">오늘 21:30 CPI + 내일 생산자물가·신규 실업수당 HIGH 이벤트</h3>
-<p>오늘 미국 물가지수(CPI) 발표가 예정돼 있고, 내일도 생산자물가(PPI)와 신규 실업수당(Initial Jobless Claims)이라는 민감한 지표가 나옵니다. <strong>익일 변동성 리스크가 높은</strong> 상황이므로, 오늘 진입한 포지션은 최대한 당일 정리를 권고합니다.</p>
-
-<hr />
-
-<h2 id="결론-신중함이-경쟁력인-날">결론: 신중함이 경쟁력인 날</h2>
-
-<p>오늘은 <strong>RED 등급 + 미국 약세 + 외국인 순매도</strong> 삼박자가 맞았습니다. 지난 며칠간의 추격 모멘텀이 한 발 물러난 상황입니다.</p>
-
-<p><strong>추천 행동 방침:</strong></p>
-<ol>
-  <li>시초가 갭 크기를 먼저 관찰하기 — 갭상승 시에만 관심</li>
-  <li>반도체·컴퓨터·무선통신 수출 수혜 테마는 <strong>외국인 매수 전환이 명확해진 후</strong>에만 진입</li>
-  <li>기존 보유 종목 중 저녁 락이 큰 건(예: 대원전선 -4.90%) <strong>손절 우선</strong></li>
-  <li>비중은 평소의 30~50% 수준만 — CPI 발표 후 변동성 확대 가능</li>
-  <li>내일 생산자물가·신규 실업수당으로 또 한번 흔들릴 준비</li>
-</ol>
-
-<p><strong>댓글로 오늘의 시장 분위기나 전략을 나눠주세요. 함께 관찰하겠습니다.</strong></p>
-
-<hr />
-
-<p>#미국약세 #종가베팅 #RED등급 #외국인순매도 #반도체테마 #경건한거래 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[아침 시장 분위기 📉]]></summary></entry></feed>
+<p>#종가베팅 #복기일지 #20260811 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-08-12 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
