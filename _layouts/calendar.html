@@ -12,6 +12,50 @@ layout: default
       <p class="sub">평일 21:00 마감글 발행 이후 갱신됩니다.</p>
     </div>
   {% else %}
+    {% assign now = cal.now %}
+    {% if now %}
+      <div class="cal-now">
+        <h2 class="cal-now-title">지금 장세 — {{ now.date }} 종가</h2>
+        <p class="cal-now-sub">시스템이 실제로 저장하고 있는 값입니다.
+          {% unless now.themeRegime %}테마장세 판정기(2026-08-18 도입) 이전 구간이라
+          테마 프리미엄은 이 페이지에서 파생 계산했습니다.{% endunless %}</p>
+        <div class="cal-now-grid">
+          <div>
+            <span class="k">베팅등급 · 레짐태그</span>
+            <b>{{ now.bettingGrade | default: '—' }}{% if now.regimeTag %} · {{ now.regimeTag }}{% endif %}</b>
+          </div>
+          <div>
+            <span class="k">시황 신호</span>
+            <b>{{ now.marketSignal | default: '—' }}</b>
+          </div>
+          <div>
+            <span class="k">지수</span>
+            <b>{% if now.kospi %}코스피 {% if now.kospi >= 0 %}+{% endif %}{{ now.kospi }}%
+               · 코스닥 {% if now.kosdaq and now.kosdaq >= 0 %}+{% endif %}{{ now.kosdaq }}%{% else %}—{% endif %}</b>
+          </div>
+          <div>
+            <span class="k">주도테마 (종가 랭킹 1위)</span>
+            <b>{{ now.leadTheme }} {% if now.leadChangeRate >= 0 %}+{% endif %}{{ now.leadChangeRate }}%</b>
+          </div>
+          <div>
+            <span class="k">테마 프리미엄</span>
+            <b>{% if now.themePremium %}{% if now.themePremium >= 0 %}+{% endif %}{{ now.themePremium }}%p{% else %}—{% endif %}{% if now.themeRegime %} → {{ now.themeRegime }}{% endif %}</b>
+          </div>
+        </div>
+      </div>
+    {% endif %}
+
+    {% assign sum = cal.summary %}
+    {% if sum %}
+      <div class="cal-sum">
+        <div class="cal-sum-item"><b>{{ sum.tradingDays }}</b><span>수집 거래일</span></div>
+        <div class="cal-sum-item"><b>{{ sum.sectorCount }}/16</b><span>1위에 오른 섹터 (전체 16종 중)</span></div>
+        <div class="cal-sum-item"><b>{{ sum.upDays }}/{{ sum.tradingDays }}</b><span>주도테마 상승 마감</span></div>
+        <div class="cal-sum-item"><b>{% if sum.avgChangeRate >= 0 %}+{% endif %}{{ sum.avgChangeRate }}%</b><span>주도테마 평균 등락률</span></div>
+        <div class="cal-sum-item"><b>{{ sum.topSectorDays }}일</b><span>최다 섹터 — {{ sum.topSector }}</span></div>
+      </div>
+    {% endif %}
+
     <header class="cal-head">
       <button class="cal-nav" id="cal-prev" aria-label="이전 달">‹</button>
       <h1 class="cal-title" id="cal-title"></h1>
@@ -19,7 +63,7 @@ layout: default
     </header>
 
     <p class="cal-note">
-      각 칸은 <strong>그날 종가 기준 1위 테마</strong>입니다.
+      각 칸은 <strong>그날 종가 기준 1위 테마</strong>입니다. 순위 기준은 등락률이 아니라 <strong>주도점수</strong>(등락률 + 편입종목수)라, 2·3위 등락률이 1위보다 높아 보이는 날이 있습니다.
       <span class="cal-tag new">NEW</span> 신규 진입 ·
       <span class="cal-tag carry">CARRY</span> 전일 상위권 유지
     </p>
@@ -36,7 +80,7 @@ layout: default
               {% if cell %}
                 <div class="cal-cell{% if cell.regime %} rg-{{ cell.regime | downcase }}{% endif %}">
                   <div class="cal-day">{{ cell.day }}</div>
-                  <div class="cal-theme" title="{{ cell.theme }} · {{ cell.slot }}">{{ cell.theme }}</div>
+                  <div class="cal-theme" title="{{ cell.theme | escape }} · {{ cell.slot }}">{{ cell.theme | escape }}</div>
                   <div class="cal-foot">
                     <span class="cal-pct {% if cell.changeRate >= 0 %}up{% else %}down{% endif %}">
                       {% if cell.changeRate >= 0 %}+{% endif %}{{ cell.changeRate }}%
@@ -45,6 +89,20 @@ layout: default
                       <span class="cal-tag {{ cell.prevDay | downcase }}">{{ cell.prevDay }}</span>
                     {% endif %}
                   </div>
+                  {% if cell.runners and cell.runners.size > 0 %}
+                    <div class="cal-runners" title="2·3위 테마의 등락률 — 순위 기준은 등락률이 아니라 주도점수(등락률+편입종목수)라 숫자가 역전돼 보일 수 있습니다">
+                      <span class="cal-rk">2·3위</span>
+                      {% for r in cell.runners %}
+                        <span class="cal-runner" title="{{ r.theme | escape }}">{% if r.changeRate >= 0 %}+{% endif %}{{ r.changeRate }}%</span>
+                      {% endfor %}
+                    </div>
+                  {% endif %}
+                  {% if cell.kospi %}
+                    <div class="cal-idx" title="코스피 등락률 · 테마 프리미엄(테마 − 코스피)">
+                      코스피 {% if cell.kospi >= 0 %}+{% endif %}{{ cell.kospi }}%
+                      {% if cell.themePremium %}· {% if cell.themePremium >= 0 %}+{% endif %}{{ cell.themePremium }}%p{% endif %}
+                    </div>
+                  {% endif %}
                   {% if cell.sector %}<div class="cal-sector">{{ cell.sector }}</div>{% endif %}
                 </div>
               {% else %}
@@ -55,6 +113,22 @@ layout: default
         </div>
       </div>
     {% endfor %}
+
+    {% assign sf = cal.sectorFreq %}
+    {% if sf and sf.size > 0 %}
+      <h2 class="cal-stat-title">통합 섹터 등장 빈도</h2>
+      <p class="cal-note">원본 테마명은 소스 교체·세분화로 바뀌지만 실체는 같습니다. 16개 통합 섹터로 묶어 셉니다.</p>
+      <div class="cal-stat-scroll">
+        <table class="cal-stat">
+          <thead><tr><th>통합 섹터</th><th>1위 일수</th><th>TOP3 등장 일수</th></tr></thead>
+          <tbody>
+            {% for s in sf %}
+              <tr><td>{{ s.sector | escape }}</td><td>{{ s.rank1Days }}</td><td>{{ s.top3Days }}</td></tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+    {% endif %}
 
     <p class="cal-meta">
       수집 {{ cal.totalDays }} 거래일 · 최종 {{ cal.lastTradingDay }}<br>

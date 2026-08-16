@@ -23,8 +23,39 @@
   font-weight: 700; padding: var(--sp-1) 0;
 }
 
+/* ── "지금 장세" 헤더 박스 ─────────────────────────────────────── */
+.cal-now {
+  background: var(--c-surface); border: 1px solid var(--c-border);
+  border-radius: var(--r-md); padding: var(--sp-3); margin-bottom: var(--sp-4);
+}
+.cal-now-title { font-size: var(--fz-lg); font-weight: 700; }
+.cal-now-sub { font-size: var(--fz-xs); color: var(--c-text-mute); line-height: 1.6; margin: var(--sp-1) 0 var(--sp-3); }
+.cal-now-grid { display: grid; grid-template-columns: 1fr; gap: var(--sp-2); }
+.cal-now-grid > div { display: flex; flex-direction: column; gap: 2px; }
+.cal-now-grid .k { font-size: var(--fz-xs); color: var(--c-text-mute); }
+.cal-now-grid b { font-size: var(--fz-sm); font-weight: 700; }
+
+/* ── 요약 카드 5종 ────────────────────────────────────────────── */
+.cal-sum { display: grid; grid-template-columns: repeat(2, 1fr); gap: var(--sp-2); margin-bottom: var(--sp-4); }
+.cal-sum-item {
+  background: var(--c-surface-2); border-radius: var(--r-md);
+  padding: var(--sp-2); display: flex; flex-direction: column; gap: 2px;
+}
+.cal-sum-item b { font-family: var(--f-mono); font-size: var(--fz-lg); font-weight: 700; }
+.cal-sum-item span { font-size: var(--fz-xs); color: var(--c-text-mute); line-height: 1.4; }
+
+/* ── 하단 통계 2절 ────────────────────────────────────────────── */
+.cal-stat-title { font-size: var(--fz-lg); font-weight: 700; margin-top: var(--sp-6); }
+.cal-stat-scroll { overflow-x: auto; }
+.cal-stat { width: 100%; border-collapse: collapse; font-size: var(--fz-sm); }
+.cal-stat th, .cal-stat td { padding: var(--sp-2); text-align: right; white-space: nowrap; }
+.cal-stat th:first-child, .cal-stat td:first-child { text-align: left; }
+.cal-stat thead th { font-size: var(--fz-xs); color: var(--c-text-mute); border-bottom: 1px solid var(--c-border); }
+.cal-stat tbody tr + tr td { border-top: 1px solid var(--c-border); }
+.cal-stat td:not(:first-child) { font-family: var(--f-mono); }
+
 .cal-cell {
-  min-height: 92px; padding: var(--sp-2);
+  min-height: 132px; padding: var(--sp-2);
   background: var(--c-surface); border: 1px solid var(--c-border);
   border-radius: var(--r-md); overflow: hidden;
   display: flex; flex-direction: column; gap: 2px;
@@ -50,12 +81,20 @@
 
 .cal-sector { font-size: 10px; color: var(--c-text-mute); }
 
+/* 2·3위 테마 — 이름은 title 툴팁, 셀에는 등락률만(설계서 §6-3 ⓑ, 모바일 잘림 방지) */
+.cal-runners { display: flex; align-items: center; gap: 4px; flex-wrap: wrap; }
+.cal-rk { font-size: 10px; color: var(--c-text-mute); }
+.cal-runner { font-family: var(--f-mono); font-size: 10px; color: var(--c-text-sub); cursor: help; }
+.cal-idx { font-family: var(--f-mono); font-size: 10px; color: var(--c-text-mute); }
+
 /* 국면 라벨 — theme_regime 적재 시작(2026-08-18) 이후 셀에만 값이 있다 */
 .cal-cell.rg-theme_exhausted { border-color: var(--c-up); }
 .cal-cell.rg-theme_led       { border-color: var(--c-grade-green); }
 .cal-cell.rg-index_led       { border-color: var(--c-down); }
 
 @media (min-width: 768px) {
-  .cal-cell  { min-height: 116px; padding: var(--sp-3); }
+  .cal-cell  { min-height: 156px; padding: var(--sp-3); }
   .cal-theme { font-size: var(--fz-md); -webkit-line-clamp: 2; }
+  .cal-now-grid { grid-template-columns: repeat(3, 1fr); }
+  .cal-sum      { grid-template-columns: repeat(5, 1fr); }
 }
