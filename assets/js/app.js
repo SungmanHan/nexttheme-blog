@@ -122,4 +122,37 @@
       insertBefore.parentNode.insertBefore(adFragment, insertBefore);
     }
   }
+
+  // === 주도테마 캘린더 — 월 이동 ===
+  const calMonths = Array.from(document.querySelectorAll('.cal-month'));
+  if (calMonths.length > 0) {
+    const title = document.getElementById('cal-title');
+    const prev = document.getElementById('cal-prev');
+    const next = document.getElementById('cal-next');
+
+    // 해시(#2026-08)가 유효하면 그 달, 아니면 최신 달
+    const hash = (location.hash || '').replace('#', '');
+    let idx = calMonths.findIndex(function (m) { return m.dataset.ym === hash; });
+    if (idx < 0) idx = calMonths.length - 1;
+
+    function show(i) {
+      idx = Math.min(Math.max(i, 0), calMonths.length - 1);
+      calMonths.forEach(function (m, n) { m.hidden = (n !== idx); });
+      title.textContent = calMonths[idx].dataset.label;
+      prev.disabled = (idx === 0);
+      next.disabled = (idx === calMonths.length - 1);
+      history.replaceState(null, '', '#' + calMonths[idx].dataset.ym);
+    }
+
+    prev.addEventListener('click', function () { show(idx - 1); });
+    next.addEventListener('click', function () { show(idx + 1); });
+    document.addEventListener('keydown', function (e) {
+      // D12: 검색 입력 중에는 좌우 키를 가로채지 않는다 (app.js:38 의 #search-input 과 공존)
+      const tag = (e.target.tagName || '').toLowerCase();
+      if (tag === 'input' || tag === 'textarea') return;
+      if (e.key === 'ArrowLeft') show(idx - 1);
+      if (e.key === 'ArrowRight') show(idx + 1);
+    });
+    show(idx);
+  }
 })();
