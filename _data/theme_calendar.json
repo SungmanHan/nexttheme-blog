@@ -1,6 +1,90 @@
 {
   "lastTradingDay" : "2026-08-14",
   "totalDays" : 69,
+  "summary" : {
+    "tradingDays" : 69,
+    "sectorCount" : 16,
+    "upDays" : 61,
+    "avgChangeRate" : 5.17,
+    "topSector" : "반도체·AI인프라",
+    "topSectorDays" : 20
+  },
+  "now" : {
+    "date" : "2026-08-14",
+    "bettingGrade" : "YELLOW",
+    "regimeTag" : "YELLOW",
+    "marketSignal" : "강세",
+    "kospi" : 2.42,
+    "kosdaq" : 0.38,
+    "leadTheme" : "정유",
+    "leadChangeRate" : 6.88,
+    "themePremium" : 4.46
+  },
+  "sectorFreq" : [ {
+    "sector" : "반도체·AI인프라",
+    "rank1Days" : 20,
+    "top3Days" : 29
+  }, {
+    "sector" : "자동차·2차전지",
+    "rank1Days" : 11,
+    "top3Days" : 20
+  }, {
+    "sector" : "전자부품·기판",
+    "rank1Days" : 5,
+    "top3Days" : 16
+  }, {
+    "sector" : "조선·해운",
+    "rank1Days" : 4,
+    "top3Days" : 15
+  }, {
+    "sector" : "전력·전선·신재생",
+    "rank1Days" : 4,
+    "top3Days" : 12
+  }, {
+    "sector" : "금융",
+    "rank1Days" : 3,
+    "top3Days" : 12
+  }, {
+    "sector" : "건설·기계",
+    "rank1Days" : 2,
+    "top3Days" : 11
+  }, {
+    "sector" : "소비재·유통",
+    "rank1Days" : 3,
+    "top3Days" : 10
+  }, {
+    "sector" : "정유·화학·원자재",
+    "rank1Days" : 3,
+    "top3Days" : 9
+  }, {
+    "sector" : "로봇·AI소프트웨어",
+    "rank1Days" : 3,
+    "top3Days" : 7
+  }, {
+    "sector" : "인터넷·게임·SW",
+    "rank1Days" : 2,
+    "top3Days" : 7
+  }, {
+    "sector" : "우주항공·방산",
+    "rank1Days" : 2,
+    "top3Days" : 5
+  }, {
+    "sector" : "통신·광통신",
+    "rank1Days" : 2,
+    "top3Days" : 5
+  }, {
+    "sector" : "디스플레이·LED",
+    "rank1Days" : 2,
+    "top3Days" : 2
+  }, {
+    "sector" : "매크로·기타",
+    "rank1Days" : 2,
+    "top3Days" : 2
+  }, {
+    "sector" : "바이오·헬스",
+    "rank1Days" : 1,
+    "top3Days" : 2
+  } ],
   "months" : [ {
     "ym" : "2026-05",
     "label" : "2026년 5월",
@@ -8,99 +92,247 @@
       "day" : 7,
       "date" : "2026-05-07",
       "theme" : "건설_해외건설",
+      "sector" : "건설·기계",
       "changeRate" : 7.55,
-      "slot" : "FINAL"
+      "slot" : "FINAL",
+      "kospi" : 1.52,
+      "themePremium" : 6.03,
+      "runners" : [ {
+        "theme" : "기계_건설기계",
+        "changeRate" : 6.43
+      }, {
+        "theme" : "타이어",
+        "changeRate" : 4.47
+      } ]
     }, {
       "day" : 8,
       "date" : "2026-05-08",
       "theme" : "자동차_전장화 수혜",
+      "sector" : "자동차·2차전지",
       "changeRate" : 7.26,
-      "slot" : "FINAL"
+      "slot" : "FINAL",
+      "kospi" : 0.0,
+      "themePremium" : 7.26,
+      "runners" : [ {
+        "theme" : "Cheap-Chic_저가실용품",
+        "changeRate" : 7.0
+      }, {
+        "theme" : "화장품",
+        "changeRate" : 4.38
+      } ]
     } ], [ {
       "day" : 11,
       "date" : "2026-05-11",
       "theme" : "반도체_생산",
+      "sector" : "반도체·AI인프라",
       "changeRate" : 8.97,
-      "slot" : "FINAL"
+      "slot" : "FINAL",
+      "kospi" : 4.43,
+      "themePremium" : 4.54,
+      "runners" : [ {
+        "theme" : "셋톱박스",
+        "changeRate" : 5.04
+      }, {
+        "theme" : "조선_해양플랜트",
+        "changeRate" : 3.13
+      } ]
     }, {
       "day" : 12,
       "date" : "2026-05-12",
       "theme" : "바이오_바이오시밀러/베터",
+      "sector" : "바이오·헬스",
       "changeRate" : 8.71,
-      "slot" : "FINAL"
+      "slot" : "FINAL",
+      "kospi" : -2.38,
+      "themePremium" : 11.09,
+      "runners" : [ {
+        "theme" : "보험_생명보험",
+        "changeRate" : 0.66
+      }, {
+        "theme" : "로봇_지능형",
+        "changeRate" : 0.48
+      } ]
     }, {
       "day" : 13,
       "date" : "2026-05-13",
       "theme" : "그린카_하이브리드카/전기차",
+      "sector" : "자동차·2차전지",
       "changeRate" : 2.46,
-      "slot" : "FINAL"
+      "slot" : "FINAL",
+      "kospi" : 2.66,
+      "themePremium" : -0.2,
+      "runners" : [ {
+        "theme" : "반도체_생산",
+        "changeRate" : 6.61
+      }, {
+        "theme" : "PCB(인쇄회로기판)",
+        "changeRate" : 1.41
+      } ]
     }, {
       "day" : 14,
       "date" : "2026-05-14",
       "theme" : "PCB(인쇄회로기판)",
+      "sector" : "전자부품·기판",
       "changeRate" : 1.75,
-      "slot" : "FINAL"
+      "slot" : "FINAL",
+      "kospi" : 0.97,
+      "themePremium" : 0.78,
+      "runners" : [ {
+        "theme" : "건설_해외건설",
+        "changeRate" : 3.65
+      }, {
+        "theme" : "태양광_잉곳/웨이퍼/셀/모듈",
+        "changeRate" : 7.41
+      } ]
     }, {
       "day" : 15,
       "date" : "2026-05-15",
       "theme" : "반도체_후공정",
+      "sector" : "반도체·AI인프라",
       "changeRate" : 1.02,
-      "slot" : "FINAL"
+      "slot" : "FINAL",
+      "kospi" : -7.29,
+      "themePremium" : 8.31,
+      "runners" : [ {
+        "theme" : "로봇_지능형",
+        "changeRate" : 0.41
+      } ]
     } ], [ {
       "day" : 18,
       "date" : "2026-05-18",
       "theme" : "태양광_부품/소재/장비",
+      "sector" : "전력·전선·신재생",
       "changeRate" : 6.5,
-      "slot" : "FINAL"
+      "slot" : "FINAL",
+      "kospi" : 0.49,
+      "themePremium" : 6.01,
+      "runners" : [ {
+        "theme" : "반도체_생산",
+        "changeRate" : 3.5
+      }, {
+        "theme" : "태양광_폴리실리콘",
+        "changeRate" : 3.68
+      } ]
     }, {
       "day" : 19,
       "date" : "2026-05-19",
       "theme" : "은행",
+      "sector" : "금융",
       "changeRate" : 0.17,
-      "slot" : "FINAL"
+      "slot" : "FINAL",
+      "kospi" : -3.63,
+      "themePremium" : 3.8,
+      "runners" : [ {
+        "theme" : "보험_손해보험",
+        "changeRate" : 1.79
+      }, {
+        "theme" : "라면",
+        "changeRate" : 0.5
+      } ]
     }, {
       "day" : 20,
       "date" : "2026-05-20",
       "theme" : "휴대폰_수동부품",
+      "sector" : "전자부품·기판",
       "changeRate" : 6.28,
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : -1.35,
+      "themePremium" : 7.63,
+      "runners" : [ {
+        "theme" : "반도체_전공정장비",
+        "changeRate" : 0.11
+      } ]
     }, {
       "day" : 21,
       "date" : "2026-05-21",
       "theme" : "그린카_하이브리드카/전기차",
+      "sector" : "자동차·2차전지",
       "changeRate" : 9.01,
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 8.3,
+      "themePremium" : 0.71,
+      "runners" : [ {
+        "theme" : "조선_Eco선",
+        "changeRate" : 3.74
+      }, {
+        "theme" : "조선_해양플랜트",
+        "changeRate" : 3.46
+      } ]
     }, {
       "day" : 22,
       "date" : "2026-05-22",
       "theme" : "네트워크/광통신",
+      "sector" : "통신·광통신",
       "changeRate" : 9.39,
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 0.22,
+      "themePremium" : 9.17,
+      "runners" : [ {
+        "theme" : "PCB(인쇄회로기판)",
+        "changeRate" : 5.88
+      }, {
+        "theme" : "그린카_하이브리드카/전기차",
+        "changeRate" : 2.96
+      } ]
     } ], [ null, {
       "day" : 26,
       "date" : "2026-05-26",
       "theme" : "조선_해양플랜트",
+      "sector" : "조선·해운",
       "changeRate" : 5.46,
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 2.55,
+      "themePremium" : 2.91,
+      "runners" : [ {
+        "theme" : "조선_Eco선",
+        "changeRate" : 4.23
+      }, {
+        "theme" : "그린카_하이브리드카/전기차",
+        "changeRate" : 2.23
+      } ]
     }, {
       "day" : 27,
       "date" : "2026-05-27",
       "theme" : "반도체_생산",
+      "sector" : "반도체·AI인프라",
       "changeRate" : 2.03,
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 2.25,
+      "themePremium" : -0.22,
+      "runners" : [ ]
     }, {
       "day" : 28,
       "date" : "2026-05-28",
       "theme" : "2차전지_완제품",
+      "sector" : "자동차·2차전지",
       "changeRate" : 4.26,
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : -0.53,
+      "themePremium" : 4.79,
+      "runners" : [ {
+        "theme" : "자원개발 E&P",
+        "changeRate" : 3.83
+      }, {
+        "theme" : "2차전지_소재(양극화물질등)",
+        "changeRate" : 0.31
+      } ]
     }, {
       "day" : 29,
       "date" : "2026-05-29",
       "theme" : "그린카_하이브리드카/전기차",
+      "sector" : "자동차·2차전지",
       "changeRate" : 2.07,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 3.55,
+      "themePremium" : -1.48,
+      "runners" : [ {
+        "theme" : "PCB(인쇄회로기판)",
+        "changeRate" : 2.3
+      }, {
+        "theme" : "건설_해외건설",
+        "changeRate" : 1.84
+      } ]
     } ] ]
   }, {
     "ym" : "2026-06",
@@ -109,149 +341,359 @@
       "day" : 1,
       "date" : "2026-06-01",
       "theme" : "반도체_생산",
+      "sector" : "반도체·AI인프라",
       "changeRate" : 3.06,
       "prevDay" : "CARRY",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 3.68,
+      "themePremium" : -0.62,
+      "runners" : [ {
+        "theme" : "SNS(Social Network Service)",
+        "changeRate" : 5.48
+      }, {
+        "theme" : "SI(시스템통합)",
+        "changeRate" : 2.43
+      } ]
     }, {
       "day" : 2,
       "date" : "2026-06-02",
       "theme" : "SNS(Social Network Service)",
+      "sector" : "인터넷·게임·SW",
       "changeRate" : 1.38,
       "prevDay" : "CARRY",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 0.15,
+      "themePremium" : 1.23,
+      "runners" : [ {
+        "theme" : "클라우드 컴퓨팅",
+        "changeRate" : 0.67
+      }, {
+        "theme" : "게임_모바일",
+        "changeRate" : 1.75
+      } ]
     }, null, {
       "day" : 4,
       "date" : "2026-06-04",
       "theme" : "반도체_전공정장비",
+      "sector" : "반도체·AI인프라",
       "changeRate" : 17.09,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : -1.84,
+      "themePremium" : 18.93,
+      "runners" : [ {
+        "theme" : "은행",
+        "changeRate" : 2.64
+      }, {
+        "theme" : "조선_Eco선",
+        "changeRate" : 0.52
+      } ]
     }, {
       "day" : 5,
       "date" : "2026-06-05",
       "theme" : "은행",
+      "sector" : "금융",
       "changeRate" : 2.86,
       "prevDay" : "CARRY",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : -5.54,
+      "themePremium" : 8.4,
+      "runners" : [ {
+        "theme" : "백화점",
+        "changeRate" : 1.2
+      }, {
+        "theme" : "카지노",
+        "changeRate" : 1.16
+      } ]
     } ], [ {
       "day" : 8,
       "date" : "2026-06-08",
       "theme" : "은행",
+      "sector" : "금융",
       "changeRate" : -6.79,
       "prevDay" : "CARRY",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : -8.29,
+      "themePremium" : 1.5,
+      "runners" : [ {
+        "theme" : "조선_해양플랜트",
+        "changeRate" : -6.96
+      }, {
+        "theme" : "조선_Eco선",
+        "changeRate" : -7.27
+      } ]
     }, {
       "day" : 9,
       "date" : "2026-06-09",
       "theme" : "반도체_생산",
+      "sector" : "반도체·AI인프라",
       "changeRate" : 10.28,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 8.18,
+      "themePremium" : 2.1,
+      "runners" : [ {
+        "theme" : "PCB(인쇄회로기판)",
+        "changeRate" : 7.17
+      }, {
+        "theme" : "반도체_전공정장비",
+        "changeRate" : 13.05
+      } ]
     }, {
       "day" : 10,
       "date" : "2026-06-10",
       "theme" : "코스닥_라이징스타",
+      "sector" : "매크로·기타",
       "changeRate" : -1.72,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : -4.52,
+      "themePremium" : 2.8,
+      "runners" : [ {
+        "theme" : "은행",
+        "changeRate" : 0.49
+      }, {
+        "theme" : "반도체_전공정장비",
+        "changeRate" : 0.71
+      } ]
     }, {
       "day" : 11,
       "date" : "2026-06-11",
       "theme" : "PCB(인쇄회로기판)",
+      "sector" : "전자부품·기판",
       "changeRate" : 3.17,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 0.43,
+      "themePremium" : 2.74,
+      "runners" : [ {
+        "theme" : "반도체_전공정장비",
+        "changeRate" : 7.74
+      }, {
+        "theme" : "반도체_시스템반도체",
+        "changeRate" : 4.36
+      } ]
     }, {
       "day" : 12,
       "date" : "2026-06-12",
       "theme" : "반도체_생산",
+      "sector" : "반도체·AI인프라",
       "changeRate" : 7.6,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 4.63,
+      "themePremium" : 2.97,
+      "runners" : [ {
+        "theme" : "그린카_하이브리드카/전기차",
+        "changeRate" : 3.95
+      }, {
+        "theme" : "건설_해외건설",
+        "changeRate" : 5.9
+      } ]
     } ], [ {
       "day" : 15,
       "date" : "2026-06-15",
       "theme" : "그린카_하이브리드카/전기차",
+      "sector" : "자동차·2차전지",
       "changeRate" : 6.17,
       "prevDay" : "CARRY",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 5.2,
+      "themePremium" : 0.97,
+      "runners" : [ {
+        "theme" : "스마트 그리드",
+        "changeRate" : 5.63
+      }, {
+        "theme" : "건설_해외건설",
+        "changeRate" : 2.91
+      } ]
     }, {
       "day" : 16,
       "date" : "2026-06-16",
       "theme" : "건설_해외건설",
+      "sector" : "건설·기계",
       "changeRate" : 6.13,
       "prevDay" : "CARRY",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 2.11,
+      "themePremium" : 4.02,
+      "runners" : [ {
+        "theme" : "그린카_하이브리드카/전기차",
+        "changeRate" : 0.25
+      }, {
+        "theme" : "방위산업",
+        "changeRate" : 5.12
+      } ]
     }, {
       "day" : 17,
       "date" : "2026-06-17",
       "theme" : "조선_해양플랜트",
+      "sector" : "조선·해운",
       "changeRate" : 4.06,
       "prevDay" : "CARRY",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 1.58,
+      "themePremium" : 2.48,
+      "runners" : [ {
+        "theme" : "조선_Eco선",
+        "changeRate" : 4.12
+      }, {
+        "theme" : "반도체_생산",
+        "changeRate" : 1.74
+      } ]
     }, {
       "day" : 18,
       "date" : "2026-06-18",
       "theme" : "반도체_생산",
+      "sector" : "반도체·AI인프라",
       "changeRate" : 2.87,
       "prevDay" : "CARRY",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 2.25,
+      "themePremium" : 0.62,
+      "runners" : [ {
+        "theme" : "스마트 그리드",
+        "changeRate" : -0.19
+      }, {
+        "theme" : "휴대폰_수동부품",
+        "changeRate" : 6.99
+      } ]
     }, {
       "day" : 19,
       "date" : "2026-06-19",
       "theme" : "반도체_생산",
+      "sector" : "반도체·AI인프라",
       "changeRate" : 0.55,
       "prevDay" : "CARRY",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : -0.13,
+      "themePremium" : 0.68,
+      "runners" : [ {
+        "theme" : "그린카_하이브리드카/전기차",
+        "changeRate" : -1.21
+      }, {
+        "theme" : "조선_해양플랜트",
+        "changeRate" : 1.12
+      } ]
     } ], [ {
       "day" : 22,
       "date" : "2026-06-22",
       "theme" : "반도체_생산",
+      "sector" : "반도체·AI인프라",
       "changeRate" : 4.68,
       "prevDay" : "CARRY",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 0.69,
+      "themePremium" : 3.99,
+      "runners" : [ {
+        "theme" : "온실가스배출저감",
+        "changeRate" : -0.01
+      }, {
+        "theme" : "건설_해외건설",
+        "changeRate" : 0.92
+      } ]
     }, {
       "day" : 23,
       "date" : "2026-06-23",
       "theme" : "휴대폰_카메라",
+      "sector" : "전자부품·기판",
       "changeRate" : -2.3,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : -9.99,
+      "themePremium" : 7.69,
+      "runners" : [ {
+        "theme" : "클라우드 컴퓨팅",
+        "changeRate" : -3.26
+      }, {
+        "theme" : "온실가스배출저감",
+        "changeRate" : -4.01
+      } ]
     }, {
       "day" : 24,
       "date" : "2026-06-24",
       "theme" : "반도체_생산",
+      "sector" : "반도체·AI인프라",
       "changeRate" : 3.35,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 3.26,
+      "themePremium" : 0.09,
+      "runners" : [ {
+        "theme" : "2차전지_완제품",
+        "changeRate" : 3.53
+      }, {
+        "theme" : "합성고무",
+        "changeRate" : 3.77
+      } ]
     }, {
       "day" : 25,
       "date" : "2026-06-25",
       "theme" : "반도체_생산",
+      "sector" : "반도체·AI인프라",
       "changeRate" : 7.87,
       "prevDay" : "CARRY",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 5.42,
+      "themePremium" : 2.45,
+      "runners" : [ {
+        "theme" : "운송_항공",
+        "changeRate" : 6.51
+      }, {
+        "theme" : "조선_해양플랜트기자재",
+        "changeRate" : 4.86
+      } ]
     }, {
       "day" : 26,
       "date" : "2026-06-26",
       "theme" : "반도체_전공정장비",
+      "sector" : "반도체·AI인프라",
       "changeRate" : 2.88,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : -5.81,
+      "themePremium" : 8.69,
+      "runners" : [ {
+        "theme" : "은행",
+        "changeRate" : -2.92
+      }, {
+        "theme" : "방위산업",
+        "changeRate" : -4.31
+      } ]
     } ], [ {
       "day" : 29,
       "date" : "2026-06-29",
       "theme" : "그린카_하이브리드카/전기차",
+      "sector" : "자동차·2차전지",
       "changeRate" : 6.24,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : -0.2,
+      "themePremium" : 6.44,
+      "runners" : [ {
+        "theme" : "건설_해외건설",
+        "changeRate" : 10.99
+      }, {
+        "theme" : "스마트 그리드",
+        "changeRate" : 5.28
+      } ]
     }, {
       "day" : 30,
       "date" : "2026-06-30",
       "theme" : "반도체_생산",
+      "sector" : "반도체·AI인프라",
       "changeRate" : 2.02,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 0.97,
+      "themePremium" : 1.05,
+      "runners" : [ {
+        "theme" : "스마트 그리드",
+        "changeRate" : 2.88
+      }, {
+        "theme" : "PCB(인쇄회로기판)",
+        "changeRate" : 2.46
+      } ]
     }, null, null, null ] ]
   }, {
     "ym" : "2026-07",
@@ -260,156 +702,376 @@
       "day" : 1,
       "date" : "2026-07-01",
       "theme" : "PCB(인쇄회로기판)",
+      "sector" : "전자부품·기판",
       "changeRate" : 1.13,
       "prevDay" : "CARRY",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : -2.04,
+      "themePremium" : 3.17,
+      "runners" : [ {
+        "theme" : "그린카_하이브리드카/전기차",
+        "changeRate" : 1.16
+      }, {
+        "theme" : "스마트 그리드",
+        "changeRate" : 4.46
+      } ]
     }, {
       "day" : 2,
       "date" : "2026-07-02",
       "theme" : "그린카_하이브리드카/전기차",
+      "sector" : "자동차·2차전지",
       "changeRate" : -2.81,
       "prevDay" : "CARRY",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : -7.89,
+      "themePremium" : 5.08,
+      "runners" : [ {
+        "theme" : "은행",
+        "changeRate" : 3.4
+      }, {
+        "theme" : "조선_해양플랜트",
+        "changeRate" : -1.11
+      } ]
     }, {
       "day" : 3,
       "date" : "2026-07-03",
       "theme" : "반도체_생산",
+      "sector" : "반도체·AI인프라",
       "changeRate" : 6.89,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 5.76,
+      "themePremium" : 1.13,
+      "runners" : [ {
+        "theme" : "증권",
+        "changeRate" : 5.42
+      }, {
+        "theme" : "은행",
+        "changeRate" : 3.24
+      } ]
     } ], [ {
       "day" : 6,
       "date" : "2026-07-06",
       "theme" : "그린카_하이브리드카/전기차",
+      "sector" : "자동차·2차전지",
       "changeRate" : -0.46,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : -0.46,
+      "themePremium" : 0.0,
+      "runners" : [ {
+        "theme" : "조선_해양플랜트",
+        "changeRate" : 3.08
+      }, {
+        "theme" : "조선_Eco선",
+        "changeRate" : 2.04
+      } ]
     }, {
       "day" : 7,
       "date" : "2026-07-07",
       "theme" : "2차전지_완제품",
+      "sector" : "자동차·2차전지",
       "changeRate" : 0.71,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : -4.91,
+      "themePremium" : 5.62,
+      "runners" : [ {
+        "theme" : "은행",
+        "changeRate" : 0.58
+      }, {
+        "theme" : "클라우드 컴퓨팅",
+        "changeRate" : 0.5
+      } ]
     }, {
       "day" : 8,
       "date" : "2026-07-08",
       "theme" : "LED",
+      "sector" : "디스플레이·LED",
       "changeRate" : -1.0,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : -5.35,
+      "themePremium" : 4.35,
+      "runners" : [ {
+        "theme" : "보험_손해보험",
+        "changeRate" : -1.36
+      }, {
+        "theme" : "운송_해운",
+        "changeRate" : -1.6
+      } ]
     }, {
       "day" : 9,
       "date" : "2026-07-09",
       "theme" : "뉴로모픽 반도체",
+      "sector" : "반도체·AI인프라",
       "changeRate" : 8.08,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 0.62,
+      "themePremium" : 7.46,
+      "runners" : [ {
+        "theme" : "김밥(냉동김밥 등)",
+        "changeRate" : 5.65
+      }, {
+        "theme" : "광통신(광케이블/광섬유 등)",
+        "changeRate" : 5.52
+      } ]
     }, {
       "day" : 10,
       "date" : "2026-07-10",
       "theme" : "LED장비",
+      "sector" : "디스플레이·LED",
       "changeRate" : 14.3,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 2.52,
+      "themePremium" : 11.78,
+      "runners" : [ {
+        "theme" : "반도체 장비",
+        "changeRate" : 10.92
+      }, {
+        "theme" : "HBM(고대역폭메모리)",
+        "changeRate" : 10.78
+      } ]
     } ], [ {
       "day" : 13,
       "date" : "2026-07-13",
       "theme" : "제습기",
+      "sector" : "소비재·유통",
       "changeRate" : 6.55,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : -8.95,
+      "themePremium" : 15.5,
+      "runners" : [ {
+        "theme" : "윤활유",
+        "changeRate" : 2.68
+      }, {
+        "theme" : "정유",
+        "changeRate" : 3.66
+      } ]
     }, {
       "day" : 14,
       "date" : "2026-07-14",
       "theme" : "반도체 대표주(생산)",
+      "sector" : "반도체·AI인프라",
       "changeRate" : 3.15,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 0.73,
+      "themePremium" : 2.42,
+      "runners" : [ {
+        "theme" : "낙태/피임",
+        "changeRate" : 6.7
+      }, {
+        "theme" : "해운",
+        "changeRate" : 5.18
+      } ]
     }, {
       "day" : 15,
       "date" : "2026-07-15",
       "theme" : "소캠(SOCAMM)",
+      "sector" : "반도체·AI인프라",
       "changeRate" : 12.69,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 6.24,
+      "themePremium" : 6.45,
+      "runners" : [ {
+        "theme" : "반도체 기판(FC-BGA/PCB/MLB 등)",
+        "changeRate" : 11.75
+      }, {
+        "theme" : "HBM(고대역폭메모리)",
+        "changeRate" : 9.28
+      } ]
     }, {
       "day" : 16,
       "date" : "2026-07-16",
       "theme" : "조선",
+      "sector" : "조선·해운",
       "changeRate" : 6.08,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : -6.37,
+      "themePremium" : 12.45,
+      "runners" : [ {
+        "theme" : "日제품 불매운동(수혜)",
+        "changeRate" : 7.83
+      }, {
+        "theme" : "패션/의류",
+        "changeRate" : 3.81
+      } ]
     }, null ], [ {
       "day" : 20,
       "date" : "2026-07-20",
       "theme" : "윤활유",
+      "sector" : "정유·화학·원자재",
       "changeRate" : 1.04,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : -4.46,
+      "themePremium" : 5.5,
+      "runners" : [ {
+        "theme" : "LPG(액화석유가스)",
+        "changeRate" : 0.68
+      }, {
+        "theme" : "콩/대두",
+        "changeRate" : 4.85
+      } ]
     }, {
       "day" : 21,
       "date" : "2026-07-21",
       "theme" : "S7(삼성전자/SK하이닉스 등)",
+      "sector" : "반도체·AI인프라",
       "changeRate" : 5.13,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 3.56,
+      "themePremium" : 1.57,
+      "runners" : [ {
+        "theme" : "피지컬 AI/휴머노이드 로봇",
+        "changeRate" : 5.05
+      }, {
+        "theme" : "로봇(산업용/협동로봇 등)",
+        "changeRate" : 5.68
+      } ]
     }, {
       "day" : 22,
       "date" : "2026-07-22",
       "theme" : "로봇(산업용/협동로봇 등)",
+      "sector" : "로봇·AI소프트웨어",
       "changeRate" : 7.68,
       "prevDay" : "CARRY",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 0.74,
+      "themePremium" : 6.94,
+      "runners" : [ {
+        "theme" : "피지컬 AI/휴머노이드 로봇",
+        "changeRate" : 7.3
+      }, {
+        "theme" : "건설 대표주",
+        "changeRate" : 5.54
+      } ]
     }, {
       "day" : 23,
       "date" : "2026-07-23",
       "theme" : "전선",
+      "sector" : "전력·전선·신재생",
       "changeRate" : 11.89,
       "prevDay" : "CARRY",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 4.4,
+      "themePremium" : 7.49,
+      "runners" : [ {
+        "theme" : "풍력에너지",
+        "changeRate" : 8.55
+      }, {
+        "theme" : "전력설비",
+        "changeRate" : 8.5
+      } ]
     }, {
       "day" : 24,
       "date" : "2026-07-24",
       "theme" : "제습기",
+      "sector" : "소비재·유통",
       "changeRate" : 3.76,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : -5.72,
+      "themePremium" : 9.48,
+      "runners" : [ {
+        "theme" : "조선기자재",
+        "changeRate" : 2.44
+      }, {
+        "theme" : "윤활유",
+        "changeRate" : 0.41
+      } ]
     } ], [ {
       "day" : 27,
       "date" : "2026-07-27",
       "theme" : "제습기",
+      "sector" : "소비재·유통",
       "changeRate" : 6.37,
       "prevDay" : "CARRY",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 0.97,
+      "themePremium" : 5.4,
+      "runners" : [ {
+        "theme" : "AI 챗봇(챗GPT 등)",
+        "changeRate" : 4.73
+      }, {
+        "theme" : "지능형로봇/인공지능(AI)",
+        "changeRate" : 4.18
+      } ]
     }, {
       "day" : 28,
       "date" : "2026-07-28",
       "theme" : "AI 챗봇(챗GPT 등)",
+      "sector" : "로봇·AI소프트웨어",
       "changeRate" : -3.84,
       "prevDay" : "CARRY",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : -10.84,
+      "themePremium" : 7.0,
+      "runners" : [ {
+        "theme" : "음성인식",
+        "changeRate" : -3.09
+      }, {
+        "theme" : "지능형로봇/인공지능(AI)",
+        "changeRate" : -4.48
+      } ]
     }, {
       "day" : 29,
       "date" : "2026-07-29",
       "theme" : "환율하락 수혜",
+      "sector" : "매크로·기타",
       "changeRate" : -2.4,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : -5.98,
+      "themePremium" : 3.58,
+      "runners" : [ {
+        "theme" : "자동차 대표주",
+        "changeRate" : -2.95
+      }, {
+        "theme" : "SI(시스템통합)",
+        "changeRate" : -4.02
+      } ]
     }, {
       "day" : 30,
       "date" : "2026-07-30",
       "theme" : "조선",
+      "sector" : "조선·해운",
       "changeRate" : 5.96,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : -1.23,
+      "themePremium" : 7.19,
+      "runners" : [ {
+        "theme" : "정유",
+        "changeRate" : 3.7
+      }, {
+        "theme" : "LPG(액화석유가스)",
+        "changeRate" : 3.36
+      } ]
     }, {
       "day" : 31,
       "date" : "2026-07-31",
       "theme" : "S7(삼성전자/SK하이닉스 등)",
+      "sector" : "반도체·AI인프라",
       "changeRate" : 25.53,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 17.91,
+      "themePremium" : 7.62,
+      "runners" : [ {
+        "theme" : "소캠(SOCAMM)",
+        "changeRate" : 24.47
+      }, {
+        "theme" : "반도체 기판(FC-BGA/PCB/MLB 등)",
+        "changeRate" : 24.26
+      } ]
     } ] ]
   }, {
     "ym" : "2026-08",
@@ -418,72 +1080,172 @@
       "day" : 3,
       "date" : "2026-08-03",
       "theme" : "로봇(산업용/협동로봇 등)",
+      "sector" : "로봇·AI소프트웨어",
       "changeRate" : 6.32,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : -5.12,
+      "themePremium" : 11.44,
+      "runners" : [ {
+        "theme" : "피지컬 AI/휴머노이드 로봇",
+        "changeRate" : 4.72
+      }, {
+        "theme" : "제습기",
+        "changeRate" : 4.46
+      } ]
     }, {
       "day" : 4,
       "date" : "2026-08-04",
       "theme" : "광통신(광케이블/광섬유 등)",
+      "sector" : "통신·광통신",
       "changeRate" : 11.56,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 1.62,
+      "themePremium" : 9.94,
+      "runners" : [ {
+        "theme" : "우주항공산업(누리호/인공위성 등)",
+        "changeRate" : 9.02
+      }, {
+        "theme" : "건설 대표주",
+        "changeRate" : 7.82
+      } ]
     }, {
       "day" : 5,
       "date" : "2026-08-05",
       "theme" : "전선",
+      "sector" : "전력·전선·신재생",
       "changeRate" : 11.95,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 3.76,
+      "themePremium" : 8.19,
+      "runners" : [ {
+        "theme" : "광통신(광케이블/광섬유 등)",
+        "changeRate" : 11.92
+      }, {
+        "theme" : "반도체 기판(FC-BGA/PCB/MLB 등)",
+        "changeRate" : 8.51
+      } ]
     }, {
       "day" : 6,
       "date" : "2026-08-06",
       "theme" : "귀금속(금/은)",
+      "sector" : "정유·화학·원자재",
       "changeRate" : 7.8,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : -4.44,
+      "themePremium" : 12.24,
+      "runners" : [ {
+        "theme" : "건설 대표주",
+        "changeRate" : 2.39
+      }, {
+        "theme" : "화장품",
+        "changeRate" : 2.3
+      } ]
     }, {
       "day" : 7,
       "date" : "2026-08-07",
       "theme" : "2차전지(생산)",
+      "sector" : "자동차·2차전지",
       "changeRate" : 7.09,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : -0.6,
+      "themePremium" : 7.69,
+      "runners" : [ {
+        "theme" : "정유",
+        "changeRate" : 6.93
+      }, {
+        "theme" : "리튬",
+        "changeRate" : 3.48
+      } ]
     } ], [ {
       "day" : 10,
       "date" : "2026-08-10",
       "theme" : "스페이스X(SpaceX)",
+      "sector" : "우주항공·방산",
       "changeRate" : 9.13,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 0.65,
+      "themePremium" : 8.48,
+      "runners" : [ {
+        "theme" : "우주항공산업(누리호/인공위성 등)",
+        "changeRate" : 8.6
+      }, {
+        "theme" : "광통신(광케이블/광섬유 등)",
+        "changeRate" : 8.62
+      } ]
     }, {
       "day" : 11,
       "date" : "2026-08-11",
       "theme" : "게임",
+      "sector" : "인터넷·게임·SW",
       "changeRate" : 4.22,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 0.73,
+      "themePremium" : 3.49,
+      "runners" : [ {
+        "theme" : "모바일게임(스마트폰)",
+        "changeRate" : 3.99
+      }, {
+        "theme" : "MLCC(적층세라믹콘덴서)",
+        "changeRate" : 4.26
+      } ]
     }, {
       "day" : 12,
       "date" : "2026-08-12",
       "theme" : "전선",
+      "sector" : "전력·전선·신재생",
       "changeRate" : 6.47,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 3.68,
+      "themePremium" : 2.79,
+      "runners" : [ {
+        "theme" : "S7(삼성전자/SK하이닉스 등)",
+        "changeRate" : 5.71
+      }, {
+        "theme" : "IT 대표주",
+        "changeRate" : 5.39
+      } ]
     }, {
       "day" : 13,
       "date" : "2026-08-13",
       "theme" : "스페이스X(SpaceX)",
+      "sector" : "우주항공·방산",
       "changeRate" : 4.4,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 3.56,
+      "themePremium" : 0.84,
+      "runners" : [ {
+        "theme" : "소캠(SOCAMM)",
+        "changeRate" : 4.39
+      }, {
+        "theme" : "S7(삼성전자/SK하이닉스 등)",
+        "changeRate" : 4.09
+      } ]
     }, {
       "day" : 14,
       "date" : "2026-08-14",
       "theme" : "정유",
+      "sector" : "정유·화학·원자재",
       "changeRate" : 6.88,
       "prevDay" : "NEW",
-      "slot" : "15:00"
+      "slot" : "15:00",
+      "kospi" : 2.42,
+      "themePremium" : 4.46,
+      "runners" : [ {
+        "theme" : "생명보험",
+        "changeRate" : 6.39
+      }, {
+        "theme" : "웹툰",
+        "changeRate" : 5.44
+      } ]
     } ] ]
   } ]
 }
