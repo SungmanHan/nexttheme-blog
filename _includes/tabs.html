@@ -1,5 +1,5 @@
 <nav class="cat-tabs" aria-label="카테고리">
-  {% assign tabs = "all|전체,daily|데일리,briefing|브리핑,snapshot|종가베팅,weekly|주간리뷰,detail|종목상세,review|종가베팅복기" | split: "," %}
+  {% assign tabs = "all|전체,theme-calendar|테마캘린더,daily|데일리,briefing|브리핑,snapshot|종가베팅,weekly|주간리뷰,detail|종목상세,review|종가베팅복기" | split: "," %}
   {% for tab in tabs %}
     {% assign parts = tab | split: "|" %}
     {% assign slug = parts[0] %}
@@ -9,6 +9,10 @@
       {% assign active_check = page.url %}
       {% assign is_active = false %}
       {% if page.url == "/" %}{% assign is_active = true %}{% endif %}
+    {% elsif slug == "theme-calendar" %}
+      {% assign href = "/theme-calendar/" | relative_url %}
+      {% assign is_active = false %}
+      {% if page.url contains "theme-calendar" %}{% assign is_active = true %}{% endif %}
     {% else %}
       {% assign href = "/categories/" | append: slug | append: "/" | relative_url %}
       {% assign is_active = false %}

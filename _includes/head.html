@@ -45,6 +45,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 {% if page.layout == 'post' %}
   <link rel="stylesheet" href="{{ '/assets/css/post.css' | relative_url }}">
 {% endif %}
+{% if page.layout == 'calendar' %}
+  <link rel="stylesheet" href="{{ '/assets/css/calendar.css' | relative_url }}">
+{% endif %}
 
 <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}">
 {% seo title=false %}

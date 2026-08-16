@@ -2,6 +2,9 @@
   <a class="bn-item{% if page.url == '/' %} on{% endif %}" href="{{ '/' | relative_url }}">
     <span class="bn-ico">🏠</span><span class="bn-label">홈</span>
   </a>
+  <a class="bn-item{% if page.url contains 'theme-calendar' %} on{% endif %}" href="{{ '/theme-calendar/' | relative_url }}">
+    <span class="bn-ico">🗓</span><span class="bn-label">캘린더</span>
+  </a>
   <a class="bn-item{% if page.url contains 'briefing' %} on{% endif %}" href="{{ '/categories/briefing/' | relative_url }}">
     <span class="bn-ico">📰</span><span class="bn-label">브리핑</span>
   </a>

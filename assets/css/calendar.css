@@ -1,0 +1,61 @@
+/* calendar.css — 주도테마 로테이션 캘린더 */
+
+.cal-wrap { padding: var(--sp-4); max-width: var(--w-content); margin: 0 auto; }
+
+.cal-head { display: flex; align-items: center; justify-content: space-between; gap: var(--sp-3); }
+.cal-title { font-size: var(--fz-2xl); font-weight: 700; text-align: center; flex: 1; }
+.cal-nav {
+  width: 44px; height: 44px; border-radius: var(--r-md);
+  background: var(--c-surface-2); color: var(--c-text-sub);
+  font-size: var(--fz-2xl); line-height: 1;
+}
+.cal-nav:disabled { opacity: 0.3; cursor: default; }
+
+.cal-note, .cal-meta {
+  font-size: var(--fz-sm); color: var(--c-text-sub); line-height: 1.7;
+  margin: var(--sp-3) 0;
+}
+.cal-meta { margin-top: var(--sp-6); }
+
+.cal-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: var(--sp-1); }
+.cal-dow {
+  text-align: center; font-size: var(--fz-xs); color: var(--c-text-mute);
+  font-weight: 700; padding: var(--sp-1) 0;
+}
+
+.cal-cell {
+  min-height: 92px; padding: var(--sp-2);
+  background: var(--c-surface); border: 1px solid var(--c-border);
+  border-radius: var(--r-md); overflow: hidden;
+  display: flex; flex-direction: column; gap: 2px;
+}
+.cal-cell.empty { background: transparent; border-color: transparent; min-height: 0; }
+
+.cal-day { font-family: var(--f-mono); font-size: var(--fz-xs); color: var(--c-text-mute); }
+.cal-theme {
+  font-size: var(--fz-sm); font-weight: 700; line-height: 1.35;
+  display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+}
+.cal-foot { margin-top: auto; display: flex; align-items: center; gap: var(--sp-1); flex-wrap: wrap; }
+.cal-pct { font-family: var(--f-mono); font-size: var(--fz-xs); font-weight: 700; }
+.cal-pct.up { color: var(--c-up); }
+.cal-pct.down { color: var(--c-down); }
+
+.cal-tag {
+  font-size: 10px; font-weight: 700; padding: 1px 5px; border-radius: var(--r-sm);
+  letter-spacing: 0.02em;
+}
+.cal-tag.new   { background: var(--c-grade-green-bg); color: var(--c-grade-green); }
+.cal-tag.carry { background: var(--c-review-bg);      color: var(--c-review); }
+
+.cal-sector { font-size: 10px; color: var(--c-text-mute); }
+
+/* 국면 라벨 — theme_regime 적재 시작(2026-08-18) 이후 셀에만 값이 있다 */
+.cal-cell.rg-theme_exhausted { border-color: var(--c-up); }
+.cal-cell.rg-theme_led       { border-color: var(--c-grade-green); }
+.cal-cell.rg-index_led       { border-color: var(--c-down); }
+
+@media (min-width: 768px) {
+  .cal-cell  { min-height: 116px; padding: var(--sp-3); }
+  .cal-theme { font-size: var(--fz-md); -webkit-line-clamp: 2; }
+}

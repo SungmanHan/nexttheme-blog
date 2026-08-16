@@ -1,0 +1,71 @@
+---
+layout: default
+---
+{% include tabs.html %}
+
+{% assign cal = site.data.theme_calendar %}
+
+<section class="cal-wrap">
+  {% if cal == nil or cal.months.size == 0 %}
+    <div class="feed-empty">
+      <p>캘린더 데이터가 아직 생성되지 않았습니다.</p>
+      <p class="sub">평일 21:00 마감글 발행 이후 갱신됩니다.</p>
+    </div>
+  {% else %}
+    <header class="cal-head">
+      <button class="cal-nav" id="cal-prev" aria-label="이전 달">‹</button>
+      <h1 class="cal-title" id="cal-title"></h1>
+      <button class="cal-nav" id="cal-next" aria-label="다음 달">›</button>
+    </header>
+
+    <p class="cal-note">
+      각 칸은 <strong>그날 종가 기준 1위 테마</strong>입니다.
+      <span class="cal-tag new">NEW</span> 신규 진입 ·
+      <span class="cal-tag carry">CARRY</span> 전일 상위권 유지
+    </p>
+
+    {% for m in cal.months %}
+      <div class="cal-month" id="{{ m.ym }}" data-ym="{{ m.ym }}" data-label="{{ m.label }}" hidden>
+        <div class="cal-grid">
+          {% for d in "월,화,수,목,금" | split: "," %}
+            <div class="cal-dow">{{ d }}</div>
+          {% endfor %}
+
+          {% for week in m.weeks %}
+            {% for cell in week %}
+              {% if cell %}
+                <div class="cal-cell{% if cell.regime %} rg-{{ cell.regime | downcase }}{% endif %}">
+                  <div class="cal-day">{{ cell.day }}</div>
+                  <div class="cal-theme" title="{{ cell.theme }} · {{ cell.slot }}">{{ cell.theme }}</div>
+                  <div class="cal-foot">
+                    <span class="cal-pct {% if cell.changeRate >= 0 %}up{% else %}down{% endif %}">
+                      {% if cell.changeRate >= 0 %}+{% endif %}{{ cell.changeRate }}%
+                    </span>
+                    {% if cell.prevDay %}
+                      <span class="cal-tag {{ cell.prevDay | downcase }}">{{ cell.prevDay }}</span>
+                    {% endif %}
+                  </div>
+                  {% if cell.sector %}<div class="cal-sector">{{ cell.sector }}</div>{% endif %}
+                </div>
+              {% else %}
+                <div class="cal-cell empty"></div>
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+        </div>
+      </div>
+    {% endfor %}
+
+    <p class="cal-meta">
+      수집 {{ cal.totalDays }} 거래일 · 최종 {{ cal.lastTradingDay }}<br>
+      2026-07-09 부터 테마 소스가 키움 대분류 → 네이버 세분테마로 바뀌어 이름 체계가 다릅니다.
+      아래 회색 배지(통합 섹터)로 비교하세요.
+    </p>
+  {% endif %}
+
+  <noscript>
+    <style>.cal-month[hidden]{display:block!important}.cal-head{display:none}
+           .cal-month::before{content:attr(data-label);display:block;font-weight:700;
+                              font-size:var(--fz-xl);margin:var(--sp-5) 0 var(--sp-3)}</style>
+  </noscript>
+</section>
