@@ -1,24 +1,25 @@
 {
-  "lastTradingDay" : "2026-08-14",
-  "totalDays" : 69,
+  "lastTradingDay" : "2026-08-18",
+  "totalDays" : 70,
   "summary" : {
-    "tradingDays" : 69,
+    "tradingDays" : 70,
     "sectorCount" : 16,
-    "upDays" : 61,
-    "avgChangeRate" : 5.17,
+    "upDays" : 62,
+    "avgChangeRate" : 5.22,
     "topSector" : "반도체·AI인프라",
     "topSectorDays" : 20
   },
   "now" : {
-    "date" : "2026-08-14",
-    "bettingGrade" : "YELLOW",
-    "regimeTag" : "YELLOW",
-    "marketSignal" : "강세",
-    "kospi" : 2.42,
-    "kosdaq" : 0.38,
-    "leadTheme" : "정유",
-    "leadChangeRate" : 6.88,
-    "themePremium" : 4.46
+    "date" : "2026-08-18",
+    "bettingGrade" : "RED",
+    "regimeTag" : "RED_ALL_DOWN",
+    "themeRegime" : "THEME_LED",
+    "marketSignal" : "약세",
+    "kospi" : -1.55,
+    "kosdaq" : -3.52,
+    "leadTheme" : "해운",
+    "leadChangeRate" : 8.69,
+    "themePremium" : 10.24
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
@@ -31,11 +32,11 @@
   }, {
     "sector" : "전자부품·기판",
     "rank1Days" : 5,
-    "top3Days" : 16
+    "top3Days" : 17
   }, {
     "sector" : "조선·해운",
-    "rank1Days" : 4,
-    "top3Days" : 15
+    "rank1Days" : 5,
+    "top3Days" : 16
   }, {
     "sector" : "전력·전선·신재생",
     "rank1Days" : 4,
@@ -73,11 +74,11 @@
     "rank1Days" : 2,
     "top3Days" : 5
   }, {
-    "sector" : "디스플레이·LED",
-    "rank1Days" : 2,
-    "top3Days" : 2
-  }, {
     "sector" : "매크로·기타",
+    "rank1Days" : 2,
+    "top3Days" : 3
+  }, {
+    "sector" : "디스플레이·LED",
     "rank1Days" : 2,
     "top3Days" : 2
   }, {
@@ -1246,6 +1247,24 @@
         "theme" : "웹툰",
         "changeRate" : 5.44
       } ]
-    } ] ]
+    } ], [ null, {
+      "day" : 18,
+      "date" : "2026-08-18",
+      "theme" : "해운",
+      "sector" : "조선·해운",
+      "changeRate" : 8.69,
+      "prevDay" : "NEW",
+      "regime" : "THEME_LED",
+      "slot" : "15:00",
+      "kospi" : -1.55,
+      "themePremium" : 10.24,
+      "runners" : [ {
+        "theme" : "남북경협",
+        "changeRate" : 4.42
+      }, {
+        "theme" : "반도체 기판(FC-BGA/PCB/MLB 등)",
+        "changeRate" : 2.06
+      } ]
+    }, null, null, null ] ]
   } ]
 }
