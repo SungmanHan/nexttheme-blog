@@ -1,4 +1,100 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-18T10:03:46+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">8/14 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/18/review-20260814-review/" rel="alternate" type="text/html" title="8/14 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-08-18T09:00:00+09:00</published><updated>2026-08-18T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/18/review_20260814-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/18/review-20260814-review/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-18T20:06:37+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">HMM, 코스피 -2%대 폭락장 속에서도 나 홀로 급등한 이유 — 해운주 수급 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/18/nt2-1505-snapshot/" rel="alternate" type="text/html" title="HMM, 코스피 -2%대 폭락장 속에서도 나 홀로 급등한 이유 — 해운주 수급 분석" /><published>2026-08-18T15:05:00+09:00</published><updated>2026-08-18T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/18/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/18/nt2-1505-snapshot/"><![CDATA[<p>😨 오늘 국내 증시, 정말 무서운 하루였습니다. 코스피가 <strong>-2.12%</strong>, 코스닥은 <strong>-3.51%</strong>나 빠지면서 계좌가 파랗게 물든 분들이 많았을 텐데요. 이런 날에는 오히려 “왜 이 종목만 오르지?”라는 질문이 더 중요해집니다. 오늘은 그 답이 된 종목, HMM 이야기입니다.</p>
+
+<h2 id="오늘-시장-무슨-일이-있었나">오늘 시장, 무슨 일이 있었나?</h2>
+
+<p>오늘 시장은 한마디로 <strong>위험 회피(리스크 오프) 장세</strong>였습니다. 중동의 호르무즈 해협을 둘러싼 긴장이 고조되면서 투자자들이 몸을 사렸고, 대부분의 업종이 동반 하락했습니다. 그런데 이 와중에 돈이 몰린 곳이 있었으니, 바로 <strong>해운</strong>과 <strong>남북경협</strong> 테마입니다. 호르무즈 해협은 전 세계 원유 물동량의 상당 부분이 지나가는 길목이라, 이곳이 막힐 위험이 커지면 역설적으로 해운 운임이 뛸 것이라는 기대가 생기기 때문입니다. 시장 전체가 얼어붙은 날에도 돈은 늘 이유를 찾아 움직인다는 걸 보여준 하루였습니다.</p>
+
+<h2 id="오늘-왜-hmm이-선택됐을까">오늘 왜 HMM이 선택됐을까?</h2>
+
+<p>AI가 오늘 유일하게 선별한 종목은 <strong>HMM(011200)</strong>입니다. 배점 <strong>43점</strong>, 비중은 <strong>100%</strong>로 나머지 후보를 압도했습니다.</p>
+
+<p>HMM은 국내 대표 해운사로, 오늘 하루 <strong>+5.53%</strong> 오르며 <strong>22,425원</strong>에 마감했습니다. 거래대금은 <strong>2,021억원</strong>에 달해 해운 테마 안에서 <strong>1위</strong>를 기록했습니다. 시가총액은 <strong>21.2조원</strong> 규모입니다.</p>
+
+<p>수급도 뒷받침됐습니다. 오늘 하루 외국인이 <strong>84만 주</strong>, 큰 투자기관(기관)이 <strong>125만 주</strong>를 순매수했습니다. 개인 투자자와 달리 정보력과 자금력을 갖춘 두 주체가 같은 방향으로 움직였다는 건, 그만큼 이 흐름에 힘을 싣는 투자자가 많았다는 뜻으로 해석할 수 있습니다.</p>
+
+<p>기술적으로 보면 RSI는 <strong>64.8</strong>로 과열까지는 아니지만 상승 탄력이 붙은 구간이고, 평소 거래량 대비 오늘 거래량이 얼마나 많았는지를 나타내는 RVOL은 <strong>4.16배</strong>로, 평소보다 4배 넘게 거래가 몰렸습니다. 다만 매수 호가 쪽 신호는 “매수벽 약함”으로 나타나, 추가 상승을 뒷받침할 대기 매수세가 아주 두껍지는 않은 상태였습니다.</p>
+
+<p>재무 측면에서는 최근 분기(2026년 2분기) 매출이 <strong>32,332억원</strong>으로 전년 대비 <strong>+23.3%</strong> 늘었지만, 영업이익은 <strong>12억원</strong>에 그쳐 매출 규모 대비 수익성은 아직 얇은 편입니다.</p>
+
+<blockquote>
+  <p><strong>📊 HMM 분석 데이터</strong></p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>구분</th>
+        <th>항목</th>
+        <th>값</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>기본</td>
+        <td>종가 / 등락률</td>
+        <td>22,425원 / +5.53%</td>
+      </tr>
+      <tr>
+        <td>기본</td>
+        <td>거래대금 / 시총</td>
+        <td>2,021억원 / 21.2조원</td>
+      </tr>
+      <tr>
+        <td>기본</td>
+        <td>주도 테마 / 테마내순위</td>
+        <td>해운 / 1위</td>
+      </tr>
+      <tr>
+        <td>기술</td>
+        <td>RSI / RVOL / 이평수렴</td>
+        <td>64.8 / 4.16 / +0.07%</td>
+      </tr>
+      <tr>
+        <td>기술</td>
+        <td>52주 신고가 / OBV</td>
+        <td>아님 / 중립</td>
+      </tr>
+      <tr>
+        <td>수급</td>
+        <td>외인 순매수 / 기관 순매수</td>
+        <td>+84만 주 / +125만 주</td>
+      </tr>
+      <tr>
+        <td>수급</td>
+        <td>호가신호</td>
+        <td>매수벽 약함</td>
+      </tr>
+      <tr>
+        <td>재무</td>
+        <td>매출YoY</td>
+        <td>+23.3%</td>
+      </tr>
+      <tr>
+        <td>재무</td>
+        <td>최근 분기 실적</td>
+        <td>2026.06: 매출 32,332억원 / 영업이익 12억원</td>
+      </tr>
+      <tr>
+        <td>점수</td>
+        <td>AI 종합 점수</td>
+        <td>43점</td>
+      </tr>
+    </tbody>
+  </table>
+</blockquote>
+
+<h2 id="nexttheme-알고리즘은-왜-hmm을-골랐을까">NextTheme 알고리즘은 왜 HMM을 골랐을까?</h2>
+
+<p>오늘처럼 시장 전체가 약세인 날은 대부분의 종목이 선별 기준을 통과하지 못합니다. 그런데도 HMM이 뽑힌 건, ① 거래대금이 해운 테마 안에서 압도적 1위였고 ② 외국인·기관이 동시에 순매수했으며 ③ 지정학적 이슈라는 명확한 촉매(호르무즈 해협 긴장)가 있었기 때문입니다. AI는 이 종목을 두고 “매수 호가에 자금이 두껍게 쌓이고 외국인과 기관이 장중 동시에 사들여 52주 고점 부근까지 올라왔다”고 근거를 밝혔습니다. 다만 이건 어디까지나 알고리즘이 오늘 데이터를 바탕으로 내린 기록일 뿐, 앞으로의 주가를 보장하는 이야기는 아닙니다.</p>
+
+<p>제가 오늘 이 흐름에서 눈여겨본 건, 시장이 전반적으로 무너질 때 오히려 특정 테마로 자금이 더 선명하게 쏠린다는 점입니다. 평소라면 여러 테마에 분산됐을 매수세가, 위험한 날일수록 “이유가 확실한 곳”에만 집중되는 모습이 인상적이었습니다.</p>
+
+<h2 id="정리하며">정리하며</h2>
+
+<p>오늘은 코스피·코스닥 모두 크게 빠진 날이었지만, 해운 테마만큼은 지정학적 이슈를 등에 업고 홀로 강세를 보였습니다. HMM은 거래대금·수급·모멘텀 세 박자가 맞아떨어지며 오늘의 유일한 선별 종목이 됐습니다. 다만 매수벽이 두껍지 않다는 신호도 함께 있었던 만큼, 내일 시장이 이 흐름을 어떻게 이어받을지는 지켜볼 부분입니다.</p>
+
+<p>오늘 분석, 어떻게 보셨나요? 궁금한 종목이 있다면 댓글로 남겨주세요 🙌</p>
+
+<p>#NextTheme #종가베팅 #HMM #해운주 #호르무즈해협 #외국인순매수 #기관순매수 #코스피급락</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[😨 오늘 국내 증시, 정말 무서운 하루였습니다. 코스피가 -2.12%, 코스닥은 -3.51%나 빠지면서 계좌가 파랗게 물든 분들이 많았을 텐데요. 이런 날에는 오히려 “왜 이 종목만 오르지?”라는 질문이 더 중요해집니다. 오늘은 그 답이 된 종목, HMM 이야기입니다.]]></summary></entry><entry><title type="html">8/14 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/18/review-20260814-review/" rel="alternate" type="text/html" title="8/14 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-08-18T09:00:00+09:00</published><updated>2026-08-18T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/18/review_20260814-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/18/review-20260814-review/"><![CDATA[<blockquote>
   <p>데이터 기준: 2026-08-18 10:03 키움 ka10001 일괄 조회</p>
 </blockquote>
 
@@ -2172,128 +2268,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가베팅 #복기일지 #20260813 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-08-14 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">반도체 강세에 코스피 3.56% 급등, 오늘 종가베팅 전략은 — 어제 선별 복기 포함</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/14/0600-briefing/" rel="alternate" type="text/html" title="반도체 강세에 코스피 3.56% 급등, 오늘 종가베팅 전략은 — 어제 선별 복기 포함" /><published>2026-08-14T06:00:00+09:00</published><updated>2026-08-14T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/14/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/14/0600-briefing/"><![CDATA[<p>안녕하세요 😊 금요일 아침입니다. 어제 코스피가 <strong>+3.56%</strong> 급등하며 화끈하게 마감했죠. 미국 물가 지표가 안정된 신호를 보이면서 반도체 중심으로 시장 분위기가 살아났는데요, 금요일 장을 앞두고 오늘은 어떤 전략으로 접근해야 할지 데이터로 차근차근 풀어보겠습니다.</p>
-
-<h2 id="-어제-ai-선별-복기부터-짚어봅니다">📋 어제 AI 선별 복기부터 짚어봅니다</h2>
-
-<p>먼저 어제 AI가 선별했던 종목들이 오늘 아침 시점에서 어떤 흐름을 보였는지 확인하는 게 우선입니다. 시스템 판정은 <strong>“유지(MAINTAIN)”</strong> — 전반적인 방향이 시장 흐름과 잘 맞아떨어졌다는 뜻입니다. 참고로 <strong>실제로 새로 매수한 거래는 없었습니다.</strong></p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목명</th>
-      <th>슬롯</th>
-      <th>어제 전략</th>
-      <th>오늘 아침 판단</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>⚠️ 실리콘투</td>
-      <td>— (이월 보유)</td>
-      <td>이전부터 보유 중인 종목</td>
-      <td>저녁 시간외 평단 대비 <strong>-7.72%~-9.07%</strong> 큰 손실 관측, 갭하락 시 즉시 손절 원칙</td>
-    </tr>
-    <tr>
-      <td>⚠️ 대원전선</td>
-      <td>— (이월 보유)</td>
-      <td>이전부터 보유 중인 종목</td>
-      <td>저녁 시간외 평단 대비 <strong>-4.70%</strong> 약세, 갭하락 시 손절 원칙 적용</td>
-    </tr>
-    <tr>
-      <td>삼성전기</td>
-      <td>15:10 최종</td>
-      <td>갭상승 시나리오 기반 갭 트레이드</td>
-      <td>저녁 저점 <strong>-3.38%</strong> 관측됐지만, 모건스탠리 톱픽 교체 모멘텀을 신뢰해 갭하락 시 분할 매수 판단</td>
-    </tr>
-    <tr>
-      <td>SK하이닉스</td>
-      <td>15:10 최종</td>
-      <td>갭상승 시나리오 기반 갭 트레이드</td>
-      <td>저녁 +0.38%/<strong>-2.20%</strong> 양방향 흔들림, 시초가 갭 방향 확인 후 재진입 판단</td>
-    </tr>
-    <tr>
-      <td>미래에셋증권</td>
-      <td>15:10 최종</td>
-      <td>갭상승 시나리오 기반 갭 트레이드</td>
-      <td>저녁 +0.93%/<strong>-0.53%</strong> 소폭 등락, confidence가 낮았던 만큼 관망 유지</td>
-    </tr>
-    <tr>
-      <td>미래에셋벤처투자</td>
-      <td>12:10 탐색(장중 탐색 후보)</td>
-      <td>점심 탐색 단계 후보</td>
-      <td>저녁 <strong>-4.09%</strong> 약세, 신규 진입 보류</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>⚠️ 표시된 실리콘투·대원전선은 이전부터 보유 중이던 종목인데, 저녁 시간외 거래에서 평단 대비 손실이 컸던 만큼 오늘 갭이 하락으로 열리면 손절 원칙이 적용될 예정이라는 점, 미리 알아두시면 좋겠습니다.</p>
-
-<h2 id="-간밤-미국장-물가-안정에-반도체가-웃었습니다">🌙 간밤 미국장, 물가 안정에 반도체가 웃었습니다</h2>
-
-<p>간밤 미국장은 7월 생산자물가(PPI)가 보합으로 나오면서 “물가가 잡히고 있다”는 안도감이 퍼졌습니다. 그 덕에 S&amp;P500은 사상 최고치를 새로 썼고, 반도체·기술주 중심으로 강세가 뚜렷했습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>지수</th>
-      <th>등락률</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>다우존스</td>
-      <td>+0.13%</td>
-    </tr>
-    <tr>
-      <td>S&amp;P500</td>
-      <td>+0.65%</td>
-    </tr>
-    <tr>
-      <td>나스닥 종합</td>
-      <td>+0.81%</td>
-    </tr>
-    <tr>
-      <td>나스닥100</td>
-      <td>+1.15%</td>
-    </tr>
-    <tr>
-      <td>다우운송</td>
-      <td>+1.50%</td>
-    </tr>
-    <tr>
-      <td>필라델피아 반도체</td>
-      <td>+0.46%</td>
-    </tr>
-    <tr>
-      <td>VIX(변동성 지수)</td>
-      <td>+0.55%</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>다우존스는 상승폭이 제한적이었지만, 나스닥100과 다우운송이 1%대 상승을 보이며 위험자산 선호 심리가 살아 있었다는 걸 확인할 수 있습니다. 다만 VIX(시장의 불안 심리를 나타내는 지수)도 소폭 올랐다는 점은, 강세 속에서도 완전히 안심할 단계는 아니라는 신호로 볼 수 있습니다.</p>
-
-<h2 id="-오늘의-베팅-등급--전략">📊 오늘의 베팅 등급 &amp; 전략</h2>
-
-<p>오늘 종가베팅 등급은 <strong>YELLOW</strong>(신중 진입 구간)입니다. 미국 PPI 둔화로 물가 안정 신호가 확인됐고, 반도체 중심 강세에 코스피가 <strong>+3.56%</strong> 급등하면서 외국인이 <strong>2.2조원</strong> 순매수하며 동조 흐름을 만든 것이 배경입니다.</p>
-
-<p>다만 다우 상승폭이 +0.13%로 제한적이었던 만큼, 반도체·기술주 모멘텀이 뚜렷하더라도 <strong>70% 이하 신중 진입</strong>이 타당하다는 게 시스템 판단입니다.</p>
-
-<p><strong>대응 방향</strong>은 이렇습니다 — 반도체 대장주의 시초가 갭 방향을 먼저 확인한 뒤 진입하고, 금요일 특성상 주말을 넘기는 리스크가 있으니 한 번에 다 넣기보다 나눠서 접근하는 분할 진입 원칙이 권장됩니다. 오늘 하루 외국인 수급이 계속 이어지는지가 핵심 확인 포인트가 되겠습니다.</p>
-
-<h2 id="-주목할-변수">🔍 주목할 변수</h2>
-
-<p>이번 미국 반도체 강세의 배경에는 슈퍼마이크로컴퓨터의 깜짝 실적과 샌디스크의 <strong>+13%</strong> 급등이 있었습니다. 이 온기가 국내로 넘어오면서 삼성전자·SK하이닉스가 3거래일째 반등했고, 모건스탠리가 최선호주(톱픽)를 삼성전기로 교체한 점도 눈에 띕니다.</p>
-
-<p>원자재 쪽은 엇갈렸습니다. 국제유가는 <strong>81.2달러(-2.07%)</strong>로 내렸고, 금 가격도 <strong>4,406달러(-61.2달러)</strong> 하락하며 안전자산 선호가 다소 누그러진 모습입니다.</p>
-
-<p>제가 오늘 흐름에서 특히 주목한 부분은, 어제 선별됐던 반도체 관련주(삼성전기·SK하이닉스)가 저녁 시간외에서는 오히려 약세(-2~3%대)를 보였다는 점입니다. 코스피가 크게 오른 날 다음 날 아침엔 시초가 갭 방향이 생각보다 엇갈릴 수 있다는 걸 보여주는 사례라, 시초가를 꼭 확인한 뒤 판단하는 게 중요해 보입니다.</p>
-
-<h2 id="마무리">마무리</h2>
-
-<p>물가 안정 신호와 반도체 랠리가 만나 코스피가 크게 뛴 하루였지만, 그만큼 시초가 갭 방향 확인이 오늘 하루의 핵심 변수가 될 것 같습니다. 다음 주 월요일 장까지 이어지는 흐름도 함께 지켜봐야겠죠.</p>
-
-<p>오늘 시장 어떻게 보셨나요? 궁금한 종목 있으면 댓글로 남겨주세요 🙌</p>
-
-<p>#종가베팅 #NextTheme #코스피급등 #반도체강세 #삼성전기 #SK하이닉스 #실리콘투 #대원전선 #미국증시</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[안녕하세요 😊 금요일 아침입니다. 어제 코스피가 +3.56% 급등하며 화끈하게 마감했죠. 미국 물가 지표가 안정된 신호를 보이면서 반도체 중심으로 시장 분위기가 살아났는데요, 금요일 장을 앞두고 오늘은 어떤 전략으로 접근해야 할지 데이터로 차근차근 풀어보겠습니다.]]></summary></entry></feed>
+<p>#종가베팅 #복기일지 #20260813 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-08-14 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
