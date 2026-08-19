@@ -1,25 +1,25 @@
 {
-  "lastTradingDay" : "2026-08-18",
-  "totalDays" : 70,
+  "lastTradingDay" : "2026-08-19",
+  "totalDays" : 71,
   "summary" : {
-    "tradingDays" : 70,
+    "tradingDays" : 71,
     "sectorCount" : 16,
-    "upDays" : 62,
-    "avgChangeRate" : 5.22,
+    "upDays" : 63,
+    "avgChangeRate" : 5.19,
     "topSector" : "반도체·AI인프라",
     "topSectorDays" : 20
   },
   "now" : {
-    "date" : "2026-08-18",
+    "date" : "2026-08-19",
     "bettingGrade" : "RED",
     "regimeTag" : "RED_ALL_DOWN",
     "themeRegime" : "THEME_LED",
     "marketSignal" : "약세",
-    "kospi" : -1.55,
-    "kosdaq" : -3.52,
-    "leadTheme" : "해운",
-    "leadChangeRate" : 8.69,
-    "themePremium" : 10.24
+    "kospi" : -5.8,
+    "kosdaq" : -1.17,
+    "leadTheme" : "남북경협",
+    "leadChangeRate" : 3.2,
+    "themePremium" : 9.0
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
@@ -48,7 +48,7 @@
   }, {
     "sector" : "건설·기계",
     "rank1Days" : 2,
-    "top3Days" : 11
+    "top3Days" : 12
   }, {
     "sector" : "소비재·유통",
     "rank1Days" : 3,
@@ -75,8 +75,8 @@
     "top3Days" : 5
   }, {
     "sector" : "매크로·기타",
-    "rank1Days" : 2,
-    "top3Days" : 3
+    "rank1Days" : 3,
+    "top3Days" : 4
   }, {
     "sector" : "디스플레이·LED",
     "rank1Days" : 2,
@@ -1265,6 +1265,24 @@
         "theme" : "반도체 기판(FC-BGA/PCB/MLB 등)",
         "changeRate" : 2.06
       } ]
-    }, null, null, null ] ]
+    }, {
+      "day" : 19,
+      "date" : "2026-08-19",
+      "theme" : "남북경협",
+      "sector" : "매크로·기타",
+      "changeRate" : 3.2,
+      "prevDay" : "CARRY",
+      "regime" : "THEME_LED",
+      "slot" : "15:00",
+      "kospi" : -5.8,
+      "themePremium" : 9.0,
+      "runners" : [ {
+        "theme" : "태풍 및 장마",
+        "changeRate" : 3.31
+      }, {
+        "theme" : "건설 대표주",
+        "changeRate" : 0.31
+      } ]
+    }, null, null ] ]
   } ]
 }
