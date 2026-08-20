@@ -1,4 +1,160 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-20T10:03:40+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">8/19 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/20/review-20260819-review/" rel="alternate" type="text/html" title="8/19 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-08-20T09:00:00+09:00</published><updated>2026-08-20T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/20/review_20260819-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/20/review-20260819-review/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-20T20:07:05+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">SK하이닉스 13% 급등, 반도체 주주환원이 쏘아올린 하루 — 수급으로 본 이유</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/20/nt2-1505-snapshot/" rel="alternate" type="text/html" title="SK하이닉스 13% 급등, 반도체 주주환원이 쏘아올린 하루 — 수급으로 본 이유" /><published>2026-08-20T15:05:00+09:00</published><updated>2026-08-20T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/20/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/20/nt2-1505-snapshot/"><![CDATA[<p>오늘 코스피는 반도체 대장주들이 이끄는 강한 상승장이었습니다. 📈 SK하이닉스가 자사주 소각 같은 굵직한 주주환원 재료를 내놓으면서 시장 전체 분위기를 바꿔놨고, 큰 투자기관(기관)과 외국인이 동시에 사들이며 거래대금까지 크게 불어났습니다. 오늘 NextTheme AI가 무엇을 근거로 종목을 골랐는지 하나씩 풀어보겠습니다.</p>
+
+<h2 id="오늘-시장-한마디로-요약하면">오늘 시장, 한마디로 요약하면</h2>
+
+<p>반도체 주주환원 재료로 SK하이닉스·삼성전자 같은 대형주가 강하게 오르며 코스피 전체를 밀어 올린 하루였습니다. 외국인 투자자도 대규모로 순매수에 나서면서 상승에 힘을 보탰습니다. 특정 종목 하나가 아니라 “반도체 대형주 랠리 + 외국인 매수”라는 두 축이 함께 움직인 게 오늘 장의 핵심입니다.</p>
+
+<h2 id="ai가-오늘-고른-종목-2개">AI가 오늘 고른 종목 2개</h2>
+
+<h3 id="1-sk하이닉스--성과급자사주-소각이-쏘아올린-반도체-대장주">1) SK하이닉스 — 성과급·자사주 소각이 쏘아올린 반도체 대장주</h3>
+
+<p>SK하이닉스는 성과급 60%를 자사주로 지급하고 40조 원 규모 자사주를 소각하겠다는 확실한 재료를 내놓으며 오늘 시장을 이끌었습니다. 오후 들어서도 외국인과 기관이 동시에 사들였고, 거래대금이 평소보다 3배 넘게 불어난 점이 AI가 이 종목을 1순위로 꼽은 핵심 근거입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>항목</th>
+      <th>수치</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>기본</td>
+      <td>당일 종가 / 등락률</td>
+      <td>1,700,000원 / <strong>+13.3%</strong></td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>거래대금 / 시총</td>
+      <td>13.1조원 / 1,241.8조원</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>주도 테마 / 테마내순위</td>
+      <td>S7(삼성전자·SK하이닉스 등 반도체 대형주) / <strong>1위</strong></td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>RSI / RVOL / 이평수렴</td>
+      <td>49.5 / 0.80 / +0.3%</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>52주 신고가 / OBV</td>
+      <td>아님 / 중립</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>외국인 순매수 / 기관 순매수</td>
+      <td>+5만 주 / +13만 주</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>호가신호</td>
+      <td>매수벽 약함</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>매출YoY</td>
+      <td>+278.6%</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>최근 분기 실적</td>
+      <td>2026.06.: 매출 84.2조원 / 영업이익 76억원</td>
+    </tr>
+    <tr>
+      <td>점수</td>
+      <td>AI 종합 점수</td>
+      <td>40점</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>RSI(과열 정도를 보는 지표)는 49.5로 중립권이라 아직 과열 신호는 아니었고, 외국인과 기관이 오후에도 함께 순매수한 점이 눈에 띕니다. 큰돈이 매수 대기 물량으로 쌓인 정도(호가신호)는 “약함”으로 나와, 매수벽 자체보다는 재료와 수급이 주된 동력이었던 것으로 보입니다.</p>
+
+<h3 id="2-naver--스테이블코인-기대감을-업은-대장주">2) NAVER — 스테이블코인 기대감을 업은 대장주</h3>
+
+<p>NAVER는 가상자산 사업 확대 기대감이 붙으면서 매수 호가에 큰돈이 두껍게 쌓였고, 오후 들어 외국인과 기관이 동시에 순매수에 가담했습니다. 거래대금이 종가까지 유지된 점을 AI는 눈여겨봤습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>항목</th>
+      <th>수치</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>기본</td>
+      <td>당일 종가 / 등락률</td>
+      <td>220,000원 / <strong>+5.8%</strong></td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>거래대금 / 시총</td>
+      <td>3,490억원 / 34.5조원</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>주도 테마 / 테마내순위</td>
+      <td>스테이블코인 / <strong>1위</strong></td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>RSI / RVOL / 이평수렴</td>
+      <td>53.8 / 0.56 / +0.0%</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>52주 신고가 / OBV</td>
+      <td>아님 / 중립</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>외국인 순매수 / 기관 순매수</td>
+      <td>+29만 주 / +10만 주</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>호가신호</td>
+      <td>매수벽 약함</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>매출YoY</td>
+      <td>+15.5%</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>최근 분기 실적</td>
+      <td>2026.06.: 매출 3.4조원 / 영업이익 16억원</td>
+    </tr>
+    <tr>
+      <td>점수</td>
+      <td>AI 종합 점수</td>
+      <td>37점</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>SK하이닉스보다 상승률은 낮지만, 외국인 순매수 규모(+29만 주)는 오히려 SK하이닉스보다 컸습니다. 스테이블코인이라는 새로운 테마가 붙으면서 매수세가 몰린 모습입니다.</p>
+
+<h2 id="nexttheme-알고리즘은-왜-이-두-종목을-골랐을까">NextTheme 알고리즘은 왜 이 두 종목을 골랐을까</h2>
+
+<p>두 종목의 공통점은 “확실한 재료 + 오후까지 이어진 외국인·기관 동반 매수”입니다. 단순히 오늘 많이 오른 종목이 아니라, 장 마감 무렵까지 거래대금과 수급이 살아있었는지를 AI가 함께 봤다는 뜻입니다. SK하이닉스는 자사주 소각이라는 회사 차원의 재료가, NAVER는 가상자산 사업이라는 산업 트렌드가 각각 매수세를 뒷받침했다는 점에서 성격은 다르지만, “재료 + 수급”이라는 뼈대는 같습니다.</p>
+
+<h2 id="오늘-이-흐름에서-제가-주목한-것은">오늘 이 흐름에서 제가 주목한 것은</h2>
+
+<p>개인적으로 오늘 눈에 들어온 대목은 RSI가 두 종목 모두 50 안팎으로 그리 높지 않았다는 점입니다. 두 자릿수 급등에도 과열 지표는 크게 튀지 않았다는 건, 이번 상승이 단기 매매 손바뀜보다는 재료를 보고 새로 들어온 매수세로 채워졌을 가능성을 보여주는 대목이라 기록해 둡니다. 물론 이게 앞으로의 방향을 말해주는 건 아니고, 오늘 하루의 데이터가 그렇게 읽힌다는 관찰일 뿐입니다.</p>
+
+<h2 id="마무리하며">마무리하며</h2>
+
+<p>오늘은 반도체 대형주가 시장 전체를 이끈 하루였고, AI는 그 흐름 안에서 재료와 수급이 함께 확인된 SK하이닉스·NAVER 두 종목을 선별했습니다. 종가베팅은 오늘의 마감 데이터를 근거로 다음 거래일 흐름을 지켜보는 방식이라, 오늘 선별 결과가 실제로 어떻게 이어지는지는 계속 복기해서 전해드리겠습니다. 궁금한 종목이 있다면 댓글로 남겨주세요 😊</p>
+
+<p>#NextTheme #종가베팅 #SK하이닉스 #NAVER #반도체 #스테이블코인 #외국인순매수 #코스피</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[오늘 코스피는 반도체 대장주들이 이끄는 강한 상승장이었습니다. 📈 SK하이닉스가 자사주 소각 같은 굵직한 주주환원 재료를 내놓으면서 시장 전체 분위기를 바꿔놨고, 큰 투자기관(기관)과 외국인이 동시에 사들이며 거래대금까지 크게 불어났습니다. 오늘 NextTheme AI가 무엇을 근거로 종목을 골랐는지 하나씩 풀어보겠습니다.]]></summary></entry><entry><title type="html">8/19 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/20/review-20260819-review/" rel="alternate" type="text/html" title="8/19 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-08-20T09:00:00+09:00</published><updated>2026-08-20T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/20/review_20260819-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/20/review-20260819-review/"><![CDATA[<blockquote>
   <p>데이터 기준: 2026-08-20 10:03 키움 ka10001 일괄 조회</p>
 </blockquote>
 
@@ -2391,154 +2547,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가베팅 #복기일지 #20260814 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-08-18 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">미국 약세 장세, 오늘은 신중 진입 — 아침 방향성 확인 후 소액 포지셔닝</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/18/0600-briefing/" rel="alternate" type="text/html" title="미국 약세 장세, 오늘은 신중 진입 — 아침 방향성 확인 후 소액 포지셔닝" /><published>2026-08-18T06:00:00+09:00</published><updated>2026-08-18T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/18/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/18/0600-briefing/"><![CDATA[<h2 id="도입부">도입부</h2>
-
-<p>간밤 미국장에서 광범위한 하락이 나타났습니다. 다우존스와 S&amp;P500이 동반 약세를 보인 가운데, 이런 흐름이 한국 시장에 어떻게 전해질지가 오늘 핵심입니다. 시초가 갭 방향을 먼저 관찰한 뒤 <strong>신중한 진입</strong>이 요구되는 아침입니다.</p>
-
-<hr />
-
-<h2 id="-어제-선별-복기--관망-레짐에서-무포지션으로-마감">📋 어제 선별 복기 — 관망 레짐에서 무포지션으로 마감</h2>
-
-<p>어제는 <strong>관망(STANDBY)</strong> 판단으로 신규 진입을 보류했습니다. 결과적으로 실제 매수는 없었습니다.</p>
-
-<p>다만 보유 중인 2종목이 있었는데, 애프터마켓 흐름을 살펴보면:</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>슬롯</th>
-      <th>어제 현황</th>
-      <th>저녁 움직임</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>실리콘투</td>
-      <td>—</td>
-      <td>이월 보유 중</td>
-      <td>평단 대비 −3.45~−4.24%</td>
-    </tr>
-    <tr>
-      <td>대원전선</td>
-      <td>—</td>
-      <td>이월 보유 중</td>
-      <td>평단 대비 −7.22%</td>
-    </tr>
-    <tr>
-      <td>GS</td>
-      <td>15:10 최종</td>
-      <td>신규 선별(미매수)</td>
-      <td>종가 대비 −0.26~+0.60%</td>
-    </tr>
-    <tr>
-      <td>현대차</td>
-      <td>15:10 최종</td>
-      <td>신규 선별(미매수)</td>
-      <td>종가 대비 −0.55~+1.10%</td>
-    </tr>
-    <tr>
-      <td>삼성SDI</td>
-      <td>15:10 최종</td>
-      <td>신규 선별(미매수)</td>
-      <td>종가 대비 −0.97~0.00%</td>
-    </tr>
-    <tr>
-      <td>한화생명</td>
-      <td>19:10 선별</td>
-      <td>신규 선별(미매수)</td>
-      <td>종가 대비 +0.90%</td>
-    </tr>
-  </tbody>
-</table>
-
-<p><strong>해석</strong>: 이월 보유 종목은 저녁 내내 약세 흐름을 지속했습니다. 신규 선별 4개 종목은 실제 매수가 없었으므로 포지션이 없으며, 저녁 갭은 ‘만약 보유했다면’ 수준의 참고자료입니다.</p>
-
-<p><strong>오늘 대응</strong>: 보유 중인 2종목은 시초가 방향에 따라 신속 대응이 필요합니다. 추가 매수는 관망 레짐 해제까지 보류합니다.</p>
-
-<hr />
-
-<h2 id="미국-야간-시장--광범위-약세--기술주-약간의-반등">미국 야간 시장 — 광범위 약세 + 기술주 약간의 반등</h2>
-
-<p>간밤 미국장 모습입니다:</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>지수</th>
-      <th>등락률</th>
-      <th>강약 평가</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>다우존스</td>
-      <td><strong>−0.51%</strong></td>
-      <td>약세 → 윗꼬리 75%</td>
-    </tr>
-    <tr>
-      <td>S&amp;P500</td>
-      <td><strong>−0.52%</strong></td>
-      <td>심한 약세 → 거의 전부가 윗꼬리(100%)</td>
-    </tr>
-    <tr>
-      <td>나스닥 종합</td>
-      <td><strong>−0.32%</strong></td>
-      <td>심한 약세 → 윗꼬리 89%</td>
-    </tr>
-    <tr>
-      <td>필라델피아 반도체</td>
-      <td><strong>+1.64%</strong></td>
-      <td>유일한 강세</td>
-    </tr>
-  </tbody>
-</table>
-
-<p><strong>해석</strong>: 지표가 보여주는 것은 <strong>장 막판 매도세</strong>입니다. 특히 S&amp;P500과 나스닥이 상승장을 시도했으나 마감 전 매도 압력에 꺾인 모습입니다(윗꼬리 비율 89~100%). 다만 반도체 섹터만 별도 강세를 유지 중이고, 이는 오늘 국내 시장의 한 축이 될 수 있습니다.</p>
-
-<hr />
-
-<h2 id="오늘의-베팅-등급--전략--red약세--신중-진입-권고">오늘의 베팅 등급 &amp; 전략 — RED(약세) + 신중 진입 권고</h2>
-
-<p><strong>베팅 등급: RED</strong> (0~100점 기준 감정지수 6 — 약세 우세)</p>
-
-<p>오늘의 권고 전략:</p>
-
-<ul>
-  <li><strong>신중 진입 지침</strong>: 장 초반 시초가 갭 방향을 먼저 확인하세요</li>
-  <li><strong>진입 규모</strong>: 신규 포지션은 <strong>30% 이하 소액</strong>으로 제한</li>
-  <li><strong>시초가 갭하락</strong>: 추가 대기 권고 — 약세 확인 후 재진입</li>
-  <li><strong>시초가 갭상승</strong>: 신중한 단기 매수 고려 가능, 다만 150% 이상 오버웨이트 금지</li>
-</ul>
-
-<p><strong>핵심 이유</strong>: 미국 주요 지수의 광범위 하락 + 유가 상승 리스크 + 장 막판 매도세 = <strong>방향성 불확실성 높음</strong></p>
-
-<hr />
-
-<h2 id="주목할-변수--유가-급등-내일-고유가-이벤트">주목할 변수 — 유가 급등, 내일 고유가 이벤트</h2>
-
-<h3 id="1-미-이란-긴장--유가-급등">1. <strong>미-이란 긴장 + 유가 급등</strong></h3>
-<p>WTI 유가가 <strong>84.93$(+2.53$)</strong> 급등했습니다. 지정학적 리스크가 반영됐고, 이는 국내 정유주들의 강세 배경입니다.</p>
-
-<h3 id="2-내일-원유재고-공시--high-변동성-이벤트">2. <strong>내일 원유재고 공시 — HIGH 변동성 이벤트</strong></h3>
-<p>미국 원유재고 발표가 예정돼 있습니다. 숫자에 따라 유가가 추가 변동할 수 있고, 이는 정유·에너지주 변동성을 높입니다.</p>
-
-<h3 id="3-미국-약세-기조-지속-우려">3. <strong>미국 약세 기조 지속 우려</strong></h3>
-<p>광범위한 하락이 일시적 조정인지, 아니면 신규 약세 흐름의 시작인지 판가름이 중요합니다. 오늘 10시~12시 한국 장 초반이 단서가 될 겁니다.</p>
-
-<hr />
-
-<h2 id="결론--행동-지침">결론 &amp; 행동 지침</h2>
-
-<ul>
-  <li><strong>시초가 갭 관찰 우선</strong> — 방향성 판단 없이 맹진입 금지</li>
-  <li><strong>보유 종목</strong>: 실리콘투·대원전선 모두 저녁 약세 → 시초가에서 추가 약세면 즉시 손절 검토</li>
-  <li><strong>신규 진입</strong>: 30% 이하 소액, 신중 기조 유지</li>
-  <li><strong>내일 시점</strong>: 원유재고 공시 후 방향이 좀 더 명확해질 겁니다</li>
-</ul>
-
-<p>오늘 하루를 신중하게 엮어가시기 바랍니다. <strong>의견이나 궁금한 점은 댓글로 남겨주세요</strong> — 함께 시장을 읽어가겠습니다.</p>
-
-<hr />
-
-<p>#종가베팅 #미국장약세 #신중진입 #유가리스크 #NextTheme #시장분석</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[도입부]]></summary></entry></feed>
+<p>#종가베팅 #복기일지 #20260814 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-08-18 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
