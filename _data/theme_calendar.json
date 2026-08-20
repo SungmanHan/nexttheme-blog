@@ -1,30 +1,30 @@
 {
-  "lastTradingDay" : "2026-08-19",
-  "totalDays" : 71,
+  "lastTradingDay" : "2026-08-20",
+  "totalDays" : 72,
   "summary" : {
-    "tradingDays" : 71,
+    "tradingDays" : 72,
     "sectorCount" : 16,
-    "upDays" : 63,
-    "avgChangeRate" : 5.19,
+    "upDays" : 64,
+    "avgChangeRate" : 5.31,
     "topSector" : "반도체·AI인프라",
     "topSectorDays" : 20
   },
   "now" : {
-    "date" : "2026-08-19",
-    "bettingGrade" : "RED",
-    "regimeTag" : "RED_ALL_DOWN",
+    "date" : "2026-08-20",
+    "bettingGrade" : "YELLOW",
+    "regimeTag" : "YELLOW",
     "themeRegime" : "THEME_LED",
-    "marketSignal" : "약세",
-    "kospi" : -5.8,
-    "kosdaq" : -1.17,
-    "leadTheme" : "남북경협",
-    "leadChangeRate" : 3.2,
-    "themePremium" : 9.0
+    "marketSignal" : "강세",
+    "kospi" : 5.89,
+    "kosdaq" : 1.99,
+    "leadTheme" : "모더나(MODERNA)",
+    "leadChangeRate" : 14.03,
+    "themePremium" : 8.14
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
     "rank1Days" : 20,
-    "top3Days" : 29
+    "top3Days" : 30
   }, {
     "sector" : "자동차·2차전지",
     "rank1Days" : 11,
@@ -56,7 +56,7 @@
   }, {
     "sector" : "정유·화학·원자재",
     "rank1Days" : 3,
-    "top3Days" : 9
+    "top3Days" : 10
   }, {
     "sector" : "로봇·AI소프트웨어",
     "rank1Days" : 3,
@@ -66,6 +66,10 @@
     "rank1Days" : 2,
     "top3Days" : 7
   }, {
+    "sector" : "매크로·기타",
+    "rank1Days" : 4,
+    "top3Days" : 5
+  }, {
     "sector" : "우주항공·방산",
     "rank1Days" : 2,
     "top3Days" : 5
@@ -73,10 +77,6 @@
     "sector" : "통신·광통신",
     "rank1Days" : 2,
     "top3Days" : 5
-  }, {
-    "sector" : "매크로·기타",
-    "rank1Days" : 3,
-    "top3Days" : 4
   }, {
     "sector" : "디스플레이·LED",
     "rank1Days" : 2,
@@ -1283,6 +1283,24 @@
         "theme" : "건설 대표주",
         "changeRate" : 0.31
       } ]
-    }, null, null ] ]
+    }, {
+      "day" : 20,
+      "date" : "2026-08-20",
+      "theme" : "모더나(MODERNA)",
+      "sector" : "매크로·기타",
+      "changeRate" : 14.03,
+      "prevDay" : "NEW",
+      "regime" : "THEME_LED",
+      "slot" : "15:00",
+      "kospi" : 5.89,
+      "themePremium" : 8.14,
+      "runners" : [ {
+        "theme" : "귀금속(금/은)",
+        "changeRate" : 8.94
+      }, {
+        "theme" : "S7(삼성전자/SK하이닉스 등)",
+        "changeRate" : 7.6
+      } ]
+    }, null ] ]
   } ]
 }
