@@ -1,4 +1,114 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-20T21:03:35+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 5.89% 급반등 — 반도체 자사주 재료로 외국인도 순매수</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/20/daily/" rel="alternate" type="text/html" title="코스피 5.89% 급반등 — 반도체 자사주 재료로 외국인도 순매수" /><published>2026-08-20T21:00:00+09:00</published><updated>2026-08-20T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/20/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/20/daily/"><![CDATA[<h2 id="도입-오늘-시장을-한-줄로">도입: 오늘 시장을 한 줄로</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-21T06:06:13+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">미국 3대 지수 약세 속 외국인 21조원 순매수 — 반도체·바이오 테마로 읽는 YELLOW 등급의 의미</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/21/0600-briefing/" rel="alternate" type="text/html" title="미국 3대 지수 약세 속 외국인 21조원 순매수 — 반도체·바이오 테마로 읽는 YELLOW 등급의 의미" /><published>2026-08-21T06:00:00+09:00</published><updated>2026-08-21T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/21/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/21/0600-briefing/"><![CDATA[<p>간밤 미국장은 다우존스 <strong>−1.32%</strong>, S&amp;P500 <strong>−0.87%</strong>, 나스닥 <strong>−1.00%</strong> 로 3대 지수가 동반 하락했습니다. 하지만 국내 시장에서는 외국인이 <strong>21,629억원</strong> 을 순매수했고, 반도체·바이오 테마는 저녁 고점에서 강한 저항력을 보였습니다. 🌙</p>
+
+<h2 id="-어제-선별-복기">📋 어제 선별 복기</h2>
+
+<p>어제 15:10 최종 선별과 19:10 선별(NXT 애프터마켓) 종목들의 저녁 흐름을 정리했습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목명</th>
+      <th>슬롯</th>
+      <th>전략</th>
+      <th>저녁 기준가 변화</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>SK하이닉스</strong></td>
+      <td>15:10 최종</td>
+      <td>40조원 자사주 소각 재료</td>
+      <td>종가(170만원) 대비 <strong>+0.65%</strong> 고점</td>
+    </tr>
+    <tr>
+      <td><strong>NAVER</strong></td>
+      <td>15:10 최종</td>
+      <td>스테이블코인 테마 지속</td>
+      <td>종가(22만원) 대비 <strong>+1.36%</strong> 고점</td>
+    </tr>
+    <tr>
+      <td><strong>에스티팜</strong></td>
+      <td>19:10 선별</td>
+      <td>mRNA 암백신 임상 호재</td>
+      <td>종가(108,700원) 대비 <strong>+3.86%</strong> 고점</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>이월 보유 종목 2개:</strong></p>
+<ul>
+  <li><strong>HMM</strong>: 평단 21,735원 대비 저녁 최저 <strong>−2.69%</strong> → 손절 가능성 높음. 해운 섹터 약세(BDI +79) 신호 확인</li>
+  <li><strong>대원전선</strong>: 평단 15,855원, 저녁 관측 데이터 없음 → 시초가 기준 −2% 이하 손절 예정</li>
+</ul>
+
+<p><strong>어제 선별 5개 종목 중 실제 매수 이력은 없었습니다.</strong> (AI 기록상 픽이며, 실 매수는 이전 날 보유분만)</p>
+
+<p><strong>역방향 시나리오 재평가</strong>: 미국 3대 지수 약세에도 불구하고 외국인 순매수가 이어진 것은, 야간 미국 선물·스팩이 반등하면 한국 후속 강세가 가능함을 시사합니다. 반대로 야간 미국 추가 약세(금리 5% 진입) 시 오전 청산 스톱로스 우려가 있습니다.</p>
+
+<h2 id="-간밤-미국-시장-분석">🌎 간밤 미국 시장 분석</h2>
+
+<p><strong>지수별 움직임:</strong></p>
+<ul>
+  <li><strong>다우존스 −1.32%</strong> — 장 막판 매도세 강함(윗꼬리 99.3%), 인플레 우려 반영</li>
+  <li><strong>S&amp;P500 −0.87%</strong> — 제너럴 약세, 장 마감 매도압력 높음(윗꼬리 96.5%)</li>
+  <li><strong>나스닥 −1.00%</strong> — 기술주 동반 하락, 금리 인상 우려 작용(윗꼬리 81.7%)</li>
+  <li><strong>필라델피아 반도체 +0.53%</strong> — 유일한 강세. 장중 매수가 강함(아랫꼬리 70.3%)</li>
+</ul>
+
+<p><strong>악재 3종:</strong></p>
+<ol>
+  <li><strong>미국 10년물 장기금리 4.71%</strong> 로 반등 → 고성장·바이오주의 현재가치 할인 강화</li>
+  <li><strong>월마트 실적 부진</strong> 이 광범위한 약세 신호로 작용</li>
+  <li><strong>유가 88.2달러</strong> 상승 → 인플레 재점화 우려</li>
+</ol>
+
+<p><strong>반대 신호 3종:</strong></p>
+<ol>
+  <li><strong>비트코인 7만달러</strong> 돌파 → 가상자산·스테이블코인 테마 FOMO 유지</li>
+  <li><strong>SK하이닉스 자사주 40조원 소각 + 성과급 60%</strong> → 반도체 섹터 실적 개선 기대</li>
+  <li><strong>한국 수출 호조</strong> (YoY <strong>+23.2%</strong>, 반도체 <strong>+178.8%</strong>) → 외국인 재매수 재료</li>
+</ol>
+
+<h2 id="-오늘의-베팅-등급--전략">💡 오늘의 베팅 등급 &amp; 전략</h2>
+
+<p><strong>베팅 등급: ⚠️ YELLOW (경고, 감정지수 42점)</strong></p>
+
+<p>미국 약세가 명백하지만, 반도체·바이오 테마의 저녁 저항력과 외국인 순매수는 “신중한 접근”의 신호입니다.</p>
+
+<p><strong>AI의 권고:</strong></p>
+<ul>
+  <li><strong>진입 조건</strong> — 반도체·바이오 테마 지속성 확인 후 <strong>제한 비중(70% 이하)</strong> 으로 시초가 갭상승 진입</li>
+  <li><strong>손절 정책</strong> — 미국 금리·유가 상승 지속 시 손실 발생 즉시 빠른 손절. 안주하지 말 것</li>
+  <li><strong>회피 대상</strong> — 항공사·저유가 수혜주는 유가 88달러 이상 환경에서 역풍 단계 → 진입 회피</li>
+</ul>
+
+<p><strong>주의</strong>: 오전 <strong>09:30 미국 서비스 PMI</strong> 발표 예정. 이 결과에 따라 금리 전망이 요동칠 수 있으므로, <strong>오전 매수는 신중하게, 결과 확인 후</strong> 진입 권장.</p>
+
+<h2 id="-주목할-변수">🚨 주목할 변수</h2>
+
+<p><strong>위험 요소:</strong></p>
+<ul>
+  <li>미국 장기금리 상승 지속 → 고성장·바이오의 할인 강화</li>
+  <li>달러 강세(+5원) → 원자재·수출주 약세</li>
+  <li>유가 88달러 이상 → 에너지 인플레 지속</li>
+</ul>
+
+<p><strong>기회 요소:</strong></p>
+<ul>
+  <li>반도체 섹터 자사주 소각·수출 호조 → 외국인 재매수 추동</li>
+  <li>가상자산 강세(비트코인 7만달러) → 기술주·고성장 부분 반등</li>
+  <li>한국 경제 지표 호조 → 외국인 독자 매수 지속 가능</li>
+</ul>
+
+<h2 id="마무리">마무리</h2>
+
+<p>오늘은 <strong>미국 약세와 국내 테마 강세가 충돌하는</strong> 줄다리기 국면입니다. 베팅 등급 YELLOW는 “기회는 있지만 신중하라”는 신호입니다.</p>
+
+<p>반도체·바이오의 저항력을 믿되, 오전 PMI 결과를 기준으로 판단한 후 제한 비중으로 신중 진입—장중 금리 악재 시 빠른 손절로 대응하는 <strong>유연성</strong> 이 필요합니다. 다음 주 월요일 개장을 앞두고 이 주 마지막 거래일이 어느 강도의 외국인 매수를 이어갈지가 핵심입니다.</p>
+
+<p>오늘 시장 흐름에서 주목하신 신호가 있으면 댓글로 나눠주세요. 🗨️</p>
+
+<p>#종가베팅 #미국시장 #반도체 #바이오 #외국인순매수 #YELLOW등급 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[간밤 미국장은 다우존스 −1.32%, S&amp;P500 −0.87%, 나스닥 −1.00% 로 3대 지수가 동반 하락했습니다. 하지만 국내 시장에서는 외국인이 21,629억원 을 순매수했고, 반도체·바이오 테마는 저녁 고점에서 강한 저항력을 보였습니다. 🌙]]></summary></entry><entry><title type="html">코스피 5.89% 급반등 — 반도체 자사주 재료로 외국인도 순매수</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/20/daily/" rel="alternate" type="text/html" title="코스피 5.89% 급반등 — 반도체 자사주 재료로 외국인도 순매수" /><published>2026-08-20T21:00:00+09:00</published><updated>2026-08-20T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/20/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/20/daily/"><![CDATA[<h2 id="도입-오늘-시장을-한-줄로">도입: 오늘 시장을 한 줄로</h2>
 
 <p>어제 5.8% 폭락으로 시장이 흔들렸지만, 오늘은 강한 되돌림이 나왔습니다. 코스피가 <strong>+5.89%</strong>(6,852포인트)로 올랐고, 특히 반도체 대형주가 이를 이끌었습니다. 📈 <strong>SK하이닉스가 13.33% 폭등</strong>하며 시장 전체의 분위기를 바꿨죠. 이런 날은 투자자도 함께 움직이고, 외국인도 <strong>대규모로 순매수</strong>에 나섰습니다.</p>
 
@@ -2461,100 +2571,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <p>오늘 흐름 어떻게 보셨나요? 궁금한 종목 댓글로 남겨주세요 🙌</p>
 
-<p>#NextTheme #종가베팅 #코스피 #코스닥 #HMM #해운 #남북경협 #호르무즈리스크</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[오늘 국내 증시는 코스피 -1.55%, 코스닥 -3.52%로 나란히 큰 폭으로 밀리며 위험 회피 심리가 짙게 나타난 하루였습니다. 하락장에서도 돈이 어디로 몰렸는지, 그리고 어제 선별한 종목들이 오늘 아침 실제로 어떤 결과를 냈는지까지 오늘 하루를 정리해 봅니다. 📉]]></summary></entry><entry><title type="html">HMM, 코스피 -2%대 폭락장 속에서도 나 홀로 급등한 이유 — 해운주 수급 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/18/nt2-1505-snapshot/" rel="alternate" type="text/html" title="HMM, 코스피 -2%대 폭락장 속에서도 나 홀로 급등한 이유 — 해운주 수급 분석" /><published>2026-08-18T15:05:00+09:00</published><updated>2026-08-18T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/18/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/18/nt2-1505-snapshot/"><![CDATA[<p>😨 오늘 국내 증시, 정말 무서운 하루였습니다. 코스피가 <strong>-2.12%</strong>, 코스닥은 <strong>-3.51%</strong>나 빠지면서 계좌가 파랗게 물든 분들이 많았을 텐데요. 이런 날에는 오히려 “왜 이 종목만 오르지?”라는 질문이 더 중요해집니다. 오늘은 그 답이 된 종목, HMM 이야기입니다.</p>
-
-<h2 id="오늘-시장-무슨-일이-있었나">오늘 시장, 무슨 일이 있었나?</h2>
-
-<p>오늘 시장은 한마디로 <strong>위험 회피(리스크 오프) 장세</strong>였습니다. 중동의 호르무즈 해협을 둘러싼 긴장이 고조되면서 투자자들이 몸을 사렸고, 대부분의 업종이 동반 하락했습니다. 그런데 이 와중에 돈이 몰린 곳이 있었으니, 바로 <strong>해운</strong>과 <strong>남북경협</strong> 테마입니다. 호르무즈 해협은 전 세계 원유 물동량의 상당 부분이 지나가는 길목이라, 이곳이 막힐 위험이 커지면 역설적으로 해운 운임이 뛸 것이라는 기대가 생기기 때문입니다. 시장 전체가 얼어붙은 날에도 돈은 늘 이유를 찾아 움직인다는 걸 보여준 하루였습니다.</p>
-
-<h2 id="오늘-왜-hmm이-선택됐을까">오늘 왜 HMM이 선택됐을까?</h2>
-
-<p>AI가 오늘 유일하게 선별한 종목은 <strong>HMM(011200)</strong>입니다. 배점 <strong>43점</strong>, 비중은 <strong>100%</strong>로 나머지 후보를 압도했습니다.</p>
-
-<p>HMM은 국내 대표 해운사로, 오늘 하루 <strong>+5.53%</strong> 오르며 <strong>22,425원</strong>에 마감했습니다. 거래대금은 <strong>2,021억원</strong>에 달해 해운 테마 안에서 <strong>1위</strong>를 기록했습니다. 시가총액은 <strong>21.2조원</strong> 규모입니다.</p>
-
-<p>수급도 뒷받침됐습니다. 오늘 하루 외국인이 <strong>84만 주</strong>, 큰 투자기관(기관)이 <strong>125만 주</strong>를 순매수했습니다. 개인 투자자와 달리 정보력과 자금력을 갖춘 두 주체가 같은 방향으로 움직였다는 건, 그만큼 이 흐름에 힘을 싣는 투자자가 많았다는 뜻으로 해석할 수 있습니다.</p>
-
-<p>기술적으로 보면 RSI는 <strong>64.8</strong>로 과열까지는 아니지만 상승 탄력이 붙은 구간이고, 평소 거래량 대비 오늘 거래량이 얼마나 많았는지를 나타내는 RVOL은 <strong>4.16배</strong>로, 평소보다 4배 넘게 거래가 몰렸습니다. 다만 매수 호가 쪽 신호는 “매수벽 약함”으로 나타나, 추가 상승을 뒷받침할 대기 매수세가 아주 두껍지는 않은 상태였습니다.</p>
-
-<p>재무 측면에서는 최근 분기(2026년 2분기) 매출이 <strong>32,332억원</strong>으로 전년 대비 <strong>+23.3%</strong> 늘었지만, 영업이익은 <strong>12억원</strong>에 그쳐 매출 규모 대비 수익성은 아직 얇은 편입니다.</p>
-
-<blockquote>
-  <p><strong>📊 HMM 분석 데이터</strong></p>
-
-  <table>
-    <thead>
-      <tr>
-        <th>구분</th>
-        <th>항목</th>
-        <th>값</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>기본</td>
-        <td>종가 / 등락률</td>
-        <td>22,425원 / +5.53%</td>
-      </tr>
-      <tr>
-        <td>기본</td>
-        <td>거래대금 / 시총</td>
-        <td>2,021억원 / 21.2조원</td>
-      </tr>
-      <tr>
-        <td>기본</td>
-        <td>주도 테마 / 테마내순위</td>
-        <td>해운 / 1위</td>
-      </tr>
-      <tr>
-        <td>기술</td>
-        <td>RSI / RVOL / 이평수렴</td>
-        <td>64.8 / 4.16 / +0.07%</td>
-      </tr>
-      <tr>
-        <td>기술</td>
-        <td>52주 신고가 / OBV</td>
-        <td>아님 / 중립</td>
-      </tr>
-      <tr>
-        <td>수급</td>
-        <td>외인 순매수 / 기관 순매수</td>
-        <td>+84만 주 / +125만 주</td>
-      </tr>
-      <tr>
-        <td>수급</td>
-        <td>호가신호</td>
-        <td>매수벽 약함</td>
-      </tr>
-      <tr>
-        <td>재무</td>
-        <td>매출YoY</td>
-        <td>+23.3%</td>
-      </tr>
-      <tr>
-        <td>재무</td>
-        <td>최근 분기 실적</td>
-        <td>2026.06: 매출 32,332억원 / 영업이익 12억원</td>
-      </tr>
-      <tr>
-        <td>점수</td>
-        <td>AI 종합 점수</td>
-        <td>43점</td>
-      </tr>
-    </tbody>
-  </table>
-</blockquote>
-
-<h2 id="nexttheme-알고리즘은-왜-hmm을-골랐을까">NextTheme 알고리즘은 왜 HMM을 골랐을까?</h2>
-
-<p>오늘처럼 시장 전체가 약세인 날은 대부분의 종목이 선별 기준을 통과하지 못합니다. 그런데도 HMM이 뽑힌 건, ① 거래대금이 해운 테마 안에서 압도적 1위였고 ② 외국인·기관이 동시에 순매수했으며 ③ 지정학적 이슈라는 명확한 촉매(호르무즈 해협 긴장)가 있었기 때문입니다. AI는 이 종목을 두고 “매수 호가에 자금이 두껍게 쌓이고 외국인과 기관이 장중 동시에 사들여 52주 고점 부근까지 올라왔다”고 근거를 밝혔습니다. 다만 이건 어디까지나 알고리즘이 오늘 데이터를 바탕으로 내린 기록일 뿐, 앞으로의 주가를 보장하는 이야기는 아닙니다.</p>
-
-<p>제가 오늘 이 흐름에서 눈여겨본 건, 시장이 전반적으로 무너질 때 오히려 특정 테마로 자금이 더 선명하게 쏠린다는 점입니다. 평소라면 여러 테마에 분산됐을 매수세가, 위험한 날일수록 “이유가 확실한 곳”에만 집중되는 모습이 인상적이었습니다.</p>
-
-<h2 id="정리하며">정리하며</h2>
-
-<p>오늘은 코스피·코스닥 모두 크게 빠진 날이었지만, 해운 테마만큼은 지정학적 이슈를 등에 업고 홀로 강세를 보였습니다. HMM은 거래대금·수급·모멘텀 세 박자가 맞아떨어지며 오늘의 유일한 선별 종목이 됐습니다. 다만 매수벽이 두껍지 않다는 신호도 함께 있었던 만큼, 내일 시장이 이 흐름을 어떻게 이어받을지는 지켜볼 부분입니다.</p>
-
-<p>오늘 분석, 어떻게 보셨나요? 궁금한 종목이 있다면 댓글로 남겨주세요 🙌</p>
-
-<p>#NextTheme #종가베팅 #HMM #해운주 #호르무즈해협 #외국인순매수 #기관순매수 #코스피급락</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[😨 오늘 국내 증시, 정말 무서운 하루였습니다. 코스피가 -2.12%, 코스닥은 -3.51%나 빠지면서 계좌가 파랗게 물든 분들이 많았을 텐데요. 이런 날에는 오히려 “왜 이 종목만 오르지?”라는 질문이 더 중요해집니다. 오늘은 그 답이 된 종목, HMM 이야기입니다.]]></summary></entry></feed>
+<p>#NextTheme #종가베팅 #코스피 #코스닥 #HMM #해운 #남북경협 #호르무즈리스크</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[오늘 국내 증시는 코스피 -1.55%, 코스닥 -3.52%로 나란히 큰 폭으로 밀리며 위험 회피 심리가 짙게 나타난 하루였습니다. 하락장에서도 돈이 어디로 몰렸는지, 그리고 어제 선별한 종목들이 오늘 아침 실제로 어떤 결과를 냈는지까지 오늘 하루를 정리해 봅니다. 📉]]></summary></entry></feed>
