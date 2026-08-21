@@ -1,4 +1,302 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-21T20:07:01+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">삼성전자, 주주환원 발표 후 시초가 갭상승 기대 — 12.6조원 거래대금 집중의 의미</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/21/nt2-1505-snapshot/" rel="alternate" type="text/html" title="삼성전자, 주주환원 발표 후 시초가 갭상승 기대 — 12.6조원 거래대금 집중의 의미" /><published>2026-08-21T15:05:00+09:00</published><updated>2026-08-21T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/21/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/21/nt2-1505-snapshot/"><![CDATA[<p>반도체 대장주가 오늘 하루 시장의 중심이 된 날입니다. 삼성전자·SK하이닉스의 대규모 주주환원 발표가 신호탄이 되면서 반도체 섹터에 자금이 집중되는 모습입니다. 한편 코스닥은 방향성을 잃고 약세로 마감했는데, 이는 시장의 뚜렷한 쏠림을 보여주는 신호입니다. 이런 양극화 속에서 내일 시초가가 어떻게 움직일지가 관건입니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-21T21:02:49+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">삼성전자·SK하이닉스 자사주 소각에 돈 몰린 날, 코스닥은 왜 5% 급락했나 — 8월21일 마감정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/21/daily/" rel="alternate" type="text/html" title="삼성전자·SK하이닉스 자사주 소각에 돈 몰린 날, 코스닥은 왜 5% 급락했나 — 8월21일 마감정리" /><published>2026-08-21T21:00:00+09:00</published><updated>2026-08-21T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/21/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/21/daily/"><![CDATA[<p>오늘 하루를 한마디로 정리하면 “쏠림”입니다. 코스피는 반도체 대장주 덕분에 웃었지만, 코스닥은 5% 가까이 무너지며 명암이 극명하게 갈린 하루였습니다. 📊</p>
+
+<h2 id="-미국-시장은-왜-떨어졌나">🌙 미국 시장은 왜 떨어졌나</h2>
+
+<p>전날 미국 증시는 다우 <strong>-1.32%</strong>, S&amp;P500 <strong>-0.87%</strong>, 나스닥 <strong>-1.00%</strong>로 3대 지수가 동반 하락했습니다. 다만 필라델피아 반도체지수는 <strong>+0.53%</strong>로 홀로 버텼습니다. 하락 배경은 미국 장기채 금리 반등(10년물 4.71%)과 국제유가 상승(88.2달러), 월마트 실적 부진이었습니다.</p>
+
+<p>반대로 눈에 띄는 호재도 있었습니다. 비트코인이 7만 달러를 넘어섰고, SK하이닉스가 <strong>40조원 규모 자사주 소각</strong>을 발표했습니다. 여기에 우리나라 수출액이 전년 대비 <strong>+23.2%</strong>, 그중 반도체는 <strong>+178.8%</strong> 늘어난 것으로 집계돼 수출 경기 자체는 견조했습니다.</p>
+
+<h2 id="-코스피코스닥-오늘은-정반대로-움직였다">📈 코스피·코스닥, 오늘은 정반대로 움직였다</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>지수</th>
+      <th>종가</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>코스피</td>
+      <td>6,912.95</td>
+      <td><strong>+0.88%</strong></td>
+    </tr>
+    <tr>
+      <td>코스닥</td>
+      <td>801.94</td>
+      <td><strong>-4.63%</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>원/달러 환율은 1,385.0원이었습니다. 최근 며칠 흐름을 보면 코스피는 8월19일 6,471.17 → 20일 6,852.58 → 21일 6,912.95로 3거래일 연속 반등하며 회복세를 이어갔습니다. 반면 코스닥은 20일 840.89까지 올랐다가 오늘 801.94로 급락하며 흐름이 완전히 꺾였습니다. 같은 날 두 시장이 이렇게 다른 방향으로 움직인 건 그만큼 자금이 대형주(특히 반도체)로 쏠렸다는 뜻으로 해석할 수 있습니다.</p>
+
+<h2 id="-오늘-거래대금-상위-종목">💰 오늘 거래대금 상위 종목</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>순위</th>
+      <th>종목명</th>
+      <th>거래대금</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>삼성전자</td>
+      <td>12.6조원</td>
+      <td><strong>+3.14%</strong></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>SK하이닉스</td>
+      <td>11.3조원</td>
+      <td><strong>+2.01%</strong></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>삼성전자우</td>
+      <td>2.0조원</td>
+      <td><strong>+6.96%</strong></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>삼성전기</td>
+      <td>1.5조원</td>
+      <td><strong>-6.23%</strong></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>SK스퀘어</td>
+      <td>9,689억원</td>
+      <td>-0.53%</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>금호건설</td>
+      <td>5,095억원</td>
+      <td>-6.07%</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>인제니아테라퓨틱스(Reg.S)</td>
+      <td>4,028억원</td>
+      <td>-10.86%</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>두산에너빌리티</td>
+      <td>3,884억원</td>
+      <td>-3.16%</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>삼성생명</td>
+      <td>3,735억원</td>
+      <td><strong>+10.27%</strong></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>NAVER</td>
+      <td>3,394억원</td>
+      <td>+1.59%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>거래대금 1·2위를 삼성전자와 SK하이닉스가 나란히 차지했습니다. 두 회사가 대규모 주주환원(자사주 소각 등)을 발표하면서 큰 투자기관(기관)과 개인 자금이 한꺼번에 몰린 결과로 보입니다.</p>
+
+<h2 id="-오늘의-테마-흐름">🔥 오늘의 테마 흐름</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>순위</th>
+      <th>테마</th>
+      <th>상승 종목 수</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>지역화폐</td>
+      <td>2/5</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>S7(삼성전자·SK하이닉스 등)</td>
+      <td>5/7</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>통신</td>
+      <td>3/3</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>은행</td>
+      <td>8/11</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>가상화폐(비트코인 등)</td>
+      <td>11/25</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>국내 상장 중국기업</td>
+      <td>4/10</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>통신 테마는 3개 종목이 모두 올라 완전한 상승세를 보였고, 은행도 11개 중 8개가 상승했습니다.</p>
+
+<h2 id="-오늘의-종가-선별--삼성전자">🎯 오늘의 종가 선별 — 삼성전자</h2>
+
+<p>오늘 최종 선별(FINAL) 등급은 <strong>RED</strong>였습니다. 시스템이 남긴 시황 요약은 “삼성전자·SK하이닉스 주주환원 발표로 반도체 대장주에 자금이 집중된 반면 코스닥은 5% 가까이 급락한 양극화 장세”였습니다.</p>
+
+<p>오늘 선별된 종목은 삼성전자 1개였습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>항목</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>종가 / 등락률</td>
+      <td>279,500원 / <strong>+3.14%</strong></td>
+    </tr>
+    <tr>
+      <td>거래대금 / 시가총액</td>
+      <td>12.6조원 / 1,635.5조원</td>
+    </tr>
+    <tr>
+      <td>주도 테마 / 테마 내 순위</td>
+      <td>S7(삼성전자·SK하이닉스 등) / 1위</td>
+    </tr>
+    <tr>
+      <td>RSI / RVOL / 이평수렴</td>
+      <td>56.1 / 0.9 / +0.2%</td>
+    </tr>
+    <tr>
+      <td>52주 신고가 / OBV(거래량 흐름)</td>
+      <td>아님 / 중립</td>
+    </tr>
+    <tr>
+      <td>외국인 순매수 / 기관 순매수</td>
+      <td>-68만 주 / -2만 주</td>
+    </tr>
+    <tr>
+      <td>매출 YoY</td>
+      <td>+140.2%</td>
+    </tr>
+    <tr>
+      <td>최근 분기 실적</td>
+      <td>2026.09.: 매출 2,067,408억원 / 영업이익 55억원</td>
+    </tr>
+    <tr>
+      <td>AI 종합 점수</td>
+      <td>42점</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>AI가 이 종목을 고른 근거로 남긴 기록은 “삼성전자·SK하이닉스의 대규모 주주환원 발표로 반도체 대장주에 돈이 폭발적으로 몰렸고, 매수 호가에 돈이 두껍게 쌓여 오늘 못 산 투자자들이 다음 주 월요일 아침 시초가에 따라붙을 가능성이 크다”는 점이었습니다. 다만 당일 외국인·기관 수급 자체는 순매도(-68만 주, -2만 주)였다는 점도 함께 기록해둡니다.</p>
+
+<h2 id="-선별-복기--맞았을까-틀렸을까">📋 선별 복기 — 맞았을까, 틀렸을까</h2>
+
+<p><strong>어제 선별 종목의 오늘 아침 실현 성과</strong>(08:00~09:59, 진입가 대비)입니다. 종가베팅은 아침에 매도해 수익을 확정하는 방식이라 이 수치가 실제 성과에 가깝습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>아침 실현 갭</th>
+      <th>세션 중 최고</th>
+      <th>세션 중 최저</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>SK하이닉스</td>
+      <td><strong>+2.9%</strong></td>
+      <td>+4.2%</td>
+      <td>-1.4%</td>
+    </tr>
+    <tr>
+      <td>NAVER</td>
+      <td>-0.7%</td>
+      <td>+0.7%</td>
+      <td>-2.7%</td>
+    </tr>
+    <tr>
+      <td>HMM</td>
+      <td>-3.7%</td>
+      <td>+19.6%</td>
+      <td>-4.1%</td>
+    </tr>
+    <tr>
+      <td>대원전선</td>
+      <td><strong>-15.2%</strong></td>
+      <td>-8.4%</td>
+      <td>-15.4%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>SK하이닉스는 좋은 흐름을 보였지만, 대원전선은 크게 밀렸습니다. 틀린 날도 그대로 기록합니다.</p>
+
+<p><strong>오늘 선별 종목의 애프터마켓 잠정 흐름</strong>(15:40~19:59, 진입가 대비)입니다. 아직 확정이 아니라 다음 주 월요일 아침 실제 청산 결과로 갈릴 잠정치입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>애프터마켓 잠정 갭</th>
+      <th>세션 중 최고</th>
+      <th>세션 중 최저</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>HMM</td>
+      <td>-1.5%</td>
+      <td>-0.4%</td>
+      <td>-1.8%</td>
+    </tr>
+    <tr>
+      <td>삼성전자</td>
+      <td>-3.4%</td>
+      <td>+1.4%</td>
+      <td>-4.5%</td>
+    </tr>
+    <tr>
+      <td>대원전선</td>
+      <td>-16.4%</td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="-오늘-이-흐름에서-주목한-것">💭 오늘 이 흐름에서 주목한 것</h2>
+
+<p>오늘 제가 눈여겨본 부분은 삼성전자·SK하이닉스로의 자금 쏠림이 코스피 지수 하나만 끌어올렸을 뿐, 시장 전체의 온기로는 이어지지 않았다는 점입니다. 코스닥이 같은 날 5% 가까이 밀렸다는 건 대형주 랠리와 중소형주 체감 경기가 완전히 분리돼 있다는 뜻으로 읽힙니다. 지수만 보고 “오늘 강세장이었다”고 단정하면 실제 계좌 체감과 어긋날 수 있는 하루였습니다.</p>
+
+<h2 id="-오늘-한-줄-정리">📝 오늘 한 줄 정리</h2>
+
+<p>삼성전자·SK하이닉스 주주환원 발표로 반도체 대장주에 돈이 집중되며 코스피는 3거래일 연속 반등했지만, 코스닥은 5% 가까이 급락한 극단적인 양극화 장세였습니다. 종가베팅에서는 삼성전자 1개 종목이 선별됐고, 실제 성과는 다음 주 월요일 아침 확인할 수 있습니다.</p>
+
+<p>오늘 시장 어떻게 보셨나요? 궁금한 종목이나 의견 있으시면 댓글로 남겨주세요 🙌</p>
+
+<p>#NextTheme #종가베팅 #삼성전자 #SK하이닉스 #코스피 #코스닥 #반도체 #자사주소각 #양극화장세</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[오늘 하루를 한마디로 정리하면 “쏠림”입니다. 코스피는 반도체 대장주 덕분에 웃었지만, 코스닥은 5% 가까이 무너지며 명암이 극명하게 갈린 하루였습니다. 📊]]></summary></entry><entry><title type="html">삼성전자, 주주환원 발표 후 시초가 갭상승 기대 — 12.6조원 거래대금 집중의 의미</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/21/nt2-1505-snapshot/" rel="alternate" type="text/html" title="삼성전자, 주주환원 발표 후 시초가 갭상승 기대 — 12.6조원 거래대금 집중의 의미" /><published>2026-08-21T15:05:00+09:00</published><updated>2026-08-21T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/21/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/21/nt2-1505-snapshot/"><![CDATA[<p>반도체 대장주가 오늘 하루 시장의 중심이 된 날입니다. 삼성전자·SK하이닉스의 대규모 주주환원 발표가 신호탄이 되면서 반도체 섹터에 자금이 집중되는 모습입니다. 한편 코스닥은 방향성을 잃고 약세로 마감했는데, 이는 시장의 뚜렷한 쏠림을 보여주는 신호입니다. 이런 양극화 속에서 내일 시초가가 어떻게 움직일지가 관건입니다.</p>
 
 <h2 id="시장-브리핑">시장 브리핑</h2>
 
@@ -2225,470 +2523,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <p>내일 결과를 댓글로 나눠주세요. 다른 종목이나 오늘 시황에 대해 궁금하신 점도 자유롭게 남겨주세요.</p>
 
-<p>#아난티 #남북경협 #종가베팅 #NextTheme #거래대금 #갭상승 #외국인순매수 #모멘텀</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[극악의 약세장, 그 속의 유일한 기둥 📍]]></summary></entry><entry><title type="html">8/18 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/19/review-20260818-review/" rel="alternate" type="text/html" title="8/18 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-08-19T09:00:00+09:00</published><updated>2026-08-19T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/19/review_20260818-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/19/review-20260818-review/"><![CDATA[<blockquote>
-  <p>데이터 기준: 2026-08-19 10:03 키움 ka10001 일괄 조회</p>
-</blockquote>
-
-<h2 id="컨셉">컨셉</h2>
-<p>전일 NT2 15:05 슬롯에서 AI가 최종 선별한 종목과 미선별 종목의 다음날 시초가 갭을 비교하여
-AI 선별 정확도를 복기합니다.</p>
-
-<blockquote>
-  <p><strong>오전고가갭%</strong> = 개장~10:03 장초반 고가 기준 수익률. 시초가 갭(즉시 매도)만으로는
-갭하락 후 장초반 반등으로 매도 가능했던 FOMO 기회를 놓침 — 장초반 매도 기회 상한 지표.</p>
-</blockquote>
-
-<h2 id="-ai-선별-종목-1">① AI 선별 종목 (1)</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>코드</th>
-      <th style="text-align: right">점수</th>
-      <th style="text-align: right">전일종가</th>
-      <th style="text-align: right">시초가</th>
-      <th style="text-align: right">갭%</th>
-      <th style="text-align: right">오전고가</th>
-      <th style="text-align: right">오전고가갭%</th>
-      <th style="text-align: right">현재가</th>
-      <th style="text-align: right">누적갭%</th>
-      <th style="text-align: right">거래량</th>
-      <th style="text-align: right">거래대금(억)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>HMM</td>
-      <td>011200</td>
-      <td style="text-align: right">43</td>
-      <td style="text-align: right">22,425</td>
-      <td style="text-align: right">22,050</td>
-      <td style="text-align: right">-1.67%</td>
-      <td style="text-align: right">22,050</td>
-      <td style="text-align: right">-1.67%</td>
-      <td style="text-align: right">21,700</td>
-      <td style="text-align: right">-3.23%</td>
-      <td style="text-align: right">845,183</td>
-      <td style="text-align: right">183.4</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="-ai-평가-미선택-11">② AI 평가 미선택 (11)</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>코드</th>
-      <th style="text-align: right">점수</th>
-      <th style="text-align: right">전일종가</th>
-      <th style="text-align: right">시초가</th>
-      <th style="text-align: right">갭%</th>
-      <th style="text-align: right">오전고가</th>
-      <th style="text-align: right">오전고가갭%</th>
-      <th style="text-align: right">현재가</th>
-      <th style="text-align: right">누적갭%</th>
-      <th style="text-align: right">거래량</th>
-      <th style="text-align: right">거래대금(억)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>아난티</td>
-      <td>025980</td>
-      <td style="text-align: right">37</td>
-      <td style="text-align: right">4,485</td>
-      <td style="text-align: right">4,880</td>
-      <td style="text-align: right">+8.81%</td>
-      <td style="text-align: right">5,490</td>
-      <td style="text-align: right">+22.41%</td>
-      <td style="text-align: right">4,927</td>
-      <td style="text-align: right">+9.86%</td>
-      <td style="text-align: right">18,764,398</td>
-      <td style="text-align: right">924.5</td>
-    </tr>
-    <tr>
-      <td>SK하이닉스</td>
-      <td>000660</td>
-      <td style="text-align: right">36</td>
-      <td style="text-align: right">1,649,000</td>
-      <td style="text-align: right">1,545,000</td>
-      <td style="text-align: right">-6.31%</td>
-      <td style="text-align: right">1,547,000</td>
-      <td style="text-align: right">-6.19%</td>
-      <td style="text-align: right">1,526,000</td>
-      <td style="text-align: right">-7.46%</td>
-      <td style="text-align: right">1,329,542</td>
-      <td style="text-align: right">20288.8</td>
-    </tr>
-    <tr>
-      <td>삼성전자</td>
-      <td>005930</td>
-      <td style="text-align: right">36</td>
-      <td style="text-align: right">266,000</td>
-      <td style="text-align: right">251,500</td>
-      <td style="text-align: right">-5.45%</td>
-      <td style="text-align: right">252,500</td>
-      <td style="text-align: right">-5.08%</td>
-      <td style="text-align: right">250,000</td>
-      <td style="text-align: right">-6.02%</td>
-      <td style="text-align: right">6,923,351</td>
-      <td style="text-align: right">17308.4</td>
-    </tr>
-    <tr>
-      <td>흥아해운</td>
-      <td>003280</td>
-      <td style="text-align: right">30</td>
-      <td style="text-align: right">1,920</td>
-      <td style="text-align: right">1,890</td>
-      <td style="text-align: right">-1.56%</td>
-      <td style="text-align: right">1,957</td>
-      <td style="text-align: right">+1.93%</td>
-      <td style="text-align: right">1,778</td>
-      <td style="text-align: right">-7.40%</td>
-      <td style="text-align: right">11,712,319</td>
-      <td style="text-align: right">208.2</td>
-    </tr>
-    <tr>
-      <td>이수페타시스</td>
-      <td>007660</td>
-      <td style="text-align: right">30</td>
-      <td style="text-align: right">102,400</td>
-      <td style="text-align: right">99,900</td>
-      <td style="text-align: right">-2.44%</td>
-      <td style="text-align: right">109,300</td>
-      <td style="text-align: right">+6.74%</td>
-      <td style="text-align: right">108,900</td>
-      <td style="text-align: right">+6.35%</td>
-      <td style="text-align: right">686,744</td>
-      <td style="text-align: right">747.9</td>
-    </tr>
-    <tr>
-      <td>LG전자</td>
-      <td>066570</td>
-      <td style="text-align: right">28</td>
-      <td style="text-align: right">207,000</td>
-      <td style="text-align: right">198,400</td>
-      <td style="text-align: right">-4.15%</td>
-      <td style="text-align: right">207,500</td>
-      <td style="text-align: right">+0.24%</td>
-      <td style="text-align: right">207,500</td>
-      <td style="text-align: right">+0.24%</td>
-      <td style="text-align: right">283,191</td>
-      <td style="text-align: right">587.6</td>
-    </tr>
-    <tr>
-      <td>삼성전기</td>
-      <td>009150</td>
-      <td style="text-align: right">28</td>
-      <td style="text-align: right">1,434,000</td>
-      <td style="text-align: right">1,357,000</td>
-      <td style="text-align: right">-5.37%</td>
-      <td style="text-align: right">1,410,000</td>
-      <td style="text-align: right">-1.67%</td>
-      <td style="text-align: right">1,376,000</td>
-      <td style="text-align: right">-4.04%</td>
-      <td style="text-align: right">267,447</td>
-      <td style="text-align: right">3680.1</td>
-    </tr>
-    <tr>
-      <td>SK이노베이션</td>
-      <td>096770</td>
-      <td style="text-align: right">27</td>
-      <td style="text-align: right">130,800</td>
-      <td style="text-align: right">129,700</td>
-      <td style="text-align: right">-0.84%</td>
-      <td style="text-align: right">130,000</td>
-      <td style="text-align: right">-0.61%</td>
-      <td style="text-align: right">130,000</td>
-      <td style="text-align: right">-0.61%</td>
-      <td style="text-align: right">125,161</td>
-      <td style="text-align: right">162.7</td>
-    </tr>
-    <tr>
-      <td>S-Oil</td>
-      <td>010950</td>
-      <td style="text-align: right">27</td>
-      <td style="text-align: right">152,100</td>
-      <td style="text-align: right">152,800</td>
-      <td style="text-align: right">+0.46%</td>
-      <td style="text-align: right">155,300</td>
-      <td style="text-align: right">+2.10%</td>
-      <td style="text-align: right">154,700</td>
-      <td style="text-align: right">+1.71%</td>
-      <td style="text-align: right">111,466</td>
-      <td style="text-align: right">172.4</td>
-    </tr>
-    <tr>
-      <td>GS</td>
-      <td>078930</td>
-      <td style="text-align: right">26</td>
-      <td style="text-align: right">118,100</td>
-      <td style="text-align: right">117,500</td>
-      <td style="text-align: right">-0.51%</td>
-      <td style="text-align: right">118,700</td>
-      <td style="text-align: right">+0.51%</td>
-      <td style="text-align: right">118,700</td>
-      <td style="text-align: right">+0.51%</td>
-      <td style="text-align: right">112,398</td>
-      <td style="text-align: right">133.4</td>
-    </tr>
-    <tr>
-      <td>심텍</td>
-      <td>222800</td>
-      <td style="text-align: right">24</td>
-      <td style="text-align: right">111,100</td>
-      <td style="text-align: right">103,900</td>
-      <td style="text-align: right">-6.48%</td>
-      <td style="text-align: right">114,200</td>
-      <td style="text-align: right">+2.79%</td>
-      <td style="text-align: right">113,500</td>
-      <td style="text-align: right">+2.16%</td>
-      <td style="text-align: right">235,945</td>
-      <td style="text-align: right">267.8</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="-cap-out-점수-13위-10">③ Cap-out (점수 13위↓) (10)</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>코드</th>
-      <th style="text-align: right">점수</th>
-      <th style="text-align: right">전일종가</th>
-      <th style="text-align: right">시초가</th>
-      <th style="text-align: right">갭%</th>
-      <th style="text-align: right">오전고가</th>
-      <th style="text-align: right">오전고가갭%</th>
-      <th style="text-align: right">현재가</th>
-      <th style="text-align: right">누적갭%</th>
-      <th style="text-align: right">거래량</th>
-      <th style="text-align: right">거래대금(억)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>대덕전자</td>
-      <td>353200</td>
-      <td style="text-align: right">17</td>
-      <td style="text-align: right">117,900</td>
-      <td style="text-align: right">108,800</td>
-      <td style="text-align: right">-7.72%</td>
-      <td style="text-align: right">120,800</td>
-      <td style="text-align: right">+2.46%</td>
-      <td style="text-align: right">118,300</td>
-      <td style="text-align: right">+0.34%</td>
-      <td style="text-align: right">270,302</td>
-      <td style="text-align: right">319.8</td>
-    </tr>
-    <tr>
-      <td>LG이노텍</td>
-      <td>011070</td>
-      <td style="text-align: right">16</td>
-      <td style="text-align: right">630,000</td>
-      <td style="text-align: right">596,000</td>
-      <td style="text-align: right">-5.40%</td>
-      <td style="text-align: right">616,000</td>
-      <td style="text-align: right">-2.22%</td>
-      <td style="text-align: right">611,000</td>
-      <td style="text-align: right">-3.02%</td>
-      <td style="text-align: right">51,596</td>
-      <td style="text-align: right">315.3</td>
-    </tr>
-    <tr>
-      <td>SK</td>
-      <td>034730</td>
-      <td style="text-align: right">15</td>
-      <td style="text-align: right">584,000</td>
-      <td style="text-align: right">556,000</td>
-      <td style="text-align: right">-4.79%</td>
-      <td style="text-align: right">557,000</td>
-      <td style="text-align: right">-4.62%</td>
-      <td style="text-align: right">547,000</td>
-      <td style="text-align: right">-6.34%</td>
-      <td style="text-align: right">27,606</td>
-      <td style="text-align: right">151.0</td>
-    </tr>
-    <tr>
-      <td>한화에어로스페이스</td>
-      <td>012450</td>
-      <td style="text-align: right">11</td>
-      <td style="text-align: right">1,137,000</td>
-      <td style="text-align: right">1,255,000</td>
-      <td style="text-align: right">+10.38%</td>
-      <td style="text-align: right">1,255,000</td>
-      <td style="text-align: right">+10.38%</td>
-      <td style="text-align: right">1,192,000</td>
-      <td style="text-align: right">+4.84%</td>
-      <td style="text-align: right">175,884</td>
-      <td style="text-align: right">2096.5</td>
-    </tr>
-    <tr>
-      <td>현대건설</td>
-      <td>000720</td>
-      <td style="text-align: right">0</td>
-      <td style="text-align: right">109,700</td>
-      <td style="text-align: right">105,200</td>
-      <td style="text-align: right">-4.10%</td>
-      <td style="text-align: right">108,300</td>
-      <td style="text-align: right">-1.28%</td>
-      <td style="text-align: right">108,300</td>
-      <td style="text-align: right">-1.28%</td>
-      <td style="text-align: right">104,620</td>
-      <td style="text-align: right">113.3</td>
-    </tr>
-    <tr>
-      <td>한국전력</td>
-      <td>015760</td>
-      <td style="text-align: right">0</td>
-      <td style="text-align: right">32,350</td>
-      <td style="text-align: right">31,800</td>
-      <td style="text-align: right">-1.70%</td>
-      <td style="text-align: right">31,850</td>
-      <td style="text-align: right">-1.55%</td>
-      <td style="text-align: right">31,100</td>
-      <td style="text-align: right">-3.86%</td>
-      <td style="text-align: right">562,067</td>
-      <td style="text-align: right">174.8</td>
-    </tr>
-    <tr>
-      <td>지엔씨에너지</td>
-      <td>119850</td>
-      <td style="text-align: right">0</td>
-      <td style="text-align: right">53,100</td>
-      <td style="text-align: right">51,000</td>
-      <td style="text-align: right">-3.95%</td>
-      <td style="text-align: right">57,400</td>
-      <td style="text-align: right">+8.10%</td>
-      <td style="text-align: right">53,700</td>
-      <td style="text-align: right">+1.13%</td>
-      <td style="text-align: right">475,077</td>
-      <td style="text-align: right">255.1</td>
-    </tr>
-    <tr>
-      <td>STX그린로지스</td>
-      <td>465770</td>
-      <td style="text-align: right">0</td>
-      <td style="text-align: right">3,670</td>
-      <td style="text-align: right">3,890</td>
-      <td style="text-align: right">+5.99%</td>
-      <td style="text-align: right">4,750</td>
-      <td style="text-align: right">+29.43%</td>
-      <td style="text-align: right">4,040</td>
-      <td style="text-align: right">+10.08%</td>
-      <td style="text-align: right">3,473,504</td>
-      <td style="text-align: right">140.3</td>
-    </tr>
-    <tr>
-      <td>흥구석유</td>
-      <td>024060</td>
-      <td style="text-align: right">0</td>
-      <td style="text-align: right">11,360</td>
-      <td style="text-align: right">11,400</td>
-      <td style="text-align: right">+0.35%</td>
-      <td style="text-align: right">11,400</td>
-      <td style="text-align: right">+0.35%</td>
-      <td style="text-align: right">10,730</td>
-      <td style="text-align: right">-5.55%</td>
-      <td style="text-align: right">639,952</td>
-      <td style="text-align: right">68.7</td>
-    </tr>
-    <tr>
-      <td>팬오션</td>
-      <td>028670</td>
-      <td style="text-align: right">0</td>
-      <td style="text-align: right">6,040</td>
-      <td style="text-align: right">5,900</td>
-      <td style="text-align: right">-2.32%</td>
-      <td style="text-align: right">6,170</td>
-      <td style="text-align: right">+2.15%</td>
-      <td style="text-align: right">6,070</td>
-      <td style="text-align: right">+0.50%</td>
-      <td style="text-align: right">1,718,829</td>
-      <td style="text-align: right">104.3</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="-ai-선별-종목-세션-도달-현황">④ AI 선별 종목 세션 도달 현황</h2>
-
-<blockquote>
-  <p>장후 = 15:40~20:00, 익일 = 08:00~10:00. 손절근접 = 두 세션 최저갭 중 최솟값.
-시초가 즉시 매도(갭%)만으로 놓친 장중 최고 도달 수익을 보여줍니다.</p>
-</blockquote>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th style="text-align: right">진입가</th>
-      <th style="text-align: right">장후최고</th>
-      <th style="text-align: right">장후최저</th>
-      <th style="text-align: right">익일최고</th>
-      <th style="text-align: right">익일최저</th>
-      <th style="text-align: right">손절근접</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>HMM</td>
-      <td style="text-align: right">22,425</td>
-      <td style="text-align: right">+2.56%</td>
-      <td style="text-align: right">+0.33%</td>
-      <td style="text-align: right">+2.95%</td>
-      <td style="text-align: right">-2.88%</td>
-      <td style="text-align: right">-2.88%</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="종합-비교">종합 비교</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>그룹</th>
-      <th style="text-align: right">종목수</th>
-      <th style="text-align: right">평균 시초가 갭</th>
-      <th style="text-align: right">평균 오전고가 갭</th>
-      <th style="text-align: right">평균 누적 갭</th>
-      <th style="text-align: right">평균 거래대금(억)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>AI 선별</td>
-      <td style="text-align: right">1</td>
-      <td style="text-align: right">-1.67%</td>
-      <td style="text-align: right">-1.67%</td>
-      <td style="text-align: right">-3.23%</td>
-      <td style="text-align: right">183</td>
-    </tr>
-    <tr>
-      <td>AI 평가 미선택</td>
-      <td style="text-align: right">11</td>
-      <td style="text-align: right">-2.17%</td>
-      <td style="text-align: right">+2.11%</td>
-      <td style="text-align: right">-0.43%</td>
-      <td style="text-align: right">4,044</td>
-    </tr>
-    <tr>
-      <td>Cap-out (점수 13위↓)</td>
-      <td style="text-align: right">10</td>
-      <td style="text-align: right">-1.33%</td>
-      <td style="text-align: right">+4.32%</td>
-      <td style="text-align: right">-0.32%</td>
-      <td style="text-align: right">374</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="복기-메모">복기 메모</h2>
-<p><em>(수동 작성)</em></p>
-
-<p>#종가베팅 #복기일지 #20260818 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-08-19 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
+<p>#아난티 #남북경협 #종가베팅 #NextTheme #거래대금 #갭상승 #외국인순매수 #모멘텀</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[극악의 약세장, 그 속의 유일한 기둥 📍]]></summary></entry></feed>
