@@ -1,30 +1,30 @@
 {
-  "lastTradingDay" : "2026-08-20",
-  "totalDays" : 72,
+  "lastTradingDay" : "2026-08-21",
+  "totalDays" : 73,
   "summary" : {
-    "tradingDays" : 72,
+    "tradingDays" : 73,
     "sectorCount" : 16,
-    "upDays" : 64,
-    "avgChangeRate" : 5.31,
+    "upDays" : 65,
+    "avgChangeRate" : 5.32,
     "topSector" : "반도체·AI인프라",
     "topSectorDays" : 20
   },
   "now" : {
-    "date" : "2026-08-20",
-    "bettingGrade" : "YELLOW",
-    "regimeTag" : "YELLOW",
+    "date" : "2026-08-21",
+    "bettingGrade" : "RED",
+    "regimeTag" : "RED_DIVERGENCE",
     "themeRegime" : "THEME_LED",
-    "marketSignal" : "강세",
-    "kospi" : 5.89,
-    "kosdaq" : 1.99,
-    "leadTheme" : "모더나(MODERNA)",
-    "leadChangeRate" : 14.03,
-    "themePremium" : 8.14
+    "marketSignal" : "혼조",
+    "kospi" : 0.88,
+    "kosdaq" : -4.63,
+    "leadTheme" : "지역화폐",
+    "leadChangeRate" : 5.95,
+    "themePremium" : 5.07
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
     "rank1Days" : 20,
-    "top3Days" : 30
+    "top3Days" : 31
   }, {
     "sector" : "자동차·2차전지",
     "rank1Days" : 11,
@@ -67,14 +67,14 @@
     "top3Days" : 7
   }, {
     "sector" : "매크로·기타",
-    "rank1Days" : 4,
-    "top3Days" : 5
-  }, {
-    "sector" : "우주항공·방산",
-    "rank1Days" : 2,
-    "top3Days" : 5
+    "rank1Days" : 5,
+    "top3Days" : 6
   }, {
     "sector" : "통신·광통신",
+    "rank1Days" : 2,
+    "top3Days" : 6
+  }, {
+    "sector" : "우주항공·방산",
     "rank1Days" : 2,
     "top3Days" : 5
   }, {
@@ -1301,6 +1301,24 @@
         "theme" : "S7(삼성전자/SK하이닉스 등)",
         "changeRate" : 7.6
       } ]
-    }, null ] ]
+    }, {
+      "day" : 21,
+      "date" : "2026-08-21",
+      "theme" : "지역화폐",
+      "sector" : "매크로·기타",
+      "changeRate" : 5.95,
+      "prevDay" : "NEW",
+      "regime" : "THEME_LED",
+      "slot" : "15:00",
+      "kospi" : 0.88,
+      "themePremium" : 5.07,
+      "runners" : [ {
+        "theme" : "S7(삼성전자/SK하이닉스 등)",
+        "changeRate" : 3.61
+      }, {
+        "theme" : "통신",
+        "changeRate" : 2.92
+      } ]
+    } ] ]
   } ]
 }
