@@ -1,4 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-24T21:05:56+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">삼성전자 급락 속 바이오 상한가 — 오늘 종가베팅 선별 종목과 흐름</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/24/daily/" rel="alternate" type="text/html" title="삼성전자 급락 속 바이오 상한가 — 오늘 종가베팅 선별 종목과 흐름" /><published>2026-08-24T21:00:00+09:00</published><updated>2026-08-24T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/24/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/24/daily/"><![CDATA[<p>삼성전자와 SK하이닉스의 <strong>150조 규모 주주환원</strong> 발표에도 불구하고 코스피는 <strong>3.12% 급락</strong>했습니다. 반도체 지수는 약세를 이어갔지만, 바이오와 2차전지 자금이 몰려 코스닥은 오히려 <strong>1.42% 상승</strong>하는 혼조 장세였습니다. 📉</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-25T06:09:50+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">외국인 순매도 속 나스닥 약세, 시초가 갭이 오늘의 변수</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/25/0600-briefing/" rel="alternate" type="text/html" title="외국인 순매도 속 나스닥 약세, 시초가 갭이 오늘의 변수" /><published>2026-08-25T06:00:00+09:00</published><updated>2026-08-25T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/25/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/25/0600-briefing/"><![CDATA[<p>아침 08시 신호. 외국인이 계속 매도하는 가운데 미국 나스닥이 밤새 -0.77%로 내려갔습니다. 반도체도 -2.70% 약세라 기술주 심리가 한풀 꺾였는데, 오늘 종가베팅의 성공은 <strong>시초가 갭의 방향</strong>에 크게 달려 있습니다. 📊</p>
+
+<h2 id="-어제-ai가-고른-종목-오늘은-어떻게-될까">📋 어제 AI가 고른 종목, 오늘은 어떻게 될까?</h2>
+
+<p>어제는 <strong>신중(CAUTIOUS) 기조</strong>로 이월 보유 1종목, AI 선별 4종목(최종 1 + 탐색 3)을 점검했습니다.</p>
+
+<h3 id="어제-포지션-현황">어제 포지션 현황</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>슬롯</th>
+      <th>어제 상황</th>
+      <th>저녁 움직임</th>
+      <th>오늘</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>대원전선</td>
+      <td>—</td>
+      <td>이월 보유 (평단 14,114원)</td>
+      <td>—</td>
+      <td>시초가 방향 후 청산 시나리오 판단</td>
+    </tr>
+    <tr>
+      <td>한미약품</td>
+      <td>15:10 최종</td>
+      <td>매수 기록 없음</td>
+      <td>종가 540,000원 → −0.56% 저점</td>
+      <td>갭 방향 후 재진입 판단</td>
+    </tr>
+    <tr>
+      <td>삼성SDI</td>
+      <td>19:10 선별</td>
+      <td>매수 기록 없음</td>
+      <td>종가 512,000원 ±0.39% 진폭</td>
+      <td>2차전지 테마 강세 확인·갭 기반 대응</td>
+    </tr>
+    <tr>
+      <td>아이티센글로벌</td>
+      <td>12:10 탐색</td>
+      <td>장중 탐색 후보</td>
+      <td>—</td>
+      <td>탐색 단계로 신규 진입 보류</td>
+    </tr>
+    <tr>
+      <td>엘앤에프</td>
+      <td>10:10 탐색</td>
+      <td>장중 탐색 후보</td>
+      <td>—</td>
+      <td>탐색 단계로 신규 진입 보류</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>복기 요점</strong>: 실제 매수는 없었습니다. AI가 3가지 선택 경로(최종·애프터마켓·탐색)를 내렸으나 외국인 순매도(-3.6조원) 진행 중인 상황에서 시초가 갭이 확실해야 진입을 고려하는 신중함을 유지했습니다. 어제의 반대 시나리오(야간 미국 반등 또는 외국인 수급 전환)는 <strong>다우+0.26% 나스닥-0.77%로 방향이 갈렸고</strong>, 외국인은 계속 순매도 중입니다.</p>
+
+<hr />
+
+<h2 id="-간밤-미국-증시-왜-반도체가-흔들렸을까">🌍 간밤 미국 증시, 왜 반도체가 흔들렸을까?</h2>
+
+<p>간밤 미국 지수는 <strong>혼조 마감</strong>이었습니다.</p>
+
+<p><strong>지표별 상황:</strong></p>
+<ul>
+  <li><strong>다우존스</strong>: <strong>+0.26%</strong> — 견조한 흐름 유지</li>
+  <li><strong>나스닥 종합</strong>: <strong>−0.77%</strong> — 기술주 하락세 주도</li>
+  <li><strong>나스닥 100</strong>: <strong>−0.98%</strong> — 고성장주 약세 심화</li>
+  <li><strong>S&amp;P500</strong>: <strong>−0.28%</strong> — 혼조(장중 위아래 진폭 있었음)</li>
+  <li><strong>필라델피아 반도체</strong>: <strong>−2.70%</strong> 🔴 — 아랫꼬리가 높음(0.64) 표시 <strong>장중 저가 매수 유입은 있었으나 낙폭을 되돌리지는 못했습니다.</strong> 한국 기술주·배터리주 심리가 약화할 수 있습니다.</li>
+</ul>
+
+<p><strong>VIX 지수</strong>는 <strong>+4.76%</strong>로 올랐는데, 갭상승 후 되밀림 패턴입니다. 시가 대비는 −0.31% 되밀렸으나 어제보다 변동성 우려가 커졌다는 신호입니다.</p>
+
+<hr />
+
+<h2 id="-오늘-베팅-등급은-왜-신중할까">⚡ 오늘 베팅 등급은 왜 신중할까?</h2>
+
+<p><strong>등급: 신중 구간</strong><br />
+감정도: 42점 (약세)</p>
+
+<h3 id="전략">전략</h3>
+<p>나스닥과 반도체 약세가 이어지는 가운데 <strong>외국인은 계속 순매도</strong>하고 있습니다. 이 상황에서:</p>
+
+<ol>
+  <li><strong>갭상승 시</strong> — 외국인 매수 전환 신호로 해석. 기술주·배터리 복구 가능성 모니터링</li>
+  <li><strong>갭보합·하락 시</strong> — 모멘텀 이탈 우려 높음. 신규 진입 보류 원칙 유지</li>
+</ol>
+
+<p>어제 복기에서 보았듯 이월 보유 1종목의 청산 시나리오와 선별 4종목의 시초가 확인이 <strong>오늘의 모든 의사결정</strong>을 좌우합니다. 데이터를 기반으로 한 경계 태세가 핵심입니다.</p>
+
+<hr />
+
+<h2 id="-오늘-주목해야-할-변수는-무엇일까">📍 오늘 주목해야 할 변수는 무엇일까?</h2>
+
+<p><strong>긍정 요인:</strong></p>
+<ul>
+  <li>다우존스 견조 (+0.26%) — 경기 심리 기저는 유지 중</li>
+  <li>나스닥 윗꼬리 높음 — 반등 가능성 열려 있음</li>
+  <li>한국 귀금속 테마 폭발 (+7.93%) — 안전자산 선호 강화</li>
+</ul>
+
+<p><strong>위험 요인:</strong></p>
+<ul>
+  <li>필라델피아 반도체 -2.70% — 기술주·2차전지 심리 약화</li>
+  <li>외국인 순매도 지속 (-3.6조원) — 환율·선물 영향권</li>
+  <li>국채금리는 내렸지만 기술주 부진 상쇄 실패 — 공포심리</li>
+</ul>
+
+<hr />
+
+<h2 id="마무리--오늘-갭-어디로-향할까">마무리 — 오늘 갭, 어디로 향할까?</h2>
+
+<p><strong>오늘 시초가가 중요합니다.</strong> 🎯</p>
+
+<p>외국인 순매도와 나스닥 약세라는 이중 역풍 속에서도 다우존스는 견디고 있고, VIX의 되밀림은 반등 가능성을 암시합니다. 어제 선별한 종목들이 오늘 매수로 이어질지는 온전히 <strong>시초가 갭의 강도</strong>에 달려 있습니다.</p>
+
+<p>신중한 모니터링, 데이터 기반 결정 — 오늘도 이 원칙을 지킵시다.</p>
+
+<p>궁금한 종목이나 의견이 있으면 댓글로 남겨주세요!</p>
+
+<p>#종가베팅 #NextTheme #미국증시 #반도체 #2차전지 #시초가갭 #나스닥약세 #외국인순매도</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[아침 08시 신호. 외국인이 계속 매도하는 가운데 미국 나스닥이 밤새 -0.77%로 내려갔습니다. 반도체도 -2.70% 약세라 기술주 심리가 한풀 꺾였는데, 오늘 종가베팅의 성공은 시초가 갭의 방향에 크게 달려 있습니다. 📊]]></summary></entry><entry><title type="html">삼성전자 급락 속 바이오 상한가 — 오늘 종가베팅 선별 종목과 흐름</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/24/daily/" rel="alternate" type="text/html" title="삼성전자 급락 속 바이오 상한가 — 오늘 종가베팅 선별 종목과 흐름" /><published>2026-08-24T21:00:00+09:00</published><updated>2026-08-24T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/24/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/24/daily/"><![CDATA[<p>삼성전자와 SK하이닉스의 <strong>150조 규모 주주환원</strong> 발표에도 불구하고 코스피는 <strong>3.12% 급락</strong>했습니다. 반도체 지수는 약세를 이어갔지만, 바이오와 2차전지 자금이 몰려 코스닥은 오히려 <strong>1.42% 상승</strong>하는 혼조 장세였습니다. 📉</p>
 
 <h2 id="미국-야간--환율">미국 야간 &amp; 환율</h2>
 
@@ -1891,114 +2014,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가베팅 #복기일지 #20260820 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-08-21 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">미국 3대 지수 약세 속 외국인 21조원 순매수 — 반도체·바이오 테마로 읽는 YELLOW 등급의 의미</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/21/0600-briefing/" rel="alternate" type="text/html" title="미국 3대 지수 약세 속 외국인 21조원 순매수 — 반도체·바이오 테마로 읽는 YELLOW 등급의 의미" /><published>2026-08-21T06:00:00+09:00</published><updated>2026-08-21T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/21/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/21/0600-briefing/"><![CDATA[<p>간밤 미국장은 다우존스 <strong>−1.32%</strong>, S&amp;P500 <strong>−0.87%</strong>, 나스닥 <strong>−1.00%</strong> 로 3대 지수가 동반 하락했습니다. 하지만 국내 시장에서는 외국인이 <strong>21,629억원</strong> 을 순매수했고, 반도체·바이오 테마는 저녁 고점에서 강한 저항력을 보였습니다. 🌙</p>
-
-<h2 id="-어제-선별-복기">📋 어제 선별 복기</h2>
-
-<p>어제 15:10 최종 선별과 19:10 선별(NXT 애프터마켓) 종목들의 저녁 흐름을 정리했습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목명</th>
-      <th>슬롯</th>
-      <th>전략</th>
-      <th>저녁 기준가 변화</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>SK하이닉스</strong></td>
-      <td>15:10 최종</td>
-      <td>40조원 자사주 소각 재료</td>
-      <td>종가(170만원) 대비 <strong>+0.65%</strong> 고점</td>
-    </tr>
-    <tr>
-      <td><strong>NAVER</strong></td>
-      <td>15:10 최종</td>
-      <td>스테이블코인 테마 지속</td>
-      <td>종가(22만원) 대비 <strong>+1.36%</strong> 고점</td>
-    </tr>
-    <tr>
-      <td><strong>에스티팜</strong></td>
-      <td>19:10 선별</td>
-      <td>mRNA 암백신 임상 호재</td>
-      <td>종가(108,700원) 대비 <strong>+3.86%</strong> 고점</td>
-    </tr>
-  </tbody>
-</table>
-
-<p><strong>이월 보유 종목 2개:</strong></p>
-<ul>
-  <li><strong>HMM</strong>: 평단 21,735원 대비 저녁 최저 <strong>−2.69%</strong> → 손절 가능성 높음. 해운 섹터 약세(BDI +79) 신호 확인</li>
-  <li><strong>대원전선</strong>: 평단 15,855원, 저녁 관측 데이터 없음 → 시초가 기준 −2% 이하 손절 예정</li>
-</ul>
-
-<p><strong>어제 선별 5개 종목 중 실제 매수 이력은 없었습니다.</strong> (AI 기록상 픽이며, 실 매수는 이전 날 보유분만)</p>
-
-<p><strong>역방향 시나리오 재평가</strong>: 미국 3대 지수 약세에도 불구하고 외국인 순매수가 이어진 것은, 야간 미국 선물·스팩이 반등하면 한국 후속 강세가 가능함을 시사합니다. 반대로 야간 미국 추가 약세(금리 5% 진입) 시 오전 청산 스톱로스 우려가 있습니다.</p>
-
-<h2 id="-간밤-미국-시장-분석">🌎 간밤 미국 시장 분석</h2>
-
-<p><strong>지수별 움직임:</strong></p>
-<ul>
-  <li><strong>다우존스 −1.32%</strong> — 장 막판 매도세 강함(윗꼬리 99.3%), 인플레 우려 반영</li>
-  <li><strong>S&amp;P500 −0.87%</strong> — 제너럴 약세, 장 마감 매도압력 높음(윗꼬리 96.5%)</li>
-  <li><strong>나스닥 −1.00%</strong> — 기술주 동반 하락, 금리 인상 우려 작용(윗꼬리 81.7%)</li>
-  <li><strong>필라델피아 반도체 +0.53%</strong> — 유일한 강세. 장중 매수가 강함(아랫꼬리 70.3%)</li>
-</ul>
-
-<p><strong>악재 3종:</strong></p>
-<ol>
-  <li><strong>미국 10년물 장기금리 4.71%</strong> 로 반등 → 고성장·바이오주의 현재가치 할인 강화</li>
-  <li><strong>월마트 실적 부진</strong> 이 광범위한 약세 신호로 작용</li>
-  <li><strong>유가 88.2달러</strong> 상승 → 인플레 재점화 우려</li>
-</ol>
-
-<p><strong>반대 신호 3종:</strong></p>
-<ol>
-  <li><strong>비트코인 7만달러</strong> 돌파 → 가상자산·스테이블코인 테마 FOMO 유지</li>
-  <li><strong>SK하이닉스 자사주 40조원 소각 + 성과급 60%</strong> → 반도체 섹터 실적 개선 기대</li>
-  <li><strong>한국 수출 호조</strong> (YoY <strong>+23.2%</strong>, 반도체 <strong>+178.8%</strong>) → 외국인 재매수 재료</li>
-</ol>
-
-<h2 id="-오늘의-베팅-등급--전략">💡 오늘의 베팅 등급 &amp; 전략</h2>
-
-<p><strong>베팅 등급: ⚠️ YELLOW (경고, 감정지수 42점)</strong></p>
-
-<p>미국 약세가 명백하지만, 반도체·바이오 테마의 저녁 저항력과 외국인 순매수는 “신중한 접근”의 신호입니다.</p>
-
-<p><strong>AI의 권고:</strong></p>
-<ul>
-  <li><strong>진입 조건</strong> — 반도체·바이오 테마 지속성 확인 후 <strong>제한 비중(70% 이하)</strong> 으로 시초가 갭상승 진입</li>
-  <li><strong>손절 정책</strong> — 미국 금리·유가 상승 지속 시 손실 발생 즉시 빠른 손절. 안주하지 말 것</li>
-  <li><strong>회피 대상</strong> — 항공사·저유가 수혜주는 유가 88달러 이상 환경에서 역풍 단계 → 진입 회피</li>
-</ul>
-
-<p><strong>주의</strong>: 오전 <strong>09:30 미국 서비스 PMI</strong> 발표 예정. 이 결과에 따라 금리 전망이 요동칠 수 있으므로, <strong>오전 매수는 신중하게, 결과 확인 후</strong> 진입 권장.</p>
-
-<h2 id="-주목할-변수">🚨 주목할 변수</h2>
-
-<p><strong>위험 요소:</strong></p>
-<ul>
-  <li>미국 장기금리 상승 지속 → 고성장·바이오의 할인 강화</li>
-  <li>달러 강세(+5원) → 원자재·수출주 약세</li>
-  <li>유가 88달러 이상 → 에너지 인플레 지속</li>
-</ul>
-
-<p><strong>기회 요소:</strong></p>
-<ul>
-  <li>반도체 섹터 자사주 소각·수출 호조 → 외국인 재매수 추동</li>
-  <li>가상자산 강세(비트코인 7만달러) → 기술주·고성장 부분 반등</li>
-  <li>한국 경제 지표 호조 → 외국인 독자 매수 지속 가능</li>
-</ul>
-
-<h2 id="마무리">마무리</h2>
-
-<p>오늘은 <strong>미국 약세와 국내 테마 강세가 충돌하는</strong> 줄다리기 국면입니다. 베팅 등급 YELLOW는 “기회는 있지만 신중하라”는 신호입니다.</p>
-
-<p>반도체·바이오의 저항력을 믿되, 오전 PMI 결과를 기준으로 판단한 후 제한 비중으로 신중 진입—장중 금리 악재 시 빠른 손절로 대응하는 <strong>유연성</strong> 이 필요합니다. 다음 주 월요일 개장을 앞두고 이 주 마지막 거래일이 어느 강도의 외국인 매수를 이어갈지가 핵심입니다.</p>
-
-<p>오늘 시장 흐름에서 주목하신 신호가 있으면 댓글로 나눠주세요. 🗨️</p>
-
-<p>#종가베팅 #미국시장 #반도체 #바이오 #외국인순매수 #YELLOW등급 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[간밤 미국장은 다우존스 −1.32%, S&amp;P500 −0.87%, 나스닥 −1.00% 로 3대 지수가 동반 하락했습니다. 하지만 국내 시장에서는 외국인이 21,629억원 을 순매수했고, 반도체·바이오 테마는 저녁 고점에서 강한 저항력을 보였습니다. 🌙]]></summary></entry></feed>
+<p>#종가베팅 #복기일지 #20260820 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-08-21 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
