@@ -1,4 +1,235 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-24T20:10:22+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">한미약품, 상한가 마감 — 내일 mRNA 테마 주도주로 시초가 쏠림 관찰</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/24/nt2-1505-snapshot/" rel="alternate" type="text/html" title="한미약품, 상한가 마감 — 내일 mRNA 테마 주도주로 시초가 쏠림 관찰" /><published>2026-08-24T15:05:00+09:00</published><updated>2026-08-24T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/24/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/24/nt2-1505-snapshot/"><![CDATA[<p>삼성전자의 급락으로 코스피는 3% 이상 내렸지만, 코스닥은 강하게 버티며 장세가 나뉘는 혼조 구간입니다. 이런 와중에 한미약품이 오늘 따뜻한 관심 속에서 상한가까지 치솟았네요.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-24T21:05:56+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">삼성전자 급락 속 바이오 상한가 — 오늘 종가베팅 선별 종목과 흐름</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/24/daily/" rel="alternate" type="text/html" title="삼성전자 급락 속 바이오 상한가 — 오늘 종가베팅 선별 종목과 흐름" /><published>2026-08-24T21:00:00+09:00</published><updated>2026-08-24T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/24/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/24/daily/"><![CDATA[<p>삼성전자와 SK하이닉스의 <strong>150조 규모 주주환원</strong> 발표에도 불구하고 코스피는 <strong>3.12% 급락</strong>했습니다. 반도체 지수는 약세를 이어갔지만, 바이오와 2차전지 자금이 몰려 코스닥은 오히려 <strong>1.42% 상승</strong>하는 혼조 장세였습니다. 📉</p>
+
+<h2 id="미국-야간--환율">미국 야간 &amp; 환율</h2>
+
+<p>미국 3대 지수는 일제 반등했습니다. 다우 <strong>+0.98%</strong>, S&amp;P500 <strong>+0.43%</strong>, 나스닥 <strong>+0.44%</strong> 기록했지만, 반도체 지수는 <strong>−0.51%</strong> 약세를 보였습니다. 외국인 순매도 <strong>9,241억원</strong>이 계속되고 있으며, 내일 저녁 미국 소비자신뢰지수와 신규 주택판매라는 HIGH 이벤트 2건을 앞두어 상승세가 제한적인 상황입니다.</p>
+
+<h2 id="코스피--코스닥-종가">코스피 · 코스닥 종가</h2>
+
+<p>코스피는 지난주 고점 <strong>6,977.94</strong>에서 <strong>280포인트</strong> 하락한 <strong>6,696.96</strong>으로 마감했습니다. 최근 3거래일 연속 하락하며 조정 모드에 진입한 모습입니다. 반면 코스닥은 지난주 저점 <strong>801.94</strong>에서 반등해 <strong>813.33</strong>으로 <strong>1.42% 상승</strong>했습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>지수</th>
+      <th>종가</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>코스피</td>
+      <td>6,696.96</td>
+      <td>−3.12%</td>
+    </tr>
+    <tr>
+      <td>코스닥</td>
+      <td>813.33</td>
+      <td>+1.42%</td>
+    </tr>
+    <tr>
+      <td>USD/KRW</td>
+      <td>1,384.9</td>
+      <td>(원화 강세)</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="거래대금-상위-종목">거래대금 상위 종목</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>순위</th>
+      <th>종목</th>
+      <th>거래대금</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>삼성전자</td>
+      <td><strong>12.2조원</strong></td>
+      <td>−8.35%</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>SK하이닉스</td>
+      <td>10.0조원</td>
+      <td>−2.60%</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>삼성전자우</td>
+      <td>1.2조원</td>
+      <td>−8.31%</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>삼성전기</td>
+      <td>1.1조원</td>
+      <td>+0.38%</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>SK스퀘어</td>
+      <td>6,781억원</td>
+      <td>−4.19%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>대형주 중심의 거래대금 집중이 이어졌습니다. 삼성전자와 SK하이닉스가 거래대금의 절대 다수를 차지했습니다.</p>
+
+<h2 id="오늘의-주도-테마">오늘의 주도 테마</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>테마명</th>
+      <th>상승/전체</th>
+      <th>투자 특징</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>mRNA(메신저 리보핵산)</td>
+      <td>12/14</td>
+      <td>한미약품 상한가 터치로 바이오 인기 증가</td>
+    </tr>
+    <tr>
+      <td>리튬</td>
+      <td>19/22</td>
+      <td>2차전지 자금 몰림의 수혜</td>
+    </tr>
+    <tr>
+      <td>2차전지(생산)</td>
+      <td>3/3</td>
+      <td>전량 상승하며 테마 강세</td>
+    </tr>
+    <tr>
+      <td>2차전지(나트륨이온)</td>
+      <td>7/9</td>
+      <td>차세대 배터리 관심 증가</td>
+    </tr>
+    <tr>
+      <td>귀금속(금/은)</td>
+      <td>4/4</td>
+      <td>미금리 불확실성 속 안전자산 인기</td>
+    </tr>
+    <tr>
+      <td>바이오시밀러</td>
+      <td>19/21</td>
+      <td>복제 의약품 수익성 재평가</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="오늘의-종가-선별-결과">오늘의 종가 선별 결과</h2>
+
+<p>AI가 오늘 종가에 선별한 종목은 <strong>한미약품 1건</strong>입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목명</th>
+      <th>점수</th>
+      <th>선별 근거</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>한미약품</td>
+      <td><strong>43점</strong></td>
+      <td><strong>3조 5천억 규모 비만 신약 기술수출</strong>이 확인되며 상한가까지 오른 바이오 주도주</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>한미약품은 <strong>29.96% 상승</strong>하며 상한가에 도달했습니다. RSI <strong>75.8</strong>로 과열 구간이나, 극대적 재료(기술수출)로 모멘텀 지속 가능성이 있습니다. 거래대금 <strong>5,642억원</strong>, 시총 <strong>6.9조원</strong> 규모입니다.</p>
+
+<h2 id="선별-복기--2단계-검증">선별 복기 — 2단계 검증</h2>
+
+<h3 id="-어제-선별의-오늘-아침-실현-갭">① 어제 선별의 오늘 아침 실현 갭</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>실현갭</th>
+      <th>고점(진입가 대비)</th>
+      <th>저점(진입가 대비)</th>
+      <th>관측시간</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>HMM</td>
+      <td><strong>+3.06%</strong> ✅</td>
+      <td>+3.29%</td>
+      <td>−1.31%</td>
+      <td>08:00~09:04</td>
+    </tr>
+    <tr>
+      <td>대원전선</td>
+      <td><strong>−15.61%</strong></td>
+      <td>−14.98%</td>
+      <td>−18.89%</td>
+      <td>08:00~09:59</td>
+    </tr>
+    <tr>
+      <td>삼성전자</td>
+      <td><strong>−5.19%</strong></td>
+      <td>+0.72%</td>
+      <td>−6.35%</td>
+      <td>08:00~09:59</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>어제 선별의 실현 성과는 혼조였습니다. HMM은 <strong>+3.06% 수익</strong>으로 마감했으나, 대원전선(−15.61%)과 삼성전자(−5.19%)는 모두 손실로 마감했습니다.</p>
+
+<h3 id="-오늘-선별의-애프터마켓-잠정-흐름">② 오늘 선별의 애프터마켓 잠정 흐름</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>진입가 대비 갭</th>
+      <th>장중 저점</th>
+      <th>관측시간</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>한미약품</td>
+      <td><strong>0% (종가 도달)</strong></td>
+      <td>−0.56%</td>
+      <td>15:40~19:59</td>
+    </tr>
+    <tr>
+      <td>대원전선</td>
+      <td>−8.74%</td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>한미약품은 종가에 도달 후 애프터마켓 내내 상한가를 유지했습니다. 대원전선은 당일 비체결 상태입니다(아침 청산 미실현).</p>
+
+<h2 id="오늘-하루-정리">오늘 하루 정리</h2>
+
+<p>오늘 코스피는 대형주 약세로 <strong>3.12% 하락</strong>했지만, 바이오·2차전지 테마에 자금이 몰려 코스닥은 오히려 <strong>1.42% 상승</strong>하는 <strong>양극 장세</strong>였습니다. 미국 지수 반등에도 외국인 이탈이 계속되며 <strong>DECOUPLED 상태</strong>입니다. 한미약품의 기술수출 재료가 투자자들의 기대감을 높인 가운데, 내일 미국 경제지표가 변수가 될 전망입니다.</p>
+
+<h2 id="내일을-향해">내일을 향해</h2>
+
+<p>종가베팅은 오늘 <strong>한미약품</strong>을 선별했으며, 상한가 도달 이후 시장 반응을 지켜보는 국면입니다. 혼조 장세의 영향으로 <strong>경계 구간</strong>을 유지하고 있습니다. 다양한 시황 변화를 놓치지 않도록 댓글과 이웃 추가로 함께해주세요! 💬</p>
+
+<hr />
+
+<p>#한미약품 #mRNA #바이오 #상한가 #갭상승 #종가베팅 #코스피 #2차전지 #리튬 #혼조장세 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[삼성전자와 SK하이닉스의 150조 규모 주주환원 발표에도 불구하고 코스피는 3.12% 급락했습니다. 반도체 지수는 약세를 이어갔지만, 바이오와 2차전지 자금이 몰려 코스닥은 오히려 1.42% 상승하는 혼조 장세였습니다. 📉]]></summary></entry><entry><title type="html">한미약품, 상한가 마감 — 내일 mRNA 테마 주도주로 시초가 쏠림 관찰</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/24/nt2-1505-snapshot/" rel="alternate" type="text/html" title="한미약품, 상한가 마감 — 내일 mRNA 테마 주도주로 시초가 쏠림 관찰" /><published>2026-08-24T15:05:00+09:00</published><updated>2026-08-24T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/24/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/24/nt2-1505-snapshot/"><![CDATA[<p>삼성전자의 급락으로 코스피는 3% 이상 내렸지만, 코스닥은 강하게 버티며 장세가 나뉘는 혼조 구간입니다. 이런 와중에 한미약품이 오늘 따뜻한 관심 속에서 상한가까지 치솟았네요.</p>
 
 <h2 id="-오늘의-시장-흐름">📈 오늘의 시장 흐름</h2>
 
@@ -1770,456 +2001,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <p>오늘 시장 흐름에서 주목하신 신호가 있으면 댓글로 나눠주세요. 🗨️</p>
 
-<p>#종가베팅 #미국시장 #반도체 #바이오 #외국인순매수 #YELLOW등급 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[간밤 미국장은 다우존스 −1.32%, S&amp;P500 −0.87%, 나스닥 −1.00% 로 3대 지수가 동반 하락했습니다. 하지만 국내 시장에서는 외국인이 21,629억원 을 순매수했고, 반도체·바이오 테마는 저녁 고점에서 강한 저항력을 보였습니다. 🌙]]></summary></entry><entry><title type="html">코스피 5.89% 급반등 — 반도체 자사주 재료로 외국인도 순매수</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/20/daily/" rel="alternate" type="text/html" title="코스피 5.89% 급반등 — 반도체 자사주 재료로 외국인도 순매수" /><published>2026-08-20T21:00:00+09:00</published><updated>2026-08-20T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/20/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/20/daily/"><![CDATA[<h2 id="도입-오늘-시장을-한-줄로">도입: 오늘 시장을 한 줄로</h2>
-
-<p>어제 5.8% 폭락으로 시장이 흔들렸지만, 오늘은 강한 되돌림이 나왔습니다. 코스피가 <strong>+5.89%</strong>(6,852포인트)로 올랐고, 특히 반도체 대형주가 이를 이끌었습니다. 📈 <strong>SK하이닉스가 13.33% 폭등</strong>하며 시장 전체의 분위기를 바꿨죠. 이런 날은 투자자도 함께 움직이고, 외국인도 <strong>대규모로 순매수</strong>에 나섰습니다.</p>
-
-<hr />
-
-<h2 id="미국-야간-기술주-약세-속-채권-강세">미국 야간: 기술주 약세 속 채권 강세</h2>
-
-<p>미국 시장은 소폭 반등으로 마감했습니다. 다우존스 <strong>+0.22%</strong>, S&amp;P500 <strong>+0.21%</strong>, 나스닥 <strong>+0.16%</strong> — 방향은 위지만 약세입니다. 특히 <strong>필라델피아 반도체 지수는 -2.12%</strong> 내려앉았는데, 이는 한국 반도체의 강세와 대조됩니다.</p>
-
-<p>한편 미 재무부가 국채 바이백을 2배 이상 확대한다고 발표해 30년물 금리가 급락(10bp)했습니다. 이는 경기 둔화 신호로 읽혀 금 가격은 <strong>4,579달러(+3.6%)</strong>로 폭등했습니다. 지정학적 리스크가 커지면서 안전자산 선호 현상이 뚜렷합니다.</p>
-
-<hr />
-
-<h2 id="코스피코스닥-w자-바닥-확인-기술적-되돌림">코스피·코스닥: W자 바닥 확인, 기술적 되돌림</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>날짜</th>
-      <th style="text-align: center">코스피</th>
-      <th style="text-align: center">코스닥</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>08-13(수)</td>
-      <td style="text-align: center">6,813</td>
-      <td style="text-align: center">861</td>
-    </tr>
-    <tr>
-      <td>08-14(목)</td>
-      <td style="text-align: center"><strong>6,978</strong></td>
-      <td style="text-align: center">865</td>
-    </tr>
-    <tr>
-      <td><strong>08-19(화)</strong></td>
-      <td style="text-align: center"><strong>6,471</strong></td>
-      <td style="text-align: center">824</td>
-    </tr>
-    <tr>
-      <td><strong>08-20(수)</strong></td>
-      <td style="text-align: center"><strong>6,853</strong></td>
-      <td style="text-align: center"><strong>841</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>전일 6,471에서 한 숨에 <strong>382포인트</strong> 상승하며 기술적 되돌림이 명확합니다. 8월 13~14일 고점(6,978) 근처까진 아직 거리가 있지만(125포인트), W자 바닥이 나타났다는 신호입니다. 코스닥도 +1.99%로 반동 상승하며 동반했습니다.</p>
-
-<hr />
-
-<h2 id="거래대금-상위-10개-반도체가-압도">거래대금 상위 10개: 반도체가 압도</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align: center">순위</th>
-      <th>종목명</th>
-      <th style="text-align: center">거래대금</th>
-      <th style="text-align: center">등락률</th>
-      <th style="text-align: center">거래량</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: center">1</td>
-      <td>SK하이닉스</td>
-      <td style="text-align: center"><strong>13.1조원</strong></td>
-      <td style="text-align: center">+13.33%</td>
-      <td style="text-align: center">785만 주</td>
-    </tr>
-    <tr>
-      <td style="text-align: center">2</td>
-      <td>삼성전자</td>
-      <td style="text-align: center"><strong>9.6조원</strong></td>
-      <td style="text-align: center">+8.69%</td>
-      <td style="text-align: center">3,604만 주</td>
-    </tr>
-    <tr>
-      <td style="text-align: center">3</td>
-      <td>삼성전기</td>
-      <td style="text-align: center">1,761억원</td>
-      <td style="text-align: center">+1.15%</td>
-      <td style="text-align: center">126만 주</td>
-    </tr>
-    <tr>
-      <td style="text-align: center">4</td>
-      <td>SK스퀘어</td>
-      <td style="text-align: center">1,301억원</td>
-      <td style="text-align: center">+11.85%</td>
-      <td style="text-align: center">119만 주</td>
-    </tr>
-    <tr>
-      <td style="text-align: center">5</td>
-      <td>알테오젠</td>
-      <td style="text-align: center">777억원</td>
-      <td style="text-align: center">+11.7%</td>
-      <td style="text-align: center">231만 주</td>
-    </tr>
-    <tr>
-      <td style="text-align: center">6</td>
-      <td>삼성전자우</td>
-      <td style="text-align: center">630억원</td>
-      <td style="text-align: center">+10.42%</td>
-      <td style="text-align: center">334만 주</td>
-    </tr>
-    <tr>
-      <td style="text-align: center">7</td>
-      <td>SK이터닉스</td>
-      <td style="text-align: center">386억원</td>
-      <td style="text-align: center">-3.63%</td>
-      <td style="text-align: center">652만 주</td>
-    </tr>
-    <tr>
-      <td style="text-align: center">8</td>
-      <td>금호건설</td>
-      <td style="text-align: center">378억원</td>
-      <td style="text-align: center">+24.13%</td>
-      <td style="text-align: center">2,487만 주</td>
-    </tr>
-    <tr>
-      <td style="text-align: center">9</td>
-      <td>한화에어로스페이스</td>
-      <td style="text-align: center">362억원</td>
-      <td style="text-align: center">-0.51%</td>
-      <td style="text-align: center">30만 주</td>
-    </tr>
-    <tr>
-      <td style="text-align: center">10</td>
-      <td>NAVER</td>
-      <td style="text-align: center">349억원</td>
-      <td style="text-align: center">+5.77%</td>
-      <td style="text-align: center">159만 주</td>
-    </tr>
-  </tbody>
-</table>
-
-<p><strong>SK하이닉스 한 종목이 무려 13.1조 거래대금</strong>을 집중시켰습니다. 이는 평소 5배 이상의 수준입니다. 삼성전자(9.6조), 삼성전기, SK스퀘어 등 반도체 계열이 TOP 4를 차지하며 “반도체의 날”을 실감할 수 있습니다. 🔌</p>
-
-<hr />
-
-<h2 id="테마별-상승전체-종목-모더나귀금속s7-주도">테마별 상승/전체 종목: 모더나·귀금속·S7 주도</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>테마</th>
-      <th style="text-align: center">상승 종목</th>
-      <th style="text-align: center">전체 종목</th>
-      <th style="text-align: center">비율</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>모더나(MODERNA)</td>
-      <td style="text-align: center">6</td>
-      <td style="text-align: center">6</td>
-      <td style="text-align: center">100%</td>
-    </tr>
-    <tr>
-      <td>귀금속(금/은)</td>
-      <td style="text-align: center">4</td>
-      <td style="text-align: center">4</td>
-      <td style="text-align: center">100%</td>
-    </tr>
-    <tr>
-      <td><strong>S7(삼성전자/SK하이닉스)</strong></td>
-      <td style="text-align: center"><strong>7</strong></td>
-      <td style="text-align: center"><strong>7</strong></td>
-      <td style="text-align: center"><strong>100%</strong></td>
-    </tr>
-    <tr>
-      <td>반도체 대표주(생산)</td>
-      <td style="text-align: center">3</td>
-      <td style="text-align: center">3</td>
-      <td style="text-align: center">100%</td>
-    </tr>
-    <tr>
-      <td>mRNA(메신저 리보핵산)</td>
-      <td style="text-align: center">11</td>
-      <td style="text-align: center">13</td>
-      <td style="text-align: center">84.6%</td>
-    </tr>
-    <tr>
-      <td>스테이블코인</td>
-      <td style="text-align: center">23</td>
-      <td style="text-align: center">25</td>
-      <td style="text-align: center">92%</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>생명공학(모더나·mRNA)이 긍정적 신호를 받았고, 금·은은 안전자산 선호로 전종목 상승했습니다. 하지만 <strong>시장을 완전히 지배한 건 S7(반도체 대장주)</strong> — 상승률도 높고 거래대금도 압도적입니다.</p>
-
-<hr />
-
-<h2 id="종가-선별-sk하이닉스naver-2개-종목-확정">종가 선별: SK하이닉스·NAVER 2개 종목 확정</h2>
-
-<p><strong>오늘 AI 선별 등급</strong>: YELLOW(신중 진입, 70% 이하) — 외국인 대규모 이탈·내일 제조업 PMI 고위험 이벤트 등을 고려한 방어 기조입니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목명</th>
-      <th style="text-align: center">점수</th>
-      <th>선별 이유</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>SK하이닉스</strong></td>
-      <td style="text-align: center">40점</td>
-      <td>성과급 60% 자사주 지급·40조 소각이 확실한 재료. 오후 외국인·기관 동시 매수로 거래대금 3배 폭증. 내일 아침 못 산 투자자 추격 기대</td>
-    </tr>
-    <tr>
-      <td><strong>NAVER</strong></td>
-      <td style="text-align: center">37점</td>
-      <td>가상자산 사업 확대 기대로 매수 호가 두터워짐. 외국인 29만 주, 기관 10만 주 매수로 수급 강세 지속. 종가까지 거래대금 유지로 갭상승 여력</td>
-    </tr>
-  </tbody>
-</table>
-
-<h3 id="분석-데이터">분석 데이터</h3>
-
-<p><strong>SK하이닉스 (000660)</strong></p>
-
-<table>
-  <thead>
-    <tr>
-      <th>항목</th>
-      <th style="text-align: center">수치</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>종가 / 등락률</td>
-      <td style="text-align: center">170만원 / <strong>+13.33%</strong></td>
-    </tr>
-    <tr>
-      <td>거래대금 / 시총</td>
-      <td style="text-align: center">13.1조원 / 1,242조원</td>
-    </tr>
-    <tr>
-      <td>주도 테마 / 순위</td>
-      <td style="text-align: center">S7 / <strong>1위</strong></td>
-    </tr>
-    <tr>
-      <td>RSI / RVOL / 이평수렴</td>
-      <td style="text-align: center">49.5 / 0.80배 / +0.29%</td>
-    </tr>
-    <tr>
-      <td>52주 신고가 / OBV</td>
-      <td style="text-align: center">X / 중립</td>
-    </tr>
-    <tr>
-      <td>외인 순매수 / 기관 순매수</td>
-      <td style="text-align: center"><strong>+5만 주</strong> / <strong>+13만 주</strong></td>
-    </tr>
-    <tr>
-      <td>호가신호</td>
-      <td style="text-align: center">약세(매수벽 약함)</td>
-    </tr>
-    <tr>
-      <td>PER / PBR / 매출YoY</td>
-      <td style="text-align: center">미표시 / 미표시 / <strong>+278.6%</strong></td>
-    </tr>
-    <tr>
-      <td>최근분기</td>
-      <td style="text-align: center">2026Q2: 매출 84.2조 / 영업이익 76억</td>
-    </tr>
-    <tr>
-      <td><strong>AI 종합 점수</strong></td>
-      <td style="text-align: center"><strong>40점</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p><strong>NAVER (035420)</strong></p>
-
-<table>
-  <thead>
-    <tr>
-      <th>항목</th>
-      <th style="text-align: center">수치</th>
-      <th> </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>종가 / 등락률</td>
-      <td style="text-align: center">22만원 / <strong>+5.77%</strong></td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>거래대금 / 시총</td>
-      <td style="text-align: center">3,490억원 / 34.5조원</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>주도 테마 / 순위</td>
-      <td style="text-align: center">스테이블코인 / <strong>1위</strong></td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>RSI / RVOL / 이평수렴</td>
-      <td style="text-align: center">53.8 / 0.56배 / +0.02%</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>52주 신고가 / OBV</td>
-      <td style="text-align: center">X / 중립</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>외인 순매수 / 기관 순매수</td>
-      <td style="text-align: center"><strong>+29만 주</strong></td>
-      <td><strong>+10만 주</strong></td>
-    </tr>
-    <tr>
-      <td>호가신호</td>
-      <td style="text-align: center">약세(매수벽 약함)</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>PER / PBR / 매출YoY</td>
-      <td style="text-align: center">미표시 / 미표시 / <strong>+15.5%</strong></td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>최근분기</td>
-      <td style="text-align: center">2026Q2: 매출 3.4조 / 영업이익 16억</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td><strong>AI 종합 점수</strong></td>
-      <td style="text-align: center"><strong>37점</strong></td>
-      <td> </td>
-    </tr>
-  </tbody>
-</table>
-
-<hr />
-
-<h2 id="선별-복기-어제는-손실-오늘은-잠정-수익">선별 복기: 어제는 손실, 오늘은 잠정 수익</h2>
-
-<h3 id="-어제-선별의-오늘-아침-실현-갭-종가베팅-실제-청산">① 어제 선별의 오늘 아침 <strong>실현</strong> 갭 (종가베팅 실제 청산)</h3>
-
-<p>어제의 선별 3개 종목은 오늘 아침 청산 시점에 모두 손실을 기록했습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목명</th>
-      <th style="text-align: center">실현 갭</th>
-      <th style="text-align: center">세션내 최고</th>
-      <th style="text-align: center">세션내 최저</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>대원전선</td>
-      <td style="text-align: center"><strong>-10.06%</strong></td>
-      <td style="text-align: center">-9.43%</td>
-      <td style="text-align: center">-11.89%</td>
-    </tr>
-    <tr>
-      <td>HMM</td>
-      <td style="text-align: center"><strong>-2.00%</strong></td>
-      <td style="text-align: center"><strong>+0.76%</strong></td>
-      <td style="text-align: center">-2.23%</td>
-    </tr>
-    <tr>
-      <td>아난티</td>
-      <td style="text-align: center"><strong>-0.95%</strong></td>
-      <td style="text-align: center"><strong>+3.04%</strong></td>
-      <td style="text-align: center">-3.23%</td>
-    </tr>
-  </tbody>
-</table>
-
-<p><strong>대원전선은 10% 넘게 내려앉으며</strong> 가장 큰 손실을 기록했습니다. HMM은 아침 중반엔 <strong>+0.76%</strong>까지 회복했지만, 결국 <strong>-2.00%</strong>로 청산됐습니다. 아난티는 일중 <strong>+3% 반등</strong>을 보였으나 <strong>-0.95%</strong> 손실로 마감했습니다. 어제는 결과적으로 선별이 틀렸던 날이었습니다.</p>
-
-<h3 id="-오늘-선별의-애프터마켓-잠정-흐름-실현은-내일-아침">② 오늘 선별의 애프터마켓 <strong>잠정</strong> 흐름 (실현은 내일 아침)</h3>
-
-<p>오늘 선별의 결과는 아직 확정이 아닙니다. 내일 아침 청산까지가 진짜이며, 아래는 오늘 15:40~19:59 저녁 흐름만 보입니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목명</th>
-      <th style="text-align: center">잠정 갭</th>
-      <th style="text-align: center">세션내 최고</th>
-      <th style="text-align: center">세션내 최저</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>SK하이닉스</strong></td>
-      <td style="text-align: center"><strong>+0.65%</strong></td>
-      <td style="text-align: center">+0.65%</td>
-      <td style="text-align: center"><strong>-1.53%</strong></td>
-    </tr>
-    <tr>
-      <td><strong>NAVER</strong></td>
-      <td style="text-align: center"><strong>+1.36%</strong></td>
-      <td style="text-align: center">+1.36%</td>
-      <td style="text-align: center"><strong>-0.45%</strong></td>
-    </tr>
-    <tr>
-      <td>대원전선</td>
-      <td style="text-align: center"><strong>-8.36%</strong></td>
-      <td style="text-align: center">—</td>
-      <td style="text-align: center">—</td>
-    </tr>
-    <tr>
-      <td>HMM</td>
-      <td style="text-align: center"><strong>-2.00%</strong></td>
-      <td style="text-align: center"><strong>-2.00%</strong></td>
-      <td style="text-align: center"><strong>-2.69%</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p><strong>SK하이닉스와 NAVER는 저녁 내내 플러스를 유지</strong>했습니다. 종가를 넘긴 후에도 순가격 상승 모멘텀이 있다는 뜻입니다. 다만 <strong>SK하이닉스는 저녁 중 -1.53%까지 내려갔으니</strong> 변동성이 있습니다.</p>
-
-<p>흥미로운 점은 <strong>어제 선별에 있던 대원전선과 HMM이 오늘도 다시 선별된 케이스</strong>입니다. 어제 손실을 봤지만 오늘도 AI의 신호가 반복됐습니다 — 이는 <strong>“단기 손실 후 다음날 재계산”</strong> 패턴으로 볼 수 있습니다.</p>
-
-<hr />
-
-<h2 id="보유-종목">보유 종목</h2>
-
-<p>시스템 추천 이력이 있는 보유 종목이 없습니다. 오늘 오후 선별 2개(SK하이닉스·NAVER)는 순수 신규 추천이고, 기존 보유 포지션은 처리된 상태입니다. 📊</p>
-
-<hr />
-
-<h2 id="오늘을-정리하며">오늘을 정리하며</h2>
-
-<p><strong>강한 반등장 속에 반도체가 완전히 지배했던 하루입니다.</strong> SK하이닉스의 40조 자사주 소각이 시발점이었고, 외국인도 5만 주 순매수하며 뒷받침했습니다. 코스피가 W자 바닥을 확인하면서 기술적 되돌림도 자연스러웠습니다.</p>
-
-<p>다만 <strong>베팅등급 YELLOW는 경고 신호</strong>입니다. 어제 선별이 실패했고, 내일은 미국 제조업 PMI(고위험 이벤트)가 발표됩니다. 외국인도 어제 <strong>-3.78조 대규모 이탈</strong>했던 점도 감안해야 합니다. 오늘의 2개 선별이 내일 아침 청산에서 수익으로 이어질지는 아직 미지수입니다.</p>
-
-<hr />
-
-<h2 id="내일을-준비하며">내일을 준비하며</h2>
-
-<p><strong>내일 시작은 신중해야 합니다.</strong> 미국 제조업 PMI가 예상을 벗어나면 금리 시나리오가 한번에 바뀔 수 있습니다. 반도체 강세가 지속될지, 아니면 조정이 올지도 주목해야 합니다.</p>
-
-<p>오늘의 선별이 맞다면 SK하이닉스와 NAVER는 내일 아침 갭상승으로 이어질 것입니다. 반대로 틀렸다면 어제처럼 손실 국면이 올 수 있습니다. <strong>결과는 내일 08:00 마감고(또는 NXT 저가)에 나옵니다.</strong></p>
-
-<p>종가베팅의 가장 큰 매력은 <strong>하루의 끝과 다음 날의 시작이 이웃해 있다</strong>는 것입니다. 오늘의 기록이 내일 아침의 판단이 되고, 그것이 다시 내일 저녁의 선택지가 됩니다. 궁금한 점이나 의견이 있다면 댓글로 남겨주세요! 📝</p>
-
-<p>#NextTheme #종가베팅 #SK하이닉스 #반도체선별 #NAVER #종가베팅분석</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[도입: 오늘 시장을 한 줄로]]></summary></entry></feed>
+<p>#종가베팅 #미국시장 #반도체 #바이오 #외국인순매수 #YELLOW등급 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[간밤 미국장은 다우존스 −1.32%, S&amp;P500 −0.87%, 나스닥 −1.00% 로 3대 지수가 동반 하락했습니다. 하지만 국내 시장에서는 외국인이 21,629억원 을 순매수했고, 반도체·바이오 테마는 저녁 고점에서 강한 저항력을 보였습니다. 🌙]]></summary></entry></feed>
