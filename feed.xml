@@ -1,4 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-25T21:05:31+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">원전 테마가 이끈 하루 — 코스피 반등 속 어제 선별은 손실</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/25/daily/" rel="alternate" type="text/html" title="원전 테마가 이끈 하루 — 코스피 반등 속 어제 선별은 손실" /><published>2026-08-25T21:00:00+09:00</published><updated>2026-08-25T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/25/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/25/daily/"><![CDATA[<p>원전 테마가 움직이는 하루였습니다. 어제 낙폭을 거의 다 되돌렸고, 미국 약세에도 국내 섹터별로 갈림이 명확했어요.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-26T06:10:09+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">미국 3대 지수 상승에도 외국인 순매도 지속 — 오늘 시초가 갭 향방은</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/26/0600-briefing/" rel="alternate" type="text/html" title="미국 3대 지수 상승에도 외국인 순매도 지속 — 오늘 시초가 갭 향방은" /><published>2026-08-26T06:00:00+09:00</published><updated>2026-08-26T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/26/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/26/0600-briefing/"><![CDATA[<p>아침 06시 신호입니다. 간밤 미국 3대 지수가 일제히 올랐습니다(다우 <strong>+0.30%</strong> / 나스닥 <strong>+0.66%</strong> / 반도체 <strong>+1.44%</strong>). 훈풍이 불고 있지만 외국인은 어제도 <strong>3.9조원</strong>을 순매도했습니다. 이 훈풍이 오늘 시초가 갭상승으로 이어질지, 장중에 밀릴지가 오늘의 관전 포인트입니다. 📊</p>
+
+<h2 id="-어제-ai가-고른-종목-오늘은-어떻게-될까">📋 어제 AI가 고른 종목, 오늘은 어떻게 될까?</h2>
+
+<p>어제는 <strong>신중 기조</strong>로 이전부터 보유 중이던 종목 1개, 15:10 최종 선별 1종목, 애프터마켓(19:10) 선별 1종목, 장중 탐색 후보 1종목을 점검했습니다.</p>
+
+<h3 id="어제-포지션-현황">어제 포지션 현황</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>슬롯</th>
+      <th>어제 상황</th>
+      <th>저녁 움직임 (종가 대비)</th>
+      <th>오늘</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>대원전선</td>
+      <td>—</td>
+      <td>이전부터 보유 중 (평단 14,114원)</td>
+      <td>—</td>
+      <td>시초가 14,200원 이상이면 외국인 매도 동향 주시 필요</td>
+    </tr>
+    <tr>
+      <td>두산에너빌리티</td>
+      <td>15:10 최종</td>
+      <td>매수 기록 없음</td>
+      <td>최고 <strong>-0.31%</strong>, 최저 <strong>-1.67%</strong> (15:40~19:59)</td>
+      <td>시초가 80,000원 이상인지, 웨스팅하우스 인수설 모멘텀 유지 여부가 관전 포인트</td>
+    </tr>
+    <tr>
+      <td>삼성전기</td>
+      <td>19:10 선별</td>
+      <td>매수 기록 없음</td>
+      <td>최고 <strong>+0.58%</strong>, 최저 <strong>-1.24%</strong> (15:40~19:59)</td>
+      <td>필라델피아 반도체 강세 지속 확인 후 시초가 방향 판단</td>
+    </tr>
+    <tr>
+      <td>현대건설</td>
+      <td>12:10 탐색</td>
+      <td>장중 탐색 후보</td>
+      <td>최고 <strong>+2.10%</strong>, 최저 <strong>+1.26%</strong> (15:40~19:59)</td>
+      <td>시초가 120,000원 기준 관망, 탐색 후보로 장중 강도 재확인</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>⚠️ <strong>대원전선</strong>은 원전 테마 리스크가 커지면서 보유 근거가 약해졌다는 경고가 붙어 있습니다. 외국인 순매도가 가속화되면 저가에서 물타기하는 모양새가 될 수 있다는 우려입니다.</p>
+
+<p>⚠️ <strong>두산에너빌리티</strong>는 외국인 순매도가 계속되면 오전 중 밀릴 수 있다는 경고가 함께 붙었습니다.</p>
+
+<p>⚠️ <strong>현대건설</strong>은 원전 테마 열기가 식으면(거래대금 급감) 하락 전환할 수 있다는 경고가 붙었습니다.</p>
+
+<p><strong>복기 요점</strong>: 실제 매수는 없었습니다 — 대원전선은 이전부터 보유 중이던 종목입니다. AI는 최종·애프터마켓·탐색 세 갈래로 후보를 짚었지만, 외국인 순매도가 이어지는 국면에서는 신중하게 지켜보는 쪽을 택했습니다. 어제 복기에서는 “시초가 갭상승 후 기관 수익실현에 따른 되밀림” 가능성도 함께 짚였는데, 오늘 이 시나리오가 재현되는지도 지켜볼 대목입니다.</p>
+
+<hr />
+
+<h2 id="-간밤-미국장-반도체가-이끈-상승">🌍 간밤 미국장, 반도체가 이끈 상승</h2>
+
+<p>간밤 미국장은 3대 지수가 동반 상승했습니다.</p>
+
+<p><strong>지표별 상황:</strong></p>
+<ul>
+  <li><strong>다우존스</strong>: <strong>+0.30%</strong> — 완만한 상승 유지. 아랫꼬리 비율이 0.66으로 높아 장중 저가 매수세가 유입됐습니다.</li>
+  <li><strong>나스닥 종합</strong>: <strong>+0.66%</strong> — 이번 상승을 주도. 아랫꼬리 비율 0.61로 저가 매수 유입이 확인됩니다.</li>
+  <li><strong>나스닥 100</strong>: <strong>+0.64%</strong> — 고성장주도 동반 강세, 윗꼬리·아랫꼬리 비율이 0.50 안팎으로 균형 잡힌 상승이었습니다.</li>
+  <li><strong>S&amp;P500</strong>: <strong>+0.32%</strong> — 아랫꼬리 비율 0.75로 7개 지표 중 저가 매수세가 가장 강했습니다.</li>
+  <li><strong>필라델피아 반도체</strong>: <strong>+1.44%</strong> 🔴 — 7개 지표 중 가장 강한 상승입니다. 엔비디아 실적 발표(26일 장마감 후)를 앞두고 기대감이 반영된 것으로 보입니다.</li>
+  <li><strong>다우운송</strong>: <strong>+0.11%</strong> — 약한 상승에 그쳤습니다.</li>
+</ul>
+
+<p><strong>VIX 지수</strong>는 <strong>-2.52%</strong>로 내려가며 공포심리가 진정됐습니다. 다만 윗꼬리 비율이 0.73으로 높아, 장중 한때 변동성이 다시 불어나는 순간도 있었습니다.</p>
+
+<hr />
+
+<h2 id="-오늘-베팅-등급은-왜-신중-구간일까">⚡ 오늘 베팅 등급은 왜 신중 구간일까?</h2>
+
+<p><strong>등급: 신중 구간</strong>
+<strong>감정도: 52점</strong> (중립에 가까운 수준)</p>
+
+<h3 id="전략">전략</h3>
+<p>미국 3대 지수가 소폭 오르며(+0.30~+0.66%) 우호적인 분위기지만, 외국인은 어제도 <strong>3.9조원</strong>을 순매도했습니다. 이 괴리가 오늘 전략의 핵심 변수입니다.</p>
+
+<ol>
+  <li><strong>시초가 갭상승 확인 시</strong> — 원전·건설 테마 강세가 이어지는지, 외국인 매수 전환이 함께 오는지 초반 거래량으로 확인</li>
+  <li><strong>외국인 매도가 이어지면</strong> — 갭상승 후 장중에 밀릴 가능성이 높다고 보고 신규 진입에 신중을 기함</li>
+</ol>
+
+<hr />
+
+<h2 id="-오늘-주목해야-할-변수는-무엇일까">📍 오늘 주목해야 할 변수는 무엇일까?</h2>
+
+<p><strong>긍정 요인:</strong></p>
+<ul>
+  <li>미국 국채금리 하락(4.62%)과 유가 급락(배럴당 -3.9달러 → 81.1달러)으로 인플레이션 부담 완화</li>
+  <li>엔비디아 실적 발표 임박(26일 장마감 후)으로 반도체 심리 개선</li>
+  <li>원전·건설 대장주 강세 지속 (원자력발전 +6.0%, 건설 +5.89%)</li>
+  <li>큰 투자기관(기관)은 오히려 순매수 지속 (+1.3조원)</li>
+</ul>
+
+<p><strong>위험 요인:</strong></p>
+<ul>
+  <li>외국인 순매도 가속(-3.9조원) — 기관·외국인 수급 양극단 지속</li>
+  <li>미국 3지수 상승에도 외국인 매수 전환 신호는 아직 없음</li>
+  <li>원전 테마 과열 이후 되밀림 가능성 (어제 복기에서 이미 경고)</li>
+</ul>
+
+<hr />
+
+<h2 id="마무리--갭상승-얼마나-이어질까">마무리 — 갭상승, 얼마나 이어질까?</h2>
+
+<p>미국 증시는 웃었지만, 외국인은 여전히 등을 돌리고 있습니다. 🎯 오늘 시초가가 갭상승으로 출발하더라도, 외국인 수급이 따라와 주는지가 장중 방향을 가를 것으로 보입니다. 개인적으로 오늘 흐름에서 주목한 것은, 원전·건설 테마의 열기가 기관 순매수만으로 버티고 있다는 점입니다 — 외국인이 합류하지 않는 상승은 오전 중 밀릴 여지를 항상 남겨둡니다.</p>
+
+<p>원전·건설 테마의 열기가 식지 않았는지, 초반 거래량으로 확인하는 하루가 될 것 같습니다. 데이터를 기반으로 한 신중한 접근, 오늘도 이어갑니다.</p>
+
+<p>궁금한 종목이나 의견 있으시면 댓글로 남겨주세요!</p>
+
+<p>#종가베팅 #NextTheme #미국증시 #반도체 #원전 #건설 #외국인순매도 #두산에너빌리티 #대원전선</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[아침 06시 신호입니다. 간밤 미국 3대 지수가 일제히 올랐습니다(다우 +0.30% / 나스닥 +0.66% / 반도체 +1.44%). 훈풍이 불고 있지만 외국인은 어제도 3.9조원을 순매도했습니다. 이 훈풍이 오늘 시초가 갭상승으로 이어질지, 장중에 밀릴지가 오늘의 관전 포인트입니다. 📊]]></summary></entry><entry><title type="html">원전 테마가 이끈 하루 — 코스피 반등 속 어제 선별은 손실</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/25/daily/" rel="alternate" type="text/html" title="원전 테마가 이끈 하루 — 코스피 반등 속 어제 선별은 손실" /><published>2026-08-25T21:00:00+09:00</published><updated>2026-08-25T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/25/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/25/daily/"><![CDATA[<p>원전 테마가 움직이는 하루였습니다. 어제 낙폭을 거의 다 되돌렸고, 미국 약세에도 국내 섹터별로 갈림이 명확했어요.</p>
 
 <h2 id="미국은-혼조-반도체-약세">미국은 혼조, 반도체 약세</h2>
 
@@ -1881,116 +2001,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <p><strong>댓글로 의견을 나눠주세요! 종가베팅 관련 질문이나 공감도 환영합니다.</strong> ☕</p>
 
-<p>#NextTheme #종가베팅 #반도체 #삼성전자 #SK하이닉스 #반도체대형주</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[☀️ 새로운 주의 시작입니다. 지난 주말 미국 증시는 3대 지수가 일제 반등하면서 기술 회복의 신호를 보냈습니다. 다만 국내는 외국인이 9,241억 원을 팔아내는 DECOUPLED 국면이 펼쳐졌고, 삼성·하이닉스 주도 반도체 대형주 테마의 150조 주주환원 발표가 시장의 양극화를 드러냅니다.]]></summary></entry><entry><title type="html">이번 주 반도체는 왜 올랐는데 코스닥은 급락했을까 — 다음주 엔비디아 실적 대기</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/23/weekly/" rel="alternate" type="text/html" title="이번 주 반도체는 왜 올랐는데 코스닥은 급락했을까 — 다음주 엔비디아 실적 대기" /><published>2026-08-23T06:00:00+09:00</published><updated>2026-08-23T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/23/weekly</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/23/weekly/"><![CDATA[<p>이번 주는 ‘반도체 주주환원 vs 기술주 압박’의 분수령이었습니다. 코스피는 -0.93%에 그쳤지만, 코스닥이 -7.25%로 급락하면서 시장의 중심이 대형주 방어에 집중된 한 주였어요. 투자자 입장에서는 주도주의 강함도 제한적이었던 만큼, 다음 주의 전환점을 찾는 심정이 많을 것 같습니다.</p>
-
-<h2 id="미국-장기금리와-원화-강세-두-개의-압박">미국 장기금리와 원화 강세, 두 개의 압박</h2>
-
-<p>미국 30년물 국채금리가 19년 만에 <strong>5.32%</strong>라는 최고치를 기록하면서 기술주 전반이 압박받은 주였습니다. 이에 대응하듯 삼성전자와 SK하이닉스가 <strong>110조원·40조원의 주주환원</strong>을 발표했고, 덕분에 반도체 섹터 거래대금은 <strong>7,228억원→1조 8,371억원</strong>으로 폭발했어요.</p>
-
-<p>그럼에도 코스피는 <strong>6,977.94→6,912.95</strong>(-0.93%)로 미미한 하락에 그쳤고, 코스닥은 <strong>864.65→801.94</strong>(-7.25%)로 중소형주의 고통이 그대로 드러났습니다. 흥미로운 점은 외국인이 주간 <strong>7,240억원</strong>을 순매수했다는 것 — 기관의 <strong>6조 567억원</strong> 순매도에도 불구하고, 개인 투자자의 <strong>3조 2,203억원</strong> 순매수가 중요한 지지 역할을 했습니다.</p>
-
-<p>환율 측면에서는 원화가 <strong>1,413→1,385원</strong>으로 <strong>1.98% 강세</strong>를 기록했는데, 이는 수출주의 환차익 축소라는 우려로 이어졌습니다.</p>
-
-<h2 id="테마의-양극화--반도체-대장주-집중-vs-중소형-분산">테마의 양극화 — 반도체 대장주 집중 vs 중소형 분산</h2>
-
-<p>목요일(<strong>+5.89%</strong>)의 반등 이후 금요일 코스닥이 <strong>-4.63%</strong> 재급락하면서 중소형주의 변동성이 극심했습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>테마</th>
-      <th>상황</th>
-      <th>주요 특징</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>반도체 대장주(삼성전자·SK하이닉스)</strong></td>
-      <td>주주환원 150조 모멘텀</td>
-      <td>거래대금 2.5배 증가, AI 선별 5건 중 2건 집중</td>
-    </tr>
-    <tr>
-      <td><strong>가상자산</strong></td>
-      <td>비트코인 7만달러 돌파</td>
-      <td>미국 클래리티법 압박, 규제 완화 기대 유지</td>
-    </tr>
-    <tr>
-      <td><strong>AI 데이터센터</strong></td>
-      <td>앤트로픽 IPO 경쟁</td>
-      <td>삼성SDI·LG 인프라 수요 확대 기대</td>
-    </tr>
-    <tr>
-      <td><strong>해운</strong></td>
-      <td>중동 긴장·고유가</td>
-      <td>단발 선별 1건</td>
-    </tr>
-    <tr>
-      <td><strong>남북경협</strong></td>
-      <td>연내회담 언급 → 차익실현</td>
-      <td>단발 선별, 실제 회담 일정 구체화 필요</td>
-    </tr>
-    <tr>
-      <td><strong>백화점</strong></td>
-      <td>20년 만 호황에도 고점 대비 40% 급락</td>
-      <td>원화 강세로 외국인 관광객 소비 둔화 우려</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>주간 AI 선별 4건은 평균 갭 <strong>-1.52%</strong>, 승률 <strong>0%</strong>로 고변동 레짐에서 선별의 실효성이 제한적이었음을 보여줍니다. 이는 시장이 ‘확신의 방향’을 찾지 못한 채 진동한 한 주라는 의미이기도 합니다.</p>
-
-<h2 id="다음주-세-가지-주목할-이벤트">다음주 세 가지 주목할 이벤트</h2>
-
-<p><strong>27일 엔비디아 실적 발표</strong>가 반도체·AI 섹터의 분수령이 될 것 같습니다. 호조 시 반도체 대장주의 주주환원 모멘텀과 결합해 외국인의 재유입이 가능하나, 실망 시 필라델피아 반도체 지수(<strong>-4.98%</strong>)의 재현 위험이 있습니다.</p>
-
-<p>한국 금리 결정(27일 10시)은 동결이 예상되지만, <strong>총재의 기자회견</strong>에서 9월 인하 여지가 언급되는지가 금융주·부동산 방향을 결정할 핵심입니다.</p>
-
-<p>미국 근원 PCE(26일 21:30 예상 <strong>3.3%</strong>)가 예상치를 상회하면 장기금리가 재상승해 기술주의 추가 조정으로 이어질 수 있습니다.</p>
-
-<h2 id="주목-섹터-vs-리스크-신호">주목 섹터 vs 리스크 신호</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>구분</th>
-      <th>내용</th>
-      <th>유효조건</th>
-      <th>무효화 신호</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>반도체 대장주(삼성전자·SK하이닉스)</strong></td>
-      <td>주주환원 150조 + 엔비디아 실적 이중 촉매</td>
-      <td>엔비디아 가이던스 상향</td>
-      <td>필라델피아 반도체 -5% 이상 급락</td>
-    </tr>
-    <tr>
-      <td><strong>가상자산</strong></td>
-      <td>비트코인 7만달러 + 미 클래리티법 압박</td>
-      <td>법안 9월 본회의 통과</td>
-      <td>SEC 규제 강화 발언</td>
-    </tr>
-    <tr>
-      <td><strong>AI 데이터센터</strong></td>
-      <td>앤트로픽 IPO + 반도체 수출 +178.8%</td>
-      <td>삼성SDI·LG 수주 공시</td>
-      <td>엔비디아 실적 실망</td>
-    </tr>
-  </tbody>
-</table>
-
-<p><strong>조심할 리스크 3가지</strong></p>
-<ul>
-  <li><strong>미국 장기금리 재상승</strong>: 30년물이 5.32%를 경신한 후, 근원 PCE가 예상치를 상회하면 기술주·성장주 전반이 추가 압박받을 수 있습니다.</li>
-  <li><strong>엔캐리 청산 재발</strong>: 엔화 강세와 금리차 축소 우려가 재부각되면 8월 초 급락(<strong>-5.80%</strong>)의 재현 위험이 있습니다.</li>
-  <li><strong>코스닥 연속 급락</strong>: 주간 -7.25%, 금요일 -4.63%의 하락이 계속되면 중소형주의 연쇄 조정이 심화될 수 있습니다.</li>
-</ul>
-
-<h2 id="다음-주를-대비하는-투자자라면">다음 주를 대비하는 투자자라면?</h2>
-
-<p>이번 주는 <strong>대형주의 버팀목</strong>이 있었음에도 시장이 흔들렸던 만큼, 다음 주는 <strong>엔비디아 실적</strong>과 <strong>미국 경제지표</strong>가 진짜 방향키가 될 것 같습니다. 기술주의 바닥 신호를 찾는 투자자라면 26일 근원 PCE부터 차례대로 확인해보세요.</p>
-
-<p>혹시 주도섹터 변화나 환율 영향에 대해 궁금한 점이 있으신가요? 댓글로 나눠주세요!</p>
-
-<p>#반도체주가 #코스닥급락 #엔비디아실적 #주주환원주 #기술주전망 #다음주금리결정 #주식분석 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="weekly" /><summary type="html"><![CDATA[이번 주는 ‘반도체 주주환원 vs 기술주 압박’의 분수령이었습니다. 코스피는 -0.93%에 그쳤지만, 코스닥이 -7.25%로 급락하면서 시장의 중심이 대형주 방어에 집중된 한 주였어요. 투자자 입장에서는 주도주의 강함도 제한적이었던 만큼, 다음 주의 전환점을 찾는 심정이 많을 것 같습니다.]]></summary></entry></feed>
+<p>#NextTheme #종가베팅 #반도체 #삼성전자 #SK하이닉스 #반도체대형주</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[☀️ 새로운 주의 시작입니다. 지난 주말 미국 증시는 3대 지수가 일제 반등하면서 기술 회복의 신호를 보냈습니다. 다만 국내는 외국인이 9,241억 원을 팔아내는 DECOUPLED 국면이 펼쳐졌고, 삼성·하이닉스 주도 반도체 대형주 테마의 150조 주주환원 발표가 시장의 양극화를 드러냅니다.]]></summary></entry></feed>
