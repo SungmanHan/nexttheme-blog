@@ -1,25 +1,25 @@
 {
-  "lastTradingDay" : "2026-08-24",
-  "totalDays" : 74,
+  "lastTradingDay" : "2026-08-25",
+  "totalDays" : 75,
   "summary" : {
-    "tradingDays" : 74,
+    "tradingDays" : 75,
     "sectorCount" : 16,
-    "upDays" : 66,
-    "avgChangeRate" : 5.35,
+    "upDays" : 67,
+    "avgChangeRate" : 5.39,
     "topSector" : "반도체·AI인프라",
     "topSectorDays" : 20
   },
   "now" : {
-    "date" : "2026-08-24",
-    "bettingGrade" : "RED",
-    "regimeTag" : "RED_DIVERGENCE",
+    "date" : "2026-08-25",
+    "bettingGrade" : "YELLOW",
+    "regimeTag" : "YELLOW",
     "themeRegime" : "THEME_LED",
     "marketSignal" : "혼조",
-    "kospi" : -3.12,
-    "kosdaq" : 1.42,
-    "leadTheme" : "mRNA(메신저 리보핵산)",
-    "leadChangeRate" : 7.31,
-    "themePremium" : 10.43
+    "kospi" : 0.68,
+    "kosdaq" : 1.7,
+    "leadTheme" : "원자력발전소 해체",
+    "leadChangeRate" : 8.55,
+    "themePremium" : 7.87
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
@@ -59,8 +59,8 @@
     "top3Days" : 10
   }, {
     "sector" : "매크로·기타",
-    "rank1Days" : 6,
-    "top3Days" : 7
+    "rank1Days" : 7,
+    "top3Days" : 8
   }, {
     "sector" : "로봇·AI소프트웨어",
     "rank1Days" : 3,
@@ -1337,6 +1337,24 @@
         "theme" : "2차전지(생산)",
         "changeRate" : 5.85
       } ]
-    }, null, null, null, null ] ]
+    }, {
+      "day" : 25,
+      "date" : "2026-08-25",
+      "theme" : "원자력발전소 해체",
+      "sector" : "매크로·기타",
+      "changeRate" : 8.55,
+      "prevDay" : "NEW",
+      "regime" : "THEME_LED",
+      "slot" : "15:00",
+      "kospi" : 0.68,
+      "themePremium" : 7.87,
+      "runners" : [ {
+        "theme" : "CXL(컴퓨트익스프레스링크)",
+        "changeRate" : 7.0
+      }, {
+        "theme" : "원자력발전",
+        "changeRate" : 5.73
+      } ]
+    }, null, null, null ] ]
   } ]
 }
