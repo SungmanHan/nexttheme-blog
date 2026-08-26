@@ -1,25 +1,25 @@
 {
-  "lastTradingDay" : "2026-08-25",
-  "totalDays" : 75,
+  "lastTradingDay" : "2026-08-26",
+  "totalDays" : 76,
   "summary" : {
-    "tradingDays" : 75,
+    "tradingDays" : 76,
     "sectorCount" : 16,
-    "upDays" : 67,
-    "avgChangeRate" : 5.39,
+    "upDays" : 68,
+    "avgChangeRate" : 5.4,
     "topSector" : "반도체·AI인프라",
     "topSectorDays" : 20
   },
   "now" : {
-    "date" : "2026-08-25",
+    "date" : "2026-08-26",
     "bettingGrade" : "YELLOW",
     "regimeTag" : "YELLOW",
     "themeRegime" : "THEME_LED",
     "marketSignal" : "혼조",
-    "kospi" : 0.68,
-    "kosdaq" : 1.7,
-    "leadTheme" : "원자력발전소 해체",
-    "leadChangeRate" : 8.55,
-    "themePremium" : 7.87
+    "kospi" : 0.97,
+    "kosdaq" : -0.03,
+    "leadTheme" : "건설 대표주",
+    "leadChangeRate" : 6.31,
+    "themePremium" : 5.34
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
@@ -38,16 +38,16 @@
     "rank1Days" : 5,
     "top3Days" : 16
   }, {
+    "sector" : "건설·기계",
+    "rank1Days" : 3,
+    "top3Days" : 13
+  }, {
     "sector" : "전력·전선·신재생",
     "rank1Days" : 4,
     "top3Days" : 12
   }, {
     "sector" : "금융",
     "rank1Days" : 3,
-    "top3Days" : 12
-  }, {
-    "sector" : "건설·기계",
-    "rank1Days" : 2,
     "top3Days" : 12
   }, {
     "sector" : "정유·화학·원자재",
@@ -60,7 +60,7 @@
   }, {
     "sector" : "매크로·기타",
     "rank1Days" : 7,
-    "top3Days" : 8
+    "top3Days" : 9
   }, {
     "sector" : "로봇·AI소프트웨어",
     "rank1Days" : 3,
@@ -1355,6 +1355,24 @@
         "theme" : "원자력발전",
         "changeRate" : 5.73
       } ]
-    }, null, null, null ] ]
+    }, {
+      "day" : 26,
+      "date" : "2026-08-26",
+      "theme" : "건설 대표주",
+      "sector" : "건설·기계",
+      "changeRate" : 6.31,
+      "prevDay" : "CARRY",
+      "regime" : "THEME_LED",
+      "slot" : "15:00",
+      "kospi" : 0.97,
+      "themePremium" : 5.34,
+      "runners" : [ {
+        "theme" : "테마파크",
+        "changeRate" : 7.55
+      }, {
+        "theme" : "원자력발전",
+        "changeRate" : 4.48
+      } ]
+    }, null, null ] ]
   } ]
 }
