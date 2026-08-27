@@ -1,25 +1,25 @@
 {
-  "lastTradingDay" : "2026-08-26",
-  "totalDays" : 76,
+  "lastTradingDay" : "2026-08-27",
+  "totalDays" : 77,
   "summary" : {
-    "tradingDays" : 76,
+    "tradingDays" : 77,
     "sectorCount" : 16,
-    "upDays" : 68,
-    "avgChangeRate" : 5.4,
+    "upDays" : 69,
+    "avgChangeRate" : 5.44,
     "topSector" : "반도체·AI인프라",
     "topSectorDays" : 20
   },
   "now" : {
-    "date" : "2026-08-26",
+    "date" : "2026-08-27",
     "bettingGrade" : "YELLOW",
     "regimeTag" : "YELLOW",
     "themeRegime" : "THEME_LED",
-    "marketSignal" : "혼조",
-    "kospi" : 0.97,
-    "kosdaq" : -0.03,
-    "leadTheme" : "건설 대표주",
-    "leadChangeRate" : 6.31,
-    "themePremium" : 5.34
+    "marketSignal" : "강세",
+    "kospi" : 1.53,
+    "kosdaq" : 1.3,
+    "leadTheme" : "전선",
+    "leadChangeRate" : 8.31,
+    "themePremium" : 6.78
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
@@ -28,7 +28,7 @@
   }, {
     "sector" : "자동차·2차전지",
     "rank1Days" : 11,
-    "top3Days" : 21
+    "top3Days" : 22
   }, {
     "sector" : "전자부품·기판",
     "rank1Days" : 5,
@@ -38,13 +38,13 @@
     "rank1Days" : 5,
     "top3Days" : 16
   }, {
+    "sector" : "전력·전선·신재생",
+    "rank1Days" : 5,
+    "top3Days" : 13
+  }, {
     "sector" : "건설·기계",
     "rank1Days" : 3,
     "top3Days" : 13
-  }, {
-    "sector" : "전력·전선·신재생",
-    "rank1Days" : 4,
-    "top3Days" : 12
   }, {
     "sector" : "금융",
     "rank1Days" : 3,
@@ -1373,6 +1373,24 @@
         "theme" : "원자력발전",
         "changeRate" : 4.48
       } ]
-    }, null, null ] ]
+    }, {
+      "day" : 27,
+      "date" : "2026-08-27",
+      "theme" : "전선",
+      "sector" : "전력·전선·신재생",
+      "changeRate" : 8.31,
+      "prevDay" : "NEW",
+      "regime" : "THEME_LED",
+      "slot" : "15:00",
+      "kospi" : 1.53,
+      "themePremium" : 6.78,
+      "runners" : [ {
+        "theme" : "2차전지(나트륨이온)",
+        "changeRate" : 5.08
+      }, {
+        "theme" : "2차전지(생산)",
+        "changeRate" : 5.55
+      } ]
+    }, null ] ]
   } ]
 }
