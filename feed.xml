@@ -1,4 +1,123 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-27T21:08:43+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">정책 신호에 외국인 몰려든 하루 — 종가베팅 선별과 어제 매매 결과</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/27/daily/" rel="alternate" type="text/html" title="정책 신호에 외국인 몰려든 하루 — 종가베팅 선별과 어제 매매 결과" /><published>2026-08-27T21:00:00+09:00</published><updated>2026-08-27T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/27/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/27/daily/"><![CDATA[<h2 id="어제-판단은-실제로-어땠나">어제 판단은 실제로 어땠나</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-28T06:07:39+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">어제 선별 2개 보유 중, 반도체·전선 강세 속 외국인 수급이 관건</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/28/0600-briefing/" rel="alternate" type="text/html" title="어제 선별 2개 보유 중, 반도체·전선 강세 속 외국인 수급이 관건" /><published>2026-08-28T06:00:00+09:00</published><updated>2026-08-28T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/28/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/28/0600-briefing/"><![CDATA[<p>간밤 미국장 나스닥이 1.57% 올랐어요. 특히 반도체 지수가 2.33% 상승하며 기술주 강세가 이어지고 있습니다. 하지만 국내는 한은 금리인상 소식과 환율 상승 우려가 걸려 있어서 조심스러운 출발이 될 것 같네요. 📈</p>
+
+<h2 id="어제-선별-결과를-돌아보니">어제 선별 결과를 돌아보니</h2>
+
+<p>어제 15:10 최종 선별에서 AI가 고른 5개 종목 중 2개를 실제로 사셨고, 지금도 보유 중입니다. 전체 방향은 “유지”입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>슬롯</th>
+      <th>어제 전략</th>
+      <th>오늘 상황</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>가온전선</td>
+      <td>15:10 최종</td>
+      <td>갭 거래</td>
+      <td>✅ 보유 중 (평단 211,500원 대비 저녁 +1.18% 고가)</td>
+    </tr>
+    <tr>
+      <td>삼성SDI</td>
+      <td>15:10 최종</td>
+      <td>갭 거래</td>
+      <td>✅ 보유 중 (평단 569,000원 대비 저녁 거의 평탄)</td>
+    </tr>
+    <tr>
+      <td>LS ELECTRIC</td>
+      <td>15:10 최종</td>
+      <td>갭 거래</td>
+      <td>매수 기록 없음 (어제 진입 실패)</td>
+    </tr>
+    <tr>
+      <td>SK하이닉스</td>
+      <td>12:10 탐색</td>
+      <td>—</td>
+      <td>장중 탐색 후보</td>
+    </tr>
+    <tr>
+      <td>삼성전자</td>
+      <td>10:10 탐색</td>
+      <td>—</td>
+      <td>장중 탐색 후보 (⚠️ 외국인 누적 매도 포지션 주의)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>저녁 흐름을 보면</strong></p>
+
+<p>가온전선이 어제 밤사이 평단 대비 최고 1.18%까지 올랐는데, 이는 전선 섹터 강세(+8.72%)와 외국인·기관 동시 매집이 작용한 것으로 보입니다. 삼성SDI는 저녁 내 보합 흐름을 유지했지만, 나트륨이온 섹터(+5.18%) 주도와 거래대금 1위라는 배경이 있습니다.</p>
+
+<h2 id="간밤-미국-시장은-어땠나요">간밤 미국 시장은 어땠나요?</h2>
+
+<p>나스닥이 강했어요. 지수별로 보면:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>지수</th>
+      <th>등락률</th>
+      <th>평가</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>나스닥 종합</td>
+      <td>+1.57%</td>
+      <td>강한 상승 (장 대부분 강세 지속)</td>
+    </tr>
+    <tr>
+      <td>S&amp;P 500</td>
+      <td>+0.72%</td>
+      <td>긍정적 흐름</td>
+    </tr>
+    <tr>
+      <td>다우존스</td>
+      <td>+0.20%</td>
+      <td>약한 상승 (전환점 신호)</td>
+    </tr>
+    <tr>
+      <td>필라델피아 반도체</td>
+      <td>+2.33%</td>
+      <td>매우 강한 상승</td>
+    </tr>
+    <tr>
+      <td>VIX</td>
+      <td>−4.6%</td>
+      <td>공포지수 하락 (시장 안정)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>엔비디아 호실적과 SK하이닉스의 인디애나 HBM 공장 기공식이 반도체 수요 확대 신호로 해석되고 있습니다. 특히 미국 재생에너지 투자 기대감이 전력설비·에너지 관련주까지 끌어올렸어요.</p>
+
+<h2 id="하지만-위험-신호도-있습니다">하지만 위험 신호도 있습니다</h2>
+
+<p>한국은행이 기준금리를 3%로 올렸어요. 고금리 환경이 심화되면서 금융주·경기민감주에는 부담이 될 수 있습니다. 또 환율이 1,382.5원까지 올라가는 추세도 주의깊게 봐야 합니다. 외국인 투자자들이 야간 강세에도 불구하고 오전 수급에서 갑자기 전환할 가능성이 있거든요.</p>
+
+<h2 id="오늘의-베팅-등급은-신중-구간입니다">오늘의 베팅 등급은 신중 구간입니다</h2>
+
+<p>신중한 구간입니다(감정점수 62점). AI는 이렇게 제시했어요:</p>
+
+<blockquote>
+  <p>미국 3대 지수 상승 + 엔비디아 호실적 + 국내 외국인 순매수 9,908억원 결합 → <strong>시초가 갭 상승 시 추격 가능성 높음</strong>. 다만 환율 상승 추세와 한은 금리인상으로 인한 거시 위험 병존 → <strong>오전 외국인 매수세 전환 여부가 핵심 조건</strong></p>
+</blockquote>
+
+<p><strong>추천 대응</strong></p>
+
+<ul>
+  <li><strong>반도체·전력설비·에너지</strong>: 시초가 강세 시 관심 가능. 다만 오전 10시 수급 확인 후 판단할 것.</li>
+  <li><strong>금융·디렉셀·경기민감주</strong>: 고금리 부담으로 당분간 관망 우선.</li>
+</ul>
+
+<h2 id="다음-주-월요일로의-준비">다음 주 월요일로의 준비</h2>
+
+<p>오늘 어떤 결과를 얻든, 다음 주 월요일은 또 새로운 시작입니다. 오늘 외국인 매수가 지속되는지, 아니면 한은 금리에 밀려나는지가 이번 주의 마지막을 결정할 것 같아요. 의견이나 궁금한 종목이 있으면 댓글로 남겨주세요. 🙏</p>
+
+<p>#NextTheme #종가베팅 #가온전선 #삼성SDI #반도체 #전선 #나스닥 #외국인수급</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[간밤 미국장 나스닥이 1.57% 올랐어요. 특히 반도체 지수가 2.33% 상승하며 기술주 강세가 이어지고 있습니다. 하지만 국내는 한은 금리인상 소식과 환율 상승 우려가 걸려 있어서 조심스러운 출발이 될 것 같네요. 📈]]></summary></entry><entry><title type="html">정책 신호에 외국인 몰려든 하루 — 종가베팅 선별과 어제 매매 결과</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/27/daily/" rel="alternate" type="text/html" title="정책 신호에 외국인 몰려든 하루 — 종가베팅 선별과 어제 매매 결과" /><published>2026-08-27T21:00:00+09:00</published><updated>2026-08-27T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/27/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/27/daily/"><![CDATA[<h2 id="어제-판단은-실제로-어땠나">어제 판단은 실제로 어땠나</h2>
 
 <p>어제 선별의 오늘 아침 실현 갭을 보면, 대원전선이 <strong>+3.51%</strong> 강세로 매물가(최고 +4.36%)를 넘어 좋은 출발을 보였고, 대우건설은 <strong>+6.54%</strong> 급등해 시초 갭이 큰 수익을 안겨줬다. 두산에너빌리티는 <strong>−0.12%</strong> 소폭 조정되면서 약세를 보였으나, 건설과 원전 테마의 상승 흐름 속에서 거래량 폭증이 이어진 하루였다.</p>
 
@@ -2036,98 +2155,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <p>시장은 항상 뭔가를 주지만, 그걸 받을 준비가 되어 있는 사람들에게만 줍니다. 종가베팅도 마찬가지입니다. 내일 시초가 이동을 주시하고, 댓글로 오늘 느낀 점을 나눠주세요!</p>
 
-<p>#원전테마 #코스피 #두산에너빌리티 #종가베팅 #NextTheme #선별복기 #시장정리</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[원전 테마가 움직이는 하루였습니다. 어제 낙폭을 거의 다 되돌렸고, 미국 약세에도 국내 섹터별로 갈림이 명확했어요.]]></summary></entry><entry><title type="html">두산에너빌리티, 원전 인수 소식에 거래대금 1위 오른 이유</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/25/nt2-1505-snapshot/" rel="alternate" type="text/html" title="두산에너빌리티, 원전 인수 소식에 거래대금 1위 오른 이유" /><published>2026-08-25T15:05:00+09:00</published><updated>2026-08-25T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/25/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/25/nt2-1505-snapshot/"><![CDATA[<p>오늘 코스피·코스닥은 소폭 반등했지만, 시장의 관심은 온통 원전과 건설 쪽으로 쏠린 하루였습니다. 반도체는 밤사이 미국 증시 약세 영향으로 부진한 모습을 보였는데, 그 사이 원전 테마 종목 하나가 압도적인 거래대금으로 눈길을 끌었습니다. 오늘은 이 종목 하나에 집중해서 살펴보겠습니다. 📈</p>
-
-<h2 id="오늘-시장-순환매의-하루였습니다">오늘 시장, 순환매의 하루였습니다</h2>
-
-<p>코스피와 코스닥은 오늘 소폭 반등했습니다. 다만 모든 업종이 골고루 오른 건 아니었습니다. 자금이 원전과 건설 쪽으로 몰리는 이른바 ‘순환매’ 장세가 뚜렷했고, 반면 그동안 시장을 이끌던 반도체는 밤사이 미국 증시가 약세를 보인 영향으로 힘을 쓰지 못했습니다. 특정 업종에 매수세가 집중되는 날은 종가베팅 관점에서 눈여겨볼 대목이 많습니다.</p>
-
-<h2 id="오늘의-선별-종목--두산에너빌리티">오늘의 선별 종목 — 두산에너빌리티</h2>
-
-<p>오늘 AI가 선별한 종목은 <strong>두산에너빌리티</strong> 1곳입니다.</p>
-
-<p>미국 웨스팅하우스 원전 인수 소식이 알려지면서, 두산에너빌리티는 원전 테마의 대장주 자리에 올라섰습니다. 큰 투자기관(기관)과 외국인 투자자가 동시에 대규모로 사들였고, 오늘 하루 거래대금이 <strong>7,349억원</strong>을 넘기며 시장의 자금이 이 종목에 집중됐다는 걸 보여줍니다.</p>
-
-<p>주가는 전일 대비 <strong>+10.9%</strong> 오른 <strong>80,950원</strong>에 마감했습니다. 외국인은 오늘 하루 <strong>+35만 주</strong>를, 기관은 <strong>+65만 주</strong>를 순매수했습니다 — 두 주체가 동시에 사들였다는 건 이 종목에 대한 매수 의견이 서로 다른 투자 주체 사이에서도 일치했다는 뜻으로 해석할 수 있습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>구분</th>
-      <th>항목</th>
-      <th>값</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>기본</td>
-      <td>당일 종가 / 등락률</td>
-      <td>80,950원 / +10.9%</td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>거래대금 / 시가총액</td>
-      <td>7,349억원 / 51.9조원</td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>주도 테마 / 테마 내 순위</td>
-      <td>원자력발전소 해체 / 1위</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>RSI / 거래량 강도(RVOL) / 이평수렴</td>
-      <td>55.6 / 2.1배 / +0.1%</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>52주 신고가 여부</td>
-      <td>아님</td>
-    </tr>
-    <tr>
-      <td>수급</td>
-      <td>외국인 순매수 / 기관 순매수</td>
-      <td>+35만 주 / +65만 주</td>
-    </tr>
-    <tr>
-      <td>수급</td>
-      <td>호가신호</td>
-      <td>매수벽 약함</td>
-    </tr>
-    <tr>
-      <td>재무</td>
-      <td>매출 YoY 성장률</td>
-      <td>+12.1%</td>
-    </tr>
-    <tr>
-      <td>재무</td>
-      <td>최근 분기 실적(2026.09.)</td>
-      <td>매출 4.4조원 / 영업이익 5억원</td>
-    </tr>
-    <tr>
-      <td>점수</td>
-      <td>AI 종합 점수</td>
-      <td>47점</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>RSI는 55.6으로 과열도, 침체도 아닌 중간 구간에 있고, 거래량 강도(RVOL)는 평소 대비 <strong>2.1배</strong>로 오늘 확실히 거래가 몰렸다는 걸 숫자로 보여줍니다. 다만 매수 호가 쪽 대기 물량은 강하지 않은 ‘매수벽 약함’ 상태로 나타나, 추가 매수 여력을 단정하기보다는 흐름을 계속 지켜볼 필요가 있는 자리입니다.</p>
-
-<h2 id="왜-이-종목이-선별됐을까">왜 이 종목이 선별됐을까?</h2>
-
-<p>NextTheme 알고리즘이 두산에너빌리티를 오늘의 선별 종목으로 꼽은 핵심 근거는 세 가지로 정리됩니다.</p>
-
-<ol>
-  <li><strong>뚜렷한 재료</strong>: 미국 웨스팅하우스 원전 인수라는 구체적인 호재가 원전 테마 전체를 끌어올렸고, 그 안에서도 두산에너빌리티가 테마 1위 자리를 차지했습니다.</li>
-  <li><strong>수급의 일치</strong>: 외국인과 기관이 같은 날 동시에 순매수에 나섰다는 점은, 서로 다른 투자 주체가 같은 판단을 내렸다는 신호로 볼 수 있습니다.</li>
-  <li><strong>압도적인 거래대금</strong>: 7천억원이 넘는 거래대금은 오늘 시장 전체에서도 손에 꼽히는 수준으로, 그만큼 많은 투자자의 관심이 집중됐다는 뜻입니다.</li>
-</ol>
-
-<p>제가 오늘 이 흐름에서 눈여겨본 건, 반도체가 부진한 날에도 원전이라는 명확한 재료를 가진 종목에는 자금이 여전히 몰렸다는 점입니다. 시장 전체가 흔들릴 때일수록, 확실한 재료를 가진 종목으로 자금이 쏠리는 경향이 있다는 걸 다시 한번 확인한 하루였습니다.</p>
-
-<h2 id="마치며">마치며</h2>
-
-<p>오늘은 원전 테마 하나에 시장의 관심이 집중된 하루였습니다. 두산에너빌리티의 사례처럼, 명확한 재료와 수급이 함께 확인되는 종목을 찾는 것이 종가베팅의 핵심입니다. 내일 시장이 어떻게 움직일지, 이 흐름이 이어질지 계속 지켜보겠습니다. 궁금한 종목이 있다면 댓글로 남겨주세요! 😊</p>
-
-<p>#두산에너빌리티 #원전테마 #웨스팅하우스 #종가베팅 #수급분석 #NextTheme #거래대금상위</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[오늘 코스피·코스닥은 소폭 반등했지만, 시장의 관심은 온통 원전과 건설 쪽으로 쏠린 하루였습니다. 반도체는 밤사이 미국 증시 약세 영향으로 부진한 모습을 보였는데, 그 사이 원전 테마 종목 하나가 압도적인 거래대금으로 눈길을 끌었습니다. 오늘은 이 종목 하나에 집중해서 살펴보겠습니다. 📈]]></summary></entry></feed>
+<p>#원전테마 #코스피 #두산에너빌리티 #종가베팅 #NextTheme #선별복기 #시장정리</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[원전 테마가 움직이는 하루였습니다. 어제 낙폭을 거의 다 되돌렸고, 미국 약세에도 국내 섹터별로 갈림이 명확했어요.]]></summary></entry></feed>
