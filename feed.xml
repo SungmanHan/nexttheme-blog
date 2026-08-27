@@ -1,4 +1,186 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-27T20:08:23+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">가온전선 27% 급등, 전선·2차전지 테마에 외국인·기관 자금이 몰린 이유</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/27/nt2-1505-snapshot/" rel="alternate" type="text/html" title="가온전선 27% 급등, 전선·2차전지 테마에 외국인·기관 자금이 몰린 이유" /><published>2026-08-27T15:05:00+09:00</published><updated>2026-08-27T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/27/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/27/nt2-1505-snapshot/"><![CDATA[<p>오늘 국내 증시는 전선·2차전지·전력 테마가 나란히 강세를 보인 하루였습니다. 📈 정부의 재생에너지 확대 정책과 미국의 전력장비 수입 규제, 엔비디아 실적 호재까지 겹치면서, 외국인과 큰 투자기관(기관)의 자금이 관련 종목으로 동시에 몰려드는 모습이 확인됐습니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-27T21:08:43+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">정책 신호에 외국인 몰려든 하루 — 종가베팅 선별과 어제 매매 결과</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/27/daily/" rel="alternate" type="text/html" title="정책 신호에 외국인 몰려든 하루 — 종가베팅 선별과 어제 매매 결과" /><published>2026-08-27T21:00:00+09:00</published><updated>2026-08-27T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/27/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/27/daily/"><![CDATA[<h2 id="어제-판단은-실제로-어땠나">어제 판단은 실제로 어땠나</h2>
+
+<p>어제 선별의 오늘 아침 실현 갭을 보면, 대원전선이 <strong>+3.51%</strong> 강세로 매물가(최고 +4.36%)를 넘어 좋은 출발을 보였고, 대우건설은 <strong>+6.54%</strong> 급등해 시초 갭이 큰 수익을 안겨줬다. 두산에너빌리티는 <strong>−0.12%</strong> 소폭 조정되면서 약세를 보였으나, 건설과 원전 테마의 상승 흐름 속에서 거래량 폭증이 이어진 하루였다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>실현 갭 %</th>
+      <th>세션내 최고 %</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>대원전선</td>
+      <td>+3.51%</td>
+      <td>+4.36%</td>
+    </tr>
+    <tr>
+      <td>대우건설</td>
+      <td>+6.54%</td>
+      <td>+14.14%</td>
+    </tr>
+    <tr>
+      <td>두산에너빌리티</td>
+      <td>−0.12%</td>
+      <td>+2.22%</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="오늘-시장은-어땠나">오늘 시장은 어땠나</h2>
+
+<p>코스피는 <strong>6,912.37</strong>로 <strong>+1.53%</strong> 상승해 마감했고, 코스닥도 <strong>837.65</strong>로 <strong>+1.30%</strong> 올랐다. 미국은 다우 −0.21%, S&amp;P500 −0.02%, 나스닥 −0.08%로 혼조 마감했지만, 반도체 지수는 <strong>+0.20%</strong> 선방했다. 한은 금리 결정이 예정된 가운데, 중동 재건 수요와 AI 전력 인프라 확충 기대가 장을 주도했다.</p>
+
+<p>근 3주 흐름을 보면 8월 초반 <strong>6,259</strong>에서 중반 <strong>6,978</strong> 고점까지 올랐다가, 19일 <strong>6,471</strong>로 조정을 받고 다시 상승세를 회복해 오늘 <strong>6,912</strong>까지 돌아왔다. 중기적으로 상승 모멘텀이 유지되고 있는 국면이다.</p>
+
+<hr />
+
+<h2 id="무엇이-움직였나">무엇이 움직였나</h2>
+
+<p>거래대금 상위 5개 종목은 반도체(SK하이닉스 1위, 삼성전자 2위, 삼성전기 3위) 집중으로, 한전 자회사 2차전지 업체들이 외국인·기관 매수를 받으며 오르는 흐름이었다. 주제별로는 <strong>전선 테마가 8개 중 8개</strong> 전량 상승(1위), <strong>리튬이 17개 중 22개</strong>(2위 나트륨이온 7/9 등), <strong>전력저장장치(ESS) 32개 중 41개</strong>(3위)가 올랐다. 정부의 재생에너지 6배 확대 발표와 트럼프 외국산 전력장비 규제 발표가 즉각 반영된 모습이다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>순위</th>
+      <th>테마</th>
+      <th>상승 종목수 / 전체</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1위</td>
+      <td>전선</td>
+      <td>8/8</td>
+    </tr>
+    <tr>
+      <td>2위</td>
+      <td>2차전지(나트륨이온)</td>
+      <td>7/9</td>
+    </tr>
+    <tr>
+      <td>3위</td>
+      <td>2차전지(생산)</td>
+      <td>3/3</td>
+    </tr>
+    <tr>
+      <td>4위</td>
+      <td>리튬</td>
+      <td>17/22</td>
+    </tr>
+    <tr>
+      <td>5위</td>
+      <td>전력저장장치(ESS)</td>
+      <td>32/41</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="종가-선별-결과">종가 선별 결과</h2>
+
+<p>오늘 최종 선별은 <strong>삼성SDI</strong>, <strong>LS ELECTRIC</strong>, <strong>가온전선</strong> 3개 종목이다.</p>
+
+<h3 id="삼성sdi-568000원-1008">삼성SDI (568,000원, +10.08%)</h3>
+
+<p>외국인 <strong>+24만 주</strong>, 기관 <strong>+16만 주</strong>를 받으며 거래대금 <strong>8,791억원</strong>을 기록했다. RSI <strong>66.9</strong>로 모멘텀이 남아 있고, 매수 호가에 큰손 자금이 두껍게 쌓여 있다. 2차전지 대장주로서 내일 아침 추격 매수가 붙을 가능성이 크다.</p>
+
+<h3 id="ls-electric-218500원-844">LS ELECTRIC (218,500원, +8.44%)</h3>
+
+<p>외국인 <strong>+25만 주</strong>, 기관 <strong>+12만 주</strong>의 동반 순매수를 받았다. 트럼프 행정명령으로 국내 전력기기 수입 규제가 예정되면서 직접 수혜를 받는 기업이다. 거래대금 상위 10위(4,768억원)에 올랐고, 매수 호가의 벽이 약한 편이다.</p>
+
+<h3 id="가온전선-215500원-2736">가온전선 (215,500원, +27.36%)</h3>
+
+<p>오늘 거래대금이 <strong>3,157억원</strong>으로 평소의 2배 이상 폭증했다. 정부 재생에너지 6배 확대 계획 발표 직후 외국인·기관이 함께 사들였고, 기술지표 OBV가 강세(BULLISH_DIV) 신호를 보이고 있다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>종가</th>
+      <th>변화</th>
+      <th>거래대금</th>
+      <th>외국인</th>
+      <th>기관</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>삼성SDI</td>
+      <td>568,000원</td>
+      <td>+10.08%</td>
+      <td>8,791억원</td>
+      <td>+24만주</td>
+      <td>+16만주</td>
+    </tr>
+    <tr>
+      <td>LS ELECTRIC</td>
+      <td>218,500원</td>
+      <td>+8.44%</td>
+      <td>4,768억원</td>
+      <td>+25만주</td>
+      <td>+12만주</td>
+    </tr>
+    <tr>
+      <td>가온전선</td>
+      <td>215,500원</td>
+      <td>+27.36%</td>
+      <td>3,157억원</td>
+      <td>+1만주</td>
+      <td>+1만주</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="보유-종목-현황">보유 종목 현황</h3>
+
+<p>시스템 추천 이력이 있는 보유 종목 2개의 애프터마켓 잠정 흐름을 보면:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>선택 슬롯</th>
+      <th>진입가 대비 최고</th>
+      <th>진입가 대비 최저</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>가온전선</td>
+      <td>탐색(점심), 최종, NXT 저녁</td>
+      <td>+1.18%</td>
+      <td>−1.18%</td>
+    </tr>
+    <tr>
+      <td>삼성SDI</td>
+      <td>탐색(아침), 탐색(점심), 최종, NXT 저녁, 탐색</td>
+      <td>+0.18%</td>
+      <td>−0.53%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>두 종목 모두 장 마감 후에도 진입가 근처에서 횡보하며 변동성이 제한적인 모습이다. 내일 아침 시장 개장 시 방향성을 다시 확인할 필요가 있다.</p>
+
+<hr />
+
+<h2 id="오늘을-어떻게-기록할-것인가">오늘을 어떻게 기록할 것인가</h2>
+
+<p>정부의 재생에너지·AI 데이터센터 정책 발표와 트럼프 행정명령이 즉각 반영되는 정책 주도 장이었다. 전선·2차전지·전력 테마에 외국인과 기관이 동반 유입되면서 강세가 이어졌고, 특히 가온전선처럼 거래량이 폭발하며 패러다임 전환을 보여주는 종목들이 나타났다.</p>
+
+<p>하루를 정리하자면 <strong>정책 신호에 자금이 빠르게 반응하는 장</strong>이었다. 선별된 3개 종목은 모두 대금과 수급 쏠림을 보유하고 있으나, 베팅 등급이 신중 구간인 만큼 내일 시초가 갭 확인 후 추격 여부를 신중히 판단해야 한다. 한은 금리 결정이 남아 있고, 엔비디아 실적 발표를 앞두고 있어 변수가 많은 상황이다.</p>
+
+<p>내일도 시장의 신호를 놓치지 말고 함께 따라가겠습니다. 궁금한 종목이 있거나 오늘 흐름에 대한 의견이 있으시면 댓글로 나눠주세요.</p>
+
+<hr />
+
+<p>#종가베팅 #삼성SDI #LS전기 #가온전선 #전선테마 #2차전지 #NextTheme #재생에너지 #외국인 #기관</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[어제 판단은 실제로 어땠나]]></summary></entry><entry><title type="html">가온전선 27% 급등, 전선·2차전지 테마에 외국인·기관 자금이 몰린 이유</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/27/nt2-1505-snapshot/" rel="alternate" type="text/html" title="가온전선 27% 급등, 전선·2차전지 테마에 외국인·기관 자금이 몰린 이유" /><published>2026-08-27T15:05:00+09:00</published><updated>2026-08-27T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/27/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/27/nt2-1505-snapshot/"><![CDATA[<p>오늘 국내 증시는 전선·2차전지·전력 테마가 나란히 강세를 보인 하루였습니다. 📈 정부의 재생에너지 확대 정책과 미국의 전력장비 수입 규제, 엔비디아 실적 호재까지 겹치면서, 외국인과 큰 투자기관(기관)의 자금이 관련 종목으로 동시에 몰려드는 모습이 확인됐습니다.</p>
 
 <h2 id="오늘-시장-왜-전선2차전지에-돈이-몰렸나">오늘 시장, 왜 전선·2차전지에 돈이 몰렸나</h2>
 
@@ -1948,414 +2130,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <p>오늘은 원전 테마 하나에 시장의 관심이 집중된 하루였습니다. 두산에너빌리티의 사례처럼, 명확한 재료와 수급이 함께 확인되는 종목을 찾는 것이 종가베팅의 핵심입니다. 내일 시장이 어떻게 움직일지, 이 흐름이 이어질지 계속 지켜보겠습니다. 궁금한 종목이 있다면 댓글로 남겨주세요! 😊</p>
 
-<p>#두산에너빌리티 #원전테마 #웨스팅하우스 #종가베팅 #수급분석 #NextTheme #거래대금상위</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[오늘 코스피·코스닥은 소폭 반등했지만, 시장의 관심은 온통 원전과 건설 쪽으로 쏠린 하루였습니다. 반도체는 밤사이 미국 증시 약세 영향으로 부진한 모습을 보였는데, 그 사이 원전 테마 종목 하나가 압도적인 거래대금으로 눈길을 끌었습니다. 오늘은 이 종목 하나에 집중해서 살펴보겠습니다. 📈]]></summary></entry><entry><title type="html">8/24 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/25/review-20260824-review/" rel="alternate" type="text/html" title="8/24 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-08-25T09:00:00+09:00</published><updated>2026-08-25T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/25/review_20260824-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/25/review-20260824-review/"><![CDATA[<blockquote>
-  <p>데이터 기준: 2026-08-25 10:03 키움 ka10001 일괄 조회</p>
-</blockquote>
-
-<h2 id="컨셉">컨셉</h2>
-<p>전일 NT2 15:05 슬롯에서 AI가 최종 선별한 종목과 미선별 종목의 다음날 시초가 갭을 비교하여
-AI 선별 정확도를 복기합니다.</p>
-
-<blockquote>
-  <p><strong>오전고가갭%</strong> = 개장~10:03 장초반 고가 기준 수익률. 시초가 갭(즉시 매도)만으로는
-갭하락 후 장초반 반등으로 매도 가능했던 FOMO 기회를 놓침 — 장초반 매도 기회 상한 지표.</p>
-</blockquote>
-
-<h2 id="-ai-선별-종목-1">① AI 선별 종목 (1)</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>코드</th>
-      <th style="text-align: right">점수</th>
-      <th style="text-align: right">전일종가</th>
-      <th style="text-align: right">시초가</th>
-      <th style="text-align: right">갭%</th>
-      <th style="text-align: right">오전고가</th>
-      <th style="text-align: right">오전고가갭%</th>
-      <th style="text-align: right">현재가</th>
-      <th style="text-align: right">누적갭%</th>
-      <th style="text-align: right">거래량</th>
-      <th style="text-align: right">거래대금(억)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>한미약품</td>
-      <td>128940</td>
-      <td style="text-align: right">43</td>
-      <td style="text-align: right">540,000</td>
-      <td style="text-align: right">550,000</td>
-      <td style="text-align: right">+1.85%</td>
-      <td style="text-align: right">553,000</td>
-      <td style="text-align: right">+2.41%</td>
-      <td style="text-align: right">478,500</td>
-      <td style="text-align: right">-11.39%</td>
-      <td style="text-align: right">309,996</td>
-      <td style="text-align: right">1483.3</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="-ai-평가-미선택-11">② AI 평가 미선택 (11)</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>코드</th>
-      <th style="text-align: right">점수</th>
-      <th style="text-align: right">전일종가</th>
-      <th style="text-align: right">시초가</th>
-      <th style="text-align: right">갭%</th>
-      <th style="text-align: right">오전고가</th>
-      <th style="text-align: right">오전고가갭%</th>
-      <th style="text-align: right">현재가</th>
-      <th style="text-align: right">누적갭%</th>
-      <th style="text-align: right">거래량</th>
-      <th style="text-align: right">거래대금(억)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>삼성SDI</td>
-      <td>006400</td>
-      <td style="text-align: right">43</td>
-      <td style="text-align: right">514,000</td>
-      <td style="text-align: right">503,000</td>
-      <td style="text-align: right">-2.14%</td>
-      <td style="text-align: right">524,000</td>
-      <td style="text-align: right">+1.95%</td>
-      <td style="text-align: right">522,000</td>
-      <td style="text-align: right">+1.56%</td>
-      <td style="text-align: right">164,244</td>
-      <td style="text-align: right">857.4</td>
-    </tr>
-    <tr>
-      <td>한미사이언스</td>
-      <td>008930</td>
-      <td style="text-align: right">40</td>
-      <td style="text-align: right">56,500</td>
-      <td style="text-align: right">52,500</td>
-      <td style="text-align: right">-7.08%</td>
-      <td style="text-align: right">52,500</td>
-      <td style="text-align: right">-7.08%</td>
-      <td style="text-align: right">45,400</td>
-      <td style="text-align: right">-19.65%</td>
-      <td style="text-align: right">725,275</td>
-      <td style="text-align: right">329.3</td>
-    </tr>
-    <tr>
-      <td>아이티센글로벌</td>
-      <td>124500</td>
-      <td style="text-align: right">37</td>
-      <td style="text-align: right">37,850</td>
-      <td style="text-align: right">39,250</td>
-      <td style="text-align: right">+3.70%</td>
-      <td style="text-align: right">42,000</td>
-      <td style="text-align: right">+10.96%</td>
-      <td style="text-align: right">38,950</td>
-      <td style="text-align: right">+2.91%</td>
-      <td style="text-align: right">1,248,550</td>
-      <td style="text-align: right">486.3</td>
-    </tr>
-    <tr>
-      <td>고려아연</td>
-      <td>010130</td>
-      <td style="text-align: right">35</td>
-      <td style="text-align: right">1,344,000</td>
-      <td style="text-align: right">1,330,000</td>
-      <td style="text-align: right">-1.04%</td>
-      <td style="text-align: right">1,414,000</td>
-      <td style="text-align: right">+5.21%</td>
-      <td style="text-align: right">1,392,000</td>
-      <td style="text-align: right">+3.57%</td>
-      <td style="text-align: right">20,108</td>
-      <td style="text-align: right">279.9</td>
-    </tr>
-    <tr>
-      <td>POSCO홀딩스</td>
-      <td>005490</td>
-      <td style="text-align: right">33</td>
-      <td style="text-align: right">327,500</td>
-      <td style="text-align: right">323,000</td>
-      <td style="text-align: right">-1.37%</td>
-      <td style="text-align: right">330,000</td>
-      <td style="text-align: right">+0.76%</td>
-      <td style="text-align: right">329,500</td>
-      <td style="text-align: right">+0.61%</td>
-      <td style="text-align: right">63,843</td>
-      <td style="text-align: right">210.4</td>
-    </tr>
-    <tr>
-      <td>에코프로비엠</td>
-      <td>247540</td>
-      <td style="text-align: right">31</td>
-      <td style="text-align: right">117,000</td>
-      <td style="text-align: right">114,200</td>
-      <td style="text-align: right">-2.39%</td>
-      <td style="text-align: right">116,500</td>
-      <td style="text-align: right">-0.43%</td>
-      <td style="text-align: right">112,500</td>
-      <td style="text-align: right">-3.85%</td>
-      <td style="text-align: right">147,585</td>
-      <td style="text-align: right">166.0</td>
-    </tr>
-    <tr>
-      <td>SK이노베이션</td>
-      <td>096770</td>
-      <td style="text-align: right">30</td>
-      <td style="text-align: right">130,200</td>
-      <td style="text-align: right">129,100</td>
-      <td style="text-align: right">-0.84%</td>
-      <td style="text-align: right">129,200</td>
-      <td style="text-align: right">-0.77%</td>
-      <td style="text-align: right">128,500</td>
-      <td style="text-align: right">-1.31%</td>
-      <td style="text-align: right">124,884</td>
-      <td style="text-align: right">160.5</td>
-    </tr>
-    <tr>
-      <td>LG에너지솔루션</td>
-      <td>373220</td>
-      <td style="text-align: right">28</td>
-      <td style="text-align: right">361,500</td>
-      <td style="text-align: right">360,000</td>
-      <td style="text-align: right">-0.41%</td>
-      <td style="text-align: right">362,000</td>
-      <td style="text-align: right">+0.14%</td>
-      <td style="text-align: right">354,500</td>
-      <td style="text-align: right">-1.94%</td>
-      <td style="text-align: right">59,549</td>
-      <td style="text-align: right">211.1</td>
-    </tr>
-    <tr>
-      <td>포스코퓨처엠</td>
-      <td>003670</td>
-      <td style="text-align: right">28</td>
-      <td style="text-align: right">170,900</td>
-      <td style="text-align: right">168,400</td>
-      <td style="text-align: right">-1.46%</td>
-      <td style="text-align: right">169,900</td>
-      <td style="text-align: right">-0.59%</td>
-      <td style="text-align: right">169,600</td>
-      <td style="text-align: right">-0.76%</td>
-      <td style="text-align: right">97,515</td>
-      <td style="text-align: right">165.4</td>
-    </tr>
-    <tr>
-      <td>에코프로</td>
-      <td>086520</td>
-      <td style="text-align: right">26</td>
-      <td style="text-align: right">87,900</td>
-      <td style="text-align: right">85,500</td>
-      <td style="text-align: right">-2.73%</td>
-      <td style="text-align: right">86,400</td>
-      <td style="text-align: right">-1.71%</td>
-      <td style="text-align: right">85,000</td>
-      <td style="text-align: right">-3.30%</td>
-      <td style="text-align: right">304,261</td>
-      <td style="text-align: right">258.6</td>
-    </tr>
-    <tr>
-      <td>알테오젠</td>
-      <td>196170</td>
-      <td style="text-align: right">18</td>
-      <td style="text-align: right">320,000</td>
-      <td style="text-align: right">310,500</td>
-      <td style="text-align: right">-2.97%</td>
-      <td style="text-align: right">313,500</td>
-      <td style="text-align: right">-2.03%</td>
-      <td style="text-align: right">304,500</td>
-      <td style="text-align: right">-4.84%</td>
-      <td style="text-align: right">90,473</td>
-      <td style="text-align: right">275.5</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="-cap-out-점수-13위-6">③ Cap-out (점수 13위↓) (6)</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>코드</th>
-      <th style="text-align: right">점수</th>
-      <th style="text-align: right">전일종가</th>
-      <th style="text-align: right">시초가</th>
-      <th style="text-align: right">갭%</th>
-      <th style="text-align: right">오전고가</th>
-      <th style="text-align: right">오전고가갭%</th>
-      <th style="text-align: right">현재가</th>
-      <th style="text-align: right">누적갭%</th>
-      <th style="text-align: right">거래량</th>
-      <th style="text-align: right">거래대금(억)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>셀트리온</td>
-      <td>068270</td>
-      <td style="text-align: right">0</td>
-      <td style="text-align: right">194,300</td>
-      <td style="text-align: right">193,600</td>
-      <td style="text-align: right">-0.36%</td>
-      <td style="text-align: right">194,600</td>
-      <td style="text-align: right">+0.15%</td>
-      <td style="text-align: right">192,900</td>
-      <td style="text-align: right">-0.72%</td>
-      <td style="text-align: right">94,559</td>
-      <td style="text-align: right">182.4</td>
-    </tr>
-    <tr>
-      <td>LG화학</td>
-      <td>051910</td>
-      <td style="text-align: right">0</td>
-      <td style="text-align: right">272,000</td>
-      <td style="text-align: right">272,500</td>
-      <td style="text-align: right">+0.18%</td>
-      <td style="text-align: right">272,500</td>
-      <td style="text-align: right">+0.18%</td>
-      <td style="text-align: right">266,500</td>
-      <td style="text-align: right">-2.02%</td>
-      <td style="text-align: right">34,968</td>
-      <td style="text-align: right">93.2</td>
-    </tr>
-    <tr>
-      <td>에스티팜</td>
-      <td>237690</td>
-      <td style="text-align: right">0</td>
-      <td style="text-align: right">111,500</td>
-      <td style="text-align: right">106,000</td>
-      <td style="text-align: right">-4.93%</td>
-      <td style="text-align: right">106,800</td>
-      <td style="text-align: right">-4.22%</td>
-      <td style="text-align: right">105,000</td>
-      <td style="text-align: right">-5.83%</td>
-      <td style="text-align: right">77,706</td>
-      <td style="text-align: right">81.6</td>
-    </tr>
-    <tr>
-      <td>엘컴텍</td>
-      <td>037950</td>
-      <td style="text-align: right">0</td>
-      <td style="text-align: right">2,925</td>
-      <td style="text-align: right">2,980</td>
-      <td style="text-align: right">+1.88%</td>
-      <td style="text-align: right">2,980</td>
-      <td style="text-align: right">+1.88%</td>
-      <td style="text-align: right">2,925</td>
-      <td style="text-align: right">+0.00%</td>
-      <td style="text-align: right">11,862</td>
-      <td style="text-align: right">0.3</td>
-    </tr>
-    <tr>
-      <td>올릭스</td>
-      <td>226950</td>
-      <td style="text-align: right">0</td>
-      <td style="text-align: right">102,900</td>
-      <td style="text-align: right">101,200</td>
-      <td style="text-align: right">-1.65%</td>
-      <td style="text-align: right">102,500</td>
-      <td style="text-align: right">-0.39%</td>
-      <td style="text-align: right">97,600</td>
-      <td style="text-align: right">-5.15%</td>
-      <td style="text-align: right">57,677</td>
-      <td style="text-align: right">56.3</td>
-    </tr>
-    <tr>
-      <td>영풍</td>
-      <td>000670</td>
-      <td style="text-align: right">0</td>
-      <td style="text-align: right">39,300</td>
-      <td style="text-align: right">39,450</td>
-      <td style="text-align: right">+0.38%</td>
-      <td style="text-align: right">40,800</td>
-      <td style="text-align: right">+3.82%</td>
-      <td style="text-align: right">39,950</td>
-      <td style="text-align: right">+1.65%</td>
-      <td style="text-align: right">16,122</td>
-      <td style="text-align: right">6.4</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="-ai-선별-종목-세션-도달-현황">④ AI 선별 종목 세션 도달 현황</h2>
-
-<blockquote>
-  <p>장후 = 15:40~20:00, 익일 = 08:00~10:00. 손절근접 = 두 세션 최저갭 중 최솟값.
-시초가 즉시 매도(갭%)만으로 놓친 장중 최고 도달 수익을 보여줍니다.</p>
-</blockquote>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th style="text-align: right">진입가</th>
-      <th style="text-align: right">장후최고</th>
-      <th style="text-align: right">장후최저</th>
-      <th style="text-align: right">익일최고</th>
-      <th style="text-align: right">익일최저</th>
-      <th style="text-align: right">손절근접</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>한미약품</td>
-      <td style="text-align: right">540,000</td>
-      <td style="text-align: right">+0.00%</td>
-      <td style="text-align: right">-0.56%</td>
-      <td style="text-align: right">+5.00%</td>
-      <td style="text-align: right">-12.31%</td>
-      <td style="text-align: right">-12.31%</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="종합-비교">종합 비교</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>그룹</th>
-      <th style="text-align: right">종목수</th>
-      <th style="text-align: right">평균 시초가 갭</th>
-      <th style="text-align: right">평균 오전고가 갭</th>
-      <th style="text-align: right">평균 누적 갭</th>
-      <th style="text-align: right">평균 거래대금(억)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>AI 선별</td>
-      <td style="text-align: right">1</td>
-      <td style="text-align: right">+1.85%</td>
-      <td style="text-align: right">+2.41%</td>
-      <td style="text-align: right">-11.39%</td>
-      <td style="text-align: right">1,483</td>
-    </tr>
-    <tr>
-      <td>AI 평가 미선택</td>
-      <td style="text-align: right">11</td>
-      <td style="text-align: right">-1.70%</td>
-      <td style="text-align: right">+0.58%</td>
-      <td style="text-align: right">-2.45%</td>
-      <td style="text-align: right">309</td>
-    </tr>
-    <tr>
-      <td>Cap-out (점수 13위↓)</td>
-      <td style="text-align: right">6</td>
-      <td style="text-align: right">-0.75%</td>
-      <td style="text-align: right">+0.24%</td>
-      <td style="text-align: right">-2.01%</td>
-      <td style="text-align: right">70</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="복기-메모">복기 메모</h2>
-<p><em>(수동 작성)</em></p>
-
-<p>#종가베팅 #복기일지 #20260824 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-08-25 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
+<p>#두산에너빌리티 #원전테마 #웨스팅하우스 #종가베팅 #수급분석 #NextTheme #거래대금상위</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[오늘 코스피·코스닥은 소폭 반등했지만, 시장의 관심은 온통 원전과 건설 쪽으로 쏠린 하루였습니다. 반도체는 밤사이 미국 증시 약세 영향으로 부진한 모습을 보였는데, 그 사이 원전 테마 종목 하나가 압도적인 거래대금으로 눈길을 끌었습니다. 오늘은 이 종목 하나에 집중해서 살펴보겠습니다. 📈]]></summary></entry></feed>
