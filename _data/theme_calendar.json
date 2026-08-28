@@ -1,25 +1,25 @@
 {
-  "lastTradingDay" : "2026-08-27",
-  "totalDays" : 77,
+  "lastTradingDay" : "2026-08-28",
+  "totalDays" : 78,
   "summary" : {
-    "tradingDays" : 77,
+    "tradingDays" : 78,
     "sectorCount" : 16,
-    "upDays" : 69,
-    "avgChangeRate" : 5.44,
+    "upDays" : 70,
+    "avgChangeRate" : 5.46,
     "topSector" : "반도체·AI인프라",
     "topSectorDays" : 20
   },
   "now" : {
-    "date" : "2026-08-27",
+    "date" : "2026-08-28",
     "bettingGrade" : "YELLOW",
     "regimeTag" : "YELLOW",
     "themeRegime" : "THEME_LED",
-    "marketSignal" : "강세",
-    "kospi" : 1.53,
-    "kosdaq" : 1.3,
-    "leadTheme" : "전선",
-    "leadChangeRate" : 8.31,
-    "themePremium" : 6.78
+    "marketSignal" : "약세",
+    "kospi" : -1.79,
+    "kosdaq" : 0.09,
+    "leadTheme" : "지역화폐",
+    "leadChangeRate" : 6.82,
+    "themePremium" : 8.61
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
@@ -52,15 +52,15 @@
   }, {
     "sector" : "정유·화학·원자재",
     "rank1Days" : 3,
-    "top3Days" : 11
+    "top3Days" : 12
+  }, {
+    "sector" : "매크로·기타",
+    "rank1Days" : 8,
+    "top3Days" : 10
   }, {
     "sector" : "소비재·유통",
     "rank1Days" : 3,
     "top3Days" : 10
-  }, {
-    "sector" : "매크로·기타",
-    "rank1Days" : 7,
-    "top3Days" : 9
   }, {
     "sector" : "로봇·AI소프트웨어",
     "rank1Days" : 3,
@@ -104,7 +104,8 @@
       }, {
         "theme" : "타이어",
         "changeRate" : 4.47
-      } ]
+      } ],
+      "mainStock" : "삼성E&A, GS건설"
     }, {
       "day" : 8,
       "date" : "2026-05-08",
@@ -120,7 +121,8 @@
       }, {
         "theme" : "화장품",
         "changeRate" : 4.38
-      } ]
+      } ],
+      "mainStock" : "MDS테크, 현대모비스"
     } ], [ {
       "day" : 11,
       "date" : "2026-05-11",
@@ -136,7 +138,8 @@
       }, {
         "theme" : "조선_해양플랜트",
         "changeRate" : 3.13
-      } ]
+      } ],
+      "mainStock" : "SK하이닉스, DB하이텍"
     }, {
       "day" : 12,
       "date" : "2026-05-12",
@@ -152,7 +155,8 @@
       }, {
         "theme" : "로봇_지능형",
         "changeRate" : 0.48
-      } ]
+      } ],
+      "mainStock" : "에이프로젠바이오로직스, 한미약품"
     }, {
       "day" : 13,
       "date" : "2026-05-13",
@@ -168,7 +172,8 @@
       }, {
         "theme" : "PCB(인쇄회로기판)",
         "changeRate" : 1.41
-      } ]
+      } ],
+      "mainStock" : "현대모비스, 현대차"
     }, {
       "day" : 14,
       "date" : "2026-05-14",
@@ -184,7 +189,8 @@
       }, {
         "theme" : "태양광_잉곳/웨이퍼/셀/모듈",
         "changeRate" : 7.41
-      } ]
+      } ],
+      "mainStock" : "비에이치, 현우산업"
     }, {
       "day" : 15,
       "date" : "2026-05-15",
@@ -197,7 +203,8 @@
       "runners" : [ {
         "theme" : "로봇_지능형",
         "changeRate" : 0.41
-      } ]
+      } ],
+      "mainStock" : "하나마이크론, SFA반도체"
     } ], [ {
       "day" : 18,
       "date" : "2026-05-18",
@@ -213,7 +220,8 @@
       }, {
         "theme" : "태양광_폴리실리콘",
         "changeRate" : 3.68
-      } ]
+      } ],
+      "mainStock" : "주성엔지니어링, 대주전자재료"
     }, {
       "day" : 19,
       "date" : "2026-05-19",
@@ -229,7 +237,8 @@
       }, {
         "theme" : "라면",
         "changeRate" : 0.5
-      } ]
+      } ],
+      "mainStock" : "iM금융지주, 하나금융지주"
     }, {
       "day" : 20,
       "date" : "2026-05-20",
@@ -242,7 +251,8 @@
       "runners" : [ {
         "theme" : "반도체_전공정장비",
         "changeRate" : 0.11
-      } ]
+      } ],
+      "mainStock" : "성문전자, 삼화콘덴서"
     }, {
       "day" : 21,
       "date" : "2026-05-21",
@@ -258,7 +268,8 @@
       }, {
         "theme" : "조선_해양플랜트",
         "changeRate" : 3.46
-      } ]
+      } ],
+      "mainStock" : "현대모비스, LS ELECTRIC"
     }, {
       "day" : 22,
       "date" : "2026-05-22",
@@ -274,7 +285,8 @@
       }, {
         "theme" : "그린카_하이브리드카/전기차",
         "changeRate" : 2.96
-      } ]
+      } ],
+      "mainStock" : "빛과전자, 쏠리드"
     } ], [ null, {
       "day" : 26,
       "date" : "2026-05-26",
@@ -290,7 +302,8 @@
       }, {
         "theme" : "그린카_하이브리드카/전기차",
         "changeRate" : 2.23
-      } ]
+      } ],
+      "mainStock" : "한화오션, HD한국조선해양"
     }, {
       "day" : 27,
       "date" : "2026-05-27",
@@ -300,7 +313,8 @@
       "slot" : "15:00",
       "kospi" : 2.25,
       "themePremium" : -0.22,
-      "runners" : [ ]
+      "runners" : [ ],
+      "mainStock" : "SK하이닉스, 삼성전자"
     }, {
       "day" : 28,
       "date" : "2026-05-28",
@@ -316,7 +330,8 @@
       }, {
         "theme" : "2차전지_소재(양극화물질등)",
         "changeRate" : 0.31
-      } ]
+      } ],
+      "mainStock" : "삼성SDI, LG화학"
     }, {
       "day" : 29,
       "date" : "2026-05-29",
@@ -333,7 +348,8 @@
       }, {
         "theme" : "건설_해외건설",
         "changeRate" : 1.84
-      } ]
+      } ],
+      "mainStock" : "현대모비스, 한온시스템"
     } ] ]
   }, {
     "ym" : "2026-06",
@@ -354,7 +370,8 @@
       }, {
         "theme" : "SI(시스템통합)",
         "changeRate" : 2.43
-      } ]
+      } ],
+      "mainStock" : "삼성전자, SK하이닉스"
     }, {
       "day" : 2,
       "date" : "2026-06-02",
@@ -371,7 +388,8 @@
       }, {
         "theme" : "게임_모바일",
         "changeRate" : 1.75
-      } ]
+      } ],
+      "mainStock" : "NAVER, 위메이드"
     }, null, {
       "day" : 4,
       "date" : "2026-06-04",
@@ -388,7 +406,8 @@
       }, {
         "theme" : "조선_Eco선",
         "changeRate" : 0.52
-      } ]
+      } ],
+      "mainStock" : "유진테크, 테스"
     }, {
       "day" : 5,
       "date" : "2026-06-05",
@@ -405,7 +424,8 @@
       }, {
         "theme" : "카지노",
         "changeRate" : 1.16
-      } ]
+      } ],
+      "mainStock" : "제주은행, 신한지주"
     } ], [ {
       "day" : 8,
       "date" : "2026-06-08",
@@ -422,7 +442,8 @@
       }, {
         "theme" : "조선_Eco선",
         "changeRate" : -7.27
-      } ]
+      } ],
+      "mainStock" : "기업은행, 제주은행"
     }, {
       "day" : 9,
       "date" : "2026-06-09",
@@ -439,7 +460,8 @@
       }, {
         "theme" : "반도체_전공정장비",
         "changeRate" : 13.05
-      } ]
+      } ],
+      "mainStock" : "SK하이닉스, 삼성전자"
     }, {
       "day" : 10,
       "date" : "2026-06-10",
@@ -456,7 +478,8 @@
       }, {
         "theme" : "반도체_전공정장비",
         "changeRate" : 0.71
-      } ]
+      } ],
+      "mainStock" : "인바디, 테스"
     }, {
       "day" : 11,
       "date" : "2026-06-11",
@@ -473,7 +496,8 @@
       }, {
         "theme" : "반도체_시스템반도체",
         "changeRate" : 4.36
-      } ]
+      } ],
+      "mainStock" : "코리아써키트, 이수페타시스"
     }, {
       "day" : 12,
       "date" : "2026-06-12",
@@ -490,7 +514,8 @@
       }, {
         "theme" : "건설_해외건설",
         "changeRate" : 5.9
-      } ]
+      } ],
+      "mainStock" : "DB하이텍, 삼성전자"
     } ], [ {
       "day" : 15,
       "date" : "2026-06-15",
@@ -507,7 +532,8 @@
       }, {
         "theme" : "건설_해외건설",
         "changeRate" : 2.91
-      } ]
+      } ],
+      "mainStock" : "한온시스템, LS ELECTRIC"
     }, {
       "day" : 16,
       "date" : "2026-06-16",
@@ -524,7 +550,8 @@
       }, {
         "theme" : "방위산업",
         "changeRate" : 5.12
-      } ]
+      } ],
+      "mainStock" : "대우건설, 삼성E&A"
     }, {
       "day" : 17,
       "date" : "2026-06-17",
@@ -541,7 +568,8 @@
       }, {
         "theme" : "반도체_생산",
         "changeRate" : 1.74
-      } ]
+      } ],
+      "mainStock" : "한화엔진, 한화오션"
     }, {
       "day" : 18,
       "date" : "2026-06-18",
@@ -558,7 +586,8 @@
       }, {
         "theme" : "휴대폰_수동부품",
         "changeRate" : 6.99
-      } ]
+      } ],
+      "mainStock" : "SK하이닉스, 삼성전자"
     }, {
       "day" : 19,
       "date" : "2026-06-19",
@@ -575,7 +604,8 @@
       }, {
         "theme" : "조선_해양플랜트",
         "changeRate" : 1.12
-      } ]
+      } ],
+      "mainStock" : "SK하이닉스, DB하이텍"
     } ], [ {
       "day" : 22,
       "date" : "2026-06-22",
@@ -592,7 +622,8 @@
       }, {
         "theme" : "건설_해외건설",
         "changeRate" : 0.92
-      } ]
+      } ],
+      "mainStock" : "DB하이텍, SK하이닉스"
     }, {
       "day" : 23,
       "date" : "2026-06-23",
@@ -609,7 +640,8 @@
       }, {
         "theme" : "온실가스배출저감",
         "changeRate" : -4.01
-      } ]
+      } ],
+      "mainStock" : "아이엠, 캠시스"
     }, {
       "day" : 24,
       "date" : "2026-06-24",
@@ -626,7 +658,8 @@
       }, {
         "theme" : "합성고무",
         "changeRate" : 3.77
-      } ]
+      } ],
+      "mainStock" : "삼성전자, SK하이닉스"
     }, {
       "day" : 25,
       "date" : "2026-06-25",
@@ -643,7 +676,8 @@
       }, {
         "theme" : "조선_해양플랜트기자재",
         "changeRate" : 4.86
-      } ]
+      } ],
+      "mainStock" : "SK하이닉스, 삼성전자"
     }, {
       "day" : 26,
       "date" : "2026-06-26",
@@ -660,7 +694,8 @@
       }, {
         "theme" : "방위산업",
         "changeRate" : -4.31
-      } ]
+      } ],
+      "mainStock" : "테스, 피에스케이홀딩스"
     } ], [ {
       "day" : 29,
       "date" : "2026-06-29",
@@ -677,7 +712,8 @@
       }, {
         "theme" : "스마트 그리드",
         "changeRate" : 5.28
-      } ]
+      } ],
+      "mainStock" : "LG화학, 삼성SDI"
     }, {
       "day" : 30,
       "date" : "2026-06-30",
@@ -694,7 +730,8 @@
       }, {
         "theme" : "PCB(인쇄회로기판)",
         "changeRate" : 2.46
-      } ]
+      } ],
+      "mainStock" : "삼성전자, SK하이닉스"
     }, null, null, null ] ]
   }, {
     "ym" : "2026-07",
@@ -715,7 +752,8 @@
       }, {
         "theme" : "스마트 그리드",
         "changeRate" : 4.46
-      } ]
+      } ],
+      "mainStock" : "이수페타시스, 대덕"
     }, {
       "day" : 2,
       "date" : "2026-07-02",
@@ -732,7 +770,8 @@
       }, {
         "theme" : "조선_해양플랜트",
         "changeRate" : -1.11
-      } ]
+      } ],
+      "mainStock" : "인지컨트롤스, 기아"
     }, {
       "day" : 3,
       "date" : "2026-07-03",
@@ -749,7 +788,8 @@
       }, {
         "theme" : "은행",
         "changeRate" : 3.24
-      } ]
+      } ],
+      "mainStock" : "SK하이닉스, 삼성전자"
     } ], [ {
       "day" : 6,
       "date" : "2026-07-06",
@@ -766,7 +806,8 @@
       }, {
         "theme" : "조선_Eco선",
         "changeRate" : 2.04
-      } ]
+      } ],
+      "mainStock" : "기아, 현대모비스"
     }, {
       "day" : 7,
       "date" : "2026-07-07",
@@ -783,7 +824,8 @@
       }, {
         "theme" : "클라우드 컴퓨팅",
         "changeRate" : 0.5
-      } ]
+      } ],
+      "mainStock" : "SK이노베이션, 삼성SDI"
     }, {
       "day" : 8,
       "date" : "2026-07-08",
@@ -800,7 +842,8 @@
       }, {
         "theme" : "운송_해운",
         "changeRate" : -1.6
-      } ]
+      } ],
+      "mainStock" : "금호전기, 우리이앤엘하루틴"
     }, {
       "day" : 9,
       "date" : "2026-07-09",
@@ -817,7 +860,8 @@
       }, {
         "theme" : "광통신(광케이블/광섬유 등)",
         "changeRate" : 5.52
-      } ]
+      } ],
+      "mainStock" : ""
     }, {
       "day" : 10,
       "date" : "2026-07-10",
@@ -834,7 +878,8 @@
       }, {
         "theme" : "HBM(고대역폭메모리)",
         "changeRate" : 10.78
-      } ]
+      } ],
+      "mainStock" : ""
     } ], [ {
       "day" : 13,
       "date" : "2026-07-13",
@@ -851,7 +896,8 @@
       }, {
         "theme" : "정유",
         "changeRate" : 3.66
-      } ]
+      } ],
+      "mainStock" : ""
     }, {
       "day" : 14,
       "date" : "2026-07-14",
@@ -868,7 +914,8 @@
       }, {
         "theme" : "해운",
         "changeRate" : 5.18
-      } ]
+      } ],
+      "mainStock" : ""
     }, {
       "day" : 15,
       "date" : "2026-07-15",
@@ -885,7 +932,8 @@
       }, {
         "theme" : "HBM(고대역폭메모리)",
         "changeRate" : 9.28
-      } ]
+      } ],
+      "mainStock" : ""
     }, {
       "day" : 16,
       "date" : "2026-07-16",
@@ -902,7 +950,8 @@
       }, {
         "theme" : "패션/의류",
         "changeRate" : 3.81
-      } ]
+      } ],
+      "mainStock" : ""
     }, null ], [ {
       "day" : 20,
       "date" : "2026-07-20",
@@ -919,7 +968,8 @@
       }, {
         "theme" : "콩/대두",
         "changeRate" : 4.85
-      } ]
+      } ],
+      "mainStock" : ""
     }, {
       "day" : 21,
       "date" : "2026-07-21",
@@ -936,7 +986,8 @@
       }, {
         "theme" : "로봇(산업용/협동로봇 등)",
         "changeRate" : 5.68
-      } ]
+      } ],
+      "mainStock" : ""
     }, {
       "day" : 22,
       "date" : "2026-07-22",
@@ -953,7 +1004,8 @@
       }, {
         "theme" : "건설 대표주",
         "changeRate" : 5.54
-      } ]
+      } ],
+      "mainStock" : ""
     }, {
       "day" : 23,
       "date" : "2026-07-23",
@@ -970,7 +1022,8 @@
       }, {
         "theme" : "전력설비",
         "changeRate" : 8.5
-      } ]
+      } ],
+      "mainStock" : ""
     }, {
       "day" : 24,
       "date" : "2026-07-24",
@@ -987,7 +1040,8 @@
       }, {
         "theme" : "윤활유",
         "changeRate" : 0.41
-      } ]
+      } ],
+      "mainStock" : ""
     } ], [ {
       "day" : 27,
       "date" : "2026-07-27",
@@ -1004,7 +1058,8 @@
       }, {
         "theme" : "지능형로봇/인공지능(AI)",
         "changeRate" : 4.18
-      } ]
+      } ],
+      "mainStock" : ""
     }, {
       "day" : 28,
       "date" : "2026-07-28",
@@ -1021,7 +1076,8 @@
       }, {
         "theme" : "지능형로봇/인공지능(AI)",
         "changeRate" : -4.48
-      } ]
+      } ],
+      "mainStock" : ""
     }, {
       "day" : 29,
       "date" : "2026-07-29",
@@ -1038,7 +1094,8 @@
       }, {
         "theme" : "SI(시스템통합)",
         "changeRate" : -4.02
-      } ]
+      } ],
+      "mainStock" : ""
     }, {
       "day" : 30,
       "date" : "2026-07-30",
@@ -1055,7 +1112,8 @@
       }, {
         "theme" : "LPG(액화석유가스)",
         "changeRate" : 3.36
-      } ]
+      } ],
+      "mainStock" : ""
     }, {
       "day" : 31,
       "date" : "2026-07-31",
@@ -1072,7 +1130,8 @@
       }, {
         "theme" : "반도체 기판(FC-BGA/PCB/MLB 등)",
         "changeRate" : 24.26
-      } ]
+      } ],
+      "mainStock" : ""
     } ] ]
   }, {
     "ym" : "2026-08",
@@ -1093,7 +1152,8 @@
       }, {
         "theme" : "제습기",
         "changeRate" : 4.46
-      } ]
+      } ],
+      "mainStock" : ""
     }, {
       "day" : 4,
       "date" : "2026-08-04",
@@ -1110,7 +1170,8 @@
       }, {
         "theme" : "건설 대표주",
         "changeRate" : 7.82
-      } ]
+      } ],
+      "mainStock" : ""
     }, {
       "day" : 5,
       "date" : "2026-08-05",
@@ -1127,7 +1188,8 @@
       }, {
         "theme" : "반도체 기판(FC-BGA/PCB/MLB 등)",
         "changeRate" : 8.51
-      } ]
+      } ],
+      "mainStock" : ""
     }, {
       "day" : 6,
       "date" : "2026-08-06",
@@ -1144,7 +1206,8 @@
       }, {
         "theme" : "화장품",
         "changeRate" : 2.3
-      } ]
+      } ],
+      "mainStock" : ""
     }, {
       "day" : 7,
       "date" : "2026-08-07",
@@ -1161,7 +1224,8 @@
       }, {
         "theme" : "리튬",
         "changeRate" : 3.48
-      } ]
+      } ],
+      "mainStock" : ""
     } ], [ {
       "day" : 10,
       "date" : "2026-08-10",
@@ -1178,7 +1242,8 @@
       }, {
         "theme" : "광통신(광케이블/광섬유 등)",
         "changeRate" : 8.62
-      } ]
+      } ],
+      "mainStock" : ""
     }, {
       "day" : 11,
       "date" : "2026-08-11",
@@ -1195,7 +1260,8 @@
       }, {
         "theme" : "MLCC(적층세라믹콘덴서)",
         "changeRate" : 4.26
-      } ]
+      } ],
+      "mainStock" : ""
     }, {
       "day" : 12,
       "date" : "2026-08-12",
@@ -1212,7 +1278,8 @@
       }, {
         "theme" : "IT 대표주",
         "changeRate" : 5.39
-      } ]
+      } ],
+      "mainStock" : ""
     }, {
       "day" : 13,
       "date" : "2026-08-13",
@@ -1229,7 +1296,8 @@
       }, {
         "theme" : "S7(삼성전자/SK하이닉스 등)",
         "changeRate" : 4.09
-      } ]
+      } ],
+      "mainStock" : ""
     }, {
       "day" : 14,
       "date" : "2026-08-14",
@@ -1246,7 +1314,8 @@
       }, {
         "theme" : "웹툰",
         "changeRate" : 5.44
-      } ]
+      } ],
+      "mainStock" : ""
     } ], [ null, {
       "day" : 18,
       "date" : "2026-08-18",
@@ -1264,7 +1333,8 @@
       }, {
         "theme" : "반도체 기판(FC-BGA/PCB/MLB 등)",
         "changeRate" : 2.06
-      } ]
+      } ],
+      "mainStock" : ""
     }, {
       "day" : 19,
       "date" : "2026-08-19",
@@ -1282,7 +1352,8 @@
       }, {
         "theme" : "건설 대표주",
         "changeRate" : 0.31
-      } ]
+      } ],
+      "mainStock" : ""
     }, {
       "day" : 20,
       "date" : "2026-08-20",
@@ -1300,7 +1371,8 @@
       }, {
         "theme" : "S7(삼성전자/SK하이닉스 등)",
         "changeRate" : 7.6
-      } ]
+      } ],
+      "mainStock" : ""
     }, {
       "day" : 21,
       "date" : "2026-08-21",
@@ -1318,7 +1390,8 @@
       }, {
         "theme" : "통신",
         "changeRate" : 2.92
-      } ]
+      } ],
+      "mainStock" : ""
     } ], [ {
       "day" : 24,
       "date" : "2026-08-24",
@@ -1336,7 +1409,8 @@
       }, {
         "theme" : "2차전지(생산)",
         "changeRate" : 5.85
-      } ]
+      } ],
+      "mainStock" : ""
     }, {
       "day" : 25,
       "date" : "2026-08-25",
@@ -1354,7 +1428,8 @@
       }, {
         "theme" : "원자력발전",
         "changeRate" : 5.73
-      } ]
+      } ],
+      "mainStock" : ""
     }, {
       "day" : 26,
       "date" : "2026-08-26",
@@ -1372,7 +1447,8 @@
       }, {
         "theme" : "원자력발전",
         "changeRate" : 4.48
-      } ]
+      } ],
+      "mainStock" : ""
     }, {
       "day" : 27,
       "date" : "2026-08-27",
@@ -1390,7 +1466,27 @@
       }, {
         "theme" : "2차전지(생산)",
         "changeRate" : 5.55
-      } ]
-    }, null ] ]
+      } ],
+      "mainStock" : ""
+    }, {
+      "day" : 28,
+      "date" : "2026-08-28",
+      "theme" : "지역화폐",
+      "sector" : "매크로·기타",
+      "changeRate" : 6.82,
+      "prevDay" : "NEW",
+      "regime" : "THEME_LED",
+      "slot" : "15:00",
+      "kospi" : -1.79,
+      "themePremium" : 8.61,
+      "runners" : [ {
+        "theme" : "정유",
+        "changeRate" : 5.38
+      }, {
+        "theme" : "스테이블코인",
+        "changeRate" : 4.5
+      } ],
+      "mainStock" : ""
+    } ] ]
   } ]
 }
