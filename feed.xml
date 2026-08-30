@@ -1,4 +1,138 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-30T11:09:38+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">Fed 매파 속 성장주 약세, 코스닥은 중소형주 순환장으로 반등 — 한 주간 시장 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/30/weekly/" rel="alternate" type="text/html" title="Fed 매파 속 성장주 약세, 코스닥은 중소형주 순환장으로 반등 — 한 주간 시장 정리" /><published>2026-08-30T06:00:00+09:00</published><updated>2026-08-30T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/30/weekly</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/30/weekly/"><![CDATA[<h2 id="한-주는-두-개의-이야기가-났다">한 주는 두 개의 이야기가 났다</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-31T06:06:46+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">반도체 3%대 급락에 흔들린 월요일 아침, 오늘 종가베팅 전략은?</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/31/0600-briefing/" rel="alternate" type="text/html" title="반도체 3%대 급락에 흔들린 월요일 아침, 오늘 종가베팅 전략은?" /><published>2026-08-31T06:00:00+09:00</published><updated>2026-08-31T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/31/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/31/0600-briefing/"><![CDATA[<p>주말 사이 미국 시장에서 반도체가 크게 흔들리면서 월요일 아침 분위기가 무겁습니다. 😥 지난 금요일 선별했던 종목들의 저녁 성적표도 함께 살펴보면서, 오늘 하루 어떻게 대응할지 정리해봅니다.</p>
+
+<h2 id="-지난-금요일0828-ai-선별-복기">📋 지난 금요일(08/28) AI 선별 복기</h2>
+
+<p>전체 방향은 <strong>신중</strong>이었습니다. 지난 금요일 15:10 최종 선별에서는 <strong>3종목</strong>(NAVER, SK이노베이션, 에이피알)이 뽑혔고, 그 외 가온전선·삼성SDI는 이전부터 보유 중이던 종목입니다. 참고로 이 기간 실제 매수 기록은 없었습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>슬롯</th>
+      <th>지난 금요일 전략</th>
+      <th>오늘 결과</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>가온전선 ⚠️</td>
+      <td>—</td>
+      <td>이전부터 보유 중(08/27 매수, 평단 <strong>211,500원</strong>)</td>
+      <td>✅ 보유 중 — 저녁 애프터마켓에서 평단 대비 <strong>-3.07% ~ -4.49%</strong> 급락, 시초가 갭하락 시 손절 검토</td>
+    </tr>
+    <tr>
+      <td>삼성SDI</td>
+      <td>—</td>
+      <td>이전부터 보유 중(08/27 매수, 평단 <strong>569,000원</strong>)</td>
+      <td>✅ 보유 중 — 저녁 애프터마켓 보합(<strong>-0.18% ~ +0.35%</strong>), 시초가 갭 방향에 따라 대응</td>
+    </tr>
+    <tr>
+      <td>NAVER</td>
+      <td>15:10 최종</td>
+      <td>갭 상승 대응 전략(종가 <strong>219,000원</strong> 기준, 시초가 갭 상승 시 기준가로 대응)</td>
+      <td>매수 기록 없음 — 저녁 애프터마켓 보합(<strong>-0.23% ~ +0.68%</strong>), 갭 방향 관찰 후 조건부 진입 검토</td>
+    </tr>
+    <tr>
+      <td>SK이노베이션</td>
+      <td>15:10 최종</td>
+      <td>갭 상승 대응 전략(종가 <strong>116,700원</strong> 기준)</td>
+      <td>매수 기록 없음 — 저녁 애프터마켓 약보합(<strong>-0.94% ~ +0.09%</strong>), 유가 흐름 관찰</td>
+    </tr>
+    <tr>
+      <td>에이피알</td>
+      <td>15:10 최종</td>
+      <td>갭 상승 대응 전략(종가 <strong>464,500원</strong> 기준)</td>
+      <td>매수 기록 없음 — 저녁 애프터마켓 전 구간 하락(<strong>-0.54% ~ -1.61%</strong>), 신규 진입 보류</td>
+    </tr>
+  </tbody>
+</table>
+
+<blockquote>
+  <p>⚠️ <strong>가온전선</strong>: 저녁 애프터마켓에서 평단(211,500원)을 하회하는 압력이 커진 상태입니다. 워시 Fed 의장의 매파 발언과 지난 금요일 전선 테마 급락 여파가 겹친 결과로 보입니다.</p>
+</blockquote>
+
+<p>지난 금요일 밤 사이 워시 Fed 의장의 매파적 발언이 나오면서, 정유·화장품·스테이블코인 소형주 순환매를 노렸던 금요일 선별의 전제 자체가 흔들린 모습입니다. 금요일 원전·건설 급락에 이어 월요일 아침 반도체까지 급락하면서, 테마 순환매 흐름이 끊길 위험도 함께 커졌습니다.</p>
+
+<h2 id="-지난-금요일-밤-미국장은-어땠나">🇺🇸 지난 금요일 밤 미국장은 어땠나</h2>
+
+<p>지난 금요일 밤 미국장은 다우존스 <strong>-0.02%</strong>, S&amp;P500 <strong>-0.25%</strong>, 나스닥종합 <strong>-0.52%</strong>로 대부분 지수가 소폭 하락 마감했습니다. 문제는 반도체입니다 — 필라델피아 반도체 지수가 <strong>-3.47%</strong>로 크게 밀렸고, 나스닥100도 <strong>-0.70%</strong> 하락하며 기술주·성장주 전반에 부담을 줬습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>지수</th>
+      <th>등락률</th>
+      <th>마감 흐름</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>필라델피아 반도체</td>
+      <td><strong>-3.47%</strong></td>
+      <td>급락, 장 막판까지 매도 우위 지속</td>
+    </tr>
+    <tr>
+      <td>나스닥100</td>
+      <td><strong>-0.70%</strong></td>
+      <td>장 막판 매도 압력이 남은 하락</td>
+    </tr>
+    <tr>
+      <td>나스닥종합</td>
+      <td><strong>-0.52%</strong></td>
+      <td>장 막판 매도 압력이 남은 하락</td>
+    </tr>
+    <tr>
+      <td>S&amp;P500</td>
+      <td><strong>-0.25%</strong></td>
+      <td>혼조 속 소폭 하락</td>
+    </tr>
+    <tr>
+      <td>다우운송</td>
+      <td><strong>-0.29%</strong></td>
+      <td>혼조 마감</td>
+    </tr>
+    <tr>
+      <td>다우존스</td>
+      <td><strong>-0.02%</strong></td>
+      <td>보합에 가까운 혼조 마감</td>
+    </tr>
+    <tr>
+      <td>VIX(공포지수)</td>
+      <td><strong>-0.55%</strong></td>
+      <td>소폭 하락</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>특히 필라델피아 반도체 지수는 장 막판까지 매도세가 강했던 채로 마감했다는 점에서, 국내 반도체 관련주도 월요일 장 초반 매도 압력에 유의할 필요가 있어 보입니다.</p>
+
+<h2 id="오늘의-베팅-등급--전략">오늘의 베팅 등급 &amp; 전략</h2>
+
+<p>오늘 종가베팅 등급은 <strong>위험 신호(경계 구간)</strong>로 나타났습니다. 시장 심리 점수도 <strong>25점</strong>(100점 만점, 낮을수록 약세 심리)으로 낮은 편입니다.</p>
+
+<p>큰 투자기관(기관)과 외국인 수급을 보면, 반도체 급락과 함께 외국인이 <strong>1.3조원</strong> 순매도하며 위험 회피 심리가 두드러졌습니다. 워시 Fed 의장의 매파 발언으로 9월 금리 인상 우려가 부각되면서, 성장주 밸류에이션에 대한 압박이 커지고 있는 국면입니다.</p>
+
+<p>내일(09/01) 저녁 발표되는 ISM 제조업 구매관리자지수(PMI)와 JOLTS 구인건수가 이번 주 방향을 가를 핵심 변수로 꼽힙니다. ISM 제조업 PMI(시장 예상 55.2)가 경기 확장·수축을 가르는 기준선 50을 크게 웃돌면 건설·원자력 관련 테마가 다시 부각될 여지가 있지만, 50에 근접하거나 밑돌면 경기 둔화 우려로 조정 압력이 커질 수 있습니다. JOLTS 구인건수(예상 733만 건)가 예상보다 강하게 나오면 금리 인상 우려가 더 커지며 성장주 약세가 심화될 가능성도 있습니다. 지표 발표 전까지는 신규 진입보다 보유 포지션 관리에 무게를 두는 편이 관건으로 보입니다.</p>
+
+<h2 id="오늘-주목할-변수">오늘 주목할 변수</h2>
+
+<ul>
+  <li><strong>금리</strong>: 워시 Fed 의장의 매파적 발언으로 9월 금리 인상 가능성이 다시 부각됐습니다.</li>
+  <li><strong>금값</strong>: 금리 우려와 무관하게 금 가격은 <strong>4,529.9달러</strong>로 강세를 이어가고 있습니다.</li>
+  <li><strong>유가</strong>: 트럼프 대통령이 베네수엘라산 원유로 미국 비축유를 채우겠다는 방침을 밝혔습니다.</li>
+  <li><strong>가상자산</strong>: 사기 피해액이 합법 업체 영업이익의 <strong>3.4배</strong>에 달할 만큼 제도 공백 부작용이 심화되고 있다는 지적이 나왔습니다.</li>
+  <li><strong>가계부채</strong>: 고금리가 이어지면서 올해 상반기 채무조정 신청자가 10만 명에 육박했습니다.</li>
+</ul>
+
+<p>오늘 하루 이 흐름에서 개인적으로 눈여겨본 부분은, 반도체라는 단일 업종의 급락이 지수 전반의 체감 낙폭보다 훨씬 크다는 점입니다. 다우·S&amp;P500은 보합권인데 반도체만 3%대로 빠졌다는 건, 시장 전체가 무너졌다기보다 특정 업종에 매도가 쏠렸다는 신호로 볼 여지가 있어 보입니다. 다만 이 해석이 맞는지는 오늘 국내 반도체 관련주 흐름과 내일 나올 매크로 지표를 함께 봐야 판단할 수 있을 것 같습니다.</p>
+
+<h2 id="오늘의-정리">오늘의 정리</h2>
+
+<p>반도체발 조정과 금리 우려가 겹치면서 시장 심리가 위축된 하루입니다. 지난 금요일 선별 종목 중 보유 중인 가온전선·삼성SDI는 저녁 애프터마켓 흐름을 참고해 시초가 대응을, 나머지 종목들은 갭 방향을 지켜본 뒤 판단하는 게 관건으로 보입니다. 내일 저녁 ISM·JOLTS 지표까지는 신중한 관찰이 필요한 구간입니다.</p>
+
+<p>궁금한 종목이나 오늘 시황에 대한 의견은 댓글로 남겨주세요 🙌</p>
+
+<p>#종가베팅 #NextTheme #반도체급락 #워시Fed발언 #가온전선 #삼성SDI #NAVER #SK이노베이션 #에이피알 #금리인상우려 #ISM제조업PMI</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[주말 사이 미국 시장에서 반도체가 크게 흔들리면서 월요일 아침 분위기가 무겁습니다. 😥 지난 금요일 선별했던 종목들의 저녁 성적표도 함께 살펴보면서, 오늘 하루 어떻게 대응할지 정리해봅니다.]]></summary></entry><entry><title type="html">Fed 매파 속 성장주 약세, 코스닥은 중소형주 순환장으로 반등 — 한 주간 시장 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/30/weekly/" rel="alternate" type="text/html" title="Fed 매파 속 성장주 약세, 코스닥은 중소형주 순환장으로 반등 — 한 주간 시장 정리" /><published>2026-08-30T06:00:00+09:00</published><updated>2026-08-30T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/30/weekly</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/30/weekly/"><![CDATA[<h2 id="한-주는-두-개의-이야기가-났다">한 주는 두 개의 이야기가 났다</h2>
 
 <p>지난 월요일부터 금요일까지 국내 증시는 이중 구조를 보여줬습니다. <strong>코스피는 -1.79% 내려</strong>가며 대형주 중심의 약세를 기록했지만, <strong>코스닥은 +4.55% 올라</strong>가며 중소형주의 강한 순환을 보여줬습니다. 🔄</p>
 
@@ -2032,150 +2166,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가베팅 #복기일지 #20260826 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-08-27 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">미국 약보합·한은 변수 앞, 오늘은 신중한 포지셔닝</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/27/0600-briefing/" rel="alternate" type="text/html" title="미국 약보합·한은 변수 앞, 오늘은 신중한 포지셔닝" /><published>2026-08-27T06:00:00+09:00</published><updated>2026-08-27T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/27/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/27/0600-briefing/"><![CDATA[<p>전 세계 금리결정과 중동 재건 기대 사이에서 한국 시장이 ‘대기 모드’로 접어드는 아침입니다. 😐</p>
-
-<hr />
-
-<h2 id="어제-선별-오늘은-어떤가요">어제 선별, 오늘은 어떤가요?</h2>
-
-<p>어제는 <strong>신중한 판단</strong>으로 흘렀습니다. 4개 종목의 흐름을 함께 살펴보겠습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>어제 슬롯</th>
-      <th>어제 그림</th>
-      <th>저녁 갭</th>
-      <th>오늘 대응</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>대원전선</strong></td>
-      <td>—</td>
-      <td>이전 보유 중</td>
-      <td>—</td>
-      <td>기존 청산 계획 유지</td>
-    </tr>
-    <tr>
-      <td><strong>두산에너빌리티</strong></td>
-      <td>15:10 최종</td>
-      <td>갭 대응</td>
-      <td><strong>+1.05%</strong></td>
-      <td>갭 유지 여부 확인 필수</td>
-    </tr>
-    <tr>
-      <td><strong>대우건설</strong></td>
-      <td>15:10 최종</td>
-      <td>갭 대응</td>
-      <td>—</td>
-      <td>건설 테마 시초가 방향 관찰</td>
-    </tr>
-    <tr>
-      <td><strong>현대건설</strong></td>
-      <td>10:10 탐색</td>
-      <td>갭 대응</td>
-      <td><strong>−2.06%</strong> ⚠️</td>
-      <td>약세 전환, 진입 보류 권고</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>어제 15:10 최종 선별의 두산에너빌리티와 대우건설은 저녁을 거치며 갈래가 갈렸습니다. 두산에너빌리티는 갭이 <strong>+1.05%</strong>까지 올라갔으나 <strong>−0.47%</strong>까지 밀려 범위가 넓었고, 현대건설은 탐색 단계 후보였지만 애프터마켓에서 <strong>−2.06%</strong>까지 밀려 약세가 확실해졌습니다. 미국 약보합 환경이 이미 반영되고 있다는 신호입니다.</p>
-
-<hr />
-
-<h2 id="간밤-미국장-5개-지수-혼조로-마감">간밤 미국장, 5개 지수 혼조로 마감</h2>
-
-<p>간밤 미국장은 <strong>주춤하는 강세</strong>의 모습입니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>지수</th>
-      <th>등락률</th>
-      <th>평가</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>다우존스</td>
-      <td>−0.21%</td>
-      <td>혼조 (상승 후 후퇴)</td>
-    </tr>
-    <tr>
-      <td>S&amp;P 500</td>
-      <td>−0.02%</td>
-      <td>혼조 (거의 보합)</td>
-    </tr>
-    <tr>
-      <td>나스닥 종합</td>
-      <td>−0.08%</td>
-      <td>혼조 (소폭 하락)</td>
-    </tr>
-    <tr>
-      <td>나스닥 100</td>
-      <td>+0.05%</td>
-      <td>강세 (소폭 상승)</td>
-    </tr>
-    <tr>
-      <td>필라델피아 반도체</td>
-      <td>+0.20%</td>
-      <td>매우 강세</td>
-    </tr>
-  </tbody>
-</table>
-
-<p><strong>3대 지수는 모두 혼조 또는 보합</strong>이면서도 <strong>반도체 섹터만 유일하게 강세</strong>를 유지했습니다. 나스닥 100과 반도체 지수가 이끄는 “선별된 강세”인데, 이는 엔비디아 같은 빅테크 기대에 기반한 흐름입니다. 문제는 VIX(공포지수)가 −1.55% 내려가며 변동성이 수축 중이라는 점 — 시장의 “말”과 “행동”이 따로 노는 상황이 되었습니다.</p>
-
-<hr />
-
-<h2 id="오늘-베팅-등급-신중">오늘 베팅 등급: 신중</h2>
-
-<p><strong>등급: 🟨 신중 구간</strong></p>
-
-<p>오전 09:00 한은 기준금리 결정이 변수입니다. 시장은 현 수준 유지를 기대하지만, 발표 직후 한국 증시와 원화 환율이 요동칠 가능성이 높습니다.</p>
-
-<p><strong>전략:</strong></p>
-<ul>
-  <li><strong>09:00 전까지는 관망 우선</strong> — 한은 결정을 기다리며 새 포지션 진입 보류</li>
-  <li><strong>건설·원전 테마 시초가 갭 방향 확인</strong> — 중동 재건 기대와 원자력 정책이 엇갈리는 국면. 시초가에서 테마 강약이 갈린다면 그것이 1차 신호</li>
-  <li><strong>외국인 이탈 흐름 주시</strong> (−104억원 순매도) — 테마 쏠림이 약해질 수 있음</li>
-</ul>
-
-<hr />
-
-<h2 id="주목할-변수">주목할 변수</h2>
-
-<p>✅ <strong>한은 기준금리 결정 (09:00 발표)</strong></p>
-<ul>
-  <li>시장 일치 기대: 현 수준 유지</li>
-  <li>리스크: 인상/인하 깜짝 발표 시 원화/금리선물 급등락 → 국내 주식 연쇄 변동</li>
-</ul>
-
-<p>✅ <strong>건설·원전 테마의 ‘흡수 국면’ 여부</strong></p>
-<ul>
-  <li>어제 건설 거래대금 1,452억 → 3,772억으로 <strong>2.6배 급증</strong>했으나 외국인이 순매도 중</li>
-  <li>중동 재건 호재의 지속성이 시초가에서 검증될 시점</li>
-</ul>
-
-<p>✅ <strong>엔비디아 어닝쇼크 우려</strong></p>
-<ul>
-  <li>미국 증시 약보합의 근저에 테크 실적 우려가 있음</li>
-  <li>한국 반도체·IT 테마에 간접 영향</li>
-</ul>
-
-<hr />
-
-<h2 id="오늘-하루-어떻게-보낼까">오늘 하루, 어떻게 보낼까</h2>
-
-<p>한은 발표 전까지는 <strong>진입보다 관찰</strong>의 시간입니다. 어제 선별이 저녁을 거치며 흔들린 만큼, 오늘은 시초가 갭에서 시장의 진짜 방향을 읽는 것이 먼저입니다. 테마 생존 여부와 외국인 이탈 지속 여부가 오늘 오전 시장 방향을 가르는 핵심 변수입니다.</p>
-
-<p>건설과 원전 종목을 눈여겨보되, <strong>한은 결정 발표 후 수확 전략을 짠다는 마음</strong>으로 임하는 게 좋겠습니다. 😊</p>
-
-<p><strong>댓글로 오늘 시장 분위기를 나눠주세요. 당신의 관점이 분석을 풍요롭게 합니다.</strong></p>
-
-<hr />
-
-<p>#NextTheme #종가베팅 #한은금리 #건설테마 #원전테마 #외국인이탈 #시장분석</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[전 세계 금리결정과 중동 재건 기대 사이에서 한국 시장이 ‘대기 모드’로 접어드는 아침입니다. 😐]]></summary></entry></feed>
+<p>#종가베팅 #복기일지 #20260826 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-08-27 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
