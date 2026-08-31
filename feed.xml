@@ -1,4 +1,96 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-31T10:03:43+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">8/28 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/31/review-20260828-review/" rel="alternate" type="text/html" title="8/28 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-08-31T09:00:00+09:00</published><updated>2026-08-31T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/31/review_20260828-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/31/review-20260828-review/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-08-31T20:07:18+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 약세 속 2차전지로 몰린 돈 — 삼성SDI 거래대금 1위 배경</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/31/nt2-1505-snapshot/" rel="alternate" type="text/html" title="코스피 약세 속 2차전지로 몰린 돈 — 삼성SDI 거래대금 1위 배경" /><published>2026-08-31T15:05:00+09:00</published><updated>2026-08-31T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/31/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/31/nt2-1505-snapshot/"><![CDATA[<p>오늘 코스피와 코스닥이 나란히 약세로 마감했습니다 📉 미국 연준(Fed)의 매파적 발언으로 금리 인상 우려가 커지면서 성장주 전반의 투자 심리가 눌린 하루였는데요, 그런 와중에도 유독 한 곳으로 돈이 몰렸습니다. 바로 2차전지 테마입니다.</p>
+
+<h2 id="오늘-시장은-어떤-분위기였나">오늘 시장은 어떤 분위기였나</h2>
+
+<p>코스피·코스닥 모두 하락했지만, 낙폭 속에서도 2차전지 테마로는 거래대금이 강하게 집중됐습니다. 금리 우려로 시장 전체가 몸을 사리는 가운데서도 특정 테마에는 오히려 자금이 쏠리는 것, 종가베팅에서는 이런 ‘역행하는 쏠림’을 눈여겨봅니다.</p>
+
+<h2 id="오늘의-선별-종목--삼성sdi">오늘의 선별 종목 — 삼성SDI</h2>
+
+<p>오늘 저희 시스템(NextTheme)이 마지막 시간대에 선별한 종목은 <strong>삼성SDI</strong>(006400) 1곳입니다.</p>
+
+<p>삼성SDI는 오늘 <strong>580,000원</strong>으로 마감하며 전일 대비 <strong>+1.58%</strong> 상승했습니다. 2차전지(생산) 테마 안에서 거래대금 <strong>1위</strong>를 기록했는데, 하루 거래대금이 <strong>6,657억원</strong>에 달했습니다. 시가총액은 <strong>46.7조원</strong> 규모입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>항목</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>기본</td>
+      <td>당일 종가 / 등락률</td>
+      <td>580,000원 / +1.58%</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>거래대금 / 시총</td>
+      <td>6,657억원 / 46.7조원</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>주도 테마 / 테마내순위</td>
+      <td>2차전지(생산) / 1위</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>RSI / 상대거래량 / 이평수렴</td>
+      <td>68.6 / 1.45배 / +0.16%</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>52주 신고가 / 거래량 흐름</td>
+      <td>아님 / 중립</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>외국인 순매수</td>
+      <td>-11만 주</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>호가신호</td>
+      <td>매수벽 강함</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>매출 성장률(YoY)</td>
+      <td>+31.8%</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>최근 분기 실적</td>
+      <td>2026.09: 매출 40,230억원 / 영업이익 2억원</td>
+    </tr>
+    <tr>
+      <td>점수</td>
+      <td>AI 종합 점수</td>
+      <td>38점</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>오늘 확인된 데이터를 보면 몇 가지 특징이 겹칩니다. 매수 쪽 호가에 자금이 두껍게 쌓여 있었고(위 표의 ‘매수벽 강함’), 15분봉 기준 지지선 부근에서 반등하는 흐름이 나왔습니다. 여기에 미국 대형 에너지저장장치(ESS) 배터리 수주 소식까지 함께 전해지면서 거래대금이 집중된 것으로 파악됩니다.</p>
+
+<p>다만 같은 날 외국인은 오히려 <strong>11만 주를 순매도</strong>했습니다. 매수 주체가 다양하게 겹치지는 않았다는 뜻이라, 이 부분은 참고해둘 만합니다.</p>
+
+<blockquote>
+  <p>💭 <strong>오늘의 관점</strong>: 시장 전체가 눌린 하루에 특정 테마 한 곳으로만 자금이 쏠렸다는 건, 그 테마에 대한 시장의 관심이 그만큼 명확했다는 신호로 읽힙니다. 다만 외국인 수급이 순매도였던 점은 ‘한쪽으로만 자금이 쏠린 흐름’이 얼마나 이어질지 지켜볼 부분이라고 생각합니다.</p>
+</blockquote>
+
+<h2 id="nexttheme은-왜-이-종목을-골랐을까">NextTheme은 왜 이 종목을 골랐을까</h2>
+
+<p>NextTheme 알고리즘은 거래대금, 매수 호가의 두께, 차트상 지지선 반등 여부, 그리고 관련 뉴스를 함께 놓고 종목을 골라냅니다. 오늘은 2차전지 테마 안에서 거래대금이 압도적으로 몰리고, 매수벽이 강하게 형성된 삼성SDI가 이 조건에 부합해 오늘 하루 유일한 선별 종목으로 남았습니다.</p>
+
+<h2 id="정리하며">정리하며</h2>
+
+<p>코스피·코스닥이 동반 약세를 보인 하루에도 2차전지 테마로는 자금이 뚜렷하게 몰렸고, 그 중심에 삼성SDI가 있었습니다. 시장 전체 분위기와 개별 테마의 온도차가 컸던 하루로 기록할 만합니다. 다음 거래일에도 이 흐름이 이어지는지는 계속 지켜보겠습니다.</p>
+
+<p>궁금한 종목이나 오늘 시장에 대한 의견이 있다면 댓글로 남겨주세요 🙌</p>
+
+<p>#삼성SDI #2차전지 #NextTheme #종가베팅 #거래대금 #코스피 #수급분석</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[오늘 코스피와 코스닥이 나란히 약세로 마감했습니다 📉 미국 연준(Fed)의 매파적 발언으로 금리 인상 우려가 커지면서 성장주 전반의 투자 심리가 눌린 하루였는데요, 그런 와중에도 유독 한 곳으로 돈이 몰렸습니다. 바로 2차전지 테마입니다.]]></summary></entry><entry><title type="html">8/28 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/31/review-20260828-review/" rel="alternate" type="text/html" title="8/28 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-08-31T09:00:00+09:00</published><updated>2026-08-31T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/31/review_20260828-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/31/review-20260828-review/"><![CDATA[<blockquote>
   <p>데이터 기준: 2026-08-31 10:03 키움 ka10001 일괄 조회</p>
 </blockquote>
 
@@ -2037,212 +2129,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <hr />
 
-<p>#종가베팅 #삼성SDI #LS전기 #가온전선 #전선테마 #2차전지 #NextTheme #재생에너지 #외국인 #기관</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[어제 판단은 실제로 어땠나]]></summary></entry><entry><title type="html">가온전선 27% 급등, 전선·2차전지 테마에 외국인·기관 자금이 몰린 이유</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/27/nt2-1505-snapshot/" rel="alternate" type="text/html" title="가온전선 27% 급등, 전선·2차전지 테마에 외국인·기관 자금이 몰린 이유" /><published>2026-08-27T15:05:00+09:00</published><updated>2026-08-27T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/27/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/27/nt2-1505-snapshot/"><![CDATA[<p>오늘 국내 증시는 전선·2차전지·전력 테마가 나란히 강세를 보인 하루였습니다. 📈 정부의 재생에너지 확대 정책과 미국의 전력장비 수입 규제, 엔비디아 실적 호재까지 겹치면서, 외국인과 큰 투자기관(기관)의 자금이 관련 종목으로 동시에 몰려드는 모습이 확인됐습니다.</p>
-
-<h2 id="오늘-시장-왜-전선2차전지에-돈이-몰렸나">오늘 시장, 왜 전선·2차전지에 돈이 몰렸나</h2>
-
-<p>재생에너지 발전 비중을 크게 늘리겠다는 정부 정책, 그리고 외국산 전력장비 수입을 제한하려는 미국의 움직임이 국내 전력·전선 업체에 직접적인 수혜 기대감을 만들었습니다. 여기에 엔비디아의 좋은 실적이 AI 데이터센터 전력 수요 기대감을 더하면서, 전선·2차전지·전력 테마 전반으로 외국인과 기관의 자금이 함께 들어오는 흐름이 오늘 하루 뚜렷하게 나타났습니다.</p>
-
-<h2 id="오늘-종가베팅-후보로-남은-3개-종목">오늘 종가베팅 후보로 남은 3개 종목</h2>
-
-<p>이 종목들은 오늘 거래가 마감된 시점의 데이터를 기준으로, 거래대금·수급·매수 호가 등에서 눈에 띄는 신호가 확인돼 후보로 남았습니다.</p>
-
-<h3 id="삼성sdi--2차전지-대장주-거래대금-1위">삼성SDI — 2차전지 대장주, 거래대금 1위</h3>
-
-<p>오늘 거래대금 1위를 지키며 외국인과 기관이 동시에 대규모로 사들인 종목입니다. 매수 호가에도 큰돈이 두껍게 쌓여 있는 것이 확인됐습니다. <strong>주가는 568,000원으로 전일 대비 +10.1%</strong> 상승 마감했습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>구분</th>
-      <th>항목</th>
-      <th>수치</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>기본</td>
-      <td>종가 / 등락률</td>
-      <td><strong>568,000원 / +10.1%</strong></td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>거래대금 / 시가총액</td>
-      <td>8,791억원 / 45.8조원</td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>주도 테마 / 테마 내 순위</td>
-      <td>2차전지(나트륨이온) / 1위</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>RSI / 거래량 배수 / 이평수렴</td>
-      <td>66.9 / 평소 대비 2.0배 / 0.11%</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>52주 신고가 / 추세 신호</td>
-      <td>아님 / 중립</td>
-    </tr>
-    <tr>
-      <td>수급</td>
-      <td>외국인 순매수 / 기관 순매수</td>
-      <td>+24만 주 / +16만 주</td>
-    </tr>
-    <tr>
-      <td>수급</td>
-      <td>매수 호가 신호</td>
-      <td>매수벽 강함</td>
-    </tr>
-    <tr>
-      <td>재무</td>
-      <td>최근 분기 매출 증가율(전년비)</td>
-      <td>+31.8%</td>
-    </tr>
-    <tr>
-      <td>재무</td>
-      <td>최근 분기 실적 (2026.09.)</td>
-      <td>매출 4.0조원 / 영업이익 2억원</td>
-    </tr>
-    <tr>
-      <td>점수</td>
-      <td>AI 종합 점수</td>
-      <td>52점</td>
-    </tr>
-  </tbody>
-</table>
-
-<h3 id="ls-electric--전력장비-규제-수혜-기대">LS ELECTRIC — 전력장비 규제 수혜 기대</h3>
-
-<p>미국의 외국산 전력장비 수입 제한 움직임으로 국내 전력기기 업체가 수혜를 받을 것이라는 기대감이 형성됐고, 외국인·기관·거래대금이라는 세 가지 지표에서 동시에 자금 유입이 확인됐습니다. <strong>주가는 218,500원으로 전일 대비 +8.4%</strong> 상승했습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>구분</th>
-      <th>항목</th>
-      <th>수치</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>기본</td>
-      <td>종가 / 등락률</td>
-      <td><strong>218,500원 / +8.4%</strong></td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>거래대금 / 시가총액</td>
-      <td>4,768억원 / 32.7조원</td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>주도 테마 / 테마 내 순위</td>
-      <td>전력저장장치(ESS) / 2위</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>RSI / 거래량 배수 / 이평수렴</td>
-      <td>57.5 / 평소 대비 1.6배 / 0.07%</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>52주 신고가 / 추세 신호</td>
-      <td>아님 / 약세 다이버전스(주의 신호)</td>
-    </tr>
-    <tr>
-      <td>수급</td>
-      <td>외국인 순매수 / 기관 순매수</td>
-      <td>+25만 주 / +12만 주</td>
-    </tr>
-    <tr>
-      <td>수급</td>
-      <td>매수 호가 신호</td>
-      <td>매수벽 약함</td>
-    </tr>
-    <tr>
-      <td>재무</td>
-      <td>최근 분기 매출 증가율(전년비)</td>
-      <td>+36.3%</td>
-    </tr>
-    <tr>
-      <td>재무</td>
-      <td>최근 분기 실적 (2026.09.)</td>
-      <td>매출 1.7조원 / 영업이익 11억원</td>
-    </tr>
-    <tr>
-      <td>점수</td>
-      <td>AI 종합 점수</td>
-      <td>46점</td>
-    </tr>
-  </tbody>
-</table>
-
-<h3 id="가온전선--오늘-거래대금-폭증한-전선-대장주">가온전선 — 오늘 거래대금 폭증한 전선 대장주</h3>
-
-<p>정부의 재생에너지 확대 계획과 AI 데이터센터 전력 수요 기대감 속에, 전선 대장주인 이 종목의 거래대금이 평소 대비 크게 불어났습니다. 외국인과 기관이 함께 사들인 점도 확인됐습니다. <strong>주가는 215,500원으로 전일 대비 +27.4%</strong> 급등 마감했습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>구분</th>
-      <th>항목</th>
-      <th>수치</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>기본</td>
-      <td>종가 / 등락률</td>
-      <td><strong>215,500원 / +27.4%</strong></td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>거래대금 / 시가총액</td>
-      <td>3,157억원 / 6.3조원</td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>주도 테마 / 테마 내 순위</td>
-      <td>전선 / 1위</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>RSI / 거래량 배수 / 이평수렴</td>
-      <td>64.1 / 평소 대비 3.6배 / 0.18%</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>52주 신고가 / 추세 신호</td>
-      <td>아님 / 강세 다이버전스</td>
-    </tr>
-    <tr>
-      <td>수급</td>
-      <td>외국인 순매수 / 기관 순매수</td>
-      <td>+1만 주 / +1만 주</td>
-    </tr>
-    <tr>
-      <td>수급</td>
-      <td>매수 호가 신호</td>
-      <td>매수벽 약함</td>
-    </tr>
-    <tr>
-      <td>점수</td>
-      <td>AI 종합 점수</td>
-      <td>43점</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="오늘-이-세-종목이-함께-눈에-띈-이유">오늘 이 세 종목이 함께 눈에 띈 이유</h2>
-
-<p>세 종목을 나란히 놓고 보면 공통된 그림이 보입니다. 정책 모멘텀(재생에너지 확대, 전력장비 수입 규제, AI 인프라 수요)이라는 뉴스 재료가 먼저 있었고, 그 재료가 실제로 거래대금 급증과 외국인·기관의 동시 순매수로 이어졌다는 점입니다. 특히 삼성SDI는 매수 호가에 큰돈이 두껍게 쌓여 있었다는 점에서 다른 두 종목과 차이가 있었고, 가온전선은 거래대금이 평소 대비 3배 넘게 불어났다는 점이 두드러졌습니다.</p>
-
-<p>제 눈에 오늘 가장 인상 깊었던 대목은, 세 종목 모두 뉴스 재료 하나에만 기댄 게 아니라 거래대금·수급·호가라는 서로 다른 지표에서 동시에 신호가 겹쳤다는 점입니다. 다만 이 지표들이 항상 다음 날 상승으로 이어지는 것은 아니며, 오늘 확인된 사실을 있는 그대로 기록해 두는 것이 종가베팅 방식의 핵심입니다.</p>
-
-<h2 id="마무리">마무리</h2>
-
-<p>오늘은 전선·2차전지·전력 테마에 외국인·기관 자금이 뚜렷하게 몰린 하루였고, 그 흐름 속에서 삼성SDI·LS ELECTRIC·가온전선 세 종목이 거래대금과 수급 지표에서 눈에 띄었습니다. 내일 이 흐름이 어떻게 이어지는지도 계속 지켜보겠습니다. 궁금한 종목 있으면 댓글로 남겨주세요!</p>
-
-<p>#가온전선 #삼성SDI #LSELECTRIC #전선테마 #2차전지 #전력저장장치 #종가베팅 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[오늘 국내 증시는 전선·2차전지·전력 테마가 나란히 강세를 보인 하루였습니다. 📈 정부의 재생에너지 확대 정책과 미국의 전력장비 수입 규제, 엔비디아 실적 호재까지 겹치면서, 외국인과 큰 투자기관(기관)의 자금이 관련 종목으로 동시에 몰려드는 모습이 확인됐습니다.]]></summary></entry></feed>
+<p>#종가베팅 #삼성SDI #LS전기 #가온전선 #전선테마 #2차전지 #NextTheme #재생에너지 #외국인 #기관</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[어제 판단은 실제로 어땠나]]></summary></entry></feed>
