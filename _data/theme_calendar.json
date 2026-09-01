@@ -1,25 +1,25 @@
 {
-  "lastTradingDay" : "2026-08-31",
-  "totalDays" : 79,
+  "lastTradingDay" : "2026-09-01",
+  "totalDays" : 80,
   "summary" : {
-    "tradingDays" : 79,
+    "tradingDays" : 80,
     "sectorCount" : 16,
-    "upDays" : 71,
-    "avgChangeRate" : 5.44,
+    "upDays" : 72,
+    "avgChangeRate" : 5.51,
     "topSector" : "반도체·AI인프라",
     "topSectorDays" : 20
   },
   "now" : {
-    "date" : "2026-08-31",
-    "bettingGrade" : "YELLOW",
-    "regimeTag" : "YELLOW",
+    "date" : "2026-09-01",
+    "bettingGrade" : "RED",
+    "regimeTag" : "RED_EXHAUST",
     "themeRegime" : "THEME_LED",
     "marketSignal" : "혼조",
-    "kospi" : 0.46,
-    "kosdaq" : -0.49,
-    "leadTheme" : "2차전지(생산)",
-    "leadChangeRate" : 3.62,
-    "themePremium" : 3.16
+    "kospi" : 0.23,
+    "kosdaq" : -1.56,
+    "leadTheme" : "낙태/피임",
+    "leadChangeRate" : 11.15,
+    "themePremium" : 10.92
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
@@ -56,7 +56,7 @@
   }, {
     "sector" : "매크로·기타",
     "rank1Days" : 8,
-    "top3Days" : 10
+    "top3Days" : 11
   }, {
     "sector" : "소비재·유통",
     "rank1Days" : 3,
@@ -78,12 +78,12 @@
     "rank1Days" : 2,
     "top3Days" : 5
   }, {
+    "sector" : "바이오·헬스",
+    "rank1Days" : 2,
+    "top3Days" : 3
+  }, {
     "sector" : "디스플레이·LED",
     "rank1Days" : 2,
-    "top3Days" : 2
-  }, {
-    "sector" : "바이오·헬스",
-    "rank1Days" : 1,
     "top3Days" : 2
   } ],
   "months" : [ {
@@ -1507,5 +1507,28 @@
       } ],
       "mainStock" : ""
     }, null, null, null, null ] ]
+  }, {
+    "ym" : "2026-09",
+    "label" : "2026년 9월",
+    "weeks" : [ [ null, {
+      "day" : 1,
+      "date" : "2026-09-01",
+      "theme" : "낙태/피임",
+      "sector" : "바이오·헬스",
+      "changeRate" : 11.15,
+      "prevDay" : "NEW",
+      "regime" : "THEME_LED",
+      "slot" : "15:00",
+      "kospi" : 0.23,
+      "themePremium" : 10.92,
+      "runners" : [ {
+        "theme" : "탈모 치료",
+        "changeRate" : 6.05
+      }, {
+        "theme" : "마리화나(대마)",
+        "changeRate" : 4.79
+      } ],
+      "mainStock" : ""
+    }, null, null, null ] ]
   } ]
 }
