@@ -1,4 +1,130 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-01T21:06:07+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 강보합, 코스닥 약세 — 유가 급등으로 정유주 강세한 하루</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/01/daily/" rel="alternate" type="text/html" title="코스피 강보합, 코스닥 약세 — 유가 급등으로 정유주 강세한 하루" /><published>2026-09-01T21:00:00+09:00</published><updated>2026-09-01T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/01/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/01/daily/"><![CDATA[<p>어제 반등에 성공한 삼성SDI를 보유했던 전략이 단기 성공을 거두면서 하루를 시작했다. 정유 업종이 중동 긴장 재고조로 자금을 끌어모으고, 폴더블폰 부품주도 움직인 하루였다. 코스피는 강보합했지만 코스닥이 약세를 보이며 시장의 갈림길이 명확했다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-02T06:10:21+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">외국인 순매도 + 미국 약세, 시초가 약세 경계가 필요한 아침</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/02/0600-briefing/" rel="alternate" type="text/html" title="외국인 순매도 + 미국 약세, 시초가 약세 경계가 필요한 아침" /><published>2026-09-02T06:00:00+09:00</published><updated>2026-09-02T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/02/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/02/0600-briefing/"><![CDATA[<h2 id="모멘텀-게임의-역풍-오늘은-신중한-출발을-요구하다">모멘텀 게임의 역풍, 오늘은 신중한 출발을 요구하다</h2>
+
+<p>어제 유가 급등(WTI 90.6달러, +4.9%)에 정유주가 강세를 보였는데, 간밤 미국 3대 지수가 동반 하락(다우 -0.79%, S&amp;P500 -0.71%, 나스닥 -1.03%)하면서 리스크온 자산 전반이 조정압을 받았습니다. 특히 필라델피아 반도체 지수(-2.14%)와 VIX(+9.52%) 상승은 시장 심리 위축을 명확히 보여줍니다. 💔</p>
+
+<hr />
+
+<h2 id="어제-ai-선별-실제로-어땠나">어제 AI 선별, 실제로 어땠나?</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>슬롯</th>
+      <th>어제 전략</th>
+      <th>오늘 결과</th>
+      <th>저녁 흐름</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>SK이노베이션</strong></td>
+      <td>15:10 최종</td>
+      <td>갭트레이드</td>
+      <td>✅ 보유 중</td>
+      <td>평단 대비 <strong>+0.91% ~ −0.65%</strong></td>
+    </tr>
+    <tr>
+      <td>삼성SDI</td>
+      <td>10:10 탐색</td>
+      <td>갭트레이드</td>
+      <td>어제 매수 후 당일 정리</td>
+      <td><strong>+1.76% 실현</strong></td>
+    </tr>
+    <tr>
+      <td>현대약품</td>
+      <td>14:30 선별</td>
+      <td>(매수 기록 없음)</td>
+      <td>스킵</td>
+      <td>종가 대비 0~0%</td>
+    </tr>
+    <tr>
+      <td>비에이치</td>
+      <td>12:10 탐색</td>
+      <td>(매수 기록 없음)</td>
+      <td>장중 탐색 후보</td>
+      <td>종가 대비 <strong>+7.19% ~ +2.88%</strong></td>
+    </tr>
+    <tr>
+      <td>S-Oil</td>
+      <td>10:10 탐색</td>
+      <td>(매수 기록 없음)</td>
+      <td>장중 탐색 후보</td>
+      <td>종가 대비 <strong>+0.65% ~ −1.24%</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>📌 <strong>핵심: 어제는 선별 2건, 매수 기록 2건</strong> — AI 선별과 탐색 단계를 모두 거쳐 <strong>실제 매수는 SK이노베이션과 삼성SDI 2종목만 진행되었습니다.</strong> 삼성SDI는 당일 정리로 <strong>+1.76% 실현 수익</strong>을 기록했으나, SK이노베이션은 <strong>평단 134,376원 기준 보유 지속</strong> 중입니다.</p>
+
+<h3 id="sk이노베이션--유가-수혜는-이어지나">SK이노베이션 — 유가 수혜는 이어지나?</h3>
+
+<p>실매수 포지션(평단 134,376원, 62주)이 저녁 동안 <strong>최고 +0.91% 상승</strong>했으나 <strong>마감 기준 −0.65% 수준</strong>으로 하락 후 마감했습니다. 어제는 갭 상승 후 안착을 기대하는 시나리오였으나, 간밤 미국 약세와 <strong>전일 외국인 순매도(-8,593억원) 지속</strong> 조건에서는 <strong>시초가 갭상승 가능성이 낮아 보입니다.</strong> 만약 평단 이하로 갭다운하면 손절 압박이 즉시 따라올 것 같습니다. ⚠️</p>
+
+<h3 id="삼성sdi는-당일-청산으로-소폭-수익-실현">삼성SDI는 당일 청산으로 소폭 수익 실현</h3>
+
+<p>어제 10:10 탐색 단계에서 매수하여 <strong>당일 정리(+1.76% 실현)</strong>. 2차전지 테마의 거래량 감소와 미국 약세 조합에서 신규 진입은 제한적입니다.</p>
+
+<hr />
+
+<h2 id="간밤-미국-3대-지수-동반-약세로-리스크온-자산-정리">간밤 미국, 3대 지수 동반 약세로 리스크온 자산 정리</h2>
+
+<p>다우(−0.79%), S&amp;P500(−0.71%), 나스닥(−1.03%)이 모두 내렸습니다. 특히 나스닥 100(−1.29%)까지 약했던 만큼, <strong>기술주 중심의 약세</strong>가 선명합니다. 필라델피아 반도체 지수까지 −2.14%로 내렸다는 것은 미국 반도체(엔비디아 등) 관련 <strong>실적 기대감이 이미 상당 부분 선반영된 후 조정이 나타나는 국면</strong>으로 해석됩니다.</p>
+
+<p><strong>VIX(+9.52%) 급등</strong>은 불안심 상승을 명확히 나타냅니다. 미국 10년물 국채 금리도 4.80%로 상승했으니, <strong>금리 상승 + 경기 전망 약화 + 유사 시나리오</strong>가 중첩되고 있습니다.</p>
+
+<hr />
+
+<h2 id="오늘-종가베팅-등급과-전략">오늘 종가베팅 등급과 전략</h2>
+
+<h3 id="-등급-경계-단계">🔴 등급: 경계 단계</h3>
+
+<p>감정 점수 <strong>28점</strong>(0~100 중)은 매우 약세 심리를 나타냅니다. 외국인이 계속 순매도를 이어가고 있는데, <strong>미국 약세가 겹치면 시초가 약세로 출발할 확률이 높습니다.</strong></p>
+
+<h3 id="전략-유가-수혜정유는-보이나-선별-조건-부재">전략: 유가 수혜(정유)는 보이나, 선별 조건 부재</h3>
+
+<ul>
+  <li><strong>정유(SK이노베이션 등) 테마</strong>: 유가 90달러 돌파로 수혜 구도는 명확합니다만, <strong>미국 약세 + 외국인 순매도</strong> 조합에서 <strong>“시초가만 오르고 장중 밀릴”(전강후약) 위험</strong>이 높습니다.</li>
+  <li><strong>시초가 갭 방향이 핵심</strong>: 만약 시초가에서 갭상승으로 열린다면 <strong>외국인 재진입 신호 확인</strong>이 필수입니다. 그렇지 않으면 조정압에 쉽게 눌리겠습니다.</li>
+  <li><strong>수동 매수 기준</strong>: 현재 보유 SK이노베이션의 평단 이하 갭다운 시 손절 압박, 평단 이상 유지 시 유가 지속도 관찰 필수.</li>
+</ul>
+
+<hr />
+
+<h2 id="주목할-변수--내일의-美-지표와-중동-긴장">주목할 변수 — 내일의 美 지표와 중동 긴장</h2>
+
+<ol>
+  <li><strong>내일(내일) 高 이벤트 다수</strong>
+    <ul>
+      <li>신규 실업수당(미국 고용 신호)</li>
+      <li>ISM 비제조업 지수(경기 신호)</li>
+      <li><strong>→ 이 지표들이 약할 경우 국내 외국인 추격매수 기대 어려움</strong></li>
+    </ul>
+  </li>
+  <li><strong>중동 긴장 고조</strong> (호르무즈 해협)
+    <ul>
+      <li>유가 90달러 유지가 강세 요인이나, <strong>추가 긴장 뉴스에 따라 변동성 확대 가능</strong></li>
+      <li>한편 <strong>과도한 유가 상승은 글로벌 경기 부담</strong>이 되므로, 장중에 조정될 가능성도 있습니다.</li>
+    </ul>
+  </li>
+  <li><strong>외국인 심리 전환 신호</strong>
+    <ul>
+      <li>어제 −8,593억원 순매도 이후 오늘 시초가에서 <strong>재진입 신호 여부</strong>가 개장 초반의 시장 신호가 될 것입니다.</li>
+    </ul>
+  </li>
+</ol>
+
+<hr />
+
+<h2 id="오늘을-어떻게-출발할까">오늘을 어떻게 출발할까?</h2>
+
+<p>유가 강세라는 호재가 있지만 <strong>미국 약세 + 외국인 순매도 + 내일 고용지표 불안</strong>이라는 역풍이 더 강합니다. 현재 보유 SK이노베이션은 <strong>평단 대비 시초가 흐름을 1차 확인</strong> 후, 평단 이상 유지 조건에서 유가 지속도를 다시 한 번 관찰하는 것이 현명해 보입니다. 신규 진입은 <strong>시초가 약세 속에서는 신중 구간</strong>이라고 판단합니다.</p>
+
+<p>중동 뉴스, 내일 미국 지표, 외국인 수급 신호를 한 번에 확인하는 오늘이 될 것 같습니다. 댓글로 오늘 장 분위기를 나눠주세요. 😊</p>
+
+<hr />
+
+<p>#NextTheme #종가베팅 #정유주 #미국약세 #외국인순매도 #유가 #리스크온 #시초가약세</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[모멘텀 게임의 역풍, 오늘은 신중한 출발을 요구하다]]></summary></entry><entry><title type="html">코스피 강보합, 코스닥 약세 — 유가 급등으로 정유주 강세한 하루</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/01/daily/" rel="alternate" type="text/html" title="코스피 강보합, 코스닥 약세 — 유가 급등으로 정유주 강세한 하루" /><published>2026-09-01T21:00:00+09:00</published><updated>2026-09-01T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/01/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/01/daily/"><![CDATA[<p>어제 반등에 성공한 삼성SDI를 보유했던 전략이 단기 성공을 거두면서 하루를 시작했다. 정유 업종이 중동 긴장 재고조로 자금을 끌어모으고, 폴더블폰 부품주도 움직인 하루였다. 코스피는 강보합했지만 코스닥이 약세를 보이며 시장의 갈림길이 명확했다.</p>
 
 <h2 id="어제-선별이-실제로-수익을-냈나">어제 선별이 실제로 수익을 냈나</h2>
 
@@ -1708,138 +1834,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가베팅 #복기일지 #20260828 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-08-31 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">반도체 3%대 급락에 흔들린 월요일 아침, 오늘 종가베팅 전략은?</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/31/0600-briefing/" rel="alternate" type="text/html" title="반도체 3%대 급락에 흔들린 월요일 아침, 오늘 종가베팅 전략은?" /><published>2026-08-31T06:00:00+09:00</published><updated>2026-08-31T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/31/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/31/0600-briefing/"><![CDATA[<p>주말 사이 미국 시장에서 반도체가 크게 흔들리면서 월요일 아침 분위기가 무겁습니다. 😥 지난 금요일 선별했던 종목들의 저녁 성적표도 함께 살펴보면서, 오늘 하루 어떻게 대응할지 정리해봅니다.</p>
-
-<h2 id="-지난-금요일0828-ai-선별-복기">📋 지난 금요일(08/28) AI 선별 복기</h2>
-
-<p>전체 방향은 <strong>신중</strong>이었습니다. 지난 금요일 15:10 최종 선별에서는 <strong>3종목</strong>(NAVER, SK이노베이션, 에이피알)이 뽑혔고, 그 외 가온전선·삼성SDI는 이전부터 보유 중이던 종목입니다. 참고로 이 기간 실제 매수 기록은 없었습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>슬롯</th>
-      <th>지난 금요일 전략</th>
-      <th>오늘 결과</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>가온전선 ⚠️</td>
-      <td>—</td>
-      <td>이전부터 보유 중(08/27 매수, 평단 <strong>211,500원</strong>)</td>
-      <td>✅ 보유 중 — 저녁 애프터마켓에서 평단 대비 <strong>-3.07% ~ -4.49%</strong> 급락, 시초가 갭하락 시 손절 검토</td>
-    </tr>
-    <tr>
-      <td>삼성SDI</td>
-      <td>—</td>
-      <td>이전부터 보유 중(08/27 매수, 평단 <strong>569,000원</strong>)</td>
-      <td>✅ 보유 중 — 저녁 애프터마켓 보합(<strong>-0.18% ~ +0.35%</strong>), 시초가 갭 방향에 따라 대응</td>
-    </tr>
-    <tr>
-      <td>NAVER</td>
-      <td>15:10 최종</td>
-      <td>갭 상승 대응 전략(종가 <strong>219,000원</strong> 기준, 시초가 갭 상승 시 기준가로 대응)</td>
-      <td>매수 기록 없음 — 저녁 애프터마켓 보합(<strong>-0.23% ~ +0.68%</strong>), 갭 방향 관찰 후 조건부 진입 검토</td>
-    </tr>
-    <tr>
-      <td>SK이노베이션</td>
-      <td>15:10 최종</td>
-      <td>갭 상승 대응 전략(종가 <strong>116,700원</strong> 기준)</td>
-      <td>매수 기록 없음 — 저녁 애프터마켓 약보합(<strong>-0.94% ~ +0.09%</strong>), 유가 흐름 관찰</td>
-    </tr>
-    <tr>
-      <td>에이피알</td>
-      <td>15:10 최종</td>
-      <td>갭 상승 대응 전략(종가 <strong>464,500원</strong> 기준)</td>
-      <td>매수 기록 없음 — 저녁 애프터마켓 전 구간 하락(<strong>-0.54% ~ -1.61%</strong>), 신규 진입 보류</td>
-    </tr>
-  </tbody>
-</table>
-
-<blockquote>
-  <p>⚠️ <strong>가온전선</strong>: 저녁 애프터마켓에서 평단(211,500원)을 하회하는 압력이 커진 상태입니다. 워시 Fed 의장의 매파 발언과 지난 금요일 전선 테마 급락 여파가 겹친 결과로 보입니다.</p>
-</blockquote>
-
-<p>지난 금요일 밤 사이 워시 Fed 의장의 매파적 발언이 나오면서, 정유·화장품·스테이블코인 소형주 순환매를 노렸던 금요일 선별의 전제 자체가 흔들린 모습입니다. 금요일 원전·건설 급락에 이어 월요일 아침 반도체까지 급락하면서, 테마 순환매 흐름이 끊길 위험도 함께 커졌습니다.</p>
-
-<h2 id="-지난-금요일-밤-미국장은-어땠나">🇺🇸 지난 금요일 밤 미국장은 어땠나</h2>
-
-<p>지난 금요일 밤 미국장은 다우존스 <strong>-0.02%</strong>, S&amp;P500 <strong>-0.25%</strong>, 나스닥종합 <strong>-0.52%</strong>로 대부분 지수가 소폭 하락 마감했습니다. 문제는 반도체입니다 — 필라델피아 반도체 지수가 <strong>-3.47%</strong>로 크게 밀렸고, 나스닥100도 <strong>-0.70%</strong> 하락하며 기술주·성장주 전반에 부담을 줬습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>지수</th>
-      <th>등락률</th>
-      <th>마감 흐름</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>필라델피아 반도체</td>
-      <td><strong>-3.47%</strong></td>
-      <td>급락, 장 막판까지 매도 우위 지속</td>
-    </tr>
-    <tr>
-      <td>나스닥100</td>
-      <td><strong>-0.70%</strong></td>
-      <td>장 막판 매도 압력이 남은 하락</td>
-    </tr>
-    <tr>
-      <td>나스닥종합</td>
-      <td><strong>-0.52%</strong></td>
-      <td>장 막판 매도 압력이 남은 하락</td>
-    </tr>
-    <tr>
-      <td>S&amp;P500</td>
-      <td><strong>-0.25%</strong></td>
-      <td>혼조 속 소폭 하락</td>
-    </tr>
-    <tr>
-      <td>다우운송</td>
-      <td><strong>-0.29%</strong></td>
-      <td>혼조 마감</td>
-    </tr>
-    <tr>
-      <td>다우존스</td>
-      <td><strong>-0.02%</strong></td>
-      <td>보합에 가까운 혼조 마감</td>
-    </tr>
-    <tr>
-      <td>VIX(공포지수)</td>
-      <td><strong>-0.55%</strong></td>
-      <td>소폭 하락</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>특히 필라델피아 반도체 지수는 장 막판까지 매도세가 강했던 채로 마감했다는 점에서, 국내 반도체 관련주도 월요일 장 초반 매도 압력에 유의할 필요가 있어 보입니다.</p>
-
-<h2 id="오늘의-베팅-등급--전략">오늘의 베팅 등급 &amp; 전략</h2>
-
-<p>오늘 종가베팅 등급은 <strong>위험 신호(경계 구간)</strong>로 나타났습니다. 시장 심리 점수도 <strong>25점</strong>(100점 만점, 낮을수록 약세 심리)으로 낮은 편입니다.</p>
-
-<p>큰 투자기관(기관)과 외국인 수급을 보면, 반도체 급락과 함께 외국인이 <strong>1.3조원</strong> 순매도하며 위험 회피 심리가 두드러졌습니다. 워시 Fed 의장의 매파 발언으로 9월 금리 인상 우려가 부각되면서, 성장주 밸류에이션에 대한 압박이 커지고 있는 국면입니다.</p>
-
-<p>내일(09/01) 저녁 발표되는 ISM 제조업 구매관리자지수(PMI)와 JOLTS 구인건수가 이번 주 방향을 가를 핵심 변수로 꼽힙니다. ISM 제조업 PMI(시장 예상 55.2)가 경기 확장·수축을 가르는 기준선 50을 크게 웃돌면 건설·원자력 관련 테마가 다시 부각될 여지가 있지만, 50에 근접하거나 밑돌면 경기 둔화 우려로 조정 압력이 커질 수 있습니다. JOLTS 구인건수(예상 733만 건)가 예상보다 강하게 나오면 금리 인상 우려가 더 커지며 성장주 약세가 심화될 가능성도 있습니다. 지표 발표 전까지는 신규 진입보다 보유 포지션 관리에 무게를 두는 편이 관건으로 보입니다.</p>
-
-<h2 id="오늘-주목할-변수">오늘 주목할 변수</h2>
-
-<ul>
-  <li><strong>금리</strong>: 워시 Fed 의장의 매파적 발언으로 9월 금리 인상 가능성이 다시 부각됐습니다.</li>
-  <li><strong>금값</strong>: 금리 우려와 무관하게 금 가격은 <strong>4,529.9달러</strong>로 강세를 이어가고 있습니다.</li>
-  <li><strong>유가</strong>: 트럼프 대통령이 베네수엘라산 원유로 미국 비축유를 채우겠다는 방침을 밝혔습니다.</li>
-  <li><strong>가상자산</strong>: 사기 피해액이 합법 업체 영업이익의 <strong>3.4배</strong>에 달할 만큼 제도 공백 부작용이 심화되고 있다는 지적이 나왔습니다.</li>
-  <li><strong>가계부채</strong>: 고금리가 이어지면서 올해 상반기 채무조정 신청자가 10만 명에 육박했습니다.</li>
-</ul>
-
-<p>오늘 하루 이 흐름에서 개인적으로 눈여겨본 부분은, 반도체라는 단일 업종의 급락이 지수 전반의 체감 낙폭보다 훨씬 크다는 점입니다. 다우·S&amp;P500은 보합권인데 반도체만 3%대로 빠졌다는 건, 시장 전체가 무너졌다기보다 특정 업종에 매도가 쏠렸다는 신호로 볼 여지가 있어 보입니다. 다만 이 해석이 맞는지는 오늘 국내 반도체 관련주 흐름과 내일 나올 매크로 지표를 함께 봐야 판단할 수 있을 것 같습니다.</p>
-
-<h2 id="오늘의-정리">오늘의 정리</h2>
-
-<p>반도체발 조정과 금리 우려가 겹치면서 시장 심리가 위축된 하루입니다. 지난 금요일 선별 종목 중 보유 중인 가온전선·삼성SDI는 저녁 애프터마켓 흐름을 참고해 시초가 대응을, 나머지 종목들은 갭 방향을 지켜본 뒤 판단하는 게 관건으로 보입니다. 내일 저녁 ISM·JOLTS 지표까지는 신중한 관찰이 필요한 구간입니다.</p>
-
-<p>궁금한 종목이나 오늘 시황에 대한 의견은 댓글로 남겨주세요 🙌</p>
-
-<p>#종가베팅 #NextTheme #반도체급락 #워시Fed발언 #가온전선 #삼성SDI #NAVER #SK이노베이션 #에이피알 #금리인상우려 #ISM제조업PMI</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[주말 사이 미국 시장에서 반도체가 크게 흔들리면서 월요일 아침 분위기가 무겁습니다. 😥 지난 금요일 선별했던 종목들의 저녁 성적표도 함께 살펴보면서, 오늘 하루 어떻게 대응할지 정리해봅니다.]]></summary></entry></feed>
+<p>#종가베팅 #복기일지 #20260828 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-08-31 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
