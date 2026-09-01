@@ -1,4 +1,231 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-01T20:07:45+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">SK이노베이션 8% 급등, 유가 급등에 정유주 강세인 이유는</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/01/nt2-1505-snapshot/" rel="alternate" type="text/html" title="SK이노베이션 8% 급등, 유가 급등에 정유주 강세인 이유는" /><published>2026-09-01T15:05:00+09:00</published><updated>2026-09-01T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/01/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/01/nt2-1505-snapshot/"><![CDATA[<p>오늘 코스피는 강보합, 코스닥은 약세로 갈린 하락장이었습니다. 그런데 이 와중에도 국제유가 급등 소식에 정유주와 폴더블폰 부품주로 돈이 몰리는 모습이 뚜렷했어요. 시장 전체 분위기가 눌린 날일수록 어디로 자금이 쏠렸는지가 더 잘 보이는데, 오늘은 정유 업종이 그 답이었습니다. 🛢️</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-01T21:06:07+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 강보합, 코스닥 약세 — 유가 급등으로 정유주 강세한 하루</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/01/daily/" rel="alternate" type="text/html" title="코스피 강보합, 코스닥 약세 — 유가 급등으로 정유주 강세한 하루" /><published>2026-09-01T21:00:00+09:00</published><updated>2026-09-01T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/01/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/01/daily/"><![CDATA[<p>어제 반등에 성공한 삼성SDI를 보유했던 전략이 단기 성공을 거두면서 하루를 시작했다. 정유 업종이 중동 긴장 재고조로 자금을 끌어모으고, 폴더블폰 부품주도 움직인 하루였다. 코스피는 강보합했지만 코스닥이 약세를 보이며 시장의 갈림길이 명확했다.</p>
+
+<h2 id="어제-선별이-실제로-수익을-냈나">어제 선별이 실제로 수익을 냈나</h2>
+
+<p>어제 08월 31일 선별했던 <strong>삼성SDI</strong>는 오늘 아침 프리마켓(08:00~09:59)에 실제로 청산되었다. 진입가 58만 원 대비 최고 <strong>+3.45%</strong>, 최저 -2.5%의 움직임을 보이며 <strong>+3.28%의 수익으로 확정</strong>됐다. 우리의 선별 기준이 단기 모멘텀을 포착하는 데 효과가 있었음을 실제로 확인한 하루였다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>프리마켓 갭</th>
+      <th>세션내 최고</th>
+      <th>세션내 최저</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>삼성SDI</td>
+      <td><strong>+3.28%</strong></td>
+      <td>+3.45%</td>
+      <td>-2.5%</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="코스피는-강보합-코스닥은-약세--유가와-금리가-주도한-하루">코스피는 강보합, 코스닥은 약세 — 유가와 금리가 주도한 하루</h2>
+
+<p>오늘 한국 증시는 엇갈린 모습을 보였다. <strong>코스피는 +0.23%</strong>(6,835.8)로 강보합을 유지했지만, <strong>코스닥은 -1.56%</strong>(821.25)로 약세를 기록했다.</p>
+
+<p>미국은 어제 밤 혼조 마감으로 시작했다. 다우 지수 <strong>-0.70%</strong>, S&amp;P500 <strong>-0.33%</strong>, 나스닥 <strong>-0.12%</strong> 하락했으나, 호르무즈 해협 긴장 재개로 <strong>WTI 유가가 86.3달러로 급등</strong>하면서 유가 업종에 자금이 몰렸다. 미국 10년물 금리는 <strong>4.75%</strong>까지 올라 1년 7개월 최고가를 기록했고, <strong>필라델피아 반도체는 +0.57%</strong>로 기술주 일부가 강세를 유지했다.</p>
+
+<p>한국 증시는 이 국제 흐름에 따라 정유주와 기술주가 엇갈리는 형태를 보였다.</p>
+
+<h2 id="거래대금-상위-종목--반도체-대형주-주도-정유주-강세-포착">거래대금 상위 종목 — 반도체 대형주 주도, 정유주 강세 포착</h2>
+
+<p>오늘 하루 거래대금이 집중된 종목들을 보면 시장의 움직임이 명확하다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: right">순위</th>
+      <th>종목</th>
+      <th>거래대금</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: right">1</td>
+      <td>SK하이닉스</td>
+      <td>5조 4,635억원</td>
+      <td>+1.25%</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">2</td>
+      <td>삼성전자</td>
+      <td>4조 2,316억원</td>
+      <td>+0.19%</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">3</td>
+      <td>삼성전기</td>
+      <td>1조 2,930억원</td>
+      <td>-1.65%</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">4</td>
+      <td>삼성SDI</td>
+      <td>5,898억원</td>
+      <td>-0.87%</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">5</td>
+      <td>SK스퀘어</td>
+      <td>5,501억원</td>
+      <td>+2.7%</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">6</td>
+      <td>SK이노베이션</td>
+      <td>5,311억원</td>
+      <td><strong>+8.05%</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>SK이노베이션이 6위로 뛰어들었다.</strong> 유가 급등 속에서 정유 대장 역할을 톡톡히 해냈다.</p>
+
+<h2 id="주도-테마--탈모-치료폴더블폰정유가-상위">주도 테마 — 탈모 치료·폴더블폰·정유가 상위</h2>
+
+<p>오늘 테마별 상승 종목 비중을 보면 순환매의 흐름이 보인다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: right">순위</th>
+      <th>테마</th>
+      <th>상승/전체</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: right">1</td>
+      <td>탈모 치료</td>
+      <td>19/26</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">2</td>
+      <td>폴더블폰</td>
+      <td>13/24</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">3</td>
+      <td>정유</td>
+      <td>2/3</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">4</td>
+      <td>마리화나(대마)</td>
+      <td>7/9</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">5</td>
+      <td>낙태/피임</td>
+      <td>3/4</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>탈모 치료(73%)와 폴더블폰(54%)이 강세를 보였으나, <strong>정유는 3개 종목 중 2개만 상승</strong>이라는 것은 정유 업종이 극소수 대형주(SK이노베이션 등) 중심으로 움직였음을 의미한다.</p>
+
+<h2 id="오늘-종가-선별--유가-급등으로-정유-대장-sk이노베이션-선택">오늘 종가 선별 — 유가 급등으로 정유 대장 SK이노베이션 선택</h2>
+
+<p><strong>최종 선별 등급: RED(약세)</strong> — 이는 전반적인 시장 심약도를 반영한다. 다만 그 와중에도 한 종목이 선별됐다.</p>
+
+<h3 id="sk이노베이션-096770--정유-업종-대장의-반등">SK이노베이션 (096770) — 정유 업종 대장의 반등</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>항목</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>종가</strong></td>
+      <td><strong>135,600원</strong></td>
+    </tr>
+    <tr>
+      <td><strong>등락률</strong></td>
+      <td><strong>+8.05%</strong></td>
+    </tr>
+    <tr>
+      <td><strong>AI 점수</strong></td>
+      <td><strong>49점</strong></td>
+    </tr>
+    <tr>
+      <td><strong>선별 전략</strong></td>
+      <td>GAP_TRADE</td>
+    </tr>
+    <tr>
+      <td><strong>거래대금</strong></td>
+      <td>5,311억원</td>
+    </tr>
+    <tr>
+      <td><strong>시가총액</strong></td>
+      <td>22.9조원</td>
+    </tr>
+    <tr>
+      <td><strong>주도 테마</strong></td>
+      <td>정유 (1위)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>선별 근거</strong>: 국제 유가가 86달러까지 급등하면서 정유 업종이 재활력을 얻었다. SK이노베이션은 기관이 <strong>27만 주</strong>를 순매수하며 지지 세력이 들어왔고, 15분 차트에서 60일 이평선을 밟고 반등하는 모습을 보였다. <strong>RSI는 61.3</strong>으로 과열되지 않았고, <strong>회전율(RVOL)은 2.6배</strong>로 충분한 거래량이 뒷받침됐다. 밤사이 유가 강세가 지속되면 내일 아침 시초가에 자금이 다시 몰릴 자리라는 판단이다.</p>
+
+<p><strong>보유 현황</strong>: SK이노베이션은 오늘 <strong>낮 시간(EXPLORE_LUNCH) 슬롯</strong>과 <strong>최종(FINAL) 슬롯</strong> 양쪽에서 선별되어 보유 중이다. 오늘 저녁 애프터마켓(15:40~19:59)에는 진입가 13만 4,376원 대비 <strong>최고 +0.91%</strong>, <strong>최저 -0.65%</strong>의 변동을 보였으며, <strong>저녁 갭은 +0.84%</strong>로 잠정 기록됐다. 실현은 내일 아침 청산 시점까지 유지되는 상태다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>항목</th>
+      <th>기술 지표</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>RSI</td>
+      <td>61.3</td>
+    </tr>
+    <tr>
+      <td>RVOL (회전율)</td>
+      <td>2.6배</td>
+    </tr>
+    <tr>
+      <td>이평수렴</td>
+      <td>+0.08%</td>
+    </tr>
+    <tr>
+      <td>52주 신고가</td>
+      <td>아님</td>
+    </tr>
+    <tr>
+      <td>기관 순매수</td>
+      <td>+27만 주</td>
+    </tr>
+    <tr>
+      <td>외인 순매수</td>
+      <td>0주</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="오늘을-어떻게-기록할-것인가">오늘을 어떻게 기록할 것인가</h2>
+
+<p>9월 첫째 거래일은 <strong>수익과 약세가 공존한 하루</strong>였다.</p>
+
+<p>어제 우리가 선별한 삼성SDI는 아침에 <strong>3.28% 수익</strong>을 실현해 우리 기준의 효율성을 확인해줬다. 오늘은 국제유가가 호르무즈 해협 긴장으로 <strong>86달러까지 급등</strong>하면서 정유주가 주도권을 잡았다. 코스피는 강보합했지만 코스닥이 약세를 보이며 시장의 갈림길이 명확했던 하루다.</p>
+
+<p>내일은 한국 9월 CPI 발표(전망 3.2%)와 미국 ADP 고용지표가 예정되어 있어 <strong>변동성 리스크</strong>가 높을 것으로 보인다. 오늘 밤사이 유가 강세와 다우 약세의 흐름이 어떻게 흘러가는지가 내일 시초가 방향을 결정할 것 같다.</p>
+
+<p>투자의 본질은 “오늘 내가 본 데이터에서 내일의 신호를 읽는 것”이다. 매일 우리가 기록하는 선별이 그 신호다.</p>
+
+<hr />
+
+<p>#종가베팅 #SK이노베이션 #정유주 #유가 #NextTheme #코스피 #반도체</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[어제 반등에 성공한 삼성SDI를 보유했던 전략이 단기 성공을 거두면서 하루를 시작했다. 정유 업종이 중동 긴장 재고조로 자금을 끌어모으고, 폴더블폰 부품주도 움직인 하루였다. 코스피는 강보합했지만 코스닥이 약세를 보이며 시장의 갈림길이 명확했다.]]></summary></entry><entry><title type="html">SK이노베이션 8% 급등, 유가 급등에 정유주 강세인 이유는</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/01/nt2-1505-snapshot/" rel="alternate" type="text/html" title="SK이노베이션 8% 급등, 유가 급등에 정유주 강세인 이유는" /><published>2026-09-01T15:05:00+09:00</published><updated>2026-09-01T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/01/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/01/nt2-1505-snapshot/"><![CDATA[<p>오늘 코스피는 강보합, 코스닥은 약세로 갈린 하락장이었습니다. 그런데 이 와중에도 국제유가 급등 소식에 정유주와 폴더블폰 부품주로 돈이 몰리는 모습이 뚜렷했어요. 시장 전체 분위기가 눌린 날일수록 어디로 자금이 쏠렸는지가 더 잘 보이는데, 오늘은 정유 업종이 그 답이었습니다. 🛢️</p>
 
 <h2 id="오늘-시장-한마디로-정리하면">오늘 시장, 한마디로 정리하면</h2>
 
@@ -1615,155 +1842,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <p>궁금한 종목이나 오늘 시황에 대한 의견은 댓글로 남겨주세요 🙌</p>
 
-<p>#종가베팅 #NextTheme #반도체급락 #워시Fed발언 #가온전선 #삼성SDI #NAVER #SK이노베이션 #에이피알 #금리인상우려 #ISM제조업PMI</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[주말 사이 미국 시장에서 반도체가 크게 흔들리면서 월요일 아침 분위기가 무겁습니다. 😥 지난 금요일 선별했던 종목들의 저녁 성적표도 함께 살펴보면서, 오늘 하루 어떻게 대응할지 정리해봅니다.]]></summary></entry><entry><title type="html">Fed 매파 속 성장주 약세, 코스닥은 중소형주 순환장으로 반등 — 한 주간 시장 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/30/weekly/" rel="alternate" type="text/html" title="Fed 매파 속 성장주 약세, 코스닥은 중소형주 순환장으로 반등 — 한 주간 시장 정리" /><published>2026-08-30T06:00:00+09:00</published><updated>2026-08-30T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/30/weekly</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/30/weekly/"><![CDATA[<h2 id="한-주는-두-개의-이야기가-났다">한 주는 두 개의 이야기가 났다</h2>
-
-<p>지난 월요일부터 금요일까지 국내 증시는 이중 구조를 보여줬습니다. <strong>코스피는 -1.79% 내려</strong>가며 대형주 중심의 약세를 기록했지만, <strong>코스닥은 +4.55% 올라</strong>가며 중소형주의 강한 순환을 보여줬습니다. 🔄</p>
-
-<p>이 차이는 외국인의 움직임에서 비롯됐습니다. 외국인이 <strong>-7.7조원</strong>을 순매도하면서 대형주와 성장주에서 손을 뗐고, 그 빈자리를 개인 투자자(+1,690억원)와 기관(미약한 순매도)이 채우려다 보니 중소형주 중심의 자금 순환이 일어났던 것입니다.</p>
-
-<hr />
-
-<h2 id="워시-fed-의장의-매파-발언이-모든-것을-바꿨다">워시 Fed 의장의 매파 발언이 모든 것을 바꿨다</h2>
-
-<p>이번 주 시장을 움직인 가장 큰 변수는 <strong>미국 연방준비제도(Fed)의 기조 전환</strong>이었습니다.</p>
-
-<ul>
-  <li><strong>원/달러 환율</strong>: 1,385.0원에서 <strong>1,374.6원까지 강세</strong>를 보였습니다 (-0.75%). 원화 강세는 반도체 수출 수혜 기대를 반영했지만, 성장주 밸류에이션 압박으로는 이어지지 못했습니다.</li>
-  <li><strong>유가는 70달러대까지 하락</strong>했습니다. 미-베네수엘라 석유 합의 덕분이었지만, 정유주들도 한정적 수혜에 그쳤습니다.</li>
-</ul>
-
-<p>그 사이 <strong>엔비디아 실적 호조</strong>는 긍정적 신호였으나, 반도체 대형주들은 <strong>외국인 순매도로 인한 차익실현 압력</strong>을 받으며 부진했습니다. 한국 반도체 관련주도 메모리 가격 상승이 마진 압박 우려로 전환되면서 같은 맥락에서 약세를 면치 못했습니다.</p>
-
-<hr />
-
-<h2 id="테마-수명이-왜-이렇게-짧았을까--정책주의-금요일-급락">테마 수명이 왜 이렇게 짧았을까? — 정책주의 금요일 급락</h2>
-
-<p>이번 주 가장 눈에 띄는 흐름은 <strong>“테마의 급격한 등락”</strong>이었습니다. 🎢</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>테마</th>
-      <th>움직임</th>
-      <th>주요 이유</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>원전·건설·전력설비</strong></td>
-      <td>월~목 급등 → 금요일 급락</td>
-      <td>정부 정책 기대 이후 단기 과열 조정</td>
-    </tr>
-    <tr>
-      <td><strong>2차전지·전선</strong></td>
-      <td>부분 강세</td>
-      <td>트럼프 전력망 비상사태 선포 + AI 데이터센터 확장 수혜</td>
-    </tr>
-    <tr>
-      <td><strong>반도체 대형주</strong></td>
-      <td>약세 지속</td>
-      <td>외국인 순매도 + 메모리 가격 상승 마진 우려</td>
-    </tr>
-    <tr>
-      <td><strong>바이오·성장주</strong></td>
-      <td>급락</td>
-      <td>금리 인상 우려로 밸류에이션 압박 심화</td>
-    </tr>
-    <tr>
-      <td><strong>정유</strong></td>
-      <td>금요일 유일 강세</td>
-      <td>중동 긴장 지속로 정제마진 강세 유지</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>특히 <strong>원전과 건설은 목요일까지 매력적인 상승률</strong>을 기록했으나, <strong>금요일 급락으로 모멘텀이 한순간에 소멸</strong>되었습니다. 이는 단기 과열 조정 국면으로 해석됩니다.</p>
-
-<hr />
-
-<h2 id="9월-첫-주-매크로-불확실성이-높아진다">9월 첫 주: 매크로 불확실성이 높아진다</h2>
-
-<p><strong>09/04(금) 미국 비농업고용지수(NFP)</strong>가 가장 중요한 변수입니다.</p>
-
-<ul>
-  <li><strong>고용 둔화 신호가 나오면</strong> (예상 58K) 금리 인상 우려가 후퇴하며 <strong>성장주 반등 기회</strong>가 있습니다.</li>
-  <li><strong>예상보다 강한 고용지표가 나오면</strong> 금리 인상 확률이 높아지며 <strong>추가 조정 압력</strong>이 커집니다.</li>
-</ul>
-
-<p>그 외 선행 지표도 중요합니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>날짜</th>
-      <th>지표</th>
-      <th>예상값</th>
-      <th>영향도</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>09/01(화) 23:00</td>
-      <td>ISM 제조업 PMI</td>
-      <td>55.2</td>
-      <td>기준선 50 상회 → 경기 확장 기대 → 원전·건설 재부각</td>
-    </tr>
-    <tr>
-      <td>09/02(수) 08:00</td>
-      <td><strong>한국 CPI</strong></td>
-      <td>—</td>
-      <td>2.8% 둔화 → 한은 금리 부담 완화 → 코스닥 수혜</td>
-    </tr>
-    <tr>
-      <td>09/03(목) 23:00</td>
-      <td>ISM 비제조업 PMI</td>
-      <td>54.1</td>
-      <td>서비스 경기 지속 여부 = 코스피 방향성 영향</td>
-    </tr>
-    <tr>
-      <td>09/04(금) 21:30</td>
-      <td><strong>미국 NFP</strong></td>
-      <td>58K</td>
-      <td>고용 둔화 → 성장주 반등 기회</td>
-    </tr>
-  </tbody>
-</table>
-
-<hr />
-
-<h2 id="다음-주-대응-전략-확인과-기다림의-균형">다음 주 대응 전략: 확인과 기다림의 균형</h2>
-
-<p>NFP 발표 직전까지는 <strong>시장 방향성이 불확실</strong>합니다. 현재 상황에서 투자자가 주목할 점은 다음과 같습니다.</p>
-
-<ol>
-  <li>
-    <p><strong>원전·건설 정책주 조정 마무리 확인</strong><br />
-금요일 급락 이후 추가 하락 여부를 먼저 살피세요. 상승 재개 신호가 명확할 때까지는 신중한 관찰이 필요합니다.</p>
-  </li>
-  <li>
-    <p><strong>한국 CPI(09/02 08:00) 발표 직후 시장 반응 포착</strong><br />
-결과에 따라 코스닥 중소형주의 변동성이 급등할 수 있으므로, 발표 직후 장 초반의 방향성을 먼저 확인합니다.</p>
-  </li>
-  <li><strong>ISM 제조업 PMI(09/01) 예상치 대비 강약 판단</strong>
-    <ul>
-      <li>예상(55.2)보다 높으면 → 건설·원자력 재부각 가능성 높음</li>
-      <li>예상보다 낮으면 → 정유·화장품 등 방어주 순환 강화 가능</li>
-    </ul>
-  </li>
-  <li><strong>주의할 리스크: 테마의 연쇄 약세</strong><br />
-금요일 원전·건설의 급락이 다음주까지 이어질 가능성도 고려해야 합니다. <strong>무효화 신호가 명확할 때까지 성급한 추격은 피하는 것이 관건</strong>입니다.</li>
-</ol>
-
-<hr />
-
-<h2 id="한-주를-마감하며">한 주를 마감하며</h2>
-
-<p>지난주 코스피와 코스닥의 극명한 대비는 <strong>시장의 불확실성이 높아졌음</strong>을 보여줍니다. 대형주 중심의 고배당 가치주는 금리 인상 우려로 약세를 보였고, 중소형주는 상대적 밸류에이션 매력과 정책 테마로 강세를 유지했습니다.</p>
-
-<p>9월은 <strong>美 고용 지표와 한국 CPI가 시장의 나침반</strong> 역할을 할 것 같습니다. 급등도, 급락도 아닌 <strong>확인과 기다림의 국면</strong>에서 관찰력을 잃지 않는 것이 다음 주의 투자 핵심입니다. 📊</p>
-
-<p>궁금한 테마나 지표에 대한 생각을 댓글로 나눠주세요. 함께 시장을 읽어가겠습니다!</p>
-
-<hr />
-
-<p>#이번주시장 #코스피 #코스닥 #금리인상 #테마순환 #한주간분석 #증시정리 #투자분석 #원전 #건설주 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="weekly" /><summary type="html"><![CDATA[한 주는 두 개의 이야기가 났다]]></summary></entry></feed>
+<p>#종가베팅 #NextTheme #반도체급락 #워시Fed발언 #가온전선 #삼성SDI #NAVER #SK이노베이션 #에이피알 #금리인상우려 #ISM제조업PMI</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[주말 사이 미국 시장에서 반도체가 크게 흔들리면서 월요일 아침 분위기가 무겁습니다. 😥 지난 금요일 선별했던 종목들의 저녁 성적표도 함께 살펴보면서, 오늘 하루 어떻게 대응할지 정리해봅니다.]]></summary></entry></feed>
