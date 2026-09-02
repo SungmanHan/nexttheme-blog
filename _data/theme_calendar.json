@@ -1,42 +1,42 @@
 {
-  "lastTradingDay" : "2026-09-01",
-  "totalDays" : 80,
+  "lastTradingDay" : "2026-09-02",
+  "totalDays" : 81,
   "summary" : {
-    "tradingDays" : 80,
+    "tradingDays" : 81,
     "sectorCount" : 16,
-    "upDays" : 72,
-    "avgChangeRate" : 5.51,
+    "upDays" : 73,
+    "avgChangeRate" : 5.49,
     "topSector" : "반도체·AI인프라",
     "topSectorDays" : 20
   },
   "now" : {
-    "date" : "2026-09-01",
+    "date" : "2026-09-02",
     "bettingGrade" : "RED",
-    "regimeTag" : "RED_EXHAUST",
+    "regimeTag" : "RED_ALL_DOWN",
     "themeRegime" : "THEME_LED",
-    "marketSignal" : "혼조",
-    "kospi" : 0.23,
-    "kosdaq" : -1.56,
-    "leadTheme" : "낙태/피임",
-    "leadChangeRate" : 11.15,
-    "themePremium" : 10.92
+    "marketSignal" : "약세",
+    "kospi" : -3.99,
+    "kosdaq" : -2.1,
+    "leadTheme" : "해운",
+    "leadChangeRate" : 4.29,
+    "themePremium" : 8.28
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
     "rank1Days" : 20,
-    "top3Days" : 31
+    "top3Days" : 32
   }, {
     "sector" : "자동차·2차전지",
     "rank1Days" : 12,
     "top3Days" : 23
   }, {
+    "sector" : "조선·해운",
+    "rank1Days" : 6,
+    "top3Days" : 17
+  }, {
     "sector" : "전자부품·기판",
     "rank1Days" : 5,
     "top3Days" : 17
-  }, {
-    "sector" : "조선·해운",
-    "rank1Days" : 5,
-    "top3Days" : 16
   }, {
     "sector" : "전력·전선·신재생",
     "rank1Days" : 5,
@@ -46,6 +46,10 @@
     "rank1Days" : 3,
     "top3Days" : 13
   }, {
+    "sector" : "매크로·기타",
+    "rank1Days" : 8,
+    "top3Days" : 12
+  }, {
     "sector" : "금융",
     "rank1Days" : 3,
     "top3Days" : 12
@@ -53,10 +57,6 @@
     "sector" : "정유·화학·원자재",
     "rank1Days" : 3,
     "top3Days" : 12
-  }, {
-    "sector" : "매크로·기타",
-    "rank1Days" : 8,
-    "top3Days" : 11
   }, {
     "sector" : "소비재·유통",
     "rank1Days" : 3,
@@ -1529,6 +1529,25 @@
         "changeRate" : 4.79
       } ],
       "mainStock" : ""
-    }, null, null, null ] ]
+    }, {
+      "day" : 2,
+      "date" : "2026-09-02",
+      "theme" : "해운",
+      "sector" : "조선·해운",
+      "changeRate" : 4.29,
+      "prevDay" : "NEW",
+      "regime" : "THEME_LED",
+      "slot" : "15:00",
+      "kospi" : -3.99,
+      "themePremium" : 8.28,
+      "runners" : [ {
+        "theme" : "남북경협",
+        "changeRate" : 2.48
+      }, {
+        "theme" : "HBM(고대역폭메모리)",
+        "changeRate" : 0.37
+      } ],
+      "mainStock" : ""
+    }, null, null ] ]
   } ]
 }
