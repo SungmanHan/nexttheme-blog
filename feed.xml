@@ -1,4 +1,227 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-02T20:09:33+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">주성엔지니어링 오늘 왜 올랐나 — 급락장 속 반도체 대장의 거래대금과 자금 흐름</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/02/nt2-1505-snapshot/" rel="alternate" type="text/html" title="주성엔지니어링 오늘 왜 올랐나 — 급락장 속 반도체 대장의 거래대금과 자금 흐름" /><published>2026-09-02T15:05:00+09:00</published><updated>2026-09-02T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/02/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/02/nt2-1505-snapshot/"><![CDATA[<p>오늘 코스피가 <strong>−3.82%</strong> 급락했습니다. 유가가 90달러를 돌파하고 중동 긴장이 고조되면서 외국인과 기관이 <strong>4.8조 원</strong>을 동반 매도한 날입니다. 그런 와중에도 반도체 장비 섹터만 홀로 방어 강세를 유지했습니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-02T21:07:29+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">유가 90달러 돌파, 시장 리스크 오프 전환 — 오늘 코스피 급락 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/02/daily/" rel="alternate" type="text/html" title="유가 90달러 돌파, 시장 리스크 오프 전환 — 오늘 코스피 급락 정리" /><published>2026-09-02T21:00:00+09:00</published><updated>2026-09-02T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/02/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/02/daily/"><![CDATA[<h2 id="어제-판단은-실제로-어땠나">어제 판단은 실제로 어땠나</h2>
+
+<p>어제(9월 1일) AI가 선별한 SK이노베이션은 오늘 아침 어떻게 실현됐을까요?</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>진입가</th>
+      <th>아침 실현 갭</th>
+      <th>세션 최고</th>
+      <th>세션 최저</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>SK이노베이션</strong></td>
+      <td>134,376원</td>
+      <td><strong>-0.28%</strong></td>
+      <td>+2.92%</td>
+      <td>-2.07%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>분석</strong>: 어제 선별에서 기대했던 긍정 신호들이 오전 초반에는 유지되었습니다. 아침 고점에서는 <strong>+2.92%</strong> 수준까지 진입가를 웃돌았으나, 미국 야간 지수 약세(다우 -0.79%, 나스닥 -1.03%)와 중동 긴장 악화 뉴스가 들어오면서 <strong>점진적으로 약해져 결국 -0.28%로 마감</strong>했습니다. 장중 변동폭은 <strong>5.0%p</strong>(고점 vs 저점)로 상당했지만, 종가베팅의 청산은 아침 이 시점에서 결정되므로 이날은 소폭 손실로 기록되었습니다.</p>
+
+<hr />
+
+<h2 id="오늘-시장은-어땠나">오늘 시장은 어땠나</h2>
+
+<p><strong>코스피: 6,562.72 (-3.99%) / 코스닥: 803.98 (-2.10%)</strong></p>
+
+<p>📉 오늘은 한국 증시 전체가 ‘리스크 오프’ 국면으로 전환한 하루였습니다.</p>
+
+<p><strong>미국 야간 시장 부진</strong> — 미국 3대지수가 일제히 내렸습니다:</p>
+<ul>
+  <li>S&amp;P 500: <strong>-0.71%</strong></li>
+  <li>나스닥: <strong>-1.03%</strong></li>
+  <li>반도체지수: <strong>-2.14%</strong> (기술주 약세 신호)</li>
+</ul>
+
+<p>여기에 <strong>글로벌 유가 급등</strong>(WTI유 <strong>+4.9%, 90.6달러 돌파)이 겹치면서 인플레 우려가 시장을 덮었습니다. 오늘 외국인과 기관이 함께 **4.8조 규모 순매도</strong>를 단행했고, 시초가부터 약세로 출발해 하루 종일 외국인 팔기가 계속되는 패턴이었습니다.</p>
+
+<p><strong>근 3주 흐름을 보면</strong>:</p>
+<ul>
+  <li>8월 14일: 6,977.94 (월중 고점)</li>
+  <li>8월 19일: 6,471.17 (낙폭 -507포인트)</li>
+  <li>8월 28일: 6,788.88 (반등)</li>
+  <li>9월 2일: 6,562.72 <strong>(다시 -226포인트 약세)</strong></li>
+</ul>
+
+<p>조정장이 계속 이어지고 있습니다.</p>
+
+<hr />
+
+<h2 id="무엇이-움직였나">무엇이 움직였나</h2>
+
+<p><strong>거래대금 상위 종목</strong>:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>순위</th>
+      <th>종목</th>
+      <th>거래대금</th>
+      <th>변화율</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>SK하이닉스</td>
+      <td>4.9조원</td>
+      <td><strong>-4.31%</strong></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>삼성전자</td>
+      <td>4.8조원</td>
+      <td><strong>-4.02%</strong></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>알테오젠</td>
+      <td>1.2조원</td>
+      <td>-0.33%</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>삼성전기</td>
+      <td>9,121억원</td>
+      <td>-1.47%</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>SK스퀘어</td>
+      <td>6,279억원</td>
+      <td><strong>-7.50%</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>대형 반도체주가 몸 사리는 형태</strong> — SK하이닉스와 삼성전자가 거래대금 1, 2위를 차지했지만 동시에 <strong>-4% 이상의 낙폭</strong>을 기록했습니다. 즉, <strong>외국인이 대량으로 파는 종목들</strong>입니다.</p>
+
+<p><strong>테마별 흐름</strong>:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>테마</th>
+      <th>상승 종목</th>
+      <th>전체 종목</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>반도체 장비</strong></td>
+      <td><strong>36</strong></td>
+      <td><strong>95</strong></td>
+    </tr>
+    <tr>
+      <td>반도체 HBM</td>
+      <td>12</td>
+      <td>34</td>
+    </tr>
+    <tr>
+      <td>남북경협</td>
+      <td>16</td>
+      <td>29</td>
+    </tr>
+    <tr>
+      <td>소캠(SOCAMM)</td>
+      <td>3</td>
+      <td>11</td>
+    </tr>
+    <tr>
+      <td>해운</td>
+      <td>2</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>전자파</td>
+      <td>3</td>
+      <td>11</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>반도체 장비 테마만 **완전 방어</strong> — 95개 중 36개가 상승<strong>하며 급락장의 **유일한 안식처</strong> 역할을 했습니다. 이는 미국 실적 부진 국면에서도 “반도체 생산 설비를 놓지 않겠다”는 기관·외인의 의도가 드러난 것입니다.</p>
+
+<hr />
+
+<h2 id="종가-선별-결과">종가 선별 결과</h2>
+
+<p><strong>베팅등급: 관망 모드</strong></p>
+
+<p>오늘 15:10 최종 선별에서는 <strong>1개 종목만 기둥으로 선택</strong>되었습니다.</p>
+
+<h3 id="주성엔지니어링036930--반도체-장비-테마-대장">주성엔지니어링(036930) — 반도체 장비 테마 대장</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>종가</strong></td>
+      <td><strong>175,900원 (+1.68%)</strong></td>
+    </tr>
+    <tr>
+      <td>거래대금</td>
+      <td>1,703억원</td>
+    </tr>
+    <tr>
+      <td>시총</td>
+      <td>8.2조원</td>
+    </tr>
+    <tr>
+      <td>주도테마</td>
+      <td>반도체 장비 (테마내 1위)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>수급</strong>:</p>
+<ul>
+  <li>외인: +3만 주 (순매수)</li>
+  <li>기관: +1만 주 (순매수)</li>
+</ul>
+
+<p><strong>기술 지표</strong>:</p>
+<ul>
+  <li>RSI: 53.9 (과열 없음, 중립)</li>
+  <li>RVOL: 0.79배 (평년 거래량)</li>
+  <li>이평 수렴: +0.06% (약 정렬)</li>
+</ul>
+
+<p><strong>AI 분석 요약</strong>:</p>
+
+<p>“반도체 장비 테마의 중심 종목으로, 오늘 같은 급락장에서도 거래대금이 일관되게 몰렸습니다. 오후 들어서도 <strong>15분봉 60선을 계속 지키며 반등 신호</strong>를 유지했고, 외국인과 기관이 함께 매수하는 <strong>쏠림 신호</strong>가 뚜렷했습니다. 대형주 매도가 계속되는 와중에 <strong>이 종목만 상승</strong>하며 급락장에서의 기둥 역할을 했습니다.”</p>
+
+<p><strong>평가</strong>: 오늘 같은 리스크 오프 국면에서도 버틴 모멘텀이 내일 시초가 갭상승으로 이어질 수 있다는 판단입니다.</p>
+
+<hr />
+
+<h2 id="오늘을-어떻게-기록할-것인가">오늘을 어떻게 기록할 것인가</h2>
+
+<p><strong>이 하루는 “글로벌 악재에 따른 한국 시장의 기술적 조정”으로 기억됩니다.</strong></p>
+
+<p>미국 3대지수가 일제히 내렸고, 유가가 90달러를 돌파하면서 <strong>인플레이션 재상승 우려</strong>가 시장을 덮었습니다. 외국인 팔기가 집중된 대형 반도체주(SK하이닉스, 삼성전자)는 <strong>무려 -4%대 낙폭</strong>까지 내렸고, 코스피는 <strong>-3.99%</strong>로 마감했습니다.</p>
+
+<p>다만 주목할 점은 <strong>반도체 장비 섹터의 완전 방어</strong>입니다. 95개 중 36개가 상승하며 수급의 분화가 뚜렷했습니다. 내일 시장이 미국 지표(신규 실업수당, 서비스 구매관리자지수)에 어떻게 반응할지에 따라 장중 방향이 결정될 것입니다.</p>
+
+<p><strong>주성엔지니어링은 이 흐름 속에서 기둥 역할을 했습니다.</strong> 기관과 외인의 쏠림, 기술적 지지(60선 수지), 그리고 상승의 모멘텀이 모두 살아있었습니다. 내일 시초가에서 이 모멘텀이 갭으로 실현될지가 핵심입니다.</p>
+
+<hr />
+
+<p><strong>댓글로 오늘 시장 소감을 나눠주세요. 내일은 어떤 모습일 것 같나요?</strong></p>
+
+<p>#코스피 #반도체장비 #주성엔지니어링 #유가 #급락장 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[어제 판단은 실제로 어땠나]]></summary></entry><entry><title type="html">주성엔지니어링 오늘 왜 올랐나 — 급락장 속 반도체 대장의 거래대금과 자금 흐름</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/02/nt2-1505-snapshot/" rel="alternate" type="text/html" title="주성엔지니어링 오늘 왜 올랐나 — 급락장 속 반도체 대장의 거래대금과 자금 흐름" /><published>2026-09-02T15:05:00+09:00</published><updated>2026-09-02T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/02/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/02/nt2-1505-snapshot/"><![CDATA[<p>오늘 코스피가 <strong>−3.82%</strong> 급락했습니다. 유가가 90달러를 돌파하고 중동 긴장이 고조되면서 외국인과 기관이 <strong>4.8조 원</strong>을 동반 매도한 날입니다. 그런 와중에도 반도체 장비 섹터만 홀로 방어 강세를 유지했습니다.</p>
 
 <h2 id="시장의-흐름">시장의 흐름</h2>
 
@@ -1564,308 +1787,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <p><strong>오늘 하루, 어떤 경험을 하셨나요? 댓글로 나눠주세요. 🎯 이웃 추가하시면 매일 분석 소식을 받아보실 수 있습니다.</strong></p>
 
-<p>#미국시장 #금리인상 #유가급등 #CPI #위험국면 #종가베팅 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[9월 첫날, 시장이 예상치 못한 지정학적 리스크에 흔들리고 있습니다. 호르무즈 해협 긴장이 재고조되면서 유가는 한 달 최고치로 급등했고, 변동성 지수(VIX)는 급상승했습니다. 투자자들의 마음도 가팔라진 상황입니다.]]></summary></entry><entry><title type="html">코스피 6,820선 마감, 반도체 급락 속 2차전지로 쏠린 하루</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/08/31/daily/" rel="alternate" type="text/html" title="코스피 6,820선 마감, 반도체 급락 속 2차전지로 쏠린 하루" /><published>2026-08-31T21:00:00+09:00</published><updated>2026-08-31T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/08/31/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/08/31/daily/"><![CDATA[<p>안녕하세요 😊 오늘 하루도 국내 증시를 정리하는 시간입니다. 밤사이 미국 반도체 지수가 크게 흔들렸는데도 국내 코스피는 소폭 상승 마감했고, 자금은 유독 2차전지 관련 종목으로 몰렸습니다. 오늘 하루를 숫자로 차근차근 정리해보겠습니다.</p>
-
-<h2 id="어제-고른-종목-오늘-아침-실제로-어땠을까">어제 고른 종목, 오늘 아침 실제로 어땠을까?</h2>
-
-<p>종가베팅은 전날 장 마감 즈음 후보를 고르고, 실제 수익은 다음 날 아침 시초가 근처에서 결정됩니다. 그래서 매일 “어제 고른 종목이 오늘 아침 실제로 어떻게 움직였는지”를 먼저 짚고 넘어갑니다. 오늘은 결과가 엇갈렸습니다 — 좋았던 종목도, 아쉬웠던 종목도 있는 그대로 전해드립니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>AI 선별 시점(진입가) 대비 시가 갭</th>
-      <th>관측 구간 내 최고</th>
-      <th>관측 구간</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>SK이노베이션</td>
-      <td><strong>+6.1%</strong></td>
-      <td>+7.3%</td>
-      <td>08:00~09:59</td>
-    </tr>
-    <tr>
-      <td>가온전선</td>
-      <td><strong>+2.8%</strong></td>
-      <td>+2.8%</td>
-      <td>08:00~09:37</td>
-    </tr>
-    <tr>
-      <td>삼성SDI</td>
-      <td>+1.9%</td>
-      <td>+2.3%</td>
-      <td>08:00~08:07(7분, 부분 관측)</td>
-    </tr>
-    <tr>
-      <td>에이피알</td>
-      <td><strong>-2.2%</strong></td>
-      <td>+0.1%</td>
-      <td>08:00~09:59</td>
-    </tr>
-    <tr>
-      <td>NAVER</td>
-      <td><strong>-2.3%</strong></td>
-      <td>+0.7%</td>
-      <td>08:00~09:59</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>SK이노베이션과 가온전선은 진입가 대비 아침 시가가 뚜렷하게 높게 형성됐지만, 에이피알과 NAVER는 오히려 진입가를 밑도는 시가로 출발했습니다. 다섯 종목 중 세 종목은 플러스, 두 종목은 마이너스로 갈린 하루였습니다.</p>
-
-<h2 id="오늘-고른-종목은-지금-저녁-시장에서-어떻게-움직이고-있을까">오늘 고른 종목은 지금 저녁 시장에서 어떻게 움직이고 있을까?</h2>
-
-<p>아래는 오늘 새로 선별된 종목들이 저녁 애프터마켓(15:40~19:59)에서 보이는 <strong>잠정</strong> 흐름입니다. 아직 확정된 결과가 아니며, 실제 성과는 내일 아침 장이 열려야 확인할 수 있습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>AI 선별 시점(진입가) 대비 잠정 흐름</th>
-      <th>저녁 구간 내 최고</th>
-      <th>관측 구간</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>SK이노베이션</td>
-      <td>+1.2%</td>
-      <td>+1.2%</td>
-      <td>15:40~19:59</td>
-    </tr>
-    <tr>
-      <td>삼성SDI</td>
-      <td>+0.7%</td>
-      <td>+2.1%</td>
-      <td>15:40~19:59</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>두 종목 모두 저녁 시간대에는 진입가를 웃도는 흐름을 보이고 있지만, 이 숫자가 내일 아침 시가까지 그대로 이어질지는 알 수 없습니다.</p>
-
-<h2 id="오늘-코스피코스닥-시장은-어땠나요">오늘 코스피·코스닥 시장은 어땠나요?</h2>
-
-<p>간밤 미국 증시는 다우 -0.02%, S&amp;P500 -0.25%, 나스닥 -0.52%로 소폭 하락했는데, 특히 필라델피아 반도체 지수가 <strong>-3.47%</strong>로 크게 밀렸습니다. 워시 연준(Fed) 의장의 매파적(금리 인상 쪽에 무게를 두는) 발언으로 9월 금리 인상 우려가 부각되면서 외국인 투자자가 국내 증시에서 1.3조원어치를 순매도한 위험 회피 국면이었습니다.</p>
-
-<p>그럼에도 코스피는 <strong>6,820.02포인트(+0.46%)</strong>로 소폭 상승 마감했습니다. 반면 코스닥은 <strong>834.29포인트(-0.49%)</strong>로 약보합 마감해 코스피와 코스닥이 서로 다른 방향으로 움직인 하루였습니다. 최근 며칠 흐름을 보면 코스피는 8월 28~29일 6,788.88포인트에서 오늘 6,820.02포인트로 소폭 반등한 모습이고, 코스닥은 838.41포인트에서 834.29포인트로 약간 밀렸습니다. 원/달러 환율은 <strong>1,368.0원</strong>을 기록했습니다.</p>
-
-<h2 id="오늘-거래대금은-어디로-몰렸을까">오늘 거래대금은 어디로 몰렸을까?</h2>
-
-<p>거래대금 상위 종목입니다. 대형주 위주라 거래대금 규모가 억원 단위로는 커 보이지만, 이는 500억원 이상 거래대금 기준을 통과한 종목들이라 정상적인 규모입니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>순위</th>
-      <th>종목명</th>
-      <th>거래대금</th>
-      <th>등락률</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>SK하이닉스</td>
-      <td>6.6조원</td>
-      <td>-0.2%</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>삼성전자</td>
-      <td>5.3조원</td>
-      <td>-0.1%</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>삼성전기</td>
-      <td>1.3조원</td>
-      <td>+2.0%</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>삼성SDI</td>
-      <td>6,657억원</td>
-      <td>+1.6%</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>SK스퀘어</td>
-      <td>4,880억원</td>
-      <td>+0.8%</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>두산에너빌리티</td>
-      <td>4,466억원</td>
-      <td><strong>-6.1%</strong></td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>LG전자</td>
-      <td>4,052억원</td>
-      <td><strong>+6.7%</strong></td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>SK이노베이션</td>
-      <td>3,752억원</td>
-      <td><strong>+7.3%</strong></td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>삼성전자우</td>
-      <td>3,356억원</td>
-      <td>-0.4%</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>금호전기</td>
-      <td>3,227억원</td>
-      <td><strong>+15.6%</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>반도체 대장주인 SK하이닉스·삼성전자는 소폭 하락한 반면, 2차전지 관련주인 삼성SDI·SK이노베이션과 LG전자가 강하게 올랐습니다. 오늘 테마별 흐름도 이를 뒷받침합니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>순위</th>
-      <th>테마명</th>
-      <th>상승 종목 수 / 전체 종목 수</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>2차전지(생산)</td>
-      <td>3 / 3</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>2차전지(나트륨이온)</td>
-      <td>9 / 9</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>2차전지(전고체)</td>
-      <td>20 / 30</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>반도체 기판(FC-BGA/PCB/MLB 등)</td>
-      <td>11 / 14</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>정유</td>
-      <td>2 / 3</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>카메라모듈/부품</td>
-      <td>16 / 26</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>2차전지(생산)과 2차전지(나트륨이온) 테마는 소속 종목 전원이 상승할 만큼 쏠림이 뚜렷했습니다. 미국 반도체주 급락 소식이 국내 반도체 대형주에는 부담을 준 반면, 자금이 2차전지 쪽으로 몰린 하루였다고 볼 수 있습니다.</p>
-
-<h2 id="ai가-오늘-고른-종목은">AI가 오늘 고른 종목은?</h2>
-
-<p>오늘 AI는 시장 상태를 신중하게 접근할 구간(신중 등급)으로 판단했습니다. “코스피·코스닥이 동반 약세를 보이는 가운데서도 2차전지 테마로 거래대금이 강하게 몰린 하루였고, 연준의 매파적 발언에 따른 금리 인상 우려가 성장주 투자심리를 눌렀다”는 것이 오늘의 시장 요약입니다.</p>
-
-<p>오늘 선별된 종목은 <strong>삼성SDI</strong> 1종목입니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>구분</th>
-      <th>항목</th>
-      <th>내용</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>기본</td>
-      <td>당일 종가 / 등락률</td>
-      <td>580,000원 / +1.6%</td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>거래대금 / 시가총액</td>
-      <td>6,657억원 / 46.7조원</td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>주도 테마 / 테마 내 순위</td>
-      <td>2차전지(생산) / 1위</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>RSI(과열 정도 지표)</td>
-      <td>68.6</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>평소 대비 거래량 배수(RVOL)</td>
-      <td>1.5배</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>52주 신고가 여부</td>
-      <td>아님</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>매물대(OBV) 흐름</td>
-      <td>중립</td>
-    </tr>
-    <tr>
-      <td>수급</td>
-      <td>외국인 순매도</td>
-      <td>11만 주</td>
-    </tr>
-    <tr>
-      <td>수급</td>
-      <td>기관 순매매</td>
-      <td>0주(움직임 없음)</td>
-    </tr>
-    <tr>
-      <td>수급</td>
-      <td>매수 호가 신호</td>
-      <td>매수벽 강함</td>
-    </tr>
-    <tr>
-      <td>재무</td>
-      <td>매출 성장률(전년 동기 대비)</td>
-      <td>+31.8%</td>
-    </tr>
-    <tr>
-      <td>재무</td>
-      <td>최근 분기 실적(2026년 9월 결산)</td>
-      <td>매출 4.0조원 / 영업이익 2억원</td>
-    </tr>
-    <tr>
-      <td>점수</td>
-      <td>AI 종합 점수</td>
-      <td>38점</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>AI는 삼성SDI를 선별한 근거로, 매수 호가에 자금이 두껍게 쌓여 있던 점과 15분봉 지지선을 딛고 반등한 흐름, 그리고 해외 대형 ESS(에너지저장장치) 배터리 수주 소식이 겹쳤다는 점을 들었습니다. 다만 외국인은 오늘 11만 주를 순매도했다는 점은 함께 기억해둘 부분입니다.</p>
-
-<p>오늘 데이터를 보면서 제가 주목한 지점은, 위험 회피 심리가 짙었던 하루에도 자금이 아무 데나 흩어지지 않고 2차전지라는 특정 테마로 뚜렷하게 몰렸다는 점입니다. 반도체 대형주가 미국발 급락 여파로 눌린 사이, 2차전지 관련 종목들의 거래대금과 등락률이 같이 움직였다는 것은 그날그날 수급의 쏠림을 보여주는 신호로 읽힙니다.</p>
-
-<h2 id="오늘을-마무리하며">오늘을 마무리하며</h2>
-
-<p>오늘은 미국 반도체 지수 급락과 연준의 금리 인상 경계감이라는 부담 속에서도, 코스피는 소폭 상승 마감하고 2차전지 테마로 거래대금이 몰린 하루였습니다. 반면 코스닥은 약보합에 그쳤고, 어제 선별 종목의 아침 성과는 오른 종목과 내린 종목이 섞인 결과로 나타났습니다. 시장은 늘 한 방향으로만 움직이지 않는다는 걸 다시 확인한 하루네요.</p>
-
-<p>궁금한 종목이나 오늘 시장에 대한 의견, 댓글로 편하게 남겨주세요 🙌</p>
-
-<p>#NextTheme #종가베팅 #코스피 #코스닥 #삼성SDI #SK이노베이션 #2차전지 #반도체</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[안녕하세요 😊 오늘 하루도 국내 증시를 정리하는 시간입니다. 밤사이 미국 반도체 지수가 크게 흔들렸는데도 국내 코스피는 소폭 상승 마감했고, 자금은 유독 2차전지 관련 종목으로 몰렸습니다. 오늘 하루를 숫자로 차근차근 정리해보겠습니다.]]></summary></entry></feed>
+<p>#미국시장 #금리인상 #유가급등 #CPI #위험국면 #종가베팅 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[9월 첫날, 시장이 예상치 못한 지정학적 리스크에 흔들리고 있습니다. 호르무즈 해협 긴장이 재고조되면서 유가는 한 달 최고치로 급등했고, 변동성 지수(VIX)는 급상승했습니다. 투자자들의 마음도 가팔라진 상황입니다.]]></summary></entry></feed>
