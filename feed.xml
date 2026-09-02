@@ -1,4 +1,123 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-02T22:31:07+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">유가 90달러 돌파, 시장 리스크 오프 전환 — 오늘 코스피 급락 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/02/daily/" rel="alternate" type="text/html" title="유가 90달러 돌파, 시장 리스크 오프 전환 — 오늘 코스피 급락 정리" /><published>2026-09-02T21:00:00+09:00</published><updated>2026-09-02T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/02/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/02/daily/"><![CDATA[<h2 id="어제-판단은-실제로-어땠나">어제 판단은 실제로 어땠나</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-03T06:08:12+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">미국 반등 vs 한국 외국인 이탈 — 오늘은 신중히 진입하는 아침</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/03/0600-briefing/" rel="alternate" type="text/html" title="미국 반등 vs 한국 외국인 이탈 — 오늘은 신중히 진입하는 아침" /><published>2026-09-03T06:00:00+09:00</published><updated>2026-09-03T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/03/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/03/0600-briefing/"><![CDATA[<p>📊 어제 급락장 속 외국인·기관이 <strong>4.8조 원</strong> 순매도하며 한국과 미국이 또 다른 길을 갔습니다. 미국 3대 지수는 반등했는데 한국만 외인 이탈이 지속되는 상황 — 오늘 시초가 이후 관망 우위입니다.</p>
+
+<hr />
+
+<h2 id="-어제-선별-어떻게-나왔나">📋 어제 선별 어떻게 나왔나</h2>
+
+<p>어제(9월 2일) AI가 종목 5개를 골랐는데, 모두 <strong>탐색 또는 최종 단계의 조건부 후보</strong>였습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목명</th>
+      <th>슬롯</th>
+      <th>어제 전략</th>
+      <th>오늘 현황</th>
+      <th>저녁 흐름</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>SK이노베이션</strong></td>
+      <td>—</td>
+      <td>—</td>
+      <td><strong>보유 중</strong> ⚠️</td>
+      <td>평단 대비 <strong>−6.5%</strong> 저점 기록</td>
+    </tr>
+    <tr>
+      <td>KB금융</td>
+      <td>12:10 탐색</td>
+      <td>갭트레이드</td>
+      <td>미보유</td>
+      <td>−</td>
+    </tr>
+    <tr>
+      <td>흥구석유</td>
+      <td>10:10 탐색</td>
+      <td>갭트레이드</td>
+      <td>미보유</td>
+      <td>−</td>
+    </tr>
+    <tr>
+      <td>주성엔지니어링</td>
+      <td>15:10 최종</td>
+      <td>갭트레이드</td>
+      <td>미보유</td>
+      <td>−</td>
+    </tr>
+    <tr>
+      <td>디아이</td>
+      <td>12:10 탐색</td>
+      <td>—</td>
+      <td>미보유</td>
+      <td>종가 대비 <strong>−5%</strong> 하락</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>⚠️ <strong>SK이노베이션은 보유 중인데 저녁 애프터마켓에서 평단 대비 최대 −6.5% 저점을 기록했습니다.</strong> 외국인이 계속 매도하는 중이라 갭하락 시 60선 이탈 여부를 확인하고 손절을 검토할 필요가 있습니다. 유가 90달러의 수혜 요인도 있지만 수급 리스크가 더 커 보입니다.</p>
+
+<hr />
+
+<h2 id="-간밤-미국-장--완만한-반등세">🌍 간밤 미국 장 — 완만한 반등세</h2>
+
+<p><strong>다우존스 +0.56% / S&amp;P500 +0.46% / 나스닥 +0.45%</strong> — 금융 위기 우려가 한풀 꺾인 모습입니다.</p>
+
+<ul>
+  <li><strong>미국 10년물 국채금리가 4.78%로 내려</strong>가며 은행주 압박이 조금 풀렸습니다 (전일 대비 −1.2bp).</li>
+  <li><strong>ADP 고용 지수</strong>가 예상(4.7만명)보다 약했는데(3.8만명), 이게 연준의 금리 인상 압박을 덜어준 것 같습니다.</li>
+  <li><strong>필라델피아 반도체 +0.45%</strong> — 델의 AI 서버 매출이 2배 급증했다는 뉴스가 나왔고, 브로드컴 실적 발표도 있는 상황입니다. 오늘 국내 반도체 종목들이 받을 수 있는 심리 변수입니다.</li>
+</ul>
+
+<p><strong>다만 VIX가 -6.98% 급락</strong>하며 시장 공포가 빠르게 걷히고 있습니다. 이건 긍정이면서도 조심의 신호 — 과한 낙관이 들어올 수 있거든요.</p>
+
+<hr />
+
+<h2 id="-오늘의-베팅-등급-yellow-신중-국면">🎯 오늘의 베팅 등급: YELLOW (신중 국면)</h2>
+
+<p><strong>시초가 이후 관망 우위입니다.</strong></p>
+
+<p>미국 반등이 반가운 뉴스지만, 한국의 외국인·기관 4.8조 순매도가 멈추지 않았습니다. 이런 상황에서는 시초가 갭상승이 나도 <strong>분할 청산 타이밍</strong>을 미리 정해두는 것이 좋습니다. 내일 새벽(21:30) <strong>미국 비농업고용지수</strong>와 <strong>실업률</strong> 발표를 앞두고 있어서 변동성이 커질 가능성도 높습니다.</p>
+
+<hr />
+
+<h2 id="-주목할-변수">⚡ 주목할 변수</h2>
+
+<p><strong>1. 내일 새벽 미국 고용지표 (21:30 발표)</strong></p>
+<ul>
+  <li>현재 시장은 금리 인상에 민감합니다. 고용 데이터가 강하면 인상 압박이 다시 커질 수 있습니다.</li>
+  <li>약한 데이터면 시장 반등이 이어질 가능성.</li>
+</ul>
+
+<p><strong>2. 유가 90달러 고공행진</strong></p>
+<ul>
+  <li>WTI가 90.67달러를 유지하면서 정유·윤활유 테마가 강세입니다 (어제 윤활유 테마 +12.44%).</li>
+  <li>반면 항공·화학주는 역풍이 계속됩니다.</li>
+</ul>
+
+<p><strong>3. 반도체 브로드컴 실적 (오늘)</strong></p>
+<ul>
+  <li>필라델피아 반도체가 이미 +0.45% 반등했으니 AI 서버 수요 신호입니다.</li>
+  <li>국내 주성엔지니어링 같은 반도체 장비주도 받을 여지가 있습니다.</li>
+</ul>
+
+<hr />
+
+<h2 id="-오늘을-어떻게-받아들일-것인가">💭 오늘을 어떻게 받아들일 것인가</h2>
+
+<p>어제 -4% 급락장에서 외국인이 떠났다면, 오늘 미국 반등만으로는 복구가 쉽지 않습니다. 시초가가 어떻게 나오든 <strong>“장중 추세가 살아날 때까지 기다리자”</strong>는 마음가짐이 중요합니다.</p>
+
+<p>SK이노베이션처럼 저녁에 큰 낙폭을 보인 종목이라면 갭하락 시 <strong>차라리 정리하고 다음 기회를 노리는 게</strong> 손실을 줄이는 길일 수 있습니다.</p>
+
+<p><strong>내일 새벽 고용지표까지는 변수가 크다는 점을 기억하세요.</strong> 무리해서 진입했다가 뉴스에 휩쓸릴 필요는 없습니다.</p>
+
+<hr />
+
+<p>💬 오늘 시장 흐름 중에 주목할 신호가 있으시면 댓글로 남겨주세요. 함께 경험을 쌓아가겠습니다.</p>
+
+<p>🤝 <a href="https://blog.naver.com/hansung926">이웃 추가</a>하고 매일 아침 분석을 받아보세요.</p>
+
+<p>#종가베팅 #미국장 #국내증시 #외국인 #반도체 #유가 #블로그 #주식분석</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[📊 어제 급락장 속 외국인·기관이 4.8조 원 순매도하며 한국과 미국이 또 다른 길을 갔습니다. 미국 3대 지수는 반등했는데 한국만 외인 이탈이 지속되는 상황 — 오늘 시초가 이후 관망 우위입니다.]]></summary></entry><entry><title type="html">유가 90달러 돌파, 시장 리스크 오프 전환 — 오늘 코스피 급락 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/02/daily/" rel="alternate" type="text/html" title="유가 90달러 돌파, 시장 리스크 오프 전환 — 오늘 코스피 급락 정리" /><published>2026-09-02T21:00:00+09:00</published><updated>2026-09-02T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/02/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/02/daily/"><![CDATA[<h2 id="어제-판단은-실제로-어땠나">어제 판단은 실제로 어땠나</h2>
 
 <p>어제(9월 1일) AI가 선별한 SK이노베이션은 오늘 아침 어떻게 실현됐을까요?</p>
 
@@ -1708,97 +1827,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가베팅 #복기일지 #20260831 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-09-01 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">미·이란 긴장으로 위험 국면 진입 — RED 등급, 갭 방향 확인 우선</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/01/0600-briefing/" rel="alternate" type="text/html" title="미·이란 긴장으로 위험 국면 진입 — RED 등급, 갭 방향 확인 우선" /><published>2026-09-01T06:00:00+09:00</published><updated>2026-09-01T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/01/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/01/0600-briefing/"><![CDATA[<p>9월 첫날, 시장이 예상치 못한 지정학적 리스크에 흔들리고 있습니다. 호르무즈 해협 긴장이 재고조되면서 유가는 한 달 최고치로 급등했고, 변동성 지수(VIX)는 급상승했습니다. 투자자들의 마음도 가팔라진 상황입니다.</p>
-
-<h2 id="어제-ai-선별-복기">어제 AI 선별 복기</h2>
-
-<p>어제(8월 31일)는 2차전지 테마가 강세를 보였던 날이었습니다. 결과를 어떻게 평가할까요?</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>선별 슬롯</th>
-      <th>어제 전략</th>
-      <th>결과 및 평가</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>SK이노베이션</td>
-      <td>—</td>
-      <td>수동 매수</td>
-      <td>✅ 보유 중 (+1.23% 저녁 고점)</td>
-    </tr>
-    <tr>
-      <td>삼성SDI</td>
-      <td>15:10 최종</td>
-      <td>갭트레이드</td>
-      <td>실제 매수는 없었습니다 (미매수)</td>
-    </tr>
-    <tr>
-      <td>엘앤에프</td>
-      <td>12:10 탐색</td>
-      <td>갭트레이드</td>
-      <td>실제 매수는 없었습니다 (탐색 후보)</td>
-    </tr>
-    <tr>
-      <td>포스코퓨처엠</td>
-      <td>10:10 탐색</td>
-      <td>갭트레이드</td>
-      <td>실제 매수는 없었습니다 (탐색 후보)</td>
-    </tr>
-  </tbody>
-</table>
-
-<p><strong>SK이노베이션</strong>은 유가 급등에 따른 정유주 수혜로 저녁 중 고점을 기록했습니다(평단 124,763원 대비 +1.23%). 다만 오늘 아침 갭 방향을 꼭 확인해야 합니다 — RED 등급 국면에서 갭다운 시 손절이 우선입니다.</p>
-
-<p><strong>삼성SDI</strong>는 15:10 최종 선별 대상이었으나 실제 매수로 진행되지 않았습니다. 종가(580,000원) 기준으로 저녁 중 고점은 +2.07%를 기록했습니다. 2차전지 테마는 전일 미국 자동차 섹터(+4.06%)와 커플링되며 강세를 유지했습니다.</p>
-
-<p>어제의 contrary 시나리오는 “미국 시장 악화·외국인 이탈 우려”였으나, 실제로는 미·이란 충돌이라는 지정학적 리스크가 발생했습니다. 유가 급등으로 정유·조선 섹터는 단기 수혜를 보지만, 인플레이션 우려와 금리 인상 가능성이 성장주 전반을 압박하는 국면입니다.</p>
-
-<h2 id="간밤-미국장--혼조-속-리스크-시그널">간밤 미국장 — 혼조 속 리스크 시그널</h2>
-
-<p>간밤 미국 주가지수는 혼조세를 나타냈습니다. 다우지수는 <strong>-0.70%</strong> 하락했고, S&amp;P 500도 <strong>-0.33%</strong> 내렸습니다. 나스닥은 <strong>-0.12%</strong>로 약한 낙폭을 유지했으나, 나스닥 100은 <strong>+0.08%</strong>로 반등했습니다. 한 가지 주목할 점은 필라델피아 반도체 지수가 <strong>+0.57%</strong>로 강세를 나타낸 것입니다.</p>
-
-<p>변동성 지수(VIX)는 <strong>+3.4%</strong> 급등했습니다. 갭이 감지되었는데, 당일 시가 대비로는 <strong>-2.10%</strong> 되밀렸습니다. 이는 장 개장 후 매도압력이 대시했음을 시사합니다.</p>
-
-<p>다우지수에서 <strong>장 막판 매도 우려</strong>가 명확합니다. 우상향 꼬리 비중(상단 꼬리)이 높아 마감 직전 매도세가 몰렸던 흔적이 보입니다. 이는 국내 경기민감 섹터(자동차·조선·정유·금융)와 대형주 중심의 지수에 부정적 신호입니다.</p>
-
-<h2 id="오늘의-베팅-등급과-변동성-리스크">오늘의 베팅 등급과 변동성 리스크</h2>
-
-<p><strong>등급: RED (위험 국면)</strong></p>
-
-<p>미·이란 군사 충돌 재개로 유가가 <strong>86.3달러</strong>로 급등했습니다. 이에 따라 미국 10년물 금리는 <strong>4.75%</strong>를 돌파하며 1년 7개월 만의 최고 수준을 기록했습니다. 연방준비제도(Fed)의 9월 금리 인상 확률이 <strong>66%</strong>로 상승한 상황입니다.</p>
-
-<p><strong>내일 08:00 한국 CPI 발표</strong>가 가장 중요한 변수입니다. 시장 전망은 <strong>3.2%</strong> 인상률이지만, 전월 <strong>2.8%</strong> 대비 상회할 경우 추가 금리 인상 압력으로 이어질 수 있습니다. 같은 시간 <strong>미국 ADP 고용지표</strong>도 예정되어 있어 변동성이 높은 국면이 될 것으로 예상됩니다.</p>
-
-<p><strong>대응 전략:</strong> 위험 우위 국면에서는 갭 방향 확인이 최우선입니다. 갭다운 시 빠른 손절 대응이 필요합니다. 기존 보유 포지션(SK이노베이션)은 시초가 기준으로 손익을 재평가한 후 RED 등급에 맞게 대응해야 합니다. 신규 진입은 CPI 발표 이후 방향성이 명확해질 때까지 관망하는 것이 현명합니다.</p>
-
-<h2 id="주목할-변수--인플레이션과-성장주의-갈림길">주목할 변수 — 인플레이션과 성장주의 갈림길</h2>
-
-<p><strong>호재 요인:</strong></p>
-<ul>
-  <li>필라델피아 반도체 +0.57% — 엔비디아의 <strong>대만 미디어텍 35억 달러 투자</strong> 소식이 반도체 수요 신호로 작용했습니다. 국내 삼성전자·SK하이닉스는 자사주 매입으로 전일 반등에 성공했습니다.</li>
-  <li>미국 자동차 섹터 +4.06% — 2차전지 테마의 상승 동력이 되었으나, 인플레이션 우려 속에서도 친환경 투자는 지속되고 있습니다.</li>
-  <li>한국 8월 산업생산 <strong>+3.6%</strong> (전년 동월 대비) — 반도체·자동차 부문의 생산 회복이 기저효과를 상쇄하고 있습니다.</li>
-</ul>
-
-<p><strong>리스크 요인:</strong></p>
-<ul>
-  <li>유가 급등(WTI <strong>+2.9달러</strong>) — 단기적으로 정유·조선에는 호재이지만, 광범위한 인플레이션 우려로 작용합니다.</li>
-  <li>한국 8월 소매판매 <strong>-2.4%</strong> (전월 대비) — 역성장 신호로, 소비 약화가 시작됨을 시사합니다.</li>
-  <li>금리 인상 확률 상승 — 성장주와 고배당주 모두에 단기 압박 요인입니다.</li>
-</ul>
-
-<h2 id="오늘을-어떻게-대응할까">오늘을 어떻게 대응할까</h2>
-
-<p>상반기 강세장이 한풀 꺾이고 있습니다. 9월 들어 첫 거래일부터 위험 신호가 켜졌습니다. 이런 날은 전략적으로 <strong>관망</strong>하는 것도 중요한 선택입니다.</p>
-
-<p>어제 보유 포지션(SK이노베이션)과 탐색 후보들의 시초가를 먼저 확인하고, 갭 방향에 따라 신중하게 대응해주세요. RED 등급과 내일 CPI 발표라는 이중 불확실성 속에서는, 차분함이 최고의 투자 방어입니다.</p>
-
-<p>내일 08:00 CPI 발표를 지나 새로운 방향성이 확인되면, 그때부터가 진정한 기회가 될 것입니다. 그전까지는 보수 관망이 정답입니다.</p>
-
-<p><strong>오늘 하루, 어떤 경험을 하셨나요? 댓글로 나눠주세요. 🎯 이웃 추가하시면 매일 분석 소식을 받아보실 수 있습니다.</strong></p>
-
-<p>#미국시장 #금리인상 #유가급등 #CPI #위험국면 #종가베팅 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[9월 첫날, 시장이 예상치 못한 지정학적 리스크에 흔들리고 있습니다. 호르무즈 해협 긴장이 재고조되면서 유가는 한 달 최고치로 급등했고, 변동성 지수(VIX)는 급상승했습니다. 투자자들의 마음도 가팔라진 상황입니다.]]></summary></entry></feed>
+<p>#종가베팅 #복기일지 #20260831 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-09-01 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
