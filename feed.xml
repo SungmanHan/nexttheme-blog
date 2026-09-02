@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-02T21:07:29+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">유가 90달러 돌파, 시장 리스크 오프 전환 — 오늘 코스피 급락 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/02/daily/" rel="alternate" type="text/html" title="유가 90달러 돌파, 시장 리스크 오프 전환 — 오늘 코스피 급락 정리" /><published>2026-09-02T21:00:00+09:00</published><updated>2026-09-02T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/02/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/02/daily/"><![CDATA[<h2 id="어제-판단은-실제로-어땠나">어제 판단은 실제로 어땠나</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-02T22:31:07+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">유가 90달러 돌파, 시장 리스크 오프 전환 — 오늘 코스피 급락 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/02/daily/" rel="alternate" type="text/html" title="유가 90달러 돌파, 시장 리스크 오프 전환 — 오늘 코스피 급락 정리" /><published>2026-09-02T21:00:00+09:00</published><updated>2026-09-02T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/02/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/02/daily/"><![CDATA[<h2 id="어제-판단은-실제로-어땠나">어제 판단은 실제로 어땠나</h2>
 
 <p>어제(9월 1일) AI가 선별한 SK이노베이션은 오늘 아침 어떻게 실현됐을까요?</p>
 
@@ -259,12 +259,12 @@
     </tr>
     <tr>
       <td>외인 순매수</td>
-      <td><strong>+3만 주</strong></td>
+      <td><strong>+1만 주</strong></td>
       <td>개별 뚜렷한 쏠림</td>
     </tr>
     <tr>
       <td>기관 순매수</td>
-      <td><strong>+1만 주</strong></td>
+      <td><strong>+6,000주</strong></td>
       <td>동반 매수</td>
     </tr>
     <tr>
@@ -287,7 +287,7 @@
 
 <p><strong>아침에 몰린 거래대금이 오후까지 이어졌다는 게 핵심입니다.</strong> 일반적으로 약세장에서는 거래대금이 급 위축되거나 특정 시간대에만 쏠리는데, 주성엔지니어링은 종일 일관되게 자금이 몰렸다는 뜻입니다. 그러면서 15분봉 60선(단기 상승 추세선)을 지키며 반등했습니다.</p>
 
-<p>외국인이 <strong>3만 주</strong>, 기관이 <strong>1만 주</strong>를 함께 매수하는 모습은 이 종목이 단순한 테마주가 아니라 기관투자자들도 나쁜 시황 속에서 보수적으로 매력을 인정한 종목이라는 신호입니다. 반도체 장비 테마 내에서도 <strong>1위의 위치</strong>를 차지한 이유가 여기에 있습니다.</p>
+<p>외국인이 <strong>1만 주</strong>, 기관이 <strong>6,000주</strong>를 함께 매수하는 모습은 이 종목이 단순한 테마주가 아니라 기관투자자들도 나쁜 시황 속에서 관심을 보인 종목이라는 신호입니다(다만 순매수 규모 자체는 크지 않았습니다). 반도체 장비 테마 내에서도 <strong>1위의 위치</strong>를 차지한 이유가 여기에 있습니다.</p>
 
 <h2 id="점수와-수익-전략">점수와 수익 전략</h2>
 
@@ -297,7 +297,7 @@
 
 <h2 id="nexttheme-알고리즘의-관점">NextTheme 알고리즘의 관점</h2>
 
-<p>이 선별은 “점수 자체가 높은 종목”이 아니라 <strong>“시황 대비 이상 현상을 포착한 종목”</strong>입니다. 코스피가 떨어질 때 오르는 종목, 외국인이 나갈 때 외국인이 사는 종목, 기관이 팔 때 기관이 사는 종목 — 이 세 조건이 정렬된 것은 매우 드문 일입니다. AI는 이를 <strong>“이 종목에 뭔가 다른 촉매가 있다”</strong>는 신호로 읽습니다.</p>
+<p>이 선별은 “점수 자체가 높은 종목”이 아니라 <strong>“시황 대비 이상 현상을 포착한 종목”</strong>입니다. 코스피가 떨어질 때 오르는 종목, 외국인이 나갈 때 외국인이 사는 종목, 기관이 팔 때 기관이 사는 종목 — 이 세 조건이 함께 나타난 것은 흔치 않은 조합입니다(외국인·기관의 순매수 규모 자체는 각각 1만 주·6,000주 수준으로 크지 않았습니다). AI는 이를 <strong>“이 종목에 뭔가 다른 촉매가 있다”</strong>는 신호로 읽습니다.</p>
 
 <p>반도체 장비는 반도체 업황의 선행지표이기도 합니다. 설비 주문이 나온다는 건 칩 생산 호황을 앞두고 있다는 의미입니다. 오늘의 외국인·기관 매수도 그런 맥락에서 해석할 여지가 있습니다.</p>
 
@@ -309,7 +309,13 @@
 
 <hr />
 
-<p>#주성엔지니어링 #반도체장비 #급락장선별 #거래대금분석 #수급분석 #NextTheme #종가베팅</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[오늘 코스피가 −3.82% 급락했습니다. 유가가 90달러를 돌파하고 중동 긴장이 고조되면서 외국인과 기관이 4.8조 원을 동반 매도한 날입니다. 그런 와중에도 반도체 장비 섹터만 홀로 방어 강세를 유지했습니다.]]></summary></entry><entry><title type="html">9/1 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/02/review-20260901-review/" rel="alternate" type="text/html" title="9/1 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-09-02T09:00:00+09:00</published><updated>2026-09-02T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/02/review_20260901-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/02/review-20260901-review/"><![CDATA[<blockquote>
+<p>#주성엔지니어링 #반도체장비 #급락장선별 #거래대금분석 #수급분석 #NextTheme #종가베팅</p>
+
+<hr />
+
+<blockquote>
+  <p><strong>정정(2026-09-02)</strong>: 수급 데이터 수집 오류로 외국인·기관 순매수 수량이 실제의 2배로 표기됐던 것을 바로잡았습니다(외인 3만 주 → 1만 주, 기관 1만 주 → 6,000주).</p>
+</blockquote>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[오늘 코스피가 −3.82% 급락했습니다. 유가가 90달러를 돌파하고 중동 긴장이 고조되면서 외국인과 기관이 4.8조 원을 동반 매도한 날입니다. 그런 와중에도 반도체 장비 섹터만 홀로 방어 강세를 유지했습니다.]]></summary></entry><entry><title type="html">9/1 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/02/review-20260901-review/" rel="alternate" type="text/html" title="9/1 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-09-02T09:00:00+09:00</published><updated>2026-09-02T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/02/review_20260901-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/02/review-20260901-review/"><![CDATA[<blockquote>
   <p>데이터 기준: 2026-09-02 10:03 키움 ka10001 일괄 조회</p>
 </blockquote>
 
@@ -1077,7 +1083,7 @@ AI 선별 정확도를 복기합니다.</p>
   </tbody>
 </table>
 
-<p><strong>선별 근거</strong>: 국제 유가가 86달러까지 급등하면서 정유 업종이 재활력을 얻었다. SK이노베이션은 기관이 <strong>27만 주</strong>를 순매수하며 지지 세력이 들어왔고, 15분 차트에서 60일 이평선을 밟고 반등하는 모습을 보였다. <strong>RSI는 61.3</strong>으로 과열되지 않았고, <strong>회전율(RVOL)은 2.6배</strong>로 충분한 거래량이 뒷받침됐다. 밤사이 유가 강세가 지속되면 내일 아침 시초가에 자금이 다시 몰릴 자리라는 판단이다.</p>
+<p><strong>선별 근거</strong>: 국제 유가가 86달러까지 급등하면서 정유 업종이 재활력을 얻었다. SK이노베이션은 기관이 <strong>13만 주</strong>를 순매수하며 지지 세력이 들어왔고, 15분 차트에서 60일 이평선을 밟고 반등하는 모습을 보였다. <strong>RSI는 61.3</strong>으로 과열되지 않았고, <strong>회전율(RVOL)은 2.6배</strong>로 충분한 거래량이 뒷받침됐다. 밤사이 유가 강세가 지속되면 내일 아침 시초가에 자금이 다시 몰릴 자리라는 판단이다.</p>
 
 <p><strong>보유 현황</strong>: SK이노베이션은 오늘 <strong>낮 시간(EXPLORE_LUNCH) 슬롯</strong>과 <strong>최종(FINAL) 슬롯</strong> 양쪽에서 선별되어 보유 중이다. 오늘 저녁 애프터마켓(15:40~19:59)에는 진입가 13만 4,376원 대비 <strong>최고 +0.91%</strong>, <strong>최저 -0.65%</strong>의 변동을 보였으며, <strong>저녁 갭은 +0.84%</strong>로 잠정 기록됐다. 실현은 내일 아침 청산 시점까지 유지되는 상태다.</p>
 
@@ -1107,11 +1113,7 @@ AI 선별 정확도를 복기합니다.</p>
     </tr>
     <tr>
       <td>기관 순매수</td>
-      <td>+27만 주</td>
-    </tr>
-    <tr>
-      <td>외인 순매수</td>
-      <td>0주</td>
+      <td>+13만 주</td>
     </tr>
   </tbody>
 </table>
@@ -1128,7 +1130,13 @@ AI 선별 정확도를 복기합니다.</p>
 
 <hr />
 
-<p>#종가베팅 #SK이노베이션 #정유주 #유가 #NextTheme #코스피 #반도체</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[어제 반등에 성공한 삼성SDI를 보유했던 전략이 단기 성공을 거두면서 하루를 시작했다. 정유 업종이 중동 긴장 재고조로 자금을 끌어모으고, 폴더블폰 부품주도 움직인 하루였다. 코스피는 강보합했지만 코스닥이 약세를 보이며 시장의 갈림길이 명확했다.]]></summary></entry><entry><title type="html">SK이노베이션 8% 급등, 유가 급등에 정유주 강세인 이유는</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/01/nt2-1505-snapshot/" rel="alternate" type="text/html" title="SK이노베이션 8% 급등, 유가 급등에 정유주 강세인 이유는" /><published>2026-09-01T15:05:00+09:00</published><updated>2026-09-01T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/01/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/01/nt2-1505-snapshot/"><![CDATA[<p>오늘 코스피는 강보합, 코스닥은 약세로 갈린 하락장이었습니다. 그런데 이 와중에도 국제유가 급등 소식에 정유주와 폴더블폰 부품주로 돈이 몰리는 모습이 뚜렷했어요. 시장 전체 분위기가 눌린 날일수록 어디로 자금이 쏠렸는지가 더 잘 보이는데, 오늘은 정유 업종이 그 답이었습니다. 🛢️</p>
+<p>#종가베팅 #SK이노베이션 #정유주 #유가 #NextTheme #코스피 #반도체</p>
+
+<hr />
+
+<blockquote>
+  <p><strong>정정(2026-09-02)</strong>: 수급 데이터 수집 오류로 기관 순매수 수량이 실제의 2배로 표기됐던 것을 바로잡았습니다(27만 주 → 13만 주). 외인 순매수 “0주”는 실제 미수집 상태였던 값이라 항목을 제거했습니다.</p>
+</blockquote>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[어제 반등에 성공한 삼성SDI를 보유했던 전략이 단기 성공을 거두면서 하루를 시작했다. 정유 업종이 중동 긴장 재고조로 자금을 끌어모으고, 폴더블폰 부품주도 움직인 하루였다. 코스피는 강보합했지만 코스닥이 약세를 보이며 시장의 갈림길이 명확했다.]]></summary></entry><entry><title type="html">SK이노베이션 8% 급등, 유가 급등에 정유주 강세인 이유는</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/01/nt2-1505-snapshot/" rel="alternate" type="text/html" title="SK이노베이션 8% 급등, 유가 급등에 정유주 강세인 이유는" /><published>2026-09-01T15:05:00+09:00</published><updated>2026-09-01T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/01/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/01/nt2-1505-snapshot/"><![CDATA[<p>오늘 코스피는 강보합, 코스닥은 약세로 갈린 하락장이었습니다. 그런데 이 와중에도 국제유가 급등 소식에 정유주와 폴더블폰 부품주로 돈이 몰리는 모습이 뚜렷했어요. 시장 전체 분위기가 눌린 날일수록 어디로 자금이 쏠렸는지가 더 잘 보이는데, 오늘은 정유 업종이 그 답이었습니다. 🛢️</p>
 
 <h2 id="오늘-시장-한마디로-정리하면">오늘 시장, 한마디로 정리하면</h2>
 
@@ -1138,7 +1146,7 @@ AI 선별 정확도를 복기합니다.</p>
 
 <p>오늘 AI가 종가 기준으로 선별한 종목은 <strong>SK이노베이션(096770)</strong> 1곳이었습니다. 종가는 <strong>135,600원</strong>으로 전일 대비 <strong>+8.05%</strong> 올랐고, 거래대금은 <strong>5,311억원</strong>에 달했습니다. 시가총액은 <strong>22.9조원</strong>으로 정유 업종 안에서 거래대금 기준 <strong>1위</strong>를 기록했습니다.</p>
 
-<p>AI가 이 종목을 고른 근거를 풀어보면 이렇습니다. 국제유가가 86달러까지 급등하고 중동 지역의 긴장 국면이 이어지는 상황에서, SK이노베이션이 정유 업종 대장주 자리를 지켰다는 점입니다. 여기에 더해 큰 투자기관(기관)의 매수세가 들어왔고(오늘 하루 <strong>+27만 주</strong> 순매수), 주가가 짧은 시간 단위 이동평균선(15분봉 60선)을 딛고 반등하는 모습을 보였다는 점이 함께 근거로 잡혔습니다. 참고로 외국인은 오늘 순매수·순매도가 거의 없는 <strong>0주</strong>로 관망하는 모습이었습니다.</p>
+<p>AI가 이 종목을 고른 근거를 풀어보면 이렇습니다. 국제유가가 86달러까지 급등하고 중동 지역의 긴장 국면이 이어지는 상황에서, SK이노베이션이 정유 업종 대장주 자리를 지켰다는 점입니다. 여기에 더해 큰 투자기관(기관)의 매수세가 들어왔고(오늘 하루 <strong>+13만 주</strong> 순매수), 주가가 짧은 시간 단위 이동평균선(15분봉 60선)을 딛고 반등하는 모습을 보였다는 점이 함께 근거로 잡혔습니다.</p>
 
 <p>기술적 지표를 보면 RSI는 <strong>61.3</strong>으로 과열보다는 상승 탄력이 붙은 구간에 가까웠고, 평소 대비 거래량 배율(RVOL)은 <strong>2.6배</strong>로 평소보다 훨씬 많은 거래가 몰렸습니다. 52주 신고가는 아니었고, 매수·매도 물량 흐름(OBV)은 중립 상태였습니다.</p>
 
@@ -1181,7 +1189,7 @@ AI 선별 정확도를 복기합니다.</p>
     <tr>
       <td>수급</td>
       <td>외인 순매수 / 기관 순매수</td>
-      <td>0주 / +27만 주</td>
+      <td>데이터 없음 / +13만 주</td>
     </tr>
     <tr>
       <td>재무</td>
@@ -1203,13 +1211,19 @@ AI 선별 정확도를 복기합니다.</p>
 
 <h2 id="오늘-이-흐름에서-제가-주목한-것은">오늘 이 흐름에서 제가 주목한 것은</h2>
 
-<p>오늘처럼 지수 전체가 조용하거나 눌린 날에는, 오히려 어떤 종목이 왜 유독 강했는지를 뜯어보는 게 더 의미가 있다고 봅니다. SK이노베이션의 경우 유가 급등이라는 명확한 외부 재료에 기관 매수와 거래대금 급증이 같이 붙었다는 점이 눈에 띄었습니다. 다만 외국인은 이 흐름에 동참하지 않고 관망했다는 점도 함께 기록해둘 만합니다. 정유 업종 전반의 흐름과 유가 방향이 이어질지는 지켜볼 변수입니다.</p>
+<p>오늘처럼 지수 전체가 조용하거나 눌린 날에는, 오히려 어떤 종목이 왜 유독 강했는지를 뜯어보는 게 더 의미가 있다고 봅니다. SK이노베이션의 경우 유가 급등이라는 명확한 외부 재료에 기관 매수와 거래대금 급증이 같이 붙었다는 점이 눈에 띄었습니다. 정유 업종 전반의 흐름과 유가 방향이 이어질지는 지켜볼 변수입니다.</p>
 
 <h2 id="마무리">마무리</h2>
 
 <p>오늘은 지수보다 업종 쏠림이 뚜렷했던 하루였고, 그 중심에 유가 급등과 정유주가 있었습니다. AI 종가베팅 시스템은 이런 자금 쏠림과 수급 데이터를 근거로 종목을 기록해두는 방식으로 운영됩니다. 궁금한 종목이 있다면 댓글로 남겨주세요.</p>
 
-<p>#SK이노베이션 #정유주 #유가급등 #종가베팅 #NextTheme #096770 #수급분석</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[오늘 코스피는 강보합, 코스닥은 약세로 갈린 하락장이었습니다. 그런데 이 와중에도 국제유가 급등 소식에 정유주와 폴더블폰 부품주로 돈이 몰리는 모습이 뚜렷했어요. 시장 전체 분위기가 눌린 날일수록 어디로 자금이 쏠렸는지가 더 잘 보이는데, 오늘은 정유 업종이 그 답이었습니다. 🛢️]]></summary></entry><entry><title type="html">비에이치, 애플 폴더블폰 기대감에 하루 급등 — 실제 계약 확인 전 주의 필요</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/01/1442-detail-090460-detail/" rel="alternate" type="text/html" title="비에이치, 애플 폴더블폰 기대감에 하루 급등 — 실제 계약 확인 전 주의 필요" /><published>2026-09-01T14:42:00+09:00</published><updated>2026-09-01T14:42:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/01/1442_detail_090460-detail</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/01/1442-detail-090460-detail/"><![CDATA[<p>2026년 9월 1일 오후 2시 42분 기준, 비에이치(비에이치전자)는 애플의 폴더블폰 부품 공급 기대감에 시장의 주목을 받고 있습니다. 테마성 급등이 벌어지는 상황이지만, 현 단계는 기대감 반영일 뿐 실제 공급 계약이 확인되지 않은 상태입니다. 투자자 입장에서는 긍정적 신호를 봤지만, 동시에 다음 단계로의 전개가 얼마나 현실화될지 판단해야 할 시점입니다.</p>
+<p>#SK이노베이션 #정유주 #유가급등 #종가베팅 #NextTheme #096770 #수급분석</p>
+
+<hr />
+
+<blockquote>
+  <p><strong>정정(2026-09-02)</strong>: 수급 데이터 수집 오류로 기관 순매수 수량이 실제의 2배로 표기됐던 것을 바로잡았습니다(27만 주 → 13만 주). 외국인 순매수 “0주·관망”은 실제로는 데이터가 수집되지 않은 상태였던 것으로 확인돼 관련 서술을 제거했습니다.</p>
+</blockquote>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[오늘 코스피는 강보합, 코스닥은 약세로 갈린 하락장이었습니다. 그런데 이 와중에도 국제유가 급등 소식에 정유주와 폴더블폰 부품주로 돈이 몰리는 모습이 뚜렷했어요. 시장 전체 분위기가 눌린 날일수록 어디로 자금이 쏠렸는지가 더 잘 보이는데, 오늘은 정유 업종이 그 답이었습니다. 🛢️]]></summary></entry><entry><title type="html">비에이치, 애플 폴더블폰 기대감에 하루 급등 — 실제 계약 확인 전 주의 필요</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/01/1442-detail-090460-detail/" rel="alternate" type="text/html" title="비에이치, 애플 폴더블폰 기대감에 하루 급등 — 실제 계약 확인 전 주의 필요" /><published>2026-09-01T14:42:00+09:00</published><updated>2026-09-01T14:42:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/01/1442_detail_090460-detail</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/01/1442-detail-090460-detail/"><![CDATA[<p>2026년 9월 1일 오후 2시 42분 기준, 비에이치(비에이치전자)는 애플의 폴더블폰 부품 공급 기대감에 시장의 주목을 받고 있습니다. 테마성 급등이 벌어지는 상황이지만, 현 단계는 기대감 반영일 뿐 실제 공급 계약이 확인되지 않은 상태입니다. 투자자 입장에서는 긍정적 신호를 봤지만, 동시에 다음 단계로의 전개가 얼마나 현실화될지 판단해야 할 시점입니다.</p>
 
 <h2 id="오늘의-가격과-수급-변화">오늘의 가격과 수급 변화</h2>
 
