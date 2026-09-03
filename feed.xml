@@ -1,4 +1,393 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-03T20:17:04+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">조선·생명보험 순환매 장세, 삼성중공업에 거래대금 몰린 이유는</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/03/nt2-1505-snapshot/" rel="alternate" type="text/html" title="조선·생명보험 순환매 장세, 삼성중공업에 거래대금 몰린 이유는" /><published>2026-09-03T15:05:00+09:00</published><updated>2026-09-03T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/03/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/03/nt2-1505-snapshot/"><![CDATA[<h2 id="오늘-시장-한마디로-정리하면-">오늘 시장, 한마디로 정리하면 😐</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-03T21:07:30+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">개인 8천억 매도 속 소수 테마만 살아난 오늘 — 조선·생보 강세 재확인</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/03/daily/" rel="alternate" type="text/html" title="개인 8천억 매도 속 소수 테마만 살아난 오늘 — 조선·생보 강세 재확인" /><published>2026-09-03T21:00:00+09:00</published><updated>2026-09-03T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/03/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/03/daily/"><![CDATA[<h2 id="어제와-오늘-선별의-흐름을-따라">어제와 오늘, 선별의 흐름을 따라</h2>
+
+<p>어제(2026.9.2) 아침, <strong>SK이노베이션</strong>과 <strong>주성엔지니어링</strong>에 진입한 선별의 실제 결과부터 보겠습니다.</p>
+
+<h3 id="어제-선별의-오늘-아침-실현-갭">어제 선별의 오늘 아침 실현 갭</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th style="text-align: right">진입가</th>
+      <th style="text-align: right">실현 갭(%)</th>
+      <th style="text-align: right">세션내 최고(%)</th>
+      <th style="text-align: right">세션내 최저(%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>SK이노베이션</td>
+      <td style="text-align: right">134,376원</td>
+      <td style="text-align: right"><strong>−0.28</strong></td>
+      <td style="text-align: right">+0.39</td>
+      <td style="text-align: right">−6.01</td>
+    </tr>
+    <tr>
+      <td>주성엔지니어링</td>
+      <td style="text-align: right">175,900원</td>
+      <td style="text-align: right"><strong>−4.21</strong></td>
+      <td style="text-align: right">+0.74</td>
+      <td style="text-align: right">−4.38</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>어제 선별 2종목이 오늘 아침(08:00~09:59 120분) 동안 실현한 갭입니다. SK이노베이션은 진입가 대비 <strong>소폭 손실</strong>로 정리했고, 주성엔지니어링은 <strong>깊은 하락</strong>을 경험했습니다. 둘 다 장중 극저점에서는 −4% 대의 손실을 기록했음에도 아침 청산에서는 그보다 덜 손실로 정리된 셈입니다(하락장의 전형적 패턴).</p>
+
+<p><strong>오늘 선별 결과의 애프터마켓 잠정 흐름</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th style="text-align: right">진입가</th>
+      <th style="text-align: right">잠정 갭(%)</th>
+      <th style="text-align: right">세션내 최고(%)</th>
+      <th style="text-align: right">세션내 최저(%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>삼성중공업</td>
+      <td style="text-align: right">21,700원</td>
+      <td style="text-align: right"><strong>+0.92</strong></td>
+      <td style="text-align: right">+0.92</td>
+      <td style="text-align: right">−1.15</td>
+    </tr>
+    <tr>
+      <td>한화생명</td>
+      <td style="text-align: right">—</td>
+      <td style="text-align: right"><strong>−0.16</strong></td>
+      <td style="text-align: right">—</td>
+      <td style="text-align: right">—</td>
+    </tr>
+    <tr>
+      <td>SK이노베이션</td>
+      <td style="text-align: right">134,376원</td>
+      <td style="text-align: right"><strong>−2.66</strong></td>
+      <td style="text-align: right">−2.51</td>
+      <td style="text-align: right">−3.55</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>오늘 선별의 저녁 애프터마켓(15:40~19:59) 흐름은 <strong>확정이 아닙니다.</strong> 실제 청산은 내일 아침이기 때문입니다. 다만 잠정 추이를 보면, <strong>삼성중공업이 유일하게 양의 갭</strong>을 유지했고, 한화생명은 소폭 음수, SK이노베이션은 계속 약세를 보이고 있습니다.</p>
+
+<hr />
+
+<h2 id="오늘-시장은-어땠나">오늘 시장은 어땠나</h2>
+
+<h3 id="지수와-환율">지수와 환율</h3>
+
+<p>오늘 국내 증시는 <strong>코스피 +0.26%</strong> 마감으로 강보합을 기록했지만, 기술주 중심 <strong>코스닥은 −1.71%</strong> 약세를 면하지 못했습니다. 지수 사이의 진동 폭이 컸던 하루였습니다.</p>
+
+<ul>
+  <li>코스피: <strong>6,579.48</strong>(+0.26%)</li>
+  <li>코스닥: <strong>790.21</strong>(−1.71%)</li>
+  <li>원달러: <strong>1,358.90원</strong>/달러</li>
+</ul>
+
+<p><strong>미국 시장 연계성</strong></p>
+
+<p>간밤 미국 3대 지수는 작은 폭의 반등을 기록했습니다.</p>
+
+<ul>
+  <li>다우: +0.56%</li>
+  <li>S&amp;P 500: +0.46%</li>
+  <li>나스닥: +0.45%</li>
+</ul>
+
+<p>그럼에도 한국 증시는 <strong>개인 투자자가 8,126억 원대의 순매도</strong>를 단행했습니다(외국인·기관은 오히려 순매수). 미국 시장이 반등하는 와중에도 개인 투자심리는 위축된 국면입니다.</p>
+
+<h3 id="오늘의-수급-요약">오늘의 수급 요약</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th style="text-align: right">순매도/순매수(억원)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>외국인</td>
+      <td style="text-align: right">+<strong>1,599</strong></td>
+    </tr>
+    <tr>
+      <td>기관</td>
+      <td style="text-align: right">+<strong>6,449</strong></td>
+    </tr>
+    <tr>
+      <td>개인</td>
+      <td style="text-align: right"><strong>−8,126</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>개인 투자자가 <strong>8,126억 원을 팔아냈습니다.</strong> 기관의 순매수로 부분 상쇄되긴 했지만, 전체적으로는 약한 시장 심리를 반영합니다.</p>
+
+<hr />
+
+<h2 id="무엇이-움직였나--거래대금과-테마">무엇이 움직였나 — 거래대금과 테마</h2>
+
+<h3 id="거래-상위-10개-종목">거래 상위 10개 종목</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>순위</th>
+      <th>종목</th>
+      <th style="text-align: right">거래대금</th>
+      <th style="text-align: right">등락률(%)</th>
+      <th style="text-align: right">거래량(만주)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>SK하이닉스</td>
+      <td style="text-align: right">5.5조원</td>
+      <td style="text-align: right">−0.68</td>
+      <td style="text-align: right">341.3만</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>삼성전자</td>
+      <td style="text-align: right">4.5조원</td>
+      <td style="text-align: right">0.00</td>
+      <td style="text-align: right">1,796.5만</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>삼성전기</td>
+      <td style="text-align: right">1.3조원</td>
+      <td style="text-align: right">−3.43</td>
+      <td style="text-align: right">97.4만</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>알테오젠</td>
+      <td style="text-align: right">7,652억원</td>
+      <td style="text-align: right">−4.52</td>
+      <td style="text-align: right">259.9만</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>SK스퀘어</td>
+      <td style="text-align: right">4,418억원</td>
+      <td style="text-align: right">−0.20</td>
+      <td style="text-align: right">44.9만</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>두산에너빌리티</td>
+      <td style="text-align: right">4,373억원</td>
+      <td style="text-align: right"><strong>+3.92</strong></td>
+      <td style="text-align: right">553.6만</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>삼성SDI</td>
+      <td style="text-align: right">4,048억원</td>
+      <td style="text-align: right">+0.37</td>
+      <td style="text-align: right">74.4만</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>삼성전자우</td>
+      <td style="text-align: right">3,187억원</td>
+      <td style="text-align: right">+0.11</td>
+      <td style="text-align: right">172.4만</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>KB금융</td>
+      <td style="text-align: right">2,841억원</td>
+      <td style="text-align: right"><strong>+5.32</strong></td>
+      <td style="text-align: right">160.2만</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>현대차</td>
+      <td style="text-align: right">2,588억원</td>
+      <td style="text-align: right"><strong>+1.59</strong></td>
+      <td style="text-align: right">67.8만</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>반도체(SK하이닉스·삼성전자·삼성전기) 3종이 거래대금 상위를 차지했으나 대부분 마이너스 수익률을 기록했습니다. 반면 <strong>에너지(두산에너빌리티 +3.92%)</strong> 와 <strong>금융주(KB금융 +5.32%)</strong> 가 상승을 주도했습니다.</p>
+
+<h3 id="주도-테마">주도 테마</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>순위</th>
+      <th>테마</th>
+      <th style="text-align: right">상승 종목</th>
+      <th style="text-align: right">전체 종목</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>조선</td>
+      <td style="text-align: right">6/6</td>
+      <td style="text-align: right"><strong>100%</strong></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>건설 대표주</td>
+      <td style="text-align: right">6/6</td>
+      <td style="text-align: right"><strong>100%</strong></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>손해보험</td>
+      <td style="text-align: right">8/8</td>
+      <td style="text-align: right"><strong>100%</strong></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>LNG(액화천연가스)</td>
+      <td style="text-align: right">23/26</td>
+      <td style="text-align: right">88.5%</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>생명보험</td>
+      <td style="text-align: right">4/4</td>
+      <td style="text-align: right"><strong>100%</strong></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>전후 재건</td>
+      <td style="text-align: right">32/39</td>
+      <td style="text-align: right">82.1%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>조선, 건설, 보험</strong> 테마가 맞춤형 상승을 기록했습니다. 이들은 모두 <strong>방어적·순환매 성격의 자산</strong>으로 분류되며, 개인 매도가 우세한 가운데서도 특정 테마로 수급이 쏠린 것으로 추정됩니다.</p>
+
+<hr />
+
+<h2 id="종가-선별-결과--ai가-고른-2종목">종가 선별 결과 — AI가 고른 2종목</h2>
+
+<h3 id="한화생명--6120원-607">한화생명 | 6,120원 (+6.07%)</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>항목</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>AI 점수</td>
+      <td>37점</td>
+    </tr>
+    <tr>
+      <td>거래대금</td>
+      <td>1,357억원</td>
+    </tr>
+    <tr>
+      <td>시가총액</td>
+      <td>5.3조원</td>
+    </tr>
+    <tr>
+      <td>주도 테마</td>
+      <td>생명보험 (테마내 1위)</td>
+    </tr>
+    <tr>
+      <td>RSI</td>
+      <td>67.27</td>
+    </tr>
+    <tr>
+      <td>RVOL(변동성)</td>
+      <td>4.39배</td>
+    </tr>
+    <tr>
+      <td>호가신호</td>
+      <td><strong>매수벽 강함</strong></td>
+    </tr>
+    <tr>
+      <td>외인/기관</td>
+      <td>+61만 주 / +37만 주</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>한화생명은 오늘 생명보험 테마의 대장주 역할</strong>을 하며 거래량이 평소의 <strong>4.4배</strong> 터졌습니다. 기술적 측면에서도 RSI 67은 적정 모멘텀(과열 아직 아님)을 시사하고, <strong>매수 호가에 돈이 두껍게 쌓여 있습니다.</strong> 외국인과 기관 모두 함께 매수하는 모습도 긍정 신호입니다. 금리 상승 국면에서 생명보험은 실적 개선 수혜 자산이라는 점도 배경입니다.</p>
+
+<h3 id="삼성중공업--21700원-883">삼성중공업 | 21,700원 (+8.83%)</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>항목</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>AI 점수</td>
+      <td>35점</td>
+    </tr>
+    <tr>
+      <td>거래대금</td>
+      <td><strong>2,311억원</strong></td>
+    </tr>
+    <tr>
+      <td>시가총액</td>
+      <td>19.1조원</td>
+    </tr>
+    <tr>
+      <td>주도 테마</td>
+      <td>조선 (테마내 2위)</td>
+    </tr>
+    <tr>
+      <td>RSI</td>
+      <td>52.32</td>
+    </tr>
+    <tr>
+      <td>RVOL(변동성)</td>
+      <td>2.46배</td>
+    </tr>
+    <tr>
+      <td>호가신호</td>
+      <td><strong>매수벽 강함</strong></td>
+    </tr>
+    <tr>
+      <td>외인/기관</td>
+      <td>+77만 주 / +67만 주</td>
+    </tr>
+    <tr>
+      <td>최근 분기</td>
+      <td>2026년 3분기: 매출 3.2조원, 영업이익 3,512억원</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>삼성중공업은 오늘 시장을 이끈 조선 테마에서 거래 집중도가 가장 높은 종목입니다.</strong> 거래대금이 2,311억 원으로 두텁게 쌓였고, 호가창에서도 매수가 두껍게 형성돼 있습니다. <strong>외국인 77만 주, 기관 67만 주가 동시에 매수</strong>하며 양 진영의 강한 의지를 드러냈습니다. AI는 이 수급 동시매수와 거래대금 집중을 오늘 조선 테마 흐름이 가장 강하게 반영된 신호로 기록했습니다.</p>
+
+<hr />
+
+<h2 id="오늘을-어떻게-기록할-것인가">오늘을 어떻게 기록할 것인가</h2>
+
+<p><strong>상반된 신호 속 소수 테마의 승리</strong></p>
+
+<p>오늘 시장은 미국 증시의 반등에도 불구하고 한국은 개인 투자자가 8,126억 원을 순매도하는 약한 흐름이었습니다. 그럼에도 <strong>조선·생명보험·건설</strong> 같은 특정 테마만 일관되게 상승했습니다. 이는 시장 전체가 약할 때 <strong>방어·순환매 자산</strong>에 자금이 집중되는 전형적 패턴입니다.</p>
+
+<p>어제 선별에서는 손실로 마감했지만, 오늘 선별 중 <strong>삼성중공업</strong>은 저녁 애프터마켓까지 양의 갭을 유지하고 있습니다(확정은 내일 아침 청산 시점입니다). 한화생명은 생명보험 테마의 대장주 지위를 유지한 채 저녁장을 마쳤습니다.</p>
+
+<p><strong>내일을 향해</strong></p>
+
+<p>9월 첫 거래일을 마감하며 시장은 여전히 혼조 국면입니다. 미국 시장 신호(반등)와 국내 수급(약함)이 어긋나는 만큼, 내일 아침은 <strong>조선 테마 강세 지속 vs 기술적 과열 우려</strong> 사이에서 진동할 가능성이 높습니다. 여러분의 포지션 상황을 댓글로 나눠주신다면, 함께 장 흐름을 읽어보겠습니다.</p>
+
+<p>#종가베팅 #조선주 #생명보험 #혼조장 #수급분석 #테마순환매 #NT2 #내일장전망</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[어제와 오늘, 선별의 흐름을 따라]]></summary></entry><entry><title type="html">조선·생명보험 순환매 장세, 삼성중공업에 거래대금 몰린 이유는</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/03/nt2-1505-snapshot/" rel="alternate" type="text/html" title="조선·생명보험 순환매 장세, 삼성중공업에 거래대금 몰린 이유는" /><published>2026-09-03T15:05:00+09:00</published><updated>2026-09-03T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/03/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/03/nt2-1505-snapshot/"><![CDATA[<h2 id="오늘-시장-한마디로-정리하면-">오늘 시장, 한마디로 정리하면 😐</h2>
 
 <p>오늘은 한화오션의 조선 수주 소식이 기폭제가 되면서 조선·건설·보험 업종으로 순환매가 들어온 하루였습니다. 다만 코스피는 강보합에 그쳤고 코스닥은 약세를 보이며, 지수 전체가 오른 게 아니라 <strong>몇몇 주도 테마로만 돈이 쏠린 장</strong>이었어요. 외국인과 기관이 시장 전체적으로는 1조원 넘게 팔아치웠는데도 특정 종목에는 돈이 몰렸다는 점이 오늘의 핵심입니다.</p>
 
@@ -1930,97 +2319,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <blockquote>
   <p><strong>정정(2026-09-02)</strong>: 수급 데이터 수집 오류로 기관 순매수 수량이 실제의 2배로 표기됐던 것을 바로잡았습니다(27만 주 → 13만 주). 외국인 순매수 “0주·관망”은 실제로는 데이터가 수집되지 않은 상태였던 것으로 확인돼 관련 서술을 제거했습니다.</p>
-</blockquote>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[오늘 코스피는 강보합, 코스닥은 약세로 갈린 하락장이었습니다. 그런데 이 와중에도 국제유가 급등 소식에 정유주와 폴더블폰 부품주로 돈이 몰리는 모습이 뚜렷했어요. 시장 전체 분위기가 눌린 날일수록 어디로 자금이 쏠렸는지가 더 잘 보이는데, 오늘은 정유 업종이 그 답이었습니다. 🛢️]]></summary></entry><entry><title type="html">비에이치, 애플 폴더블폰 기대감에 하루 급등 — 실제 계약 확인 전 주의 필요</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/01/1442-detail-090460-detail/" rel="alternate" type="text/html" title="비에이치, 애플 폴더블폰 기대감에 하루 급등 — 실제 계약 확인 전 주의 필요" /><published>2026-09-01T14:42:00+09:00</published><updated>2026-09-01T14:42:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/01/1442_detail_090460-detail</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/01/1442-detail-090460-detail/"><![CDATA[<p>2026년 9월 1일 오후 2시 42분 기준, 비에이치(비에이치전자)는 애플의 폴더블폰 부품 공급 기대감에 시장의 주목을 받고 있습니다. 테마성 급등이 벌어지는 상황이지만, 현 단계는 기대감 반영일 뿐 실제 공급 계약이 확인되지 않은 상태입니다. 투자자 입장에서는 긍정적 신호를 봤지만, 동시에 다음 단계로의 전개가 얼마나 현실화될지 판단해야 할 시점입니다.</p>
-
-<h2 id="오늘의-가격과-수급-변화">오늘의 가격과 수급 변화</h2>
-
-<p>비에이치는 오늘 <strong>21,800원</strong>에 거래되며 전 거래일 대비 <strong>+19.58%</strong> 급등했습니다. 지난 거래일 21,000원 기록과 함께 강한 상승 모멘텀을 보이고 있습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>지표</th>
-      <th>수치</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>현재가</td>
-      <td>21,800원</td>
-    </tr>
-    <tr>
-      <td>등락률</td>
-      <td>+19.58%</td>
-    </tr>
-    <tr>
-      <td>외인 순매수</td>
-      <td>+17만 주</td>
-    </tr>
-    <tr>
-      <td>기관 순매수</td>
-      <td>+11만 주</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>외국인과 기관이 동시에 <strong>+17만 주</strong>, <strong>+11만 주</strong>를 순매수하며 강한 쏠림을 보였습니다. 다만 이는 단 1일의 움직임이라는 점이 중요합니다. 지난 60일간의 흐름을 보면 더 복잡한 그림이 드러납니다.</p>
-
-<p>지난 2개월을 회고하면, 외국인은 <strong>극심한 변동성</strong>을 보였습니다. 6월 중순에는 -33만 주 매도를 했다가, 7월 초중순에는 -70만 주 매도세, 8월 11~12일에는 <strong>-110만 주대의 대량 매도</strong>를 감행했습니다. 이는 단순히 “외국인이 모두 사고 있다”는 수치로는 해석할 수 없습니다. 오늘 +17만 주 매수가 이전의 매도세를 얼마나 상쇄하는지, 그 흐름의 성격이 무엇인지 살펴야 합니다.</p>
-
-<p>기관은 최근 3개월간 줄곧 순매도세를 유지했으나, 어제(8월 31일)부터 자세를 바꿔 순매수로 전환했습니다. 개인은 어제 하루에만 <strong>-29만 주</strong> 대량 매도하며 기관과 외국인의 매수를 모두 받아주는 형태입니다.</p>
-
-<h2 id="차트는-신호를-섞어-보냅니다">차트는 신호를 섞어 보냅니다</h2>
-
-<p>기술적 위치를 보면, 세 개의 시간축이 엇갈려 움직이고 있습니다.</p>
-
-<ul>
-  <li><strong>일봉(단기)</strong>: 상승 흐름 — 오늘 하루의 강한 상승이 반영됨</li>
-  <li><strong>주봉(중기)</strong>: 하락 흐름 — 지난 몇 주 동안의 약세가 계속 중</li>
-  <li><strong>월봉(장기)</strong>: 상승 흐름 — 더 넓은 관점에서는 상승 방향</li>
-</ul>
-
-<p>일봉이 상승하지만 주봉은 하락 중인 상태는 <strong>다이버전스</strong>를 의미합니다. 즉, 오늘의 급등이 중기 약세 추세를 얼마나 반전시킬 수 있는지가 관건입니다. 한 번의 강한 상승일 수도, 반등의 시작점일 수도 있다는 뜻입니다.</p>
-
-<h2 id="애플-폴더블폰--기대감인가-현실인가">애플 폴더블폰 — 기대감인가, 현실인가?</h2>
-
-<p><strong>뉴스의 성격: 호재(테마편승)</strong></p>
-
-<p>오늘의 상승 배경은 명확합니다. 애플이 곧 선보일 폴더블폰에 들어갈 <strong>FPCB(휘어지는 회로기판)</strong> 부품을 비에이치가 공급할 것이라는 기대감입니다. 이는 상당히 구체적인 테마로, 기술 트렌드와도 부합합니다.</p>
-
-<p>그러나 현 단계에서 중요한 한 가지는 이것이 <strong>확정 수주가 아니라는 점</strong>입니다. 애플의 공식 발표가 아직 없는 상태에서, 부품 공급 가능성에 대한 기대감만으로 주가가 19%대 상승했습니다. 시장은 낙관적이지만, 실제 계약 체결까지는 여러 단계가 남아 있습니다.</p>
-
-<p><strong>주의할 점: 과거 이력</strong></p>
-
-<p>비에이치는 삼성전자의 로봇 테마 등 기대감 중심의 재료로 급등했던 경험이 있습니다. 그때도 초기 모멘텀은 강했지만, 이후 변동성이 컸습니다. 확정 계약이 나오지 않으면 재료 소진 후 급락할 위험도 있습니다. 애플의 정식 발표 후 실제 공급 물량·일정·수익성이 얼마나 구체화되는지가 다음 단계입니다.</p>
-
-<h2 id="비에이치에-대한-ai의-판단">비에이치에 대한 AI의 판단</h2>
-
-<p><strong>등급: ONE_STAR (빨강 — 보수적 접근)</strong></p>
-
-<p>AI는 이 종목을 <strong>소량 진입 관망</strong> 수준으로 평가했습니다. 이는 다음 세 가지 이유 때문입니다.</p>
-
-<ol>
-  <li><strong>기대감 단계의 한계</strong> — 확정 수주가 없는 상태에서 가격이 이미 많이 올랐다는 점</li>
-  <li><strong>주봉 약세 흐름</strong> — 중기적으로는 여전히 하락 추세 중이라는 점</li>
-  <li><strong>큰손 집중이 1일</strong> — 외국인, 기관의 순매수가 어제만의 현상일 수 있다는 점</li>
-</ol>
-
-<p>투자 심리는 ‘맑음☀️’으로 긍정적인 분위기를 반영하지만, 등급은 신중함을 유지하고 있습니다. 이는 “기대감은 있지만 위험도 크다”는 신호입니다.</p>
-
-<p><strong>행동 지침: 단기 부담, 분할 대응 필수</strong></p>
-
-<p>단기간에 19% 이상 상승한 상황이므로, 이 시점에 쫓아 매수하기는 위험합니다. 대신 다음과 같은 접근을 권장합니다.</p>
-
-<ul>
-  <li>애플의 공식 발표 후 실제 공급 계약이 확인되는 시점까지 <strong>관망 모드</strong> 유지</li>
-  <li>만약 진입한다면 <strong>소량씩 분할 대응</strong> — 30% 이하 최소 비중 수준</li>
-  <li>애플 폴더블폰 공개 발표일과 비에이치의 공시 일정을 체크하기</li>
-</ul>
-
-<h2 id="오늘을-어떻게-기록할-것인가">오늘을 어떻게 기록할 것인가</h2>
-
-<p>비에이치의 오늘은 “기대감 반영의 날”입니다. 시장은 긍정적이지만, 아직 확인된 것은 거의 없습니다. 테마성 급등의 특성상, 다음 장에서 재료가 현실화되는지가 중요한 판정 기준이 될 것입니다. 지금은 서둘러 진입할 때보다, <strong>데이터가 더 명확해질 때까지 분석하고 준비하는 시점</strong>입니다.</p>
-
-<p>궁금한 점이나 비에이치에 대한 의견이 있으신가요? 댓글로 함께 나눠주세요. 이웃 추가하시면 매일 개별 종목 분석을 받아볼 수 있습니다.</p>
-
-<p>#종목분석 #비에이치 #수급분석 #NextTheme #090460 #애플테마 #폴더블폰 #FPCB #테마성급등 #기대감반영</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[2026년 9월 1일 오후 2시 42분 기준, 비에이치(비에이치전자)는 애플의 폴더블폰 부품 공급 기대감에 시장의 주목을 받고 있습니다. 테마성 급등이 벌어지는 상황이지만, 현 단계는 기대감 반영일 뿐 실제 공급 계약이 확인되지 않은 상태입니다. 투자자 입장에서는 긍정적 신호를 봤지만, 동시에 다음 단계로의 전개가 얼마나 현실화될지 판단해야 할 시점입니다.]]></summary></entry></feed>
+</blockquote>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[오늘 코스피는 강보합, 코스닥은 약세로 갈린 하락장이었습니다. 그런데 이 와중에도 국제유가 급등 소식에 정유주와 폴더블폰 부품주로 돈이 몰리는 모습이 뚜렷했어요. 시장 전체 분위기가 눌린 날일수록 어디로 자금이 쏠렸는지가 더 잘 보이는데, 오늘은 정유 업종이 그 답이었습니다. 🛢️]]></summary></entry></feed>
