@@ -1,25 +1,25 @@
 {
-  "lastTradingDay" : "2026-09-02",
-  "totalDays" : 81,
+  "lastTradingDay" : "2026-09-03",
+  "totalDays" : 82,
   "summary" : {
-    "tradingDays" : 81,
+    "tradingDays" : 82,
     "sectorCount" : 16,
-    "upDays" : 73,
-    "avgChangeRate" : 5.49,
+    "upDays" : 74,
+    "avgChangeRate" : 5.48,
     "topSector" : "반도체·AI인프라",
     "topSectorDays" : 20
   },
   "now" : {
-    "date" : "2026-09-02",
-    "bettingGrade" : "RED",
-    "regimeTag" : "RED_ALL_DOWN",
+    "date" : "2026-09-03",
+    "bettingGrade" : "YELLOW",
+    "regimeTag" : "YELLOW",
     "themeRegime" : "THEME_LED",
-    "marketSignal" : "약세",
-    "kospi" : -3.99,
-    "kosdaq" : -2.1,
-    "leadTheme" : "해운",
-    "leadChangeRate" : 4.29,
-    "themePremium" : 8.28
+    "marketSignal" : "혼조",
+    "kospi" : 0.26,
+    "kosdaq" : -1.71,
+    "leadTheme" : "조선",
+    "leadChangeRate" : 4.62,
+    "themePremium" : 4.36
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
@@ -31,24 +31,24 @@
     "top3Days" : 23
   }, {
     "sector" : "조선·해운",
-    "rank1Days" : 6,
-    "top3Days" : 17
+    "rank1Days" : 7,
+    "top3Days" : 18
   }, {
     "sector" : "전자부품·기판",
     "rank1Days" : 5,
     "top3Days" : 17
   }, {
-    "sector" : "전력·전선·신재생",
-    "rank1Days" : 5,
-    "top3Days" : 13
-  }, {
     "sector" : "건설·기계",
     "rank1Days" : 3,
-    "top3Days" : 13
+    "top3Days" : 14
   }, {
     "sector" : "매크로·기타",
     "rank1Days" : 8,
-    "top3Days" : 12
+    "top3Days" : 13
+  }, {
+    "sector" : "전력·전선·신재생",
+    "rank1Days" : 5,
+    "top3Days" : 13
   }, {
     "sector" : "금융",
     "rank1Days" : 3,
@@ -1548,6 +1548,25 @@
         "changeRate" : 0.37
       } ],
       "mainStock" : ""
-    }, null, null ] ]
+    }, {
+      "day" : 3,
+      "date" : "2026-09-03",
+      "theme" : "조선",
+      "sector" : "조선·해운",
+      "changeRate" : 4.62,
+      "prevDay" : "NEW",
+      "regime" : "THEME_LED",
+      "slot" : "15:00",
+      "kospi" : 0.26,
+      "themePremium" : 4.36,
+      "runners" : [ {
+        "theme" : "건설 대표주",
+        "changeRate" : 3.54
+      }, {
+        "theme" : "손해보험",
+        "changeRate" : 4.25
+      } ],
+      "mainStock" : ""
+    }, null ] ]
   } ]
 }
