@@ -1,25 +1,25 @@
 {
-  "lastTradingDay" : "2026-09-03",
-  "totalDays" : 82,
+  "lastTradingDay" : "2026-09-04",
+  "totalDays" : 83,
   "summary" : {
-    "tradingDays" : 82,
+    "tradingDays" : 83,
     "sectorCount" : 16,
-    "upDays" : 74,
-    "avgChangeRate" : 5.48,
+    "upDays" : 75,
+    "avgChangeRate" : 5.5,
     "topSector" : "반도체·AI인프라",
     "topSectorDays" : 20
   },
   "now" : {
-    "date" : "2026-09-03",
-    "bettingGrade" : "YELLOW",
-    "regimeTag" : "YELLOW",
+    "date" : "2026-09-04",
+    "bettingGrade" : "GREEN",
+    "regimeTag" : "GREEN",
     "themeRegime" : "THEME_LED",
-    "marketSignal" : "혼조",
-    "kospi" : 0.26,
-    "kosdaq" : -1.71,
-    "leadTheme" : "조선",
-    "leadChangeRate" : 4.62,
-    "themePremium" : 4.36
+    "marketSignal" : "강세",
+    "kospi" : 1.64,
+    "kosdaq" : 2.95,
+    "leadTheme" : "지역화폐",
+    "leadChangeRate" : 6.78,
+    "themePremium" : 5.14
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
@@ -38,23 +38,23 @@
     "rank1Days" : 5,
     "top3Days" : 17
   }, {
+    "sector" : "매크로·기타",
+    "rank1Days" : 9,
+    "top3Days" : 14
+  }, {
     "sector" : "건설·기계",
     "rank1Days" : 3,
     "top3Days" : 14
-  }, {
-    "sector" : "매크로·기타",
-    "rank1Days" : 8,
-    "top3Days" : 13
   }, {
     "sector" : "전력·전선·신재생",
     "rank1Days" : 5,
     "top3Days" : 13
   }, {
-    "sector" : "금융",
-    "rank1Days" : 3,
-    "top3Days" : 12
-  }, {
     "sector" : "정유·화학·원자재",
+    "rank1Days" : 3,
+    "top3Days" : 13
+  }, {
+    "sector" : "금융",
     "rank1Days" : 3,
     "top3Days" : 12
   }, {
@@ -64,7 +64,7 @@
   }, {
     "sector" : "로봇·AI소프트웨어",
     "rank1Days" : 3,
-    "top3Days" : 7
+    "top3Days" : 8
   }, {
     "sector" : "인터넷·게임·SW",
     "rank1Days" : 2,
@@ -1567,6 +1567,25 @@
         "changeRate" : 4.25
       } ],
       "mainStock" : ""
-    }, null ] ]
+    }, {
+      "day" : 4,
+      "date" : "2026-09-04",
+      "theme" : "지역화폐",
+      "sector" : "매크로·기타",
+      "changeRate" : 6.78,
+      "prevDay" : "NEW",
+      "regime" : "THEME_LED",
+      "slot" : "15:00",
+      "kospi" : 1.64,
+      "themePremium" : 5.14,
+      "runners" : [ {
+        "theme" : "로봇(산업용/협동로봇 등)",
+        "changeRate" : 5.25
+      }, {
+        "theme" : "정유",
+        "changeRate" : 5.27
+      } ],
+      "mainStock" : ""
+    } ] ]
   } ]
 }
