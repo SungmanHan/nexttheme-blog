@@ -1,4 +1,130 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-04T10:03:43+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">9/3 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/04/review-20260903-review/" rel="alternate" type="text/html" title="9/3 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-09-04T09:00:00+09:00</published><updated>2026-09-04T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/04/review_20260903-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/04/review-20260903-review/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-04T12:49:52+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">삼성중공업, 조선업 호황은 확인되는데 왜 기술선은 약할까 — 수급과 차트로 본 현재 지점</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/04/1243-detail-010140-detail/" rel="alternate" type="text/html" title="삼성중공업, 조선업 호황은 확인되는데 왜 기술선은 약할까 — 수급과 차트로 본 현재 지점" /><published>2026-09-04T12:43:00+09:00</published><updated>2026-09-04T12:43:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/04/1243_detail_010140-detail</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/04/1243-detail-010140-detail/"><![CDATA[<p>9월 4일 오후 12시 43분, 삼성중공업(010140)의 현 상태를 들여다봅니다. 조선업 슈퍼사이클이라는 ‘큰 그림’과 일·주봉의 ‘하락 흐름’이 충돌하는 시점입니다. 오늘은 이 괴리를 데이터로 읽어봅니다.</p>
+
+<hr />
+
+<h2 id="현재-수급-외국인기관이-함께-움직이다">현재 수급, 외국인·기관이 함께 움직이다</h2>
+
+<p><strong>21,050원, -2.77%</strong> — 오늘 하락 마감에도 큰손은 계속 사고 있습니다.</p>
+
+<p>당일 수급 현황:</p>
+<ul>
+  <li>외국인 순매수: <strong>+120만 주</strong></li>
+  <li>기관 순매수: <strong>+148만 주</strong></li>
+  <li>개인 순매도: <strong>−268만 주</strong></li>
+</ul>
+
+<p>외국인과 기관이 동시에 순매수 진행 중입니다. 다만 각각 <strong>연속 순매수일이 1일뿐</strong> 이라는 점이 주목입니다. 지난 60일간의 수급 흐름을 보면 이 종목의 매매가 얼마나 불규칙했는지 알 수 있습니다.</p>
+
+<p><strong>지난 60일 수급 패턴:</strong></p>
+<ul>
+  <li>외국인: 순매수와 순매도가 반복되고 있습니다. 8월 중후반부터는 순매도 흐름이 강했으나 8월 26일부터 다시 순매수로 전환, 현재까지 지속 중입니다.</li>
+  <li>기관: 마찬가지로 진폭이 큽니다. 7월과 8월 중순에 집중 순매도 후 회복 단계를 거쳐 최근 순매수 재개 중입니다.</li>
+  <li>개인: 일관되게 순매도하는 모습입니다. 당일 −268만 주로 큰손 매수를 혼자 맞받는 형국입니다.</li>
+</ul>
+
+<p>이는 <strong>‘선착’과 ‘후발’의 시차</strong>를 드러냅니다. 외국인·기관의 복귀가 시작됐지만 아직 확고한 추세로 자리잡지는 못한 상태입니다.</p>
+
+<hr />
+
+<h2 id="차트는-여전히-약세-일주월이-다르게-말한다">차트는 여전히 약세, 일·주·월이 다르게 말한다</h2>
+
+<p><strong>단기(일봉):</strong> 하락 흐름<br />
+<strong>중기(주봉):</strong> 하락 흐름<br />
+<strong>장기(월봉):</strong> 상승 흐름</p>
+
+<p>이 조합은 <strong>다이버전스</strong> 신호입니다. 월간 차트는 상승세를 유지 중이지만 일주간 스케일에서는 계속 하락하는 상태입니다.</p>
+
+<p>오늘 <strong>−2.77%</strong> 하락도 같은 맥락입니다. 일봉·주봉이 회복되지 못한 가운데 어제 급등의 여파(가격제한폭 확대요건 도달)가 사라지면서 이익실현이 나온 것으로 보입니다. 기술적으로는 <strong>눌림목을 거쳐 더 하락할 수 있는 구조</strong>입니다.</p>
+
+<hr />
+
+<h2 id="조선업-호재는-확실한데-왜-기술선은-약할까">조선업 호재는 확실한데, 왜 기술선은 약할까</h2>
+
+<p><strong>뉴스신호: 호재</strong> — 조선업 슈퍼사이클 지속 전망(애널리스트), R&amp;D센터 확대, 서울대와 인재양성 협약</p>
+
+<p>조선업은 <strong>장기 호황 국면</strong>입니다. 재무 추이가 이를 뒷받침합니다:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>연도</th>
+      <th>매출(억원)</th>
+      <th>영업이익(억원)</th>
+      <th>EPS(원)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2024.12</td>
+      <td>99,031</td>
+      <td>5,027</td>
+      <td>73.0</td>
+    </tr>
+    <tr>
+      <td>2025.12</td>
+      <td>106,500</td>
+      <td>8,622</td>
+      <td>620.0</td>
+    </tr>
+    <tr>
+      <td>2026.12(E)</td>
+      <td>128,097</td>
+      <td>13,814</td>
+      <td>1,063.0</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>매출과 이익이 <strong>해마다 20% 이상 성장</strong> 추정 중입니다. 이는 재무가 약해서가 아니라 섹터 자체의 <strong>사이클 상승장</strong>을 반영합니다.</p>
+
+<p>그런데 <strong>왜 기술선은 약할까?</strong></p>
+
+<ul>
+  <li><strong>단기 급등 이후 조정</strong> — 어제 주가가 급등해 가격제한폭 확대요건에 도달한 후 오늘 이익실현 매물이 나온 것입니다.</li>
+  <li><strong>큰손이 아직 ‘확정’하지 않음</strong> — 외국인·기관 순매수가 1일뿐입니다. 지난 60일 데이터와 비교하면 이는 <strong>신호의 시작 단계</strong>입니다.</li>
+  <li><strong>개인의 저항</strong> — 당일 개인이 −268만 주로 순매도하는 것은 소매투자자들이 여전히 <strong>높은 수준에서 팔고 있다</strong>는 뜻입니다.</li>
+</ul>
+
+<p>즉, 호재와 기술선의 괴리는 <strong>“시장이 아직 그 호재를 충분히 가격에 반영하지 못했다”</strong>는 신호로 읽힙니다.</p>
+
+<hr />
+
+<h2 id="ai-분석-한-걸음씩-확인이-필요한-시점">AI 분석: 한 걸음씩 확인이 필요한 시점</h2>
+
+<p><strong>AI 등급: ★ (총 3단계 중 1단계) — 소량 진입 검토 수준</strong></p>
+
+<p>AI의 판단:</p>
+<blockquote>
+  <p>“재무는 흑자 지속이나 큰손 매매가 단 1일로 약하고 일봉·주봉 모두 하락 흐름. 외국인·기관 연속 매수 확인 필요.”</p>
+</blockquote>
+
+<p>이는 <strong>“데이터상 호재는 보이지만, 기술적 확인이 더 필요하다”</strong>는 신중한 입장입니다.</p>
+
+<p><strong>투자 심리:</strong> 맑음☀️ — 조선업의 장기 전망은 긍정적<br />
+<strong>행동지침:</strong> “업황 사이클(큰 흐름)은 긍정적이나 단기 급등 부담 존재. <strong>눌림목 확인이 대응의 관건</strong>“이라는 진단</p>
+
+<hr />
+
+<h2 id="결론-종목은-좋지만-타이밍이-답이다">결론: 종목은 좋지만 타이밍이 답이다</h2>
+
+<p>삼성중공업의 <strong>사업 기초(조선업 사이클)</strong>는 견고합니다. 그러나 <strong>매매 기술(일·주봉 하락, 1일 뿐인 큰손 복귀)</strong>은 아직 불확실합니다.</p>
+
+<p>이런 때는:</p>
+<ol>
+  <li><strong>장기 관점</strong>: 눌림목(일봉 저점 이하) 구간에서의 반응이 관전 포인트로 꼽힙니다</li>
+  <li><strong>단기 관점</strong>: 외국인·기관의 <strong>연속 순매수(최소 3~5일 이상)</strong> 지속 여부가 확인 대상입니다</li>
+  <li><strong>공통</strong>: 당일 −268만 주 순매도하는 개인 물량의 흐름도 주목할 지점입니다</li>
+</ol>
+
+<p>호재가 가격으로 반영되는 과정은 <strong>한 번에 끝나지 않습니다</strong>. 어제의 급등이 장이 아니라 시작의 신호였는지, 아니면 일시적 반등이었는지 판별하려면 <strong>앞으로 며칠 수급</strong>이 핵심입니다.</p>
+
+<p>당신의 거래일지에 한 줄 남긴다면 이렇습니다: <strong>“조선업 사이클은 확인됐으나, 이 종목의 개별 매매 신호는 아직 형성 중”</strong></p>
+
+<p>궁금한 다른 종목의 현 지점도 댓글로 공유해주세요. 함께 데이터로 읽어봅시다. 📊</p>
+
+<hr />
+
+<p>#종목분석 #삼성중공업 #수급분석 #NextTheme #010140 #조선업 #슈퍼사이클 #장기호황 #기술분석</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[9월 4일 오후 12시 43분, 삼성중공업(010140)의 현 상태를 들여다봅니다. 조선업 슈퍼사이클이라는 ‘큰 그림’과 일·주봉의 ‘하락 흐름’이 충돌하는 시점입니다. 오늘은 이 괴리를 데이터로 읽어봅니다.]]></summary></entry><entry><title type="html">9/3 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/04/review-20260903-review/" rel="alternate" type="text/html" title="9/3 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-09-04T09:00:00+09:00</published><updated>2026-09-04T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/04/review_20260903-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/04/review-20260903-review/"><![CDATA[<blockquote>
   <p>데이터 기준: 2026-09-04 10:03 키움 ka10001 일괄 조회</p>
 </blockquote>
 
@@ -2404,130 +2530,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가베팅 #복기일지 #20260901 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-09-02 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">외국인 순매도 + 미국 약세, 시초가 약세 경계가 필요한 아침</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/02/0600-briefing/" rel="alternate" type="text/html" title="외국인 순매도 + 미국 약세, 시초가 약세 경계가 필요한 아침" /><published>2026-09-02T06:00:00+09:00</published><updated>2026-09-02T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/02/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/02/0600-briefing/"><![CDATA[<h2 id="모멘텀-게임의-역풍-오늘은-신중한-출발을-요구하다">모멘텀 게임의 역풍, 오늘은 신중한 출발을 요구하다</h2>
-
-<p>어제 유가 급등(WTI 90.6달러, +4.9%)에 정유주가 강세를 보였는데, 간밤 미국 3대 지수가 동반 하락(다우 -0.79%, S&amp;P500 -0.71%, 나스닥 -1.03%)하면서 리스크온 자산 전반이 조정압을 받았습니다. 특히 필라델피아 반도체 지수(-2.14%)와 VIX(+9.52%) 상승은 시장 심리 위축을 명확히 보여줍니다. 💔</p>
-
-<hr />
-
-<h2 id="어제-ai-선별-실제로-어땠나">어제 AI 선별, 실제로 어땠나?</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>슬롯</th>
-      <th>어제 전략</th>
-      <th>오늘 결과</th>
-      <th>저녁 흐름</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>SK이노베이션</strong></td>
-      <td>15:10 최종</td>
-      <td>갭트레이드</td>
-      <td>✅ 보유 중</td>
-      <td>평단 대비 <strong>+0.91% ~ −0.65%</strong></td>
-    </tr>
-    <tr>
-      <td>삼성SDI</td>
-      <td>10:10 탐색</td>
-      <td>갭트레이드</td>
-      <td>어제 매수 후 당일 정리</td>
-      <td><strong>+1.76% 실현</strong></td>
-    </tr>
-    <tr>
-      <td>현대약품</td>
-      <td>14:30 선별</td>
-      <td>(매수 기록 없음)</td>
-      <td>스킵</td>
-      <td>종가 대비 0~0%</td>
-    </tr>
-    <tr>
-      <td>비에이치</td>
-      <td>12:10 탐색</td>
-      <td>(매수 기록 없음)</td>
-      <td>장중 탐색 후보</td>
-      <td>종가 대비 <strong>+7.19% ~ +2.88%</strong></td>
-    </tr>
-    <tr>
-      <td>S-Oil</td>
-      <td>10:10 탐색</td>
-      <td>(매수 기록 없음)</td>
-      <td>장중 탐색 후보</td>
-      <td>종가 대비 <strong>+0.65% ~ −1.24%</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>📌 <strong>핵심: 어제는 선별 2건, 매수 기록 2건</strong> — AI 선별과 탐색 단계를 모두 거쳐 <strong>실제 매수는 SK이노베이션과 삼성SDI 2종목만 진행되었습니다.</strong> 삼성SDI는 당일 정리로 <strong>+1.76% 실현 수익</strong>을 기록했으나, SK이노베이션은 <strong>평단 134,376원 기준 보유 지속</strong> 중입니다.</p>
-
-<h3 id="sk이노베이션--유가-수혜는-이어지나">SK이노베이션 — 유가 수혜는 이어지나?</h3>
-
-<p>실매수 포지션(평단 134,376원, 62주)이 저녁 동안 <strong>최고 +0.91% 상승</strong>했으나 <strong>마감 기준 −0.65% 수준</strong>으로 하락 후 마감했습니다. 어제는 갭 상승 후 안착을 기대하는 시나리오였으나, 간밤 미국 약세와 <strong>전일 외국인 순매도(-8,593억원) 지속</strong> 조건에서는 <strong>시초가 갭상승 가능성이 낮아 보입니다.</strong> 만약 평단 이하로 갭다운하면 손절 압박이 즉시 따라올 것 같습니다. ⚠️</p>
-
-<h3 id="삼성sdi는-당일-청산으로-소폭-수익-실현">삼성SDI는 당일 청산으로 소폭 수익 실현</h3>
-
-<p>어제 10:10 탐색 단계에서 매수하여 <strong>당일 정리(+1.76% 실현)</strong>. 2차전지 테마의 거래량 감소와 미국 약세 조합에서 신규 진입은 제한적입니다.</p>
-
-<hr />
-
-<h2 id="간밤-미국-3대-지수-동반-약세로-리스크온-자산-정리">간밤 미국, 3대 지수 동반 약세로 리스크온 자산 정리</h2>
-
-<p>다우(−0.79%), S&amp;P500(−0.71%), 나스닥(−1.03%)이 모두 내렸습니다. 특히 나스닥 100(−1.29%)까지 약했던 만큼, <strong>기술주 중심의 약세</strong>가 선명합니다. 필라델피아 반도체 지수까지 −2.14%로 내렸다는 것은 미국 반도체(엔비디아 등) 관련 <strong>실적 기대감이 이미 상당 부분 선반영된 후 조정이 나타나는 국면</strong>으로 해석됩니다.</p>
-
-<p><strong>VIX(+9.52%) 급등</strong>은 불안심 상승을 명확히 나타냅니다. 미국 10년물 국채 금리도 4.80%로 상승했으니, <strong>금리 상승 + 경기 전망 약화 + 유사 시나리오</strong>가 중첩되고 있습니다.</p>
-
-<hr />
-
-<h2 id="오늘-종가베팅-등급과-전략">오늘 종가베팅 등급과 전략</h2>
-
-<h3 id="-등급-경계-단계">🔴 등급: 경계 단계</h3>
-
-<p>감정 점수 <strong>28점</strong>(0~100 중)은 매우 약세 심리를 나타냅니다. 외국인이 계속 순매도를 이어가고 있는데, <strong>미국 약세가 겹치면 시초가 약세로 출발할 확률이 높습니다.</strong></p>
-
-<h3 id="전략-유가-수혜정유는-보이나-선별-조건-부재">전략: 유가 수혜(정유)는 보이나, 선별 조건 부재</h3>
-
-<ul>
-  <li><strong>정유(SK이노베이션 등) 테마</strong>: 유가 90달러 돌파로 수혜 구도는 명확합니다만, <strong>미국 약세 + 외국인 순매도</strong> 조합에서 <strong>“시초가만 오르고 장중 밀릴”(전강후약) 위험</strong>이 높습니다.</li>
-  <li><strong>시초가 갭 방향이 핵심</strong>: 만약 시초가에서 갭상승으로 열린다면 <strong>외국인 재진입 신호 확인</strong>이 필수입니다. 그렇지 않으면 조정압에 쉽게 눌리겠습니다.</li>
-  <li><strong>수동 매수 기준</strong>: 현재 보유 SK이노베이션의 평단 이하 갭다운 시 손절 압박, 평단 이상 유지 시 유가 지속도 관찰 필수.</li>
-</ul>
-
-<hr />
-
-<h2 id="주목할-변수--내일의-美-지표와-중동-긴장">주목할 변수 — 내일의 美 지표와 중동 긴장</h2>
-
-<ol>
-  <li><strong>내일(내일) 高 이벤트 다수</strong>
-    <ul>
-      <li>신규 실업수당(미국 고용 신호)</li>
-      <li>ISM 비제조업 지수(경기 신호)</li>
-      <li><strong>→ 이 지표들이 약할 경우 국내 외국인 추격매수 기대 어려움</strong></li>
-    </ul>
-  </li>
-  <li><strong>중동 긴장 고조</strong> (호르무즈 해협)
-    <ul>
-      <li>유가 90달러 유지가 강세 요인이나, <strong>추가 긴장 뉴스에 따라 변동성 확대 가능</strong></li>
-      <li>한편 <strong>과도한 유가 상승은 글로벌 경기 부담</strong>이 되므로, 장중에 조정될 가능성도 있습니다.</li>
-    </ul>
-  </li>
-  <li><strong>외국인 심리 전환 신호</strong>
-    <ul>
-      <li>어제 −8,593억원 순매도 이후 오늘 시초가에서 <strong>재진입 신호 여부</strong>가 개장 초반의 시장 신호가 될 것입니다.</li>
-    </ul>
-  </li>
-</ol>
-
-<hr />
-
-<h2 id="오늘을-어떻게-출발할까">오늘을 어떻게 출발할까?</h2>
-
-<p>유가 강세라는 호재가 있지만 <strong>미국 약세 + 외국인 순매도 + 내일 고용지표 불안</strong>이라는 역풍이 더 강합니다. 현재 보유 SK이노베이션은 <strong>평단 대비 시초가 흐름을 1차 확인</strong> 후, 평단 이상 유지 조건에서 유가 지속도를 다시 한 번 관찰하는 것이 현명해 보입니다. 신규 진입은 <strong>시초가 약세 속에서는 신중 구간</strong>이라고 판단합니다.</p>
-
-<p>중동 뉴스, 내일 미국 지표, 외국인 수급 신호를 한 번에 확인하는 오늘이 될 것 같습니다. 댓글로 오늘 장 분위기를 나눠주세요. 😊</p>
-
-<hr />
-
-<p>#NextTheme #종가베팅 #정유주 #미국약세 #외국인순매도 #유가 #리스크온 #시초가약세</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[모멘텀 게임의 역풍, 오늘은 신중한 출발을 요구하다]]></summary></entry></feed>
+<p>#종가베팅 #복기일지 #20260901 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-09-02 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
