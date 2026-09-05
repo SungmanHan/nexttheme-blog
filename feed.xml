@@ -1,4 +1,143 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-05T06:10:21+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">월요일 코스피, Fed 금리 우려와 반도체 강세의 줄다리기 — 대응 전략 점검</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/05/weekend/" rel="alternate" type="text/html" title="월요일 코스피, Fed 금리 우려와 반도체 강세의 줄다리기 — 대응 전략 점검" /><published>2026-09-05T06:00:00+09:00</published><updated>2026-09-05T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/05/weekend</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/05/weekend/"><![CDATA[<p>한 주가 마무리되는 토요일입니다. 📅 어젯밤 미국 고용 서프라이즈와 국내의 엇갈린 흐름을 정리해봅니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-06T06:07:33+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">이번 주 코스피, 금리 인상 우려에 약세 — 주도 세력 교체된 한주</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/06/weekly/" rel="alternate" type="text/html" title="이번 주 코스피, 금리 인상 우려에 약세 — 주도 세력 교체된 한주" /><published>2026-09-06T06:00:00+09:00</published><updated>2026-09-06T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/06/weekly</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/06/weekly/"><![CDATA[<h2 id="-한-주간-흐름-정리">📊 한 주간 흐름 정리</h2>
+
+<p>지난주는 외국인 자금이 주도권을 쥐고 있던 시장에서의 첫 번째 큰 조정 국면이었습니다. 미국 고용 호조로 Fed 금리 인상 우려가 재점화되면서 국채 10년물 금리가 <strong>4.78%까지 상승</strong>했고, 이는 국내 증시 전반에 압박으로 작용했습니다. 📉</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>지표</th>
+      <th>주초</th>
+      <th>주말</th>
+      <th>주간 변화</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>코스피 지수</td>
+      <td>6,788.88</td>
+      <td>6,687.21</td>
+      <td><strong>−1.50%</strong></td>
+    </tr>
+    <tr>
+      <td>코스닥 지수</td>
+      <td>838.41</td>
+      <td>813.5</td>
+      <td><strong>−2.97%</strong></td>
+    </tr>
+    <tr>
+      <td>원/달러 환율</td>
+      <td>1,374.6원</td>
+      <td>1,351.1원</td>
+      <td><strong>−1.71%</strong>(원화 강세)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>수급 측면에서 외국인·개인·기관 모두가 순매도를 기록했습니다(외국인 −<strong>2.28조원</strong>, 개인 −<strong>2.01조원</strong>, 기관 −<strong>2.11조원</strong>). 삼성전자·SK하이닉스의 <strong>55조원 자사주 매입</strong>이 반도체 섹터의 수급 방어 역할을 했으나, 시장 전체 약세 흐름을 막기에는 부족했습니다.</p>
+
+<h2 id="-테마-주도권-폭좌에서-정책주로">🔄 테마 주도권, 폭좌에서 정책주로</h2>
+
+<p>주 전반부(08/31~09/02)는 <strong>중동 긴장 고조로 유가가 급등</strong>하면서 정유·2차전지·해운이 주도했습니다. 호르무즈 해협 불안감으로 WTI가 <strong>90달러를 돌파</strong>하며 에너지 관련주들이 살아났습니다.</p>
+
+<p>주 후반부(09/03~09/04)로 넘어가면서 주도권이 완전히 바뀌었습니다. 정부의 로봇 산업 육성 정책 발표와 보험·조선 실적 기대감으로 <strong>정책주 중심의 약한 반등</strong>이 나타났습니다.</p>
+
+<p><strong>주도 테마 맵</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>시기</th>
+      <th>상승 테마</th>
+      <th>약세 테마</th>
+      <th>배경</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>09/01~02</td>
+      <td>정유, 2차전지, 해운</td>
+      <td>기술주</td>
+      <td>중동 긴장, 유가 급등</td>
+    </tr>
+    <tr>
+      <td>09/03~04</td>
+      <td>로봇, 보험, 조선</td>
+      <td>2차전지</td>
+      <td>정책 발표, 실적 기대</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="주목할-만한-상승-테마">주목할 만한 상승 테마</h3>
+
+<p><strong>로봇</strong> — 정부의 200대 직접 구매 및 세제·예산 지원 확대 정책이 금요일 발표되며 관련 종목 거래대금이 급증했습니다. 실적 확인 전까지는 정책 테마성 수요가 지속될 가능성이 있습니다.</p>
+
+<p><strong>반도체</strong> — 8월 수출이 <strong>467억 달러로 역대 최대</strong>를 기록하며 AI 인프라 수요 견조세가 확인됐습니다. DDR5·NAND 가격이 각각 +86.2%, +92.5% 상승하며 가격·수요가 모두 상승 흐름을 유지했습니다. 다만 미국 금리 인상 우려가 재점화될 경우 밸류에이션 압박이 가능합니다.</p>
+
+<p><strong>정유</strong> — WTI가 주중 <strong>90달러를 돌파</strong>하며 정유 섹터이 수혜를 입었습니다. 중동 긴장이 지속되는 한 유가 고공행진과 정유 모멘텀이 이어질 수 있으나, 긴장 완화 시 모멘텀 약화 가능성이 있습니다.</p>
+
+<h3 id="약해진-테마">약해진 테마</h3>
+
+<p><strong>2차전지(생산)</strong> — 주 초반 강세를 보였으나 주중 외국인 이탈과 금리 인상 우려 확산으로 모멘텀이 급속히 약화됐습니다.</p>
+
+<p><strong>보험</strong> — 주 후반 금리 상승 환경에서 강세를 보였으나, 미국 고용 호조 이후 금리 인상 우려가 재점화되며 조정 압력이 커질 수 있습니다.</p>
+
+<h2 id="-다음-주-경제-지표가-시장을-좌우할-것-같습니다">🔮 다음 주, 경제 지표가 시장을 좌우할 것 같습니다</h2>
+
+<p>다음 주 초반 한국 GDP(09/08)와 미국 생산자물가, 소비자물가 발표(09/10~11)가 예정돼 있어 <strong>변동성이 확대될 수 있다</strong>는 점에 주목할 필요가 있습니다.</p>
+
+<p><strong>시나리오①: 지표가 호조라면</strong>
+한국 경제가 양호하고 미국 인플레이션이 둔화되면 금리 인상 우려가 완화되며 증시 회복 모멘텀이 가능할 수 있습니다.</p>
+
+<p><strong>시나리오②: 지표가 부진이라면</strong>
+미국 인플레이션이 재가속하거나 중동 긴장이 확대되면 유가 추가 상승과 함께 외국인 이탈·증시 조정 압력이 커질 가능성이 있습니다.</p>
+
+<p>반도체 수출 모멘텀과 로봇·AI 인프라 정책 기대는 <strong>중기 지지 요인</strong>이나, 단기적으로는 매크로 불확실성 해소가 선행되어야 한다는 게 이번 주 흐름의 교훈입니다.</p>
+
+<h2 id="️-주목해야-할-세-가지-섹터와-리스크">⚠️ 주목해야 할 세 가지 섹터와 리스크</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>주목 섹터</th>
+      <th>확인 포인트</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>반도체</strong></td>
+      <td>8월 수출 467억$ 역대 최대로 AI 인프라 수요 견조. 미국 금리 인상 우려 재점화 시 밸류에이션 압박 가능성 주시</td>
+    </tr>
+    <tr>
+      <td><strong>로봇(산업용/협동로봇)</strong></td>
+      <td>정부 정책 발표로 테마 모멘텀 형성. 실적 확인 전까지 정책성 수요 지속 여부가 관건</td>
+    </tr>
+    <tr>
+      <td><strong>정유</strong></td>
+      <td>유가 90달러 고공행진 시 수혜 지속 가능. 중동 긴장 완화 시 모멘텀 약화 가능성</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>리스크 팩터</strong></p>
+
+<p>1️⃣ <strong>금리 인상 우려</strong> — 09/11 CPI 예상 상회 시 성장주·기술주 밸류에이션 압박 확대, 외국인 이탈 가속 가능</p>
+
+<p>2️⃣ <strong>중동 긴장 확대</strong> — 호르무즈 해협 봉쇄 시 유가 추가 급등으로 원자재 비용 부담 증가, 항공·화학 섹터 역풍</p>
+
+<p>3️⃣ <strong>개미 자금 이탈</strong> — 원화 강세·미국 주식 선호 흐름 지속 시 국내 증시 수급 악화, 자사주 매입 소진(10월) 후 방어막 약화 우려</p>
+
+<h2 id="마치며--한주간의-기록">마치며 — 한주간의 기록</h2>
+
+<p>이번 주는 <strong>“금리 인상 재우려에 주도권을 잃은 주”</strong>였습니다. 외국인이 순매도로 돌아서고, 개인도 발을 빼면서 시장 전반이 조정 국면으로 진입했습니다. 다만 반도체의 실적 견조(8월 수출 최대치)와 정부 정책(로봇 산업 육성)이라는 지지 요인이 남아 있어 <strong>절대 절망의 국면</strong>만은 아닙니다.</p>
+
+<p>다음 주 중요 경제 지표들이 시장의 방향을 크게 좌우할 것 같습니다. 09/08 한국 GDP와 09/11 미국 CPI 발표 결과를 확인해 금리 인상 우려가 실제로 완화되는지, 아니면 재점화되는지 관찰하는 것이 투자의 첫 번째 숙제일 것 같습니다.</p>
+
+<p>궁금한 섹터나 종목이 있으시면 댓글로 남겨주세요. 함께 분석해보겠습니다. 📝</p>
+
+<hr />
+
+<p>#코스피 #주간정리 #금리인상 #로봇산업 #반도체 #정유 #매크로분석 #경제지표 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="weekly" /><summary type="html"><![CDATA[📊 한 주간 흐름 정리]]></summary></entry><entry><title type="html">월요일 코스피, Fed 금리 우려와 반도체 강세의 줄다리기 — 대응 전략 점검</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/05/weekend/" rel="alternate" type="text/html" title="월요일 코스피, Fed 금리 우려와 반도체 강세의 줄다리기 — 대응 전략 점검" /><published>2026-09-05T06:00:00+09:00</published><updated>2026-09-05T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/05/weekend</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/05/weekend/"><![CDATA[<p>한 주가 마무리되는 토요일입니다. 📅 어젯밤 미국 고용 서프라이즈와 국내의 엇갈린 흐름을 정리해봅니다.</p>
 
 <h2 id="어젯밤금요일-미국-시장과-달러-움직임">어젯밤(금요일) 미국 시장과 달러 움직임</h2>
 
@@ -2380,123 +2519,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가베팅 #복기일지 #20260902 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-09-03 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">미국 반등 vs 한국 외국인 이탈 — 오늘 아침 증시 관전 포인트</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/03/0600-briefing/" rel="alternate" type="text/html" title="미국 반등 vs 한국 외국인 이탈 — 오늘 아침 증시 관전 포인트" /><published>2026-09-03T06:00:00+09:00</published><updated>2026-09-03T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/03/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/03/0600-briefing/"><![CDATA[<p>📊 어제 급락장 속 외국인·기관이 <strong>4.8조 원</strong> 순매도하며 한국과 미국이 또 다른 길을 갔습니다. 미국 3대 지수는 반등했는데 한국만 외인 이탈이 지속되는 상황 — 오늘 시초가 이후 관망 우위입니다.</p>
-
-<hr />
-
-<h2 id="-어제-선별-어떻게-나왔나">📋 어제 선별 어떻게 나왔나</h2>
-
-<p>어제(9월 2일) AI가 종목 5개를 골랐는데, 모두 <strong>탐색 또는 최종 단계의 조건부 후보</strong>였습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목명</th>
-      <th>슬롯</th>
-      <th>어제 전략</th>
-      <th>오늘 현황</th>
-      <th>저녁 흐름</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>SK이노베이션</strong></td>
-      <td>—</td>
-      <td>—</td>
-      <td><strong>보유 중</strong> ⚠️</td>
-      <td>평단 대비 <strong>−6.5%</strong> 저점 기록</td>
-    </tr>
-    <tr>
-      <td>KB금융</td>
-      <td>12:10 탐색</td>
-      <td>갭트레이드</td>
-      <td>미보유</td>
-      <td>−</td>
-    </tr>
-    <tr>
-      <td>흥구석유</td>
-      <td>10:10 탐색</td>
-      <td>갭트레이드</td>
-      <td>미보유</td>
-      <td>−</td>
-    </tr>
-    <tr>
-      <td>주성엔지니어링</td>
-      <td>15:10 최종</td>
-      <td>갭트레이드</td>
-      <td>미보유</td>
-      <td>−</td>
-    </tr>
-    <tr>
-      <td>디아이</td>
-      <td>12:10 탐색</td>
-      <td>갭트레이드</td>
-      <td>미보유</td>
-      <td>종가 대비 <strong>−5%</strong> 하락</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>⚠️ <strong>SK이노베이션은 보유 중인데 저녁 애프터마켓에서 평단 대비 최대 −6.5% 저점을 기록했습니다.</strong> 외국인 매도가 이어지고 있어, 갭하락이 나올 경우 60선 지지 여부가 관찰 포인트로 남아 있습니다. 유가 90달러의 수혜 요인도 있지만 수급 리스크가 더 커 보입니다.</p>
-
-<hr />
-
-<h2 id="-간밤-미국-장--완만한-반등세">🌍 간밤 미국 장 — 완만한 반등세</h2>
-
-<p><strong>다우존스 +0.56% / S&amp;P500 +0.46% / 나스닥 +0.45%</strong> — 금융 위기 우려가 한풀 꺾인 모습입니다.</p>
-
-<ul>
-  <li><strong>미국 10년물 국채금리가 4.78%로 내려</strong>가며 은행주 압박이 조금 풀렸습니다 (전일 대비 −1.2bp).</li>
-  <li><strong>ADP 고용 지수</strong>가 예상(4.7만명)보다 약했는데(3.8만명), 이게 연준의 금리 인상 압박을 덜어준 것 같습니다.</li>
-  <li><strong>필라델피아 반도체 +0.45%</strong> — 델의 AI 서버 매출이 2배 급증했다는 뉴스가 나왔고, 브로드컴 실적 발표도 있는 상황입니다. 오늘 국내 반도체 종목들이 받을 수 있는 심리 변수입니다.</li>
-</ul>
-
-<p><strong>다만 VIX가 -6.98% 급락</strong>하며 시장 공포가 빠르게 걷히고 있습니다. 이건 긍정이면서도 조심의 신호 — 과한 낙관이 들어올 수 있거든요.</p>
-
-<hr />
-
-<h2 id="-오늘의-시장-국면--신중">🎯 오늘의 시장 국면 — 신중</h2>
-
-<p><strong>시초가 이후 관망 우위입니다.</strong></p>
-
-<p>미국 반등이 반가운 뉴스지만, 한국의 외국인·기관 4.8조 순매도가 멈추지 않았습니다. 이런 국면에서는 시초가 갭상승이 나오더라도 그 강도가 장중까지 유지되는지가 관건입니다. 내일 새벽(21:30) <strong>미국 비농업고용지수</strong>와 <strong>실업률</strong> 발표를 앞두고 있어서 변동성이 커질 가능성도 높습니다.</p>
-
-<hr />
-
-<h2 id="-주목할-변수">⚡ 주목할 변수</h2>
-
-<p><strong>1. 내일 새벽 미국 고용지표 (21:30 발표)</strong></p>
-<ul>
-  <li>현재 시장은 금리 인상에 민감합니다. 고용 데이터가 강하면 인상 압박이 다시 커질 수 있습니다.</li>
-  <li>약한 데이터면 시장 반등이 이어질 가능성.</li>
-</ul>
-
-<p><strong>2. 유가 90달러 고공행진</strong></p>
-<ul>
-  <li>WTI가 90.67달러를 유지하면서 정유·윤활유 테마가 강세입니다 (어제 윤활유 테마 +12.44%).</li>
-  <li>반면 항공·화학주는 역풍이 계속됩니다.</li>
-</ul>
-
-<p><strong>3. 반도체 브로드컴 실적 (오늘)</strong></p>
-<ul>
-  <li>필라델피아 반도체가 이미 +0.45% 반등했으니 AI 서버 수요 신호입니다.</li>
-  <li>국내 주성엔지니어링 같은 반도체 장비주도 받을 여지가 있습니다.</li>
-</ul>
-
-<hr />
-
-<h2 id="-오늘을-어떻게-받아들일-것인가">💭 오늘을 어떻게 받아들일 것인가</h2>
-
-<p>어제 -4% 급락장에서 외국인이 떠났다면, 오늘 미국 반등만으로는 복구가 쉽지 않습니다. 시초가가 어떻게 나오든 <strong>장중 추세가 실제로 살아나는지</strong>가 판단의 기준점이 됩니다.</p>
-
-<p>SK이노베이션처럼 저녁에 큰 낙폭을 보인 종목은 갭하락 시 낙폭이 더 확대되는지, 되돌림이 나오는지가 갈림길입니다.</p>
-
-<p><strong>내일 새벽 고용지표까지는 변수가 크다는 점을 기억하세요.</strong> 뉴스 이벤트를 앞둔 구간에서는 변동성이 확대될 수 있다는 점이 변수입니다.</p>
-
-<hr />
-
-<p>💬 오늘 시장 흐름 중에 주목할 신호가 있으시면 댓글로 남겨주세요. 함께 경험을 쌓아가겠습니다.</p>
-
-<p>🤝 <a href="https://blog.naver.com/hansung926">이웃 추가</a>하고 매일 아침 분석을 받아보세요.</p>
-
-<p>#종가베팅 #NextTheme #미국장 #국내증시 #외국인 #반도체 #유가 #블로그 #주식분석</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[📊 어제 급락장 속 외국인·기관이 4.8조 원 순매도하며 한국과 미국이 또 다른 길을 갔습니다. 미국 3대 지수는 반등했는데 한국만 외인 이탈이 지속되는 상황 — 오늘 시초가 이후 관망 우위입니다.]]></summary></entry></feed>
+<p>#종가베팅 #복기일지 #20260902 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-09-03 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
