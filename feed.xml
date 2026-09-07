@@ -1,4 +1,352 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-07T20:09:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">SK하이닉스, 오늘 8% 급등의 이유 — 오픈AI 뉴스 속 수급 신호 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/07/nt2-1505-snapshot/" rel="alternate" type="text/html" title="SK하이닉스, 오늘 8% 급등의 이유 — 오픈AI 뉴스 속 수급 신호 분석" /><published>2026-09-07T15:05:00+09:00</published><updated>2026-09-07T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/07/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/07/nt2-1505-snapshot/"><![CDATA[<p>💡 <strong>반도체와 발전설비, 오늘의 ‘기둥’을 찾다</strong></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-07T21:04:58+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 4.61% 급등한 하루, 종가베팅은 반도체·원전에서 답을 찾았다</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/07/daily/" rel="alternate" type="text/html" title="코스피 4.61% 급등한 하루, 종가베팅은 반도체·원전에서 답을 찾았다" /><published>2026-09-07T21:00:00+09:00</published><updated>2026-09-07T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/07/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/07/daily/"><![CDATA[<p>오늘(9/7) 코스피가 <strong>4.61%</strong> 오르며 <strong>6,995.39</strong>에 마감했습니다. 📈 하루 만에 지수가 이렇게 크게 움직이는 날은 흔치 않은데요, 오픈AI의 새 모델 발표 소식이 반도체와 AI 인프라 관련주에 그대로 힘을 실어준 하루였습니다. 오늘 시장이 어떻게 움직였고, 종가베팅 알고리즘(NextTheme)은 어떤 종목을 골랐는지, 그리고 어제 골랐던 종목은 오늘 아침 실제로 어떻게 됐는지 순서대로 정리해 보겠습니다.</p>
+
+<h2 id="어제-선별-오늘-아침엔-어떻게-됐을까">어제 선별, 오늘 아침엔 어떻게 됐을까?</h2>
+
+<p>가장 먼저 확인할 건 “어제 고른 종목이 실제로 돈이 됐느냐”입니다. 종가베팅의 실제 수익 실현 시점은 다음 날 아침이기 때문에, 어제 선별 종목의 오늘 아침(08:00~09:59) 실제 결과부터 살펴봅니다. 틀린 날도 있는 그대로 적습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>구분</th>
+      <th>진입가 대비 갭</th>
+      <th>세션 내 최고</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>로보티즈</td>
+      <td>① 실현(아침)</td>
+      <td><strong>+7.38%</strong></td>
+      <td>+10.82%</td>
+    </tr>
+    <tr>
+      <td>S-Oil</td>
+      <td>① 실현(아침)</td>
+      <td><strong>-0.32%</strong></td>
+      <td>+2.30%</td>
+    </tr>
+    <tr>
+      <td>헥토파이낸셜</td>
+      <td>① 실현(아침)</td>
+      <td><strong>-0.80%</strong></td>
+      <td>+1.80%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>로보티즈는 진입가 대비 아침 실현 갭이 <strong>+7.38%</strong>로 좋은 결과를 냈지만, S-Oil과 헥토파이낸셜은 각각 -0.32%, -0.80%로 마이너스였습니다. 세 종목 모두 아침 세션(08:00~09:59) 동안 진입가 대비 흐름을 그대로 반영한 수치입니다.</p>
+
+<p>한편 오늘 선별한 종목들의 저녁 애프터마켓(15:40~19:59) 흐름도 확인됐는데, 이건 아직 <strong>확정된 결과가 아니라 잠정치</strong>입니다. 진짜 성적표는 내일 아침에 나옵니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>구분</th>
+      <th>진입가 대비 갭</th>
+      <th>세션 내 최고</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>두산에너빌리티</td>
+      <td>② 잠정(애프터마켓)</td>
+      <td><strong>+2.41%</strong></td>
+      <td>+2.41%</td>
+    </tr>
+    <tr>
+      <td>SK하이닉스</td>
+      <td>② 잠정(애프터마켓)</td>
+      <td><strong>+0.39%</strong></td>
+      <td>+0.56%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>두 종목 모두 애프터마켓에서 진입가(각각 87,300원, 1,780,000원) 대비 플러스 흐름을 보였지만, 어디까지나 저녁 시간대 관찰치일 뿐 내일 아침 실제 갭과는 다를 수 있습니다.</p>
+
+<h2 id="오늘-시장은-어땠나">오늘 시장은 어땠나</h2>
+
+<p>간밤 미국 증시(지난 금요일 밤 미국장)는 다우 -0.51%, S&amp;P500 -0.38%, 나스닥 -0.29%로 3대 지수가 약세였지만, 필라델피아 반도체 지수는 <strong>+3.38%</strong>로 눈에 띄게 강했습니다. 이 반도체 강세 분위기가 그대로 오늘 국내 증시로 이어진 모습입니다.</p>
+
+<p>오늘 국내 시장은 <strong>코스피 6,995.39(+4.61%)</strong>, <strong>코스닥 822.19(+1.07%)</strong>로 마감했습니다. 원/달러 환율은 <strong>1,345.6원</strong>이었습니다. 최근 코스피 흐름을 보면 8월 말~9월 초까지 6,560~6,690 구간에서 등락을 반복하다가, 오늘 하루 만에 6,995선까지 크게 뛰어오른 흐름입니다.</p>
+
+<p>수급 면에서는 외국인이 <strong>+3.3조원</strong>, 큰 투자기관(기관)이 <strong>+3.6조원</strong> 순매수한 반면, 개인은 <strong>-8.5조원</strong> 순매도하며 정반대 흐름을 보였습니다. 외국인과 기관이 동시에 사들이는 동안 개인은 차익 실현에 나선 하루였다고 볼 수 있습니다.</p>
+
+<h2 id="무엇이-움직였나--오늘의-거래대금-상위-종목">무엇이 움직였나 — 오늘의 거래대금 상위 종목</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>순위</th>
+      <th>종목명</th>
+      <th>거래대금</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>SK하이닉스</td>
+      <td>8.6조원</td>
+      <td><strong>+8.08%</strong></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>삼성전자</td>
+      <td>6.5조원</td>
+      <td><strong>+5.48%</strong></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>삼성전기</td>
+      <td>1.3조원</td>
+      <td><strong>+3.64%</strong></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>두산에너빌리티</td>
+      <td>9,577억원</td>
+      <td><strong>+11.24%</strong></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>스카이랩스</td>
+      <td>7,802억원</td>
+      <td><strong>+30.00%</strong></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>LG전자</td>
+      <td>7,640억원</td>
+      <td><strong>+5.96%</strong></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>SK스퀘어</td>
+      <td>7,606억원</td>
+      <td><strong>+7.49%</strong></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>로보티즈</td>
+      <td>6,000억원</td>
+      <td>-0.66%</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>삼성전자우</td>
+      <td>5,720억원</td>
+      <td><strong>+4.18%</strong></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>두산퓨얼셀</td>
+      <td>3,496억원</td>
+      <td><strong>+13.80%</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>거래대금 상위 10개 종목 중 8개가 상승했고, 그중 절반 이상이 5% 이상 오를 만큼 강한 상승 쏠림이 나타난 하루였습니다.</p>
+
+<p>오늘 상승 종목 수 기준으로 강했던 테마도 함께 살펴보면:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>순위</th>
+      <th>테마명</th>
+      <th>상승 종목 수 / 전체 종목 수</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>반도체 대표주(생산)</td>
+      <td>3 / 3</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>반도체 핵심 종목군(삼성전자/SK하이닉스 등)</td>
+      <td>7 / 7</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>원자력발전소 해체</td>
+      <td>13 / 15</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>고체산화물 연료전지(SOFC)</td>
+      <td>12 / 14</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>원자력발전</td>
+      <td>40 / 50</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>건설 대표주</td>
+      <td>5 / 6</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>반도체 관련 테마와 원자력발전 관련 테마 모두 소속 종목 대부분이 상승하며 시장 전반에 걸친 강세를 보여줬습니다.</p>
+
+<h2 id="오늘의-종가베팅-선별-결과">오늘의 종가베팅 선별 결과</h2>
+
+<p>오늘 알고리즘(NextTheme)이 매긴 베팅 등급은 <strong>긍정적인 구간</strong>이었습니다. 선별 요약은 이렇습니다:</p>
+
+<blockquote>
+  <p>오픈AI 새 모델 발표로 반도체·AI 인프라에 외국인·기관 자금이 대거 몰리며 코스피가 4% 넘게 급등한 강세장.</p>
+</blockquote>
+
+<p>오늘 선별된 종목은 다음 두 종목입니다.</p>
+
+<h3 id="sk하이닉스">SK하이닉스</h3>
+
+<p>오늘 거래대금 1위(8.6조원)를 기록한 대장주로, 외국인과 기관이 함께 사들였습니다. AI가 남긴 근거는 오픈AI 새 모델 발표에 따른 메모리 수요 기대감이 이 종목에 관심을 모으고 있다는 점이었습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>항목</th>
+      <th>값</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>기본</td>
+      <td>당일 종가 / 등락률</td>
+      <td>1,780,000원 / <strong>+8.08%</strong></td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>거래대금 / 시총</td>
+      <td>8.6조원 / 1,299.5조원</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>주도 테마 / 테마내순위</td>
+      <td>반도체 대표주(생산) / 1위</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>RSI / RVOL / 이평수렴</td>
+      <td>54.8 / 0.7 / +0.2%</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>52주 신고가 / OBV</td>
+      <td>아님 / 중립</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>외인 순매수 / 기관 순매수</td>
+      <td>+23만 주 / +24만 주</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>호가신호</td>
+      <td>매수벽 강함</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>매출 YoY</td>
+      <td>+310.5%</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>최근 분기 실적</td>
+      <td>2026.09.: 매출 100.4조원 / 영업이익 78.8조원</td>
+    </tr>
+    <tr>
+      <td>점수</td>
+      <td>AI 종합 점수</td>
+      <td>48점</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="두산에너빌리티">두산에너빌리티</h3>
+
+<p>원전·발전설비 대장주로, 이 종목 역시 외국인·기관이 함께 순매수했습니다. AI가 남긴 근거는 AI 데이터센터 전력 수요로 원전·발전설비 대장주에 자금이 몰렸고, 머스크의 복합화력발전소 추진 소식도 함께 관심을 모았다는 점이었습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>항목</th>
+      <th>값</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>기본</td>
+      <td>당일 종가 / 등락률</td>
+      <td>88,100원 / <strong>+11.24%</strong></td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>거래대금 / 시총</td>
+      <td>9,577억원 / 56.5조원</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>주도 테마 / 테마내순위</td>
+      <td>원자력발전소 해체 / 1위</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>RSI / RVOL / 이평수렴</td>
+      <td>59.9 / 2.1 / +0.0%</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>52주 신고가 / OBV</td>
+      <td>아님 / 중립</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>외인 순매수 / 기관 순매수</td>
+      <td>+24만 주 / +16만 주</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>매출 YoY</td>
+      <td>+12.1%</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>최근 분기 실적</td>
+      <td>2026.09.: 매출 4.4조원 / 영업이익 2,482억원</td>
+    </tr>
+    <tr>
+      <td>점수</td>
+      <td>AI 종합 점수</td>
+      <td>47점</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="보유-중인-종목--두산에너빌리티">보유 중인 종목 — 두산에너빌리티</h3>
+
+<p>시스템이 오늘 하루 여러 시점(장중 탐색·최종 선별·NXT 애프터마켓·PREP 사전 단계)에서 반복적으로 선별하며 최종 후보에도 포함시킨 종목입니다. 진입가(87,300원) 대비 저녁 애프터마켓(15:40~19:59) 흐름은 최고 <strong>+2.41%</strong>, 최저 <strong>-0.11%</strong>였습니다. 다만 이는 진입가 대비 관찰치일 뿐, 수량이나 평단은 이 데이터에 담겨 있지 않습니다.</p>
+
+<h2 id="오늘을-어떻게-기록할-것인가">오늘을 어떻게 기록할 것인가</h2>
+
+<p>오늘은 오픈AI발 반도체 훈풍이 국내 증시 전반을 끌어올린 하루였습니다. 개인적으로 눈에 띄었던 건, 반도체 대장주(SK하이닉스·삼성전자)만이 아니라 원자력발전 관련 테마 전체가 함께 강세를 보였다는 점입니다. AI 인프라 확대라는 하나의 뉴스가 반도체와 전력 인프라라는 서로 다른 두 축을 동시에 움직였다는 게 오늘 시장의 특징이었습니다. 물론 어제 선별 종목 중 S-Oil과 헥토파이낸셜처럼 기대에 못 미친 경우도 있었던 만큼, 매일의 결과를 있는 그대로 지켜보는 게 중요하다고 생각합니다.</p>
+
+<p>외국인·기관이 함께 사들이고 개인이 파는 하루, 코스피 4%대 급등, 반도체와 원전 테마의 동반 강세. 오늘 하루를 이렇게 정리해 봅니다.</p>
+
+<p>궁금한 종목이 있다면 댓글로 남겨주세요 😊</p>
+
+<p>#SK하이닉스 #두산에너빌리티 #반도체 #원자력발전 #코스피급등 #오픈AI #종가베팅 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[오늘(9/7) 코스피가 4.61% 오르며 6,995.39에 마감했습니다. 📈 하루 만에 지수가 이렇게 크게 움직이는 날은 흔치 않은데요, 오픈AI의 새 모델 발표 소식이 반도체와 AI 인프라 관련주에 그대로 힘을 실어준 하루였습니다. 오늘 시장이 어떻게 움직였고, 종가베팅 알고리즘(NextTheme)은 어떤 종목을 골랐는지, 그리고 어제 골랐던 종목은 오늘 아침 실제로 어떻게 됐는지 순서대로 정리해 보겠습니다.]]></summary></entry><entry><title type="html">SK하이닉스, 오늘 8% 급등의 이유 — 오픈AI 뉴스 속 수급 신호 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/07/nt2-1505-snapshot/" rel="alternate" type="text/html" title="SK하이닉스, 오늘 8% 급등의 이유 — 오픈AI 뉴스 속 수급 신호 분석" /><published>2026-09-07T15:05:00+09:00</published><updated>2026-09-07T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/07/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/07/nt2-1505-snapshot/"><![CDATA[<p>💡 <strong>반도체와 발전설비, 오늘의 ‘기둥’을 찾다</strong></p>
 
 <p>강한 기술주 랠리가 이어지는 가운데, 오픈AI의 새 모델 발표로 시장의 초점이 명확히 드러났습니다. AI 인프라를 뒷받침할 메모리칩과 전력 — 이 두 축이 오늘 외국인과 기관의 대규모 자금 유입을 받았습니다. 코스피가 4% 넘게 급등한 이 흐름 속에서, 종가베팅이 주목한 것은 <strong>모멘텀 게임의 명확한 진입신호</strong>입니다.</p>
 
@@ -2126,112 +2474,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가베팅 #복기일지 #20260903 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-09-04 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">간밤 미국 강세에도 오늘은 신중 구간</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/04/0600-briefing/" rel="alternate" type="text/html" title="간밤 미국 강세에도 오늘은 신중 구간" /><published>2026-09-04T06:00:00+09:00</published><updated>2026-09-04T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/04/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/04/0600-briefing/"><![CDATA[<p>금요일 아침, 간밤 미국 시장은 광범위하게 올랐습니다. 다만 현재 시장 환경에서는 신중함을 잃지 말아야 할 국면입니다.</p>
-
-<h2 id="-어제-선별-결과--실제-매수는-없었습니다">📋 어제 선별 결과 — 실제 매수는 없었습니다</h2>
-
-<p><strong>어제</strong>(목요일)는 6개 종목을 선별했으나 <strong>실제 매수 기록은 없습니다.</strong></p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목명</th>
-      <th>슬롯</th>
-      <th>어제 전략</th>
-      <th>상태</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>SK이노베이션</td>
-      <td>—</td>
-      <td>이월 보유</td>
-      <td>✅ 보유 중 (평단 대비 −2.5~−3.6%)</td>
-    </tr>
-    <tr>
-      <td>한화오션</td>
-      <td>19:10 선별</td>
-      <td>갭 대응 전략</td>
-      <td>진입 안 함</td>
-    </tr>
-    <tr>
-      <td>삼성중공업</td>
-      <td>15:10 최종</td>
-      <td>갭트레이드 기준</td>
-      <td>진입 안 함</td>
-    </tr>
-    <tr>
-      <td>한화생명</td>
-      <td>15:10 최종</td>
-      <td>갭트레이드 기준</td>
-      <td>진입 안 함</td>
-    </tr>
-    <tr>
-      <td>KB금융</td>
-      <td>12:10 탐색</td>
-      <td>갭트레이드 기준</td>
-      <td>진입 안 함</td>
-    </tr>
-    <tr>
-      <td>현대약품</td>
-      <td>10:10 탐색</td>
-      <td>갭트레이드 기준</td>
-      <td>진입 안 함</td>
-    </tr>
-  </tbody>
-</table>
-
-<p><strong>SK이노베이션만 이전 거래일부터 계속 보유 중이며</strong>, 저녁 내내 평단 대비 약 <strong>2.5~3.6% 내려갔습니다.</strong> 나머지 5개 종목은 AI 선별 후에도 실제 진입으로 이어지지 않았습니다.</p>
-
-<p>어제는 전체적으로 신중한 접근이 우선된 하루였습니다. <strong>아무도 매수까지 이어진 종목은 없었고</strong>, 보유 중인 1개 종목의 저녁 흐름만 모니터했던 셈입니다.</p>
-
-<h2 id="간밤-미국-시장--광범위-강세지만-세부-신호는-엇갈림">간밤 미국 시장 — 광범위 강세지만 세부 신호는 엇갈림</h2>
-
-<p>간밤 미국 시장은 주요 지수가 통째로 올랐습니다.</p>
-
-<ul>
-  <li><strong>다우지수</strong>: <strong>+1.18%</strong> (종가 기준)</li>
-  <li><strong>S&amp;P 500</strong>: <strong>+1.06%</strong></li>
-  <li><strong>나스닥 종합</strong>: <strong>+1.40%</strong> (장중 모멘텀 강함)</li>
-</ul>
-
-<p>이 중 <strong>나스닥 100</strong>은 <strong>+1.16%</strong>로 성장주 랠리가 주도했습니다. 하지만 여기서 한 가지 주의할 점이 있습니다.</p>
-
-<p><strong>필라델피아 반도체 지수</strong>는 <strong>+0.11%</strong>에 머물렀습니다. 반도체 섹터만 유독 약세를 보인 것입니다. 한국 시장에서는 반도체가 여전히 중요한 주도 테마인데, 미국 반도체 지수의 상대적 약세가 오늘 국내 반도체주에 어떤 영향을 미칠지 주목할 필요가 있습니다.</p>
-
-<p>또한 <strong>VIX(공포지수)는 −5.79%로 하락</strong>했습니다. 시장의 불안감이 진정되었다는 신호입니다. 다만 이는 “시장이 매우 안심한다”는 뜻이 아니라, <strong>현재 상황의 불확실성이 여전히 존재하되 완화 추세</strong>임을 의미합니다.</p>
-
-<h2 id="오늘의-베팅-등급--전략--yellow신중">오늘의 베팅 등급 &amp; 전략 — YELLOW(신중)</h2>
-
-<p>오늘 <strong>베팅 등급은 YELLOW</strong>입니다. 즉, <strong>중립·관망을 우선하는 신중 국면</strong>입니다.</p>
-
-<p><strong>AI의 분석</strong>: “불확실 요소 존재 — 신중 국면(중립·관망 우위)”</p>
-
-<p>미국 지수 자체는 강세지만, 국내 시장의 리더십은 아직 명확하지 않습니다. 특히 어제 선별 종목들이 실제 진입으로 이어지지 않은 점은 현 시장에 <strong>강한 확신을 놓고 진입하기 어려운 환경</strong>이라는 신호입니다. 따라서:</p>
-
-<ul>
-  <li><strong>새로운 포지션 진입은 신중하게</strong></li>
-  <li><strong>기존 포지션(SK이노베이션)의 움직임에 주목</strong></li>
-  <li><strong>시초가와 초반 30분 추세 확인 후 판단</strong></li>
-</ul>
-
-<p>이런 접근이 YELLOW 등급에 어울립니다.</p>
-
-<h2 id="오늘-시장에서-확인할-변수">오늘 시장에서 확인할 변수</h2>
-
-<ol>
-  <li><strong>시초가와 초반 거래대금</strong> — 미국 강세를 반영하는 개장인지, 아니면 조용한 개장인지 첫 신호가 됩니다.</li>
-  <li><strong>반도체주의 움직임</strong> — 미국 반도체의 약한 수익이 영향을 미치는지 확인 필요.</li>
-  <li><strong>금융주와 중대형주 리더십</strong> — 어제 갭트레이드 후보로 나왔던 금융주들이 오늘 시초에서 어떻게 반응하는지.</li>
-  <li><strong>저녁 SK이노베이션의 추가 변화</strong> — 이미 평단 아래인 상황에서 오늘 시간대별 움직임.</li>
-</ol>
-
-<h2 id="마무리--다음-주-월요일을-향해">마무리 — 다음 주 월요일을 향해</h2>
-
-<p>금요일 아침은 미국의 강한 신호를 받았지만, 이것이 국내 투자자의 <strong>확실한 수익 기회</strong>로 즉시 변환되지는 않는 국면입니다. YELLOW 등급이 의미하는 것도 바로 그것입니다.</p>
-
-<p>오늘 하루는 <strong>관찰과 신중함이 자산</strong>이 될 겝니다. 무리한 진입보다는 <strong>다음 주 월요일을 향한 준비</strong>로 하루를 채우는 것이 현명합니다.</p>
-
-<p>궁금한 종목이나 오늘 장 중 의견이 있으시면 댓글로 나눠주세요.</p>
-
-<p>#NextTheme #종가베팅 #베팅등급 #미국시장 #반도체 #금요일장</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[금요일 아침, 간밤 미국 시장은 광범위하게 올랐습니다. 다만 현재 시장 환경에서는 신중함을 잃지 말아야 할 국면입니다.]]></summary></entry></feed>
+<p>#종가베팅 #복기일지 #20260903 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-09-04 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
