@@ -1,30 +1,30 @@
 {
-  "lastTradingDay" : "2026-09-04",
-  "totalDays" : 83,
+  "lastTradingDay" : "2026-09-07",
+  "totalDays" : 84,
   "summary" : {
-    "tradingDays" : 83,
+    "tradingDays" : 84,
     "sectorCount" : 16,
-    "upDays" : 75,
-    "avgChangeRate" : 5.5,
+    "upDays" : 76,
+    "avgChangeRate" : 5.53,
     "topSector" : "반도체·AI인프라",
-    "topSectorDays" : 20
+    "topSectorDays" : 21
   },
   "now" : {
-    "date" : "2026-09-04",
+    "date" : "2026-09-07",
     "bettingGrade" : "GREEN",
     "regimeTag" : "GREEN",
     "themeRegime" : "THEME_LED",
     "marketSignal" : "강세",
-    "kospi" : 1.64,
-    "kosdaq" : 2.95,
-    "leadTheme" : "지역화폐",
-    "leadChangeRate" : 6.78,
-    "themePremium" : 5.14
+    "kospi" : 4.61,
+    "kosdaq" : 1.07,
+    "leadTheme" : "반도체 대표주(생산)",
+    "leadChangeRate" : 8.21,
+    "themePremium" : 3.6
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
-    "rank1Days" : 20,
-    "top3Days" : 32
+    "rank1Days" : 21,
+    "top3Days" : 34
   }, {
     "sector" : "자동차·2차전지",
     "rank1Days" : 12,
@@ -38,29 +38,29 @@
     "rank1Days" : 5,
     "top3Days" : 17
   }, {
-    "sector" : "매크로·기타",
-    "rank1Days" : 9,
-    "top3Days" : 14
+    "sector" : "전력·전선·신재생",
+    "rank1Days" : 6,
+    "top3Days" : 16
   }, {
     "sector" : "건설·기계",
     "rank1Days" : 3,
     "top3Days" : 14
   }, {
-    "sector" : "전력·전선·신재생",
-    "rank1Days" : 5,
-    "top3Days" : 13
+    "sector" : "금융",
+    "rank1Days" : 3,
+    "top3Days" : 14
   }, {
     "sector" : "정유·화학·원자재",
     "rank1Days" : 3,
     "top3Days" : 13
   }, {
-    "sector" : "금융",
-    "rank1Days" : 3,
-    "top3Days" : 12
-  }, {
     "sector" : "소비재·유통",
     "rank1Days" : 3,
-    "top3Days" : 10
+    "top3Days" : 11
+  }, {
+    "sector" : "매크로·기타",
+    "rank1Days" : 6,
+    "top3Days" : 8
   }, {
     "sector" : "로봇·AI소프트웨어",
     "rank1Days" : 3,
@@ -74,13 +74,13 @@
     "rank1Days" : 2,
     "top3Days" : 6
   }, {
+    "sector" : "바이오·헬스",
+    "rank1Days" : 4,
+    "top3Days" : 5
+  }, {
     "sector" : "우주항공·방산",
     "rank1Days" : 2,
     "top3Days" : 5
-  }, {
-    "sector" : "바이오·헬스",
-    "rank1Days" : 2,
-    "top3Days" : 3
   }, {
     "sector" : "디스플레이·LED",
     "rank1Days" : 2,
@@ -1358,7 +1358,7 @@
       "day" : 20,
       "date" : "2026-08-20",
       "theme" : "모더나(MODERNA)",
-      "sector" : "매크로·기타",
+      "sector" : "바이오·헬스",
       "changeRate" : 14.03,
       "prevDay" : "NEW",
       "regime" : "THEME_LED",
@@ -1396,7 +1396,7 @@
       "day" : 24,
       "date" : "2026-08-24",
       "theme" : "mRNA(메신저 리보핵산)",
-      "sector" : "매크로·기타",
+      "sector" : "바이오·헬스",
       "changeRate" : 7.31,
       "prevDay" : "NEW",
       "regime" : "THEME_LED",
@@ -1415,7 +1415,7 @@
       "day" : 25,
       "date" : "2026-08-25",
       "theme" : "원자력발전소 해체",
-      "sector" : "매크로·기타",
+      "sector" : "전력·전선·신재생",
       "changeRate" : 8.55,
       "prevDay" : "NEW",
       "regime" : "THEME_LED",
@@ -1586,6 +1586,25 @@
         "changeRate" : 5.27
       } ],
       "mainStock" : ""
-    } ] ]
+    } ], [ {
+      "day" : 7,
+      "date" : "2026-09-07",
+      "theme" : "반도체 대표주(생산)",
+      "sector" : "반도체·AI인프라",
+      "changeRate" : 8.21,
+      "prevDay" : "NEW",
+      "regime" : "THEME_LED",
+      "slot" : "15:00",
+      "kospi" : 4.61,
+      "themePremium" : 3.6,
+      "runners" : [ {
+        "theme" : "S7(삼성전자/SK하이닉스 등)",
+        "changeRate" : 5.22
+      }, {
+        "theme" : "원자력발전소 해체",
+        "changeRate" : 5.18
+      } ],
+      "mainStock" : ""
+    }, null, null, null, null ] ]
   } ]
 }
