@@ -1,25 +1,25 @@
 {
-  "lastTradingDay" : "2026-09-07",
-  "totalDays" : 84,
+  "lastTradingDay" : "2026-09-08",
+  "totalDays" : 85,
   "summary" : {
-    "tradingDays" : 84,
+    "tradingDays" : 85,
     "sectorCount" : 16,
-    "upDays" : 76,
-    "avgChangeRate" : 5.53,
+    "upDays" : 77,
+    "avgChangeRate" : 5.55,
     "topSector" : "반도체·AI인프라",
     "topSectorDays" : 21
   },
   "now" : {
-    "date" : "2026-09-07",
-    "bettingGrade" : "GREEN",
-    "regimeTag" : "GREEN",
+    "date" : "2026-09-08",
+    "bettingGrade" : "YELLOW",
+    "regimeTag" : "YELLOW",
     "themeRegime" : "THEME_LED",
-    "marketSignal" : "강세",
-    "kospi" : 4.61,
-    "kosdaq" : 1.07,
-    "leadTheme" : "반도체 대표주(생산)",
-    "leadChangeRate" : 8.21,
-    "themePremium" : 3.6
+    "marketSignal" : "혼조",
+    "kospi" : -0.58,
+    "kosdaq" : -1.25,
+    "leadTheme" : "낙태/피임",
+    "leadChangeRate" : 7.53,
+    "themePremium" : 8.11
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
@@ -34,13 +34,13 @@
     "rank1Days" : 7,
     "top3Days" : 18
   }, {
+    "sector" : "전력·전선·신재생",
+    "rank1Days" : 6,
+    "top3Days" : 17
+  }, {
     "sector" : "전자부품·기판",
     "rank1Days" : 5,
     "top3Days" : 17
-  }, {
-    "sector" : "전력·전선·신재생",
-    "rank1Days" : 6,
-    "top3Days" : 16
   }, {
     "sector" : "건설·기계",
     "rank1Days" : 3,
@@ -70,13 +70,13 @@
     "rank1Days" : 2,
     "top3Days" : 7
   }, {
+    "sector" : "바이오·헬스",
+    "rank1Days" : 5,
+    "top3Days" : 6
+  }, {
     "sector" : "통신·광통신",
     "rank1Days" : 2,
     "top3Days" : 6
-  }, {
-    "sector" : "바이오·헬스",
-    "rank1Days" : 4,
-    "top3Days" : 5
   }, {
     "sector" : "우주항공·방산",
     "rank1Days" : 2,
@@ -1605,6 +1605,25 @@
         "changeRate" : 5.18
       } ],
       "mainStock" : ""
-    }, null, null, null, null ] ]
+    }, {
+      "day" : 8,
+      "date" : "2026-09-08",
+      "theme" : "낙태/피임",
+      "sector" : "바이오·헬스",
+      "changeRate" : 7.53,
+      "prevDay" : "NEW",
+      "regime" : "THEME_LED",
+      "slot" : "15:00",
+      "kospi" : -0.58,
+      "themePremium" : 8.11,
+      "runners" : [ {
+        "theme" : "원자력발전소 해체",
+        "changeRate" : 5.57
+      }, {
+        "theme" : "원자력발전",
+        "changeRate" : 3.94
+      } ],
+      "mainStock" : ""
+    }, null, null, null ] ]
   } ]
 }
