@@ -1,4 +1,130 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-08T10:03:41+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">9/7 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/08/review-20260907-review/" rel="alternate" type="text/html" title="9/7 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-09-08T09:00:00+09:00</published><updated>2026-09-08T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/08/review_20260907-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/08/review-20260907-review/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-08T20:11:15+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">원전·건설 자금이 집중된 오늘, 수급으로 짚어본 기둥 후보 2개 — 대우건설·두산에너빌리티</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/08/nt2-1505-snapshot/" rel="alternate" type="text/html" title="원전·건설 자금이 집중된 오늘, 수급으로 짚어본 기둥 후보 2개 — 대우건설·두산에너빌리티" /><published>2026-09-08T15:05:00+09:00</published><updated>2026-09-08T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/08/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/08/nt2-1505-snapshot/"><![CDATA[<p>원전과 건설이 한국 증시의 중심이 된 오늘이다. 코스피는 약보합이지만 개인의 대량 매도 흐름 속에서도 기관과 외국인 자금이 원전·건설 대장주로 몰려 시장의 주도권을 놓지 않고 있다. 이런 날의 특징은 명확하다 — 주도 섹터가 확정되면 그 속에서 우위를 점한 종목들이 오는 내일 아침의 기둥이 되기 쉽다는 것이다.</p>
+
+<h2 id="개인은-파는데-기관외국인은-왜-사들일까">개인은 파는데, 기관·외국인은 왜 사들일까?</h2>
+
+<p>개인이 전날 대비 대량으로 팔아넘기고 있음에도, 기관과 외국인의 수요가 꾸준했다. 특히 주목할 점은 자금의 방향성이 선명하다는 것이다. 미국의 원전 정책 재평가와 AI 데이터센터 인프라 투자 호재가 겹치면서, 원전과 원전 관련 건설·에너지 섹터로 자금이 집중됐다. 이는 단순한 재료주 정도가 아니라, 시장이 인정하는 ‘내일 방향성’을 이미 반영하고 있다는 뜻이다.</p>
+
+<h2 id="기관외국인이-함께-담은-종목은--대우건설">기관·외국인이 함께 담은 종목은? — 대우건설</h2>
+
+<p>개인의 대량 매도 속에서도 기관이 <strong>66만 주</strong>, 외국인이 <strong>44만 주</strong>를 함께 사들였다. 기관과 외국인이 동시에 순매수하는 이 ‘손바뀜 강도’는 수급 분석에서 가장 신뢰할 만한 신호다. 오늘 종가 <strong>20,150원</strong>에 <strong>+9.45%</strong> 급등한 가운데서도 RSI는 61로 과열 구간이 아니며, 거래대금 강도(RVOL <strong>3.8배</strong>)는 이것이 단순한 반짝 펌프가 아님을 말해준다. 원전 대장주로서 미국의 원전 8기 건설 검토 정책을 등에 업고, 기둥 자리를 확보했다. 오늘 수급 구간에서 손바뀜 강도가 가장 뚜렷하게 나타났다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>항목</th>
+      <th>수치</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>기본</td>
+      <td>종가 / 등락률</td>
+      <td>20,150원 / +9.45%</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>거래대금 / 시총</td>
+      <td>5,228억원 / 8.3조원</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>주도 테마 / 테마내순위</td>
+      <td>원자력발전 / 1위</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>RSI / RVOL / 이평수렴</td>
+      <td>61.3 / 3.8배 / +1.14%</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>외인 순매수 / 기관 순매수</td>
+      <td>+44만 주 / +66만 주</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>호가신호</td>
+      <td>매수벽 강함</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>YoY 매출증가율 / 최근분기</td>
+      <td>+41.7% / 2026Q1: 매출 2.0조원, 영업이익 1,671억원</td>
+    </tr>
+    <tr>
+      <td>점수</td>
+      <td>AI 종합점수</td>
+      <td>53점</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="기관의-꾸준함이-뒷받침하는-종목은--두산에너빌리티">기관의 꾸준함이 뒷받침하는 종목은? — 두산에너빌리티</h2>
+
+<p>미국의 원전 정책 드라이브 속에서, 두산은 에너지 대형주의 자리를 지키고 있다. 기관이 <strong>60만 주</strong>를 나흘째 사들이는 연속 순매수로 탄력이 있으며, 개인의 대량 매도에도 불구하고 지지선을 딛고 반등 중이다(오늘 종가 <strong>89,800원</strong>, <strong>+2.16%</strong>). 시총 <strong>57.5조 원</strong>의 대형주답게 변동성은 낮지만(RVOL <strong>2.2배</strong>), RSI 61과 호가신호의 매수벽 강함을 보면 수급의 묵직함이 충분하다. 기관의 꾸준한 매수세와 기술적 지지가 함께 나타나고 있다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>항목</th>
+      <th>수치</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>기본</td>
+      <td>종가 / 등락률</td>
+      <td>89,800원 / +2.16%</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>거래대금 / 시총</td>
+      <td>1.2조원 / 57.5조원</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>주도 테마 / 테마내순위</td>
+      <td>원자력발전소 해체 / 1위</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>RSI / RVOL / 이평수렴</td>
+      <td>61.2 / 2.2배 / +2.86%</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>외인 순매수 / 기관 순매수</td>
+      <td>-6만 주 / +60만 주</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>호가신호</td>
+      <td>매수벽 강함</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>YoY 매출증가율 / 최근분기</td>
+      <td>+12.1% / 2026Q1: 매출 4.4조원, 영업이익 2,482억원</td>
+    </tr>
+    <tr>
+      <td>점수</td>
+      <td>AI 종합점수</td>
+      <td>44점</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="왜-이-두-종목이-내일의-기둥인가">왜 이 두 종목이 내일의 기둥인가</h2>
+
+<p>오늘 선별의 공통분모는 명확하다. 두 종목 모두 원전 테마의 최상단에 위치하면서, 동시에 기관의 연속 순매수와 강한 호가 수급을 갖추고 있다. 이는 ‘주제’가 정해지면 그 주제 내 위계에서 ‘누가 주도적으로 사고 있는가’가 내일을 가르는 신호임을 보여준다. 대우건설은 급등 모멘텀에 수급이 더해진 기둥이고, 두산에너빌리티는 기관의 꾸준함이 뒷받침하는 파운데이션이다.</p>
+
+<h2 id="마무리">마무리</h2>
+
+<p>원전과 건설 테마가 오늘 시황의 중심축이었다. 두 종목 모두 각 테마의 1순위 자리에서 기관과 외국인의 적극적 수급을 확보했으며, 기술적 지지도 충분하다. 오늘의 이 국면이 내일 아침 어떻게 펼쳐질지, 댓글로 의견을 나눠주세요. 종가베팅의 일일 선별 결과, 더 깊이 있는 분석이 필요하다면 이웃 추가로 매일 함께하세요.</p>
+
+<p>#원전주 #대우건설 #두산에너빌리티 #수급분석 #종가베팅 #NextTheme #기관매수 #기둥선별</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[원전과 건설이 한국 증시의 중심이 된 오늘이다. 코스피는 약보합이지만 개인의 대량 매도 흐름 속에서도 기관과 외국인 자금이 원전·건설 대장주로 몰려 시장의 주도권을 놓지 않고 있다. 이런 날의 특징은 명확하다 — 주도 섹터가 확정되면 그 속에서 우위를 점한 종목들이 오는 내일 아침의 기둥이 되기 쉽다는 것이다.]]></summary></entry><entry><title type="html">9/7 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/08/review-20260907-review/" rel="alternate" type="text/html" title="9/7 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-09-08T09:00:00+09:00</published><updated>2026-09-08T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/08/review_20260907-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/08/review-20260907-review/"><![CDATA[<blockquote>
   <p>데이터 기준: 2026-09-08 10:03 키움 ka10001 일괄 조회</p>
 </blockquote>
 
@@ -2257,207 +2383,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <hr />
 
-<p>#종가베팅 #NextTheme #SK하이닉스 #삼성전자 #로봇테마 #정유 #전자결제 #강세장 #로보티즈 #헥토파이낸셜</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[어제 판단은 어떻게 풀렸나]]></summary></entry><entry><title type="html">로보티즈가 오늘 로봇 테마 거래대금 1위에 오른 이유 — 정유·전자결제도 함께 강세</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/04/nt2-1505-snapshot/" rel="alternate" type="text/html" title="로보티즈가 오늘 로봇 테마 거래대금 1위에 오른 이유 — 정유·전자결제도 함께 강세" /><published>2026-09-04T15:05:00+09:00</published><updated>2026-09-04T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/04/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/04/nt2-1505-snapshot/"><![CDATA[<p>오늘 코스피와 코스닥이 나란히 2% 안팎 뛰었습니다. 외국인과 큰 투자기관(기관)이 동시에 순매수에 나서며 시장 전체가 활기를 띤 하루였는데요, 이 강세장 속에서도 유독 자금이 몰린 곳은 <strong>로봇·정유·전자결제</strong> 세 테마였습니다. 다음 주 월요일 개장을 겨냥해 종가베팅 시스템이 마지막까지 후보로 남긴 종목 3개를 살펴보겠습니다. 📈</p>
-
-<h2 id="오늘-시장은-어떤-하루였나">오늘 시장은 어떤 하루였나</h2>
-
-<p>코스피·코스닥이 함께 2% 안팎 급등하고 외국인·기관이 동반 순매수하는 강세장이었습니다. 이런 날은 시장 전체의 훈풍이 개별 종목 수급으로도 그대로 이어지는 경우가 많은데, 오늘은 그 훈풍이 로봇, 정유, 전자결제 세 갈래로 뚜렷하게 갈라져 흘렀습니다.</p>
-
-<h2 id="왜-이-세-종목이-마지막까지-남았을까">왜 이 세 종목이 마지막까지 남았을까</h2>
-
-<p>종가베팅은 그날 오른 종목을 그대로 담는 게 아니라, <strong>거래대금이 몰리고 수급이 뒷받침되는 종목</strong>만 여러 단계를 거쳐 골라냅니다. 오늘 최종까지 남은 종목은 아래 세 곳입니다.</p>
-
-<h3 id="1-s-oil--정유주-강세-속-기관-6일-연속-순매수">1. S-Oil — 정유주 강세 속 기관 6일 연속 순매수</h3>
-
-<p>국제유가 급등과 호르무즈 해협 공급 차질 우려로 정유주 전반이 강세를 보인 가운데, S-Oil은 매수 대기 물량(매수 호가)이 매도 물량보다 <strong>4배 두껍게</strong> 쌓였습니다. 큰 투자기관(기관)은 6거래일 연속 순매수를 이어갔고, 52주 최고가 돌파를 눈앞에 둔 자리라는 점도 눈에 띕니다. 당시 확인 가능했던 데이터로는 정유 테마 내에서 거래대금·수급이 모두 뚜렷했던 종목입니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>구분</th>
-      <th>항목</th>
-      <th>내용</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>기본</td>
-      <td>당일 종가 / 등락률</td>
-      <td>156,600원 / <strong>+5.9%</strong></td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>거래대금 / 시총</td>
-      <td>1,959억원 / 17.6조원</td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>주도 테마 / 테마내순위</td>
-      <td>정유 / 2위</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>RSI / RVOL / 이평수렴</td>
-      <td>63.2 / <strong>2.5배</strong> / +0.16%</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>52주 신고가 / OBV</td>
-      <td>아님 / 중립</td>
-    </tr>
-    <tr>
-      <td>수급</td>
-      <td>외인 순매수 / 기관 순매수</td>
-      <td>+7만 주 / +6만 주</td>
-    </tr>
-    <tr>
-      <td>재무</td>
-      <td>매출 YoY</td>
-      <td>+34.8%</td>
-    </tr>
-    <tr>
-      <td>재무</td>
-      <td>최근 분기 실적</td>
-      <td>매출 11.3조원 / 영업이익 1.1조원</td>
-    </tr>
-    <tr>
-      <td>점수</td>
-      <td>AI 종합 점수</td>
-      <td>47점</td>
-    </tr>
-  </tbody>
-</table>
-
-<h3 id="2-로보티즈--로봇-테마-거래대금-1위-거래량은-평소의-6배">2. 로보티즈 — 로봇 테마 거래대금 1위, 거래량은 평소의 6배</h3>
-
-<p>로봇 테마 안에서 거래대금 <strong>8,838억원으로 압도적 1위</strong> 대장주 자리를 지켰습니다. 오늘 거래대금이 평소 대비 약 6배(RVOL 5.9배) 수준으로 급증했고, 골드만삭스가 목표주가로 63만원을 제시했다는 소식도 시장의 관심을 끌었습니다. 오늘 하루로 보면 세 종목 중 상승률이 가장 두드러진 종목이었습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>구분</th>
-      <th>항목</th>
-      <th>내용</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>기본</td>
-      <td>당일 종가 / 등락률</td>
-      <td>305,000원 / <strong>+22.7%</strong></td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>거래대금 / 시총</td>
-      <td>8,838억원 / 4.5조원</td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>주도 테마 / 테마내순위</td>
-      <td>로봇(산업용/협동로봇 등) / 1위</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>RSI / RVOL / 이평수렴</td>
-      <td>66.3 / <strong>5.9배</strong> / +0.07%</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>52주 신고가 / OBV</td>
-      <td>아님 / 중립</td>
-    </tr>
-    <tr>
-      <td>수급</td>
-      <td>외인 순매수 / 기관 순매수</td>
-      <td>+8만 주 / +5만 주</td>
-    </tr>
-    <tr>
-      <td>재무</td>
-      <td>매출 YoY</td>
-      <td>+82.6%</td>
-    </tr>
-    <tr>
-      <td>재무</td>
-      <td>최근 분기 실적</td>
-      <td>매출 168억원 / 영업이익 25억원</td>
-    </tr>
-    <tr>
-      <td>점수</td>
-      <td>AI 종합 점수</td>
-      <td>42점</td>
-    </tr>
-  </tbody>
-</table>
-
-<h3 id="3-헥토파이낸셜--전자결제-테마-거래대금상승률-동시-1위">3. 헥토파이낸셜 — 전자결제 테마 거래대금·상승률 동시 1위</h3>
-
-<p>토큰증권·스테이블코인 관련 정책 이슈가 부각되며 전자결제 테마에서 거래대금과 상승률 모두 1위를 차지했습니다. 차트상 상승삼각형 저항선을 거래량을 동반해 돌파했다는 점도 기술적으로 의미 있는 대목입니다. 저항선 돌파 이후 흐름이 어떻게 이어질지는 다음 주 월요일 개장을 지켜봐야 확인할 수 있는 부분입니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>구분</th>
-      <th>항목</th>
-      <th>내용</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>기본</td>
-      <td>당일 종가 / 등락률</td>
-      <td>25,000원 / <strong>+12.4%</strong></td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>거래대금 / 시총</td>
-      <td>700억원 / 3,528억원</td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>주도 테마 / 테마내순위</td>
-      <td>전자결제(전자화폐) / 1위</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>RSI / RVOL / 이평수렴</td>
-      <td>63.6 / <strong>3.6배</strong> / +0.18%</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>52주 신고가 / OBV</td>
-      <td>아님 / 중립</td>
-    </tr>
-    <tr>
-      <td>수급</td>
-      <td>외인 순매수 / 기관 순매수</td>
-      <td>+5만 주 / +1만 주</td>
-    </tr>
-    <tr>
-      <td>재무</td>
-      <td>매출 YoY</td>
-      <td>+19.2%</td>
-    </tr>
-    <tr>
-      <td>재무</td>
-      <td>최근 분기 실적</td>
-      <td>매출 546억원 / 영업이익 58억원</td>
-    </tr>
-    <tr>
-      <td>점수</td>
-      <td>AI 종합 점수</td>
-      <td>36점</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="nexttheme-알고리즘이-본-오늘의-그림">NextTheme 알고리즘이 본 오늘의 그림</h2>
-
-<p>오늘처럼 시장 전체가 강세일 때는 급등한 종목 후보가 매우 많습니다. 그런데도 시스템이 이 세 종목만 최종까지 남긴 건, <strong>테마 내 거래대금 순위가 1~2위권</strong>이면서 <strong>외국인·기관 수급이 동시에 순매수 방향</strong>을 가리켰기 때문입니다. RSI는 세 종목 모두 60대 초중반으로 과열 직전 구간에 머물렀고, RVOL(평소 대비 거래량 배수)이 모두 2배를 넘어 오늘 하루 자금이 실제로 몰렸다는 점이 데이터로 확인됐습니다.</p>
-
-<p>개인적으로 오늘 이 흐름에서 눈에 띈 부분은, 세 종목이 서로 다른 테마(정유·로봇·전자결제)에서 나왔다는 점입니다. 하나의 업종에 자금이 쏠린 게 아니라 유가 이슈, 로봇 산업 모멘텀, 결제 정책 이슈라는 서로 다른 촉매가 같은 날 동시에 작동했다는 뜻이라, 오늘 강세장이 특정 재료 하나에만 기댄 게 아니었다는 점을 데이터로 확인할 수 있었습니다.</p>
-
-<h2 id="마무리하며">마무리하며</h2>
-
-<p>오늘은 정유·로봇·전자결제 세 테마에서 거래대금과 수급이 뚜렷했던 종목 3개가 종가베팅 최종 후보로 남았습니다. 다음 주 월요일 개장에서 이 흐름이 어떻게 이어지는지가 관전 포인트입니다. 궁금한 종목이 있으면 댓글로 남겨주세요.</p>
-
-<p>#NextTheme #종가베팅 #로보티즈 #SOil #헥토파이낸셜 #로봇테마 #정유주 #전자결제테마</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[오늘 코스피와 코스닥이 나란히 2% 안팎 뛰었습니다. 외국인과 큰 투자기관(기관)이 동시에 순매수에 나서며 시장 전체가 활기를 띤 하루였는데요, 이 강세장 속에서도 유독 자금이 몰린 곳은 로봇·정유·전자결제 세 테마였습니다. 다음 주 월요일 개장을 겨냥해 종가베팅 시스템이 마지막까지 후보로 남긴 종목 3개를 살펴보겠습니다. 📈]]></summary></entry></feed>
+<p>#종가베팅 #NextTheme #SK하이닉스 #삼성전자 #로봇테마 #정유 #전자결제 #강세장 #로보티즈 #헥토파이낸셜</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[어제 판단은 어떻게 풀렸나]]></summary></entry></feed>
