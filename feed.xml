@@ -1,4 +1,208 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-09T10:03:43+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">9/8 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/09/review-20260908-review/" rel="alternate" type="text/html" title="9/8 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-09-09T09:00:00+09:00</published><updated>2026-09-09T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/09/review_20260908-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/09/review-20260908-review/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-09T20:09:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">광통신·전선·연료전지 테마에 자금 몰린 하루 — 종가베팅 선별 종목 점검</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/09/nt2-1505-snapshot/" rel="alternate" type="text/html" title="광통신·전선·연료전지 테마에 자금 몰린 하루 — 종가베팅 선별 종목 점검" /><published>2026-09-09T15:05:00+09:00</published><updated>2026-09-09T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/09/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/09/nt2-1505-snapshot/"><![CDATA[<p>오늘 코스피가 7000선을 다시 넘어서며 강한 흐름을 보였습니다 📈 이런 날은 시장 전체가 좋아 보여도 실제로 돈이 어디로 몰렸는지 확인하는 게 훨씬 중요합니다. 오늘은 광통신, 고체산화물 연료전지, 전선이라는 세 가지 테마에 자금이 동시에 집중된 흐름이 뚜렷했습니다.</p>
+
+<h2 id="오늘-장-자금은-어디로-몰렸나">오늘 장, 자금은 어디로 몰렸나</h2>
+
+<p>코스피 7000선 재돌파라는 강세 속에서도 광통신·연료전지·전선·2차전지 성장 테마로 돈이 동시에 몰렸습니다. 다만 유가가 급등한 만큼 밤새 해외 변수(오버나잇 리스크)가 남아 있다는 점도 함께 짚어둘 만합니다.</p>
+
+<h2 id="왜-이-세-종목이-후보로-남았나">왜 이 세 종목이 후보로 남았나</h2>
+
+<p>AI 시스템이 오늘 하루 데이터를 놓고 끝까지 후보로 남긴 종목은 세 개입니다. 세 종목 모두 ‘갭 매매’ 전략, 즉 오늘 종가 근처에서 사서 다음 거래일 시초가가 오늘 종가보다 위에서 출발하는 흐름을 기대하는 방식으로 분류됐습니다.</p>
+
+<h3 id="대한광통신--광통신-테마-거래대금-1위">대한광통신 — 광통신 테마 거래대금 1위</h3>
+
+<p>오늘 광통신 테마에서 가장 많은 돈이 몰린 종목입니다. AI데이터센터용 광케이블 수요라는 구체적인 재료가 있었고, 큰 투자기관 중 외국인이 오늘 큰 규모로 순매수했습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>항목</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>기본</td>
+      <td>종가 / 등락률</td>
+      <td><strong>14,960원</strong> / <strong>+9.2%</strong></td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>거래대금 / 시가총액</td>
+      <td>4,407억원 / 2.3조원</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>주도 테마 / 테마내 순위</td>
+      <td>광통신 / <strong>1위</strong></td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>RSI / 평소 대비 거래량 / 이동평균 수렴</td>
+      <td>61.8 / <strong>3.6배</strong> / +0.08%</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>52주 신고가 / 매물대 흐름</td>
+      <td>아님 / 중립</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>외국인 순매수 / 기관 순매수</td>
+      <td><strong>+59만 주</strong> / +2만 주</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>호가 신호</td>
+      <td>매수벽 강함</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>최근 분기 실적</td>
+      <td>2026년 9월: 매출 668억원 / 영업이익 59억원 (전년 대비 매출 <strong>+54.3%</strong>)</td>
+    </tr>
+    <tr>
+      <td>점수</td>
+      <td>AI 종합 점수</td>
+      <td><strong>47점</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>외국인이 59만 주라는 큰 물량을 순매수했다는 건, 평소보다 훨씬 많은 자금이 이 종목에 들어왔다는 뜻입니다. AI는 이 점과 매수 대기 물량(호가)이 두꺼운 것을 근거로 이 종목을 광통신 테마 대장주로 선별했습니다.</p>
+
+<h3 id="두산퓨얼셀--연료전지-대형-계약이-터진-날">두산퓨얼셀 — 연료전지 대형 계약이 터진 날</h3>
+
+<p>미국 데이터센터에 5천억원대 연료전지를 공급하는 계약을 실제로 따낸 종목입니다. 다만 오늘 매매 방향은 조금 엇갈렸습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>항목</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>기본</td>
+      <td>종가 / 등락률</td>
+      <td><strong>53,500원</strong> / <strong>+8.6%</strong></td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>거래대금 / 시가총액</td>
+      <td>4,174억원 / 3.5조원</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>주도 테마 / 테마내 순위</td>
+      <td>고체산화물 연료전지 / <strong>1위</strong></td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>RSI / 평소 대비 거래량 / 이동평균 수렴</td>
+      <td>64.9 / <strong>3.1배</strong> / +0.12%</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>52주 신고가 / 매물대 흐름</td>
+      <td>아님 / 중립</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>외국인 순매수 / 기관 순매수</td>
+      <td>-11만 주 / <strong>+15만 주</strong></td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>호가 신호</td>
+      <td>매수벽 강함</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>최근 분기 실적</td>
+      <td>2026년 9월: 매출 1,042억원 / 영업이익 -191억원 (전년 대비 매출 <strong>+14.8%</strong>)</td>
+    </tr>
+    <tr>
+      <td>점수</td>
+      <td>AI 종합 점수</td>
+      <td><strong>47점</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>외국인은 오늘 오히려 11만 주를 순매도했지만, 큰 투자기관인 기관이 15만 주를 꾸준히 사들이며 매수 잔량이 매도 잔량을 넘어섰습니다. 영업이익은 아직 적자 구간이지만, 실제 계약 재료와 기관 수급을 근거로 AI가 선별한 종목입니다.</p>
+
+<h3 id="가온전선--전선-테마-거래대금상승률-동시-1위">가온전선 — 전선 테마 거래대금·상승률 동시 1위</h3>
+
+<p>캐나다 전력망에 처음 진출한다는 실제 수주 재료가 나온 날, 전선 테마 안에서 거래대금과 상승률 모두 1위를 기록했습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>항목</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>기본</td>
+      <td>종가 / 등락률</td>
+      <td><strong>264,500원</strong> / <strong>+16.3%</strong></td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>거래대금 / 시가총액</td>
+      <td>4,134억원 / 7.9조원</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>주도 테마 / 테마내 순위</td>
+      <td>전선 / <strong>1위</strong></td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>RSI / 평소 대비 거래량 / 이동평균 수렴</td>
+      <td>71.1 / <strong>2.9배</strong> / +0.21%</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>52주 신고가 / 매물대 흐름</td>
+      <td>아님 / 중립</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>외국인 순매수 / 기관 순매수</td>
+      <td>+4만 주 / +1만 주</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>호가 신호</td>
+      <td>매수벽 강함</td>
+    </tr>
+    <tr>
+      <td>점수</td>
+      <td>AI 종합 점수</td>
+      <td><strong>42점</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>외국인·기관 순매수 물량 자체는 다른 두 종목보다 적지만, 매수 호가에 돈이 두껍게 쌓여 있었고 구리값 강세라는 배경도 함께 맞물린 하루였습니다.</p>
+
+<h2 id="ai는-무엇을-봤나">AI는 무엇을 봤나</h2>
+
+<p>세 종목을 나란히 놓고 보면 공통점이 보입니다. 모두 ‘막연한 기대감’이 아니라 실제 계약·수주·수요라는 구체적인 재료를 갖고 있었고, 오늘 하루 거래대금이 각 테마에서 1위를 차지했으며, 외국인이나 기관 같은 큰 투자기관의 매수 흔적이 함께 확인됐다는 점입니다. AI가 매일 수백 개 종목 중 딱 이 세 개만 끝까지 남긴 이유도 이 조합이 겹쳤기 때문입니다.</p>
+
+<p>개인적으로 오늘 흐름에서 눈에 들어온 부분은, RSI가 세 종목 모두 60~71 구간으로 이미 꽤 오른 상태인데도 순매수와 거래대금이 함께 붙어 있었다는 점입니다. 흔히 “많이 올랐으니 조심해야 한다”고 생각하기 쉽지만, 실제 데이터를 뜯어보면 자금이 계속 들어오고 있는지가 오른 정도보다 더 중요한 신호로 보였습니다.</p>
+
+<h2 id="마무리">마무리</h2>
+
+<p>오늘은 광통신·연료전지·전선이라는 세 테마에 실제 재료와 수급이 함께 붙었던 하루였습니다. 다만 유가 급등으로 인한 밤사이 변수는 남아 있어, 지수 전체 분위기와 개별 종목 흐름을 함께 지켜볼 필요가 있습니다. 궁금한 종목이 있다면 댓글로 남겨주세요 💬</p>
+
+<p>#NextTheme #종가베팅 #대한광통신 #두산퓨얼셀 #가온전선 #광통신테마 #연료전지 #전선테마</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[오늘 코스피가 7000선을 다시 넘어서며 강한 흐름을 보였습니다 📈 이런 날은 시장 전체가 좋아 보여도 실제로 돈이 어디로 몰렸는지 확인하는 게 훨씬 중요합니다. 오늘은 광통신, 고체산화물 연료전지, 전선이라는 세 가지 테마에 자금이 동시에 집중된 흐름이 뚜렷했습니다.]]></summary></entry><entry><title type="html">9/8 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/09/review-20260908-review/" rel="alternate" type="text/html" title="9/8 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-09-09T09:00:00+09:00</published><updated>2026-09-09T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/09/review_20260908-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/09/review-20260908-review/"><![CDATA[<blockquote>
   <p>데이터 기준: 2026-09-09 10:03 키움 ka10001 일괄 조회</p>
 </blockquote>
 
@@ -2435,122 +2639,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가베팅 #복기일지 #20260904 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-09-07 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">내일 한국 GDP 앞두고, 미국 약세 속 반도체 신호는</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/07/0600-briefing/" rel="alternate" type="text/html" title="내일 한국 GDP 앞두고, 미국 약세 속 반도체 신호는" /><published>2026-09-07T06:00:00+09:00</published><updated>2026-09-07T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/07/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/07/0600-briefing/"><![CDATA[<p>🌤️ 새로운 한 주가 시작되는 아침, 미국의 약세 마감 소식이 먼저 들려옵니다. 내일 새벽 GDP 발표까지 앞두고 있어 조심스러운 하루가 될 것 같네요.</p>
-
-<h2 id="-지난-금요일0904-선별-과정과-결과">📋 지난 금요일(09/04) 선별 과정과 결과</h2>
-
-<p>AI의 관점에서 지난 금요일을 어떻게 봤는지 먼저 정리해봅시다. <strong>신중한 판단</strong>(CAUTIOUS)이 기조였습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>슬롯</th>
-      <th>금요일 전략</th>
-      <th>저녁 갭</th>
-      <th>오늘 상태</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>삼성중공업</td>
-      <td>AI 선별 밖</td>
-      <td>수동 매수</td>
-      <td>—</td>
-      <td>✅ 당일 왕복 완료 (+1.90%)</td>
-    </tr>
-    <tr>
-      <td>S-Oil</td>
-      <td>15:10 최종</td>
-      <td>갭 대응 전략</td>
-      <td><strong>+0.45~+1.09%</strong></td>
-      <td>유가 91달러 지지, 신규 진입 관망</td>
-    </tr>
-    <tr>
-      <td>로보티즈</td>
-      <td>15:10 최종</td>
-      <td>갭 대응 전략</td>
-      <td>−1.15~+0.49%</td>
-      <td>방향성 불확실, 관망</td>
-    </tr>
-    <tr>
-      <td>헥토파이낸셜</td>
-      <td>15:10 최종</td>
-      <td>갭 대응 전략</td>
-      <td>—</td>
-      <td>토큰증권 모멘텀 있으나 관망</td>
-    </tr>
-    <tr>
-      <td>삼성전자</td>
-      <td>19:10 선별</td>
-      <td>갭 대응 전략</td>
-      <td>−0.59~+0.39%</td>
-      <td>반도체 강세 전이 여부 관찰 중</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>삼성중공업은 AI 선별 밖 수동 매수였는데, 당일 <strong>+1.90%</strong> 실현으로 마감했습니다. 나머지 금요일 선별 종목들(S-Oil, 로보티즈, 헥토파이낸셜, 삼성전자)은 저녁 호가에서 방향성이 엇갈렸고, 오늘은 관망 국면과 내일 GDP 이벤트 때문에 새로운 진입은 보류하기로 했습니다.</p>
-
-<h2 id="지난-금요일-밤-미국-시장은-약했습니다">지난 금요일 밤 미국 시장은 약했습니다</h2>
-
-<p>지난 금요일 밤 미국장을 한눈에 보면:</p>
-
-<ul>
-  <li><strong>다우존스</strong>: −0.51% (매도)</li>
-  <li><strong>S&amp;P 500</strong>: −0.38% (매도)</li>
-  <li><strong>나스닥</strong>: −0.29% (혼조)</li>
-  <li><strong>필라델피아 반도체</strong>: <strong>+3.38%</strong> (강한 매수)</li>
-</ul>
-
-<p>3대 지수가 모두 음수권인데, 필라델피아 반도체는 <strong>+3.38%</strong>로 급등했습니다. 섹터 간 괴리가 선명합니다. 다우운송(+0.72%)와 나스닥100(+0.21%)은 상승했고, VIX(+1.47%)도 올랐네요.</p>
-
-<p>특히 다우존스와 S&amp;P 500 마감 때 <strong>매도세가 두드러졌습니다</strong>. 다우와 S&amp;P는 장 막판 상승 기대가 있었지만 마침내 떨어지며 마감한 형태입니다. 이는 밸류에이션 우려와 금리 인상 신호에 시장이 반응한 것으로 보입니다.</p>
-
-<h2 id="오늘의-베팅-등급-관망-국면">오늘의 베팅 등급: 관망 국면</h2>
-
-<p><strong>감정 점수: 30점</strong> — 약세 우위입니다.</p>
-
-<p>미국의 3대 지수 약세(-0.5% 이하 마감)와 내일 새벽 <strong>한국 GDP 발표(전망 3.7%)</strong>라는 HIGH 이벤트가 겹쳤습니다.</p>
-
-<p>AI의 판단:</p>
-<blockquote>
-  <p>미국 약세 여파와 내일 GDP 이벤트로 신규 진입보다는 관망이 유리합니다. 전일(금요일) 외국인 1.35조원 순매수와 코스피 +1.64% 강세 마감은 긍정적이지만, 변동성 리스크가 우위에 있습니다.</p>
-</blockquote>
-
-<p><strong>내일 모닝콜은 GDP 결과에 달려 있습니다:</strong></p>
-<ul>
-  <li><strong>GDP 3.7% 이상</strong> → 코스피 밸류에이션 개선 기대 → 반등 모멘텀 가능</li>
-  <li><strong>GDP 3.7% 미만</strong> → 성장 둔화 우려 → 조정 압력 강화</li>
-</ul>
-
-<h2 id="내일을-흔들-변수들">내일을 흔들 변수들</h2>
-
-<h3 id="-gdp-새벽-발표-고위험">🔴 GDP 새벽 발표 (고위험)</h3>
-<p>내일 새벽 한국 GDP(YoY 기준 3.7% 전망)가 발표됩니다. 이것이 시장의 절대 변수입니다.</p>
-
-<h3 id="-호르무즈-해협-긴장과-유가">🟠 호르무즈 해협 긴장과 유가</h3>
-<p>WTI가 91.48달러를 유지하고 있습니다. 미국이 이란 유조선 3척을 타격했고, 이란은 페르시아만에 새로운 제한 구역을 지정하겠다고 예고했거든요. 유가가 90달러를 넘는 한, <strong>정유 섹터 모멘텀은 지속 가능</strong>합니다. 하지만 중동 긴장이 완화되면 급락할 수 있습니다.</p>
-
-<h3 id="-반도체-수출-최고-기록">🟡 반도체 수출 최고 기록</h3>
-<p>8월 반도체 수출이 <strong>467억 달러</strong>로 역대 최대를 경신했습니다. AI 인프라 수요가 견조하다는 신호죠. 필라델피아 반도체의 +3.38% 급등이 국내 반도체(삼성전자, SK하이닉스)로 얼마나 전이될지가 관건입니다.</p>
-
-<h3 id="-미국-금리-상승세">🟡 미국 금리 상승세</h3>
-<p>미국 10년물 국채 금리가 4.78%까지 올랐습니다. 이는 <strong>밸류에이션 압박</strong>을 의미합니다. 특히 고성장 기대 종목들이 더 민감하게 반응할 수 있습니다.</p>
-
-<h3 id="-국내-정책-모멘텀-긍정">🟢 국내 정책 모멘텀 (긍정)</h3>
-<p>로봇 산업 육성(정부 200대 직접 구매)과 토큰증권 대상 확대(주식·채권·펀드) 발표가 해당 섹터 모멘텀을 지지했습니다. 로보티즈 같은 로봇 종목, 헥토파이낸셜 같은 핀테크 종목이 주목받고 있습니다.</p>
-
-<h2 id="내일을-준비하며">내일을 준비하며</h2>
-
-<p>시초가에서 <strong>외국인 수급 방향</strong>을 먼저 확인하세요. GDP 결과에 따라 시장 방향이 갈릴 테니까요.</p>
-
-<p>반도체 강세가 국내까지 확산되는지도 주의깊게 봐야 합니다. 필라델피아 반도체 +3.38%는 분명 신호이니까요.</p>
-
-<p>유가 흐름도 계속 체크하세요. 91달러를 지키는가, 떨어지는가에 따라 정유 섹터의 모멘텀이 결정됩니다.</p>
-
-<p><strong>내일이 결정적입니다.</strong> GDP 발표 결과가 나오면 더 명확한 판단을 할 수 있겠지요. 그때까지는 신중한 관망이 최선입니다.</p>
-
-<p>댓글로 내일 시장 전망을 나눠보세요. 🙌</p>
-
-<p>#NextTheme #반도체 #GDP #정유 #로봇산업 #종가베팅 #미국약세 #호르무즈해협 #유가 #토큰증권</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[🌤️ 새로운 한 주가 시작되는 아침, 미국의 약세 마감 소식이 먼저 들려옵니다. 내일 새벽 GDP 발표까지 앞두고 있어 조심스러운 하루가 될 것 같네요.]]></summary></entry></feed>
+<p>#종가베팅 #복기일지 #20260904 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-09-07 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
