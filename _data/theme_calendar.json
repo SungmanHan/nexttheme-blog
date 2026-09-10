@@ -1,25 +1,25 @@
 {
-  "lastTradingDay" : "2026-09-09",
-  "totalDays" : 86,
+  "lastTradingDay" : "2026-09-10",
+  "totalDays" : 87,
   "summary" : {
-    "tradingDays" : 86,
+    "tradingDays" : 87,
     "sectorCount" : 16,
-    "upDays" : 78,
-    "avgChangeRate" : 5.59,
+    "upDays" : 79,
+    "avgChangeRate" : 5.69,
     "topSector" : "반도체·AI인프라",
     "topSectorDays" : 21
   },
   "now" : {
-    "date" : "2026-09-09",
-    "bettingGrade" : "YELLOW",
-    "regimeTag" : "YELLOW",
+    "date" : "2026-09-10",
+    "bettingGrade" : "RED",
+    "regimeTag" : "RED_EXHAUST",
     "themeRegime" : "THEME_LED",
-    "marketSignal" : "강세",
-    "kospi" : 1.4,
-    "kosdaq" : 2.28,
-    "leadTheme" : "광통신(광케이블/광섬유 등)",
-    "leadChangeRate" : 8.58,
-    "themePremium" : 7.18
+    "marketSignal" : "혼조",
+    "kospi" : -0.25,
+    "kosdaq" : 0.79,
+    "leadTheme" : "콩/대두",
+    "leadChangeRate" : 14.89,
+    "themePremium" : 15.14
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
@@ -42,6 +42,10 @@
     "rank1Days" : 5,
     "top3Days" : 17
   }, {
+    "sector" : "정유·화학·원자재",
+    "rank1Days" : 4,
+    "top3Days" : 14
+  }, {
     "sector" : "건설·기계",
     "rank1Days" : 3,
     "top3Days" : 14
@@ -49,10 +53,6 @@
     "sector" : "금융",
     "rank1Days" : 3,
     "top3Days" : 14
-  }, {
-    "sector" : "정유·화학·원자재",
-    "rank1Days" : 3,
-    "top3Days" : 13
   }, {
     "sector" : "소비재·유통",
     "rank1Days" : 3,
@@ -84,7 +84,7 @@
   }, {
     "sector" : "디스플레이·LED",
     "rank1Days" : 2,
-    "top3Days" : 2
+    "top3Days" : 3
   } ],
   "months" : [ {
     "ym" : "2026-05",
@@ -1643,6 +1643,25 @@
         "changeRate" : 7.61
       } ],
       "mainStock" : ""
-    }, null, null ] ]
+    }, {
+      "day" : 10,
+      "date" : "2026-09-10",
+      "theme" : "콩/대두",
+      "sector" : "정유·화학·원자재",
+      "changeRate" : 14.89,
+      "prevDay" : "NEW",
+      "regime" : "THEME_LED",
+      "slot" : "15:00",
+      "kospi" : -0.25,
+      "themePremium" : 15.14,
+      "runners" : [ {
+        "theme" : "LED장비",
+        "changeRate" : 3.76
+      }, {
+        "theme" : "LPG(액화석유가스)",
+        "changeRate" : 2.91
+      } ],
+      "mainStock" : ""
+    }, null ] ]
   } ]
 }
