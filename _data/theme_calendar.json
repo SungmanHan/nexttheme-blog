@@ -1,25 +1,25 @@
 {
-  "lastTradingDay" : "2026-09-10",
-  "totalDays" : 87,
+  "lastTradingDay" : "2026-09-11",
+  "totalDays" : 88,
   "summary" : {
-    "tradingDays" : 87,
+    "tradingDays" : 88,
     "sectorCount" : 16,
-    "upDays" : 79,
-    "avgChangeRate" : 5.69,
+    "upDays" : 80,
+    "avgChangeRate" : 5.72,
     "topSector" : "반도체·AI인프라",
     "topSectorDays" : 21
   },
   "now" : {
-    "date" : "2026-09-10",
+    "date" : "2026-09-11",
     "bettingGrade" : "RED",
-    "regimeTag" : "RED_EXHAUST",
+    "regimeTag" : "RED_ALL_DOWN",
     "themeRegime" : "THEME_LED",
-    "marketSignal" : "혼조",
-    "kospi" : -0.25,
-    "kosdaq" : 0.79,
-    "leadTheme" : "콩/대두",
-    "leadChangeRate" : 14.89,
-    "themePremium" : 15.14
+    "marketSignal" : "약세",
+    "kospi" : -1.76,
+    "kosdaq" : -1.95,
+    "leadTheme" : "MLCC(적층세라믹콘덴서)",
+    "leadChangeRate" : 7.69,
+    "themePremium" : 9.45
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
@@ -39,8 +39,8 @@
     "top3Days" : 18
   }, {
     "sector" : "전자부품·기판",
-    "rank1Days" : 5,
-    "top3Days" : 17
+    "rank1Days" : 6,
+    "top3Days" : 18
   }, {
     "sector" : "정유·화학·원자재",
     "rank1Days" : 4,
@@ -60,11 +60,11 @@
   }, {
     "sector" : "매크로·기타",
     "rank1Days" : 6,
-    "top3Days" : 8
+    "top3Days" : 9
   }, {
     "sector" : "로봇·AI소프트웨어",
     "rank1Days" : 3,
-    "top3Days" : 8
+    "top3Days" : 9
   }, {
     "sector" : "통신·광통신",
     "rank1Days" : 3,
@@ -1662,6 +1662,25 @@
         "changeRate" : 2.91
       } ],
       "mainStock" : ""
-    }, null ] ]
+    }, {
+      "day" : 11,
+      "date" : "2026-09-11",
+      "theme" : "MLCC(적층세라믹콘덴서)",
+      "sector" : "전자부품·기판",
+      "changeRate" : 7.69,
+      "prevDay" : "NEW",
+      "regime" : "THEME_LED",
+      "slot" : "15:00",
+      "kospi" : -1.76,
+      "themePremium" : 9.45,
+      "runners" : [ {
+        "theme" : "보안주(정보)",
+        "changeRate" : 5.46
+      }, {
+        "theme" : "딥페이크(deepfake)",
+        "changeRate" : 6.04
+      } ],
+      "mainStock" : ""
+    } ] ]
   } ]
 }
