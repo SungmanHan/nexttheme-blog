@@ -1,4 +1,99 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-12T00:10:02+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">오늘 코스피·코스닥 동반 급락, 종가베팅은 왜 쉬었나 — 하루 마감 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/11/daily/" rel="alternate" type="text/html" title="오늘 코스피·코스닥 동반 급락, 종가베팅은 왜 쉬었나 — 하루 마감 정리" /><published>2026-09-11T21:00:00+09:00</published><updated>2026-09-11T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/11/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/11/daily/"><![CDATA[<p>오늘(9월 11일) 코스피와 코스닥이 나란히 큰 폭으로 밀리면서 투자자들 마음도 함께 무거워진 하루였습니다. 📉 오늘 밤 미국 물가지표(CPI) 발표를 앞두고 시장 전체가 숨을 고르는 분위기였는데요, 그 하루를 데이터로 정리해봅니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-12T06:07:14+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">미국 기술주 강세·반도체 수출 최대 — 월요일 한국 증시 반등 기대감</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/12/weekend/" rel="alternate" type="text/html" title="미국 기술주 강세·반도체 수출 최대 — 월요일 한국 증시 반등 기대감" /><published>2026-09-12T06:00:00+09:00</published><updated>2026-09-12T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/12/weekend</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/12/weekend/"><![CDATA[<p>한 주가 끝났습니다. 금요일 코스피는 -1.8% 조정으로 내려갔지만, 밤새 미국이 보낸 신호는 흥미롭습니다. 기술주의 강세가 멈추지 않았거든요.</p>
+
+<h2 id="어젯밤-미국장-기술주-전면-상승-신호">어젯밤 미국장, 기술주 전면 상승 신호</h2>
+
+<p><strong>어젯밤(금요일) 미국장은 전면 상승했습니다.</strong> 다우 +0.98%, S&amp;P500 +0.86%, 나스닥 +0.96%를 기록했고, 특히 반도체 지수는 <strong>+1.81%</strong>까지 올랐습니다. 이는 <strong>CPI 상승</strong>이라는 악재 속에서도 기술주 모멘텀이 이어졌다는 뜻입니다. 핵심 물가(Core CPI)도 예상치 0.2%를 상회해 0.3%를 기록했는데, 시장은 오히려 상승한 것입니다.</p>
+
+<p>더 주목할 신호는 한국의 <strong>반도체 수출입니다. 지난달 467억 달러를 기록해 역대 최대를 경신했습니다.</strong> 전년 동기 대비 <strong>+209%</strong>라는 수치는 글로벌 AI 인프라 수요가 얼마나 뜨거운지를 보여줍니다. 더불어 DDR5 메모리와 NAND 플래시메모리 가격도 각각 <strong>+86%, +92%</strong>로 급등했습니다.</p>
+
+<p>다만 부담 요인도 있습니다. <strong>유가가 배럴당 $100을 돌파했다가 이후 -2.42% 하락했습니다.</strong> 정제품 재고 증가 우려와 함께 에너지 부문의 약세 신호가 섞여 있다는 뜻입니다.</p>
+
+<p>코스피 ADR도 확인하면, <strong>EWY(코스피 ADR)는 +3.25%</strong> 올랐습니다. 이는 국내 시장에 긍정적인 신호로 해석됩니다.</p>
+
+<h2 id="베팅-등급--전략--강세-구간">베팅 등급 &amp; 전략 — 강세 구간</h2>
+
+<p><strong>현재 판단: 강세 구간(적극 관찰 권고)</strong></p>
+
+<p>월요일 갭상승 가능성은 <strong>72점(100점 만점)</strong>으로 평가됩니다. 야간 선물(SPX +0.81%, NDX +0.87%) 전면 상승과 환율 강세가 함께하기 때문입니다.</p>
+
+<p>금요일의 조정(-1.76%)은 <strong>기술적 반등의 기회</strong>로 볼 수 있습니다. 이 주의 전략은:</p>
+
+<ul>
+  <li><strong>기술주 모멘텀 지속</strong> — 반도체와 AI 관련주가 시장 주도</li>
+  <li><strong>수출 수혜 테마 우선</strong> — 반도체, MLCC, 전자부품 중심 관찰</li>
+  <li><strong>유가 변동성 신중</strong> — 석유화학·정유주는 $95 이하 안정화 시까지 대응</li>
+  <li><strong>외국인 동향 모니터링</strong> — 금요일 순매도(-2.8조) 지속 시 상승폭 제한 가능</li>
+</ul>
+
+<h2 id="월요일을-주도할-3대-섹터">월요일을 주도할 3대 섹터</h2>
+
+<p><strong>1️⃣ 반도체·AI 인프라</strong><br />
+역대 최대 수출 기록(467억$)과 글로벌 칩 가격 동반 상승이 함께합니다. 미국 반도체 지수(SOXX) <strong>+1.86%</strong> 동조로 국내 반도체주의 강세 지속 신호가 명확합니다.</p>
+
+<p><strong>2️⃣ MLCC·전자부품</strong><br />
+국내 섹터 중 <strong>상승률 1위(+7.69%)</strong>를 기록했습니다. 미국 전자장비 섹터(<strong>+3.86%</strong>) 동반 강세로 글로벌 부품 수요 확산이 확연합니다.</p>
+
+<p><strong>3️⃣ 보안·양자암호</strong><br />
+국내 상위 섹터가 <strong>+5.46%/+4.86%</strong> 올라 사이버보안 수요 지속과 정보보안 테마는 초기 국면 진입을 시사합니다.</p>
+
+<h2 id="-어제금요일-선별-복기">📋 어제(금요일) 선별 복기</h2>
+
+<p>어제 선별 결과를 정리하면:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목명</th>
+      <th>선별 슬롯</th>
+      <th>어제 상황</th>
+      <th>월요일 대응</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>대한광통신</strong></td>
+      <td>—</td>
+      <td>보유 중</td>
+      <td>통신·네트워킹 미국 섹터(+3.84%) 강세 확인. 월요일 동조 상승 시 보유 지속 타당 — 시초가 기준 후 대응</td>
+    </tr>
+    <tr>
+      <td><strong>흥구석유</strong></td>
+      <td>10:10 탐색</td>
+      <td>미청산</td>
+      <td>유가 급등 재료이나 금요일 유가 반락(-2.42%)으로 모멘텀 약화. 유가 $95 이하 안정화 시 청산 검토</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="다음주-핵심-변수--월요일-강세-신호는">다음주 핵심 변수 — 월요일 강세 신호는?</h2>
+
+<p><strong>월요일 개장은 강세 가능성이 높게 나타나고 있습니다.</strong></p>
+
+<p>야간 선물 전면 상승(SPX +0.81%, NDX +0.87%)과 코스피 ADR 강세(EWY +3.25%)로 <strong>강세 개장 가능성</strong>이 높아졌습니다. 더하여 반도체 수출 역대 최대 기록은 단순 통계가 아니라 <strong>글로벌 수요 확산의 실제 증거</strong>입니다.</p>
+
+<p><strong>그러나 주의할 변수:</strong></p>
+
+<ul>
+  <li>외국인 순매도(-2.8조) 지속 시 상승폭 제한</li>
+  <li>유가 $95 이하 안정화 여부</li>
+  <li>금요일 기술적 조정의 깊이가 얼마나 반등 여력을 남겼는가</li>
+</ul>
+
+<p><strong>보유 종목 출구 전략:</strong></p>
+
+<ul>
+  <li>금요일 낙폭이 과대한 종목은 월요일 반등 시 일부 차익 실현 고려</li>
+  <li>반도체·기술주 강세 수혜주는 추세 지속 판단 시 보유 유지</li>
+  <li>유가 노출 종목(석유화학·정유)은 에너지 시장 안정화까지 관찰 후 판단</li>
+</ul>
+
+<h2 id="마무리--주말도-기회를-읽는-시간">마무리 — 주말도 기회를 읽는 시간</h2>
+
+<p>이번 주는 금요일의 조정으로 내려갔지만, 야간 미국 기술주 강세와 한국 반도체 수출 역대 최대는 <strong>월요일 반등을 강하게 시사</strong>합니다. 반도체·AI 인프라, MLCC·전자부품, 보안 섹터에 주목하면서 월요일 개장을 준비해보세요.</p>
+
+<p>주식 투자, 주말도 소중하지만 다음 기회를 읽는 시간입니다. 월요일 시장에 대한 의견이 있으시면 댓글로 나눠주세요.</p>
+
+<p>#반도체 #AI인프라 #미국기술주 #MLCC #전자부품 #보안양자암호 #NextTheme #환율 #월요일전망 #종가베팅</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[한 주가 끝났습니다. 금요일 코스피는 -1.8% 조정으로 내려갔지만, 밤새 미국이 보낸 신호는 흥미롭습니다. 기술주의 강세가 멈추지 않았거든요.]]></summary></entry><entry><title type="html">오늘 코스피·코스닥 동반 급락, 종가베팅은 왜 쉬었나 — 하루 마감 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/11/daily/" rel="alternate" type="text/html" title="오늘 코스피·코스닥 동반 급락, 종가베팅은 왜 쉬었나 — 하루 마감 정리" /><published>2026-09-11T21:00:00+09:00</published><updated>2026-09-11T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/11/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/11/daily/"><![CDATA[<p>오늘(9월 11일) 코스피와 코스닥이 나란히 큰 폭으로 밀리면서 투자자들 마음도 함께 무거워진 하루였습니다. 📉 오늘 밤 미국 물가지표(CPI) 발표를 앞두고 시장 전체가 숨을 고르는 분위기였는데요, 그 하루를 데이터로 정리해봅니다.</p>
 
 <h2 id="어제-선별-종목-오늘-아침-실제로는-어땠을까">어제 선별 종목, 오늘 아침 실제로는 어땠을까</h2>
 
@@ -1766,174 +1861,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가베팅 #복기일지 #20260909 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-09-10 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">미국 약세·유가 급등, 오늘 시초가 갭 방향이 승패 가르는 날</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/10/0600-briefing/" rel="alternate" type="text/html" title="미국 약세·유가 급등, 오늘 시초가 갭 방향이 승패 가르는 날" /><published>2026-09-10T06:00:00+09:00</published><updated>2026-09-10T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/10/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/10/0600-briefing/"><![CDATA[<p>위험 신호가 켜졌습니다. 간밤 미국 3대 지수가 일제히 하락(-0.5~-0.8%)했고, VIX(공포지수)는 4.7% 급등했거든요. 오늘은 이 오버나잇 리스크를 국내 강한 수급이 얼마나 버텨낼지가 전투입니다.</p>
-
-<h2 id="-어제-선별-결과-오늘-어떻게-전개될까">📋 어제 선별 결과, 오늘 어떻게 전개될까</h2>
-
-<p>어제(9월 9일) AI는 총 4개 종목을 선별했습니다. <strong>최종 3건 + NXT 탐색 1건</strong> 구성이었고, 전체 방향은 <strong>신중</strong>으로 평가됐습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>슬롯</th>
-      <th>어제 전략</th>
-      <th>오늘 대응</th>
-      <th>저녁 갭</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>대한광통신</td>
-      <td>15:10 최종</td>
-      <td>갭 트레이드</td>
-      <td>시초가 갭 확인 — 보유 중</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>가온전선</td>
-      <td>15:10 최종</td>
-      <td>갭 트레이드</td>
-      <td>갭 방향 관찰</td>
-      <td>+0.95% / -2.27%</td>
-    </tr>
-    <tr>
-      <td>두산퓨얼셀</td>
-      <td>15:10 최종</td>
-      <td>갭 트레이드</td>
-      <td>시초가 갭 확인</td>
-      <td>+2.06% / -0.56%</td>
-    </tr>
-    <tr>
-      <td>삼성SDI</td>
-      <td>19:10 선별</td>
-      <td>갭 트레이드</td>
-      <td>신규 진입 보류</td>
-      <td>+2.14% / -0.36%</td>
-    </tr>
-  </tbody>
-</table>
-
-<p><strong>⚠️ 어제 예측이 현실화됐습니다.</strong> 재료에 명시된 contraryScenario(“유가 급등에 따른 오버나잇 리스크”)가 정확히 맞아떨어졌거든요. 브렌트유 100달러 돌파, 미국 3대 지수 하락(-0.5~-0.8%), VIX 급등(4.7%)이 모두 일어났습니다. <strong>다만 국내는 다릅니다.</strong> 코스피가 7,051.64(+1.4%)로 회복했고, 외국인이 639억 원 순매수를 이어갔습니다.</p>
-
-<p><strong>실제 매수 기록:</strong></p>
-<ul>
-  <li><strong>대한광통신</strong>: 종가 14,960원 → 보유 지속 중 (평단 14,950원, 521주)</li>
-</ul>
-
-<p>나머지 3종목(가온전선, 두산퓨얼셀, 삼성SDI)은 매수 실행 없었습니다.</p>
-
-<h2 id="전일-국내-수급의-명과-암">전일 국내 수급의 명과 암</h2>
-
-<p>전일(9월 9일) 코스피는 외국인 <strong>639억 원 순매수</strong>, 기관 <strong>8,627억 원 순매수</strong>로 강한 모습을 보였습니다. 반면 개인은 <strong>-2.7조원 순매도</strong>로 순매도 일관입니다.</p>
-
-<p><strong>섹터별 주도:</strong></p>
-<ul>
-  <li>광통신(광케이블/광섬유): <strong>+8.97%</strong></li>
-  <li>2차전지(생산): <strong>+8.66%</strong></li>
-  <li>고체산화물 연료전지(SOFC): <strong>+7.90%</strong></li>
-  <li>전선: <strong>+7.29%</strong></li>
-</ul>
-
-<p>기관과 외국인이 앞장선 수급은 긍정 신호지만, 개인의 대규모 순매도는 기술적 약세 우려를 남깁니다.</p>
-
-<h2 id="간밤-미국-시장의-세-가지-뉘앙스">간밤 미국 시장의 세 가지 뉘앙스</h2>
-
-<p>간밤 미국장은 <strong>광범위한 약세</strong>로 정리됐습니다. 다우존스(-0.77%), 나스닥 종합(-0.64%), S&amp;P 500(-0.48%)이 일제히 내렸는데, 특히 다우운송(-1.09%)의 추락이 경기 회피 심리를 반영합니다.</p>
-
-<p>한편 <strong>반도체 섹터의 저항</strong>은 주목할 만합니다. 필라델피아 반도체 지수가 <strong>+0.37%</strong>로 선방했거든요. VIX의 4.7% 급등은 <strong>위험회피 신호</strong>이지만, 반도체만큼은 긍정적 수급을 유지 중이라는 뜻입니다.</p>
-
-<p><strong>오늘 장 막판 주의:</strong> 10년물 국채 금리가 4.845%로 급등했습니다. 국채 바이백 실망(기대 70~80억 달러 대비 60억 달러)이 원인인데, 이는 <strong>성장주 밸류에이션 압박</strong>으로 작용할 겁니다.</p>
-
-<h2 id="오늘-확인할-네-가지-핵심-뉴스">오늘 확인할 네 가지 핵심 뉴스</h2>
-
-<h3 id="1️⃣-유가-급등--정유석유화학-vs-항공의-엇갈린-운명-필수-점검">1️⃣ 유가 급등 — 정유·석유화학 vs 항공의 엇갈린 운명 (필수 점검)</h3>
-
-<p><strong>브렌트유 100달러 돌파</strong>는 간단한 숫자가 아닙니다. 중동 긴장(미국-이란 호르무즈 해협 상호 공격)이 원유 공급 차질을 우려시킨 결과입니다. WTI는 <strong>96.7달러</strong>(3.67% 급등)까지 올랐습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>수혜 섹터</th>
-      <th>부담 섹터</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>정유(SK이노베이션·GS) — 정제마진 개선</td>
-      <td>항공(에어부산·제주항공) — 연료비 급등</td>
-    </tr>
-    <tr>
-      <td>석유화학 — 원재료 가격 상승 기대</td>
-      <td>해운 — 유가 상승은 운영비 악화</td>
-    </tr>
-  </tbody>
-</table>
-
-<p><strong>오늘의 관찰 포인트:</strong> 국내 정유주의 시초가 갭이 양수인지 음수인지가 시장의 유가 대응 방향을 보여줄 것입니다.</p>
-
-<h3 id="2️⃣-국채-바이백-실망--금리-급등이-성장주에-전가-중요">2️⃣ 국채 바이백 실망 — 금리 급등이 성장주에 전가 (중요)</h3>
-
-<p>미국 재무부가 국채 바이백을 60억 달러로 발표했는데, 시장은 70~80억 달러를 기대했습니다. 결과? <strong>10년물 금리가 4.85%로 급등</strong>했습니다.</p>
-
-<p>이는:</p>
-<ul>
-  <li>금리 인하 기대 약화 → 저금리 수혜주(성장주·KOSDAQ) 약세 신호</li>
-  <li>한국 10년물 국고채(현재 4.39%) 동조 상승 가능성</li>
-</ul>
-
-<h3 id="3️⃣-애플-폴더블-아이폰-첫-공개--디스플레이-부품주-수혜-기대">3️⃣ 애플 폴더블 아이폰 첫 공개 — 디스플레이 부품주 수혜 기대</h3>
-
-<p>존 테르누스 신임 CEO가 ‘아이폰 듀오’를 공개하며 삼성 갤럭시Z와 정면 경쟁에 나섰습니다.</p>
-
-<p><strong>수혜주 레이더:</strong> 이수페타시스·와이엠씨 등 폴더블 부품 공급사의 시초가 반응이 주목됩니다.</p>
-
-<h3 id="4️⃣-구리-사상-최고치-경신--전선주-모멘텀의-또-다른-근거">4️⃣ 구리 사상 최고치 경신 — 전선주 모멘텀의 또 다른 근거</h3>
-
-<p>구리가 톤당 <strong>14,779달러</strong>로 사상 최고가를 경신했습니다. AI 데이터센터 전력망 투자 수요와 칠레 광산 차질이 맞물렸기 때문입니다.</p>
-
-<p><strong>영향:</strong> 어제 전선 테마(+7.29%)의 강세를 뒷받침하는 원재료 신호. 가온전선·LS전선 등 전선주가 오늘 시초가에서도 이 흐름을 이어가는지가 관전 포인트입니다.</p>
-
-<h2 id="오늘의-베팅-등급--신중-구간">오늘의 베팅 등급 — 신중 구간</h2>
-
-<table>
-  <tbody>
-    <tr>
-      <td><strong>등급: 신중</strong></td>
-      <td><strong>감정 점수: 35/100</strong> (약세)</td>
-    </tr>
-  </tbody>
-</table>
-
-<h3 id="ai-전략-평가">AI 전략 평가</h3>
-
-<p>“유가 100달러 돌파와 내일 새벽 CPI 발표를 앞둔 위험 국면입니다. 미국 3대 지수 일제 하락(-0.5~-0.8%)과 VIX 급등이 오버나잇 리스크로 작용하는 가운데, <strong>네마녀의 날</strong>(KOSPI200 선물·옵션 + 개별주식 선물·옵션 4종 동시 만기)로 인한 변동성 확대 가능성도 높은 구간입니다.”</p>
-
-<h3 id="오늘의-전략">오늘의 전략</h3>
-
-<ol>
-  <li><strong>시초가 갭 방향 먼저 확인하기</strong> — 외국인 순매수 흐름과 미국 약세의 줄다리기</li>
-  <li><strong>네마녀 만기 프로그램 매물 주의</strong> — 종가 전후 변동성 급증 가능성</li>
-  <li><strong>내일 새벽 CPI 리스크 고려</strong> — 현재 예상(MoM +0.4%) 상회 시 추가 조정 우려</li>
-  <li><strong>유가 수혜주(정유·석유화학) vs 역풍주(항공)의 시초가 갭 격차</strong>를 관찰 포인트로 둔다</li>
-</ol>
-
-<h2 id="오늘-장중-확인할-체크리스트">오늘 장중 확인할 체크리스트</h2>
-
-<p>📌 <strong>네마녀의 날 만기</strong> — 종가 전후 프로그램 매물 강도<br />
-📌 <strong>유가 수혜 vs 역풍 섹터</strong> — 시초가 갭 격차 관찰<br />
-📌 <strong>전일 강세 테마 지속성</strong> — 광통신·전선·SOFC 모멘텀<br />
-📌 <strong>외국인 순매수 이어감</strong> — 전일 639억 기세 유지 여부<br />
-📌 <strong>CPI 대기 심리</strong> — 오후부터 관망세 예상</p>
-
-<h2 id="결론--오늘은-갭-방향이-전투">결론 — 오늘은 “갭 방향”이 전투</h2>
-
-<p>미국 약세(−0.5~−0.8%)라는 거센 역풍 속에서도 국내 수급은 선전(외국인 639억 순매수)했습니다. 하지만 유가 급등과 금리 상승, 그리고 네마녀 만기라는 3중 불리함이 겹쳐 있는 상황입니다.</p>
-
-<p><strong>오늘의 승패는 시초가 갭에 달려 있습니다.</strong> 광통신·전선·SOFC 같은 전일 강세 테마가 오버나잇 리스크를 버텨낼지, 아니면 하락으로 돌아설지가 상황을 좌우할 것입니다.</p>
-
-<p>내일 새벽(21:30) CPI 발표를 앞두고 있기에, 오후부터는 관망세가 짙어질 것으로 보입니다. <strong>시초가 갭이 오늘 하루의 방향을 가르는 변수</strong>입니다.</p>
-
-<p>📲 <strong>오늘 하루 이 시황을 어떻게 읽으셨나요?</strong> 댓글로 여러분의 생각을 나눠주세요. 시장은 함께 읽을 때 더 선명해집니다.</p>
-
-<p>#종가베팅 #NextTheme #시초가갭 #유가급등 #네마녀의날 #미국약세</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[위험 신호가 켜졌습니다. 간밤 미국 3대 지수가 일제히 하락(-0.5~-0.8%)했고, VIX(공포지수)는 4.7% 급등했거든요. 오늘은 이 오버나잇 리스크를 국내 강한 수급이 얼마나 버텨낼지가 전투입니다.]]></summary></entry></feed>
+<p>#종가베팅 #복기일지 #20260909 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-09-10 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
