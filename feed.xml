@@ -1,28 +1,243 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-11T20:07:01+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">국제유가·금리 급등에 흔들린 증시, 오늘 종가베팅이 쉬어가는 이유 — 다음 주 월요일 전략은?</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/11/nt2-1505-snapshot/" rel="alternate" type="text/html" title="국제유가·금리 급등에 흔들린 증시, 오늘 종가베팅이 쉬어가는 이유 — 다음 주 월요일 전략은?" /><published>2026-09-11T15:05:00+09:00</published><updated>2026-09-11T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/11/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/11/nt2-1505-snapshot/"><![CDATA[<p>😥 오늘은 코스피와 코스닥이 나란히 크게 밀린 하루였습니다. 이런 날은 억지로 종목을 찾기보다 <strong>한 발 물러서서 지켜보는 것도 전략</strong>입니다. 오늘 종가베팅은 신규 후보 없이 관망으로 마감합니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-11T22:17:51+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">오늘 코스피·코스닥 동반 급락, 종가베팅은 왜 쉬었나 — 하루 마감 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/11/daily/" rel="alternate" type="text/html" title="오늘 코스피·코스닥 동반 급락, 종가베팅은 왜 쉬었나 — 하루 마감 정리" /><published>2026-09-11T21:00:00+09:00</published><updated>2026-09-11T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/11/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/11/daily/"><![CDATA[<p>오늘(9월 11일) 코스피와 코스닥이 나란히 큰 폭으로 밀리면서 투자자들 마음도 함께 무거워진 하루였습니다. 📉 오늘 밤 미국 물가지표(CPI) 발표를 앞두고 시장 전체가 숨을 고르는 분위기였는데요, 그 하루를 데이터로 정리해봅니다.</p>
 
-<h2 id="오늘-시장-무슨-일이-있었나">오늘 시장, 무슨 일이 있었나</h2>
+<h2 id="어제-선별-종목-오늘-아침-실제로는-어땠을까">어제 선별 종목, 오늘 아침 실제로는 어땠을까</h2>
 
-<p>오늘은 <strong>국제 유가와 금리가 동시에 급등</strong>하면서 코스피·코스닥 지수가 함께 큰 폭으로 하락했습니다. 유가와 금리가 같이 튀어 오르면 기업의 비용 부담과 자금 조달 부담이 동시에 커진다는 신호로 읽히기 때문에, 특정 업종을 가리지 않고 시장 전반이 위축되는 흐름이 나타났습니다.</p>
+<p>먼저 어제(9월 10일) 종가베팅이 고른 종목들이 오늘 아침(08:00~09:59) 실제로 어떻게 움직였는지부터 확인합니다. 이 구간은 <strong>실제 청산 성과</strong>로 볼 수 있는 확정 데이터입니다.</p>
 
-<p>여기에 더해 <strong>오늘 밤 미국 물가지표(CPI) 발표</strong>가 예정돼 있다는 점도 투자자들의 발목을 잡았습니다. 물가지표 결과에 따라 금리 방향이 다시 흔들릴 수 있어, 결과를 확인하기 전까지는 적극적으로 움직이기보다 <strong>지켜보자는 심리가 시장 전체를 지배</strong>한 하루였습니다.</p>
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>구분</th>
+      <th>갭(%)</th>
+      <th>세션 내 최고~최저</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>주성엔지니어링</td>
+      <td>①실현(오늘 아침)</td>
+      <td><strong>-1.11%</strong></td>
+      <td>+1.33% ~ -5.97%</td>
+    </tr>
+    <tr>
+      <td>대한광통신</td>
+      <td>①실현(오늘 아침)</td>
+      <td><strong>-4.28%</strong></td>
+      <td>-1.40% ~ -5.15%</td>
+    </tr>
+  </tbody>
+</table>
 
-<h2 id="왜-오늘은-종목을-고르지-않았나">왜 오늘은 종목을 고르지 않았나</h2>
+<p>두 종목 모두 어제 진입가(주성엔지니어링 226,000원 / 대한광통신 14,950원) 대비 아침 시간대에 마이너스로 출발했습니다. 특히 대한광통신은 아침 내내 진입가를 회복하지 못하고 마이너스권에 머물렀습니다. 모든 날이 좋을 수는 없고, 이런 날도 있는 그대로 기록해두는 게 맞다고 생각합니다.</p>
 
-<p>종가베팅은 그날 거래대금과 수급이 뚜렷하게 쏠리는 종목을 찾아 다음 거래일 아침 갭상승을 노리는 전략입니다. 그런데 오늘처럼 <strong>시장 전체가 유가·금리라는 외부 변수에 흔들리고, 그 결과를 좌우할 미국 물가지표 발표까지 남아 있는 날</strong>은 개별 종목의 수급 신호보다 시장 전체 분위기가 더 크게 작용합니다. 이런 조건에서 무리하게 종목을 골라 담기보다, <strong>오늘은 쉬어가고 다음 신호를 기다리는 것도 하나의 선택</strong>이라고 봅니다.</p>
+<p>같은 대한광통신은 오늘(9월 11일) 저녁 애프터마켓에서도 잠정적으로 진입가 대비 <strong>-5.35%</strong>를 기록 중입니다. 다만 이건 아직 확정된 수치가 아니라 다음 주 월요일 아침 개장 전까지는 잠정 흐름으로만 봐야 합니다.</p>
 
-<p>무포지션도 전략이라는 말이 처음엔 낯설게 들릴 수 있지만, 확신이 서지 않는 날 억지로 매매를 만들지 않는 것 자체가 리스크 관리의 한 형태입니다.</p>
+<h2 id="오늘-시장은-어땠나">오늘 시장은 어땠나</h2>
 
-<h2 id="오늘의-관점">오늘의 관점</h2>
+<p>간밤 미국 증시는 다우 -0.60%, S&amp;P500 -0.58%, 나스닥 -0.65%, 특히 필라델피아 반도체지수가 -2.66%로 크게 밀렸습니다. 국제 유가가 104달러(+1.5%)까지 오르면서 인플레이션 우려가 다시 불거졌고, 생산자물가지수(PPI)가 시장 예상치를 웃돌면서 미국 10년물 금리가 5%에 바짝 다가섰습니다. 오늘 밤 21:30 발표되는 미국 소비자물가지수(CPI)가 9월 금리 인상 확률(현재 73%로 알려짐)을 가를 핵심 변수로 꼽혔습니다.</p>
 
-<p>오늘처럼 유가·금리·물가지표라는 세 가지 변수가 한꺼번에 겹치는 날은, 데이터가 아무리 좋아 보여도 그 위에 더 큰 파도가 덮칠 수 있습니다. 개인적으로는 이런 날일수록 <strong>성급하게 반등을 노리기보다 물가지표 결과를 확인한 다음 판단해도 늦지 않다</strong>는 쪽에 무게를 둡니다.</p>
+<p>이런 분위기 속에 국내 증시도 힘을 쓰지 못했습니다.</p>
 
-<h2 id="다음-주-월요일-다시-기둥을-찾겠습니다">다음 주 월요일, 다시 기둥을 찾겠습니다</h2>
+<table>
+  <thead>
+    <tr>
+      <th>지수</th>
+      <th>종가</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>코스피</td>
+      <td><strong>6,909.91</strong></td>
+      <td><strong>-1.76%</strong></td>
+    </tr>
+    <tr>
+      <td>코스닥</td>
+      <td><strong>820.64</strong></td>
+      <td><strong>-1.95%</strong></td>
+    </tr>
+  </tbody>
+</table>
 
-<p>오늘 밤 미국 물가지표 결과가 나오면 시장의 방향성이 조금 더 뚜렷해질 것으로 보입니다. 그 결과를 확인한 뒤, 다음 주 월요일 다시 거래대금과 수급이 쏠리는 종목을 찾아보겠습니다.</p>
+<p>코스피는 지난 9월 9일 7,051.64까지 올랐다가 이틀 연속 밀리며 오늘 6,909.91로 마감했고, 코스닥도 9월 10일 836.92에서 오늘 820.64로 내려앉았습니다. 원/달러 환율은 1,342.0원이었습니다.</p>
 
-<p>오늘 같은 관망장, 여러분은 어떻게 보고 계신가요? 댓글로 의견 나눠주세요. 다음 선별 소식이 궁금하시면 이웃 추가로 받아보실 수 있습니다.</p>
+<p>수급 면에서는 외국인이 <strong>-27,735억원</strong>, 기관이 <strong>-19,010억원</strong> 순매도했고, 개인 투자자가 <strong>+30,012억원</strong> 순매수하며 물량을 받아낸 하루였습니다. 큰 투자기관(외국인·기관) 두 축이 동시에 매도에 나선 만큼, 지수 하락 압력이 컸던 것으로 풀이됩니다.</p>
 
-<p>#NextTheme #종가베팅 #코스피 #코스닥 #국제유가 #금리급등 #미국물가지표 #관망장</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[😥 오늘은 코스피와 코스닥이 나란히 크게 밀린 하루였습니다. 이런 날은 억지로 종목을 찾기보다 한 발 물러서서 지켜보는 것도 전략입니다. 오늘 종가베팅은 신규 후보 없이 관망으로 마감합니다.]]></summary></entry><entry><title type="html">9/10 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/11/review-20260910-review/" rel="alternate" type="text/html" title="9/10 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-09-11T09:00:00+09:00</published><updated>2026-09-11T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/11/review_20260910-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/11/review-20260910-review/"><![CDATA[<blockquote>
+<h2 id="무엇이-움직였나">무엇이 움직였나</h2>
+
+<p>오늘 거래대금 상위 종목입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>순위</th>
+      <th>종목명</th>
+      <th>거래대금</th>
+      <th>등락률</th>
+      <th>거래량</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>SK하이닉스</td>
+      <td><strong>6.9조원</strong></td>
+      <td>-2.00%</td>
+      <td>385만주</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>삼성전자</td>
+      <td><strong>5.3조원</strong></td>
+      <td>-3.35%</td>
+      <td>2,048만주</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>삼성전기</td>
+      <td>1.3조원</td>
+      <td>-0.21%</td>
+      <td>93만주</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>삼성전자우</td>
+      <td>5,746억원</td>
+      <td>-4.78%</td>
+      <td>297만주</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>SK스퀘어</td>
+      <td>5,577억원</td>
+      <td>-4.05%</td>
+      <td>52만주</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>삼화콘덴서</td>
+      <td>5,395억원</td>
+      <td><strong>+18.76%</strong></td>
+      <td>394만주</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>두산에너빌리티</td>
+      <td>4,887억원</td>
+      <td>+0.67%</td>
+      <td>542만주</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>한전기술</td>
+      <td>4,793억원</td>
+      <td>+4.21%</td>
+      <td>319만주</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>HD현대중공업</td>
+      <td>4,347억원</td>
+      <td>+5.73%</td>
+      <td>92만주</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>한미반도체</td>
+      <td>3,897억원</td>
+      <td>-8.10%</td>
+      <td>167만주</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>반도체 대장주인 SK하이닉스와 삼성전자가 거래대금 1·2위를 차지했지만 둘 다 하락 마감했고, 한미반도체는 -8.10%로 낙폭이 더 컸습니다. 반면 삼화콘덴서는 +18.76%로 홀로 강세를 보였고, 조선·에너지 쪽인 HD현대중공업(+5.73%)·한전기술(+4.21%)도 상승 마감했습니다.</p>
+
+<p>오늘 상승 종목이 많았던 테마는 아래와 같습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>순위</th>
+      <th>테마명</th>
+      <th>상승/전체</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>MLCC(적층세라믹콘덴서)</td>
+      <td>8 / 11</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>보안주(정보)</td>
+      <td>41 / 51</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>딥페이크(deepfake)</td>
+      <td>8 / 14</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>양자암호/양자컴퓨팅</td>
+      <td>21 / 26</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>은행</td>
+      <td>10 / 11</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>건설 대표주</td>
+      <td>5 / 6</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>보안주(정보) 테마는 51개 종목 중 41개가 오르며 지수 하락 속에서도 눈에 띄는 상승 비율을 보였습니다.</p>
+
+<h2 id="오늘의-종가-선별-결과">오늘의 종가 선별 결과</h2>
+
+<p>오늘 AI가 매긴 베팅 등급은 <strong>신중 구간(RED)</strong>이었습니다. 국제 유가와 금리 급등에 코스피·코스닥이 함께 크게 밀렸고, 오늘 밤 미국 물가지표 발표를 앞두고 관망 심리가 우세했던 하루로 정리됩니다. 이런 판단에 따라 오늘 최종 선별된 종목은 없었습니다.</p>
+
+<h2 id="오늘을-어떻게-기록할-것인가">오늘을 어떻게 기록할 것인가</h2>
+
+<p>오늘은 미국발 인플레이션 우려와 금리 부담이 국내 증시 전반을 짓누른 하루였습니다. 외국인·기관이 동시에 매도에 나서고 개인이 그 물량을 받아내는 구도 속에서, 지수는 이틀 연속 밀렸습니다. 개인적으로 오늘 흐름에서 주목한 부분은, 반도체 대형주가 거래대금 상위를 지키면서도 하락을 이끌었다는 점과, 그 와중에 보안주·양자암호 같은 개별 테마는 상승 종목 비율이 높았다는 대비입니다. 지수와 개별 테마의 온도 차가 뚜렷했던 하루였습니다.</p>
+
+<p>큰 투자기관이 동시에 물러선 날, 무리하게 움직이기보다 다음 주 월요일 CPI 결과를 확인한 뒤 다시 판단하는 것도 하나의 선택지라고 생각합니다.</p>
+
+<p>“시장은 매일 열리지만, 매일 참여할 필요는 없다”는 말을 오늘 다시 떠올리게 됩니다.</p>
+
+<p>오늘 장, 어떻게 보셨나요? 댓글로 의견 나눠주세요 🙂</p>
+
+<p>#NextTheme #종가베팅 #코스피 #코스닥 #반도체 #SK하이닉스 #삼성전자 #보안주 #CPI발표 #외국인순매도</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[오늘(9월 11일) 코스피와 코스닥이 나란히 큰 폭으로 밀리면서 투자자들 마음도 함께 무거워진 하루였습니다. 📉 오늘 밤 미국 물가지표(CPI) 발표를 앞두고 시장 전체가 숨을 고르는 분위기였는데요, 그 하루를 데이터로 정리해봅니다.]]></summary></entry><entry><title type="html">국제유가·금리 급등에 코스피 밀린 날, 종가베팅은 왜 관망했나</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/11/nt2-1505-snapshot/" rel="alternate" type="text/html" title="국제유가·금리 급등에 코스피 밀린 날, 종가베팅은 왜 관망했나" /><published>2026-09-11T15:05:00+09:00</published><updated>2026-09-11T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/11/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/11/nt2-1505-snapshot/"><![CDATA[<p>국제유가와 금리 급등이 흔들어놓은 오늘, 종가베팅은 관망으로 결정했습니다. 📊</p>
+
+<h2 id="오늘-시장은-어땠나">오늘 시장은 어땠나</h2>
+
+<p>코스피·코스닥이 함께 크게 밀린 오늘은 거시 악재에 투자자 심리가 위축된 하루였습니다. 국제유가가 뛰었고, 금리도 급등했습니다. 게다가 오늘 밤 미국 물가지표 발표를 앞두고 있어서, 시장은 불확실성 앞에서 신중함을 유지했습니다. 이렇게 방향성이 불분명한 세팅에서는 무리하게 진입할 이유가 없습니다.</p>
+
+<h2 id="왜-오늘은-쉬어가는가">왜 오늘은 쉬어가는가</h2>
+
+<p>종가베팅의 핵심은 <strong>‘확률이 유리할 때만 싼다’</strong>는 전략입니다. 오늘은 그 확률이 충분하지 않았습니다.</p>
+
+<p>거시 악재가 시장에 깔려 있는 상황에서 종가에 선별되는 종목이 익일 아침에 갭상승할 가능성은 기대하기 어렵습니다. 게다가 시장 변수(오늘 밤 물가지표)가 남아 있어서 불안심리가 언제든 확산될 수 있습니다.</p>
+
+<p><strong>이럴 때는 쉬어가는 것이 수익을 지키는 방법</strong>입니다. 관망도 훌륭한 투자 전략입니다. 종가베팅이 모든 날짜에 매수를 강요하는 것은 아니기 때문입니다.</p>
+
+<h2 id="다음-주-월요일을-기다리며">다음 주 월요일을 기다리며</h2>
+
+<p>오늘을 정리하자면, 불리한 국면을 피하는 것도 중요한 투자 기술입니다. <strong>다음 주 월요일</strong>, 좋은 기둥을 다시 찾겠습니다.</p>
+
+<p>그때까지 안정적인 투자하세요. 혹시 의견이나 질문이 있으시면 댓글로 남겨주세요. 이웃 추가도 환영합니다! 😊</p>
+
+<hr />
+
+<p>#종가베팅 #코스피 #관망 #국제유가 #금리 #NextTheme #투자전략</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[국제유가와 금리 급등이 흔들어놓은 오늘, 종가베팅은 관망으로 결정했습니다. 📊]]></summary></entry><entry><title type="html">9/10 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/11/review-20260910-review/" rel="alternate" type="text/html" title="9/10 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-09-11T09:00:00+09:00</published><updated>2026-09-11T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/11/review_20260910-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/11/review-20260910-review/"><![CDATA[<blockquote>
   <p>데이터 기준: 2026-09-11 10:03 키움 ka10001 일괄 조회</p>
 </blockquote>
 
@@ -1721,361 +1936,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <p>📲 <strong>오늘 하루 이 시황을 어떻게 읽으셨나요?</strong> 댓글로 여러분의 생각을 나눠주세요. 시장은 함께 읽을 때 더 선명해집니다.</p>
 
-<p>#종가베팅 #NextTheme #시초가갭 #유가급등 #네마녀의날 #미국약세</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[위험 신호가 켜졌습니다. 간밤 미국 3대 지수가 일제히 하락(-0.5~-0.8%)했고, VIX(공포지수)는 4.7% 급등했거든요. 오늘은 이 오버나잇 리스크를 국내 강한 수급이 얼마나 버텨낼지가 전투입니다.]]></summary></entry><entry><title type="html">코스피 7000 돌파, 광통신·연료전지·전선 테마가 이끈 하루 — 마감 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/09/daily/" rel="alternate" type="text/html" title="코스피 7000 돌파, 광통신·연료전지·전선 테마가 이끈 하루 — 마감 정리" /><published>2026-09-09T21:00:00+09:00</published><updated>2026-09-09T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/09/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/09/daily/"><![CDATA[<p>간밤 미국 증시가 유가 급등 충격으로 흔들렸는데도, 오늘 코스피는 오히려 <strong>7000선을 다시 넘어섰습니다</strong>. 광통신, 연료전지, 전선 같은 성장 테마에 자금이 몰리며 만들어진 하루였는데요, 어제 골랐던 종목들의 실제 결과부터 차근차근 짚어보겠습니다. 📊</p>
-
-<h2 id="어제-고른-종목-오늘-아침-실제로는-어땠을까">어제 고른 종목, 오늘 아침 실제로는 어땠을까?</h2>
-
-<p>종가베팅은 전날 저녁에 고른 종목을 다음 날 아침에 파는 전략이라, “다음 날 아침 얼마에 팔렸는가”가 진짜 성적표입니다. 어제(9월 8일) 선별된 두 종목의 오늘 아침(08:00~09:59) <strong>실현</strong> 결과는 이렇습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>실현 갭</th>
-      <th>세션내 최고</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>두산에너빌리티</td>
-      <td><strong>+3.01%</strong></td>
-      <td>+5.12% (최저 -0.33%)</td>
-    </tr>
-    <tr>
-      <td>대우건설</td>
-      <td><strong>+1.24%</strong></td>
-      <td>+5.71% (최저 -0.89%)</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>두 종목 모두 아침에 플러스로 출발했고, 장중 한때는 두산에너빌리티가 <strong>+5.12%</strong>, 대우건설이 <strong>+5.71%</strong>까지 올랐던 구간이 있었습니다.</p>
-
-<p>한편 오늘(9월 9일) 새로 선별된 종목들은 애프터마켓(15:40~19:59)에서의 <strong>잠정</strong> 흐름만 확인할 수 있습니다. 이건 확정된 성적이 아니라, 실제 청산 시점인 내일 아침까지 얼마든지 바뀔 수 있는 중간 기록이라는 점을 먼저 밝힙니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>잠정 갭</th>
-      <th>세션내 최고</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>두산퓨얼셀</td>
-      <td>+0.19%</td>
-      <td>+2.06% (최저 -0.56%)</td>
-    </tr>
-    <tr>
-      <td>대한광통신</td>
-      <td>+0.07%</td>
-      <td>관측 데이터 없음</td>
-    </tr>
-    <tr>
-      <td>가온전선</td>
-      <td>-1.89%</td>
-      <td>+0.95% (최저 -2.27%)</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>가온전선은 애프터마켓에서 잠시 마이너스권으로 밀린 구간이 있었고, 대한광통신·두산퓨얼셀은 소폭 플러스권에 머물렀습니다. 다시 말씀드리지만 이 수치는 저녁 시점 기록일 뿐, 내일 아침 실제 결과와는 다를 수 있습니다.</p>
-
-<h2 id="오늘-시장은-어땠나">오늘 시장은 어땠나</h2>
-
-<p>간밤 미국 증시는 중동발 유가 급등의 영향을 크게 받았습니다. 다우 <strong>-1.18%</strong>, S&amp;P500 <strong>-0.58%</strong>, 나스닥 <strong>-0.32%</strong>로 하락한 가운데, 필라델피아 반도체 지수만 <strong>+1.30%</strong>로 나 홀로 강세를 보였습니다.</p>
-
-<p>이런 분위기에도 국내 증시는 반대로 움직였습니다. 코스피는 <strong>7,051.64</strong>로 전일 대비 <strong>+1.40%</strong>, 코스닥은 <strong>830.37</strong>로 <strong>+2.28%</strong> 올랐습니다. 최근 3주 흐름을 보면 9월 초 6,562선까지 밀렸다가(9월 2일) 오늘 7,051선까지 회복한 셈이니, 저점 대비 꽤 가파른 반등입니다. 원/달러 환율은 <strong>1,338.0원</strong>을 기록했습니다.</p>
-
-<p>오늘 수급을 보면, 외국인이 <strong>+640억원</strong>, 기관이 <strong>+8,627억원</strong> 순매수했지만 개인은 <strong>-2.7조원</strong> 순매도했습니다. 큰 투자기관들이 사들이는 동안 개인 투자자들은 차익 실현에 나선 하루였다고 볼 수 있습니다.</p>
-
-<h2 id="오늘-자금은-어디로-몰렸나">오늘 자금은 어디로 몰렸나</h2>
-
-<p>거래대금 상위 종목입니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>순위</th>
-      <th>종목</th>
-      <th>거래대금</th>
-      <th>등락률</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>SK하이닉스</td>
-      <td>9.1조원</td>
-      <td>+3.46%</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>삼성전자</td>
-      <td>5.9조원</td>
-      <td>+0.09%</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>삼성전기</td>
-      <td>9,722억원</td>
-      <td>+2.26%</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>두산에너빌리티</td>
-      <td>7,186억원</td>
-      <td>+2.46%</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>SK스퀘어</td>
-      <td>6,614억원</td>
-      <td>+0.44%</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>삼성SDI</td>
-      <td>6,146억원</td>
-      <td>+7.55%</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>스카이랩스</td>
-      <td>5,280억원</td>
-      <td>+2.86%</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>우리기술</td>
-      <td>4,993억원</td>
-      <td>+20.07%</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>한전기술</td>
-      <td>4,508억원</td>
-      <td>-0.14%</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>대한광통신</td>
-      <td>4,407억원</td>
-      <td>+9.20%</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>테마별로는 이런 흐름이었습니다. (숫자는 상승 종목 수 / 테마 전체 종목 수)</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>순위</th>
-      <th>테마</th>
-      <th>상승/전체</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>광통신(광케이블/광섬유 등)</td>
-      <td>14/15</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>2차전지(생산)</td>
-      <td>3/3</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>고체산화물 연료전지(SOFC)</td>
-      <td>14/14</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>전선</td>
-      <td>8/8</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>2차전지(나트륨이온)</td>
-      <td>9/9</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>석유화학</td>
-      <td>16/18</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>광통신·SOFC(고체산화물 연료전지)·전선 세 테마는 사실상 전 종목이 오른 날이었습니다.</p>
-
-<h2 id="오늘-종가베팅-선별-결과">오늘 종가베팅 선별 결과</h2>
-
-<p>오늘 최종 선별 등급은 신중하게 접근하는 구간이었습니다. 코스피가 7000선을 다시 넘어선 강세 속에서 광통신·SOFC·전선·2차전지 같은 성장 테마에 자금이 동시에 몰렸지만, 유가 급등에 따른 오버나잇(밤사이) 리스크가 남아 있다는 판단입니다.</p>
-
-<h3 id="대한광통신">대한광통신</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>항목</th>
-      <th>내용</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>당일 종가 / 등락률</td>
-      <td>14,960원 / +9.20%</td>
-    </tr>
-    <tr>
-      <td>거래대금 / 시총</td>
-      <td>4,407억원 / 2.3조원</td>
-    </tr>
-    <tr>
-      <td>주도 테마 / 테마내순위</td>
-      <td>광통신(광케이블/광섬유 등) / 1위</td>
-    </tr>
-    <tr>
-      <td>RSI / RVOL / 이평수렴</td>
-      <td>61.8 / 3.6배 / +0.08%</td>
-    </tr>
-    <tr>
-      <td>52주 신고가 / 거래량 흐름</td>
-      <td>아님 / 중립</td>
-    </tr>
-    <tr>
-      <td>외인 순매수 / 기관 순매수</td>
-      <td>+59만 주 / +2만 주</td>
-    </tr>
-    <tr>
-      <td>호가신호</td>
-      <td>매수벽 강함</td>
-    </tr>
-    <tr>
-      <td>최근 분기 실적</td>
-      <td>2026.09.: 매출 668억원 / 영업이익 59억원</td>
-    </tr>
-    <tr>
-      <td>AI 종합 점수</td>
-      <td>47점</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>오늘 광통신 테마에서 거래대금 1위, 상승률 1위를 동시에 기록한 종목입니다. AI데이터센터용 광케이블 수요라는 재료에 외국인이 오늘 대규모로 순매수했고, 매수 호가도 두텁게 쌓여 있었다는 점이 선별 기록에 남았습니다. 최근 분기 매출은 전년 대비 <strong>+54.3%</strong> 늘었습니다.</p>
-
-<h3 id="두산퓨얼셀">두산퓨얼셀</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>항목</th>
-      <th>내용</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>당일 종가 / 등락률</td>
-      <td>53,500원 / +8.63%</td>
-    </tr>
-    <tr>
-      <td>거래대금 / 시총</td>
-      <td>4,174억원 / 3.5조원</td>
-    </tr>
-    <tr>
-      <td>주도 테마 / 테마내순위</td>
-      <td>고체산화물 연료전지(SOFC) / 1위</td>
-    </tr>
-    <tr>
-      <td>RSI / RVOL / 이평수렴</td>
-      <td>64.9 / 3.1배 / +0.12%</td>
-    </tr>
-    <tr>
-      <td>52주 신고가 / 거래량 흐름</td>
-      <td>아님 / 중립</td>
-    </tr>
-    <tr>
-      <td>외인 순매수 / 기관 순매수</td>
-      <td>-11만 주 / +15만 주</td>
-    </tr>
-    <tr>
-      <td>호가신호</td>
-      <td>매수벽 강함</td>
-    </tr>
-    <tr>
-      <td>최근 분기 실적</td>
-      <td>2026.09.: 매출 1,042억원 / 영업손실 191억원</td>
-    </tr>
-    <tr>
-      <td>AI 종합 점수</td>
-      <td>47점</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>미국 데이터센터에 5천억원대 연료전지를 공급하는 계약을 실제로 따낸 재료가 있었고, 기관이 오늘 꾸준히 순매수하며 매수 잔량이 매도 잔량을 넘어섰다는 점이 선별 기록에 남았습니다. 다만 최근 분기 영업손익은 적자(-191억원)였고, 매출은 전년 대비 <strong>+14.8%</strong> 늘었습니다.</p>
-
-<h3 id="가온전선">가온전선</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>항목</th>
-      <th>내용</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>당일 종가 / 등락률</td>
-      <td>264,500원 / +16.26%</td>
-    </tr>
-    <tr>
-      <td>거래대금 / 시총</td>
-      <td>4,134억원 / 7.9조원</td>
-    </tr>
-    <tr>
-      <td>주도 테마 / 테마내순위</td>
-      <td>전선 / 1위</td>
-    </tr>
-    <tr>
-      <td>RSI / RVOL / 이평수렴</td>
-      <td>71.1 / 2.9배 / +0.21%</td>
-    </tr>
-    <tr>
-      <td>52주 신고가 / 거래량 흐름</td>
-      <td>아님 / 중립</td>
-    </tr>
-    <tr>
-      <td>외인 순매수 / 기관 순매수</td>
-      <td>+4만 주 / +1만 주</td>
-    </tr>
-    <tr>
-      <td>호가신호</td>
-      <td>매수벽 강함</td>
-    </tr>
-    <tr>
-      <td>AI 종합 점수</td>
-      <td>42점</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>캐나다 전력망에 처음 진출한 수주 재료가 있었고, 전선 테마 안에서 거래대금과 상승률이 모두 1위였다는 점, 매수 호가에 자금이 두텁게 쌓여 있었다는 점이 선별 기록에 남았습니다.</p>
-
-<h3 id="하루-종일-포착됐던-보유-종목">하루 종일 포착됐던 보유 종목</h3>
-
-<p>대한광통신은 오늘 오전 탐색 시점부터 점심 탐색, 오후 사전 점검, 최종 선별, 저녁 애프터마켓 재확인까지 — 하루 중 거의 모든 시점에서 계속 포착된 종목이었습니다. 그만큼 하루 내내 자금 유입과 상승 흐름이 꾸준했다는 뜻으로 볼 수 있습니다.</p>
-
-<h2 id="오늘을-어떻게-기록할-것인가">오늘을 어떻게 기록할 것인가</h2>
-
-<p>오늘 흐름에서 눈에 띈 건, 뉴욕증시가 유가 급등으로 흔들렸는데도 코스피는 오히려 7000선을 다시 넘어섰다는 점, 그리고 광통신·연료전지·전선처럼 서로 다른 성장 테마에 동시에 자금이 몰렸다는 점입니다. 개인은 팔고 기관·외국인은 사들인 하루이기도 했습니다. 다만 유가 급등에 따른 오버나잇 리스크가 아직 남아 있어, 내일 아침 데이터가 어떻게 나올지 지켜볼 부분입니다.</p>
-
-<p><em>“시장은 매일 새로운 이야기를 쓴다. 오늘의 기록도 내일의 참고자료가 될 뿐이다.”</em></p>
-
-<p>오늘 하루 흐름, 어떻게 보셨나요? 궁금한 종목 있으면 댓글로 남겨주세요 💬</p>
-
-<p>#코스피 #광통신 #고체산화물연료전지 #전선 #대한광통신 #두산퓨얼셀 #가온전선 #종가베팅 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[간밤 미국 증시가 유가 급등 충격으로 흔들렸는데도, 오늘 코스피는 오히려 7000선을 다시 넘어섰습니다. 광통신, 연료전지, 전선 같은 성장 테마에 자금이 몰리며 만들어진 하루였는데요, 어제 골랐던 종목들의 실제 결과부터 차근차근 짚어보겠습니다. 📊]]></summary></entry></feed>
+<p>#종가베팅 #NextTheme #시초가갭 #유가급등 #네마녀의날 #미국약세</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[위험 신호가 켜졌습니다. 간밤 미국 3대 지수가 일제히 하락(-0.5~-0.8%)했고, VIX(공포지수)는 4.7% 급등했거든요. 오늘은 이 오버나잇 리스크를 국내 강한 수급이 얼마나 버텨낼지가 전투입니다.]]></summary></entry></feed>
