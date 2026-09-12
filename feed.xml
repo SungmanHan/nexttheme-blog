@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-12T09:45:59+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">미국 기술주 강세·반도체 수출 최대 — 월요일 한국 증시 반등 기대감</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/12/weekend/" rel="alternate" type="text/html" title="미국 기술주 강세·반도체 수출 최대 — 월요일 한국 증시 반등 기대감" /><published>2026-09-12T06:00:00+09:00</published><updated>2026-09-12T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/12/weekend</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/12/weekend/"><![CDATA[<p>한 주가 끝났습니다. 금요일 코스피는 -1.8% 조정으로 내려갔지만, 밤새 미국이 보낸 신호는 흥미롭습니다. 기술주의 강세가 멈추지 않았거든요.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-12T09:55:35+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">미국 기술주 강세·반도체 수출 최대 — 월요일 한국 증시 반등 기대감</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/12/weekend/" rel="alternate" type="text/html" title="미국 기술주 강세·반도체 수출 최대 — 월요일 한국 증시 반등 기대감" /><published>2026-09-12T06:00:00+09:00</published><updated>2026-09-12T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/12/weekend</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/12/weekend/"><![CDATA[<p>한 주가 끝났습니다. 금요일 코스피는 -1.8% 조정으로 내려갔지만, 밤새 미국이 보낸 신호는 흥미롭습니다. 기술주의 강세가 멈추지 않았거든요.</p>
 
 <h2 id="어젯밤-미국장-기술주-전면-상승-신호">어젯밤 미국장, 기술주 전면 상승 신호</h2>
 
@@ -59,8 +59,8 @@
     <tr>
       <td><strong>흥구석유</strong></td>
       <td>10:10 탐색</td>
-      <td>미청산</td>
-      <td>유가 급등 재료이나 금요일 유가 반락(-2.42%)으로 모멘텀 약화. 유가 $95 이하 안정화 시 청산 검토</td>
+      <td>미보유(실매수 없음)</td>
+      <td>유가 급등 재료이나 금요일 유가 반락(-2.42%)으로 모멘텀 약화. 유가 $95 이하 안정화 전까지 관망</td>
     </tr>
   </tbody>
 </table>
