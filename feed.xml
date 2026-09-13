@@ -1,4 +1,193 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-13T10:41:34+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">이번 주 반도체 강세와 금리 우려 — 다음 주 FOMC가 코스피 최대 변수</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/13/weekly/" rel="alternate" type="text/html" title="이번 주 반도체 강세와 금리 우려 — 다음 주 FOMC가 코스피 최대 변수" /><published>2026-09-13T06:00:00+09:00</published><updated>2026-09-13T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/13/weekly</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/13/weekly/"><![CDATA[<h2 id="이번-주-시장-한줄요약">이번 주 시장, 한줄요약</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-14T06:08:15+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">반도체 수출 역대 최대치에 미국 증시도 강세 — 오늘 종가베팅 등급은?</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/14/0600-briefing/" rel="alternate" type="text/html" title="반도체 수출 역대 최대치에 미국 증시도 강세 — 오늘 종가베팅 등급은?" /><published>2026-09-14T06:00:00+09:00</published><updated>2026-09-14T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/14/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/14/0600-briefing/"><![CDATA[<p>안녕하세요 😊 월요일 아침, 지난 주말 소식을 정리하고 오늘 장을 준비할 시간입니다. 지난 금요일 밤 미국 증시가 3대 지수 전면 상승으로 마감했고, 국내 반도체 수출은 역대 최대치를 새로 썼습니다. 오늘 코스피가 어떤 흐름을 보일지 함께 짚어보겠습니다.</p>
+
+<h2 id="-지난-금요일-ai-선별-오늘-다시-보니-어땠을까">📋 지난 금요일 AI 선별, 오늘 다시 보니 어땠을까</h2>
+
+<p>먼저 지난 금요일 AI가 짚었던 종목들의 이후 상황부터 복기하겠습니다. 지난 금요일은 전체적으로 <strong>신중한 접근</strong>이 필요했던 하루였습니다.</p>
+
+<p>참고로 지난 금요일은 최종 선별 종목이 <strong>0건</strong>이었고, 장중 탐색 후보로 언급된 종목이 <strong>3건</strong>, 이전부터 보유 중이던 이월 종목이 <strong>1건</strong>이었습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목명</th>
+      <th>슬롯</th>
+      <th>지난 금요일 전략</th>
+      <th>오늘 결과</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>대한광통신</td>
+      <td>—</td>
+      <td>(이월 보유, 09-09 매수 후 계속 보유)</td>
+      <td>시초가 갭 방향에 따라 기존 청산 계획을 그대로 실행</td>
+    </tr>
+    <tr>
+      <td>엑스게이트</td>
+      <td>14:30 선별</td>
+      <td>시초가 갭 상승을 노리는 전략</td>
+      <td>시초가 갭 방향 확인 필요 — 신규 진입 보류</td>
+    </tr>
+    <tr>
+      <td>삼화콘덴서</td>
+      <td>10:10 탐색</td>
+      <td>시초가 갭 상승을 노리는 전략</td>
+      <td>시초가 갭 방향 확인 후 판단</td>
+    </tr>
+    <tr>
+      <td>삼성전기</td>
+      <td>12:10 탐색</td>
+      <td>시초가 갭 상승을 노리는 전략</td>
+      <td>갭하락 시 반도체 수출 호재 반영 지연 종목으로 재평가</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li><strong>대한광통신</strong> ✅ 보유 중 — 09-09일 매수해 3거래일째 이어온 이월 포지션입니다. 지난 금요일 종가는 미수집돼 손익 판단은 어려운 상태입니다.</li>
+  <li><strong>엑스게이트</strong>는 지난 금요일 보안 섹터가 <strong>+5.94%</strong> 강세였음에도 시장 전체가 신중한 등급이라 신규 진입은 보류됐습니다. 저녁 애프터마켓(15:40~19:59)에서는 종가(16,060원) 대비 고점·저점 모두 <strong>0%</strong>로 보합이었습니다.</li>
+  <li><strong>삼화콘덴서</strong>는 지난 금요일 거래대금 1위 + 외국인·기관 매집이 확인된 MLCC 대표주입니다. 저녁 애프터마켓에서는 종가(137,100원) 대비 <strong>+0.22%</strong> 수준의 보합권 흐름이었습니다.</li>
+  <li><strong>삼성전기</strong>는 MLCC 테마 1위(+7.69%) 종목으로, 저녁 애프터마켓 고점이 종가(1,392,000원) 대비 <strong>+0.50%</strong>까지 올랐다가 저점은 보합(0%)으로 마감했습니다. 반도체 수출 호재가 이 종목에는 아직 충분히 반영되지 않았을 가능성이 있어 오늘 다시 살펴볼 후보로 꼽혔습니다.</li>
+</ul>
+
+<p>실제 매수는 없었습니다. 지난 금요일 짚었던 시나리오대로, 시초가 이후 외국인 매도가 확대되면 “장 초반만 오르고 장중 밀리는” 흐름이 나타날 수 있다는 경고가 여전히 유효한 상황입니다.</p>
+
+<h2 id="지난-금요일-국내-수급은-어땠나">지난 금요일 국내 수급은 어땠나</h2>
+
+<p>지난 금요일 코스피는 <strong>-1.76%</strong>, 코스닥은 <strong>-1.95%</strong>로 마감했습니다. 수급을 보면 큰 투자기관(기관)과 외국인 투자자 모두 순매도 흐름을 보였습니다.</p>
+
+<ul>
+  <li>외국인: <strong>-2.8조원</strong> 순매도</li>
+  <li>기관: <strong>-1.9조원</strong> 순매도</li>
+  <li>개인: <strong>+3.0조원</strong> 순매수</li>
+</ul>
+
+<p>외국인과 기관이 함께 팔아치운 물량을 개인이 받아낸 모양새였습니다. 다만 이런 흐름 속에서도 특정 테마는 강하게 움직였습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>테마</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>MLCC(적층세라믹콘덴서)</td>
+      <td><strong>+7.69%</strong></td>
+    </tr>
+    <tr>
+      <td>딥페이크</td>
+      <td><strong>+6.04%</strong></td>
+    </tr>
+    <tr>
+      <td>보안주(정보)</td>
+      <td><strong>+5.94%</strong></td>
+    </tr>
+    <tr>
+      <td>양자암호/양자컴퓨팅</td>
+      <td><strong>+4.86%</strong></td>
+    </tr>
+    <tr>
+      <td>보안주(물리)</td>
+      <td><strong>+4.46%</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="지난-금요일-밤-미국-증시-브리핑">지난 금요일 밤 미국 증시 브리핑</h2>
+
+<p>지난 금요일 밤 미국장은 3대 지수가 전면 상승했습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>지수</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>다우존스</td>
+      <td><strong>+0.98%</strong></td>
+    </tr>
+    <tr>
+      <td>나스닥 종합</td>
+      <td><strong>+0.96%</strong></td>
+    </tr>
+    <tr>
+      <td>S&amp;P 500</td>
+      <td><strong>+0.86%</strong></td>
+    </tr>
+    <tr>
+      <td>나스닥 100</td>
+      <td><strong>+0.91%</strong></td>
+    </tr>
+    <tr>
+      <td>다우운송</td>
+      <td><strong>+0.32%</strong></td>
+    </tr>
+    <tr>
+      <td>필라델피아 반도체</td>
+      <td><strong>+1.81%</strong></td>
+    </tr>
+    <tr>
+      <td>VIX(변동성 지수)</td>
+      <td><strong>-11.21%</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>특히 필라델피아 반도체 지수가 <strong>+1.81%</strong>로 7개 지수 중 가장 강했고, 아랫꼬리 비율도 높아 장중 저점에서 매수세가 꾸준히 유입된 모습이었습니다. 나스닥 종합은 <strong>+0.96%</strong> 상승 마감했지만 윗꼬리 비율이 66% 수준으로, 장 막판에 일부 매도 압력이 유입된 흔적도 함께 보였습니다.</p>
+
+<p>VIX(투자자들의 불안 심리를 나타내는 지수)는 <strong>-11.21%</strong> 급락하며 시장 불안감이 크게 누그러졌습니다. 다만 이 지수의 캔들 형태만 보면 장 막판 매도압력 신호도 함께 나타나, 변동성이 다시 커질 가능성은 열어둘 필요가 있습니다.</p>
+
+<h2 id="오늘-알아둘-핵심-뉴스">오늘 알아둘 핵심 뉴스</h2>
+
+<ul>
+  <li><strong>반도체 수출 역대 최대치 경신</strong> — 반도체 수출이 <strong>467억 달러</strong>로 역대 최대(+209%)를 새로 썼고, DDR5·낸드 가격도 각각 +86%, +92% 급등했습니다. AI 인프라 투자 확대가 계속되고 있다는 신호로, 필라델피아 반도체 지수 강세와도 맞물립니다. 오늘은 삼성전자·SK하이닉스의 시초가 갭 방향과 외국인 수급 전환 여부를 확인할 필요가 있습니다.</li>
+  <li><strong>미국 3대 지수 전면 상승 + VIX 급락</strong> — 미국 소비자물가(CPI) 상승에도 기술주 강세가 이어졌습니다. 다만 국내 증시와 미국 증시의 동조 흐름이 끊어진(디커플링) 상태라, 시초가만 오르고 장중에 밀리는 흐름이 나타날 수 있다는 점은 유의할 부분입니다.</li>
+  <li><strong>15~16일 미국 연준 금리 결정 예정</strong> — 현재 시장은 금리 인상 가능성을 높게 보고 있습니다. 인상이 현실화되면 성장주 밸류에이션 부담과 외국인 매도 확대로 이어질 수 있고, 동결되면 코스피 반등 기대감이 커질 수 있어 방향이 엇갈리는 변수입니다.</li>
+  <li><strong>유가 소폭 하락</strong> — 국제 유가는 <strong>100.05달러</strong>로 소폭 내렸습니다. 인플레이션 재점화 우려는 다소 완화됐지만, 정제품 재고 증가는 부담 요인으로 남아 있습니다.</li>
+</ul>
+
+<p>참고로 오늘부터 KRX 애프터마켓도 오후 4시~8시로 개장해, 코스피·코스닥 2500여 종목의 오후 거래가 가능해집니다.</p>
+
+<h2 id="오늘의-종가베팅-전략">오늘의 종가베팅 전략</h2>
+
+<p>오늘 종가베팅 시스템은 우호적인 흐름으로 판단하고 있습니다(체감 점수 <strong>68/100</strong>).</p>
+
+<p>야간 미국 3대 지수 전면 상승에 더해 한국 관련 ETF(EWY)가 <strong>+3.25%</strong> 급등하며 오늘 강세 개장 가능성을 키웠습니다. 반도체 수출 역대 최대치 경신 호재도 필라델피아 반도체 강세와 동조하는 모습입니다. 다만 외국인 매도세가 이어지고 있는 데다 국내외 증시 동조가 끊어진 상태라, “시초가만 오르고 장중에 밀리는” 흐름이 나타날 가능성은 계속 주의할 부분입니다. 15~16일 연준 금리 결정을 앞두고 변동성 확대에도 대비가 필요합니다.</p>
+
+<p>야간 선물과 EWY 급등을 감안하면 강세 개장이 예상되지만, 외국인 매도세가 지속되면 상승폭이 제한될 수 있습니다. 반도체·AI 인프라 수출 호재가 반영된 종목과, 지난 금요일 낙폭이 컸던 종목 중 기술적 반등이 나올 만한 종목을 우선 살펴볼 필요가 있습니다. 시초가 강세를 확인한 뒤 외국인 수급 방향을 재확인하는 과정이 중요해 보입니다.</p>
+
+<h2 id="오늘-주목할-변수">오늘 주목할 변수</h2>
+
+<ul>
+  <li><strong>EWY(한국 관련 ETF)</strong>: 188.72, 지난 금요일 밤 <strong>+3.25%</strong> 급등 — 오늘 강세 개장 신호로 해석됩니다.</li>
+  <li><strong>VIX</strong>: 15.84, 지난 금요일 <strong>-11.21%</strong> 급락 — 시장 불안감 완화 신호입니다.</li>
+  <li><strong>WTI(국제유가)</strong>: 100.05달러 — 여전히 높은 수준을 유지하고 있어 인플레이션 재점화 우려가 잠재해 있습니다.</li>
+  <li><strong>원/달러 환율</strong>: 1,343.8원, 전일 대비 -7.2원 강세 — 수출기업 채산성에는 우호적이지만 외국인 수급에는 양면적으로 작용할 수 있습니다.</li>
+</ul>
+
+<p>오늘 장중 체크리스트는 다음과 같습니다.</p>
+<ul>
+  <li>시초가 이후 외국인 수급 방향 전환 여부</li>
+  <li>반도체·MLCC 섹터 강세 확산 및 거래대금 지속력</li>
+  <li>“시초가만 오르고 장중 밀리는” 패턴 실현 여부</li>
+  <li>유가 95달러 이하 안정화 지속 여부</li>
+  <li>연준 금리 결정을 앞두고 변동성 확대 가능성</li>
+</ul>
+
+<p>제가 오늘 흐름에서 가장 눈여겨보는 지점은, 미국 증시와 반도체 수출 지표라는 뚜렷한 호재가 있음에도 외국인이 계속 팔고 있다는 엇박자입니다. 호재와 수급 방향이 엇갈릴 때는 시초가 강세만 보고 따라가기보다, 장중 흐름이 실제로 이어지는지 확인하는 편이 안전하다고 생각합니다.</p>
+
+<h2 id="마무리">마무리</h2>
+
+<p>반도체 수출 훈풍과 미국 증시 강세라는 좋은 재료가 있지만, 외국인 매도세와 국내외 증시 디커플링이라는 변수도 함께 있는 하루입니다. 지난 금요일 탐색됐던 MLCC 관련 종목들의 흐름도 함께 지켜볼 필요가 있어 보입니다. 오늘 장 마감 후 다시 결과를 정리해서 전해드리겠습니다.</p>
+
+<p>궁금한 종목이나 오늘 시장에 대한 생각, 댓글로 남겨주세요 🙌</p>
+
+<p>#NextTheme #종가베팅 #반도체수출 #MLCC #미국증시 #코스피전망 #외국인수급</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[안녕하세요 😊 월요일 아침, 지난 주말 소식을 정리하고 오늘 장을 준비할 시간입니다. 지난 금요일 밤 미국 증시가 3대 지수 전면 상승으로 마감했고, 국내 반도체 수출은 역대 최대치를 새로 썼습니다. 오늘 코스피가 어떤 흐름을 보일지 함께 짚어보겠습니다.]]></summary></entry><entry><title type="html">이번 주 반도체 강세와 금리 우려 — 다음 주 FOMC가 코스피 최대 변수</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/13/weekly/" rel="alternate" type="text/html" title="이번 주 반도체 강세와 금리 우려 — 다음 주 FOMC가 코스피 최대 변수" /><published>2026-09-13T06:00:00+09:00</published><updated>2026-09-13T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/13/weekly</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/13/weekly/"><![CDATA[<h2 id="이번-주-시장-한줄요약">이번 주 시장, 한줄요약</h2>
 
 <p>반도체·AI 인프라가 수출 467억달러 역대 최대 기록으로 강세를 이끈 한주였습니다. 하지만 미국 금리 인상 가능성 86% 우려와 외국인 2.89조원 순매도로 수급 불안이 남았습니다. 💭</p>
 
@@ -1531,113 +1720,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <p>“시장은 매일 다른 얼굴을 보여준다”는 말처럼, 오늘도 어제와는 또 다른 그림이었습니다. 궁금한 종목이나 테마 있으시면 댓글로 남겨주세요 😊</p>
 
-<p>#NextTheme #종가베팅 #코스피 #반도체장비 #주성엔지니어링 #LED장비 #외국인순매도 #네마녀의날</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[오늘(9월 10일) 국내 증시는 외국인이 큰 손으로 매도에 나섰는데도 코스피가 7000선을 지켜냈습니다. 유가 100달러 돌파와 미국 금리 부담이 겹친 하루였는데, 시장이 생각보다 잘 버텨준 느낌입니다 😮‍💨]]></summary></entry><entry><title type="html">외국인·기관 동반 매도 속에도 반도체·LED 장비 테마로 몰린 자금 — 오늘 종가베팅 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/10/nt2-1505-snapshot/" rel="alternate" type="text/html" title="외국인·기관 동반 매도 속에도 반도체·LED 장비 테마로 몰린 자금 — 오늘 종가베팅 분석" /><published>2026-09-10T15:05:00+09:00</published><updated>2026-09-10T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/10/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/10/nt2-1505-snapshot/"><![CDATA[<p>오늘 코스피·코스닥은 쉽지 않은 하루였습니다. 국제유가가 급등하고 미국 금리 부담까지 겹치면서 외국인과 큰 투자기관(기관)이 나란히 주식을 팔았거든요 📉. 이런 날은 대부분 종목이 힘을 못 쓰기 마련인데, 그 와중에도 유독 자금이 몰린 곳이 있었습니다. 바로 반도체·LED 장비 테마입니다.</p>
-
-<h2 id="오늘-시장-한마디로-정리하면">오늘 시장, 한마디로 정리하면</h2>
-
-<p>오늘 시황을 요약하면 이렇습니다. 유가 급등과 미국 금리 부담으로 외국인과 기관이 동반 순매도에 나선 약세장이었는데, 그 안에서도 자금은 반도체 장비·LED 소수 테마의 대장주로 집중됐습니다.</p>
-
-<p>시장 전체가 흔들리는 날은 보통 투자심리가 위축돼 어느 종목에도 돈이 잘 들어가지 않습니다. 그런데 오늘은 팔 건 팔고 살 곳은 확실하게 사는 하루였죠. 시장 전체 분위기와 반대로 자금이 몰리는 테마는 종가베팅 관점에서 눈여겨볼 만합니다.</p>
-
-<h2 id="오늘의-선별-종목--주성엔지니어링">오늘의 선별 종목 — 주성엔지니어링</h2>
-
-<p>이번 선별에서는 <strong>주성엔지니어링(036930)</strong> 1개 종목이 비중 100%로 이름을 올렸습니다.</p>
-
-<ul>
-  <li>오늘 종가(AI 기록 기준): <strong>226,000원</strong> (전일 대비 <strong>+9.4%</strong>)</li>
-  <li>오늘 거래대금: <strong>9,920억원</strong> (시가총액 <strong>10.5조원</strong>)</li>
-  <li>소속 테마: <strong>LED장비</strong> 테마 내 거래대금 <strong>1위</strong></li>
-</ul>
-
-<h3 id="왜-이-종목이-눈에-띄었을까">왜 이 종목이 눈에 띄었을까</h3>
-
-<ul>
-  <li>오늘 자금이 쏠린 반도체·LED 장비 테마 안에서 거래대금이 가장 많았던 대장주였습니다.</li>
-  <li>매수 주문(사려는 물량)이 가격대별로 두껍게 쌓여 있는, 이른바 “매수벽이 강한” 상태였습니다.</li>
-  <li>큰 투자기관(기관)은 오후 들어서도 계속 사들이는 모습을 보였습니다. 오늘 순매매를 보면 외국인은 <strong>4만 주</strong> 순매도, 기관은 <strong>32만 주</strong> 순매수로 방향이 엇갈렸습니다.</li>
-  <li>주가가 15분 단위 차트 기준 60일 이동평균선(최근 60일 평균 가격) 위에서 버텨냈다는 점도 근거로 제시됐습니다.</li>
-</ul>
-
-<p>당시 데이터에서는 거래대금과 상승률이 유독 눈에 띄었고, 기관 수급과 매수벽이 함께 확인된 종목이라는 게 이번 선별의 핵심 근거입니다.</p>
-
-<h3 id="분석-데이터-한눈에-보기">분석 데이터 한눈에 보기</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>구분</th>
-      <th>항목</th>
-      <th>값</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>기본</td>
-      <td>당일 종가 / 등락률</td>
-      <td>226,000원 / +9.4%</td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>거래대금 / 시총</td>
-      <td>9,920억원 / 10.5조원</td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>주도 테마 / 테마내순위</td>
-      <td>LED장비 / 1위</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>RSI / RVOL(평소 대비 거래량) / 이평수렴</td>
-      <td>71.2 / 3.8배 / +0.1%</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>52주 신고가 / 거래량-가격 흐름(OBV)</td>
-      <td>아님 / 중립</td>
-    </tr>
-    <tr>
-      <td>수급</td>
-      <td>외인 순매수 / 기관 순매수</td>
-      <td>-4만 주 / +32만 주</td>
-    </tr>
-    <tr>
-      <td>수급</td>
-      <td>호가신호</td>
-      <td>매수벽 강함</td>
-    </tr>
-    <tr>
-      <td>재무</td>
-      <td>매출 성장률(전년 대비)</td>
-      <td>+65.8%</td>
-    </tr>
-    <tr>
-      <td>재무</td>
-      <td>최근 분기 실적(2026.09. 기준)</td>
-      <td>매출 975억원 / 영업이익 213억원</td>
-    </tr>
-    <tr>
-      <td>점수</td>
-      <td>AI 종합 점수</td>
-      <td>48점</td>
-    </tr>
-  </tbody>
-</table>
-
-<blockquote>
-  <p>이번 선별에서 신뢰도는 “중간(MEDIUM)” 수준으로 기록됐습니다 — 모든 조건이 완벽하게 맞아떨어진 건 아니라는 뜻입니다.</p>
-</blockquote>
-
-<h2 id="nexttheme-알고리즘은-왜-이-종목을-골랐을까">NextTheme 알고리즘은 왜 이 종목을 골랐을까</h2>
-
-<p>NextTheme 알고리즘은 시장 전체가 약세일 때 오히려 유독 자금이 쏠리는 소수 테마를 찾아내도록 설계돼 있습니다. 오늘처럼 거래대금 1위, 기관의 지속적인 매수, 이동평균선 지지 같은 여러 신호가 한 종목에 동시에 겹칠 때 눈여겨보는 방식입니다.</p>
-
-<p>개인적으로 오늘처럼 지수가 흔들리는 날 특정 테마로만 거래대금이 몰리는 모습을 보면, 그 자금이 정말 그 테마를 ‘선택’해서 들어온 건지, 아니면 남은 유동성이 우연히 몰린 건지를 구분해서 보려고 합니다. 오늘은 LED장비 테마 안에서도 여러 종목이 아니라 주성엔지니어링 한 곳에만 자금이 집중됐다는 점이 특히 눈에 띄었습니다.</p>
-
-<h2 id="결론">결론</h2>
-
-<p>오늘 시장은 전체적으로 쉽지 않았지만, 반도체·LED 장비라는 좁은 영역에서는 뚜렷한 자금 쏠림이 나타난 하루였습니다. AI 기록상 주성엔지니어링의 오늘 종가는 226,000원이며, 거래대금과 기관 수급, 매수벽이 함께 확인됐다는 점이 이번 선별의 핵심입니다.</p>
-
-<p>궁금한 종목이 있다면 댓글로 남겨주세요 😊</p>
-
-<p>#주성엔지니어링 #LED장비 #반도체장비주 #외국인순매도 #기관순매수 #종가베팅 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[오늘 코스피·코스닥은 쉽지 않은 하루였습니다. 국제유가가 급등하고 미국 금리 부담까지 겹치면서 외국인과 큰 투자기관(기관)이 나란히 주식을 팔았거든요 📉. 이런 날은 대부분 종목이 힘을 못 쓰기 마련인데, 그 와중에도 유독 자금이 몰린 곳이 있었습니다. 바로 반도체·LED 장비 테마입니다.]]></summary></entry></feed>
+<p>#NextTheme #종가베팅 #코스피 #반도체장비 #주성엔지니어링 #LED장비 #외국인순매도 #네마녀의날</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[오늘(9월 10일) 국내 증시는 외국인이 큰 손으로 매도에 나섰는데도 코스피가 7000선을 지켜냈습니다. 유가 100달러 돌파와 미국 금리 부담이 겹친 하루였는데, 시장이 생각보다 잘 버텨준 느낌입니다 😮‍💨]]></summary></entry></feed>
