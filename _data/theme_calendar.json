@@ -1,25 +1,25 @@
 {
-  "lastTradingDay" : "2026-09-11",
-  "totalDays" : 88,
+  "lastTradingDay" : "2026-09-14",
+  "totalDays" : 89,
   "summary" : {
-    "tradingDays" : 88,
+    "tradingDays" : 89,
     "sectorCount" : 16,
-    "upDays" : 80,
+    "upDays" : 81,
     "avgChangeRate" : 5.72,
     "topSector" : "반도체·AI인프라",
     "topSectorDays" : 21
   },
   "now" : {
-    "date" : "2026-09-11",
+    "date" : "2026-09-14",
     "bettingGrade" : "RED",
     "regimeTag" : "RED_ALL_DOWN",
     "themeRegime" : "THEME_LED",
     "marketSignal" : "약세",
-    "kospi" : -1.76,
-    "kosdaq" : -1.95,
-    "leadTheme" : "MLCC(적층세라믹콘덴서)",
-    "leadChangeRate" : 7.69,
-    "themePremium" : 9.45
+    "kospi" : -3.26,
+    "kosdaq" : -1.69,
+    "leadTheme" : "광통신(광케이블/광섬유 등)",
+    "leadChangeRate" : 5.98,
+    "themePremium" : 9.24
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
@@ -44,7 +44,7 @@
   }, {
     "sector" : "정유·화학·원자재",
     "rank1Days" : 4,
-    "top3Days" : 14
+    "top3Days" : 15
   }, {
     "sector" : "건설·기계",
     "rank1Days" : 3,
@@ -58,17 +58,17 @@
     "rank1Days" : 3,
     "top3Days" : 11
   }, {
+    "sector" : "로봇·AI소프트웨어",
+    "rank1Days" : 3,
+    "top3Days" : 10
+  }, {
     "sector" : "매크로·기타",
     "rank1Days" : 6,
     "top3Days" : 9
   }, {
-    "sector" : "로봇·AI소프트웨어",
-    "rank1Days" : 3,
-    "top3Days" : 9
-  }, {
     "sector" : "통신·광통신",
-    "rank1Days" : 3,
-    "top3Days" : 7
+    "rank1Days" : 4,
+    "top3Days" : 8
   }, {
     "sector" : "인터넷·게임·SW",
     "rank1Days" : 2,
@@ -1681,6 +1681,25 @@
         "changeRate" : 6.04
       } ],
       "mainStock" : ""
-    } ] ]
+    } ], [ {
+      "day" : 14,
+      "date" : "2026-09-14",
+      "theme" : "광통신(광케이블/광섬유 등)",
+      "sector" : "통신·광통신",
+      "changeRate" : 5.98,
+      "prevDay" : "NEW",
+      "regime" : "THEME_LED",
+      "slot" : "15:00",
+      "kospi" : -3.26,
+      "themePremium" : 9.24,
+      "runners" : [ {
+        "theme" : "귀금속(금/은)",
+        "changeRate" : 7.08
+      }, {
+        "theme" : "딥페이크(deepfake)",
+        "changeRate" : 6.1
+      } ],
+      "mainStock" : ""
+    }, null, null, null, null ] ]
   } ]
 }
