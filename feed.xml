@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-14T23:26:57+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 3% 넘게 급락한 하루, 방어 자금은 은행주로 — 오늘 시장 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/14/daily/" rel="alternate" type="text/html" title="코스피 3% 넘게 급락한 하루, 방어 자금은 은행주로 — 오늘 시장 정리" /><published>2026-09-14T21:00:00+09:00</published><updated>2026-09-14T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/14/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/14/daily/"><![CDATA[<p>오늘은 코스피가 하루 만에 3% 넘게 빠진 날이었습니다 😥 지수가 크게 흔들릴 때일수록 “무엇이 버텼는지”를 살펴보는 게 의미가 있는데요, 오늘은 은행주 한 종목이 하락장 한가운데서 눈에 띄게 올랐습니다. 오늘 하루 시장 흐름과 AI 선별 결과를 정리해 드립니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-14T23:35:30+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 3% 넘게 급락한 하루, 방어 자금은 은행주로 — 오늘 시장 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/14/daily/" rel="alternate" type="text/html" title="코스피 3% 넘게 급락한 하루, 방어 자금은 은행주로 — 오늘 시장 정리" /><published>2026-09-14T21:00:00+09:00</published><updated>2026-09-14T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/14/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/14/daily/"><![CDATA[<p>오늘은 코스피가 하루 만에 3% 넘게 빠진 날이었습니다 😥 지수가 크게 흔들릴 때일수록 “무엇이 버텼는지”를 살펴보는 게 의미가 있는데요, 오늘은 은행주 한 종목이 하락장 한가운데서 눈에 띄게 올랐네요. 오늘 하루 시장 흐름과 AI 선별 결과를 정리해 드리겠습니다.</p>
 
 <h2 id="이전에-선별했던-종목-오늘-아침-결과는-어땠을까">이전에 선별했던 종목, 오늘 아침 결과는 어땠을까?</h2>
 
@@ -25,7 +25,7 @@
 
 <p>(진입가 14,950원 대비, 08:00~09:59 관측 기준)</p>
 
-<p>아쉽게도 오늘 아침은 이 종목 기준으로는 좋지 않은 결과였습니다. 관측 구간 안에서 최고 -2.81%까지 반등한 구간도 있었지만, 최저 -7.02%까지 밀린 뒤 -4.35% 선에서 마무리됐습니다. 맞았던 날도, 틀렸던 날도 있는 그대로 기록해두는 게 이 코너의 원칙입니다.</p>
+<p>아쉽게도 오늘 아침은 이 종목 기준으로는 좋지 않은 결과였습니다. 관측 구간 안에서 최고 -2.81%까지 반등한 구간도 있었지만, 최저 -7.02%까지 밀린 뒤 -4.35% 선에서 마무리됐네요. 맞았던 날도, 틀렸던 날도 있는 그대로 기록해두는 것이 이 코너의 원칙입니다.</p>
 
 <p>같은 종목이 오늘 오후~저녁(15:40~19:59) 시간대에도 추적됐는데, 이 구간에서는 <strong>-3.95%</strong> 갭을 기록했습니다. 이건 아직 실현되지 않은 잠정 수치이고, 실제 성적은 다음 거래일 아침에 확정됩니다.</p>
 
@@ -261,13 +261,13 @@
 
 <h2 id="오늘을-어떻게-기록할-것인가">오늘을 어떻게 기록할 것인가</h2>
 
-<p>한 줄로 정리하면, 오늘은 코스피·코스닥이 동반 급락하고 외국인·기관이 동시에 물량을 던진 가운데, 개인이 그 물량을 받아내고 은행주로 방어 자금이 쏠린 하루였습니다. 대형 반도체주가 낙폭을 키운 반면 일부 테마(딥페이크·보안주·양자암호)는 상승 종목이 더 많았던 것도 특징이었습니다.</p>
+<p>오늘 하루를 짚어보면, 코스피·코스닥이 동반 급락하고 외국인·기관이 동시에 물량을 던진 가운데, 개인이 그 물량을 받아내고 은행주로 방어 자금이 쏠린 하루였습니다. 대형 반도체주가 낙폭을 키운 반면 일부 테마(딥페이크·보안주·양자암호)는 상승 종목이 더 많았던 것도 특징이었습니다.</p>
 
 <p>“시장이 흔들릴 때 무엇이 버텼는지를 기록해두면, 다음에 비슷한 국면이 왔을 때 참고할 수 있는 자산이 됩니다.” 오늘 기록도 그런 마음으로 남겨둡니다.</p>
 
 <p>오늘 시장, 여러분은 어떻게 보셨나요? 댓글로 의견 나눠주세요 🙌</p>
 
-<p>#코스피 #우리금융지주 #은행주 #외국인순매도 #SK하이닉스 #양자암호 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[오늘은 코스피가 하루 만에 3% 넘게 빠진 날이었습니다 😥 지수가 크게 흔들릴 때일수록 “무엇이 버텼는지”를 살펴보는 게 의미가 있는데요, 오늘은 은행주 한 종목이 하락장 한가운데서 눈에 띄게 올랐습니다. 오늘 하루 시장 흐름과 AI 선별 결과를 정리해 드립니다.]]></summary></entry><entry><title type="html">극악의 급락장에서 은행주 방어 강세 — 외국인·기관 동시 매수한 우리금융지주</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/14/nt2-1505-snapshot/" rel="alternate" type="text/html" title="극악의 급락장에서 은행주 방어 강세 — 외국인·기관 동시 매수한 우리금융지주" /><published>2026-09-14T15:05:00+09:00</published><updated>2026-09-14T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/14/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/14/nt2-1505-snapshot/"><![CDATA[<p>코스피가 3%를 넘게 내려가는 심각한 하락장 속에서도 <strong>금리 인상 수혜 은행주가 방어 자금의 중심</strong>이 되고 있습니다. 우리금융지주는 오늘 <strong>+4.7% 상승</strong>으로 이 흐름을 가장 잘 보여주는 종목입니다. 📊</p>
+<p>#코스피 #우리금융지주 #은행주 #외국인순매도 #SK하이닉스 #양자암호 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[오늘은 코스피가 하루 만에 3% 넘게 빠진 날이었습니다 😥 지수가 크게 흔들릴 때일수록 “무엇이 버텼는지”를 살펴보는 게 의미가 있는데요, 오늘은 은행주 한 종목이 하락장 한가운데서 눈에 띄게 올랐네요. 오늘 하루 시장 흐름과 AI 선별 결과를 정리해 드리겠습니다.]]></summary></entry><entry><title type="html">극악의 급락장에서 은행주 방어 강세 — 외국인·기관 동시 매수한 우리금융지주</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/14/nt2-1505-snapshot/" rel="alternate" type="text/html" title="극악의 급락장에서 은행주 방어 강세 — 외국인·기관 동시 매수한 우리금융지주" /><published>2026-09-14T15:05:00+09:00</published><updated>2026-09-14T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/14/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/14/nt2-1505-snapshot/"><![CDATA[<p>코스피가 3%를 넘게 내려가는 심각한 하락장 속에서도 <strong>금리 인상 수혜 은행주가 방어 자금의 중심</strong>이 되고 있습니다. 우리금융지주는 오늘 <strong>+4.7% 상승</strong>으로 이 흐름을 가장 잘 보여주는 종목입니다. 📊</p>
 
 <h2 id="시장은-약세-은행주는-강세">시장은 약세, 은행주는 강세</h2>
 
