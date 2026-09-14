@@ -1,4 +1,273 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-14T21:58:51+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">극악의 급락장에서 은행주 방어 강세 — 외국인·기관 동시 매수한 우리금융지주</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/14/nt2-1505-snapshot/" rel="alternate" type="text/html" title="극악의 급락장에서 은행주 방어 강세 — 외국인·기관 동시 매수한 우리금융지주" /><published>2026-09-14T15:05:00+09:00</published><updated>2026-09-14T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/14/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/14/nt2-1505-snapshot/"><![CDATA[<p>코스피가 3%를 넘게 내려가는 심각한 하락장 속에서도 <strong>금리 인상 수혜 은행주가 방어 자금의 중심</strong>이 되고 있습니다. 우리금융지주는 오늘 <strong>+4.7% 상승</strong>으로 이 흐름을 가장 잘 보여주는 종목입니다. 📊</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-14T22:02:05+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 3% 넘게 급락한 하루, 방어 자금은 은행주로 — 오늘 시장 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/14/daily/" rel="alternate" type="text/html" title="코스피 3% 넘게 급락한 하루, 방어 자금은 은행주로 — 오늘 시장 정리" /><published>2026-09-14T21:00:00+09:00</published><updated>2026-09-14T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/14/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/14/daily/"><![CDATA[<p>오늘은 코스피가 하루 만에 3% 넘게 빠진 날이었습니다 😥 지수가 크게 흔들릴 때일수록 “무엇이 버텼는지”를 살펴보는 게 의미가 있는데요, 오늘은 은행주 한 종목이 하락장 한가운데서 눈에 띄게 올랐습니다. 오늘 하루 시장 흐름과 AI 선별 결과를 정리해 드립니다.</p>
+
+<h2 id="이전에-선별했던-종목-오늘-아침-결과는-어땠을까">이전에 선별했던 종목, 오늘 아침 결과는 어땠을까?</h2>
+
+<p>먼저 이전 선별 종목의 실제 성과부터 짚고 넘어가겠습니다. 종가베팅은 선별 다음 거래일 아침에 실제로 매도(청산)하는 전략이라, 아침 움직임이 진짜 성적표입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>오늘 아침(08:00~09:59) 실현 갭</th>
+      <th>관측 구간 내 최고</th>
+      <th>관측 구간 내 최저</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>대한광통신</td>
+      <td><strong>-4.35%</strong></td>
+      <td>-2.81%</td>
+      <td>-7.02%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>(진입가 14,950원 대비, 08:00~09:59 관측 기준)</p>
+
+<p>아쉽게도 오늘 아침은 이 종목 기준으로는 좋지 않은 결과였습니다. 관측 구간 안에서 최고 -2.81%까지 반등한 구간도 있었지만, 최저 -7.02%까지 밀린 뒤 -4.35% 선에서 마무리됐습니다. 맞았던 날도, 틀렸던 날도 있는 그대로 기록해두는 게 이 코너의 원칙입니다.</p>
+
+<p>같은 종목이 오늘 오후~저녁(15:40~19:59) 시간대에도 추적됐는데, 이 구간에서는 <strong>-3.95%</strong> 갭을 기록했습니다. 이건 아직 실현되지 않은 잠정 수치이고, 실제 성적은 다음 거래일 아침에 확정됩니다.</p>
+
+<p>오늘 최종 선별 종목인 우리금융지주도 저녁 시간대(15:40~19:59) 흐름이 함께 관측됐습니다. 진입가(36,750원) 대비 구간 내 최고 <strong>+0.27%</strong>, 최저 <strong>-1.36%</strong>로, 큰 변동 없이 대체로 진입가 근처에서 움직였습니다. 이 역시 잠정치이며, 실제 실현 성과는 <strong>내일</strong> 아침 확인할 수 있습니다.</p>
+
+<h2 id="오늘-코스피가-3-넘게-빠진-이유는">오늘 코스피가 3% 넘게 빠진 이유는?</h2>
+
+<p>간밤 미국 증시는 다우 +0.98%, S&amp;P500 +0.86%, 나스닥 +0.96%, 필라델피아 반도체지수 +1.81%로 3대 지수와 반도체주가 나란히 상승 마감했습니다. 하지만 오늘 국내 증시는 정반대로 움직였습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>지수</th>
+      <th>종가</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>코스피</td>
+      <td><strong>6,684.37</strong></td>
+      <td><strong>-3.26%</strong></td>
+    </tr>
+    <tr>
+      <td>코스닥</td>
+      <td><strong>806.79</strong></td>
+      <td><strong>-1.69%</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>원/달러 환율은 <strong>1,346.5원</strong>을 기록했습니다.</p>
+
+<p>최근 코스피 흐름을 보면 이달 초 7,000선을 웃돌던 지수(9/9 종가 7,051.64)가 지난주 후반 6,900선으로 밀린 데 이어, 오늘 하루 만에 6,684.37까지 큰 폭으로 하락했습니다. 코스닥도 830선에서 806선까지 함께 내려앉았습니다.</p>
+
+<p>수급 면에서는 외국인이 <strong>-4.0조원</strong> 순매도, 기관도 <strong>-1.8조원</strong> 순매도로 큰손들이 동시에 물량을 던졌고, 이 물량을 개인이 <strong>+4.4조원</strong> 순매수로 받아내는 모습이었습니다. 큰 매도세를 개인이 홀로 받아낸 하루였다고 볼 수 있습니다.</p>
+
+<h2 id="오늘-거래대금과-테마는-어디로-몰렸나">오늘 거래대금과 테마는 어디로 몰렸나</h2>
+
+<p>거래대금 상위 종목을 보면 대형 반도체·전자주가 대부분 하락한 가운데, 일부 종목은 시장과 반대로 강하게 올랐습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>순위</th>
+      <th>종목명</th>
+      <th>거래대금</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>SK하이닉스</td>
+      <td>8.5조원</td>
+      <td>-6.73%</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>삼성전자</td>
+      <td>5.5조원</td>
+      <td>-3.85%</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>삼성전기</td>
+      <td>7,700억원</td>
+      <td>-4.93%</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>SK스퀘어</td>
+      <td>5,743억원</td>
+      <td>-8.17%</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>삼성전자우</td>
+      <td>5,142억원</td>
+      <td>-5.02%</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>두산에너빌리티</td>
+      <td>4,324억원</td>
+      <td>-4.41%</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>엑스게이트</td>
+      <td>2,781억원</td>
+      <td><strong>+5.73%</strong></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>광전자</td>
+      <td>2,711억원</td>
+      <td><strong>+30.0%</strong></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>한화에어로스페이스</td>
+      <td>2,481억원</td>
+      <td><strong>+4.44%</strong></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>한전기술</td>
+      <td>2,364억원</td>
+      <td>-10.0%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>거래대금 최상위인 SK하이닉스·삼성전자가 나란히 -6~7%대로 크게 빠지며 지수 하락을 이끌었고, 그 사이 광전자(+30.0%)·엑스게이트(+5.73%)·한화에어로스페이스(+4.44%)처럼 시장과 무관하게 강세를 보인 종목도 섞여 있었습니다.</p>
+
+<p>테마별로는 하락장 속에서도 일부 테마의 종목 상승 비율이 눈에 띄었습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>순위</th>
+      <th>테마</th>
+      <th>상승 종목 수 / 전체</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>귀금속(금/은)</td>
+      <td>2 / 4</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>광통신(광케이블/광섬유 등)</td>
+      <td>9 / 15</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>딥페이크</td>
+      <td>13 / 14</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>양자암호/양자컴퓨팅</td>
+      <td>19 / 26</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>보안주(정보)</td>
+      <td>37 / 52</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>블록체인</td>
+      <td>14 / 23</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>특히 딥페이크(13/14), 보안주(37/52), 양자암호/양자컴퓨팅(19/26) 테마는 소속 종목 대다수가 오른 것으로 나타나, 지수 하락과는 결이 다른 흐름을 보였습니다.</p>
+
+<h2 id="급락장에서-ai가-고른-종목은">급락장에서 AI가 고른 종목은?</h2>
+
+<p>오늘 최종 선별 결과의 전체 판단은 “코스피가 3% 넘게 급락하는 하락장에서 외국인이 대규모로 팔고, 금리 인상 수혜 은행주로 방어 자금이 집중되는 국면”으로 기록됐습니다. 등급은 신중하게 접근해야 하는 경계 구간(위험 신호 등급)으로 분류됐습니다.</p>
+
+<p>오늘 선별된 종목은 <strong>우리금융지주</strong> 1건입니다.</p>
+
+<blockquote>
+  <p>코스피가 3% 넘게 급락하는 하락장에서 금리 인상 수혜 기대로 외국인과 기관이 함께 대량 매수하고 프로그램 자금까지 들어온 은행 대장주라, 갭 상승 전략으로 기록됐습니다.</p>
+</blockquote>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>항목</th>
+      <th>수치</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>기본</td>
+      <td>AI 기록상 종가 / 등락률</td>
+      <td>36,750원 / <strong>+4.7%</strong></td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>거래대금 / 시가총액</td>
+      <td>1,854억원 / 27.1조원</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>주도 테마 / 테마 내 순위</td>
+      <td>은행 / 1위</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>RSI / 거래량 배수(RVOL) / 이평 수렴도</td>
+      <td>67.2 / 1.5배 / +0.07%</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>52주 신고가 / 거래량 흐름(OBV)</td>
+      <td>아님 / 중립</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>외국인 순매수 / 기관 순매수</td>
+      <td>+37만 주 / +8만 주</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>호가 신호</td>
+      <td>매수벽 약함</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>2026년 3분기 영업이익</td>
+      <td>1.4조원</td>
+    </tr>
+    <tr>
+      <td>점수</td>
+      <td>AI 종합 점수</td>
+      <td>43점</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>코스피가 3% 넘게 빠진 날, 우리금융지주는 오히려 <strong>+4.7%</strong> 상승 마감했습니다. 외국인·기관 수급이 동시에 순매수 방향을 가리켰고, 은행 테마 안에서도 순위 1위를 기록한 종목입니다. RSI 67.2는 다소 힘이 실린 구간이고, 이평선 수렴도가 +0.07%로 거의 붙어 있어 단기 추세 방향이 뚜렷하지 않은 상태이기도 합니다.</p>
+
+<p><strong>개인적으로 눈에 띈 건</strong> 지수 전체가 -3.26%로 무너진 날, 유일하게 선별된 종목이 하락 방어주 성격의 은행주였다는 점입니다. 급락장에서는 오르는 종목보다 “왜 그 종목만 버텼는가”를 보는 게 더 중요한 것 같습니다. 오늘처럼 금리 이슈가 얽힌 날은 특히 그렇습니다.</p>
+
+<h2 id="오늘을-어떻게-기록할-것인가">오늘을 어떻게 기록할 것인가</h2>
+
+<p>한 줄로 정리하면, 오늘은 코스피·코스닥이 동반 급락하고 외국인·기관이 동시에 물량을 던진 가운데, 개인이 그 물량을 받아내고 은행주로 방어 자금이 쏠린 하루였습니다. 대형 반도체주가 낙폭을 키운 반면 일부 테마(딥페이크·보안주·양자암호)는 상승 종목이 더 많았던 것도 특징이었습니다.</p>
+
+<p>“시장이 흔들릴 때 무엇이 버텼는지를 기록해두면, 다음에 비슷한 국면이 왔을 때 참고할 수 있는 자산이 됩니다.” 오늘 기록도 그런 마음으로 남겨둡니다.</p>
+
+<p>오늘 시장, 여러분은 어떻게 보셨나요? 댓글로 의견 나눠주세요 🙌</p>
+
+<p>#코스피 #우리금융지주 #은행주 #외국인순매도 #SK하이닉스 #양자암호 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[오늘은 코스피가 하루 만에 3% 넘게 빠진 날이었습니다 😥 지수가 크게 흔들릴 때일수록 “무엇이 버텼는지”를 살펴보는 게 의미가 있는데요, 오늘은 은행주 한 종목이 하락장 한가운데서 눈에 띄게 올랐습니다. 오늘 하루 시장 흐름과 AI 선별 결과를 정리해 드립니다.]]></summary></entry><entry><title type="html">극악의 급락장에서 은행주 방어 강세 — 외국인·기관 동시 매수한 우리금융지주</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/14/nt2-1505-snapshot/" rel="alternate" type="text/html" title="극악의 급락장에서 은행주 방어 강세 — 외국인·기관 동시 매수한 우리금융지주" /><published>2026-09-14T15:05:00+09:00</published><updated>2026-09-14T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/14/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/14/nt2-1505-snapshot/"><![CDATA[<p>코스피가 3%를 넘게 내려가는 심각한 하락장 속에서도 <strong>금리 인상 수혜 은행주가 방어 자금의 중심</strong>이 되고 있습니다. 우리금융지주는 오늘 <strong>+4.7% 상승</strong>으로 이 흐름을 가장 잘 보여주는 종목입니다. 📊</p>
 
 <h2 id="시장은-약세-은행주는-강세">시장은 약세, 은행주는 강세</h2>
 
@@ -1760,124 +2029,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <hr />
 
-<p>#대한광통신 #AI광통신 #광통신주 #수급분석 #투자경고종목 #테마주 #기관매수 #종가베팅 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[도입부]]></summary></entry><entry><title type="html">금리 결정 대기 속 미국 약세 — 오늘 CPI가 시장의 향방을 가른다</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/11/0600-briefing/" rel="alternate" type="text/html" title="금리 결정 대기 속 미국 약세 — 오늘 CPI가 시장의 향방을 가른다" /><published>2026-09-11T06:00:00+09:00</published><updated>2026-09-11T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/11/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/11/0600-briefing/"><![CDATA[<h2 id="한-주가-막혔습니다">한 주가 막혔습니다</h2>
-
-<p>간밤 미국 지수 4개가 동시 하락했습니다. 다우 −0.60%, S&amp;P500 −0.58%, 나스닥 −0.65%, 특히 필라델피아 반도체는 −2.66%로 하락했습니다. VIX는 8.38% 급등하며 변동성 확대를 알렸습니다. 국내는 코스피 −0.25%, 코스닥 +0.79%로 엇갈렸습니다.</p>
-
-<p>오늘의 핵심은 하나입니다. <strong>21:30 CPI 발표 전까지 모든 시장이 대기 중</strong>입니다.</p>
-
-<h2 id="-어제09-10-ai-선별-복기--변동성-속-선별이었습니다">📋 어제(09-10) AI 선별 복기 — 변동성 속 선별이었습니다</h2>
-
-<p>어제 AI는 신중 구간에서 최종 1개, 저녁 1개, 탐색 1개를 선별했고, 이월 포지션 1개를 모니터링했습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>슬롯</th>
-      <th>어제 전략</th>
-      <th>결과</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>대한광통신</strong></td>
-      <td>—</td>
-      <td>09-09 이월 보유 중</td>
-      <td>시초가 갭 확인 후 대응 필요 (위험: 미국 약세 + CPI 변동성)</td>
-    </tr>
-    <tr>
-      <td><strong>주성엔지니어링</strong></td>
-      <td>15:10 최종</td>
-      <td>갭 트레이드</td>
-      <td>반도체 매도 압박으로 갭 약화, 오늘 관망 판단</td>
-    </tr>
-    <tr>
-      <td><strong>SK이노베이션</strong></td>
-      <td>19:10 선별</td>
-      <td>갭 트레이드</td>
-      <td>저녁 갭 <strong>+0.78%</strong> 확보 (정유 테마 2위 자금점유)</td>
-    </tr>
-    <tr>
-      <td><strong>한미반도체</strong></td>
-      <td>12:10 탐색</td>
-      <td>탐색 후보</td>
-      <td>저녁 갭 <strong>−2.5%</strong> (반도체 장비 부담)</td>
-    </tr>
-  </tbody>
-</table>
-
-<p><strong>해석</strong>: 어제는 정유(유가 100달러 돌파)와 통신 섹터에서 조건이 있었으나, 필라반도체 약세가 관련 테마 전반을 압박했습니다. ⚠️ 미국 4일 연속 하락이 확인된 시점이었기에 <strong>매우 신중했어야 했는데</strong>, SK이노베이션 저녁 갭은 정유 테마의 유가 수혜가 아직 지속되고 있음을 보여줍니다.</p>
-
-<h2 id="전일-국내-수급--외국인-대량-이탈-신호">전일 국내 수급 — 외국인 대량 이탈 신호</h2>
-
-<p>어제 외국인은 <strong>−4.0조원 순매도</strong>, 기관 +1.4조원 순매수, 개인 +1.0조원 순매수로 엇갈렸습니다. 외국인의 대량 이탈이 기관과 개인의 매수로 간신히 지탱되는 구도였습니다.</p>
-
-<p>상위 섹터는 콩/대두 +14.45%, LPG +3.35%, LED장비 +2.81%로, 인플레 회피 및 에너지 테마가 주도했습니다.</p>
-
-<h2 id="간밤-미국-시장--인플레금리-공포-확산">간밤 미국 시장 — 인플레·금리 공포 확산</h2>
-
-<p><strong>지수별 약세 원인:</strong></p>
-
-<ul>
-  <li><strong>다우존스</strong> −0.60% / 나스닥 100 −1.08%: 금리인상 우려로 성장주·기술주 부담</li>
-  <li><strong>나스닥 종합</strong> −0.65% / S&amp;P500 −0.58%: 광범위한 약세 (약세 마감 확인)</li>
-  <li><strong>필라델피아 반도체</strong> −2.66%: 고금리 환경에서 반도체 자본지출 둔화 우려</li>
-  <li><strong>VIX</strong> +8.38%: 장중 상승분을 유지한 채 마감 — 위험회피 심리 확대</li>
-</ul>
-
-<p>10년물 금리는 4.96%로 5% 눈앞까지 상승했고, PPI(생산자물가)가 예상치를 상회하면서 <strong>9월 금리인상 확률은 73%까지 높아졌습니다.</strong> 유가 104달러(+1.5%) 급등도 인플레 압박을 가중했습니다.</p>
-
-<h2 id="오늘의-핵심-뉴스--세-가지-변수">오늘의 핵심 뉴스 — 세 가지 변수</h2>
-
-<p><strong>1. CPI 발표 (21:30) — 최고 중요도</strong></p>
-<ul>
-  <li>예상: 0.4% (월간 기준), 3.4% (전년도 기준)</li>
-  <li>현재 시장 기대는 ‘예상대로 또는 하회’인데, 상회 시 긴축 공포가 확산할 수 있습니다</li>
-  <li>이는 내일(다음 주 월요일) 국내 시장 갭을 좌우할 결정 변수입니다</li>
-</ul>
-
-<p><strong>2. 유가 100달러 돌파 — 이중 검 효과</strong></p>
-<ul>
-  <li>정유·화학 테마 자금 흡수 (SK이노베이션 저녁 갭 +0.78%)</li>
-  <li>항공, 운송업 비용 부담 우려 (어제 다우운송 겨우 −0.05% 방어)</li>
-</ul>
-
-<p><strong>3. KRX 애프터마켓 14일 개장 예정</strong></p>
-<ul>
-  <li>NXT 와의 경쟁 구도 시작</li>
-  <li>증권사 수수료 전쟁 (자산운용사 2분기 순익 2.7조원 급증)</li>
-</ul>
-
-<h2 id="오늘의-베팅-등급-신중-구간">오늘의 베팅 등급: 신중 구간</h2>
-
-<p><strong>등급</strong>: 신중 구간 / <strong>심리 지수</strong>: 28/100 (약세)</p>
-
-<p><strong>AI 전략</strong>: “미국 지수 4일 연속 하락과 유가 100달러 돌파, 10년물 금리 5% 근접으로 위험 국면. 오늘 21:30 CPI 발표가 9월 금리인상 확률을 최종 결정할 변수이며, <strong>발표 전까지 관망 우위</strong>.”</p>
-
-<p><strong>대응</strong>:</p>
-<ul>
-  <li><strong>보유 종목</strong> (SK이노베이션 등): 시초가 갭 확인 후, 저녁 고점이 유지되는지 모니터링 대상입니다. 반도체 연쇄 약세가 정유 테마까지 번질 경우 갭 축소 가능성이 관찰됩니다.</li>
-  <li><strong>신규 진입</strong>: CPI 발표 이전까지는 관망 우위 구간으로 파악됩니다.</li>
-</ul>
-
-<h2 id="주목할-변수">주목할 변수</h2>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>✓ 21:30 CPI 발표 (MoM 0.4% 예상, 상회 시 위험)
-✓ 시초가 갭 방향 — 보유 종목 손익분기 결정
-✓ 반도체·정유 테마 자금 흐름 (상충?)
-✓ 외국인 매도세 지속 여부 (어제 −4.0조원)
-✓ VIX 18 돌파 시 추가 하락 경계
-</code></pre></div></div>
-
-<h2 id="결론-발표-전까지-기다리는-시간">결론: 발표 전까지 기다리는 시간</h2>
-
-<p>오늘은 시장이 답을 주는 날이 아닙니다. <strong>21:30 CPI 발표가 모든 것을 결정할 때까지</strong> 관망 우위 국면으로 파악됩니다.</p>
-
-<p>보유 종목이 있다면 시초가 반응과 손익분기 대비 흐름이 관찰 포인트입니다. 오늘 새벽 발행된 이 글이 확정 방향은 아니기에, 장 시작 직후 시초가 갭 실적을 대조하며 읽어주세요.</p>
-
-<p>다음 주 월요일, 시장이 진정된 후 다시 기둥을 찾겠습니다. 오늘 하루 어떻게 버티셨는지 댓글로 공유해주세요.</p>
-
-<hr />
-
-<p>#NextTheme #종가베팅 #CPI발표 #금리인상 #위험회피 #정유테마</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[한 주가 막혔습니다]]></summary></entry></feed>
+<p>#대한광통신 #AI광통신 #광통신주 #수급분석 #투자경고종목 #테마주 #기관매수 #종가베팅 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[도입부]]></summary></entry></feed>
