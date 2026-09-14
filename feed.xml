@@ -1,4 +1,173 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-14T23:35:30+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 3% 넘게 급락한 하루, 방어 자금은 은행주로 — 오늘 시장 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/14/daily/" rel="alternate" type="text/html" title="코스피 3% 넘게 급락한 하루, 방어 자금은 은행주로 — 오늘 시장 정리" /><published>2026-09-14T21:00:00+09:00</published><updated>2026-09-14T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/14/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/14/daily/"><![CDATA[<p>오늘은 코스피가 하루 만에 3% 넘게 빠진 날이었습니다 😥 지수가 크게 흔들릴 때일수록 “무엇이 버텼는지”를 살펴보는 게 의미가 있는데요, 오늘은 은행주 한 종목이 하락장 한가운데서 눈에 띄게 올랐네요. 오늘 하루 시장 흐름과 AI 선별 결과를 정리해 드리겠습니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-15T06:08:58+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">반도체 급락장, 내일 소매판매가 촉매 — 오늘은 신경 써야 할 시간</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/15/0600-briefing/" rel="alternate" type="text/html" title="반도체 급락장, 내일 소매판매가 촉매 — 오늘은 신경 써야 할 시간" /><published>2026-09-15T06:00:00+09:00</published><updated>2026-09-15T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/15/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/15/0600-briefing/"><![CDATA[<h2 id="아침-분위기-요약">아침 분위기 요약</h2>
+
+<p>간밤 미국장에서 반도체 <strong>-5.86%</strong> 급락, 미국 10년물 금리 <strong>5% 돌파</strong>, VIX <strong>7.95% 급등</strong>. AI 속도조절론과 금리 인상 전망 확대로 투자 심리가 위축된 하루입니다.</p>
+
+<h2 id="어제-ai-선별-복기">어제 AI 선별 복기</h2>
+
+<p>어제는 금리 인상 수혜주(은행·금) + 안전자산으로 총 <strong>4개 종목 선별</strong>(최종 1, NXT 1, 탐색 1, 이월 1)이었습니다. 저녁 애프터마켓에서 부분적 조정이 관찰되었습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목명</th>
+      <th>슬롯</th>
+      <th>어제 전략</th>
+      <th>오늘 결과</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>우리금융지주</td>
+      <td>15:10 최종</td>
+      <td>금리 수혜 정조</td>
+      <td>종가 대비 저녁 저점 <strong>-1.36%</strong> 기록</td>
+    </tr>
+    <tr>
+      <td>영풍</td>
+      <td>19:10 선별</td>
+      <td>금 안전자산 수요</td>
+      <td>저녁 <strong>0.0%</strong> 보합 유지</td>
+    </tr>
+    <tr>
+      <td>드림시큐리티</td>
+      <td>10:10 탐색</td>
+      <td>양자 테마 후보</td>
+      <td>저녁 <strong>-8.56%</strong> 급락 (모멘텀 소진)</td>
+    </tr>
+    <tr>
+      <td>대한광통신</td>
+      <td>(이월 보유)</td>
+      <td>—</td>
+      <td>외국인 이탈 우려로 갭하락 리스크 관찰 필요</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>⚠️ <strong>대한광통신</strong>: 미국 약세 + 외국인 4조원 순매도로 갭하락 리스크 존재. 평단(14,950원) 대비 현재가 방향 확인 필수.</p>
+
+<p>⚠️ <strong>드림시큐리티</strong>: 저녁 <strong>-8.56%</strong> 급락으로 양자·보안 테마 모멘텀이 소진. 오늘 신규 진입은 보류.</p>
+
+<p><strong>어제 contraryScenario 재해석</strong>: “금리 인상 전망 완화 시 반등 가능”이었으나, 실제로는 미국 10년물이 5% 돌파하며 정반대 방향 진행. 리스크 시나리오가 현실화되었습니다.</p>
+
+<hr />
+
+<h2 id="전일-국내-수급-동향">전일 국내 수급 동향</h2>
+
+<p>외국인이 <strong>-4.0조원</strong> 순매도로 일제 이탈. 기관도 <strong>-1.8조원</strong> 순매도. 개인만 <strong>+4.4조원</strong> 순매수로 극단적 대비.</p>
+
+<p><strong>상위 섹터</strong>: 딥페이크(+6.96%) · 귀금속(+6.48%) · 광통신(+5.47%)이 강세. 즉, <strong>AI 약세 → 방어 자산·기술 보안</strong>으로 자금 이동 중.</p>
+
+<hr />
+
+<h2 id="간밤-미국-시장-요약">간밤 미국 시장 요약</h2>
+
+<p>필라델피아 반도체 <strong>-5.86%</strong> 급락이 가장 충격적입니다.</p>
+
+<ul>
+  <li><strong>다우존스</strong>: -0.29% (혼조)</li>
+  <li><strong>S&amp;P 500</strong>: -0.48% (약세)</li>
+  <li><strong>나스닥 종합</strong>: -0.56%, <strong>나스닥 100</strong>: -0.82% (기술주 약세 심화)</li>
+  <li><strong>VIX</strong>: +7.95% 급등(갭상승 후 되밀림)</li>
+</ul>
+
+<p><strong>주도 원인</strong>: 앤트로픽·템퍼스AI CEO의 <strong>AI 속도조절론</strong> 촉구로 반도체 수요 둔화 우려. 엔비디아·SK하이닉스 등 반도체 대형주까지 동반 약락했습니다.</p>
+
+<p><strong>미국 10년물 금리</strong>: <strong>4.996%</strong> → <strong>5% 돌파</strong>. 2023년 이후 처음. 이는 기업·가계 자금조달 비용 상승, 주식 밸류에이션 압박을 의미합니다.</p>
+
+<hr />
+
+<h2 id="오늘의-핵심-뉴스">오늘의 핵심 뉴스</h2>
+
+<p><strong>1. AI 개발 속도조절론 확산</strong> (MUST_KNOW)</p>
+<ul>
+  <li>안전 우려로 AI 개발 속도를 늦추자는 주장 대두 → 반도체 수요 둔화 신호</li>
+  <li>삼성전자·SK하이닉스 외국인 수급이 반전될 때까지 약세 지속 가능</li>
+</ul>
+
+<p><strong>2. 미국 10년물 금리 5% 돌파</strong> (MUST_KNOW)</p>
+<ul>
+  <li>심리적 저항선 붕괴. 금리 인상 전망이 90%까지 상승</li>
+  <li><strong>내일 21:30 미국 소매판매</strong> 발표가 추가 압력 요인 가능</li>
+</ul>
+
+<p><strong>3. 유가 102달러 상승</strong></p>
+<ul>
+  <li>중동 지정학적 불안(사우디 에너지 시설 공격 우려) → 인플레 재점화 리스크</li>
+  <li>정유·화학은 수혜, 항공주는 비용 부담 확대</li>
+</ul>
+
+<p><strong>4. SK하이닉스 3대 수급 주체 동시 순매도</strong> (RARE SIGNAL)</p>
+<ul>
+  <li>개인·외국인·기관 모두 매도는 드문 현상. 반도체 약세 심각성을 드러냄</li>
+</ul>
+
+<p><strong>5. KRX 애프터마켓 개장 첫날 성공</strong></p>
+<ul>
+  <li>1.8조원 거래로 순조로운 출발. 저녁 유동성 경쟁 본격화</li>
+</ul>
+
+<hr />
+
+<h2 id="오늘의-베팅-등급--전략">오늘의 베팅 등급 &amp; 전략</h2>
+
+<p><strong>등급: 신중 구간 · 감정점수: 25/100 (약세 신호)</strong></p>
+
+<p><strong>AI 분석</strong>: 미국 10년물 금리 5% 돌파 + AI 속도조절론으로 반도체 5.9% 급락 + 외국인 4조원 순매도 → <strong>위험 국면(리스크 우위)</strong>.</p>
+
+<p><strong>권고</strong>: 신규 진입 보류. 보유 종목은 시초가 갭 방향 확인 후 <strong>기존 평단 기준으로 대응</strong> 지속. 내일 21:30 미국 소매판매 발표 통과까지 <strong>신경 써야 할 시간</strong>입니다.</p>
+
+<hr />
+
+<h2 id="오늘-확인할-변수">오늘 확인할 변수</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>항목</th>
+      <th>확인 시점</th>
+      <th>의미</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>삼성전자·SK하이닉스 외국인 수급</td>
+      <td>09:00~15:30</td>
+      <td>반도체 약세 반전 신호 (또는 추가 악화)</td>
+    </tr>
+    <tr>
+      <td>은행주 강세 지속</td>
+      <td>개장 후 1시간</td>
+      <td>금리 수혜 지속성 판단 (우리금융지주 등)</td>
+    </tr>
+    <tr>
+      <td>정유·화학 vs 항공주</td>
+      <td>장중</td>
+      <td>유가 상승에 따른 섹터 분기</td>
+    </tr>
+    <tr>
+      <td>장중 미국 선물</td>
+      <td>08:00~16:00</td>
+      <td>국내 시장 방향성 신호</td>
+    </tr>
+    <tr>
+      <td><strong>내일 21:30 미국 소매판매 발표</strong></td>
+      <td>내일 21:30</td>
+      <td>금리 인상 전망 추가 확대 여부 판단</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="결론">결론</h2>
+
+<p>간밤 반도체 급락과 금리 5% 돌파는 <strong>단순 조정이 아니라 구조적 심각성</strong>을 시사합니다. 외국인 4조원 순매도로 자금이 가파르게 빠져나가고 있습니다.</p>
+
+<p>오늘은 <strong>새로 들어가기보다 가진 것을 잘 지키는 날</strong>. 평단 이탈 여부와 내일 미국 소매판매 방향이 <strong>핵심 변곡점</strong>입니다. 시초가 갭을 확인하고 나서 판단하세요.</p>
+
+<p>궁금한 종목이 있으면 댓글로 남겨주세요. 함께 흐름을 읽겠습니다.</p>
+
+<p>#NextTheme #종가베팅 #반도체약세 #금리인상 #외국인순매도 #미국시장 #금리5프로 #신중구간</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[아침 분위기 요약]]></summary></entry><entry><title type="html">코스피 3% 넘게 급락한 하루, 방어 자금은 은행주로 — 오늘 시장 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/14/daily/" rel="alternate" type="text/html" title="코스피 3% 넘게 급락한 하루, 방어 자금은 은행주로 — 오늘 시장 정리" /><published>2026-09-14T21:00:00+09:00</published><updated>2026-09-14T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/14/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/14/daily/"><![CDATA[<p>오늘은 코스피가 하루 만에 3% 넘게 빠진 날이었습니다 😥 지수가 크게 흔들릴 때일수록 “무엇이 버텼는지”를 살펴보는 게 의미가 있는데요, 오늘은 은행주 한 종목이 하락장 한가운데서 눈에 띄게 올랐네요. 오늘 하루 시장 흐름과 AI 선별 결과를 정리해 드리겠습니다.</p>
 
 <h2 id="이전에-선별했던-종목-오늘-아침-결과는-어땠을까">이전에 선별했던 종목, 오늘 아침 결과는 어땠을까?</h2>
 
@@ -1952,81 +2121,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가베팅 #복기일지 #20260910 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-09-11 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">대한광통신, 지금 매수해도 될까 — 수급·차트 심층 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/11/0827-detail-010170-detail/" rel="alternate" type="text/html" title="대한광통신, 지금 매수해도 될까 — 수급·차트 심층 분석" /><published>2026-09-11T08:27:00+09:00</published><updated>2026-09-11T08:27:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/11/0827_detail_010170-detail</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/11/0827-detail-010170-detail/"><![CDATA[<h2 id="도입부">도입부</h2>
-
-<p>오늘 09시 11분 분석 기준으로 <strong>대한광통신(010170)</strong>의 현재 상황을 살펴봅니다. 이 종목은 최근 AI 데이터센터 초고속망 테마에 편승하면서 투자자들의 관심이 높아진 상태입니다. 다만 투자경고종목이라는 꼬리표가 계속 따라다니고 있어 신중한 접근이 필요한 종목이기도 합니다.</p>
-
-<h2 id="현재-가격--수급-흐름">현재 가격 &amp; 수급 흐름</h2>
-
-<p><strong>현재가는 14,740원</strong>입니다. 분석 시점이 시초가 직후이기 때문에 아직 거래량이 많지 않지만, 수급 방향은 명확하게 갈리고 있습니다.</p>
-
-<p><strong>어제 수급을 보면:</strong></p>
-<ul>
-  <li><strong>외국인: -57만 주 순매도</strong> — 강한 매도세</li>
-  <li><strong>기관: +24만 주 순매수</strong> — 적극적 매수</li>
-</ul>
-
-<p>이것은 흥미로운 신호입니다. 외국인이 팔고 있는데 기관이 사들이고 있다는 뜻이거든요. 기관의 수급 흐름이 더 중요한데, <strong>지난 3거래일 연속으로 기관이 순매수</strong>를 이어가고 있습니다. 이는 기관이 이 종목에 실제로 관심을 두고 있다는 신호입니다.</p>
-
-<p>지난 2주간의 더 넓은 맥락을 보면:</p>
-<ul>
-  <li>8월 27일 외국인이 315만 주를 한 번에 샀던 강한 매수 이후, 그들은 계속 빠져나가는 중입니다.</li>
-  <li>반면 기관은 최근 들어 착실하게 사들이고 있는 패턴입니다.</li>
-</ul>
-
-<h2 id="차트-위치-분석">차트 위치 분석</h2>
-
-<p>이 종목의 차트는 <strong>시간축에 따라 다른 신호</strong>를 보내고 있습니다.</p>
-
-<ul>
-  <li><strong>일봉(단기): 상승 흐름</strong> — 가장 최근 추세는 위로 향하고 있습니다.</li>
-  <li><strong>주봉(중기): 하락 흐름</strong> — 하지만 더 넓은 주간 관점에서는 여전히 약한 상태입니다.</li>
-  <li><strong>월봉(장기): 상승 흐름</strong> — 한 달 단위로는 장기 강세 흐름 위에 있습니다.</li>
-</ul>
-
-<p>일봉은 강하지만 주봉은 약하다는 것은 <strong>단기 반등이 지속되지 않을 수도 있다</strong>는 신호입니다. 이를 “다이버전스”라고 부르는데, 이럴 때는 언제 가격이 꺾일지 예측하기 어렵습니다.</p>
-
-<h2 id="뉴스-분석">뉴스 분석</h2>
-
-<p><strong>호재가 맞습니다.</strong> AI 데이터센터용 초고속망 수요가 급증하면서 통신장비와 광통신주가 함께 강세를 보이고 있는 상황입니다. 코스피 지수도 AI 기대감에 7000선을 회복했을 정도로 시장 전체가 호의적입니다.</p>
-
-<p><strong>그런데 주의할 점이 있습니다:</strong></p>
-
-<p>이 종목은 <strong>투자경고종목 지정과 해제를 반복해온 이력</strong>이 있습니다. 이는 단기에 주가가 급등락하는 특성이 있다는 뜻입니다. 다만 그 공시는 3주 이상 지났기 때문에 현재 가격에는 이미 반영되어 있을 가능성이 높습니다.</p>
-
-<h2 id="ai-종합-등급--결론">AI 종합 등급 &amp; 결론</h2>
-
-<p>이 종목은 <strong>3성 등급</strong>을 받았습니다. AI 분석이 주목한 지표는 다음과 같습니다:</p>
-
-<p><strong>긍정적으로 관찰된 지표:</strong></p>
-<ul>
-  <li>기관이 3일 연속 매수 중</li>
-  <li>일봉에서 상승 흐름</li>
-  <li>재무 상태가 흑자로 전환 중(2023-2025년의 적자에서 2026년 흑자로 변화)</li>
-</ul>
-
-<p><strong>반면 함께 나타난 유의 지표:</strong></p>
-<ul>
-  <li>베팅등급은 신중(관망) 구간으로 집계됐습니다. 비중을 보수적으로 접근하는 흐름과 맞물린 구간으로 해석됩니다.</li>
-  <li>주봉이 여전히 약세(하락 흐름) 상태입니다.</li>
-  <li>테마 호재는 긍정적이지만, 이것만으로는 중장기 상승을 보장하지 못합니다.</li>
-</ul>
-
-<p><strong>투자자의 심리는 맑음☀️으로 집계됐습니다.</strong> 시장 분위기 자체는 우호적이라는 의미입니다.</p>
-
-<h2 id="결론--실전-전략">결론 &amp; 실전 전략</h2>
-
-<p><strong>종합적으로 보면:</strong> 이 종목은 단기 반등 흐름이 나타나고 있지만, 투자경고종목이라는 특성상 <strong>급등과 급락이 동시에 일어날 수 있다</strong>는 점을 무시할 수 없습니다.</p>
-
-<p><strong>주목해서 지켜볼 지점:</strong></p>
-<ol>
-  <li><strong>변동성 구간</strong> — 한 번에 크게 움직이는 구간이 반복될 수 있는 종목 특성이 있습니다.</li>
-  <li><strong>가격 흐름 변화</strong> — 예상 범위를 벗어나는 구간이 나타나는지가 관전 포인트입니다.</li>
-  <li><strong>테마 흐름</strong> — AI 수요 관련 이야기가 계속 이어지는지가 관건입니다.</li>
-</ol>
-
-<p>궁금한 점이나 다른 종목에 대해 알고 싶으신 부분이 있으면 댓글로 남겨주세요. 이웃 추가도 언제든 환영합니다!</p>
-
-<hr />
-
-<p>#대한광통신 #AI광통신 #광통신주 #수급분석 #투자경고종목 #테마주 #기관매수 #종가베팅 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[도입부]]></summary></entry></feed>
+<p>#종가베팅 #복기일지 #20260910 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-09-11 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
