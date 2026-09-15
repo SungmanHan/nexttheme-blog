@@ -1,25 +1,25 @@
 {
-  "lastTradingDay" : "2026-09-14",
-  "totalDays" : 89,
+  "lastTradingDay" : "2026-09-15",
+  "totalDays" : 90,
   "summary" : {
-    "tradingDays" : 89,
+    "tradingDays" : 90,
     "sectorCount" : 16,
-    "upDays" : 81,
+    "upDays" : 82,
     "avgChangeRate" : 5.72,
     "topSector" : "반도체·AI인프라",
     "topSectorDays" : 21
   },
   "now" : {
-    "date" : "2026-09-14",
+    "date" : "2026-09-15",
     "bettingGrade" : "RED",
-    "regimeTag" : "RED_ALL_DOWN",
+    "regimeTag" : "RED_EXHAUST",
     "themeRegime" : "THEME_LED",
-    "marketSignal" : "약세",
-    "kospi" : -3.26,
-    "kosdaq" : -1.69,
-    "leadTheme" : "광통신(광케이블/광섬유 등)",
-    "leadChangeRate" : 5.98,
-    "themePremium" : 9.24
+    "marketSignal" : "혼조",
+    "kospi" : -0.85,
+    "kosdaq" : 0.7,
+    "leadTheme" : "양자암호/양자컴퓨팅",
+    "leadChangeRate" : 5.38,
+    "themePremium" : 6.23
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
@@ -28,7 +28,7 @@
   }, {
     "sector" : "자동차·2차전지",
     "rank1Days" : 12,
-    "top3Days" : 24
+    "top3Days" : 25
   }, {
     "sector" : "조선·해운",
     "rank1Days" : 7,
@@ -54,17 +54,17 @@
     "rank1Days" : 3,
     "top3Days" : 14
   }, {
+    "sector" : "로봇·AI소프트웨어",
+    "rank1Days" : 3,
+    "top3Days" : 11
+  }, {
     "sector" : "소비재·유통",
     "rank1Days" : 3,
     "top3Days" : 11
   }, {
-    "sector" : "로봇·AI소프트웨어",
-    "rank1Days" : 3,
-    "top3Days" : 10
-  }, {
     "sector" : "매크로·기타",
-    "rank1Days" : 6,
-    "top3Days" : 9
+    "rank1Days" : 7,
+    "top3Days" : 10
   }, {
     "sector" : "통신·광통신",
     "rank1Days" : 4,
@@ -1700,6 +1700,25 @@
         "changeRate" : 6.1
       } ],
       "mainStock" : ""
-    }, null, null, null, null ] ]
+    }, {
+      "day" : 15,
+      "date" : "2026-09-15",
+      "theme" : "양자암호/양자컴퓨팅",
+      "sector" : "매크로·기타",
+      "changeRate" : 5.38,
+      "prevDay" : "CARRY",
+      "regime" : "THEME_LED",
+      "slot" : "15:00",
+      "kospi" : -0.85,
+      "themePremium" : 6.23,
+      "runners" : [ {
+        "theme" : "2차전지(생산)",
+        "changeRate" : 4.2
+      }, {
+        "theme" : "로봇(산업용/협동로봇 등)",
+        "changeRate" : 3.19
+      } ],
+      "mainStock" : ""
+    }, null, null, null ] ]
   } ]
 }
