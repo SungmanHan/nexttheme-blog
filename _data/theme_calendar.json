@@ -1,30 +1,30 @@
 {
-  "lastTradingDay" : "2026-09-16",
-  "totalDays" : 91,
+  "lastTradingDay" : "2026-09-17",
+  "totalDays" : 92,
   "summary" : {
-    "tradingDays" : 91,
+    "tradingDays" : 92,
     "sectorCount" : 16,
-    "upDays" : 83,
-    "avgChangeRate" : 5.72,
+    "upDays" : 84,
+    "avgChangeRate" : 5.74,
     "topSector" : "반도체·AI인프라",
     "topSectorDays" : 21
   },
   "now" : {
-    "date" : "2026-09-16",
+    "date" : "2026-09-17",
     "bettingGrade" : "RED",
     "regimeTag" : "RED_EXHAUST",
     "themeRegime" : "THEME_LED",
     "marketSignal" : "혼조",
-    "kospi" : 1.37,
-    "kosdaq" : 0.44,
-    "leadTheme" : "광통신(광케이블/광섬유 등)",
-    "leadChangeRate" : 6.22,
-    "themePremium" : 4.85
+    "kospi" : -0.04,
+    "kosdaq" : 0.76,
+    "leadTheme" : "우주항공산업(누리호/인공위성 등)",
+    "leadChangeRate" : 7.43,
+    "themePremium" : 7.47
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
     "rank1Days" : 21,
-    "top3Days" : 35
+    "top3Days" : 36
   }, {
     "sector" : "자동차·2차전지",
     "rank1Days" : 12,
@@ -79,8 +79,8 @@
     "top3Days" : 6
   }, {
     "sector" : "우주항공·방산",
-    "rank1Days" : 2,
-    "top3Days" : 5
+    "rank1Days" : 3,
+    "top3Days" : 6
   }, {
     "sector" : "디스플레이·LED",
     "rank1Days" : 2,
@@ -1738,6 +1738,25 @@
         "changeRate" : 3.64
       } ],
       "mainStock" : ""
-    }, null, null ] ]
+    }, {
+      "day" : 17,
+      "date" : "2026-09-17",
+      "theme" : "우주항공산업(누리호/인공위성 등)",
+      "sector" : "우주항공·방산",
+      "changeRate" : 7.43,
+      "prevDay" : "NEW",
+      "regime" : "THEME_LED",
+      "slot" : "15:00",
+      "kospi" : -0.04,
+      "themePremium" : 7.47,
+      "runners" : [ {
+        "theme" : "스페이스X(SpaceX)",
+        "changeRate" : 8.38
+      }, {
+        "theme" : "뉴로모픽 반도체",
+        "changeRate" : 8.3
+      } ],
+      "mainStock" : ""
+    }, null ] ]
   } ]
 }
