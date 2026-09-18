@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-18T20:08:09+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">SK하이닉스가 이끈 반도체 강세, 외국인·기관 수급으로 본 오늘 시장</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/18/nt2-1505-snapshot/" rel="alternate" type="text/html" title="SK하이닉스가 이끈 반도체 강세, 외국인·기관 수급으로 본 오늘 시장" /><published>2026-09-18T15:05:00+09:00</published><updated>2026-09-18T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/18/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/18/nt2-1505-snapshot/"><![CDATA[<p>오늘 코스피는 반도체와 전력장비, 건설 업종으로 외국인과 기관의 자금이 크게 몰리며 뜨거운 하루를 보냈습니다 🔥 다만 밤사이 국제유가가 배럴당 101달러까지 오른 점은 다음 세션에 부담이 될 수 있는 변수라 함께 짚어볼게요.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-18T20:33:09+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">SK하이닉스가 이끈 반도체 강세, 외국인·기관 수급으로 본 오늘 시장</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/18/nt2-1505-snapshot/" rel="alternate" type="text/html" title="SK하이닉스가 이끈 반도체 강세, 외국인·기관 수급으로 본 오늘 시장" /><published>2026-09-18T15:05:00+09:00</published><updated>2026-09-18T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/18/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/18/nt2-1505-snapshot/"><![CDATA[<p>오늘 코스피는 반도체와 전력장비, 건설 업종으로 외국인과 기관의 자금이 크게 몰리며 뜨거운 하루를 보냈습니다 🔥 다만 밤사이 국제유가가 배럴당 101달러까지 오른 점은 다음 세션에 부담이 될 수 있는 변수라 함께 짚어볼게요.</p>
 
 <h2 id="오늘-시장-한마디로-정리하면">오늘 시장, 한마디로 정리하면</h2>
 
@@ -12,7 +12,7 @@
 
 <h3 id="1️⃣-sk하이닉스--반도체-대장주에-쏠린-수급">1️⃣ SK하이닉스 — 반도체 대장주에 쏠린 수급</h3>
 
-<p>SK하이닉스는 오늘 <strong>5.85% 상승</strong>하며 반도체 업종 전체를 이끌었습니다. 외국인이 <strong>20만 주</strong>, 기관이 <strong>11만 주</strong>를 순매수하며 큰손들이 동시에 사들인 모습이 뚜렷했습니다. 미국 낸드 공장 검토 등 실적 관련 재료도 함께 부각됐습니다.</p>
+<p>SK하이닉스는 오늘 <strong>5.85% 상승</strong>하며 반도체 업종 전체를 이끌었습니다. 외국인 <strong>20만 주</strong>·기관 <strong>11만 주</strong> 순매수로 큰손들이 동시에 사들인 모습이 뚜렷했고, 미국 낸드 공장 검토 등 실적 재료도 함께 부각됐습니다.</p>
 
 <table>
   <thead>
@@ -36,7 +36,7 @@
     <tr>
       <td>기본</td>
       <td>주도 테마 / 테마내순위</td>
-      <td>반도체_생산 / 1위</td>
+      <td>반도체 생산 / 1위</td>
     </tr>
     <tr>
       <td>기술</td>
@@ -104,7 +104,7 @@
     <tr>
       <td>기본</td>
       <td>주도 테마 / 테마내순위</td>
-      <td>건설_해외건설 / 1위</td>
+      <td>건설·해외건설 / 1위</td>
     </tr>
     <tr>
       <td>기술</td>
@@ -218,7 +218,7 @@
 
 <p>세 종목을 관통하는 공통점은 <strong>외국인과 기관이 같은 날 같은 업종을 동시에 사들였다는 것</strong>입니다. 한쪽만 사는 것보다 두 주체가 함께 움직일 때 그 매수세가 우연이 아닐 가능성이 크다고 보는 것이 NextTheme 알고리즘의 기본 관점입니다. 여기에 거래대금 증가, 업종 내 순위(테마내순위), 매출 성장률 같은 재무 데이터까지 함께 확인해 종합 점수를 매깁니다.</p>
 
-<p>오늘 개인적으로 주목한 부분은, 반도체·건설·전력장비라는 서로 다른 업종에서 동시에 수급이 몰렸다는 점입니다. 특정 종목 하나의 이슈가 아니라 업종을 넘나드는 매수세라는 점에서, 시장 전반에 대한 큰손들의 시각이 우호적으로 바뀌고 있다는 신호로 읽을 여지가 있습니다. 다만 이는 어디까지나 오늘 데이터에 근거한 해석이며, 다음 세션에 유가 상승 같은 매크로 변수가 어떻게 작용할지는 별개의 문제입니다.</p>
+<p>오늘 개인적으로 주목한 부분은, 반도체·건설·전력장비라는 서로 다른 업종에서 동시에 수급이 몰렸다는 점입니다. 특정 종목 하나의 이슈가 아니라 업종을 넘나드는 매수세라는 점에서, 시장 전반에 대한 큰손들의 시각이 우호적으로 바뀌고 있다는 신호로 읽을 여지가 있는데, 다음 세션에 유가 상승 같은 매크로 변수가 어떻게 작용할지는 어디까지나 별개의 문제로 남습니다.</p>
 
 <h2 id="마무리">마무리</h2>
 
