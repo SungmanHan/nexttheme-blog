@@ -1,30 +1,30 @@
 {
-  "lastTradingDay" : "2026-09-17",
-  "totalDays" : 92,
+  "lastTradingDay" : "2026-09-18",
+  "totalDays" : 93,
   "summary" : {
-    "tradingDays" : 92,
+    "tradingDays" : 93,
     "sectorCount" : 16,
-    "upDays" : 84,
-    "avgChangeRate" : 5.74,
+    "upDays" : 85,
+    "avgChangeRate" : 5.73,
     "topSector" : "반도체·AI인프라",
     "topSectorDays" : 21
   },
   "now" : {
-    "date" : "2026-09-17",
-    "bettingGrade" : "RED",
-    "regimeTag" : "RED_EXHAUST",
-    "themeRegime" : "THEME_LED",
-    "marketSignal" : "혼조",
-    "kospi" : -0.04,
-    "kosdaq" : 0.76,
-    "leadTheme" : "우주항공산업(누리호/인공위성 등)",
-    "leadChangeRate" : 7.43,
-    "themePremium" : 7.47
+    "date" : "2026-09-18",
+    "bettingGrade" : "GREEN",
+    "regimeTag" : "GREEN",
+    "themeRegime" : "INDEX_LED",
+    "marketSignal" : "강세",
+    "kospi" : 2.66,
+    "kosdaq" : 0.6,
+    "leadTheme" : "휴대폰_수동부품",
+    "leadChangeRate" : 4.49,
+    "themePremium" : 1.83
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
     "rank1Days" : 21,
-    "top3Days" : 36
+    "top3Days" : 37
   }, {
     "sector" : "자동차·2차전지",
     "rank1Days" : 12,
@@ -32,14 +32,14 @@
   }, {
     "sector" : "전력·전선·신재생",
     "rank1Days" : 6,
+    "top3Days" : 20
+  }, {
+    "sector" : "전자부품·기판",
+    "rank1Days" : 7,
     "top3Days" : 19
   }, {
     "sector" : "조선·해운",
     "rank1Days" : 7,
-    "top3Days" : 18
-  }, {
-    "sector" : "전자부품·기판",
-    "rank1Days" : 6,
     "top3Days" : 18
   }, {
     "sector" : "정유·화학·원자재",
@@ -1757,6 +1757,25 @@
         "changeRate" : 8.3
       } ],
       "mainStock" : ""
-    }, null ] ]
+    }, {
+      "day" : 18,
+      "date" : "2026-09-18",
+      "theme" : "휴대폰_수동부품",
+      "sector" : "전자부품·기판",
+      "changeRate" : 4.49,
+      "prevDay" : "NEW",
+      "regime" : "INDEX_LED",
+      "slot" : "15:00",
+      "kospi" : 2.66,
+      "themePremium" : 1.83,
+      "runners" : [ {
+        "theme" : "반도체_생산",
+        "changeRate" : 3.18
+      }, {
+        "theme" : "스마트 그리드",
+        "changeRate" : 1.85
+      } ],
+      "mainStock" : "성호전자, 아모텍"
+    } ] ]
   } ]
 }
