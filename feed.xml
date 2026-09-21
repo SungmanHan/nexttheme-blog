@@ -1,4 +1,172 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-21T10:03:40+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">9/18 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/21/review-20260918-review/" rel="alternate" type="text/html" title="9/18 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-09-21T09:00:00+09:00</published><updated>2026-09-21T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/21/review_20260918-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/21/review-20260918-review/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-21T20:08:27+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">반도체 확산세, 대장주와 소부장 동반 강세 — 오늘 수급으로 본 내일 갭상승 준비</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/21/nt2-1505-snapshot/" rel="alternate" type="text/html" title="반도체 확산세, 대장주와 소부장 동반 강세 — 오늘 수급으로 본 내일 갭상승 준비" /><published>2026-09-21T15:05:00+09:00</published><updated>2026-09-21T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/21/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/21/nt2-1505-snapshot/"><![CDATA[<p>미국 반도체 강세에 한국 시장도 응했습니다. 코스피가 7000선을 되찾았고, 반도체 대형주와 그 주변 소부장이 동반 상승했으니까요. 오늘 거래대금도 몰렸습니다. 외국인과 기관이 함께 움직인 흐름입니다.</p>
+
+<h2 id="오늘-시장의-흐름">오늘 시장의 흐름</h2>
+
+<p>미국 반도체 산업의 견조한 신호가 한국 시장의 반도체 투자심리를 자극했습니다. 메모리·시스템반도체 업체들의 실적이 나아질 거란 기대감이 반영된 모습입니다. 외국인이 <strong>+229만 주</strong>(삼성전자)·<strong>+18만 주</strong>(하나마이크론)를 사들였고, 기관도 <strong>+143만 주</strong>와 <strong>+10만 주</strong>를 매수했습니다. 양쪽이 동시에 움직인다는 건 단순한 차익 거래가 아니라 실수급이 들어온다는 신호입니다.</p>
+
+<h2 id="핵심-선별-종목">핵심 선별 종목</h2>
+
+<h3 id="하나마이크론-소부장-강세의-대표주">하나마이크론: 소부장 강세의 대표주</h3>
+
+<p>하나마이크론은 오늘 <strong>+15.4%</strong> 급등했습니다. 거래대금도 평소의 5배를 넘는 <strong>2,589억원</strong>이 몰렸습니다.</p>
+
+<p>이 종목이 눈에 띄는 이유는 움직임의 ‘확산’에 있습니다. 반도체 대형주들의 강세가 단순히 그들 자신의 실적 개선에만 그치지 않고, 그 주변의 소부장(후공정)으로까지 번지고 있다는 뜻이니까요. 외국인과 기관이 동시에 <strong>+28만 주</strong>를 사들인 것도 그 확산을 확인하는 신호입니다. 오늘 거래량도 <strong>RVOL 4.36배</strong>로 평소보다 훨씬 활발했습니다.</p>
+
+<p><strong>분석 데이터</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>항목</th>
+      <th>수치</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>기본</td>
+      <td>종가 / 등락률</td>
+      <td>44,600원 / +15.4%</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>거래대금 / 시총</td>
+      <td>2,589억원 / 3.0조원</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>주도 테마 / 테마내순위</td>
+      <td>시스템반도체 / 4위</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>RSI / RVOL</td>
+      <td>69.3 / 4.36배</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>52주 신고가</td>
+      <td>아님</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>OBV</td>
+      <td>중립</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>외인 순매수 / 기관 순매수</td>
+      <td>+18만 주 / +10만 주</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>호가신호</td>
+      <td>매수벽 강함</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>YoY 매출성장</td>
+      <td>+49.2%</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>최근 분기</td>
+      <td>2026년 9월: 매출 6,452억원 / 영업이익 1,073억원</td>
+    </tr>
+    <tr>
+      <td>점수</td>
+      <td>AI 종합 점수</td>
+      <td>48점</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="삼성전자-반도체-대장주의-수급-집중">삼성전자: 반도체 대장주의 수급 집중</h3>
+
+<p>삼성전자는 오늘 <strong>+4.8%</strong> 올랐고, 거래대금이 무려 <strong>7.8조원</strong>에 달했습니다. 이는 단순한 등락률 수치 이상의 의미를 담고 있습니다.</p>
+
+<p>외국인이 하루에 <strong>+229만 주</strong>, 기관이 <strong>+143만 주</strong>를 매수했다는 건 ‘조용한 매수’가 아니라 ‘의도된 대량 매수’라는 뜻입니다. 호가창을 보면 매수 호가에 자금이 두껍게 쌓여 있었습니다. 이런 대규모 수급 유입이 내일 아침까지 이어질지는 지켜볼 대목이라는 분석입니다.</p>
+
+<p><strong>분석 데이터</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>항목</th>
+      <th>수치</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>기본</td>
+      <td>종가 / 등락률</td>
+      <td>273,500원 / +4.8%</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>거래대금 / 시총</td>
+      <td>7.8조원 / 1,596.0조원</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>주도 테마 / 테마내순위</td>
+      <td>반도체 대장주 테마(삼성전자/SK하이닉스 등) / 1위</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>RSI / RVOL</td>
+      <td>57.3 / 1.06배</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>52주 신고가</td>
+      <td>아님</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>OBV</td>
+      <td>중립</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>외인 순매수 / 기관 순매수</td>
+      <td>+229만 주 / +143만 주</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>YoY 매출성장</td>
+      <td>+137.9%</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>최근 분기</td>
+      <td>2026년 9월: 매출 204.8조원 / 영업이익 111.4조원</td>
+    </tr>
+    <tr>
+      <td>점수</td>
+      <td>AI 종합 점수</td>
+      <td>44점</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="왜-이-두-종목이-선택됐을까">왜 이 두 종목이 선택됐을까</h2>
+
+<p>반도체는 기술 트렌드와 실적 사이클이 겹치는 순간이 강한 모멘텀을 만듭니다. 오늘 미국 시장의 호재 신호가 한국 반도체 섹터 전체를 자극했고, 그 과정에서:</p>
+
+<ol>
+  <li><strong>대장주 삼성전자</strong>는 가장 많은 자금이 모이는 대형주로서 기관·외국인의 ‘확신’ 수급을 받았습니다.</li>
+  <li><strong>소부장 하나마이크론</strong>은 대형주의 강세가 얼마나 ‘광범위하게’ 확산되는지를 보여주는 증거가 됩니다.</li>
+</ol>
+
+<p>이 두 종목의 조합이 내일 시초가 갭상승으로 이어질지는 밤샘 해외 시장과 아침 뉴스에 달려 있습니다만, 오늘 하루 실제 수급의 일관성은 명확합니다.</p>
+
+<h2 id="마무리">마무리</h2>
+
+<p>오늘은 ‘반도체 강세의 확산’이라는 한 가지 흐름이 명확했던 날입니다. 이 흐름이 내일로도 이어질지, 어디까지 펼쳐질지는 아침에 다시 판단하면 됩니다. 댓글로 오늘 시장의 느낌을 나눠주세요. 🔌</p>
+
+<p>#NextTheme #종가베팅 #반도체 #삼성전자 #하나마이크론 #소부장 #수급분석</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[미국 반도체 강세에 한국 시장도 응했습니다. 코스피가 7000선을 되찾았고, 반도체 대형주와 그 주변 소부장이 동반 상승했으니까요. 오늘 거래대금도 몰렸습니다. 외국인과 기관이 함께 움직인 흐름입니다.]]></summary></entry><entry><title type="html">9/18 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/21/review-20260918-review/" rel="alternate" type="text/html" title="9/18 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-09-21T09:00:00+09:00</published><updated>2026-09-21T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/21/review_20260918-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/21/review-20260918-review/"><![CDATA[<blockquote>
   <p>데이터 기준: 2026-09-21 10:03 키움 ka10001 일괄 조회</p>
 </blockquote>
 
@@ -2390,115 +2558,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <hr />
 
-<p>#NextTheme #종가베팅 #조선 #삼성중공업 #시장정리 #미국금리 #우주항공</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[어제 선별이 남긴 기록]]></summary></entry><entry><title type="html">삼성중공업, 오늘 조선 테마에서 부각된 이유 — 외국인·기관 수급으로 본 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/17/nt2-1505-snapshot/" rel="alternate" type="text/html" title="삼성중공업, 오늘 조선 테마에서 부각된 이유 — 외국인·기관 수급으로 본 분석" /><published>2026-09-17T15:05:00+09:00</published><updated>2026-09-17T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/17/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/17/nt2-1505-snapshot/"><![CDATA[<p>😐 외국인이 2조원대를 팔아치운 무거운 하루였지만, 우주항공·반도체·조선 같은 특정 테마에는 오히려 돈이 몰렸습니다. 시장 전체는 관망 분위기가 짙었는데, 그 속에서도 유독 눈에 띄는 흐름이 있었던 하루였습니다.</p>
-
-<h2 id="오늘-시장을-한눈에">오늘 시장을 한눈에</h2>
-
-<p>오늘은 외국인의 대규모 순매도와 미국 금리 인상 여파가 겹치면서 시장 전반적으로는 관망세가 우위였습니다. 그럼에도 우주항공·반도체·조선 테마로는 거래대금이 뚜렷하게 몰렸는데요, 방향성이 흐릿한 하루일수록 어느 테마에 자금이 남았는지가 더 의미 있게 읽힙니다.</p>
-
-<h2 id="삼성중공업--조선-테마의-오늘">삼성중공업 — 조선 테마의 오늘</h2>
-
-<p><strong>삼성중공업</strong>(010140)이 오늘 종가베팅의 선별 대상으로 남았습니다.</p>
-
-<h3 id="수급-흐름--외국인기관이-함께-사들였다">수급 흐름 — 외국인·기관이 함께 사들였다</h3>
-
-<p>시장 전체는 외국인이 2조원대를 순매도한 날이었지만, 이 종목만 놓고 보면 흐름이 달랐습니다.</p>
-<ul>
-  <li><strong>외국인이 장중 98만 주</strong>를 순매수했고</li>
-  <li><strong>기관도 22만 주</strong> 순매수로 함께 움직였습니다</li>
-</ul>
-
-<p>전체 시장의 매도 흐름과 반대로, 이 종목에는 큰 투자기관(외국인·기관)의 매수세가 동시에 붙은 셈입니다.</p>
-
-<h3 id="가격-강도--조선-테마-내-2위">가격 강도 — 조선 테마 내 2위</h3>
-
-<p>종가는 <strong>21,450원, +6.2%</strong>였습니다.</p>
-<ul>
-  <li><strong>거래대금은 1,533억원</strong>, 시가총액은 <strong>18.8조원</strong> 규모였고</li>
-  <li>조선 테마 구성 종목 중 <strong>2위</strong> 자리를 차지했습니다</li>
-</ul>
-
-<p>RSI는 50.8로 과열과는 거리가 있는 중립 구간이었고, 거래량은 평소 대비 <strong>1.5배</strong>(RVOL) 수준으로 늘었습니다.</p>
-
-<h3 id="기술-신호">기술 신호</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>구분</th>
-      <th>항목</th>
-      <th>값</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>기본</td>
-      <td>종가 / 등락률</td>
-      <td>21,450원 / +6.2%</td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>거래대금 / 시총</td>
-      <td>1,533억원 / 18.8조원</td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>주도 테마 / 테마내순위</td>
-      <td>조선 / 2위</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>RSI / RVOL / 이평수렴</td>
-      <td>50.8 / 1.5배 / +0.03%</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>52주 신고가 / OBV</td>
-      <td>아님 / 중립</td>
-    </tr>
-    <tr>
-      <td>수급</td>
-      <td>외인 순매수 / 기관 순매수</td>
-      <td>+98만 주 / +22만 주</td>
-    </tr>
-    <tr>
-      <td>재무</td>
-      <td>매출YoY</td>
-      <td>+21.7%</td>
-    </tr>
-    <tr>
-      <td>재무</td>
-      <td>최근 분기 실적</td>
-      <td>2026년 9월 분기: 매출 32,056억원 / 영업이익 3,483억원</td>
-    </tr>
-    <tr>
-      <td>점수</td>
-      <td>AI 종합 점수</td>
-      <td>34점</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="nexttheme-알고리즘이-본-것">NextTheme 알고리즘이 본 것</h2>
-
-<p>오늘 조선 테마 안에서 상승폭이 가장 두드러졌던 종목 중 하나가 이 종목이었고, 오후 들어 외국인과 기관이 함께 대량으로 사들인 점이 선별의 핵심 근거였습니다. 시장 전체가 외국인 순매도로 무거웠던 날, 특정 종목에 이런 동시 매수가 확인됐다는 점은 알고리즘 입장에서 눈여겨볼 만한 신호였습니다.</p>
-
-<p>제 관점에서 오늘 하루를 돌아보면, 지수는 조용했지만 자금은 결코 조용히 흐르지 않았다는 점이 인상적이었습니다. 시장 전체 분위기만 보고 “오늘은 별일 없었다”고 넘기면, 우주항공·반도체·조선처럼 특정 테마에 쏠린 거래대금을 놓치기 쉽습니다.</p>
-
-<h2 id="내일은-어떻게">내일은 어떻게?</h2>
-
-<p>내일 관건은 오늘 오후 붙은 외국인·기관의 매수세가 이어지느냐입니다.</p>
-<ul>
-  <li>매수세가 이어지면 조선 테마 전반의 자금 유입이 계속될 가능성이 있고</li>
-  <li>오늘 하루짜리 수급이었다면 다시 잠잠해질 수도 있습니다</li>
-</ul>
-
-<p>종가베팅이 오늘 이 종목을 선별한 이유는 “조선 테마 안에서 상승과 수급이 함께 확인된 하루”였다는 점입니다. 내일 장 초반 조선 테마와 외국인·기관 수급이 어떻게 이어지는지 지켜보는 것이 핵심이겠습니다.</p>
-
-<hr />
-
-<p><strong>댓글로 생각을 나눠주세요.</strong> 오늘 조선 테마, 혹은 다른 관심 종목에 대한 의견을 남겨주시면 좋겠습니다.</p>
-
-<p><strong>이웃 추가하시면 매일의 선별 분석을 받아보실 수 있어요.</strong></p>
-
-<p>#NextTheme #종가베팅 #삼성중공업 #조선 #외국인매수 #기관매수 #거래대금</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[😐 외국인이 2조원대를 팔아치운 무거운 하루였지만, 우주항공·반도체·조선 같은 특정 테마에는 오히려 돈이 몰렸습니다. 시장 전체는 관망 분위기가 짙었는데, 그 속에서도 유독 눈에 띄는 흐름이 있었던 하루였습니다.]]></summary></entry></feed>
+<p>#NextTheme #종가베팅 #조선 #삼성중공업 #시장정리 #미국금리 #우주항공</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[어제 선별이 남긴 기록]]></summary></entry></feed>
