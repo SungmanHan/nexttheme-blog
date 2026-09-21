@@ -1,30 +1,30 @@
 {
-  "lastTradingDay" : "2026-09-18",
-  "totalDays" : 93,
+  "lastTradingDay" : "2026-09-21",
+  "totalDays" : 94,
   "summary" : {
-    "tradingDays" : 93,
+    "tradingDays" : 94,
     "sectorCount" : 16,
-    "upDays" : 85,
-    "avgChangeRate" : 5.73,
+    "upDays" : 86,
+    "avgChangeRate" : 5.71,
     "topSector" : "반도체·AI인프라",
-    "topSectorDays" : 21
+    "topSectorDays" : 22
   },
   "now" : {
-    "date" : "2026-09-18",
-    "bettingGrade" : "GREEN",
-    "regimeTag" : "GREEN",
+    "date" : "2026-09-21",
+    "bettingGrade" : "YELLOW",
+    "regimeTag" : "YELLOW",
     "themeRegime" : "INDEX_LED",
     "marketSignal" : "강세",
-    "kospi" : 2.66,
-    "kosdaq" : 0.6,
-    "leadTheme" : "휴대폰_수동부품",
-    "leadChangeRate" : 4.49,
-    "themePremium" : 1.83
+    "kospi" : 1.65,
+    "kosdaq" : 1.11,
+    "leadTheme" : "S7(삼성전자/SK하이닉스 등)",
+    "leadChangeRate" : 3.67,
+    "themePremium" : 2.02
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
-    "rank1Days" : 21,
-    "top3Days" : 37
+    "rank1Days" : 22,
+    "top3Days" : 38
   }, {
     "sector" : "자동차·2차전지",
     "rank1Days" : 12,
@@ -1776,6 +1776,25 @@
         "changeRate" : 1.85
       } ],
       "mainStock" : "성호전자, 아모텍"
-    } ] ]
+    } ], [ {
+      "day" : 21,
+      "date" : "2026-09-21",
+      "theme" : "S7(삼성전자/SK하이닉스 등)",
+      "sector" : "반도체·AI인프라",
+      "changeRate" : 3.67,
+      "prevDay" : "NEW",
+      "regime" : "INDEX_LED",
+      "slot" : "15:00",
+      "kospi" : 1.65,
+      "themePremium" : 2.02,
+      "runners" : [ {
+        "theme" : "시스템반도체",
+        "changeRate" : 3.46
+      }, {
+        "theme" : "HBM(고대역폭메모리)",
+        "changeRate" : 3.29
+      } ],
+      "mainStock" : ""
+    }, null, null, null, null ] ]
   } ]
 }
