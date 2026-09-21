@@ -1,12 +1,56 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-22T06:24:29+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">미국 반도체 4% 급등에 코스피 7000선 회복 — 내일 경제지표가 변수다</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/22/0600-briefing/" rel="alternate" type="text/html" title="미국 반도체 4% 급등에 코스피 7000선 회복 — 내일 경제지표가 변수다" /><published>2026-09-22T06:00:00+09:00</published><updated>2026-09-22T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/22/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/22/0600-briefing/"><![CDATA[<h2 id="미국-야간-ai-인프라-수요에-힘입어-역사적-강세">미국 야간, AI 인프라 수요에 힘입어 역사적 강세</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-22T07:41:09+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">미국 반도체 4% 급등에 코스피 7000선 회복 — 내일 경제지표가 변수다</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/22/0600-briefing/" rel="alternate" type="text/html" title="미국 반도체 4% 급등에 코스피 7000선 회복 — 내일 경제지표가 변수다" /><published>2026-09-22T06:00:00+09:00</published><updated>2026-09-22T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/22/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/22/0600-briefing/"><![CDATA[<h2 id="미국-야간-ai-인프라-수요에-힘입어-역사적-강세">미국 야간, AI 인프라 수요에 힘입어 역사적 강세</h2>
 
 <p>간밤 미국장에서 기술주가 대거 상승했습니다. 나스닥 종합지수가 +2.26%를 기록하며 종가 기준 사상 최고치를 경신했고, 나스닥 100은 +2.83%까지 올랐습니다. 반도체 섹터는 더욱 강했는데, 필라델피아 반도체 지수가 <strong>+4.29%</strong> 급등했습니다. 이는 AI 칩 수요 확산과 국제유가 하락(-4.9$ 대비 95.37$), 그리고 미국 10년물 금리 하락(-0.045%p 대비 4.951%)이 기술주 밸류에이션 부담을 덜어주면서 나온 결과입니다.</p>
 
 <p>S&amp;P 500도 +1.49%, 다우존스는 +0.71%를 기록했습니다. 야간 선물(나스닥100 선물 +2.84%, S&amp;P500 선물 +1.49%)의 강세와 EWY(한국 ETF) +4.33% 상승이 오늘 국내 증시 추세를 뒷받침할 가능성이 높습니다.</p>
 
-<h2 id="어제-포지션-현황--이월-보유-1건">어제 포지션 현황 — 이월 보유 1건</h2>
+<h2 id="-어제-ai-선별-복기--최종-2종목--탐색-2종목-이월-보유-1건">📋 어제 AI 선별 복기 — 최종 2종목 + 탐색 2종목, 이월 보유 1건</h2>
 
-<p>어제는 AI 선별이 0건으로 무포지션 판단을 내렸습니다만, 9월 17일부터 매수해 보유 중인 <strong>삼성중공업</strong>(010140)이 있습니다.</p>
+<blockquote>
+  <p>✏️ <strong>정정 안내 (2026-09-22)</strong>: 최초 발행본에 “어제는 AI 선별이 0건”으로 기재됐으나 <strong>사실과 다릅니다.</strong>
+어제 AI는 최종 2종목·장중 탐색 2종목을 선별했습니다. 시스템이 복기 데이터를 누락한 오류였으며 아래와 같이 정정합니다.</p>
+</blockquote>
+
+<p>어제 오후 AI가 선별한 종목은 <strong>15:10 최종 2개 + 장중 선별·탐색 2개</strong> 총 4종목이었고, 여기에 9월 17일부터 보유 중인 이월 포지션 1건이 더해집니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>슬롯</th>
+      <th>어제 선별 근거</th>
+      <th>오늘 아침 참고</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>삼성전자</strong> (005930)</td>
+      <td>15:10 최종</td>
+      <td>반도체 대표주로 자금 집중, 오후 외국인·기관 동시 대량 매수, 매수 호가 두터움 (확신도 높음)</td>
+      <td>종가 273,500원. 저녁 애프터마켓(15:40~19:59) 종가 대비 +0.55%~−0.55% 등락</td>
+    </tr>
+    <tr>
+      <td><strong>하나마이크론</strong> (067310)</td>
+      <td>15:10 최종</td>
+      <td>후공정 소부장으로 온기 확산, +15.4% 급등·거래대금 평소의 5배, 외국인·기관 동반 매수</td>
+      <td>종가 44,600원. 저녁 애프터마켓 관측치 미수집</td>
+    </tr>
+    <tr>
+      <td><strong>SFA반도체</strong> (036540)</td>
+      <td>14:30 선별</td>
+      <td>후공정 20% 가까운 급등, 외국인 엿새 연속 순매수, 매수 호가 집중</td>
+      <td>종가 10,800원. 저녁 애프터마켓 종가 대비 −1.48%~−3.80%</td>
+    </tr>
+    <tr>
+      <td><strong>디아이</strong> (003160)</td>
+      <td>12:10 <strong>탐색 후보</strong></td>
+      <td>HBM 테마에서 신규 점화, 거래대금 5일 평균의 5배, 박스권 저항 돌파</td>
+      <td>종가 35,600원. 저녁 애프터마켓 관측치 미수집</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>⚠️ <strong>12:10 탐색 후보는 장중 관찰 대상이며 그날의 최종 베팅 대상이 아닙니다.</strong> 어제의 최종 선별은 15:10 슬롯의 2종목입니다.</p>
 
 <table>
   <tbody>
