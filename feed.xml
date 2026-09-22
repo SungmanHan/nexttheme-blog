@@ -1,4 +1,365 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-22T20:08:26+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">삼성전기, 오늘 왜 올랐나 — 반도체 기판 훈풍 속 수급 흐름</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/22/nt2-1505-snapshot/" rel="alternate" type="text/html" title="삼성전기, 오늘 왜 올랐나 — 반도체 기판 훈풍 속 수급 흐름" /><published>2026-09-22T15:05:00+09:00</published><updated>2026-09-22T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/22/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/22/nt2-1505-snapshot/"><![CDATA[<p>오늘 장은 미국 반도체 관련주 강세 소식에 국내 증시도 화답하는 분위기로 출발했어요. 반도체 기판과 AI 공급망 쪽으로 자금이 몰리면서 외국인이 순매수 우위를 보였는데요, 다만 코스피 지수는 오후로 갈수록 오전 상승분을 상당 부분 반납하는 흐름을 보였습니다. 하루 종일 매수를 이어가지 못한 시장, 오늘은 어떤 종목이 눈에 띄었는지 살펴볼게요. 📊</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-22T21:04:30+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 7000선 회복한 하루, 반도체 기판 테마로 자금 쏠렸다 — 종가베팅 하루 마감 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/22/daily/" rel="alternate" type="text/html" title="코스피 7000선 회복한 하루, 반도체 기판 테마로 자금 쏠렸다 — 종가베팅 하루 마감 정리" /><published>2026-09-22T21:00:00+09:00</published><updated>2026-09-22T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/22/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/22/daily/"><![CDATA[<p>안녕하세요 😊 오늘 하루 시장을 정리하고, 어제와 오늘 AI가 골랐던 종목들이 실제로 어떻게 움직였는지 있는 그대로 되짚어보는 시간입니다. 투자를 이제 막 시작하신 분도 편하게 읽으실 수 있도록 쉽게 풀어드릴게요.</p>
+
+<h2 id="어제-판단은-실제로-어땠나">어제 판단은 실제로 어땠나</h2>
+
+<h3 id="-어제-선별-오늘-아침-실현-성과-08000959-진입가-대비">① 어제 선별, 오늘 아침 실현 성과 (08:00~09:59, 진입가 대비)</h3>
+
+<p>어제 AI가 고른 종목들이 오늘 아침 실제로 어떻게 마감됐는지부터 확인해볼게요. 아래 수치는 종가베팅이 실제로 돈을 회수하는 시점인 <strong>아침 청산 기준</strong>입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>아침 실현 갭</th>
+      <th>세션 내 최고</th>
+      <th>세션 내 최저</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>하나마이크론</td>
+      <td><strong>+3.0%</strong></td>
+      <td>+3.8%</td>
+      <td>-1.0%</td>
+    </tr>
+    <tr>
+      <td>삼성전자</td>
+      <td><strong>+2.6%</strong></td>
+      <td>+3.7%</td>
+      <td>+0.2%</td>
+    </tr>
+    <tr>
+      <td>삼성중공업</td>
+      <td><strong>-3.8%</strong></td>
+      <td>-2.0%</td>
+      <td>-3.8%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>하나마이크론과 삼성전자는 진입가 대비 플러스로 아침을 마감했고, 삼성중공업은 반대로 진입가 대비 마이너스로 끝났습니다. 세 종목 중 두 종목은 좋았고 한 종목은 아쉬웠던 날이라고 있는 그대로 말씀드립니다.</p>
+
+<h3 id="-오늘-선별-저녁-시장-잠정-흐름-확정-아님">② 오늘 선별, 저녁 시장 잠정 흐름 (확정 아님)</h3>
+
+<p>오늘 AI가 새로 고른 종목들은 저녁 애프터마켓에서 아직 <strong>잠정</strong> 흐름만 나온 상태입니다. 실제 성과는 <strong>내일</strong> 아침 시가에서 확정되니, 아래 숫자는 참고만 해주세요.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>저녁 잠정 갭(진입가 대비)</th>
+      <th>세션 내 최고</th>
+      <th>세션 내 최저</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>대한항공</td>
+      <td><strong>+1.0%</strong></td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>삼성전기</td>
+      <td><strong>+0.3%</strong></td>
+      <td>+0.7%</td>
+      <td>-2.0%</td>
+    </tr>
+    <tr>
+      <td>삼성중공업</td>
+      <td><strong>-3.1%</strong></td>
+      <td>-3.1%</td>
+      <td>-4.1%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>삼성중공업은 오늘도 진입가 대비 저녁 흐름이 좋지 않았습니다. 확정된 결과가 아니라는 점, 꼭 기억해주세요.</p>
+
+<h2 id="오늘-시장은-어땠나">오늘 시장은 어땠나</h2>
+
+<p>오늘 아침 시점 기준으로는 간밤 미국 증시가 <strong>다우 +0.71% / S&amp;P500 +1.49% / 나스닥 +2.26% / 필라델피아 반도체지수 +4.29%</strong>로 강하게 올랐다는 소식이 있었습니다. 미국 반도체주 급등이 오늘 국내 증시 분위기에도 영향을 준 것으로 보입니다.</p>
+
+<p>실제 오늘 국내 지수는 코스피 <strong>7,017.91</strong>(+0.15%), 코스닥 <strong>834.38</strong>(-0.23%)로 마감했습니다. 코스피는 최근 며칠 흐름을 보면 9월 18일 6,894.23 → 9월 21일 7,007.72로 이미 7,000선을 넘어섰고, 오늘도 소폭 더 올라 7,000선 위에서 마감을 이어갔습니다. 반면 코스닥은 9월 21일 836.27에서 오늘 834.38로 살짝 내려왔습니다. 원/달러 환율은 <strong>1,355.6원</strong>이었습니다.</p>
+
+<p>수급 면에서는 외국인이 <strong>+1,358억원</strong> 순매수, 기관은 <strong>-1,748억원</strong> 순매도, 개인은 <strong>-1.6조원</strong>의 큰 순매도를 기록했습니다. 개인 투자자들의 매도 물량이 유독 컸던 하루였습니다.</p>
+
+<h2 id="무엇이-움직였나">무엇이 움직였나</h2>
+
+<h3 id="거래대금-상위-종목">거래대금 상위 종목</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>순위</th>
+      <th>종목명</th>
+      <th>거래대금</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>SK하이닉스</td>
+      <td>8.1조원</td>
+      <td>-0.72%</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>삼성전자</td>
+      <td>7.2조원</td>
+      <td>+1.28%</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>삼성전기</td>
+      <td>2.2조원</td>
+      <td>+3.78%</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>삼성전자우</td>
+      <td>9,613억원</td>
+      <td>+1.80%</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>SK스퀘어</td>
+      <td>7,654억원</td>
+      <td>+1.33%</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>LG전자</td>
+      <td>6,466억원</td>
+      <td>+6.17%</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>심텍</td>
+      <td>5,203억원</td>
+      <td>+13.39%</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>한전기술</td>
+      <td>5,105억원</td>
+      <td>+6.25%</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>두산에너빌리티</td>
+      <td>4,992억원</td>
+      <td>+1.17%</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>네오사피엔스</td>
+      <td>4,300억원</td>
+      <td>-11.66%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>거래대금 1위는 SK하이닉스였지만 정작 주가는 소폭 하락(-0.72%)했고, 오히려 삼성전기(+3.78%)·LG전자(+6.17%)·심텍(+13.39%)·한전기술(+6.25%) 같은 종목들의 상승폭이 더 컸습니다. 네오사피엔스는 거래대금 상위에 들었지만 -11.66%로 크게 밀렸습니다.</p>
+
+<h3 id="오늘-많이-움직인-테마">오늘 많이 움직인 테마</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>순위</th>
+      <th>테마명</th>
+      <th>상승 종목수 / 전체 종목수</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>반도체 기판(FC-BGA/PCB/MLB 등)</td>
+      <td>14 / 14</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>소캠(SOCAMM)</td>
+      <td>9 / 11</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>CXL(컴퓨트익스프레스링크)</td>
+      <td>9 / 13</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>항공/저가 항공사(LCC)</td>
+      <td>9 / 9</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>PCB(FPCB 등)</td>
+      <td>20 / 30</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>온디바이스 AI</td>
+      <td>18 / 24</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>반도체 기판 테마는 소속 종목 14개가 <strong>전부</strong> 상승했고, 항공/저가 항공사(LCC) 테마도 9개 전 종목이 올랐습니다. 미국 반도체 강세가 국내 반도체 부품·기판 테마로 그대로 옮겨온 하루였다고 볼 수 있습니다.</p>
+
+<h2 id="종가-선별-결과">종가 선별 결과</h2>
+
+<p>오늘 AI는 신중한 판단 속에서 2개 종목을 최종 선별했습니다. 오늘 자금은 반도체 기판·AI 공급망 쪽으로 몰렸고 외국인 매수 우위가 있었지만, 코스피 자체는 오후 들어 상승분을 상당 부분 반납했다는 게 오늘 선별의 요약입니다.</p>
+
+<h3 id="대한항공-003490">대한항공 (003490)</h3>
+
+<p>국제유가가 크게 떨어지면서 연료비 부담이 줄어들 수 있다는 기대와 추석 여객 수요 기대감이 맞물려, 항공 대장주인 대한항공에 외국인·기관 자금과 거래대금이 함께 몰렸습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>항목</th>
+      <th>값</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>기본</td>
+      <td>당일 종가 / 등락률</td>
+      <td>31,300원 / <strong>+8.5%</strong></td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>거래대금 / 시총</td>
+      <td>1,954억원 / 11.5조원</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>주도 테마 / 테마내순위</td>
+      <td>항공/저가 항공사(LCC) / 1위</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>RSI / RVOL / 이평수렴</td>
+      <td>68.3 / 2.3 / +0.1%</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>52주 신고가 / OBV</td>
+      <td>아님 / 중립</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>외인 순매수 / 기관 순매수</td>
+      <td>+9만 주 / +32만 주</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>호가신호</td>
+      <td>매수벽 강함</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>매출YoY</td>
+      <td>+20.1%</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>최근 분기 실적</td>
+      <td>2026.09: 매출 7.2조원 / 영업이익 3,503억원</td>
+    </tr>
+    <tr>
+      <td>점수</td>
+      <td>AI 종합 점수</td>
+      <td>47점</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="삼성전기-009150">삼성전기 (009150)</h3>
+
+<p>오늘 자금이 가장 많이 몰린 반도체 기판 테마 안에서 1위 종목이었습니다. 미국 반도체 강세와 AI 서버용 부품 수요라는 재료에 외국인·기관 매수가 함께 들어왔습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>항목</th>
+      <th>값</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>기본</td>
+      <td>당일 종가 / 등락률</td>
+      <td>1,483,000원 / <strong>+3.8%</strong></td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>거래대금 / 시총</td>
+      <td>2.2조원 / 110.8조원</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>주도 테마 / 테마내순위</td>
+      <td>반도체 기판(FC-BGA/PCB/MLB 등) / 1위</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>RSI / RVOL / 이평수렴</td>
+      <td>58.0 / 1.5 / +0.0%</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>52주 신고가 / OBV</td>
+      <td>아님 / 중립</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>외인 순매수 / 기관 순매수</td>
+      <td>+7만 주 / +2만 주</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>호가신호</td>
+      <td>매수벽 약함</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>매출YoY</td>
+      <td>+31.1%</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>최근 분기 실적</td>
+      <td>2026.09: 매출 3.8조원 / 영업이익 6,022억원</td>
+    </tr>
+    <tr>
+      <td>점수</td>
+      <td>AI 종합 점수</td>
+      <td>40점</td>
+    </tr>
+  </tbody>
+</table>
+
+<blockquote>
+  <p>⚠️ 위 수치는 AI 기록상 종가·데이터를 정리한 것이며, 매수 권유나 목표가 제시가 아닙니다.</p>
+</blockquote>
+
+<h2 id="오늘을-어떻게-기록할-것인가">오늘을 어떻게 기록할 것인가</h2>
+
+<p>오늘 하루를 한 줄로 정리하면 “미국 반도체 강세가 국내 반도체 부품·공급망으로 옮겨붙은 날”이었습니다. 코스피는 7,000선 위에서 버텼지만 오후 들어 상승폭을 일부 반납했고, 개인 투자자들의 매도 물량이 유독 컸다는 점도 눈에 띕니다.</p>
+
+<p>제가 오늘 흐름에서 주목한 부분은, 거래대금 1위였던 SK하이닉스는 정작 주가가 소폭 하락했는데 반도체 기판·부품 쪽 종목들의 상승폭이 더 컸다는 점입니다. 같은 반도체 안에서도 자금이 어디로 흘렀는지를 살펴보는 게 오늘 같은 날은 더 의미 있어 보였습니다.</p>
+
+<p>“오르막이 있으면 내리막도 있다”는 말처럼, 어제 선별 종목 중 삼성중공업은 아침 실현이 아쉬웠고 오늘 저녁 흐름도 좋지 않았습니다. 매일 다 맞을 수는 없다는 걸 있는 그대로 기록해둡니다.</p>
+
+<p>오늘 글 어떠셨나요? 궁금한 종목이나 테마가 있으면 댓글로 남겨주세요 🙌 이웃 추가하시면 다음 마감 정리도 놓치지 않고 받아보실 수 있어요.</p>
+
+<p>#종가베팅 #NextTheme #코스피7000 #반도체기판 #삼성전기 #대한항공 #항공주 #하루마감정리 #오늘의증시</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[안녕하세요 😊 오늘 하루 시장을 정리하고, 어제와 오늘 AI가 골랐던 종목들이 실제로 어떻게 움직였는지 있는 그대로 되짚어보는 시간입니다. 투자를 이제 막 시작하신 분도 편하게 읽으실 수 있도록 쉽게 풀어드릴게요.]]></summary></entry><entry><title type="html">삼성전기, 오늘 왜 올랐나 — 반도체 기판 훈풍 속 수급 흐름</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/22/nt2-1505-snapshot/" rel="alternate" type="text/html" title="삼성전기, 오늘 왜 올랐나 — 반도체 기판 훈풍 속 수급 흐름" /><published>2026-09-22T15:05:00+09:00</published><updated>2026-09-22T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/22/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/22/nt2-1505-snapshot/"><![CDATA[<p>오늘 장은 미국 반도체 관련주 강세 소식에 국내 증시도 화답하는 분위기로 출발했어요. 반도체 기판과 AI 공급망 쪽으로 자금이 몰리면서 외국인이 순매수 우위를 보였는데요, 다만 코스피 지수는 오후로 갈수록 오전 상승분을 상당 부분 반납하는 흐름을 보였습니다. 하루 종일 매수를 이어가지 못한 시장, 오늘은 어떤 종목이 눈에 띄었는지 살펴볼게요. 📊</p>
 
 <h2 id="오늘-시장-한-줄로-정리하면">오늘 시장, 한 줄로 정리하면</h2>
 
@@ -2160,303 +2521,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <hr />
 
-<p>#NextTheme #외국인순매수 #반도체 #전력장비 #AI인프라 #월요일갭</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[한 주 끝나고, 외국인이 들어왔다]]></summary></entry><entry><title type="html">반도체·건설 대장주가 이끈 강세장 — 9월 18일 시장 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/18/daily/" rel="alternate" type="text/html" title="반도체·건설 대장주가 이끈 강세장 — 9월 18일 시장 정리" /><published>2026-09-18T21:00:00+09:00</published><updated>2026-09-18T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/18/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/18/daily/"><![CDATA[<h2 id="어제-판단은-실제로-어땠나-">어제 판단은 실제로 어땠나 📊</h2>
-
-<p>어제(17일) 선별 종목인 <strong>삼성중공업</strong>은 아침 청산에서 <strong>−0.50%</strong>로 실현했습니다. 장 마감 후 애프터마켓을 거치며 추가 하락했지만, 실제 청산(아침 매도)의 기준은 얼리버드 시가였습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>실현 갭%</th>
-      <th>세션내 최고%</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>삼성중공업</td>
-      <td>−0.50</td>
-      <td>+1.14</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>장 마감 후 유가 하락 등으로 조정되었으나, 그 전 세션 중에는 최고 +1.14%까지 올랐던 만큼 모멘텀은 있었습니다.</p>
-
-<hr />
-
-<h2 id="오늘-시장은-어땠나-">오늘 시장은 어땠나 📈</h2>
-
-<p><strong>코스피 6,894.23(+2.66%) / 코스닥 827.12(+0.6%)</strong></p>
-
-<p>오늘 강한 하루였습니다. 간밤 미국장에서 나스닥이 +1.69%로 반등하고 필라델피아 반도체 지수가 +3.14%를 올리자, 한국 시장도 반도체와 건설주가 본격적으로 주도했습니다.</p>
-
-<p>수급도 긍정적이었습니다. <strong>외국인 +9,130억원</strong>, <strong>기관 +18,977억원</strong> 순매수로 양대 기관이 함께 매수에 나섰으나, <strong>개인은 −44,963억원</strong> 순매도하며 시장의 양극단을 그렸습니다. 개인 투자자들이 빠져나간 자리를 외국인과 기관이 채우는 전형적인 ‘기관주도 강세’ 모습입니다.</p>
-
-<p><strong>유가(WTI) 101달러</strong> 수준에서 움직이며 에너지 관련 변동성은 있지만, 미국 GDP가 5.1%로 예상을 상회하고 금리 인상 후 역설적으로 유가와 국채금리가 함께 하락하며 위험자산 선호가 복귀했습니다.</p>
-
-<hr />
-
-<h2 id="무엇이-움직였나-">무엇이 움직였나 🔥</h2>
-
-<p><strong>거래대금 상위 10개 종목</strong></p>
-
-<table>
-  <thead>
-    <tr>
-      <th>순위</th>
-      <th>종목명</th>
-      <th>거래대금</th>
-      <th>등락률</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>SK하이닉스</td>
-      <td><strong>7.4조원</strong></td>
-      <td>+5.85%</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>삼성전자</td>
-      <td><strong>4.2조원</strong></td>
-      <td>+3.17%</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>삼성전기</td>
-      <td><strong>1.5조원</strong></td>
-      <td>+4.66%</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>대한광통신</td>
-      <td><strong>8,844억원</strong></td>
-      <td>+12.59%</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>가온전선</td>
-      <td><strong>7,217억원</strong></td>
-      <td>+25.14%</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>SK스퀘어</td>
-      <td><strong>5,709억원</strong></td>
-      <td>+6.85%</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>성호전자</td>
-      <td><strong>4,695억원</strong></td>
-      <td>+22.69%</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>삼성전자우</td>
-      <td><strong>4,319억원</strong></td>
-      <td>+2.33%</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>두산에너빌리티</td>
-      <td><strong>3,057억원</strong></td>
-      <td>−0.12%</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>이수페타시스</td>
-      <td><strong>2,866억원</strong></td>
-      <td>−4.43%</td>
-    </tr>
-  </tbody>
-</table>
-
-<p><strong>주도 테마 순위</strong></p>
-
-<table>
-  <thead>
-    <tr>
-      <th>테마</th>
-      <th>상승 종목수 / 전체</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>전선</td>
-      <td><strong>8 / 8</strong></td>
-    </tr>
-    <tr>
-      <td>광통신</td>
-      <td><strong>13 / 15</strong></td>
-    </tr>
-    <tr>
-      <td>전력설비</td>
-      <td><strong>30 / 34</strong></td>
-    </tr>
-    <tr>
-      <td>뉴로모픽 반도체</td>
-      <td><strong>6 / 7</strong></td>
-    </tr>
-    <tr>
-      <td>철도</td>
-      <td><strong>35 / 40</strong></td>
-    </tr>
-    <tr>
-      <td>반도체 대장주</td>
-      <td><strong>6 / 7</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>반도체 대장주 2개(SK하이닉스 7.4조, 삼성전자 4.2조)가 거래대금의 대부분을 빨아들였습니다. 전선·광통신·전력장비 테마도 강세를 유지하며 건설·인프라 수급이 맞아떨어진 하루였습니다.</p>
-
-<hr />
-
-<h2 id="종가-선별-결과는-어땠나-">종가 선별 결과는 어땠나 ✨</h2>
-
-<p><strong>오늘 베팅 등급: 강세 신호</strong></p>
-
-<p><em>반도체·전력장비·건설로 외국인·기관 대규모 순매수가 몰린 강세장이지만, 유가 101달러 등 밤사이 매크로 위험은 유의해야 한다.</em></p>
-
-<p>오늘 종가 기준으로 선별한 종목은 총 3개입니다.</p>
-
-<h3 id="1-sk하이닉스--반도체-대장주의-외인기관-동시-매집">1. SK하이닉스 — 반도체 대장주의 외인·기관 동시 매집</h3>
-
-<table>
-  <tbody>
-    <tr>
-      <td>**종가: 1,847,000원 (+5.85%)</td>
-      <td>점수: 41점**</td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <th>항목</th>
-      <th>수치</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>거래대금 / 시총</td>
-      <td><strong>7.4조원</strong> / 1,349.9조원</td>
-    </tr>
-    <tr>
-      <td>외국인 / 기관</td>
-      <td><strong>+20만주</strong> / <strong>+11만주</strong></td>
-    </tr>
-    <tr>
-      <td>RSI / RVOL</td>
-      <td>57.2 / <strong>0.74배</strong></td>
-    </tr>
-    <tr>
-      <td>매출(분기 YoY) / 영업이익</td>
-      <td><strong>+307%</strong> / 2026.09분기 781,291억원</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>오늘 거래대금 1위로 외국인 20만주, 기관 11만주가 동시에 순매수했습니다. 미국 낸드 플래시 공장 검토 등 실적 재료가 이어지는 가운데, 반도체 지수가 올라가고 있는 흐름입니다. 애프터마켓에서도 진입가(1,847,000원) 대비 최고 <strong>+0.43%</strong>까지 올라 수급의 강함이 지속됐습니다.</p>
-
-<h3 id="2-삼성ea--ailng-플랜트-수주-기대-속-건설-대장-매집">2. 삼성E&amp;A — AI·LNG 플랜트 수주 기대 속 건설 대장 매집</h3>
-
-<table>
-  <tbody>
-    <tr>
-      <td>**종가: 52,400원 (+2.54%)</td>
-      <td>점수: 38점**</td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <th>항목</th>
-      <th>수치</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>거래대금 / 시총</td>
-      <td>2,548억원 / <strong>10.3조원</strong></td>
-    </tr>
-    <tr>
-      <td>외국인 / 기관</td>
-      <td><strong>+17만주</strong> / <strong>+25만주</strong></td>
-    </tr>
-    <tr>
-      <td>RSI / RVOL</td>
-      <td>61.2 / <strong>3.18배</strong></td>
-    </tr>
-    <tr>
-      <td>매출(분기 YoY) / 영업이익</td>
-      <td>+39.0% / 2026.09분기 2,496억원</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>AI 데이터센터·LNG 플랜트 수주 수익성 기대 속에서 기관 25만주, 외국인 17만주가 대규모로 매집했습니다. 거래대금이 급증하며 15분봉 지지선을 딛고 반등한 형태로, 건설 대장 포지션을 강화하고 있습니다. 애프터마켓에서는 진입가 대비 <strong>−0.57%</strong> 정도 하락했지만, 본 거래 강세가 압도적입니다.</p>
-
-<h3 id="3-일진전기--전력장비-테마-전환-속-외인-본격-순매수로-복귀">3. 일진전기 — 전력장비 테마 전환 속 외인 본격 순매수로 복귀</h3>
-
-<table>
-  <tbody>
-    <tr>
-      <td>**종가: 76,100원 (+8.4%)</td>
-      <td>점수: 34점**</td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <th>항목</th>
-      <th>수치</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>거래대금 / 시총</td>
-      <td>1,017억원 / <strong>3.6조원</strong></td>
-    </tr>
-    <tr>
-      <td>외국인 / 기관</td>
-      <td><strong>+14만주</strong> / +1만주</td>
-    </tr>
-    <tr>
-      <td>RSI / RVOL</td>
-      <td>61.1 / <strong>2.70배</strong></td>
-    </tr>
-    <tr>
-      <td>매출(분기 YoY) / 영업이익</td>
-      <td>+27.8% / 2026.09분기 625억원</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>전력장비 테마 속에서 오늘 외국인이 <strong>14만주 순매수</strong>로 방향을 바꿨습니다. 어제까지 외인이 매도하다가 오늘 본격 매수로 복귀한 것이 흐름의 전환을 나타냅니다. 거래대금도 3배 이상 급증하며 관심을 끌었습니다. 애프터마켓에서는 진입가 대비 <strong>−0.26%</strong> 선에서 안정됐습니다.</p>
-
-<hr />
-
-<h2 id="오늘을-어떻게-기록할-것인가-">오늘을 어떻게 기록할 것인가 💭</h2>
-
-<p><strong>미국 금리·반도체 동조, 대기업 쏠림 강세</strong></p>
-
-<p>간밤 미국의 금리 인상과 반도체 지수 반등이 한국 시장의 반도체 대장 주도를 만들었습니다. 외국인과 기관이 SK하이닉스·삼성전자에 집중하며 대형주 쏠림이 심했던 점은, 다음 주 시황이 이 흐름을 이어갈지 수렴할지의 관건이 될 것 같습니다. 개인 투자자의 순매도가 <strong>−4.5조원</strong>에 달한 점도 노리할 만합니다 — 추격세가 약할 수 있다는 신호입니다.</p>
-
-<p><strong>남은 변수는 일본 금리와 유가</strong></p>
-
-<p>오늘 장중 변수로 꼽혔던 일본 금리 정책 결과도 이후 흐름에 영향을 줄 수 있습니다. 엔화 약세가 계속되면 반도체·건설 모두 우호적이지만, 예상 밖의 인상이 나왔다면 위험자산 선호가 꺾일 수 있습니다. 또한 유가(WTI) 101달러 수준이 지속되는지도 마찬가지로 중요합니다.</p>
-
-<p>다음 주 월요일, 오늘 선별한 3개 종목이 아침 추격세를 받을지 지켜봅시다.</p>
-
-<hr />
-
-<p>#반도체 #SK하이닉스 #삼성E&amp;A #일진전기 #외국인순매수 #건설주 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[어제 판단은 실제로 어땠나 📊]]></summary></entry></feed>
+<p>#NextTheme #외국인순매수 #반도체 #전력장비 #AI인프라 #월요일갭</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[한 주 끝나고, 외국인이 들어왔다]]></summary></entry></feed>
