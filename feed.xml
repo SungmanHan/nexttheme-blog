@@ -1,4 +1,207 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-22T21:04:30+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 7000선 회복한 하루, 반도체 기판 테마로 자금 쏠렸다 — 종가베팅 하루 마감 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/22/daily/" rel="alternate" type="text/html" title="코스피 7000선 회복한 하루, 반도체 기판 테마로 자금 쏠렸다 — 종가베팅 하루 마감 정리" /><published>2026-09-22T21:00:00+09:00</published><updated>2026-09-22T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/22/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/22/daily/"><![CDATA[<p>안녕하세요 😊 오늘 하루 시장을 정리하고, 어제와 오늘 AI가 골랐던 종목들이 실제로 어떻게 움직였는지 있는 그대로 되짚어보는 시간입니다. 투자를 이제 막 시작하신 분도 편하게 읽으실 수 있도록 쉽게 풀어드릴게요.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-23T06:07:58+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">반도체는 오르는데 개인은 판다 — 오늘 시장의 엇갈린 신호</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/23/0600-briefing/" rel="alternate" type="text/html" title="반도체는 오르는데 개인은 판다 — 오늘 시장의 엇갈린 신호" /><published>2026-09-23T06:00:00+09:00</published><updated>2026-09-23T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/23/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/23/0600-briefing/"><![CDATA[<p>유가 하락과 반도체 강세가 교차하는 모순의 시간입니다. 💭</p>
+
+<h2 id="어제-ai-선별-애프터마켓에서-뭐가-일어났나">어제 AI 선별, 애프터마켓에서 뭐가 일어났나</h2>
+
+<p>어제 AI가 <strong>최종 선별 2개</strong>(대한항공, 삼성전기)와 <strong>탐색 후보 2개</strong>(SK하이닉스, 대한전선)를 지목했는데, 애프터마켓은 미-이란 협상 전망의 변수에 흔들렸습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>슬롯</th>
+      <th>어제 전략</th>
+      <th>오늘 대응</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>삼성중공업</td>
+      <td>—</td>
+      <td>—</td>
+      <td>✅ 보유 중 (9/17 매수 평단 21,372원)</td>
+    </tr>
+    <tr>
+      <td>대한항공</td>
+      <td>15:10 최종</td>
+      <td>갭 트레이드</td>
+      <td>유가 추가 하락 시 갭상승 관찰 ⚠️</td>
+    </tr>
+    <tr>
+      <td>삼성전기</td>
+      <td>15:10 최종</td>
+      <td>갭 트레이드</td>
+      <td>시초가 갭하락 시 전일 테마 지속성 확인</td>
+    </tr>
+    <tr>
+      <td>SK하이닉스</td>
+      <td>12:10 탐색</td>
+      <td>—</td>
+      <td>저녁 약세, 갭하락 가능성 높아 관망</td>
+    </tr>
+    <tr>
+      <td>대한전선</td>
+      <td>10:10 탐색</td>
+      <td>—</td>
+      <td>매수 호가 얇음, 대기</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>애프터마켓 실측</strong>:</p>
+<ul>
+  <li>대한항공: <strong>종가 대비</strong> 미발표 (갭 방향 주시)</li>
+  <li>삼성전기: <strong>종가 대비 +0.67% ~ -2.02%</strong> (고점 후 저점 진폭 불안정)</li>
+  <li>SK하이닉스: <strong>종가 대비 -3.24% ~ -5.64%</strong> (약세 지속)</li>
+  <li>삼성중공업: <strong>평단 대비 -3.14% ~ -4.08%</strong> (조선 테마 조정)</li>
+</ul>
+
+<p><strong>분석</strong>: 반도체 기판 테마가 <strong>+10.09%</strong> 폭발했음에도 삼성전기는 저녁 고점 후 즉시 내려앉았어요. 유가 하락 호재를 받은 대한항공도 협상 불확실성이 남아있네요.</p>
+
+<hr />
+
+<h2 id="어제-수급은-어땠나">어제 수급은 어땠나</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>주체</th>
+      <th>순매수</th>
+      <th>흐름</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>외국인</td>
+      <td><strong>+1,341억원</strong></td>
+      <td>반도체·항공 테마 추격</td>
+    </tr>
+    <tr>
+      <td>기관</td>
+      <td><strong>-1,748억원</strong></td>
+      <td>차익실현 우위</td>
+    </tr>
+    <tr>
+      <td>개인</td>
+      <td><strong>-1.6조원</strong></td>
+      <td><strong>3일 연속 매물 출회</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>코스피는 <strong>박스권 상단 7017.91 (+0.15%)</strong> 찍었으나 <strong>개인의 1.6조원 순매도</strong>로 상승분 반납. 코스닥은 <strong>-0.23%</strong> 약세.</p>
+
+<p><strong>주도 테마</strong>: 반도체 기판(+10.09%), 소캠(+8.15%), 항공/LCC(+5.41%)</p>
+
+<p>외국인이 1,341억원 들어왔는데 개인이 1.6조원 나가니까 결국 코스피는 제자리입니다. 이게 오늘 시장의 정체성이에요.</p>
+
+<hr />
+
+<h2 id="간밤-미국장은-뭐였나">간밤 미국장은 뭐였나</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>지수</th>
+      <th>변화</th>
+      <th>평가</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>다우존스</td>
+      <td>-0.36%</td>
+      <td>약한 흐름</td>
+    </tr>
+    <tr>
+      <td>나스닥 종합</td>
+      <td><strong>+0.45%</strong></td>
+      <td>사상최고치 경신 (이틀 연속)</td>
+    </tr>
+    <tr>
+      <td>나스닥 100</td>
+      <td><strong>+0.82%</strong></td>
+      <td>강한 상승</td>
+    </tr>
+    <tr>
+      <td>S&amp;P 500</td>
+      <td>0.00%</td>
+      <td>중립</td>
+    </tr>
+    <tr>
+      <td><strong>필라델피아 반도체</strong></td>
+      <td><strong>+2.06%</strong></td>
+      <td>강세 (샌디스크 +6.8%)</td>
+    </tr>
+    <tr>
+      <td>VIX</td>
+      <td>-4.44%</td>
+      <td>변동성 공포 완화</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>나스닥은 사상최고치를 이틀 연속 경신했어요. 반도체 강세가 기술주 전체를 끌어올렸습니다. 다만 다우는 -0.36%로 약했고, S&amp;P 500은 제자리입니다. “큰주는 약하고 기술주는 강하다”는 신호죠.</p>
+
+<hr />
+
+<h2 id="오늘-반드시-알아야-할-뉴스">오늘 반드시 알아야 할 뉴스</h2>
+
+<p><strong>1️⃣ 미-이란 회담, “매우 생산적” 평가</strong>
+미국과 이란 대표단이 3시간 회담 후 <strong>추가 회담 예정</strong> 발표. 중동 긴장 완화 기대로 <strong>유가가 5거래일 연속 하락해 WTI 95.2달러</strong>까지 내렸어요. 항공·소비재 비용 부담이 완화되는 호재입니다. 다만 협상이 언제 결렬될지 모르니까 주의.</p>
+
+<p><strong>2️⃣ 반도체 잇단 상승, AI 강세 지속</strong>
+나스닥 이틀 연속 사상최고치, 필라델피아 반도체 +2.06%. 샌디스크(+6.8%), AMD, 인텔, 엔비디아 등 반도체주가 일제히 올랐습니다. 국내 반도체 공급망(삼성전기, SK하이닉스) 시초가 갭 관찰 필수.</p>
+
+<p><strong>3️⃣ Fed 긴축우려, 금리 인상 지지 목소리</strong>
+콜린스 연준 총재가 금리 인상 결정을 지지했어요. AI·제조업이 물가 상방 압력으로 작용하면서 <strong>연내 추가 금리 인상 가능성</strong> 시사. 금리 민감주(은행, 부동산)는 약세 가능.</p>
+
+<p><strong>4️⃣ 코스피 개인 매도 계속</strong>
+어제도 개인이 1.6조원 순매도. 반도체 기판 테마가 +10% 뛰었는데도 개인 매물로 전체 시장이 제자리입니다. “왜 계속 팔지?” 하는 의문이 남는 패턴이에요.</p>
+
+<p><strong>5️⃣ 코리아 프리미엄 위크, 9월 28일 개최</strong>
+55개 상장사가 참여하는 국내 최대 규모 자본시장 IR 행사. 해외 투자자 유치 시도로 외국인 수급 흐름이 이어질 가능성 있습니다.</p>
+
+<hr />
+
+<h2 id="오늘의-베팅-등급-신중-국면">오늘의 베팅 등급: <strong>신중 국면</strong></h2>
+
+<p><strong>등급 의미</strong>: 우호 신호(유가 하락, 반도체 강세)가 있으나 미국 지수가 혼재되고, 내일 새벽 중요 경제 지표(실업수당, 주택판매)가 대기 중이라 <strong>신중함을 유지</strong>해야 합니다.</p>
+
+<p><strong>오늘 전략</strong>:</p>
+<ul>
+  <li>시초가 갭 방향을 먼저 확인하세요</li>
+  <li>반도체·항공 테마의 추격 강도 관찰</li>
+  <li>개인 매도가 지속되는지 확인</li>
+  <li>급등락 변동성에 주의</li>
+</ul>
+
+<hr />
+
+<h2 id="오늘-장중-꼭-확인할-5가지">오늘 장중 꼭 확인할 5가지</h2>
+
+<ol>
+  <li><strong>시초가 갭 방향</strong> — 반도체·항공 추격 여부</li>
+  <li><strong>외국인 수급</strong> — 전일 1,341억원 순매수 흐름 지속성</li>
+  <li><strong>개인 매도 강도</strong> — 3일 연속 매물이 오늘도 이어지는가</li>
+  <li><strong>코스피 7,020선 돌파 성부</strong> — 박스권 상단 저항선 통과 여부</li>
+  <li><strong>내일 새벽 미국 지표</strong> — 신규 실업수당청구건수·신규 주택판매 (내일 21:30, 23:00)</li>
+</ol>
+
+<hr />
+
+<h2 id="오늘을-어떻게-읽어야-할까">오늘을 어떻게 읽어야 할까</h2>
+
+<p>오늘은 “반도체 강세 vs 개인 계속 판다”는 대결 구도입니다. 외국인이 지속적으로 들어오면서 반도체·항공 같은 테마는 자꾸만 오르려고 하는데, 개인이 매일 1조 원대 매물을 쏟아내니까 시장 전체는 제자리에 있어요.</p>
+
+<p>이런 상황에서는 <strong>“큰 흐름이 정해질 때까지 기다리기”</strong>가 최고의 전략입니다. 시초가 방향을 먼저 읽고, 그에 따라 움직이는 게 현명해요. 특히 미-이란 협상처럼 예측 불가능한 변수가 남아있을 때는요.</p>
+
+<p>내일 새벽 미국 지표도 변수입니다. 고용 데이터가 약하면 금리 인상 우려가 완화되고, 강하면 긴축이 길어질 수 있거든요. 지금은 그 신호를 기다리는 국면이 맞습니다.</p>
+
+<hr />
+
+<p>오늘 시장에서 어떤 신호를 포착하셨는지 댓글로 나눠주세요!</p>
+
+<p>#NextTheme #종가베팅 #반도체 #항공주 #개인매도 #수급분석 #미국시장 #유가하락</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[유가 하락과 반도체 강세가 교차하는 모순의 시간입니다. 💭]]></summary></entry><entry><title type="html">코스피 7000선 회복한 하루, 반도체 기판 테마로 자금 쏠렸다 — 종가베팅 하루 마감 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/22/daily/" rel="alternate" type="text/html" title="코스피 7000선 회복한 하루, 반도체 기판 테마로 자금 쏠렸다 — 종가베팅 하루 마감 정리" /><published>2026-09-22T21:00:00+09:00</published><updated>2026-09-22T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/22/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/22/daily/"><![CDATA[<p>안녕하세요 😊 오늘 하루 시장을 정리하고, 어제와 오늘 AI가 골랐던 종목들이 실제로 어떻게 움직였는지 있는 그대로 되짚어보는 시간입니다. 투자를 이제 막 시작하신 분도 편하게 읽으실 수 있도록 쉽게 풀어드릴게요.</p>
 
 <h2 id="어제-판단은-실제로-어땠나">어제 판단은 실제로 어땠나</h2>
 
@@ -2344,181 +2547,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <p>이번 주는 <strong>긴축의 현실화</strong>가 시장의 큰 화제였습니다. 코스피 약세 속에서도 기술주 일부 테마가 회전하며 기회를 만들었지만, 선별 성과가 음수로 마감한 것은 <strong>단기 변동성이 아직 투자자 공감을 얻지 못했다는 뜻</strong>입니다. 다음 주는 미국 경기 지표가 방향을 결정할 것으로 보입니다. 댓글로 다음 주 시장 전망을 나눠주세요.</p>
 
-<p>#이번주코스피 #반도체 #광통신 #긴축 #매크로 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="weekly" /><summary type="html"><![CDATA[한 주를 마치며]]></summary></entry><entry><title type="html">반도체 모멘텀 속 외국인 순매수 전환 — 월요일 갭 여부가 갈림길</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/19/weekend/" rel="alternate" type="text/html" title="반도체 모멘텀 속 외국인 순매수 전환 — 월요일 갭 여부가 갈림길" /><published>2026-09-19T06:00:00+09:00</published><updated>2026-09-19T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/19/weekend</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/19/weekend/"><![CDATA[<h2 id="한-주-끝나고-외국인이-들어왔다">한 주 끝나고, 외국인이 들어왔다</h2>
-
-<p>한 주가 끝났습니다. 금요일 미국장에서 가장 눈에 띈 신호는 <strong>반도체 지수 +2.78%</strong> 강세입니다. 젠슨 황의 “내년 칩 판매 2배” 발언이 촉매였고, 국내 8월 반도체 수출이 <strong>466.5억달러(+209%)로 역대 최대</strong>를 기록한 것까지 겹쳤습니다.</p>
-
-<p>그런데 더 중요한 신호가 하나 더 있습니다. 어젯밤(금요일) 미국 지수를 보면:</p>
-<ul>
-  <li>다우 <strong>-0.18%</strong> (약세)</li>
-  <li>S&amp;P500 <strong>+0.17%</strong> (소폭 상승)</li>
-  <li>나스닥 <strong>+0.40%</strong> (상승)</li>
-  <li><strong>반도체 +2.78%</strong> (강세)</li>
-</ul>
-
-<p>지수 전체는 중립~약세인데 <strong>반도체만 쌩쌩</strong>합니다. 이것이 선별적 강세의 정의입니다. 미국 10년물이 5% 고점을 돌파했고 유가가 100달러 안팎에 고착된 상황에서, 시장이 “성장주는 피하되 반도체만 산다”는 신호를 보내는 겁니다.</p>
-
-<h2 id="국내-외국인-8개월만에-순매수-전환">국내 외국인, 8개월만에 순매수 전환</h2>
-
-<p><strong>가장 극적인 변화는 외국인 수급입니다.</strong> 어제 국내 주식 시장에 외국인이 <strong>3,440억원을 순매수</strong>했다는 뉴스가 나왔습니다. 이는 8개월 만에 처음입니다. 그동안 외국인은 꾸준히 팔고만 있었는데, 이 흐름이 끊켰다는 뜻입니다.</p>
-
-<p>외국인이 매수로 돌아선 배경:</p>
-<ul>
-  <li>반도체 호재 확대(젠슨 황 발언 + 수출 최대 기록)</li>
-  <li>미·중 정상회담 임박(다음주 예정, 긴장 완화 기대)</li>
-  <li>국내 주가 밸류에이션이 상대적으로 저평가됨(미국 10년물 5% 환경에서)</li>
-</ul>
-
-<h2 id="이번주-주목할-세-섹터">이번주 주목할 세 섹터</h2>
-
-<h3 id="1-반도체ai인프라--내년-성장-전망">1. 반도체·AI인프라 — 내년 성장 전망</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>신호</th>
-      <th>수치</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>필라델피아 반도체</td>
-      <td>+2.78% (지수 통틀어 최강)</td>
-    </tr>
-    <tr>
-      <td>8월 국내 반도체 수출</td>
-      <td>466.5억$ (+209% YoY)</td>
-    </tr>
-    <tr>
-      <td>젠슨 황 발언</td>
-      <td>“내년 칩 판매 2배”</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>반도체는 단순 수급이 아니라 <strong>내년 실적 기대</strong>로 움직이고 있습니다. 금리가 높으면 성장주 밸류에이션이 힘들어지는데, 반도체만은 “2년 뒤 매출”이 이미 가격에 반영된 단계라는 뜻입니다.</p>
-
-<h3 id="2-전력전선신재생--ai-데이터센터-수요">2. 전력·전선·신재생 — AI 데이터센터 수요</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>신호</th>
-      <th>수치</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>국내 전선 테마</td>
-      <td>+10.87% (주간 1위)</td>
-    </tr>
-    <tr>
-      <td>외국인 순매수</td>
-      <td>전력 인프라 중심</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>AI 데이터센터 건설이 본격화되면서 <strong>전력 수요가 급증</strong>하고 있습니다. 반도체보다 한발 늦은 테마지만, 기관과 외국인이 동반해서 매수하는 구간입니다.</p>
-
-<h3 id="3-건설해외건설--ai-센터-lng-플랜트-수주">3. 건설·해외건설 — AI 센터, LNG 플랜트 수주</h3>
-
-<p>AI 데이터센터 수주(삼성E&amp;A 등 대형 건설사 중심)와 중동 긴장에 따른 LNG 플랜트 수주 기대가 함께 작동하고 있습니다.</p>
-
-<h2 id="어제금요일-선별-종목은-어떻게-됐나">어제(금요일) 선별 종목은 어떻게 됐나</h2>
-
-<p>5개 종목을 추적했습니다. <strong>1개만 실매수로 들어가고 나머지 4개는 미매수</strong>였습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>선별 슬롯</th>
-      <th>어제 상황</th>
-      <th>저녁 갭</th>
-      <th>평가</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>삼성중공업</strong></td>
-      <td>—</td>
-      <td><strong>09-17 매수 후 보유</strong> ✅</td>
-      <td>평단 대비 -2.44%~-1.51%</td>
-      <td>조선 테마 약세, 중동 긴장 LNG선 기대</td>
-    </tr>
-    <tr>
-      <td>SK하이닉스</td>
-      <td>15:10 최종</td>
-      <td>미매수</td>
-      <td>종가 대비 ±0.43%</td>
-      <td>반도체 대장주, 미니 갭 형성</td>
-    </tr>
-    <tr>
-      <td>삼성E&amp;A</td>
-      <td>15:10 최종</td>
-      <td>미매수</td>
-      <td>(갭 데이터 없음)</td>
-      <td>건설 대장주, 외국인·기관 매집</td>
-    </tr>
-    <tr>
-      <td>일진전기</td>
-      <td>15:10 최종</td>
-      <td>미매수</td>
-      <td>종가 대비 +0.79%~-0.39%</td>
-      <td>전력장비 테마, 양호한 저녁 갭</td>
-    </tr>
-    <tr>
-      <td>가온전선</td>
-      <td>19:10 선별</td>
-      <td>미매수</td>
-      <td>(갭 데이터 없음)</td>
-      <td>전선 테마 1위, 외국인 1,100억원 매수</td>
-    </tr>
-  </tbody>
-</table>
-
-<p><strong>삼성중공업만 09-17에 진입한 보유 종목인데, 어제 저녁 갭이 평단 대비 -2.44%까지 내려갔습니다.</strong> 조선 테마는 약세였지만, 중동 긴장이 지속되면 LNG선·방산선 수주 기대가 살아날 수 있습니다. 월요일 시초가 확인 후 대응이 필요합니다.</p>
-
-<p>나머지 4개는 AI·반도체·전력·건설 테마에서 외국인과 기관이 큰 그림을 그리는 대장주들입니다. <strong>미매수는 진입 타이밍이 맞지 않았을 가능성</strong>이 높습니다.</p>
-
-<h2 id="월요일은-어떻게-될까">월요일은 어떻게 될까</h2>
-
-<p>어제 밤 선물 움직임:</p>
-<ul>
-  <li><strong>S&amp;P500 선물 +0.07%</strong> (소폭 상승)</li>
-  <li><strong>나스닥 선물 +0.59%</strong> (강세)</li>
-  <li><strong>한국 관련 ETF(EWY) -0.59%</strong> (약세)</li>
-</ul>
-
-<p>선물만 보면 <strong>혼조 출발</strong>의 신호입니다. 나스닥은 강한데 한국 관련 지표는 약합니다. 이는 미국 기술주 심리와 국내 시장 심리가 엇갈리는 혼조 신호로 해석됩니다.</p>
-
-<p><strong>월요일 방향성의 핵심:</strong></p>
-
-<ol>
-  <li><strong>외국인 매수세가 지속되는가</strong> — 이것이 가장 중요합니다. 반도체·전력 등에서 계속 사면 상승 가능성 높음.</li>
-  <li><strong>미국 금리(10년물 5.0%) 이상 오르는가</strong> — 5% 이상 고착되면 성장주 리스크 증가.</li>
-  <li><strong>유가(100달러 안팎)의 방향</strong> — 100달러 돌파 시 정유·화학에 추가 수혜. 하락 시 경기 둔화 우려.</li>
-</ol>
-
-<h2 id="이번주월요일금요일-주목할-변수">이번주(월요일~금요일) 주목할 변수</h2>
-
-<ul>
-  <li><strong>미·중 정상회담</strong> (다음주 예정이지만 시장은 이미 선반영 중) — 긴장 완화 신호가 나오면 갭상승 가능성 높음.</li>
-  <li><strong>반도체 모멘텀 지속성</strong> — 젠슨 황 발언이 얼마나 오래 영향을 줄까</li>
-  <li><strong>외국인 순매수의 실체</strong> — 한 번의 매수인가, 흐름 반전인가</li>
-</ul>
-
-<h2 id="한-주를-마치며">한 주를 마치며</h2>
-
-<p>한국 시장이 “외국인 8개월 만의 순매수”라는 신호를 받으면서 분위기가 조금씩 달라지고 있습니다. 반도체·전력 같은 <strong>기술 테마에 외국인이 들어오는 흐름</strong>은 선별적이고 구체적입니다.</p>
-
-<p>다만 금리와 유가라는 <strong>매크로 리스크</strong>는 여전히 남아 있습니다. 월요일 시장이 이 리스크를 어떻게 평가하는지 확인하는 주가 될 것 같습니다.</p>
-
-<p>당신이 어제 선별된 종목을 보유 중이라면, 월요일 시초가 갭을 확인하고 <strong>차분하게 대응</strong>하는 게 좋습니다. 급락장이 아닌 만큼 서두를 필요는 없습니다.</p>
-
-<p>혹시 다음주 투자에 대해 궁금한 점이 있으면 <strong>댓글로 남겨주세요.</strong> 선별 종목이나 시장 흐름에 대해 함께 이야기해봅시다.</p>
-
-<hr />
-
-<p>#NextTheme #외국인순매수 #반도체 #전력장비 #AI인프라 #월요일갭</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[한 주 끝나고, 외국인이 들어왔다]]></summary></entry></feed>
+<p>#이번주코스피 #반도체 #광통신 #긴축 #매크로 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="weekly" /><summary type="html"><![CDATA[한 주를 마치며]]></summary></entry></feed>
