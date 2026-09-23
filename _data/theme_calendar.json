@@ -1,25 +1,25 @@
 {
-  "lastTradingDay" : "2026-09-22",
-  "totalDays" : 95,
+  "lastTradingDay" : "2026-09-23",
+  "totalDays" : 96,
   "summary" : {
-    "tradingDays" : 95,
+    "tradingDays" : 96,
     "sectorCount" : 16,
-    "upDays" : 87,
-    "avgChangeRate" : 5.75,
+    "upDays" : 88,
+    "avgChangeRate" : 5.81,
     "topSector" : "반도체·AI인프라",
     "topSectorDays" : 22
   },
   "now" : {
-    "date" : "2026-09-22",
+    "date" : "2026-09-23",
     "bettingGrade" : "YELLOW",
     "regimeTag" : "YELLOW",
     "themeRegime" : "THEME_LED",
     "marketSignal" : "혼조",
-    "kospi" : 0.15,
-    "kosdaq" : -0.23,
-    "leadTheme" : "반도체 기판(FC-BGA/PCB/MLB 등)",
-    "leadChangeRate" : 9.82,
-    "themePremium" : 9.67
+    "kospi" : 0.9,
+    "kosdaq" : 1.21,
+    "leadTheme" : "광고",
+    "leadChangeRate" : 11.22,
+    "themePremium" : 10.32
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
@@ -54,17 +54,17 @@
     "rank1Days" : 3,
     "top3Days" : 14
   }, {
+    "sector" : "소비재·유통",
+    "rank1Days" : 3,
+    "top3Days" : 12
+  }, {
+    "sector" : "매크로·기타",
+    "rank1Days" : 8,
+    "top3Days" : 11
+  }, {
     "sector" : "로봇·AI소프트웨어",
     "rank1Days" : 3,
     "top3Days" : 11
-  }, {
-    "sector" : "소비재·유통",
-    "rank1Days" : 3,
-    "top3Days" : 11
-  }, {
-    "sector" : "매크로·기타",
-    "rank1Days" : 7,
-    "top3Days" : 10
   }, {
     "sector" : "통신·광통신",
     "rank1Days" : 5,
@@ -1814,6 +1814,25 @@
         "changeRate" : 4.27
       } ],
       "mainStock" : ""
-    }, null, null, null ] ]
+    }, {
+      "day" : 23,
+      "date" : "2026-09-23",
+      "theme" : "광고",
+      "sector" : "매크로·기타",
+      "changeRate" : 11.22,
+      "prevDay" : "NEW",
+      "regime" : "THEME_LED",
+      "slot" : "15:00",
+      "kospi" : 0.9,
+      "themePremium" : 10.32,
+      "runners" : [ {
+        "theme" : "양자암호/양자컴퓨팅",
+        "changeRate" : 3.51
+      }, {
+        "theme" : "화장품",
+        "changeRate" : 2.96
+      } ],
+      "mainStock" : ""
+    }, null, null ] ]
   } ]
 }
