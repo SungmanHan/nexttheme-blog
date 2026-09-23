@@ -1,4 +1,145 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-23T10:03:45+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">9/22 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/23/review-20260922-review/" rel="alternate" type="text/html" title="9/22 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-09-23T09:00:00+09:00</published><updated>2026-09-23T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/23/review_20260922-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/23/review-20260922-review/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-23T20:08:02+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">삼성전자, 반도체 훈풍 속 주목받은 이유 — 수급으로 본 종가베팅 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/23/nt2-1505-snapshot/" rel="alternate" type="text/html" title="삼성전자, 반도체 훈풍 속 주목받은 이유 — 수급으로 본 종가베팅 분석" /><published>2026-09-23T15:05:00+09:00</published><updated>2026-09-23T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/23/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/23/nt2-1505-snapshot/"><![CDATA[<p>오늘도 장 마감 시간이 다가왔습니다 📉📈 미국에서 불어온 반도체 훈풍에 국내 AI·반도체 소부장 종목들로 돈이 몰렸는데요, 다만 연휴를 앞두고 투자자들이 몸을 사리면서 상승폭은 예상보다 크지 않았습니다. 오늘 시장에서 어떤 종목이 눈에 띄었는지 살펴보겠습니다.</p>
+
+<h2 id="오늘-시장은-어떤-분위기였나">오늘 시장은 어떤 분위기였나</h2>
+
+<p>미국 반도체 업종의 훈풍이 국내로 이어지면서 AI·반도체 소부장(소재·부품·장비) 종목에 자금이 몰렸습니다. 다만 연휴를 앞둔 관망 심리 때문에 상승폭 자체는 크게 확대되지는 못했습니다.</p>
+
+<h2 id="오늘-왜-이-종목들이-선택됐을까">오늘 왜 이 종목들이 선택됐을까?</h2>
+
+<h3 id="1-삼성전자-005930">1. 삼성전자 (005930)</h3>
+
+<p><strong>종가 284,500원, 전일 대비 +2.89%</strong>로 마감했습니다.</p>
+
+<p>큰 투자기관(기관)과 외국인이 여러 날째 나란히 대규모로 사들이고, 매수 호가에도 돈이 두껍게 쌓여 있는 흐름이 확인된 반도체 대장주입니다. AI·데이터센터 관련 훈풍이 이어지는 가운데, 오늘 데이터에서는 매수세가 견고하게 유지된 점이 눈에 띄었습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>항목</th>
+      <th>수치</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>기본</td>
+      <td>당일 종가 / 등락률</td>
+      <td>284,500원 / <strong>+2.89%</strong></td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>거래대금 / 시가총액</td>
+      <td>6.9조원 / 1,664.7조원</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>주도 테마 / 테마내순위</td>
+      <td>CXL(컴퓨트익스프레스링크) / <strong>2위</strong></td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>RSI / RVOL / 이평수렴</td>
+      <td>62.3 / <strong>0.94</strong> / +0.0%</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>52주 신고가 / OBV</td>
+      <td>아님 / 약세 다이버전스(매수세 약화 신호)</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>외국인 순매수 / 기관 순매수</td>
+      <td><strong>+45만 주</strong> / <strong>+79만 주</strong></td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>매출 YoY</td>
+      <td><strong>+138.1%</strong></td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>최근 분기 실적</td>
+      <td>2026.09 분기: 매출 약 205.0조원 / 영업이익 약 111.8조원</td>
+    </tr>
+    <tr>
+      <td>점수</td>
+      <td>AI 종합 점수</td>
+      <td><strong>46점</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>외국인과 기관이 동시에 순매수에 나선 만큼, “큰손”들의 관심이 이 종목에 쏠려 있었다는 뜻으로 해석할 수 있습니다. 다만 OBV(거래량 기반 지표)는 약세 다이버전스를 보여, 가격 상승만큼 거래 강도가 뒷받침되지는 않았다는 점도 함께 눈에 띄었습니다.</p>
+
+<h3 id="2-원익홀딩스-030530">2. 원익홀딩스 (030530)</h3>
+
+<p><strong>종가 28,300원, 전일 대비 +6.79%</strong>로 마감했습니다.</p>
+
+<p>반도체 장비 테마 안에서 오늘 거래대금이 평소(5일 평균)의 <strong>3.6배</strong>로 크게 늘었고, 매수 호가도 든든하게 받쳐주는 흐름이 확인됐습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>항목</th>
+      <th>수치</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>기본</td>
+      <td>당일 종가 / 등락률</td>
+      <td>28,300원 / <strong>+6.79%</strong></td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>거래대금 / 시가총액</td>
+      <td>1,861억원 / 2.2조원</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>주도 테마 / 테마내순위</td>
+      <td>반도체 장비 / <strong>2위</strong></td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>RSI / RVOL / 이평수렴</td>
+      <td>69.4 / <strong>2.11</strong> / +0.3%</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>52주 신고가 / OBV</td>
+      <td>아님 / 중립</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>외국인 순매수 / 기관 순매도</td>
+      <td><strong>+12만 주</strong> / -6,000주</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>호가신호</td>
+      <td>매수벽 강함</td>
+    </tr>
+    <tr>
+      <td>점수</td>
+      <td>AI 종합 점수</td>
+      <td><strong>42점</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>평소보다 3배 넘게 불어난 거래대금과, 매수벽이 강하게 형성된 호가 흐름이 함께 나타났다는 점이 오늘 데이터에서 확인된 특징입니다.</p>
+
+<h2 id="nexttheme-알고리즘은-왜-이-종목들을-골랐을까">NextTheme 알고리즘은 왜 이 종목들을 골랐을까</h2>
+
+<p>두 종목 모두 <strong>거래대금이 평소보다 눈에 띄게 늘어난 상태에서, 매수 호가가 두껍게 쌓여 있었다</strong>는 공통점이 있습니다. 삼성전자는 외국인·기관이라는 “큰손” 수급이 동시에 몰린 대형주 케이스였고, 원익홀딩스는 테마 안에서 거래대금이 급증한 중소형주 케이스였습니다. 오늘 이 흐름에서 제가 주목한 부분은, 같은 반도체 관련 훈풍이라도 대형주와 중소형주에서 자금이 몰리는 방식이 서로 달랐다는 점입니다. 대형주는 기관·외국인 수급으로, 중소형주는 거래대금 폭증과 호가 강도로 신호가 나타난 셈입니다.</p>
+
+<h2 id="마무리하며">마무리하며</h2>
+
+<p>연휴를 앞둔 관망세 속에서도 반도체 관련 종목으로는 자금이 유입된 하루였습니다. 이 글에 담긴 내용은 AI가 오늘 데이터를 근거로 선별한 기록이며, 매수를 권하는 글이 아니라는 점을 다시 한번 말씀드립니다. 궁금한 종목이 있다면 댓글로 남겨주세요 🙌</p>
+
+<p>#NextTheme #종가베팅 #삼성전자 #원익홀딩스 #반도체장비 #CXL #수급분석 #거래대금</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[오늘도 장 마감 시간이 다가왔습니다 📉📈 미국에서 불어온 반도체 훈풍에 국내 AI·반도체 소부장 종목들로 돈이 몰렸는데요, 다만 연휴를 앞두고 투자자들이 몸을 사리면서 상승폭은 예상보다 크지 않았습니다. 오늘 시장에서 어떤 종목이 눈에 띄었는지 살펴보겠습니다.]]></summary></entry><entry><title type="html">9/22 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/23/review-20260922-review/" rel="alternate" type="text/html" title="9/22 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-09-23T09:00:00+09:00</published><updated>2026-09-23T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/23/review_20260922-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/23/review-20260922-review/"><![CDATA[<blockquote>
   <p>데이터 기준: 2026-09-23 10:03 키움 ka10001 일괄 조회</p>
 </blockquote>
 
@@ -2576,184 +2717,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가베팅 #복기일지 #20260918 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-09-21 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">반도체 수출 최고치 경신도, 금리 5% 돌파 앞 신중해야 할 이유</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/21/0600-briefing/" rel="alternate" type="text/html" title="반도체 수출 최고치 경신도, 금리 5% 돌파 앞 신중해야 할 이유" /><published>2026-09-21T06:00:00+09:00</published><updated>2026-09-21T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/21/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/21/0600-briefing/"><![CDATA[<blockquote>
-  <p>월요일 아침, 증시 신호는 엇갈렸습니다. AI 인프라 수요는 최강이지만 매크로 불확실성이 커졌기 때문입니다.</p>
-</blockquote>
-
-<hr />
-
-<h2 id="-지난-금요일-ai-선별-종목-복기">📋 지난 금요일 AI 선별 종목 복기</h2>
-
-<p>지난 금요일 오후에 AI가 최종 선별한 종목은 <strong>최종 선별 3개 + 19:10 선별 1개</strong> 총 4종목이었습니다. 전체 방향은 <strong>유지</strong> — 모멘텀이 지속되는 것으로 평가했던 판단을 그대로 따르는 이유입니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>슬롯</th>
-      <th>지난 금요일 전략</th>
-      <th>오늘 아침 현황</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>삼성중공업</strong> ✅</td>
-      <td>—</td>
-      <td>09-17 매수, 평단 21,372원</td>
-      <td><strong>보유 중</strong> — 저녁 평단 대비 -1.51% ~ -2.44% 하락했으나 중동 긴장 지속 시 LNG선·방산선 수주 기대로 시초가 반등 여부 관찰</td>
-    </tr>
-    <tr>
-      <td>SK하이닉스</td>
-      <td>15:10 최종</td>
-      <td>전일 외국인·기관 대규모 순매수 + 반도체 강세</td>
-      <td>저녁 NXT 갭 ±0.43% 횡보로 방향성 불명 — 시초가 갭 방향 확인 필요</td>
-    </tr>
-    <tr>
-      <td>삼성E&amp;A</td>
-      <td>15:10 최종</td>
-      <td>AI 데이터센터·LNG 플랜트 수주 기대 속 외국인·기관 매집</td>
-      <td>저녁 갭 데이터 미수집</td>
-    </tr>
-    <tr>
-      <td>일진전기</td>
-      <td>15:10 최종</td>
-      <td>외국인 매도세 접고 순매수 전환</td>
-      <td>저녁 NXT 갭 +0.79% ~ -0.39% 상승 편향 유지</td>
-    </tr>
-    <tr>
-      <td>가온전선</td>
-      <td>19:10 선별</td>
-      <td>전선 테마 1위, 외국인 1,100억원 순매수</td>
-      <td>저녁 갭 데이터 미수집</td>
-    </tr>
-  </tbody>
-</table>
-
-<p><strong>특히 삼성중공업은 09-17 매수 후 지속 보유 중인 종목입니다.</strong> 평단(21,372원) 대비 저녁 애프터마켓(15:40~20:00)에서 -1.51%부터 -2.44%까지 하락했지만, 중동 정정 불안정이 LNG선과 방산선 수주로 이어질 가능성을 고려해 시초가 반등을 기다리고 있는 상태입니다.</p>
-
-<hr />
-
-<h2 id="-전일-국내-수급-동향--8개월만에-순매수-신호">📊 전일 국내 수급 동향 — 8개월만에 순매수 신호</h2>
-
-<p>외국인과 기관의 매수세가 두드러졌습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>투자자</th>
-      <th>수급</th>
-      <th>특징</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>외국인</strong></td>
-      <td><strong>+9,162억원 순매수</strong></td>
-      <td>8개월만에 순매수 전환 — 반도체 대장주 중심</td>
-    </tr>
-    <tr>
-      <td><strong>기관</strong></td>
-      <td><strong>+1.9조원 순매수</strong></td>
-      <td>외국인과 동반 매수, AI 인프라 + 건설 중심</td>
-    </tr>
-    <tr>
-      <td><strong>개인</strong></td>
-      <td><strong>-4.5조원 순매도</strong></td>
-      <td>매수 쏠림에 역매매</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>상위 섹터에서는 <strong>전선이 +10.87%로 최강</strong>, 광통신(+6.97%)과 뉴로모픽 반도체(+6.67%)가 뒤를 이었습니다. AI 인프라 수요로 파워 인프라(발전·송전·배전)가 주목받으면서 이들 종목이 외국인·기관의 집중 매매 대상이 된 것입니다.</p>
-
-<hr />
-
-<h2 id="-지난-금요일-밤-미국장--반도체만-강세-다우는-약화">🌎 지난 금요일 밤 미국장 — 반도체만 강세, 다우는 약화</h2>
-
-<p>지난 금요일 밤 미국장은 엇갈린 신호였습니다.</p>
-
-<p><strong>강세 진영:</strong> 반도체가 압도했습니다.</p>
-<ul>
-  <li><strong>필라델피아 반도체: +2.78%</strong> — 7개 지수 중 최강세. 장중 저가 매수(아랫꼬리 99.5%)가 지속되며 상승 탄력이 살아있었습니다.</li>
-  <li><strong>나스닥 100: +0.67%</strong> — AI 기술주 쏠림. 마감 시 상승 모습이 강했습니다.</li>
-  <li><strong>S&amp;P 500: +0.17%</strong> — 완만한 상승 속에서도 장중 저점 매수세 유입으로 고점 부근에서 마감했습니다(아랫꼬리 86%).</li>
-</ul>
-
-<p><strong>약세 진영:</strong> 다우와 운송주가 약했습니다.</p>
-<ul>
-  <li><strong>다우존스: -0.18%</strong> — 혼조. 장중 저가 지지(아랫꼬리 56%)는 있었으나 마감에 약했습니다.</li>
-  <li><strong>다우운송: -0.52%</strong> — 가장 약한 지표. 기존 모멘텀 약화 신호.</li>
-</ul>
-
-<p><strong>주목할 신호:</strong></p>
-<ul>
-  <li><strong>VIX: -4.08%</strong> — 공포지수 하락으로 단기 변동성은 안정권 진입했습니다.</li>
-</ul>
-
-<hr />
-
-<h2 id="-오늘의-핵심-뉴스--호재-vs-악재의-충돌">📰 오늘의 핵심 뉴스 — 호재 vs 악재의 충돌</h2>
-
-<h3 id="-호재-반도체-수출-467억달러-역대-최대-경신">🟢 호재: 반도체 수출 467억달러 역대 최대 경신</h3>
-
-<p>반도체 수출이 <strong>467억달러</strong>로 역대 최대를 기록했습니다. DDR5·NAND 같은 고부가가치 메모리가 <strong>각각 86%, 93% 급등</strong>하며 <strong>P×Q 동시 확장</strong>을 보여줬습니다. 이는 AI 인프라 수요가 단순 추측이 아니라 실제 현물 주문으로 입증됐다는 의미입니다.</p>
-
-<p><strong>오늘 확인할 점:</strong> 삼성전자·SK하이닉스 외국인 매수세가 내일도 이어지는지 여부.</p>
-
-<h3 id="-악재-미국-금리-5-돌파--자사주-매입-종료-예고">🟡 악재: 미국 금리 5% 돌파 + 자사주 매입 종료 예고</h3>
-
-<p><strong>미국 10년물 금리가 5.04%로 돌파</strong>했습니다. 19년래 최고 수준입니다. 연준 카슈카리 위원도 “인플레이션이 아직 높다”고 발언하면서 금리 인상 사이클이 장기화할 가능성을 시사했습니다.</p>
-
-<p>더불어 <strong>삼성전자·SK하이닉스의 자사주 매입이 10월 중순 종료될 예정</strong>입니다. 34.7조원의 수급 버팀목이 사라지는 것이죠. 기관·개인의 대체 매수가 없으면 대형주 조정 압력이 생길 수 있습니다.</p>
-
-<p><strong>오늘 확인할 점:</strong> 연기금·기관의 대체 매수 유입 여부.</p>
-
-<h3 id="-변수-미중-정상회담-목요일-예정">🟣 변수: 미중 정상회담 (목요일 예정)</h3>
-
-<p>미중 정상회담이 <strong>09-24 목요일</strong>에 예정돼 있습니다. AI·무역·핵심 광물이 의제입니다. 합의 도출 시 기술주 호재이지만, 결렬 시 변동성이 재확대될 수 있습니다.</p>
-
-<hr />
-
-<h2 id="-오늘의-베팅-등급--전략--신중-구간">🎯 오늘의 베팅 등급 &amp; 전략 — <strong>신중 구간</strong></h2>
-
-<p><strong>종가베팅 등급: 신중 구간</strong> — 신중한 접근이 필요한 국면입니다.</p>
-
-<p><strong>AI의 판단:</strong></p>
-
-<blockquote>
-  <p>반도체·전선·광통신 중심 모멘텀 지속 가능성과 금리·환율 리스크가 병존합니다. 외국인·기관 동반 순매수(+2.8조원)로 수급 개선 신호는 긍정적이나, 미 10년물 5% 고착·환율 1,390원 고점권이 변동성 요인입니다. 반도체 대장주와 AI 인프라(전선·전력장비) 중심의 선별적 접근이 필요하되, 단기 매크로 변수에 따른 수급 변화를 예의주시해야 합니다.</p>
-</blockquote>
-
-<p><strong>내일 시장을 위한 포지셔닝:</strong></p>
-
-<p>반도체·전선·전력장비 중심으로 접근하되, 외국인 매수세 지속 여부가 핵심 변수입니다. 금리 5% 장기화 시 성장주 밸류에이션 부담이 커질 수 있다는 점도 유의할 부분입니다. <strong>환율이 1,400원을 돌파하면 외국인 추가 이탈 리스크</strong>가 커지므로 주시해야 합니다.</p>
-
-<hr />
-
-<h2 id="️-내일-확인할-체크리스트">⚠️ 내일 확인할 체크리스트</h2>
-
-<ul>
-  <li><strong>필라델피아 반도체 지수 +3% 이상 강세 지속 여부</strong> — 금요일의 모멘텀이 실명인지 확인</li>
-  <li><strong>외국인 매수세 지속 vs 환율 1,400원 돌파 시 이탈 전환</strong> — 수급 심장박동 모니터링</li>
-  <li><strong>전선 테마 거래대금 500억 이상 유지 여부</strong> — AI 인프라 테마의 지속력 판단</li>
-  <li><strong>삼성전자·SK하이닉스 자사주 매입 종료 대체 매수세 유입</strong> — 대형주 버팀목 확인</li>
-  <li><strong>미중 정상회담 사전 협의 진척도 및 양측 발언 톤</strong> — 주중 변동성 신호</li>
-</ul>
-
-<hr />
-
-<h2 id="마무리--오늘-하루를-어떻게-볼-것인가">마무리 — 오늘 하루를 어떻게 볼 것인가</h2>
-
-<p>월요일 아침, 시장은 기회와 위험이 공존하는 상태입니다.</p>
-
-<p><strong>기회:</strong> 반도체 수출 최고치, 외국인 8개월만의 순매수 전환, 전선·광통신의 테마 강세는 모두 실제 수요 기반의 신호입니다.</p>
-
-<p><strong>위험:</strong> 금리 5% 돌파, 자사주 매입 종료 예고, 환율 고점권은 이 기회를 매순간 흔들 수 있습니다.</p>
-
-<p><strong>내일 개장 전 스스로에게 묻기:</strong> 기관과 외국인이 모은 포지션이 내일도 계속되려면, 오늘 금리·환율·미중 정상회담이 큰 변수가 되지 않아야 합니다. 이 조건이 유지되는지 오전 시황으로 판단하고 포지션을 정할 차례입니다.</p>
-
-<p><strong>반도체 수출 훈풍과 금리 5% 리스크, 어느 쪽에 더 무게를 두시나요? 댓글로 의견 남겨주시면 다음 브리핑에 참고하겠습니다.</strong></p>
-
-<hr />
-
-<p>#반도체 #전선 #외국인매수 #AI인프라 #종가베팅 #금리 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[월요일 아침, 증시 신호는 엇갈렸습니다. AI 인프라 수요는 최강이지만 매크로 불확실성이 커졌기 때문입니다.]]></summary></entry></feed>
+<p>#종가베팅 #복기일지 #20260918 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-09-21 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
