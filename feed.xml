@@ -1,4 +1,387 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-25T06:10:18+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">추석 연휴 앞두고 국채금리 5.22% 급등 — 오늘 대응 전략은?</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/25/0600-briefing/" rel="alternate" type="text/html" title="추석 연휴 앞두고 국채금리 5.22% 급등 — 오늘 대응 전략은?" /><published>2026-09-25T06:00:00+09:00</published><updated>2026-09-25T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/25/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/25/0600-briefing/"><![CDATA[<p>🚨 간밤 미국장이 보낸 신호는 명확합니다. <strong>미국 10년물 국채금리가 19년 만에 5.22%</strong>까지 치솟았고, <strong>야간 선물(나스닥·S&amp;P·EWY) 일제히 하락</strong>했습니다. 추석 연휴로 3일간 대응 불가 구간이 눈앞인 지금, 시장은 <strong>“관망하고 기다려라”</strong>는 신호를 보내고 있습니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-27T12:28:32+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">이번 주 코스피 2.71% 상승 — 반도체 주도와 외국인 매도 전환</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/27/weekly/" rel="alternate" type="text/html" title="이번 주 코스피 2.71% 상승 — 반도체 주도와 외국인 매도 전환" /><published>2026-09-27T06:00:00+09:00</published><updated>2026-09-27T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/27/weekly</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/27/weekly/"><![CDATA[<table>
+  <tbody>
+    <tr>
+      <td><strong>작성일</strong>: 2026-09-27</td>
+      <td><strong>주간마감</strong>: 코스피 +2.71% (6,894→7,081)</td>
+      <td>코스닥 +2.10% (827→844)</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="한주간-흐름-반도체-강세와-외국인의-발걸음">한주간 흐름: 반도체 강세와 외국인의 발걸음</h2>
+
+<h3 id="반도체-완전주도-장세-외국인은-중반-전환">반도체 완전주도 장세, 외국인은 중반 전환</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>지표</th>
+      <th>시작</th>
+      <th>마감</th>
+      <th>변화</th>
+      <th>평가</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>코스피</strong></td>
+      <td>6,894</td>
+      <td>7,081</td>
+      <td><strong>+2.71%</strong></td>
+      <td>✅ 강세</td>
+    </tr>
+    <tr>
+      <td><strong>코스닥</strong></td>
+      <td>827</td>
+      <td>844</td>
+      <td><strong>+2.10%</strong></td>
+      <td>✅ 강세</td>
+    </tr>
+    <tr>
+      <td><strong>원달러</strong></td>
+      <td>1,390</td>
+      <td>1,367</td>
+      <td><strong>-1.66%</strong></td>
+      <td>📉 약세</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>외국인 수급</strong>:</p>
+<ul>
+  <li>주 초반: 반도체 중심 순매수 (+1,607억원→+1,358억원)</li>
+  <li><strong>주 중반 이후: 순매도 전환</strong> (-4,763억원→-4,822억원)</li>
+  <li><strong>주간 합계: -1.14조원 순매도</strong></li>
+</ul>
+
+<p><strong>개인·기관</strong>: 개인 -10.3조원 / 기관 +3.2조원</p>
+
+<hr />
+
+<h2 id="주목할-테마-반도체-수출-최대치-상승-모멘텀-이어지나">주목할 테마: 반도체 수출 최대치, 상승 모멘텀 이어지나</h2>
+
+<h3 id="1-반도체메모리시스템hbm--수출-467억달러-역대-최대-경신">1. <strong>반도체(메모리·시스템·HBM)</strong> — 수출 467억달러, 역대 최대 경신</h3>
+<ul>
+  <li><strong>삼성전자·SK하이닉스</strong>: 7거래일 연속 상승 기록</li>
+  <li><strong>메모리 가격 상승세</strong> 관측:
+    <ul>
+      <li>DDR5 +86%</li>
+      <li>NAND +92%</li>
+    </ul>
+  </li>
+  <li><strong>펀더멘털 배경</strong>: 3분기 영업익 100조원 전망 제시</li>
+  <li><strong>주목할 조건</strong>: 미국 반도체 지수(SOX) 동향 + 메모리 가격 추이</li>
+</ul>
+
+<h3 id="2-반도체-밸류체인-확산--기판소재장비로-확대">2. <strong>반도체 밸류체인 확산</strong> — 기판·소재·장비로 확대</h3>
+<ul>
+  <li>대형주 강세가 공급망 전반으로 파급</li>
+  <li>AI 인프라 수요 뒷받침</li>
+</ul>
+
+<h3 id="3-ai-데이터센터전력-인프라--구조적-수혜">3. <strong>AI 데이터센터·전력 인프라</strong> — 구조적 수혜</h3>
+<ul>
+  <li>ESR 전력수요 확대(1.6GW)</li>
+  <li>AI 투자 사이클 지속성이 핵심</li>
+</ul>
+
+<hr />
+
+<h2 id="-약화-테마-모멘텀-사이클-진입-신호">📉 약화 테마: 모멘텀 사이클 진입 신호?</h2>
+
+<h3 id="1-항공--유가-반등으로-모멘텀-약화">1. <strong>항공</strong> — 유가 반등으로 모멘텀 약화</h3>
+<ul>
+  <li>유가 100달러 → 89달러 → <strong>주말 94달러 반등</strong></li>
+  <li>호르무즈 협상 타결이 반등조건 (하락 여건 사라짐)</li>
+</ul>
+
+<h3 id="2-레버리지-etf--규제-타격으로-거래대금-92-급락">2. <strong>레버리지 ETF</strong> — 규제 타격으로 거래대금 92% 급락</h3>
+<ul>
+  <li>단일종목 레버리지 규제 (12조 → 1조 거래대금)</li>
+  <li>반등 가능성: 규제 완화 또는 대체 상품 출현</li>
+</ul>
+
+<h3 id="3-가상자산--미국-금리물가-압박">3. <strong>가상자산</strong> — 미국 금리·물가 압박</h3>
+<ul>
+  <li>비트코인 8.7만달러 돌파 후 상승분 반납</li>
+  <li>미 금리 안정화 + 과세 유예 확정 시 반등 가능</li>
+</ul>
+
+<hr />
+
+<h2 id="거시-배경-금리-급등과-수출-강세의-기로">거시 배경: 금리 급등과 수출 강세의 기로</h2>
+
+<h3 id="미국-금리-상승-인플레-우려-재부상">미국 금리 상승, 인플레 우려 재부상</h3>
+<ul>
+  <li><strong>10년물 금리</strong>: 19년 만에 5.2% 수준 도달</li>
+  <li><strong>배경</strong>: 경기 강도 예상에 따른 금리 시장 변화</li>
+  <li><strong>시사점</strong>: 성장주 밸류에이션 변화의 배경이 되는 요인</li>
+</ul>
+
+<h3 id="한국-반도체-수출-역대-최대-경신">한국 반도체, 수출 역대 최대 경신</h3>
+<ul>
+  <li><strong>반도체 수출</strong>: 467억달러 달성</li>
+  <li><strong>시사점</strong>: AI 인프라 관련 수요 추이 주목</li>
+</ul>
+
+<h3 id="환율-변동-속-외국인-수급-전환">환율 변동 속 외국인 수급 전환</h3>
+<ul>
+  <li>원달러 1,390 → 1,367 (원화 기준 상승)</li>
+  <li><strong>주간 특징</strong>: 초반 매수 후 중반 이후 매도로 전환</li>
+  <li><strong>모니터링</strong>: 향후 환율·외국인 동향이 시장 방향 결정 요인</li>
+</ul>
+
+<hr />
+
+<h2 id="-차주9301004-시장-결정요소">📅 차주(9.30~10.04) 시장 결정요소</h2>
+
+<h3 id="-첫-분수령-0930-미국-근원-pce-물가-지표-2130-kst">🎯 <strong>첫 분수령: 09/30 미국 근원 PCE 물가 지표 (21:30 KST)</strong></h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>시나리오</th>
+      <th>PCE 전망</th>
+      <th>GDP 전망</th>
+      <th>예상 영향</th>
+      <th>종가배팅 관점</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>긍정</strong>(Good)</td>
+      <td>예상↓ YoY 3.3%</td>
+      <td>둔화</td>
+      <td>금리 안정 기대 + 외국인 순매수 재개</td>
+      <td>✅ 반도체 강세 지속 가능</td>
+    </tr>
+    <tr>
+      <td><strong>부정</strong>(Bad)</td>
+      <td>예상↑ YoY 3.3%</td>
+      <td>강세</td>
+      <td>금리 5% 장기화 우려 + 긴축 심화</td>
+      <td>⚠️ 성장주 밸류에이션 부담</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="-차주-이벤트-일정">📌 차주 이벤트 일정</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>날짜</th>
+      <th>시간(KST)</th>
+      <th>지표</th>
+      <th>의미</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>09/29(화)</strong></td>
+      <td>23:00</td>
+      <td>미국 JOLTS 구인건수</td>
+      <td>노동 수요 선행 지표</td>
+    </tr>
+    <tr>
+      <td><strong>09/30(수)</strong></td>
+      <td>08:00</td>
+      <td>한국 소매판매</td>
+      <td>민간 소비 경기선행</td>
+    </tr>
+    <tr>
+      <td><strong>09/30(수)</strong></td>
+      <td>21:30</td>
+      <td><strong>미국 PCE 물가</strong></td>
+      <td><strong>🔑 핵심 분수령</strong></td>
+    </tr>
+    <tr>
+      <td><strong>09/30(수)</strong></td>
+      <td>21:30</td>
+      <td>미국 GDP</td>
+      <td>경기 강도 지속 여부</td>
+    </tr>
+    <tr>
+      <td><strong>10/01(목)</strong></td>
+      <td>23:00</td>
+      <td>미국 ISM 제조업</td>
+      <td>제조업 확장/수축 (기준선 50, 전월 54.6)</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="차주-초점-pce-물가지표와-이슈-변수들">차주 초점: PCE 물가지표와 이슈 변수들</h2>
+
+<h3 id="-차주-첫-분수령-0930-미국-근원-pce-물가"><strong>📌 차주 첫 분수령: 09/30 미국 근원 PCE 물가</strong></h3>
+
+<p>다음 주 금요일(09/30) 발표될 미국 근원 PCE는 연준 긴축 방향을 좌우할 핵심 지표다. 이번 주 10년물 금리가 5.2%까지 오른 배경이 인플레 우려이기에, PCE 결과는 주식시장 방향 재설정의 계기가 될 수 있다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>시나리오</th>
+      <th>지표 결과</th>
+      <th>예상 반응</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>약한 인플레(예상 하회)</td>
+      <td>PCE YoY 3.3% 이하</td>
+      <td>금리 안정 기대 가능</td>
+    </tr>
+    <tr>
+      <td>강한 인플레(예상 상회)</td>
+      <td>PCE YoY 3.3% 초과</td>
+      <td>금리 지속 우려</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="-함께-주목할-지표들"><strong>🔍 함께 주목할 지표들</strong></h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>날짜</th>
+      <th>시각</th>
+      <th>지표</th>
+      <th>의미</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>09/29(화)</td>
+      <td>23:00</td>
+      <td>미국 JOLTS 구인건수</td>
+      <td>노동시장 수요 신호</td>
+    </tr>
+    <tr>
+      <td>09/30(수)</td>
+      <td>08:00</td>
+      <td>한국 소매판매</td>
+      <td>국내 소비 흐름</td>
+    </tr>
+    <tr>
+      <td>09/30(수)</td>
+      <td>21:30</td>
+      <td><strong>미국 PCE 물가</strong></td>
+      <td><strong>🔑 주요 결정 요소</strong></td>
+    </tr>
+    <tr>
+      <td>09/30(수)</td>
+      <td>21:30</td>
+      <td>미국 GDP</td>
+      <td>경기 강도 지속 여부</td>
+    </tr>
+    <tr>
+      <td>10/01(목)</td>
+      <td>23:00</td>
+      <td>미국 ISM 제조업</td>
+      <td>산업 확장 추세(기준선 50, 전월 54.6)</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="주목할-섹터-다음-주-주요-포인트">주목할 섹터: 다음 주 주요 포인트</h2>
+
+<h3 id="-반도체--수출과-금리의-줄다리기"><strong>🏭 반도체</strong> — 수출과 금리의 줄다리기</h3>
+<ul>
+  <li><strong>확인 사항</strong>: SOX 지수 동향 + 메모리 가격 추이</li>
+  <li><strong>고려 사항</strong>: 금리 5.5% 돌파 시 밸류에이션 변화 가능성</li>
+  <li><strong>기준</strong>: 거래대금 규모와 수급 방향 병행 확인</li>
+</ul>
+
+<h3 id="-ai-인프라-데이터센터전력"><strong>⚡ AI 인프라</strong> (데이터센터·전력)</h3>
+<ul>
+  <li><strong>배경</strong>: 1.6GW 전력수요 확대 언급</li>
+  <li><strong>확인 사항</strong>: 글로벌 AI 투자 사이클 지속 여부</li>
+  <li><strong>신호</strong>: 관련 산업의 거래대금 추이</li>
+</ul>
+
+<h3 id="-바이오제약"><strong>💊 바이오·제약</strong></h3>
+<ul>
+  <li><strong>배경</strong>: 방사성의약품(RPT) 거래 증가 + 비만치료제 급여 논의</li>
+  <li><strong>확인 사항</strong>: 글로벌 RPT 시장 동향</li>
+</ul>
+
+<hr />
+
+<h2 id="위험-요소-다음-주-주시할-변수들">위험 요소: 다음 주 주시할 변수들</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>변수</th>
+      <th>시나리오</th>
+      <th>영향 범위</th>
+      <th>모니터링 포인트</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>미 금리 5%↑</strong></td>
+      <td>긴축 장기화 신호</td>
+      <td>성장주 밸류에이션 변화</td>
+      <td>PCE 발표 이후 금리 추이</td>
+    </tr>
+    <tr>
+      <td><strong>환율 1,400원↑</strong></td>
+      <td>원화 약세 심화</td>
+      <td>외국인 수급 변화</td>
+      <td>환율 수준별 외국인 동향</td>
+    </tr>
+    <tr>
+      <td><strong>유가 급등</strong></td>
+      <td>호르무즈 협상 악화 신호</td>
+      <td>항공·물류 관련주</td>
+      <td>유가선물 움직임</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="한주를-기억하며-다음주를-준비하며">한주를 기억하며, 다음주를 준비하며</h2>
+
+<h3 id="-이번-주-특징">📍 이번 주 특징</h3>
+<ol>
+  <li><strong>반도체의 주도</strong> — 수출·영업익·메모리가격이 뒷받침</li>
+  <li><strong>외국인의 전환</strong> — 초반 매수에서 중반 이후 매도로 방향 전환</li>
+  <li><strong>금리의 급상승</strong> — 미국 10년물이 19년 만에 5.2% 도달</li>
+</ol>
+
+<h3 id="-다음-주-체크리스트">🔍 다음 주 체크리스트</h3>
+<ul>
+  <li><strong>09/30(수)</strong> 미국 근원 PCE 물가 발표 — 금리 안정성 판단의 핵심</li>
+  <li><strong>환율·외국인 수급</strong> — 1,400원대 진입 여부와 외국인 방향 전환 신호</li>
+  <li><strong>반도체·AI 인프라</strong> — 거래대금 규모와 수급 방향 지속성 확인</li>
+  <li><strong>유가·항공 테마</strong> — 호르무즈 협상 진전 여부에 따른 모멘텀 변화</li>
+</ul>
+
+<hr />
+
+<h2 id="주간-마감-반도체의-약한-순환-외국인의-발걸음">주간 마감: 반도체의 약한 순환, 외국인의 발걸음</h2>
+
+<p>이번 주 코스피는 2.71% 상승으로 마감했다. 반도체 강세가 주도했지만, 주 초반 외국인의 매수가 중반 이후 매도로 전환된 흐름이 주목할 점이다. 미국 10년물 금리가 19년 만에 5.2%까지 오른 배경에는 인플레 우려가 있었고, 이것이 외국인의 이탈 신호로 읽혔을 가능성이 있다.</p>
+
+<p>다음 주는 두 가지 축이 맞서는 주가 될 것으로 보인다. 한쪽은 반도체 수출·영업익·메모리가격이라는 펀더멘털 우위이고, 다른 한쪽은 금리 상승에 따른 성장주 밸류에이션 압박이다. 09/30 미국 근원 PCE 발표가 이 두 축의 균형추를 어느 쪽으로 기울일 것인지를 결정하는 첫 번째 신호가 될 것이다.</p>
+
+<hr />
+
+<p><strong>📺 다음 주 주간분석</strong>: 2026-10-04 06:00 KST</p>
+
+<p><em>이 글은 종가배팅 시장 분석을 위한 거시경제 맥락을 정리한 것입니다. 개별 종목 선택은 AI 베팅등급과 데이터 기반 필터링 결과를 참고하시기 바랍니다.</em></p>
+
+<hr />
+
+<p><strong>#반도체 #금리 #코스피 #외국인수급 #NextTheme #AI인프라 #메모리가격 #항공테마 #주간분석 #환율</strong></p>]]></content><author><name>NextTheme</name></author><category term="weekly" /><summary type="html"><![CDATA[작성일: 2026-09-27 주간마감: 코스피 +2.71% (6,894→7,081) 코스닥 +2.10% (827→844)]]></summary></entry><entry><title type="html">추석 연휴 앞두고 국채금리 5.22% 급등 — 오늘 대응 전략은?</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/25/0600-briefing/" rel="alternate" type="text/html" title="추석 연휴 앞두고 국채금리 5.22% 급등 — 오늘 대응 전략은?" /><published>2026-09-25T06:00:00+09:00</published><updated>2026-09-25T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/25/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/25/0600-briefing/"><![CDATA[<p>🚨 간밤 미국장이 보낸 신호는 명확합니다. <strong>미국 10년물 국채금리가 19년 만에 5.22%</strong>까지 치솟았고, <strong>야간 선물(나스닥·S&amp;P·EWY) 일제히 하락</strong>했습니다. 추석 연휴로 3일간 대응 불가 구간이 눈앞인 지금, 시장은 <strong>“관망하고 기다려라”</strong>는 신호를 보내고 있습니다.</p>
 
 <h2 id="-어제-선별-결과-오늘-아침-대응-가이드">📋 어제 선별 결과, 오늘 아침 대응 가이드</h2>
 
@@ -2214,154 +2597,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가베팅 #복기일지 #20260921 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-09-22 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">미국 반도체 4% 급등에 코스피 7000선 회복 — 내일 경제지표가 변수다</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/22/0600-briefing/" rel="alternate" type="text/html" title="미국 반도체 4% 급등에 코스피 7000선 회복 — 내일 경제지표가 변수다" /><published>2026-09-22T06:00:00+09:00</published><updated>2026-09-22T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/22/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/22/0600-briefing/"><![CDATA[<h2 id="미국-야간-ai-인프라-수요에-힘입어-역사적-강세">미국 야간, AI 인프라 수요에 힘입어 역사적 강세</h2>
-
-<p>간밤 미국장에서 기술주가 대거 상승했습니다. 나스닥 종합지수가 +2.26%를 기록하며 종가 기준 사상 최고치를 경신했고, 나스닥 100은 +2.83%까지 올랐습니다. 반도체 섹터는 더욱 강했는데, 필라델피아 반도체 지수가 <strong>+4.29%</strong> 급등했습니다. 이는 AI 칩 수요 확산과 국제유가 하락(-4.9$ 대비 95.37$), 그리고 미국 10년물 금리 하락(-0.045%p 대비 4.951%)이 기술주 밸류에이션 부담을 덜어주면서 나온 결과입니다.</p>
-
-<p>S&amp;P 500도 +1.49%, 다우존스는 +0.71%를 기록했습니다. 야간 선물(나스닥100 선물 +2.84%, S&amp;P500 선물 +1.49%)의 강세와 EWY(한국 ETF) +4.33% 상승이 오늘 국내 증시 추세를 뒷받침할 가능성이 높습니다.</p>
-
-<h2 id="-어제-ai-선별-복기--최종-2종목--탐색-2종목-이월-보유-1건">📋 어제 AI 선별 복기 — 최종 2종목 + 탐색 2종목, 이월 보유 1건</h2>
-
-<blockquote>
-  <p>✏️ <strong>정정 안내 (2026-09-22)</strong>: 최초 발행본에 “어제는 AI 선별이 0건”으로 기재됐으나 <strong>사실과 다릅니다.</strong>
-어제 AI는 최종 2종목·장중 탐색 2종목을 선별했습니다. 시스템이 복기 데이터를 누락한 오류였으며 아래와 같이 정정합니다.</p>
-</blockquote>
-
-<p>어제 오후 AI가 선별한 종목은 <strong>15:10 최종 2개 + 장중 선별·탐색 2개</strong> 총 4종목이었고, 여기에 9월 17일부터 보유 중인 이월 포지션 1건이 더해집니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>슬롯</th>
-      <th>어제 선별 근거</th>
-      <th>오늘 아침 참고</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>삼성전자</strong> (005930)</td>
-      <td>15:10 최종</td>
-      <td>반도체 대표주로 자금 집중, 오후 외국인·기관 동시 대량 매수, 매수 호가 두터움 (확신도 높음)</td>
-      <td>종가 273,500원. 저녁 애프터마켓(15:40~19:59) 종가 대비 +0.55%~−0.55% 등락</td>
-    </tr>
-    <tr>
-      <td><strong>하나마이크론</strong> (067310)</td>
-      <td>15:10 최종</td>
-      <td>후공정 소부장으로 온기 확산, +15.4% 급등·거래대금 평소의 5배, 외국인·기관 동반 매수</td>
-      <td>종가 44,600원. 저녁 애프터마켓 관측치 미수집</td>
-    </tr>
-    <tr>
-      <td><strong>SFA반도체</strong> (036540)</td>
-      <td>14:30 선별</td>
-      <td>후공정 20% 가까운 급등, 외국인 엿새 연속 순매수, 매수 호가 집중</td>
-      <td>종가 10,800원. 저녁 애프터마켓 종가 대비 −1.48%~−3.80%</td>
-    </tr>
-    <tr>
-      <td><strong>디아이</strong> (003160)</td>
-      <td>12:10 <strong>탐색 후보</strong></td>
-      <td>HBM 테마에서 신규 점화, 거래대금 5일 평균의 5배, 박스권 저항 돌파</td>
-      <td>종가 35,600원. 저녁 애프터마켓 관측치 미수집</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>⚠️ <strong>12:10 탐색 후보는 장중 관찰 대상이며 그날의 최종 베팅 대상이 아닙니다.</strong> 어제의 최종 선별은 15:10 슬롯의 2종목입니다.</p>
-
-<table>
-  <tbody>
-    <tr>
-      <td>**삼성중공업</td>
-      <td>이월 보유 중</td>
-      <td>시초가 갭 방향 확인 후 기존 출구 시나리오 실행**</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>저녁 애프터마켓(15:40~19:59)에 진입가(평단 21,372원) 대비 <strong>−2.9% 수준으로 내려갔다가 −3.6% 근처까지 하락</strong>했습니다. 야간 선물이 강세인 만큼 시초가 갭상승이 예상되지만, 조선 섹터는 전일 상승률이 제한적이었으므로(같은 시간 코스피 +1.65%), 갭 크기를 확인한 뒤 보유 여부를 판단하는 것이 현명합니다.</p>
-
-<h2 id="전일-국내-수급--기관외국인의-동시-순매수-지속">전일 국내 수급 — 기관·외국인의 동시 순매수 지속</h2>
-
-<p>어제 외국인이 <strong>+1,560억원</strong>을 순매수했고, 기관이 <strong>+1.8조원</strong>을 순매수하며 동반 강세를 보였습니다. 반면 개인은 <strong>−3.5조원</strong>을 순매도했습니다. 기관과 외국인의 일관된 매수가 시장을 지탱했으며, 상위 섹터에서도 반도체 관련(대형 반도체주·시스템반도체·HBM)이 +4.2~4.4% 상승하며 기술주 쏠림이 두드러졌습니다.</p>
-
-<h2 id="오늘의-핵심-뉴스--한국-반도체-수출-역대-최대">오늘의 핵심 뉴스 — 한국 반도체 수출 역대 최대</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>주제</th>
-      <th>내용</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>한국 8월 수출 사상최고</strong></td>
-      <td>983억$로 3개월 연속 900억$ 상회, 반도체 수출 467억$(+209%) 역대 최대 기록. 컴퓨터·SSD도 각각 +419% 급증</td>
-    </tr>
-    <tr>
-      <td><strong>미국 AI 인프라 확대</strong></td>
-      <td>나스닥 사상 최고치 경신, 반도체 지수 +4.29% 급등. 메타의 AI 투자 확대 발언이 촉매</td>
-    </tr>
-    <tr>
-      <td><strong>유가 하락 &amp; 금리 부담 완화</strong></td>
-      <td>WTI −4.9$(중동 외교 기대) 하락, 미국 10년물 금리 하락으로 기술주 밸류에이션 개선</td>
-    </tr>
-    <tr>
-      <td><strong>비트코인 회복</strong></td>
-      <td>8.5만$ 회복(+4.5%), 위험자산 선호 기조 확대 신호</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="오늘의-베팅-등급-신중-구간">오늘의 베팅 등급: 신중 구간</h2>
-
-<p>오늘은 <strong>신중 구간</strong>입니다. 점수는 68점(중간~강세)으로, 기술주와 반도체 확산 흐름이 대형주에서 소부장(후공정·검사장비)으로 번지는 긍정 신호가 있습니다. 다만 <strong>내일 저녁 경제지표 3건</strong>(제조업 PMI, 서비스 PMI, 원유재고)이 HIGH 이벤트로 예정돼 있어 변동성 리스크가 존재합니다.</p>
-
-<p>AI 전략: <em>“반도체 4.3% 급등에 코스피가 7000선을 회복하고 외국인 1,560억원·기관 1.8조원 동시 매수로 추세 지속 가능성이 있으나, 내일 저녁 제조업·서비스업 PMI 발표로 변동성 확대 가능. 야간 선물과 EWY 강세가 오늘 상승 모멘텀을 뒷받침하나, 내일 지표 결과에 따라 방향 전환 여지.”</em></p>
-
-<p><strong>권고</strong>: 반도체 확산 흐름이 확인되는 가운데 소부장(후공정·검사장비) 거래대금을 모니터하면서, 차익실현 매도가 나올 수 있는 국면이므로 시초가 갭 방향을 확인한 뒤 진입 판단을 미루는 것을 권장합니다.</p>
-
-<h2 id="주목해야-할-변수">주목해야 할 변수</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>변수</th>
-      <th>확인 방법</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>반도체 대형주 시초가</strong></td>
-      <td>삼성전자·SK하이닉스의 시초가 갭 크기와 외국인 순매수 지속 여부</td>
-    </tr>
-    <tr>
-      <td><strong>소부장 거래대금 지속성</strong></td>
-      <td>후공정·검사장비 관련주 거래대금 유지 여부로 확산 판단</td>
-    </tr>
-    <tr>
-      <td><strong>코스피 7000선 방어</strong></td>
-      <td>개인 순매도(-3.5조원) 지속 시 기관의 매수 방어선이 얼마나 견고한지</td>
-    </tr>
-    <tr>
-      <td><strong>항공주 수혜 반등</strong></td>
-      <td>국제유가 하락 수혜 대한항공 반등 여부</td>
-    </tr>
-    <tr>
-      <td><strong>차익실현 출회 관찰</strong></td>
-      <td>내일 저녁 PMI·원유재고 발표 전 수익 매매 물량</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>📍 <strong>오늘 밤 뉴욕 주의사항</strong>: ADP 주간 고용변화 보고서(21:15)와 FOMC 멤버 Williams 연설(23:05)이 있습니다. 내일 저녁(22:45)에는 제조업·서비스 PMI가, 23:30에 원유재고 발표가 예정돼 있습니다.</p>
-
-<h2 id="오늘을-어떻게-움직일까">오늘을 어떻게 움직일까</h2>
-
-<p>어제부터 이어지는 반도체와 기술주 강세 흐름이 국내까지 전파됐습니다. 미국 나스닥이 사상 최고치를 경신했고, 한국의 반도체 수출도 역대 최대를 기록했을 만큼 기술 섹터의 수급이 탄탄합니다. 다만 내일 밤 주요 경제지표 3건이 몰려 있다는 점을 명심해야 합니다. 지표 결과에 따라 오늘의 상승세가 일시적 랠리로 끝날 수도, 추세 전환으로 이어질 수도 있습니다.</p>
-
-<p>시초가 갭을 확인한 뒤 진입 판단을 내리고, 오늘 하루는 <strong>소부장 거래대금과 외국인 매수 흐름</strong>에 주목하세요. 변동성 가운데서도 확산 지속 신호가 나온다면 익일 상승세까지 이어질 가능성이 높습니다.</p>
-
-<p>오늘도 함께 시장을 읽어보겠습니다. 댓글로 현장의 목소리를 나눠주세요. ✌️</p>
-
-<p>#NextTheme #종가베팅 #반도체 #시스템반도체 #HBM #기술주 #미국나스닥</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[미국 야간, AI 인프라 수요에 힘입어 역사적 강세]]></summary></entry></feed>
+<p>#종가베팅 #복기일지 #20260921 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-09-22 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
