@@ -1,25 +1,25 @@
 {
-  "lastTradingDay" : "2026-09-23",
-  "totalDays" : 96,
+  "lastTradingDay" : "2026-09-28",
+  "totalDays" : 97,
   "summary" : {
-    "tradingDays" : 96,
+    "tradingDays" : 97,
     "sectorCount" : 16,
-    "upDays" : 88,
+    "upDays" : 89,
     "avgChangeRate" : 5.81,
     "topSector" : "반도체·AI인프라",
     "topSectorDays" : 22
   },
   "now" : {
-    "date" : "2026-09-23",
-    "bettingGrade" : "YELLOW",
-    "regimeTag" : "YELLOW",
+    "date" : "2026-09-28",
+    "bettingGrade" : "RED",
+    "regimeTag" : "RED_DIVERGENCE",
     "themeRegime" : "THEME_LED",
-    "marketSignal" : "혼조",
-    "kospi" : 0.9,
-    "kosdaq" : 1.21,
-    "leadTheme" : "광고",
-    "leadChangeRate" : 11.22,
-    "themePremium" : 10.32
+    "marketSignal" : "약세",
+    "kospi" : -2.7,
+    "kosdaq" : 0.25,
+    "leadTheme" : "의료AI",
+    "leadChangeRate" : 6.09,
+    "themePremium" : 8.79
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
@@ -28,7 +28,7 @@
   }, {
     "sector" : "자동차·2차전지",
     "rank1Days" : 12,
-    "top3Days" : 25
+    "top3Days" : 26
   }, {
     "sector" : "전자부품·기판",
     "rank1Days" : 8,
@@ -44,7 +44,7 @@
   }, {
     "sector" : "정유·화학·원자재",
     "rank1Days" : 4,
-    "top3Days" : 15
+    "top3Days" : 16
   }, {
     "sector" : "건설·기계",
     "rank1Days" : 3,
@@ -54,13 +54,13 @@
     "rank1Days" : 3,
     "top3Days" : 14
   }, {
+    "sector" : "매크로·기타",
+    "rank1Days" : 9,
+    "top3Days" : 12
+  }, {
     "sector" : "소비재·유통",
     "rank1Days" : 3,
     "top3Days" : 12
-  }, {
-    "sector" : "매크로·기타",
-    "rank1Days" : 8,
-    "top3Days" : 11
   }, {
     "sector" : "로봇·AI소프트웨어",
     "rank1Days" : 3,
@@ -1833,6 +1833,25 @@
         "changeRate" : 2.96
       } ],
       "mainStock" : ""
-    }, null, null ] ]
+    }, null, null ], [ {
+      "day" : 28,
+      "date" : "2026-09-28",
+      "theme" : "의료AI",
+      "sector" : "매크로·기타",
+      "changeRate" : 6.09,
+      "prevDay" : "NEW",
+      "regime" : "THEME_LED",
+      "slot" : "15:00",
+      "kospi" : -2.7,
+      "themePremium" : 8.79,
+      "runners" : [ {
+        "theme" : "2차전지(생산)",
+        "changeRate" : 3.9
+      }, {
+        "theme" : "정유",
+        "changeRate" : 4.22
+      } ],
+      "mainStock" : ""
+    }, null, null, null, null ] ]
   } ]
 }
