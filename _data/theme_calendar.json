@@ -1,25 +1,25 @@
 {
-  "lastTradingDay" : "2026-09-28",
-  "totalDays" : 97,
+  "lastTradingDay" : "2026-09-30",
+  "totalDays" : 98,
   "summary" : {
-    "tradingDays" : 97,
+    "tradingDays" : 98,
     "sectorCount" : 16,
-    "upDays" : 89,
-    "avgChangeRate" : 5.81,
+    "upDays" : 90,
+    "avgChangeRate" : 5.82,
     "topSector" : "반도체·AI인프라",
     "topSectorDays" : 22
   },
   "now" : {
-    "date" : "2026-09-28",
+    "date" : "2026-09-30",
     "bettingGrade" : "RED",
-    "regimeTag" : "RED_DIVERGENCE",
-    "themeRegime" : "THEME_LED",
-    "marketSignal" : "약세",
-    "kospi" : -2.7,
-    "kosdaq" : 0.25,
-    "leadTheme" : "의료AI",
-    "leadChangeRate" : 6.09,
-    "themePremium" : 8.79
+    "regimeTag" : "RED_EXHAUST",
+    "themeRegime" : "UNKNOWN",
+    "marketSignal" : "혼조",
+    "kospi" : -0.48,
+    "kosdaq" : 0.72,
+    "leadTheme" : "남-북-러 가스관사업",
+    "leadChangeRate" : 6.91,
+    "themePremium" : 7.39
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
@@ -30,12 +30,12 @@
     "rank1Days" : 12,
     "top3Days" : 26
   }, {
-    "sector" : "전자부품·기판",
-    "rank1Days" : 8,
-    "top3Days" : 20
-  }, {
     "sector" : "전력·전선·신재생",
     "rank1Days" : 6,
+    "top3Days" : 21
+  }, {
+    "sector" : "전자부품·기판",
+    "rank1Days" : 8,
     "top3Days" : 20
   }, {
     "sector" : "조선·해운",
@@ -55,8 +55,8 @@
     "top3Days" : 14
   }, {
     "sector" : "매크로·기타",
-    "rank1Days" : 9,
-    "top3Days" : 12
+    "rank1Days" : 10,
+    "top3Days" : 13
   }, {
     "sector" : "소비재·유통",
     "rank1Days" : 3,
@@ -1852,6 +1852,24 @@
         "changeRate" : 4.22
       } ],
       "mainStock" : ""
-    }, null, null, null, null ] ]
+    }, null, {
+      "day" : 30,
+      "date" : "2026-09-30",
+      "theme" : "남-북-러 가스관사업",
+      "sector" : "매크로·기타",
+      "changeRate" : 6.91,
+      "regime" : "UNKNOWN",
+      "slot" : "15:00",
+      "kospi" : -0.48,
+      "themePremium" : 7.39,
+      "runners" : [ {
+        "theme" : "강관업체(Steel pipe)",
+        "changeRate" : 6.83
+      }, {
+        "theme" : "고체산화물 연료전지(SOFC)",
+        "changeRate" : 4.2
+      } ],
+      "mainStock" : ""
+    }, null, null ] ]
   } ]
 }
