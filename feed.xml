@@ -1,4 +1,109 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-30T21:04:27+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 약세 코스닥 강세, 오늘 하루 시장 정리와 종가베팅 선별 결과</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/30/daily/" rel="alternate" type="text/html" title="코스피 약세 코스닥 강세, 오늘 하루 시장 정리와 종가베팅 선별 결과" /><published>2026-09-30T21:00:00+09:00</published><updated>2026-09-30T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/30/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/30/daily/"><![CDATA[<p>안녕하세요 😊 오늘은 코스피와 코스닥이 서로 다른 방향으로 갈린, 조금 헷갈리는 하루였습니다. 반도체 쪽으로는 돈이 크게 몰렸지만, 미국 장기 국채 금리가 24년 만에 최고치를 찍었다는 소식도 겹쳐서 마음 편하게 웃을 수만은 없는 날이었어요. 오늘 하루를 순서대로 정리해 보겠습니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-10-01T06:10:27+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">금리 5.3% 신기록이 막는 반도체 랠리, 내일 고용지표가 판단 기준</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/01/0600-briefing/" rel="alternate" type="text/html" title="금리 5.3% 신기록이 막는 반도체 랠리, 내일 고용지표가 판단 기준" /><published>2026-10-01T06:00:00+09:00</published><updated>2026-10-01T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/01/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/01/0600-briefing/"><![CDATA[<p>미국 금리가 5.3%를 돌파하면서 불확실성이 커진 하루입니다. 마이크론의 호실적에도 불구하고 다우와 S&amp;P500은 하락했습니다. 국내 증시도 혼조 속 신중 국면을 맞이했습니다.</p>
+
+<h2 id="-어제9월-30일-ai-선별-복기">📋 어제(9월 30일) AI 선별 복기</h2>
+
+<p>어제는 <strong>15:10 최종 1개, 19:10 선별 2개, 탐색 2개, 이월 보유 1개</strong>를 선별했습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>슬롯</th>
+      <th>어제 전략</th>
+      <th>오늘 결과</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>삼성중공업</td>
+      <td>—</td>
+      <td>—</td>
+      <td>✅ 이전 보유 포지션 / 평단 대비 -7.1~-7.7%</td>
+    </tr>
+    <tr>
+      <td>SK하이닉스</td>
+      <td>15:10 최종</td>
+      <td>갭 전략</td>
+      <td>저녁 -0.39% / 마이크론 모멘텀 대기</td>
+    </tr>
+    <tr>
+      <td>한미반도체</td>
+      <td>19:10 선별</td>
+      <td>갭 전략</td>
+      <td>저녁 +0.78% / 후공정 모멘텀 유지</td>
+    </tr>
+    <tr>
+      <td>이수스페셜티케미컬</td>
+      <td>19:10 선별</td>
+      <td>갭 전략</td>
+      <td>저녁 +2.18% 급등 / 전고체 테마 확산</td>
+    </tr>
+    <tr>
+      <td>서진시스템</td>
+      <td>12:10 탐색</td>
+      <td>—</td>
+      <td>탐색 후보 / 저녁 -1.54%</td>
+    </tr>
+    <tr>
+      <td>HPSP</td>
+      <td>10:10 탐색</td>
+      <td>—</td>
+      <td>탐색 후보 / 확신도 LOW</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>실제 매수는 없었습니다.</strong> 모든 종목이 관심 단계였습니다.</p>
+
+<h2 id="전일-국내-수급-동향">전일 국내 수급 동향</h2>
+
+<p>외국인과 기관이 동반 순매도한 하루였습니다. 외국인 <strong>-2.4조원</strong>, 기관 <strong>-8,202억원</strong> 순매도 속에 개인만 <strong>+1.5조원</strong> 순매수로 엇갈린 흐름을 보였습니다. 주도 섹터는 남-북-러 가스관사업(<strong>+8.51%</strong>), 강관업체(<strong>+8.45%</strong>) 등 에너지·건설 계열이 우세했습니다.</p>
+
+<h2 id="간밤-미국-시장-금리-급등이-핵심">간밤 미국 시장, 금리 급등이 핵심</h2>
+
+<p>간밤 미국장은 혼조 속 불확실성이 커진 하루였습니다. 다우존스 <strong>-0.86%</strong>, S&amp;P500 <strong>-0.25%</strong>, 나스닥 <strong>+0.24%</strong>로 시장 내 방향성이 엇갈렸습니다.</p>
+
+<p>주목할 신호는 <strong>미국 10년물 금리가 5.304%로 24년 최고치</strong>를 기록했다는 점입니다. GDP 상향 발표(2.2%)에도 금리는 계속 오른 것으로, 금리·성장 혼재 국면을 반영합니다. VIX는 <strong>+1.87</strong> 상승해 변동성이 확대되고 있습니다.</p>
+
+<p>반도체 지수는 평탄(<strong>+0.00%</strong>)으로 마이크론 호실적이 섹터 전반으로 확산되지 못했습니다. 다우 하락과 운송지수 약세(-1.37%)로 금융·IT 섹터에 <strong>장 막판 매도 우려</strong>가 있습니다.</p>
+
+<h2 id="오늘의-핵심-뉴스">오늘의 핵심 뉴스</h2>
+
+<p><strong>마이크론 AI 메모리 호실적</strong> — 4분기 매출 542억 달러로 시장 예상을 상회했습니다. AI 인프라 투자 지속 신호로, 국내 반도체(삼성전자·SK하이닉스)에 우호적입니다. 시초가 및 외국인 매수 여부가 관건입니다.</p>
+
+<p><strong>미국 금리 급등</strong> — 10년물 금리가 24년 만에 최고치를 경신했습니다. 견조한 성장이 장기물 매도를 촉발했고, 국내 증시 밸류에이션에 압박을 줍니다. <strong>USD/KRW 1360선</strong> 돌파 시 외국인 이탈 가속을 경계합니다.</p>
+
+<p><strong>트럼프 한국 투자 발표</strong> — 2000억 달러 대미투자(알래스카 LNG 540억 달러)를 언급했습니다. 다만 한국 정부는 추가 협의 필요 입장으로 실제 투자 확정은 불투명합니다.</p>
+
+<p><strong>D램 가격 사상 최고</strong> — 9월 D램 가격이 역대 최고치를 경신했고, 4분기 PC용 가격 인상 전망이 상향되었습니다. AI 서버 수요로 범용 제품까지 공급 부족이 심화되고 있습니다.</p>
+
+<h2 id="오늘의-베팅-등급--전략">오늘의 베팅 등급 &amp; 전략</h2>
+
+<p><strong>등급: 신중 국면</strong> (감정점수: 35/100)</p>
+
+<p>간밤 미국 금리 급등과 내일 HIGH 이벤트 밀집(한국 CPI·미국 고용지표) 대기로 변동성 우위 국면입니다. 마이크론 호실적은 반도체 관심을 높였으나, 금리 압박 속 신중 접근이 필요합니다.</p>
+
+<p><strong>전략</strong>: 장중 금리·고용지표 반응을 확인한 후 대응하기</p>
+
+<p>내일 한국 CPI(예상 2.9%)와 미국 비농업고용지수(예상 98K) 발표가 대기 중입니다. 금리와 고용의 방향이 국내 증시 방향을 결정할 것으로 보입니다. 금리 고착 시 밸류에이션 압박으로 관망을 우선하되, 긍정 신호 확인 후 선별적 진입을 판단하는 것이 현명합니다.</p>
+
+<h2 id="주목할-변수-오늘-확인할-체크리스트">주목할 변수 (오늘 확인할 체크리스트)</h2>
+
+<ul>
+  <li>삼성전자·SK하이닉스 시초가 갭 방향 및 외국인 매수 지속성</li>
+  <li>USD/KRW 1360선 돌파 시 외국인 수급 이탈 가속 여부</li>
+  <li>장중 미국 10년물 금리 5.3% 이상 고착 여부</li>
+  <li>반도체 외 섹터(HBM 테마) 자금 확산 또는 쏠림 심화</li>
+  <li>내일 HIGH 이벤트 대비 관망 우세 시 거래대금 감소 여부</li>
+</ul>
+
+<h2 id="결론">결론</h2>
+
+<p>금리와 고용이 교차하는 국면입니다. 오늘은 금리 신호에 주목했다면, 내일은 고용지표 반응을 함께 읽어야 합니다. 반도체 호재를 선별하되, 큰 흐름의 불확실성을 항상 염두에 두세요. 내일 다시 기둥을 찾겠습니다.</p>
+
+<p>댓글로 내일 주목할 종목을 나눠주세요. 이웃 추가하시면 매일 아침 분석을 받아보실 수 있습니다.</p>
+
+<p>#NextTheme #종가베팅 #반도체 #금리 #마이크론 #SK하이닉스 #고용지표 #내일의기둥</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[미국 금리가 5.3%를 돌파하면서 불확실성이 커진 하루입니다. 마이크론의 호실적에도 불구하고 다우와 S&amp;P500은 하락했습니다. 국내 증시도 혼조 속 신중 국면을 맞이했습니다.]]></summary></entry><entry><title type="html">코스피 약세 코스닥 강세, 오늘 하루 시장 정리와 종가베팅 선별 결과</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/30/daily/" rel="alternate" type="text/html" title="코스피 약세 코스닥 강세, 오늘 하루 시장 정리와 종가베팅 선별 결과" /><published>2026-09-30T21:00:00+09:00</published><updated>2026-09-30T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/30/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/30/daily/"><![CDATA[<p>안녕하세요 😊 오늘은 코스피와 코스닥이 서로 다른 방향으로 갈린, 조금 헷갈리는 하루였습니다. 반도체 쪽으로는 돈이 크게 몰렸지만, 미국 장기 국채 금리가 24년 만에 최고치를 찍었다는 소식도 겹쳐서 마음 편하게 웃을 수만은 없는 날이었어요. 오늘 하루를 순서대로 정리해 보겠습니다.</p>
 
 <h2 id="어제-선별-오늘-아침-결과는-어땠을까-">어제 선별, 오늘 아침 결과는 어땠을까? 📋</h2>
 
@@ -2209,89 +2314,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <p>댓글로 오늘 장 어떻게 보셨는지 의견 나눠주세요 🙂</p>
 
-<p>#종가베팅 #코스피 #SK이노베이션 #정유테마 #2차전지 #의료AI #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[오늘 코스피가 2%대 넘게 미끄러졌습니다. 😥 반도체 대형주가 나란히 밀리면서 지수를 크게 끌어내렸는데, 그 와중에도 정유·2차전지·의료AI 같은 몇몇 테마로는 자금이 오히려 더 강하게 뭉치는 모습이었습니다. “다 같이 빠지는 장”이 아니라 “선별적으로 빠지고, 선별적으로 몰리는 장”이었던 하루, 데이터로 정리해봅니다.]]></summary></entry><entry><title type="html">약한 장 속 SK이노베이션, 외국인·기관의 연속 매수가 신호인 이유</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/28/nt2-1505-snapshot/" rel="alternate" type="text/html" title="약한 장 속 SK이노베이션, 외국인·기관의 연속 매수가 신호인 이유" /><published>2026-09-28T15:05:00+09:00</published><updated>2026-09-28T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/28/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/28/nt2-1505-snapshot/"><![CDATA[<p>코스피가 2% 넘게 밀린 약세장이었습니다. 전체 시장에서는 외국인과 기관이 대거 팔아나갔지만, 특정 테마들 — 의료AI, 2차전지, 정유, 태양광으로 자금이 강하게 몰렸던 하루였습니다.</p>
-
-<p>이런 약한 시장 속에서 오늘 <strong>SK이노베이션 하나만</strong> NextTheme AI가 선별했습니다. 왜 이 종목이었을까요?</p>
-
-<h2 id="시장-신호-약세-속-테마-집중">시장 신호: 약세 속 테마 집중</h2>
-
-<p>코스피 전체가 약할 때, 보통 투자자들은 아무것도 못 합니다. 하지만 시장을 자세히 보면 약한 날도 <strong>특정 산업에만 돈이 몰리는 날</strong>들이 있습니다. 오늘이 바로 그런 날이었는데, SK이노베이션이 선택받은 이유는:</p>
-
-<ol>
-  <li><strong>국제유가 랠리</strong> — 94달러대까지 올랐습니다. 유가가 오르면 정유사(SK이노베이션 같은)와 2차전지 관련주가 강해지는 구조입니다.</li>
-  <li><strong>수급의 집중도</strong> — 약한 시장에서도 특정 종목에 외국인과 기관이 동시에 들어오는 모습이 보입니다.</li>
-</ol>
-
-<h2 id="sk이노베이션-약한-장에서-강한-신호를-본-이유">SK이노베이션: 약한 장에서 강한 신호를 본 이유</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>항목</th>
-      <th>수치</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>당일 종가 / 등락률</strong></td>
-      <td>158,300원 / +6.1%</td>
-    </tr>
-    <tr>
-      <td><strong>거래대금 / 시총</strong></td>
-      <td>2,432억원 / 26.7조원</td>
-    </tr>
-    <tr>
-      <td><strong>주도 테마 / 테마 내 순위</strong></td>
-      <td>2차전지(생산) / 1위</td>
-    </tr>
-    <tr>
-      <td><strong>외인 순매수 / 기관 순매수</strong></td>
-      <td>+3,000주 / +4만 주</td>
-    </tr>
-    <tr>
-      <td><strong>RSI / 거래량변동률</strong></td>
-      <td>65.1 / 0.76배</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>여기서 주목할 점:</p>
-
-<p><strong>외국인이 5일 연속 매수했습니다.</strong> 약한 시장에서 5일 연속 같은 방향으로 들어오는 건 외국인의 강한 확신을 보여주는 수급 신호로 해석됩니다. 기관도 오늘 <strong>4만 주</strong>를 샀는데, 이건 개별 종목 입장에서는 적지 않은 수량입니다.</p>
-
-<p><strong>주도 테마 내 1순위</strong>라는 것도 의미가 있습니다. 2차전지 테마가 좋은 날인데, 그 테마 안에서도 이 종목이 가장 선택받았다는 뜻입니다. 마치 “2차전지는 떠오르는 산업이고, 그 산업 중에서도 이 회사를 고르겠다”는 투자자들의 판단이 반영된 것이죠.</p>
-
-<h2 id="기술지표로는-과열이-아닙니다">기술지표로는 과열이 아닙니다</h2>
-
-<p>RSI가 65 정도인데, 이건 중간 정도의 강도입니다(70 이상이면 과열). 거래량 변동률(RVOL)도 0.76배로 평소 수준입니다. 이평선 수렴도 약한 상태입니다.</p>
-
-<p>즉, <strong>이 종목이 “너무 뛰어서” 선별된 게 아니라, “수급과 테마의 결합”으로 선별되었다</strong>는 의미입니다.</p>
-
-<h2 id="실적도-뒷받침됩니다">실적도 뒷받침됩니다</h2>
-
-<p>최근 분기(2026년 9월) 실적을 보면:</p>
-<ul>
-  <li>매출: <strong>264,369억원</strong></li>
-  <li>영업이익: <strong>20,187억원</strong></li>
-  <li>매출 성장률: 전년 대비 <strong>+28.8%</strong></li>
-</ul>
-
-<p>30% 근처의 매출 성장은 일반적인 대형주로는 강한 성장입니다.</p>
-
-<h2 id="ai-선별의-논리">AI 선별의 논리</h2>
-
-<p>AI가 이 종목을 고른 이유는 결국:</p>
-
-<p><strong>“약한 시장 속에서도 국제유가 랠리라는 명확한 촉매가 있고, 외국인과 기관이 5일 연속으로 같은 방향(매수)으로 움직이고 있으며, 해당 테마 내에서 최고 선택을 받은 종목이라는 점이 선별 근거였다.”</strong></p>
-
-<p>이것이 시초가 갭상승 전략의 논리입니다.</p>
-
-<h2 id="오늘의-선별-기록">오늘의 선별 기록</h2>
-
-<p><strong>약한 시장이라는 조건</strong>과 <strong>명확한 수급 신호</strong>가 만났을 때, 그리고 <strong>테마와 개별 종목 선택이 일치</strong>할 때 — 그런 조건의 종목이 바로 이것입니다.</p>
-
-<p>오늘 데이터는 이런 조건이 갖춰진 하루였다는 기록으로 남습니다.</p>
-
-<p>더 자세한 분석이 궁금하거나, 다른 종목의 수급·기술지표를 궁금해하신다면 댓글로 남겨주세요. 이웃 추가도 환영합니다!</p>
-
-<p>#SK이노베이션 #2차전지 #종가베팅 #수급분석 #NextTheme #국제유가 #약세장 #외국인 #기관</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[코스피가 2% 넘게 밀린 약세장이었습니다. 전체 시장에서는 외국인과 기관이 대거 팔아나갔지만, 특정 테마들 — 의료AI, 2차전지, 정유, 태양광으로 자금이 강하게 몰렸던 하루였습니다.]]></summary></entry></feed>
+<p>#종가베팅 #코스피 #SK이노베이션 #정유테마 #2차전지 #의료AI #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[오늘 코스피가 2%대 넘게 미끄러졌습니다. 😥 반도체 대형주가 나란히 밀리면서 지수를 크게 끌어내렸는데, 그 와중에도 정유·2차전지·의료AI 같은 몇몇 테마로는 자금이 오히려 더 강하게 뭉치는 모습이었습니다. “다 같이 빠지는 장”이 아니라 “선별적으로 빠지고, 선별적으로 몰리는 장”이었던 하루, 데이터로 정리해봅니다.]]></summary></entry></feed>
