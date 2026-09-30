@@ -1,4 +1,362 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-30T06:07:28+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">미국 장기금리 5.6% 돌파, 오늘 장 시작 전 꼭 봐야 할 변수는</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/30/0600-briefing/" rel="alternate" type="text/html" title="미국 장기금리 5.6% 돌파, 오늘 장 시작 전 꼭 봐야 할 변수는" /><published>2026-09-30T06:00:00+09:00</published><updated>2026-09-30T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/30/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/30/0600-briefing/"><![CDATA[<p>간밤 미국 시장에서 심상치 않은 신호가 나왔습니다. 30년물 국채 금리가 2002년 이후 최고치인 5.6%를 돌파했다는 소식인데요, 반도체 장비주는 강했지만 소비심리는 12년래 최저를 찍는 등 시장이 엇갈린 하루였습니다. 오늘 국내 장에서는 이 흐름을 어떻게 소화할지가 관건입니다. 📊</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-30T10:03:50+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">9/29 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/30/review-20260929-review/" rel="alternate" type="text/html" title="9/29 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-09-30T09:00:00+09:00</published><updated>2026-09-30T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/30/review_20260929-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/30/review-20260929-review/"><![CDATA[<blockquote>
+  <p>데이터 기준: 2026-09-30 10:03 키움 ka10001 일괄 조회</p>
+</blockquote>
+
+<h2 id="컨셉">컨셉</h2>
+<p>전일 NT2 15:05 슬롯에서 AI가 최종 선별한 종목과 미선별 종목의 다음날 시초가 갭을 비교하여
+AI 선별 정확도를 복기합니다.</p>
+
+<blockquote>
+  <p><strong>오전고가갭%</strong> = 개장~10:03 장초반 고가 기준 수익률. 시초가 갭(즉시 매도)만으로는
+갭하락 후 장초반 반등으로 매도 가능했던 FOMO 기회를 놓침 — 장초반 매도 기회 상한 지표.</p>
+</blockquote>
+
+<h2 id="-ai-선별-종목-3">① AI 선별 종목 (3)</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>코드</th>
+      <th style="text-align: right">점수</th>
+      <th style="text-align: right">전일종가</th>
+      <th style="text-align: right">시초가</th>
+      <th style="text-align: right">갭%</th>
+      <th style="text-align: right">오전고가</th>
+      <th style="text-align: right">오전고가갭%</th>
+      <th style="text-align: right">현재가</th>
+      <th style="text-align: right">누적갭%</th>
+      <th style="text-align: right">거래량</th>
+      <th style="text-align: right">거래대금(억)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>HPSP</td>
+      <td>403870</td>
+      <td style="text-align: right">43</td>
+      <td style="text-align: right">61,200</td>
+      <td style="text-align: right">61,100</td>
+      <td style="text-align: right">-0.16%</td>
+      <td style="text-align: right">66,000</td>
+      <td style="text-align: right">+7.84%</td>
+      <td style="text-align: right">63,200</td>
+      <td style="text-align: right">+3.27%</td>
+      <td style="text-align: right">2,111,031</td>
+      <td style="text-align: right">1334.2</td>
+    </tr>
+    <tr>
+      <td>한미반도체</td>
+      <td>042700</td>
+      <td style="text-align: right">38</td>
+      <td style="text-align: right">251,000</td>
+      <td style="text-align: right">250,000</td>
+      <td style="text-align: right">-0.40%</td>
+      <td style="text-align: right">255,000</td>
+      <td style="text-align: right">+1.59%</td>
+      <td style="text-align: right">253,500</td>
+      <td style="text-align: right">+1.00%</td>
+      <td style="text-align: right">140,180</td>
+      <td style="text-align: right">355.4</td>
+    </tr>
+    <tr>
+      <td>대덕전자</td>
+      <td>353200</td>
+      <td style="text-align: right">37</td>
+      <td style="text-align: right">131,500</td>
+      <td style="text-align: right">130,300</td>
+      <td style="text-align: right">-0.91%</td>
+      <td style="text-align: right">131,500</td>
+      <td style="text-align: right">+0.00%</td>
+      <td style="text-align: right">131,000</td>
+      <td style="text-align: right">-0.38%</td>
+      <td style="text-align: right">271,105</td>
+      <td style="text-align: right">355.1</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="-ai-평가-미선택-9">② AI 평가 미선택 (9)</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>코드</th>
+      <th style="text-align: right">점수</th>
+      <th style="text-align: right">전일종가</th>
+      <th style="text-align: right">시초가</th>
+      <th style="text-align: right">갭%</th>
+      <th style="text-align: right">오전고가</th>
+      <th style="text-align: right">오전고가갭%</th>
+      <th style="text-align: right">현재가</th>
+      <th style="text-align: right">누적갭%</th>
+      <th style="text-align: right">거래량</th>
+      <th style="text-align: right">거래대금(억)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>DB하이텍</td>
+      <td>000990</td>
+      <td style="text-align: right">48</td>
+      <td style="text-align: right">141,200</td>
+      <td style="text-align: right">138,900</td>
+      <td style="text-align: right">-1.63%</td>
+      <td style="text-align: right">141,100</td>
+      <td style="text-align: right">-0.07%</td>
+      <td style="text-align: right">137,500</td>
+      <td style="text-align: right">-2.62%</td>
+      <td style="text-align: right">152,128</td>
+      <td style="text-align: right">209.2</td>
+    </tr>
+    <tr>
+      <td>코리아써키트</td>
+      <td>007810</td>
+      <td style="text-align: right">39</td>
+      <td style="text-align: right">74,800</td>
+      <td style="text-align: right">74,600</td>
+      <td style="text-align: right">-0.27%</td>
+      <td style="text-align: right">75,300</td>
+      <td style="text-align: right">+0.67%</td>
+      <td style="text-align: right">74,000</td>
+      <td style="text-align: right">-1.07%</td>
+      <td style="text-align: right">192,359</td>
+      <td style="text-align: right">142.3</td>
+    </tr>
+    <tr>
+      <td>삼성전기</td>
+      <td>009150</td>
+      <td style="text-align: right">38</td>
+      <td style="text-align: right">1,538,000</td>
+      <td style="text-align: right">1,560,000</td>
+      <td style="text-align: right">+1.43%</td>
+      <td style="text-align: right">1,579,000</td>
+      <td style="text-align: right">+2.67%</td>
+      <td style="text-align: right">1,533,000</td>
+      <td style="text-align: right">-0.33%</td>
+      <td style="text-align: right">172,116</td>
+      <td style="text-align: right">2638.5</td>
+    </tr>
+    <tr>
+      <td>한빛레이저</td>
+      <td>452190</td>
+      <td style="text-align: right">36</td>
+      <td style="text-align: right">6,120</td>
+      <td style="text-align: right">6,150</td>
+      <td style="text-align: right">+0.49%</td>
+      <td style="text-align: right">6,190</td>
+      <td style="text-align: right">+1.14%</td>
+      <td style="text-align: right">5,930</td>
+      <td style="text-align: right">-3.10%</td>
+      <td style="text-align: right">1,085,005</td>
+      <td style="text-align: right">64.3</td>
+    </tr>
+    <tr>
+      <td>LG이노텍</td>
+      <td>011070</td>
+      <td style="text-align: right">32</td>
+      <td style="text-align: right">585,000</td>
+      <td style="text-align: right">589,000</td>
+      <td style="text-align: right">+0.68%</td>
+      <td style="text-align: right">603,000</td>
+      <td style="text-align: right">+3.08%</td>
+      <td style="text-align: right">573,000</td>
+      <td style="text-align: right">-2.05%</td>
+      <td style="text-align: right">85,142</td>
+      <td style="text-align: right">487.9</td>
+    </tr>
+    <tr>
+      <td>삼성전자</td>
+      <td>005930</td>
+      <td style="text-align: right">29</td>
+      <td style="text-align: right">273,500</td>
+      <td style="text-align: right">274,500</td>
+      <td style="text-align: right">+0.37%</td>
+      <td style="text-align: right">276,000</td>
+      <td style="text-align: right">+0.91%</td>
+      <td style="text-align: right">274,000</td>
+      <td style="text-align: right">+0.18%</td>
+      <td style="text-align: right">3,080,321</td>
+      <td style="text-align: right">8440.1</td>
+    </tr>
+    <tr>
+      <td>SK하이닉스</td>
+      <td>000660</td>
+      <td style="text-align: right">27</td>
+      <td style="text-align: right">1,777,000</td>
+      <td style="text-align: right">1,789,000</td>
+      <td style="text-align: right">+0.68%</td>
+      <td style="text-align: right">1,824,000</td>
+      <td style="text-align: right">+2.64%</td>
+      <td style="text-align: right">1,811,000</td>
+      <td style="text-align: right">+1.91%</td>
+      <td style="text-align: right">722,188</td>
+      <td style="text-align: right">13078.8</td>
+    </tr>
+    <tr>
+      <td>필옵틱스</td>
+      <td>161580</td>
+      <td style="text-align: right">26</td>
+      <td style="text-align: right">38,300</td>
+      <td style="text-align: right">40,450</td>
+      <td style="text-align: right">+5.61%</td>
+      <td style="text-align: right">40,450</td>
+      <td style="text-align: right">+5.61%</td>
+      <td style="text-align: right">38,750</td>
+      <td style="text-align: right">+1.17%</td>
+      <td style="text-align: right">298,861</td>
+      <td style="text-align: right">115.8</td>
+    </tr>
+    <tr>
+      <td>고영</td>
+      <td>098460</td>
+      <td style="text-align: right">21</td>
+      <td style="text-align: right">30,700</td>
+      <td style="text-align: right">30,400</td>
+      <td style="text-align: right">-0.98%</td>
+      <td style="text-align: right">31,100</td>
+      <td style="text-align: right">+1.30%</td>
+      <td style="text-align: right">31,100</td>
+      <td style="text-align: right">+1.30%</td>
+      <td style="text-align: right">398,165</td>
+      <td style="text-align: right">123.8</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="-cap-out-점수-13위-1">③ Cap-out (점수 13위↓) (1)</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>코드</th>
+      <th style="text-align: right">점수</th>
+      <th style="text-align: right">전일종가</th>
+      <th style="text-align: right">시초가</th>
+      <th style="text-align: right">갭%</th>
+      <th style="text-align: right">오전고가</th>
+      <th style="text-align: right">오전고가갭%</th>
+      <th style="text-align: right">현재가</th>
+      <th style="text-align: right">누적갭%</th>
+      <th style="text-align: right">거래량</th>
+      <th style="text-align: right">거래대금(억)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>태성</td>
+      <td>323280</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">54,000</td>
+      <td style="text-align: right">53,900</td>
+      <td style="text-align: right">-0.19%</td>
+      <td style="text-align: right">55,800</td>
+      <td style="text-align: right">+3.33%</td>
+      <td style="text-align: right">55,400</td>
+      <td style="text-align: right">+2.59%</td>
+      <td style="text-align: right">181,866</td>
+      <td style="text-align: right">100.8</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="-ai-선별-종목-세션-도달-현황">④ AI 선별 종목 세션 도달 현황</h2>
+
+<blockquote>
+  <p>장후 = 15:40~20:00, 익일 = 08:00~10:00. 손절근접 = 두 세션 최저갭 중 최솟값.
+시초가 즉시 매도(갭%)만으로 놓친 장중 최고 도달 수익을 보여줍니다.</p>
+</blockquote>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th style="text-align: right">진입가</th>
+      <th style="text-align: right">장후최고</th>
+      <th style="text-align: right">장후최저</th>
+      <th style="text-align: right">익일최고</th>
+      <th style="text-align: right">익일최저</th>
+      <th style="text-align: right">손절근접</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>HPSP</td>
+      <td style="text-align: right">61,200</td>
+      <td style="text-align: right">N/A</td>
+      <td style="text-align: right">N/A</td>
+      <td style="text-align: right">+7.68%</td>
+      <td style="text-align: right">-1.47%</td>
+      <td style="text-align: right">-1.47%</td>
+    </tr>
+    <tr>
+      <td>한미반도체</td>
+      <td style="text-align: right">251,000</td>
+      <td style="text-align: right">N/A</td>
+      <td style="text-align: right">N/A</td>
+      <td style="text-align: right">+1.59%</td>
+      <td style="text-align: right">-1.20%</td>
+      <td style="text-align: right">-1.20%</td>
+    </tr>
+    <tr>
+      <td>대덕전자</td>
+      <td style="text-align: right">131,500</td>
+      <td style="text-align: right">N/A</td>
+      <td style="text-align: right">N/A</td>
+      <td style="text-align: right">-0.38%</td>
+      <td style="text-align: right">-2.51%</td>
+      <td style="text-align: right">-2.51%</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="종합-비교">종합 비교</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>그룹</th>
+      <th style="text-align: right">종목수</th>
+      <th style="text-align: right">평균 시초가 갭</th>
+      <th style="text-align: right">평균 오전고가 갭</th>
+      <th style="text-align: right">평균 누적 갭</th>
+      <th style="text-align: right">평균 거래대금(억)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>AI 선별</td>
+      <td style="text-align: right">3</td>
+      <td style="text-align: right">-0.49%</td>
+      <td style="text-align: right">+3.15%</td>
+      <td style="text-align: right">+1.29%</td>
+      <td style="text-align: right">682</td>
+    </tr>
+    <tr>
+      <td>AI 평가 미선택</td>
+      <td style="text-align: right">9</td>
+      <td style="text-align: right">+0.71%</td>
+      <td style="text-align: right">+2.00%</td>
+      <td style="text-align: right">-0.51%</td>
+      <td style="text-align: right">2,811</td>
+    </tr>
+    <tr>
+      <td>Cap-out (점수 13위↓)</td>
+      <td style="text-align: right">1</td>
+      <td style="text-align: right">-0.19%</td>
+      <td style="text-align: right">+3.33%</td>
+      <td style="text-align: right">+2.59%</td>
+      <td style="text-align: right">101</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="복기-메모">복기 메모</h2>
+<p><em>(수동 작성)</em></p>
+
+<p>#종가베팅 #복기일지 #20260929 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-09-30 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">미국 장기금리 5.6% 돌파, 오늘 장 시작 전 꼭 봐야 할 변수는</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/30/0600-briefing/" rel="alternate" type="text/html" title="미국 장기금리 5.6% 돌파, 오늘 장 시작 전 꼭 봐야 할 변수는" /><published>2026-09-30T06:00:00+09:00</published><updated>2026-09-30T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/30/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/30/0600-briefing/"><![CDATA[<p>간밤 미국 시장에서 심상치 않은 신호가 나왔습니다. 30년물 국채 금리가 2002년 이후 최고치인 5.6%를 돌파했다는 소식인데요, 반도체 장비주는 강했지만 소비심리는 12년래 최저를 찍는 등 시장이 엇갈린 하루였습니다. 오늘 국내 장에서는 이 흐름을 어떻게 소화할지가 관건입니다. 📊</p>
 
 <h2 id="-어제-ai-선별-복기--신중-기조가-이어졌어요">📋 어제 AI 선별 복기 — 신중 기조가 이어졌어요</h2>
 
@@ -2157,387 +2515,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <hr />
 
-<p><strong>#NextTheme #반도체 #삼성전자 #외국인 #배당 #시초가갭</strong></p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[지난 금요일 밤 미국장에서 반도체 지수가 +1.41% 강세를 보이며 국내 반도체 대형주·소부장 종목들의 갭상승을 기대하게 했습니다. 다우지수 +0.93%, S&amp;P500 +0.51%, VIX -5.11% 급락으로 위험 선호 심리도 개선됐습니다. 그렇지만 국내 외국인이 -4,822억원 순매도로 돌아서며 미국 강세와의 커플링이 끊긴(DECOUPLED) 상태입니다. 오늘 시초가 이후 밀림 압력이 생길 수 있어 주의가 필요합니다.]]></summary></entry><entry><title type="html">이번 주 코스피 2.71% 상승 — 반도체 주도와 외국인 매도 전환</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/27/weekly/" rel="alternate" type="text/html" title="이번 주 코스피 2.71% 상승 — 반도체 주도와 외국인 매도 전환" /><published>2026-09-27T06:00:00+09:00</published><updated>2026-09-27T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/27/weekly</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/27/weekly/"><![CDATA[<table>
-  <tbody>
-    <tr>
-      <td><strong>작성일</strong>: 2026-09-27</td>
-      <td><strong>주간마감</strong>: 코스피 +2.71% (6,894→7,081)</td>
-      <td>코스닥 +2.10% (827→844)</td>
-    </tr>
-  </tbody>
-</table>
-
-<hr />
-
-<h2 id="한주간-흐름-반도체-강세와-외국인의-발걸음">한주간 흐름: 반도체 강세와 외국인의 발걸음</h2>
-
-<h3 id="반도체-완전주도-장세-외국인은-중반-전환">반도체 완전주도 장세, 외국인은 중반 전환</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>지표</th>
-      <th>시작</th>
-      <th>마감</th>
-      <th>변화</th>
-      <th>평가</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>코스피</strong></td>
-      <td>6,894</td>
-      <td>7,081</td>
-      <td><strong>+2.71%</strong></td>
-      <td>✅ 강세</td>
-    </tr>
-    <tr>
-      <td><strong>코스닥</strong></td>
-      <td>827</td>
-      <td>844</td>
-      <td><strong>+2.10%</strong></td>
-      <td>✅ 강세</td>
-    </tr>
-    <tr>
-      <td><strong>원달러</strong></td>
-      <td>1,390</td>
-      <td>1,367</td>
-      <td><strong>-1.66%</strong></td>
-      <td>📉 약세</td>
-    </tr>
-  </tbody>
-</table>
-
-<p><strong>외국인 수급</strong>:</p>
-<ul>
-  <li>주 초반: 반도체 중심 순매수 (+1,607억원→+1,358억원)</li>
-  <li><strong>주 중반 이후: 순매도 전환</strong> (-4,763억원→-4,822억원)</li>
-  <li><strong>주간 합계: -1.14조원 순매도</strong></li>
-</ul>
-
-<p><strong>개인·기관</strong>: 개인 -10.3조원 / 기관 +3.2조원</p>
-
-<hr />
-
-<h2 id="주목할-테마-반도체-수출-최대치-상승-모멘텀-이어지나">주목할 테마: 반도체 수출 최대치, 상승 모멘텀 이어지나</h2>
-
-<h3 id="1-반도체메모리시스템hbm--수출-467억달러-역대-최대-경신">1. <strong>반도체(메모리·시스템·HBM)</strong> — 수출 467억달러, 역대 최대 경신</h3>
-<ul>
-  <li><strong>삼성전자·SK하이닉스</strong>: 7거래일 연속 상승 기록</li>
-  <li><strong>메모리 가격 상승세</strong> 관측:
-    <ul>
-      <li>DDR5 +86%</li>
-      <li>NAND +92%</li>
-    </ul>
-  </li>
-  <li><strong>펀더멘털 배경</strong>: 3분기 영업익 100조원 전망 제시</li>
-  <li><strong>주목할 조건</strong>: 미국 반도체 지수(SOX) 동향 + 메모리 가격 추이</li>
-</ul>
-
-<h3 id="2-반도체-밸류체인-확산--기판소재장비로-확대">2. <strong>반도체 밸류체인 확산</strong> — 기판·소재·장비로 확대</h3>
-<ul>
-  <li>대형주 강세가 공급망 전반으로 파급</li>
-  <li>AI 인프라 수요 뒷받침</li>
-</ul>
-
-<h3 id="3-ai-데이터센터전력-인프라--구조적-수혜">3. <strong>AI 데이터센터·전력 인프라</strong> — 구조적 수혜</h3>
-<ul>
-  <li>ESR 전력수요 확대(1.6GW)</li>
-  <li>AI 투자 사이클 지속성이 핵심</li>
-</ul>
-
-<hr />
-
-<h2 id="-약화-테마-모멘텀-사이클-진입-신호">📉 약화 테마: 모멘텀 사이클 진입 신호?</h2>
-
-<h3 id="1-항공--유가-반등으로-모멘텀-약화">1. <strong>항공</strong> — 유가 반등으로 모멘텀 약화</h3>
-<ul>
-  <li>유가 100달러 → 89달러 → <strong>주말 94달러 반등</strong></li>
-  <li>호르무즈 협상 타결이 반등조건 (하락 여건 사라짐)</li>
-</ul>
-
-<h3 id="2-레버리지-etf--규제-타격으로-거래대금-92-급락">2. <strong>레버리지 ETF</strong> — 규제 타격으로 거래대금 92% 급락</h3>
-<ul>
-  <li>단일종목 레버리지 규제 (12조 → 1조 거래대금)</li>
-  <li>반등 가능성: 규제 완화 또는 대체 상품 출현</li>
-</ul>
-
-<h3 id="3-가상자산--미국-금리물가-압박">3. <strong>가상자산</strong> — 미국 금리·물가 압박</h3>
-<ul>
-  <li>비트코인 8.7만달러 돌파 후 상승분 반납</li>
-  <li>미 금리 안정화 + 과세 유예 확정 시 반등 가능</li>
-</ul>
-
-<hr />
-
-<h2 id="거시-배경-금리-급등과-수출-강세의-기로">거시 배경: 금리 급등과 수출 강세의 기로</h2>
-
-<h3 id="미국-금리-상승-인플레-우려-재부상">미국 금리 상승, 인플레 우려 재부상</h3>
-<ul>
-  <li><strong>10년물 금리</strong>: 19년 만에 5.2% 수준 도달</li>
-  <li><strong>배경</strong>: 경기 강도 예상에 따른 금리 시장 변화</li>
-  <li><strong>시사점</strong>: 성장주 밸류에이션 변화의 배경이 되는 요인</li>
-</ul>
-
-<h3 id="한국-반도체-수출-역대-최대-경신">한국 반도체, 수출 역대 최대 경신</h3>
-<ul>
-  <li><strong>반도체 수출</strong>: 467억달러 달성</li>
-  <li><strong>시사점</strong>: AI 인프라 관련 수요 추이 주목</li>
-</ul>
-
-<h3 id="환율-변동-속-외국인-수급-전환">환율 변동 속 외국인 수급 전환</h3>
-<ul>
-  <li>원달러 1,390 → 1,367 (원화 기준 상승)</li>
-  <li><strong>주간 특징</strong>: 초반 매수 후 중반 이후 매도로 전환</li>
-  <li><strong>모니터링</strong>: 향후 환율·외국인 동향이 시장 방향 결정 요인</li>
-</ul>
-
-<hr />
-
-<h2 id="-차주9301004-시장-결정요소">📅 차주(9.30~10.04) 시장 결정요소</h2>
-
-<h3 id="-첫-분수령-0930-미국-근원-pce-물가-지표-2130-kst">🎯 <strong>첫 분수령: 09/30 미국 근원 PCE 물가 지표 (21:30 KST)</strong></h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>시나리오</th>
-      <th>PCE 전망</th>
-      <th>GDP 전망</th>
-      <th>예상 영향</th>
-      <th>종가배팅 관점</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>긍정</strong>(Good)</td>
-      <td>예상↓ YoY 3.3%</td>
-      <td>둔화</td>
-      <td>금리 안정 기대 + 외국인 순매수 재개</td>
-      <td>✅ 반도체 강세 지속 가능</td>
-    </tr>
-    <tr>
-      <td><strong>부정</strong>(Bad)</td>
-      <td>예상↑ YoY 3.3%</td>
-      <td>강세</td>
-      <td>금리 5% 장기화 우려 + 긴축 심화</td>
-      <td>⚠️ 성장주 밸류에이션 부담</td>
-    </tr>
-  </tbody>
-</table>
-
-<h3 id="-차주-이벤트-일정">📌 차주 이벤트 일정</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>날짜</th>
-      <th>시간(KST)</th>
-      <th>지표</th>
-      <th>의미</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>09/29(화)</strong></td>
-      <td>23:00</td>
-      <td>미국 JOLTS 구인건수</td>
-      <td>노동 수요 선행 지표</td>
-    </tr>
-    <tr>
-      <td><strong>09/30(수)</strong></td>
-      <td>08:00</td>
-      <td>한국 소매판매</td>
-      <td>민간 소비 경기선행</td>
-    </tr>
-    <tr>
-      <td><strong>09/30(수)</strong></td>
-      <td>21:30</td>
-      <td><strong>미국 PCE 물가</strong></td>
-      <td><strong>🔑 핵심 분수령</strong></td>
-    </tr>
-    <tr>
-      <td><strong>09/30(수)</strong></td>
-      <td>21:30</td>
-      <td>미국 GDP</td>
-      <td>경기 강도 지속 여부</td>
-    </tr>
-    <tr>
-      <td><strong>10/01(목)</strong></td>
-      <td>23:00</td>
-      <td>미국 ISM 제조업</td>
-      <td>제조업 확장/수축 (기준선 50, 전월 54.6)</td>
-    </tr>
-  </tbody>
-</table>
-
-<hr />
-
-<h2 id="차주-초점-pce-물가지표와-이슈-변수들">차주 초점: PCE 물가지표와 이슈 변수들</h2>
-
-<h3 id="-차주-첫-분수령-0930-미국-근원-pce-물가"><strong>📌 차주 첫 분수령: 09/30 미국 근원 PCE 물가</strong></h3>
-
-<p>다음 주 금요일(09/30) 발표될 미국 근원 PCE는 연준 긴축 방향을 좌우할 핵심 지표다. 이번 주 10년물 금리가 5.2%까지 오른 배경이 인플레 우려이기에, PCE 결과는 주식시장 방향 재설정의 계기가 될 수 있다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>시나리오</th>
-      <th>지표 결과</th>
-      <th>예상 반응</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>약한 인플레(예상 하회)</td>
-      <td>PCE YoY 3.3% 이하</td>
-      <td>금리 안정 기대 가능</td>
-    </tr>
-    <tr>
-      <td>강한 인플레(예상 상회)</td>
-      <td>PCE YoY 3.3% 초과</td>
-      <td>금리 지속 우려</td>
-    </tr>
-  </tbody>
-</table>
-
-<h3 id="-함께-주목할-지표들"><strong>🔍 함께 주목할 지표들</strong></h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>날짜</th>
-      <th>시각</th>
-      <th>지표</th>
-      <th>의미</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>09/29(화)</td>
-      <td>23:00</td>
-      <td>미국 JOLTS 구인건수</td>
-      <td>노동시장 수요 신호</td>
-    </tr>
-    <tr>
-      <td>09/30(수)</td>
-      <td>08:00</td>
-      <td>한국 소매판매</td>
-      <td>국내 소비 흐름</td>
-    </tr>
-    <tr>
-      <td>09/30(수)</td>
-      <td>21:30</td>
-      <td><strong>미국 PCE 물가</strong></td>
-      <td><strong>🔑 주요 결정 요소</strong></td>
-    </tr>
-    <tr>
-      <td>09/30(수)</td>
-      <td>21:30</td>
-      <td>미국 GDP</td>
-      <td>경기 강도 지속 여부</td>
-    </tr>
-    <tr>
-      <td>10/01(목)</td>
-      <td>23:00</td>
-      <td>미국 ISM 제조업</td>
-      <td>산업 확장 추세(기준선 50, 전월 54.6)</td>
-    </tr>
-  </tbody>
-</table>
-
-<hr />
-
-<h2 id="주목할-섹터-다음-주-주요-포인트">주목할 섹터: 다음 주 주요 포인트</h2>
-
-<h3 id="-반도체--수출과-금리의-줄다리기"><strong>🏭 반도체</strong> — 수출과 금리의 줄다리기</h3>
-<ul>
-  <li><strong>확인 사항</strong>: SOX 지수 동향 + 메모리 가격 추이</li>
-  <li><strong>고려 사항</strong>: 금리 5.5% 돌파 시 밸류에이션 변화 가능성</li>
-  <li><strong>기준</strong>: 거래대금 규모와 수급 방향 병행 확인</li>
-</ul>
-
-<h3 id="-ai-인프라-데이터센터전력"><strong>⚡ AI 인프라</strong> (데이터센터·전력)</h3>
-<ul>
-  <li><strong>배경</strong>: 1.6GW 전력수요 확대 언급</li>
-  <li><strong>확인 사항</strong>: 글로벌 AI 투자 사이클 지속 여부</li>
-  <li><strong>신호</strong>: 관련 산업의 거래대금 추이</li>
-</ul>
-
-<h3 id="-바이오제약"><strong>💊 바이오·제약</strong></h3>
-<ul>
-  <li><strong>배경</strong>: 방사성의약품(RPT) 거래 증가 + 비만치료제 급여 논의</li>
-  <li><strong>확인 사항</strong>: 글로벌 RPT 시장 동향</li>
-</ul>
-
-<hr />
-
-<h2 id="위험-요소-다음-주-주시할-변수들">위험 요소: 다음 주 주시할 변수들</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>변수</th>
-      <th>시나리오</th>
-      <th>영향 범위</th>
-      <th>모니터링 포인트</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>미 금리 5%↑</strong></td>
-      <td>긴축 장기화 신호</td>
-      <td>성장주 밸류에이션 변화</td>
-      <td>PCE 발표 이후 금리 추이</td>
-    </tr>
-    <tr>
-      <td><strong>환율 1,400원↑</strong></td>
-      <td>원화 약세 심화</td>
-      <td>외국인 수급 변화</td>
-      <td>환율 수준별 외국인 동향</td>
-    </tr>
-    <tr>
-      <td><strong>유가 급등</strong></td>
-      <td>호르무즈 협상 악화 신호</td>
-      <td>항공·물류 관련주</td>
-      <td>유가선물 움직임</td>
-    </tr>
-  </tbody>
-</table>
-
-<hr />
-
-<h2 id="한주를-기억하며-다음주를-준비하며">한주를 기억하며, 다음주를 준비하며</h2>
-
-<h3 id="-이번-주-특징">📍 이번 주 특징</h3>
-<ol>
-  <li><strong>반도체의 주도</strong> — 수출·영업익·메모리가격이 뒷받침</li>
-  <li><strong>외국인의 전환</strong> — 초반 매수에서 중반 이후 매도로 방향 전환</li>
-  <li><strong>금리의 급상승</strong> — 미국 10년물이 19년 만에 5.2% 도달</li>
-</ol>
-
-<h3 id="-다음-주-체크리스트">🔍 다음 주 체크리스트</h3>
-<ul>
-  <li><strong>09/30(수)</strong> 미국 근원 PCE 물가 발표 — 금리 안정성 판단의 핵심</li>
-  <li><strong>환율·외국인 수급</strong> — 1,400원대 진입 여부와 외국인 방향 전환 신호</li>
-  <li><strong>반도체·AI 인프라</strong> — 거래대금 규모와 수급 방향 지속성 확인</li>
-  <li><strong>유가·항공 테마</strong> — 호르무즈 협상 진전 여부에 따른 모멘텀 변화</li>
-</ul>
-
-<hr />
-
-<h2 id="주간-마감-반도체의-약한-순환-외국인의-발걸음">주간 마감: 반도체의 약한 순환, 외국인의 발걸음</h2>
-
-<p>이번 주 코스피는 2.71% 상승으로 마감했다. 반도체 강세가 주도했지만, 주 초반 외국인의 매수가 중반 이후 매도로 전환된 흐름이 주목할 점이다. 미국 10년물 금리가 19년 만에 5.2%까지 오른 배경에는 인플레 우려가 있었고, 이것이 외국인의 이탈 신호로 읽혔을 가능성이 있다.</p>
-
-<p>다음 주는 두 가지 축이 맞서는 주가 될 것으로 보인다. 한쪽은 반도체 수출·영업익·메모리가격이라는 펀더멘털 우위이고, 다른 한쪽은 금리 상승에 따른 성장주 밸류에이션 압박이다. 09/30 미국 근원 PCE 발표가 이 두 축의 균형추를 어느 쪽으로 기울일 것인지를 결정하는 첫 번째 신호가 될 것이다.</p>
-
-<hr />
-
-<p><strong>📺 다음 주 주간분석</strong>: 2026-10-04 06:00 KST</p>
-
-<p><em>이 글은 종가배팅 시장 분석을 위한 거시경제 맥락을 정리한 것입니다. 개별 종목 선택은 AI 베팅등급과 데이터 기반 필터링 결과를 참고하시기 바랍니다.</em></p>
-
-<hr />
-
-<p><strong>#반도체 #금리 #코스피 #외국인수급 #NextTheme #AI인프라 #메모리가격 #항공테마 #주간분석 #환율</strong></p>]]></content><author><name>NextTheme</name></author><category term="weekly" /><summary type="html"><![CDATA[작성일: 2026-09-27 주간마감: 코스피 +2.71% (6,894→7,081) 코스닥 +2.10% (827→844)]]></summary></entry></feed>
+<p><strong>#NextTheme #반도체 #삼성전자 #외국인 #배당 #시초가갭</strong></p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[지난 금요일 밤 미국장에서 반도체 지수가 +1.41% 강세를 보이며 국내 반도체 대형주·소부장 종목들의 갭상승을 기대하게 했습니다. 다우지수 +0.93%, S&amp;P500 +0.51%, VIX -5.11% 급락으로 위험 선호 심리도 개선됐습니다. 그렇지만 국내 외국인이 -4,822억원 순매도로 돌아서며 미국 강세와의 커플링이 끊긴(DECOUPLED) 상태입니다. 오늘 시초가 이후 밀림 압력이 생길 수 있어 주의가 필요합니다.]]></summary></entry></feed>
