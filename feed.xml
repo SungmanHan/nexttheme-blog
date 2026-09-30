@@ -1,4 +1,100 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-30T10:03:50+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">9/29 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/30/review-20260929-review/" rel="alternate" type="text/html" title="9/29 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-09-30T09:00:00+09:00</published><updated>2026-09-30T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/30/review_20260929-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/30/review-20260929-review/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-09-30T20:07:43+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">SK하이닉스, 외국인 매수세 돌아온 날 — HBM 테마 1위 종목 수급 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/30/nt2-1505-snapshot/" rel="alternate" type="text/html" title="SK하이닉스, 외국인 매수세 돌아온 날 — HBM 테마 1위 종목 수급 분석" /><published>2026-09-30T15:05:00+09:00</published><updated>2026-09-30T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/30/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/30/nt2-1505-snapshot/"><![CDATA[<p>😮 오늘 코스피는 약보합, 코스닥은 강세로 갈리는 혼조장이었는데요. 이런 애매한 장에서도 한 곳으로 자금이 확실하게 몰린 흐름이 있었습니다. 바로 반도체, 그중에서도 HBM(고대역폭메모리) 테마입니다. 오늘 종가베팅 시스템이 어떤 데이터를 근거로 이 종목을 주목했는지 하나씩 살펴보겠습니다.</p>
+
+<h2 id="오늘-장-분위기는-이랬습니다">오늘 장 분위기는 이랬습니다</h2>
+
+<p>오늘 장은 “코스피는 약보합, 코스닥은 강세”로 방향이 엇갈린 혼조장이었습니다. 그런데 그 와중에 반도체 HBM 쪽으로 자금이 압도적으로 몰렸다는 게 특징입니다. 다만 매크로(거시경제) 쪽에서 경고 신호도 겹친 만큼, 시스템은 오늘을 “신중하게 접근할 국면”으로 판단했습니다.</p>
+
+<h2 id="오늘-눈에-띈-종목--sk하이닉스">오늘 눈에 띈 종목 — SK하이닉스</h2>
+
+<p>오늘 종가베팅 시스템이 주목한 종목은 <strong>SK하이닉스(000660)</strong> 하나였습니다.</p>
+
+<ul>
+  <li>오늘 종가는 <strong>1,783,000원</strong>, 등락률은 <strong>+1.0%</strong></li>
+  <li>오늘 하루 거래된 금액(거래대금)은 <strong>5.7조원</strong>, 시가총액은 <strong>1,302.5조원</strong></li>
+  <li>소속 테마는 <strong>HBM(고대역폭메모리)</strong>이고, 이 테마 안에서 <strong>1위</strong>로 분류됐습니다</li>
+</ul>
+
+<p>시스템이 이 종목을 주목한 이유를 풀어보면 이렇습니다. 오늘 시장 전체에서 자금이 가장 두껍게 몰린 곳이 반도체 대표주 쪽이었고, 그동안 3일 연속 팔던 외국인 투자자(큰 해외 투자기관)가 오늘 매수로 방향을 바꿨습니다. 여기에 매수 대기 주문(호가)에도 돈이 두껍게 쌓여 있었고, 15분 단위 차트에서 지지선을 딛고 반등하는 흐름이 확인됐습니다. 시스템은 이런 당시 데이터를 근거로 이 종목을 내일 아침 시가 갭상승 시나리오에 대응하는 전략 후보로 분류했습니다.</p>
+
+<h3 id="데이터로-본-sk하이닉스">데이터로 본 SK하이닉스</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>항목</th>
+      <th>수치</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>기본</td>
+      <td>당일 종가 / 등락률</td>
+      <td>1,783,000원 / <strong>+1.0%</strong></td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>거래대금 / 시가총액</td>
+      <td><strong>5.7조원</strong> / 1,302.5조원</td>
+    </tr>
+    <tr>
+      <td>기본</td>
+      <td>주도 테마 / 테마내순위</td>
+      <td>HBM(고대역폭메모리) / <strong>1위</strong></td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>RSI / RVOL / 이평수렴</td>
+      <td>51.3 / 0.6 / +0.03%</td>
+    </tr>
+    <tr>
+      <td>기술</td>
+      <td>52주 신고가 / 거래량 흐름</td>
+      <td>아님 / 중립</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>외국인 순매수 / 기관 순매수</td>
+      <td><strong>+6만 주</strong> / -15만 주</td>
+    </tr>
+    <tr>
+      <td>수급</td>
+      <td>호가 신호</td>
+      <td>매수벽 강함</td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>매출 YoY(전년 대비)</td>
+      <td><strong>+303.7%</strong></td>
+    </tr>
+    <tr>
+      <td>재무</td>
+      <td>최근 분기 실적 (2026.09.)</td>
+      <td>매출 98.7조원 / 영업이익 77.5조원</td>
+    </tr>
+    <tr>
+      <td>점수</td>
+      <td>AI 종합 점수</td>
+      <td>33점</td>
+    </tr>
+  </tbody>
+</table>
+
+<blockquote>
+  <p>외국인이 <strong>6만 주</strong>를 순매수했다는 건, 평소보다 해외 큰손들이 이 종목을 더 사들였다는 뜻입니다. 반대로 기관은 15만 주를 순매도해 방향이 엇갈렸는데, 그럼에도 매수 대기 주문이 두껍게 쌓여 있었다는 점(매수벽 강함)이 시스템이 주목한 포인트입니다.</p>
+</blockquote>
+
+<h2 id="오늘-이-흐름에서-제가-주목한-것은">오늘 이 흐름에서 제가 주목한 것은</h2>
+
+<p>개인적으로 눈에 띄었던 부분은 외국인 수급의 “방향 전환” 그 자체입니다. 3일 연속 팔던 주체가 오늘 하루 매수로 돌아섰다는 사실은, 그 자체만으로 앞으로가 어떻게 될지 확정해주지는 않습니다. 다만 혼조장 속에서도 자금이 한 테마로 뚜렷하게 쏠렸다는 점, 그리고 그 쏠림이 시가총액 최상위 대형주에서 나왔다는 점은 눈여겨볼 만한 하루였습니다.</p>
+
+<h2 id="정리하면">정리하면</h2>
+
+<p>오늘은 혼조장 속에서 HBM 테마로 자금이 집중된 하루였고, 그 중심에 SK하이닉스가 있었습니다. 종가베팅 시스템은 외국인 수급 전환, 매수벽, 지지선 반등이라는 세 가지 데이터를 근거로 이 종목을 오늘의 후보로 기록했습니다. 다만 이 기록은 어디까지나 오늘 시점의 데이터 분석이며, 실제 시장은 다양한 변수에 따라 다르게 움직일 수 있다는 점을 함께 기억해주세요.</p>
+
+<p>궁금한 종목이 있다면 댓글로 남겨주세요 🙌</p>
+
+<p>#SK하이닉스 #HBM #고대역폭메모리 #반도체 #외국인수급 #종가베팅 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[😮 오늘 코스피는 약보합, 코스닥은 강세로 갈리는 혼조장이었는데요. 이런 애매한 장에서도 한 곳으로 자금이 확실하게 몰린 흐름이 있었습니다. 바로 반도체, 그중에서도 HBM(고대역폭메모리) 테마입니다. 오늘 종가베팅 시스템이 어떤 데이터를 근거로 이 종목을 주목했는지 하나씩 살펴보겠습니다.]]></summary></entry><entry><title type="html">9/29 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/30/review-20260929-review/" rel="alternate" type="text/html" title="9/29 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-09-30T09:00:00+09:00</published><updated>2026-09-30T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/30/review_20260929-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/30/review-20260929-review/"><![CDATA[<blockquote>
   <p>데이터 기준: 2026-09-30 10:03 키움 ka10001 일괄 조회</p>
 </blockquote>
 
@@ -2418,101 +2514,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가베팅 #복기일지 #20260923 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-09-28 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">반도체 모멘텀 우호, 외국인 순매도 경계 필요한 월요일</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/28/0600-briefing/" rel="alternate" type="text/html" title="반도체 모멘텀 우호, 외국인 순매도 경계 필요한 월요일" /><published>2026-09-28T06:00:00+09:00</published><updated>2026-09-28T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/28/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/28/0600-briefing/"><![CDATA[<p>지난 금요일 밤 미국장에서 반도체 지수가 <strong>+1.41%</strong> 강세를 보이며 국내 반도체 대형주·소부장 종목들의 갭상승을 기대하게 했습니다. 다우지수 +0.93%, S&amp;P500 +0.51%, VIX -5.11% 급락으로 위험 선호 심리도 개선됐습니다. 그렇지만 국내 외국인이 <strong>-4,822억원 순매도</strong>로 돌아서며 미국 강세와의 커플링이 끊긴(DECOUPLED) 상태입니다. 오늘 시초가 이후 밀림 압력이 생길 수 있어 주의가 필요합니다.</p>
-
-<h2 id="-지난-금요일-선별-복기">📋 지난 금요일 선별 복기</h2>
-
-<p>지난 금요일에는 <strong>최종 2개·NXT 1개·탐색 2개·이월보유 1개</strong> 종목이 선별되었습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>슬롯</th>
-      <th>전략</th>
-      <th>저녁 갭</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>삼성전자</strong></td>
-      <td>15:10 최종</td>
-      <td>배당 막차 매수세 및 반도체 강세 기대</td>
-      <td>종가 284,500원 대비 <strong>+0.70%</strong> (15:40~19:59)</td>
-    </tr>
-    <tr>
-      <td>원익홀딩스</td>
-      <td>15:10 최종</td>
-      <td>반도체 장비 테마 모멘텀 추종</td>
-      <td>데이터 부재</td>
-    </tr>
-    <tr>
-      <td>동진쎄미켐</td>
-      <td>19:10 선별</td>
-      <td>반도체 소재 테마 매수</td>
-      <td>데이터 부재</td>
-    </tr>
-    <tr>
-      <td><strong>원익IPS</strong></td>
-      <td>14:30 선별</td>
-      <td>반도체 장비 대장주, 기관 4일 연속 매수</td>
-      <td>종가 132,900원 대비 <strong>+0.75%</strong> (15:40~19:59)</td>
-    </tr>
-    <tr>
-      <td>⚠️ 엑스게이트</td>
-      <td>12:10 탐색</td>
-      <td>양자암호 테마 단기 탐색</td>
-      <td>종가 18,630원 대비 <strong>-2.90%</strong> (15:40~19:58)</td>
-    </tr>
-    <tr>
-      <td>삼성중공업</td>
-      <td>—</td>
-      <td>이전부터 보유 중 이월 포지션</td>
-      <td>평단 21,372원 대비 <strong>−4.1~−5.2%</strong> (15:40~19:59)</td>
-    </tr>
-  </tbody>
-</table>
-
-<p><strong>결과 평가</strong>: 실제 매수는 없었으며, 지난 금요일 이월로 보유 중이던 삼성중공업이 저녁 <strong>−4.1%~−5.2%</strong> 약세를 기록했습니다. 반도체 장비주(삼성전자·원익IPS)는 저녁 소폭 상승으로 긍정 신호가 남아 있지만, 엑스게이트는 양자암호 테마 약세로 탐색 후보에서도 관망이 필요한 상황입니다.</p>
-
-<h2 id="국내-수급-흐름">국내 수급 흐름</h2>
-
-<p>전일 국내 시장은 외국인이 <strong>-4,822억원 순매도</strong>, 기관이 <strong>+5,473억원 순매수</strong>로 엇갈린 흐름을 보였습니다. 개인은 <strong>-1.7조원 순매도</strong>로 큰 손실을 기록했습니다. 특히 외국인이 순매도로 전환한 것은 미국 반도체 강세에도 불구하고 국내 수출주에 대한 조심스러운 시각을 시사합니다. 상위 테마는 <strong>신규상장(+18.02%), 광고(+11.17%), 양자암호(+4.04%)</strong>로 다양한 테마가 분산되어 있습니다.</p>
-
-<h2 id="지난-금요일-밤-미국-시장">지난 금요일 밤 미국 시장</h2>
-
-<p>다우존스 <strong>+0.93%</strong>, S&amp;P500 <strong>+0.51%</strong>, 나스닥 <strong>+0.48%</strong>로 3대 지수가 동반 상승했습니다. 필라델피아 반도체 지수는 <strong>+1.41%</strong>로 미국 반도체 강세가 두드러졌고, VIX는 <strong>-5.11%</strong> 급락하며 변동성이 크게 축소됐습니다.</p>
-
-<p>다우존스의 경우 윗꼬리 비율이 0.086으로 낮아 <strong>장을 우상향으로 마감</strong>했으며, S&amp;P500도 0.147의 낮은 윗꼬리로 강한 마감을 기록했습니다. 다만 나스닥 종합은 윗꼬리가 0.219로 상대적으로 커서 <strong>장 중후반에 일부 차익실현이 있었던 흔적</strong>이 보입니다. VIX 급락은 위험 자산에 우호적인 환경을 만들었지만, 미국 선물이 야간 중 조정받을 가능성도 염두에 둬야 합니다.</p>
-
-<h2 id="핵심-뉴스">핵심 뉴스</h2>
-
-<p><strong>반도체 수출이 467억달러로 역대 최대를 기록</strong>했습니다. AI 인프라 수요로 DDR5 <strong>+86%</strong>, NAND <strong>+92%</strong> 가격이 오르며 메모리 수익성 개선이 본격화되는 신호입니다. 삼성전자와 SK하이닉스의 실적 모멘텀이 이어질 가능성을 높입니다.</p>
-
-<p><strong>삼성전자의 3분기 현금배당(4,500원 예상) 권리락이 오늘(09/28) 진행</strong>됩니다. 3분기 영업익 100조원 대 전망과 함께 역대급 주주환원책(90~110조원)으로 배당 수혜주에 대한 단기 매수 유입이 예상됩니다.</p>
-
-<p>주목할 점은 <strong>내일 저녁(09/29 23:00) 미국 소비자신뢰지수와 JOLTS(구인건수)</strong>가 발표될 예정이라는 것입니다. 지난주 대비 기대치가 높아지면서 <strong>변동성 촉발 요인</strong>이 될 수 있습니다.</p>
-
-<h2 id="오늘의-베팅-등급-신중-구간">오늘의 베팅 등급: 신중 구간</h2>
-
-<p>등급 <strong>신중 구간</strong>은 반도체 모멘텀 우호에도 불구하고 <strong>외국인 순매도 전환</strong>으로 인한 커플링 이탈이 위험 요소라는 판단입니다. 시초가 갭상승이 예상되지만, 장중 외국인 밀림이 시작될 경우 <strong>수익 실현 압박</strong>이 곧바로 들어올 수 있습니다.</p>
-
-<p><strong>추천 대응</strong>: 시초가 갭 방향을 먼저 확인한 후, 반도체 대형주(삼성전자)와 장비주(원익IPS)의 <strong>매수 호가 두께</strong>를 병행 관찰하세요. 외국인 동향도 실시간 모니터링이 필수입니다. 배당 권리락 매수세가 얼마나 지속할지가 핵심입니다.</p>
-
-<h2 id="오늘-장중-확인할-체크리스트">오늘 장중 확인할 체크리스트</h2>
-
-<ul>
-  <li><strong>시초가 갭 방향</strong> — 반도체 지수 +1.41% 대비 국내 반도체주의 갭상승 규모 확인</li>
-  <li><strong>외국인 순매매 전환 여부</strong> — 전일 -4,822억원에서 회복 추이 병행 관찰</li>
-  <li><strong>매수 호가 두께</strong> — 삼성전자·원익IPS 시가 근처 누적 매수 물량 확인</li>
-  <li><strong>필라델피아 반도체 야간 선물</strong> — 개장 전 미국 야간 지수 방향성 재확인</li>
-  <li><strong>미국 소비자신뢰·JOLTS 대기</strong> — 내일 저녁 발표 대기로 조심스러운 매수세 예상</li>
-</ul>
-
-<h2 id="결론">결론</h2>
-
-<p>지난 금요일부터 이월된 약세(삼성중공업 -4.1%) 가운데 반도체의 긍정 신호(저녁 갭상승)는 명확하지만, 외국인의 갑작스러운 순매도 전환이 <strong>모멘텀의 지속성을 위협</strong>하고 있습니다. 시초가 이후 <strong>호가 두께와 외국인 동향</strong>을 30분 내에 확인한 후 진입 판단을 내리시길 권장합니다. 댓글로 오늘의 시초가 갭과 장중 수급 흐름을 나눠주세요!</p>
-
-<hr />
-
-<p><strong>#NextTheme #반도체 #삼성전자 #외국인 #배당 #시초가갭</strong></p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[지난 금요일 밤 미국장에서 반도체 지수가 +1.41% 강세를 보이며 국내 반도체 대형주·소부장 종목들의 갭상승을 기대하게 했습니다. 다우지수 +0.93%, S&amp;P500 +0.51%, VIX -5.11% 급락으로 위험 선호 심리도 개선됐습니다. 그렇지만 국내 외국인이 -4,822억원 순매도로 돌아서며 미국 강세와의 커플링이 끊긴(DECOUPLED) 상태입니다. 오늘 시초가 이후 밀림 압력이 생길 수 있어 주의가 필요합니다.]]></summary></entry></feed>
+<p>#종가베팅 #복기일지 #20260923 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-09-28 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
