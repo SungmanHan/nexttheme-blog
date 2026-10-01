@@ -1,42 +1,42 @@
 {
-  "lastTradingDay" : "2026-09-30",
-  "totalDays" : 98,
+  "lastTradingDay" : "2026-10-01",
+  "totalDays" : 99,
   "summary" : {
-    "tradingDays" : 98,
+    "tradingDays" : 99,
     "sectorCount" : 16,
-    "upDays" : 90,
-    "avgChangeRate" : 5.82,
+    "upDays" : 91,
+    "avgChangeRate" : 5.83,
     "topSector" : "반도체·AI인프라",
-    "topSectorDays" : 22
+    "topSectorDays" : 23
   },
   "now" : {
-    "date" : "2026-09-30",
-    "bettingGrade" : "RED",
-    "regimeTag" : "RED_EXHAUST",
-    "themeRegime" : "UNKNOWN",
-    "marketSignal" : "혼조",
-    "kospi" : -0.48,
-    "kosdaq" : 0.72,
-    "leadTheme" : "남-북-러 가스관사업",
-    "leadChangeRate" : 6.91,
-    "themePremium" : 7.39
+    "date" : "2026-10-01",
+    "bettingGrade" : "YELLOW",
+    "regimeTag" : "YELLOW",
+    "themeRegime" : "INDEX_LED",
+    "marketSignal" : "중립",
+    "kospi" : 1.95,
+    "kosdaq" : 4.48,
+    "leadTheme" : "HBM(고대역폭메모리)",
+    "leadChangeRate" : 6.75,
+    "themePremium" : 4.8
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
-    "rank1Days" : 22,
-    "top3Days" : 39
+    "rank1Days" : 23,
+    "top3Days" : 40
   }, {
     "sector" : "자동차·2차전지",
     "rank1Days" : 12,
     "top3Days" : 26
   }, {
+    "sector" : "전자부품·기판",
+    "rank1Days" : 8,
+    "top3Days" : 21
+  }, {
     "sector" : "전력·전선·신재생",
     "rank1Days" : 6,
     "top3Days" : 21
-  }, {
-    "sector" : "전자부품·기판",
-    "rank1Days" : 8,
-    "top3Days" : 20
   }, {
     "sector" : "조선·해운",
     "rank1Days" : 7,
@@ -1871,5 +1871,28 @@
       } ],
       "mainStock" : ""
     }, null, null ] ]
+  }, {
+    "ym" : "2026-10",
+    "label" : "2026년 10월",
+    "weeks" : [ [ null, null, null, {
+      "day" : 1,
+      "date" : "2026-10-01",
+      "theme" : "HBM(고대역폭메모리)",
+      "sector" : "반도체·AI인프라",
+      "changeRate" : 6.75,
+      "prevDay" : "CARRY",
+      "regime" : "INDEX_LED",
+      "slot" : "15:00",
+      "kospi" : 1.95,
+      "themePremium" : 4.8,
+      "runners" : [ {
+        "theme" : "소캠(SOCAMM)",
+        "changeRate" : 6.64
+      }, {
+        "theme" : "반도체 기판(FC-BGA/PCB/MLB 등)",
+        "changeRate" : 6.2
+      } ],
+      "mainStock" : ""
+    }, null ] ]
   } ]
 }
