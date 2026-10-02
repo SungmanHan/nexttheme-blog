@@ -1,25 +1,25 @@
 {
-  "lastTradingDay" : "2026-10-01",
-  "totalDays" : 99,
+  "lastTradingDay" : "2026-10-02",
+  "totalDays" : 100,
   "summary" : {
-    "tradingDays" : 99,
+    "tradingDays" : 100,
     "sectorCount" : 16,
-    "upDays" : 91,
-    "avgChangeRate" : 5.83,
+    "upDays" : 92,
+    "avgChangeRate" : 5.87,
     "topSector" : "반도체·AI인프라",
     "topSectorDays" : 23
   },
   "now" : {
-    "date" : "2026-10-01",
-    "bettingGrade" : "YELLOW",
-    "regimeTag" : "YELLOW",
-    "themeRegime" : "INDEX_LED",
-    "marketSignal" : "중립",
-    "kospi" : 1.95,
-    "kosdaq" : 4.48,
-    "leadTheme" : "HBM(고대역폭메모리)",
-    "leadChangeRate" : 6.75,
-    "themePremium" : 4.8
+    "date" : "2026-10-02",
+    "bettingGrade" : "RED",
+    "regimeTag" : "RED_EXHAUST",
+    "themeRegime" : "THEME_LED",
+    "marketSignal" : "혼조",
+    "kospi" : 0.46,
+    "kosdaq" : -0.11,
+    "leadTheme" : "정유",
+    "leadChangeRate" : 9.66,
+    "themePremium" : 9.2
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
@@ -43,8 +43,8 @@
     "top3Days" : 18
   }, {
     "sector" : "정유·화학·원자재",
-    "rank1Days" : 4,
-    "top3Days" : 16
+    "rank1Days" : 5,
+    "top3Days" : 17
   }, {
     "sector" : "건설·기계",
     "rank1Days" : 3,
@@ -1893,6 +1893,25 @@
         "changeRate" : 6.2
       } ],
       "mainStock" : ""
-    }, null ] ]
+    }, {
+      "day" : 2,
+      "date" : "2026-10-02",
+      "theme" : "정유",
+      "sector" : "정유·화학·원자재",
+      "changeRate" : 9.66,
+      "prevDay" : "NEW",
+      "regime" : "THEME_LED",
+      "slot" : "15:00",
+      "kospi" : 0.46,
+      "themePremium" : 9.2,
+      "runners" : [ {
+        "theme" : "윤활유",
+        "changeRate" : 9.54
+      }, {
+        "theme" : "LPG(액화석유가스)",
+        "changeRate" : 9.09
+      } ],
+      "mainStock" : ""
+    } ] ]
   } ]
 }
