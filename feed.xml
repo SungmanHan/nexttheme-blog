@@ -1,4 +1,126 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-10-02T21:02:24+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">SK이노베이션 +10.1% 마감, 정유 테마에 자금이 몰린 하루 — 오늘 증시 마감 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/02/daily/" rel="alternate" type="text/html" title="SK이노베이션 +10.1% 마감, 정유 테마에 자금이 몰린 하루 — 오늘 증시 마감 정리" /><published>2026-10-02T21:00:00+09:00</published><updated>2026-10-02T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/02/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/02/daily/"><![CDATA[<p>오늘 코스피는 7,000선 위로 올라섰고, 코스닥은 소폭 내렸습니다. 지수는 조용했는데 정유 종목만 유독 크게 움직인 하루였어요. 📝 오늘 시장 흐름과 AI 선별 결과, 그리고 어제 선별 종목이 오늘 아침 어땠는지까지 한 번에 정리해 봤습니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-10-03T06:05:02+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">한 주를 돌아보고 월요일 개장을 준비하며 — 이번 주 정유·반도체 모멘텀, 다음주까지 이어질까?</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/03/weekend/" rel="alternate" type="text/html" title="한 주를 돌아보고 월요일 개장을 준비하며 — 이번 주 정유·반도체 모멘텀, 다음주까지 이어질까?" /><published>2026-10-03T06:00:00+09:00</published><updated>2026-10-03T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/03/weekend</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/03/weekend/"><![CDATA[<p>한 주가 끝났습니다. 💭 미국 증시의 반도체 강세와 국내 수출 호황 뉴스 속에서 월요일 개장을 앞두고 어떤 준비를 해야 할까요. 이번 주말 아침, 오늘과 다음 주를 읽는 분석을 정리했습니다.</p>
+
+<h2 id="어젯밤-미국-시장이-보내는-신호">어젯밤 미국 시장이 보내는 신호</h2>
+
+<p>어젯밤(금요일) 미국장은 긍정적으로 마감했습니다. 다우 <strong>+0.49%</strong>, S&amp;P500 <strong>+0.73%</strong>, 나스닥 <strong>+1.19%</strong>를 기록했는데, 특히 눈에 띄는 건 반도체 지수 <strong>+2.40%</strong>의 강한 상승입니다.</p>
+
+<p>배경엔 미국 9월 비농업고용 부진 뉴스가 있습니다. 예상 8만9천 개 대비 실제 2만9천 개에 그쳐 시장에 충격을 줬지만, 역설적으로 연준 금리 인상 기대가 약화되면서 <strong>나스닥 기술주·반도체주에 오히려 호재</strong>가 되었죠. 선물 기준으로도 강세인 상태입니다.</p>
+
+<p>국내 시장도 긍정적 신호를 받았습니다. 9월 수출이 <strong>982억 달러(+68.7%)</strong>를 기록해 3개월 연속 900억 달러를 넘었고, 반도체 수출이 <strong>466억 달러(+209%)</strong>라는 역대 최대를 경신했거든요. 이미 금요일 장중 정유 섹터가 <strong>+8.22%</strong> 상승한 배경도 이 뉴스들입니다.</p>
+
+<h2 id="다음주-핵심--외국인-수급-흐름-반전이-관건">다음주 핵심 — 외국인 수급 흐름 반전이 관건</h2>
+
+<p>다음주 월요일 개장은 <strong>미국 증시 상승과 선물 강세(S&amp;P 500 선물 +0.69%, 나스닥 선물 +0.94%)</strong> 덕분에 긍정적 출발이 전망됩니다. 다만 주의할 점이 있습니다.</p>
+
+<p>금요일 <strong>외국인이 2,431억 원을 순매도</strong>했다는 사실입니다. 호재 소식에도 불구하고 외국인이 팔았다는 건, 이들의 수급 방향이 얼마나 중요한 변수인지를 보여줍니다. 월요일 장 시작 시 <strong>외국인의 매수 전환 여부</strong>가 지수 강도를 크게 좌우할 변수입니다.</p>
+
+<h2 id="주목할-섹터-3가지">주목할 섹터, 3가지</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>섹터</th>
+      <th>이번 주 신호</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>정유·석유화학</strong></td>
+      <td>WTI 91.3달러 고공행진 + 아시아 정제마진 강세 + 금요일 +8.22%</td>
+    </tr>
+    <tr>
+      <td><strong>반도체</strong></td>
+      <td>미국 필라델피아 지수 +2.40% + 9월 수출 466억 달러(+209%) 역대 최대</td>
+    </tr>
+    <tr>
+      <td><strong>통신장비·광통신</strong></td>
+      <td>금요일 +6.68% 강세 + AI 데이터센터 테마 지속성</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>세 섹터 모두 이번 주 강세 신호가 확인됩니다. 다만 일시적 쏠림 위험이 있으므로, 월요일 종목 선별 시엔 <strong>거래대금 집중도와 외국인·기관 동반 유입 여부</strong>를 확인하는 것이 필수 점검 항목입니다.</p>
+
+<h2 id="금요일-선별-종목들의-저녁-흐름-검토">금요일 선별 종목들의 저녁 흐름 검토</h2>
+
+<p>금요일 AI 선별 이후 장 마감부터 저녁까지 어떤 움직임이 있었는지 정리해봤습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>선별 슬롯</th>
+      <th>상태</th>
+      <th>저녁 흐름</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>삼성중공업</strong></td>
+      <td>—</td>
+      <td>이월 보유 중</td>
+      <td>평단 대비 <strong>−6.6%</strong> (조선 섹터 약세 반영)</td>
+    </tr>
+    <tr>
+      <td><strong>SK이노베이션</strong></td>
+      <td>15:10 최종</td>
+      <td>미보유</td>
+      <td>종가 대비 <strong>−1.6%~+0.1%</strong> 범위 (유가 강세 신호 정확히 포착)</td>
+    </tr>
+    <tr>
+      <td><strong>한화솔루션</strong></td>
+      <td>10:10 탐색</td>
+      <td>미보유</td>
+      <td>종가 대비 <strong>+0.7%~+1.4%</strong> 갭상승 모멘텀 확인</td>
+    </tr>
+    <tr>
+      <td><strong>성호전자</strong></td>
+      <td>19:10 선별</td>
+      <td>미보유</td>
+      <td>갭 데이터 없음</td>
+    </tr>
+    <tr>
+      <td><strong>대한광통신</strong></td>
+      <td>12:10 탐색</td>
+      <td>미보유</td>
+      <td>갭 데이터 없음</td>
+    </tr>
+    <tr>
+      <td><strong>티엠씨</strong></td>
+      <td>12:10 탐색</td>
+      <td>미보유</td>
+      <td>종가와 동일 수준</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>삼성중공업(9월 17일부터 보유)은 특히 관찰 대상</strong>입니다. 이월 보유한 지 약 2주인데, 금요일 저녁에도 평단 대비 <strong>−6.6%</strong> 하락 흐름이 이어졌습니다. 조선 섹터가 수출 역풍 국면에 포함되어 있는 상태인데, 월요일 시초가 방향과 수급 흐름이 관찰 포인트입니다.</p>
+
+<p>SK이노베이션은 금요일 <strong>15:10 최종 선별 종목</strong>인데, 유가 강세와 정제마진 테마를 정확히 포착했습니다. 외국인·기관 동반 유입도 맞았으니 다음주 추이를 관찰해볼 만합니다.</p>
+
+<p>한화솔루션은 <strong>10:10 탐색 슬롯에서 선별</strong>된 종목인데, 저녁에 <strong>+1.4% 갭상승</strong>으로 모멘텀이 확인된 상태입니다. 유가 강세 수혜 테마가 반영된 흐름입니다.</p>
+
+<h2 id="다음-주-투자-각도">다음 주 투자 각도</h2>
+
+<p>이번 주 정유와 반도체의 모멘텀이 <strong>월요일에도 이어지는지가 관건</strong>입니다. 미국 증시 강세와 국내 수출 호황이 주요 배경이기 때문입니다.</p>
+
+<p>다만 다음과 같은 점들을 체크해야 합니다:</p>
+
+<ul>
+  <li><strong>외국인 수급 전환</strong>: 월요일 개장 첫 시간에 외국인의 매도 흐름이 계속되면 지수 강도가 급격히 약해질 수 있습니다.</li>
+  <li><strong>테마 쏠림 위험</strong>: 정유와 반도체 같은 인기 있는 테마에 자금이 몰릴 때는 반드시 거래대금 집중도를 확인하고, 소수 종목만 오르는 구도인지 살펴봐야 합니다.</li>
+  <li><strong>대장주 중심 흐름</strong>: 전일 약세 등급 이후의 회복 국면이므로, 기관이나 외국인이 함께 들어오는 종목 중심으로 흐름을 확인하는 것이 관건입니다.</li>
+</ul>
+
+<h2 id="한-주의-마무리-월요일-준비">한 주의 마무리, 월요일 준비</h2>
+
+<p>한 주를 정리해보니 <strong>반도체와 정유 섹터의 강세</strong>가 뚜렷하네요. 미국 기술주 약세 우려가 약화되고, 국내 반도체 수출이 역대 최대를 경신한 것도 큰 배경입니다.</p>
+
+<p>월요일 개장을 앞두고, 외국인 수급과 테마 쏠림을 함께 눈에 담고 준비하시기 바랍니다. 💪</p>
+
+<p><strong>궁금한 종목이나 월요일 장 중 흐름에 대한 의견이 있으신가요? 댓글로 의견을 나눠주세요.</strong></p>
+
+<p>#종가베팅 #주말브리핑 #반도체 #정유 #수출호황 #월요일전망 #외국인수급</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[한 주가 끝났습니다. 💭 미국 증시의 반도체 강세와 국내 수출 호황 뉴스 속에서 월요일 개장을 앞두고 어떤 준비를 해야 할까요. 이번 주말 아침, 오늘과 다음 주를 읽는 분석을 정리했습니다.]]></summary></entry><entry><title type="html">SK이노베이션 +10.1% 마감, 정유 테마에 자금이 몰린 하루 — 오늘 증시 마감 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/02/daily/" rel="alternate" type="text/html" title="SK이노베이션 +10.1% 마감, 정유 테마에 자금이 몰린 하루 — 오늘 증시 마감 정리" /><published>2026-10-02T21:00:00+09:00</published><updated>2026-10-02T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/02/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/02/daily/"><![CDATA[<p>오늘 코스피는 7,000선 위로 올라섰고, 코스닥은 소폭 내렸습니다. 지수는 조용했는데 정유 종목만 유독 크게 움직인 하루였어요. 📝 오늘 시장 흐름과 AI 선별 결과, 그리고 어제 선별 종목이 오늘 아침 어땠는지까지 한 번에 정리해 봤습니다.</p>
 
 <blockquote>
   <p>이 글은 시장 기록 정리이며, 특정 종목의 매수·매도를 권유하지 않습니다.</p>
@@ -2725,100 +2847,4 @@ AI 선별 정확도를 복기합니다.</p>
 
 <p>오늘 시장 어떻게 보셨나요? 댓글로 의견 나눠주세요 🙂</p>
 
-<p>#NextTheme #종가베팅 #SK하이닉스 #HBM #코스피 #코스닥 #반도체 #삼성중공업 #HPSP #한미반도체</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[안녕하세요 😊 오늘은 코스피와 코스닥이 서로 다른 방향으로 갈린, 조금 헷갈리는 하루였습니다. 반도체 쪽으로는 돈이 크게 몰렸지만, 미국 장기 국채 금리가 24년 만에 최고치를 찍었다는 소식도 겹쳐서 마음 편하게 웃을 수만은 없는 날이었어요. 오늘 하루를 순서대로 정리해 보겠습니다.]]></summary></entry><entry><title type="html">SK하이닉스, 외국인 매수세 돌아온 날 — HBM 테마 1위 종목 수급 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/09/30/nt2-1505-snapshot/" rel="alternate" type="text/html" title="SK하이닉스, 외국인 매수세 돌아온 날 — HBM 테마 1위 종목 수급 분석" /><published>2026-09-30T15:05:00+09:00</published><updated>2026-09-30T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/09/30/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/09/30/nt2-1505-snapshot/"><![CDATA[<p>😮 오늘 코스피는 약보합, 코스닥은 강세로 갈리는 혼조장이었는데요. 이런 애매한 장에서도 한 곳으로 자금이 확실하게 몰린 흐름이 있었습니다. 바로 반도체, 그중에서도 HBM(고대역폭메모리) 테마입니다. 오늘 종가베팅 시스템이 어떤 데이터를 근거로 이 종목을 주목했는지 하나씩 살펴보겠습니다.</p>
-
-<h2 id="오늘-장-분위기는-이랬습니다">오늘 장 분위기는 이랬습니다</h2>
-
-<p>오늘 장은 “코스피는 약보합, 코스닥은 강세”로 방향이 엇갈린 혼조장이었습니다. 그런데 그 와중에 반도체 HBM 쪽으로 자금이 압도적으로 몰렸다는 게 특징입니다. 다만 매크로(거시경제) 쪽에서 경고 신호도 겹친 만큼, 시스템은 오늘을 “신중하게 접근할 국면”으로 판단했습니다.</p>
-
-<h2 id="오늘-눈에-띈-종목--sk하이닉스">오늘 눈에 띈 종목 — SK하이닉스</h2>
-
-<p>오늘 종가베팅 시스템이 주목한 종목은 <strong>SK하이닉스(000660)</strong> 하나였습니다.</p>
-
-<ul>
-  <li>오늘 종가는 <strong>1,783,000원</strong>, 등락률은 <strong>+1.0%</strong></li>
-  <li>오늘 하루 거래된 금액(거래대금)은 <strong>5.7조원</strong>, 시가총액은 <strong>1,302.5조원</strong></li>
-  <li>소속 테마는 <strong>HBM(고대역폭메모리)</strong>이고, 이 테마 안에서 <strong>1위</strong>로 분류됐습니다</li>
-</ul>
-
-<p>시스템이 이 종목을 주목한 이유를 풀어보면 이렇습니다. 오늘 시장 전체에서 자금이 가장 두껍게 몰린 곳이 반도체 대표주 쪽이었고, 그동안 3일 연속 팔던 외국인 투자자(큰 해외 투자기관)가 오늘 매수로 방향을 바꿨습니다. 여기에 매수 대기 주문(호가)에도 돈이 두껍게 쌓여 있었고, 15분 단위 차트에서 지지선을 딛고 반등하는 흐름이 확인됐습니다. 시스템은 이런 당시 데이터를 근거로 이 종목을 내일 아침 시가 갭상승 시나리오에 대응하는 전략 후보로 분류했습니다.</p>
-
-<h3 id="데이터로-본-sk하이닉스">데이터로 본 SK하이닉스</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>구분</th>
-      <th>항목</th>
-      <th>수치</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>기본</td>
-      <td>당일 종가 / 등락률</td>
-      <td>1,783,000원 / <strong>+1.0%</strong></td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>거래대금 / 시가총액</td>
-      <td><strong>5.7조원</strong> / 1,302.5조원</td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>주도 테마 / 테마내순위</td>
-      <td>HBM(고대역폭메모리) / <strong>1위</strong></td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>RSI / RVOL / 이평수렴</td>
-      <td>51.3 / 0.6 / +0.03%</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>52주 신고가 / 거래량 흐름</td>
-      <td>아님 / 중립</td>
-    </tr>
-    <tr>
-      <td>수급</td>
-      <td>외국인 순매수 / 기관 순매수</td>
-      <td><strong>+6만 주</strong> / -15만 주</td>
-    </tr>
-    <tr>
-      <td>수급</td>
-      <td>호가 신호</td>
-      <td>매수벽 강함</td>
-    </tr>
-    <tr>
-      <td>재무</td>
-      <td>매출 YoY(전년 대비)</td>
-      <td><strong>+303.7%</strong></td>
-    </tr>
-    <tr>
-      <td>재무</td>
-      <td>최근 분기 실적 (2026.09.)</td>
-      <td>매출 98.7조원 / 영업이익 77.5조원</td>
-    </tr>
-    <tr>
-      <td>점수</td>
-      <td>AI 종합 점수</td>
-      <td>33점</td>
-    </tr>
-  </tbody>
-</table>
-
-<blockquote>
-  <p>외국인이 <strong>6만 주</strong>를 순매수했다는 건, 평소보다 해외 큰손들이 이 종목을 더 사들였다는 뜻입니다. 반대로 기관은 15만 주를 순매도해 방향이 엇갈렸는데, 그럼에도 매수 대기 주문이 두껍게 쌓여 있었다는 점(매수벽 강함)이 시스템이 주목한 포인트입니다.</p>
-</blockquote>
-
-<h2 id="오늘-이-흐름에서-제가-주목한-것은">오늘 이 흐름에서 제가 주목한 것은</h2>
-
-<p>개인적으로 눈에 띄었던 부분은 외국인 수급의 “방향 전환” 그 자체입니다. 3일 연속 팔던 주체가 오늘 하루 매수로 돌아섰다는 사실은, 그 자체만으로 앞으로가 어떻게 될지 확정해주지는 않습니다. 다만 혼조장 속에서도 자금이 한 테마로 뚜렷하게 쏠렸다는 점, 그리고 그 쏠림이 시가총액 최상위 대형주에서 나왔다는 점은 눈여겨볼 만한 하루였습니다.</p>
-
-<h2 id="정리하면">정리하면</h2>
-
-<p>오늘은 혼조장 속에서 HBM 테마로 자금이 집중된 하루였고, 그 중심에 SK하이닉스가 있었습니다. 종가베팅 시스템은 외국인 수급 전환, 매수벽, 지지선 반등이라는 세 가지 데이터를 근거로 이 종목을 오늘의 후보로 기록했습니다. 다만 이 기록은 어디까지나 오늘 시점의 데이터 분석이며, 실제 시장은 다양한 변수에 따라 다르게 움직일 수 있다는 점을 함께 기억해주세요.</p>
-
-<p>궁금한 종목이 있다면 댓글로 남겨주세요 🙌</p>
-
-<p>#SK하이닉스 #HBM #고대역폭메모리 #반도체 #외국인수급 #종가베팅 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[😮 오늘 코스피는 약보합, 코스닥은 강세로 갈리는 혼조장이었는데요. 이런 애매한 장에서도 한 곳으로 자금이 확실하게 몰린 흐름이 있었습니다. 바로 반도체, 그중에서도 HBM(고대역폭메모리) 테마입니다. 오늘 종가베팅 시스템이 어떤 데이터를 근거로 이 종목을 주목했는지 하나씩 살펴보겠습니다.]]></summary></entry></feed>
+<p>#NextTheme #종가베팅 #SK하이닉스 #HBM #코스피 #코스닥 #반도체 #삼성중공업 #HPSP #한미반도체</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[안녕하세요 😊 오늘은 코스피와 코스닥이 서로 다른 방향으로 갈린, 조금 헷갈리는 하루였습니다. 반도체 쪽으로는 돈이 크게 몰렸지만, 미국 장기 국채 금리가 24년 만에 최고치를 찍었다는 소식도 겹쳐서 마음 편하게 웃을 수만은 없는 날이었어요. 오늘 하루를 순서대로 정리해 보겠습니다.]]></summary></entry></feed>
