@@ -1,4 +1,376 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-10-06T20:06:29+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">주성엔지니어링·삼성SDI, 코스닥 2.7% 급등장에서 거래대금이 몰린 이유</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/06/nt2-1505-snapshot/" rel="alternate" type="text/html" title="주성엔지니어링·삼성SDI, 코스닥 2.7% 급등장에서 거래대금이 몰린 이유" /><published>2026-10-06T15:05:00+09:00</published><updated>2026-10-06T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/06/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/06/nt2-1505-snapshot/"><![CDATA[<p>📉 오늘 코스피는 반도체 대형주가 힘을 못 쓰면서 <strong>7000선</strong>을 내줬습니다. 그런데 코스닥은 <strong>2.7%</strong> 올랐고, 이차전지·반도체 기판·보안 쪽으로 돈이 몰렸습니다. 지수는 갈렸지만 돈이 향한 곳은 분명했던 하루였죠. 🤔</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-10-06T21:02:20+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스닥 2.98% 급등, 코스피는 7000선 밑으로 — 10월 6일 하루 마감 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/06/daily/" rel="alternate" type="text/html" title="코스닥 2.98% 급등, 코스피는 7000선 밑으로 — 10월 6일 하루 마감 정리" /><published>2026-10-06T21:00:00+09:00</published><updated>2026-10-06T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/06/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/06/daily/"><![CDATA[<p>오늘 증시는 한 방향으로 움직이지 않았습니다. 🙂 코스피는 <strong>6,941.39포인트(-0.89%)</strong> 로 7000선을 내줬고, 코스닥은 <strong>919.92포인트(+2.98%)</strong> 로 크게 올랐습니다. 대형 반도체주는 밀리고 중소형 성장주가 끌어올린 하루였습니다. 하루를 정리하며 전 거래일 선별이 실제로 어땠는지, 오늘 AI가 어떤 종목을 골랐는지 기록해 둡니다.</p>
+
+<h2 id="-전-거래일-ai-선별-오늘-아침-결과는-어땠을까">🔎 전 거래일 AI 선별, 오늘 아침 결과는 어땠을까?</h2>
+
+<p>종가베팅은 장 마감 무렵 종목을 고르고 다음 날 아침 시초가 부근에서 정리하는 방식입니다. 그래서 선별의 성적표는 <strong>다음 날 아침 갭(전일 기준가 대비 시가 차이)</strong> 으로 봅니다. 아래는 오늘 08:00~09:59 관측 기록이고, 모든 %는 <strong>진입가 대비</strong>입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>아침 실현 갭</th>
+      <th>세션 내 최고</th>
+      <th>세션 내 최저</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>삼성중공업</td>
+      <td><strong>-7.0%</strong></td>
+      <td>-5.5%</td>
+      <td>-7.2%</td>
+    </tr>
+    <tr>
+      <td>SK이노베이션</td>
+      <td><strong>-1.0%</strong></td>
+      <td>-0.4%</td>
+      <td>-4.3%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>결과는 두 종목 모두 <strong>진입가 아래에서 아침 시간을 보냈다</strong>는 것입니다. 관측 시간 내내 최고점도 진입가에 닿지 못했습니다. 맞은 날만 적으면 기록이 의미가 없으니, 빗나간 날도 그대로 남깁니다.</p>
+
+<p>오늘 선별의 <strong>애프터마켓(정규장 이후 시간외 거래) 흐름</strong>도 함께 보겠습니다. 이는 확정이 아닌 <strong>잠정</strong> 기록입니다. 실제 결과는 내일 아침에 나옵니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>잠정 갭</th>
+      <th>세션 내 최고</th>
+      <th>세션 내 최저</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>주성엔지니어링</td>
+      <td><strong>+2.4%</strong></td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>삼성SDI</td>
+      <td><strong>+0.5%</strong></td>
+      <td>+0.5%</td>
+      <td>-0.7%</td>
+    </tr>
+    <tr>
+      <td>삼성중공업</td>
+      <td><strong>-7.6%</strong></td>
+      <td>-7.6%</td>
+      <td>-8.0%</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>삼성SDI와 삼성중공업은 15:40~19:59 관측 구간의 진입가 대비 값입니다.</li>
+  <li>주성엔지니어링은 관측 구간 기록이 없어 갭 수치만 적었습니다.</li>
+</ul>
+
+<h2 id="-오늘-시장은-왜-엇갈렸을까">📉 오늘 시장은 왜 엇갈렸을까?</h2>
+
+<p>지수만 보면 코스피와 코스닥이 반대로 움직였습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>종가</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>코스피</td>
+      <td><strong>6,941.39포인트</strong></td>
+      <td>-0.89%</td>
+    </tr>
+    <tr>
+      <td>코스닥</td>
+      <td><strong>919.92포인트</strong></td>
+      <td>+2.98%</td>
+    </tr>
+    <tr>
+      <td>원/달러 환율</td>
+      <td><strong>1,340.0원</strong></td>
+      <td>—</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>최근 흐름을 보면 코스피는 9월 23일 <strong>7,080.92포인트</strong> 까지 올랐다가 10월 2일 7,003.74포인트로 7000선을 지켰습니다. 오늘 6,941.39포인트로 내려왔습니다. 코스닥은 9월 30일 855.91포인트에서 10월 1일 894.29포인트로 뛰었고, 오늘 919.92포인트까지 이어졌습니다.</p>
+
+<p><strong>누가 사고 팔았나</strong>를 보면 방향이 더 또렷합니다. (큰 투자기관을 뜻하는 기관, 해외 투자자를 뜻하는 외국인, 일반 투자자를 뜻하는 개인)</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>투자 주체</th>
+      <th>순매수(+)/순매도(-)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>외국인</td>
+      <td><strong>-1.6조원</strong></td>
+    </tr>
+    <tr>
+      <td>기관</td>
+      <td><strong>+638억원</strong></td>
+    </tr>
+    <tr>
+      <td>개인</td>
+      <td><strong>+5,762억원</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>외국인이 약 1.6조원을 순매도했고, 개인이 이를 받아낸 모양입니다. 오늘 06시 브리핑 시점 기준으로는 간밤 미국장에서 다우 +0.18%, S&amp;P500 +0.66%, 나스닥 +1.05%, 반도체 +0.28%로 3대 지수가 모두 올랐습니다.</p>
+
+<h2 id="-오늘-돈은-어디로-몰렸을까">💰 오늘 돈은 어디로 몰렸을까?</h2>
+
+<p>거래대금 상위 10개 종목입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>순위</th>
+      <th>종목</th>
+      <th>거래대금</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>SK하이닉스</td>
+      <td>5.8조원</td>
+      <td>-3.5%</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>삼성전자</td>
+      <td>4.3조원</td>
+      <td>-1.6%</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>삼성전기</td>
+      <td>2.0조원</td>
+      <td><strong>+5.8%</strong></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>주성엔지니어링</td>
+      <td>8,137억원</td>
+      <td><strong>+16.7%</strong></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>SK스퀘어</td>
+      <td>8,091억원</td>
+      <td>-0.3%</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>LG전자</td>
+      <td>6,305억원</td>
+      <td><strong>+7.1%</strong></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>삼성SDI</td>
+      <td>6,212억원</td>
+      <td><strong>+8.5%</strong></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>HLB</td>
+      <td>4,749억원</td>
+      <td><strong>+16.9%</strong></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>삼성전자우</td>
+      <td>4,287억원</td>
+      <td>-1.4%</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>LG이노텍</td>
+      <td>4,222억원</td>
+      <td><strong>+11.5%</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>거래대금 1~2위인 SK하이닉스와 삼성전자가 내렸고, 코스피 하락도 이 대형 반도체주와 같은 방향이었습니다. 반면 3위 삼성전기부터 주성엔지니어링, LG전자, 삼성SDI, HLB, LG이노텍은 큰 폭으로 올랐습니다.</p>
+
+<p>오늘 강했던 테마입니다. (상승 종목 수 / 전체 종목 수)</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>순위</th>
+      <th>테마</th>
+      <th>상승 / 전체</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>딥페이크(deepfake)</td>
+      <td>14 / 14</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>LED장비</td>
+      <td>9 / 11</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>반도체 기판(FC-BGA/PCB/MLB 등)</td>
+      <td>13 / 14</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>2차전지(나트륨이온)</td>
+      <td>9 / 9</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>PCB(FPCB 등)</td>
+      <td>27 / 29</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>보안주(정보)</td>
+      <td>46 / 51</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>딥페이크와 2차전지(나트륨이온) 테마는 <strong>소속 종목이 전부 올랐습니다.</strong> 보안주는 51개 중 46개가 올라 참여 폭이 넓었습니다.</p>
+
+<h2 id="-오늘-ai는-어떤-종목을-골랐을까">🎯 오늘 AI는 어떤 종목을 골랐을까?</h2>
+
+<p>오늘 최종 선별에서 AI가 남긴 종목은 <strong>주성엔지니어링</strong>과 <strong>삼성SDI</strong> 두 개입니다. 시스템은 오늘 같은 날을 <strong>신중하게 봐야 하는 구간</strong>으로 분류했습니다. 코스피는 반도체 대형주 약세로 7000선을 내줬지만 코스닥으로 자금이 쏠렸다는 판단입니다. 아래는 추천이 아닌 <strong>선별 기록</strong>입니다.</p>
+
+<h3 id="주성엔지니어링--거래대금이-아침부터-오후까지-유지된-종목">주성엔지니어링 — 거래대금이 아침부터 오후까지 유지된 종목</h3>
+
+<p>AI가 남긴 근거는 반도체 장비 대장주로서 거래대금이 아침부터 터져 오후까지 유지됐고, 손바뀜(주인이 바뀌며 거래되는 정도)도 활발했다는 점입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>항목</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>AI 기록상 종가 / 등락률</td>
+      <td>276,500원 / <strong>+16.7%</strong></td>
+    </tr>
+    <tr>
+      <td>거래대금 / 시가총액</td>
+      <td>8,137억원 / 12.9조원</td>
+    </tr>
+    <tr>
+      <td>주도 테마 / 테마 내 순위</td>
+      <td>LED장비 / 1위</td>
+    </tr>
+    <tr>
+      <td>RSI(과열 정도를 보는 지표) / RVOL(평소 대비 거래량 배수) / 이동평균선 수렴</td>
+      <td>79.2 / 2.2배 / +0.3%</td>
+    </tr>
+    <tr>
+      <td>52주 신고가 / 거래량 흐름</td>
+      <td>아님 / 중립</td>
+    </tr>
+    <tr>
+      <td>외국인 / 기관 순매수</td>
+      <td>+9만 주 / +8,000주</td>
+    </tr>
+    <tr>
+      <td>호가 신호</td>
+      <td>매수벽 약함</td>
+    </tr>
+    <tr>
+      <td>AI 종합 점수</td>
+      <td>45점</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>RSI가 79.2로 높은 편이라 단기간에 많이 오른 종목이라는 점은 같이 봐야 합니다.</p>
+
+<h3 id="삼성sdi--외국인과-기관이-함께-산-2차전지-대장주">삼성SDI — 외국인과 기관이 함께 산 2차전지 대장주</h3>
+
+<p>AI의 선별 근거는 2차전지 대장주이고 전고체 배터리 협력과 ESS(에너지저장장치) 수요 기대가 겹쳤으며, 오늘 외국인과 기관이 함께 순매수했다는 점입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>항목</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>AI 기록상 종가 / 등락률</td>
+      <td>574,000원 / <strong>+8.5%</strong></td>
+    </tr>
+    <tr>
+      <td>거래대금 / 시가총액</td>
+      <td>6,212억원 / 46.3조원</td>
+    </tr>
+    <tr>
+      <td>주도 테마 / 테마 내 순위</td>
+      <td>2차전지(나트륨이온) / 1위</td>
+    </tr>
+    <tr>
+      <td>RSI / RVOL / 이동평균선 수렴</td>
+      <td>63.0 / 1.8배 / +0.1%</td>
+    </tr>
+    <tr>
+      <td>52주 신고가 / 거래량 흐름</td>
+      <td>아님 / 주가 대비 거래량 흐름이 약함</td>
+    </tr>
+    <tr>
+      <td>외국인 / 기관 순매수</td>
+      <td>+10만 주 / +4만 주</td>
+    </tr>
+    <tr>
+      <td>매출 증가율(전년 대비)</td>
+      <td>+32.2%</td>
+    </tr>
+    <tr>
+      <td>최근 분기 실적(2026.09.)</td>
+      <td>매출 4.0조원 / 영업이익 1,415억원</td>
+    </tr>
+    <tr>
+      <td>AI 종합 점수</td>
+      <td>41점</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>두 종목을 나란히 보면 <strong>성격이 다릅니다.</strong> 주성엔지니어링은 상승 폭과 거래대금이 큰 대신 과열 지표가 높았고, 삼성SDI는 외국인·기관 순매수 규모가 더 컸지만 거래량 흐름이 가격을 따라오지 못했습니다.</p>
+
+<h2 id="-오늘-제가-주목한-것">🧭 오늘 제가 주목한 것</h2>
+
+<p>오늘 흐름에서 제가 눈여겨본 것은 <strong>외국인이 1.6조원을 팔았는데도 코스닥은 3% 가까이 올랐다</strong>는 점입니다. 지수 방향이 갈렸다는 건 대형주 중심으로 시장을 보면 놓치는 부분이 생긴다는 뜻이기도 합니다. 어느 쪽이 맞는다고 말할 수는 없습니다. 다만 오늘 거래대금 1~2위가 내리고 3위 이하 종목들이 크게 오른 것을 기록으로 남겨 둡니다. 내일 아침 오늘 선별 종목의 실제 갭이 어떻게 나오는지가 오늘 기록의 확인 지점입니다.</p>
+
+<h2 id="-오늘-하루를-한-줄로-정리하면">📝 오늘 하루를 한 줄로 정리하면</h2>
+
+<p><strong>“코스피 -0.89%, 코스닥 +2.98%. 대형 반도체는 쉬고 기판·2차전지·보안 테마가 움직인 날.”</strong></p>
+
+<p>내일 아침 결과도 같은 방식으로 복기합니다. 오늘 정리가 도움이 됐다면 이웃 추가로 받아보시고, 궁금한 종목이 있으면 댓글로 남겨 주세요. 😊</p>
+
+<p>#NextTheme #종가베팅 #코스닥급등 #코스피 #주성엔지니어링 #삼성SDI #삼성중공업 #SK하이닉스 #2차전지 #반도체기판 #하루마감정리</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[오늘 증시는 한 방향으로 움직이지 않았습니다. 🙂 코스피는 6,941.39포인트(-0.89%) 로 7000선을 내줬고, 코스닥은 919.92포인트(+2.98%) 로 크게 올랐습니다. 대형 반도체주는 밀리고 중소형 성장주가 끌어올린 하루였습니다. 하루를 정리하며 전 거래일 선별이 실제로 어땠는지, 오늘 AI가 어떤 종목을 골랐는지 기록해 둡니다.]]></summary></entry><entry><title type="html">주성엔지니어링·삼성SDI, 코스닥 2.7% 급등장에서 거래대금이 몰린 이유</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/06/nt2-1505-snapshot/" rel="alternate" type="text/html" title="주성엔지니어링·삼성SDI, 코스닥 2.7% 급등장에서 거래대금이 몰린 이유" /><published>2026-10-06T15:05:00+09:00</published><updated>2026-10-06T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/06/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/06/nt2-1505-snapshot/"><![CDATA[<p>📉 오늘 코스피는 반도체 대형주가 힘을 못 쓰면서 <strong>7000선</strong>을 내줬습니다. 그런데 코스닥은 <strong>2.7%</strong> 올랐고, 이차전지·반도체 기판·보안 쪽으로 돈이 몰렸습니다. 지수는 갈렸지만 돈이 향한 곳은 분명했던 하루였죠. 🤔</p>
 
 <p>이 흐름 속에서 AI가 마지막 선별에 남긴 종목은 두 개입니다. 왜 남았는지 그날 데이터로 살펴보겠습니다.</p>
 
@@ -2060,397 +2432,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가베팅 #복기일지 #20261001 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-10-02 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">코스닥 4.48% 상승 뒤 맞는 금요일 아침 — 장 시작 전 체크할 변수</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/02/0600-briefing/" rel="alternate" type="text/html" title="코스닥 4.48% 상승 뒤 맞는 금요일 아침 — 장 시작 전 체크할 변수" /><published>2026-10-02T06:00:00+09:00</published><updated>2026-10-02T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/02/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/02/0600-briefing/"><![CDATA[<p>☀️ 금요일 아침입니다. 전 거래일 코스피는 <strong>+1.95%</strong>, 코스닥은 <strong>+4.48%</strong> 오르며 함께 강하게 마감했고, 간밤 미국장에서는 반도체 지수가 <strong>+1.59%</strong> 올랐습니다. 숫자만 보면 분위기가 좋은데, 시스템이 매긴 오늘 아침 판단은 “신중 구간”입니다. 왜 그런지 하나씩 풀어 보겠습니다.</p>
-
-<h2 id="-어제-ai가-골랐던-종목들은-오늘-아침-어떤-상태일까">📋 어제 AI가 골랐던 종목들은 오늘 아침 어떤 상태일까?</h2>
-
-<p>어제 기록을 슬롯별로 나누면 <strong>15:10 최종 선별 3종목, 19:10 선별 1종목, 14:30 장중 선별 후보 1종목</strong>입니다. 여기에 선별과 별개로 <strong>이전부터 보유 중인 종목 1개</strong>(삼성중공업)가 기록에 함께 잡혔습니다. 어제 신규 매수는 없었습니다.</p>
-
-<p>전체 방향은 “유지”로 기록됐고, 오늘 아침 시스템의 판단은 아래와 같습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>슬롯</th>
-      <th>어제 AI 기록상 종가</th>
-      <th>오늘 결과</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>삼성중공업</td>
-      <td>—</td>
-      <td>—</td>
-      <td>✅ 보유 중 · 이월 보유, 시초가 방향 확인 후 포지션 대응</td>
-    </tr>
-    <tr>
-      <td>디아이</td>
-      <td>15:10 최종</td>
-      <td>41,300원</td>
-      <td>신규 진입 보류 (시초가 기준 확인 후 대응)</td>
-    </tr>
-    <tr>
-      <td>주성엔지니어링</td>
-      <td>15:10 최종</td>
-      <td>239,500원</td>
-      <td>신규 진입 보류 (시초가 기준 확인 후 대응)</td>
-    </tr>
-    <tr>
-      <td>HPSP</td>
-      <td>15:10 최종</td>
-      <td>68,900원</td>
-      <td>신규 진입 보류 (시초가 기준 확인 후 대응)</td>
-    </tr>
-    <tr>
-      <td>후성</td>
-      <td>19:10 선별</td>
-      <td>15,680원</td>
-      <td>신규 진입 보류 (시초가 기준 확인 후 대응)</td>
-    </tr>
-    <tr>
-      <td>삼성전자</td>
-      <td>14:30 선별</td>
-      <td>275,000원</td>
-      <td>신규 진입 보류 (시초가 기준 확인 후 대응)</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>🙋 삼성중공업은 어제 새로 산 종목이 아니라 <strong>이전부터 들고 있던 종목</strong>입니다. 나머지 5종목은 매수 기록이 없고, 오늘 아침 기준으로도 “신중 구간이라 신규 진입을 보류한다”는 것이 시스템의 기록입니다.</p>
-
-<h3 id="어제-저녁-애프터마켓15401959에서는-어땠나">어제 저녁 애프터마켓(15:40~19:59)에서는 어땠나?</h3>
-
-<p>저녁 흐름 기록이 남아 있는 종목은 3개입니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>기준</th>
-      <th>저녁 최고</th>
-      <th>저녁 최저</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>삼성중공업</td>
-      <td>평단(평균 매수 단가) 대비</td>
-      <td><strong>-7.6%</strong></td>
-      <td><strong>-7.9%</strong></td>
-    </tr>
-    <tr>
-      <td>디아이</td>
-      <td>어제 종가 대비</td>
-      <td><strong>+2.9%</strong></td>
-      <td><strong>-0.6%</strong></td>
-    </tr>
-    <tr>
-      <td>삼성전자</td>
-      <td>어제 종가 대비</td>
-      <td><strong>+0.2%</strong></td>
-      <td><strong>-1.3%</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>삼성중공업은 평단 기준이고, 나머지 둘은 보유하지 않은 종목의 종가 기준이라 같은 잣대로 비교할 수 없습니다. 저녁 시간대 움직임은 정규장과 거래 환경이 달라서, 이 수치만으로 어제 판단의 옳고 그름을 말하기는 어렵습니다.</p>
-
-<h2 id="-전-거래일-누가-사고-팔았을까">💰 전 거래일 누가 사고 팔았을까?</h2>
-
-<p>주식시장에서 <strong>외국인</strong>과 <strong>기관</strong>(연기금·운용사 같은 큰 투자기관)은 자금 규모가 커서 방향을 눈여겨봅니다. 전 거래일 순매수(산 금액에서 판 금액을 뺀 값) 기록입니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>투자 주체</th>
-      <th>순매수</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>외국인</td>
-      <td><strong>+6,896억원</strong></td>
-    </tr>
-    <tr>
-      <td>기관</td>
-      <td><strong>+9,234억원</strong></td>
-    </tr>
-    <tr>
-      <td>개인</td>
-      <td><strong>-2.5조원</strong> (순매도)</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>외국인과 기관이 함께 사고, 개인이 크게 판 흐름이었습니다. 상승률 상위 섹터는 아래와 같았습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>섹터</th>
-      <th>등락률</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>증강현실(AR)</td>
-      <td><strong>+7.88%</strong></td>
-    </tr>
-    <tr>
-      <td>반도체 장비</td>
-      <td><strong>+6.70%</strong></td>
-    </tr>
-    <tr>
-      <td>탈모 치료</td>
-      <td><strong>+6.37%</strong></td>
-    </tr>
-    <tr>
-      <td>치매</td>
-      <td><strong>+6.03%</strong></td>
-    </tr>
-    <tr>
-      <td>바이오인식(생체인식)</td>
-      <td><strong>+5.88%</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="-간밤-미국장은-어땠나">🇺🇸 간밤 미국장은 어땠나?</h2>
-
-<p>미국 주요 지수의 등락률입니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>지수</th>
-      <th>등락률</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>다우존스</td>
-      <td><strong>+0.04%</strong></td>
-    </tr>
-    <tr>
-      <td>나스닥 종합</td>
-      <td><strong>+0.04%</strong></td>
-    </tr>
-    <tr>
-      <td>나스닥 100</td>
-      <td><strong>+0.31%</strong></td>
-    </tr>
-    <tr>
-      <td>S&amp;P 500</td>
-      <td><strong>+0.19%</strong></td>
-    </tr>
-    <tr>
-      <td>다우운송</td>
-      <td><strong>+1.15%</strong></td>
-    </tr>
-    <tr>
-      <td>필라델피아 반도체</td>
-      <td><strong>+1.59%</strong></td>
-    </tr>
-    <tr>
-      <td>VIX(시장 불안 정도를 나타내는 변동성 지수)</td>
-      <td><strong>+0.31%</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>주요 지수는 소폭 오른 가운데 반도체 지수가 가장 크게 올랐습니다. 나스닥100 선물은 <strong>+0.26%</strong>, S&amp;P500 선물은 <strong>+0.14%</strong>로 오늘 아침 현재 소폭 오른 상태입니다.</p>
-
-<h2 id="-오늘-아침-꼭-볼-뉴스">📰 오늘 아침 꼭 볼 뉴스</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>뉴스</th>
-      <th>성격</th>
-      <th>오늘 확인할 점</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>미국채 금리 하락·유가 상승, 뉴욕증시 상승폭 제한하며 마감</td>
-      <td>호재 (꼭 알아야 할 뉴스)</td>
-      <td>장중 관련주 반응</td>
-    </tr>
-    <tr>
-      <td>“이재용·최태원이 개미 살리러 온다”…300조 실적으로 박스권 뚫나</td>
-      <td>중립</td>
-      <td>장중 관련주 반응</td>
-    </tr>
-    <tr>
-      <td>5.34% 찍고 돌아서자 美증시 반등…월가는 뉴노멀 적응중</td>
-      <td>중립</td>
-      <td>장중 관련주 반응</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>참고로 “뉴욕증시, 국채금리 하락에 소폭 상승…브렌트유 다시 100달러 돌파”라는 헤드라인도 함께 잡혔습니다.</p>
-
-<h2 id="-오늘-베팅-등급은-신중-구간">🧭 오늘 베팅 등급은? “신중 구간”</h2>
-
-<p>시스템은 오늘 아침을 <strong>신중 국면(중립·관망 우위)</strong>으로 판단했고 시장 분위기 점수는 <strong>75점</strong>(0~100, 높을수록 강세)입니다. 지수는 강한데 등급이 신중인 점이 눈에 띕니다. 시스템 기록상 판단은 이렇습니다.</p>
-
-<ul>
-  <li>반도체 지수 강세로 기술주 분위기는 우호적이다</li>
-  <li>시초가(장 시작 가격) 방향을 확인한 뒤 대응하는 쪽으로 정리됐다</li>
-  <li>환율이 <strong>1,358.5원</strong>이라 수출 기업에 우호적인 구간이지만, 외국인 수급을 함께 봐야 한다</li>
-</ul>
-
-<h2 id="-오늘-장-시작-전-확인할-변수">🔎 오늘 장 시작 전 확인할 변수</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>항목</th>
-      <th>수치</th>
-      <th>시스템 코멘트</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>WTI 유가</td>
-      <td><strong>92.96</strong></td>
-      <td>전일 대비 +2.54 변동</td>
-    </tr>
-    <tr>
-      <td>원/달러 환율</td>
-      <td><strong>1,358.5원</strong></td>
-      <td>수출주 채산성에 영향</td>
-    </tr>
-    <tr>
-      <td>필라델피아 반도체</td>
-      <td><strong>+1.59%</strong></td>
-      <td>국내 반도체와 같이 움직이는 경향이 높음</td>
-    </tr>
-  </tbody>
-</table>
-
-<p><strong>간밤 발표된 미국 지표</strong></p>
-
-<table>
-  <thead>
-    <tr>
-      <th>지표</th>
-      <th>발표값</th>
-      <th>예상</th>
-      <th>이전</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>신규 실업수당 청구건수</td>
-      <td><strong>197K</strong></td>
-      <td>201K</td>
-      <td>198K</td>
-    </tr>
-    <tr>
-      <td>ISM 제조업 구매자지수</td>
-      <td><strong>54.5</strong></td>
-      <td>54.8</td>
-      <td>54.6</td>
-    </tr>
-    <tr>
-      <td>ISM 제조업 물가지수</td>
-      <td><strong>77.9</strong></td>
-      <td>72.9</td>
-      <td>71.1</td>
-    </tr>
-    <tr>
-      <td>제조업 구매관리자지수(PMI)</td>
-      <td><strong>55.9</strong></td>
-      <td>57</td>
-      <td>53.9</td>
-    </tr>
-    <tr>
-      <td>건설지출(전월 대비)</td>
-      <td><strong>0.9%</strong></td>
-      <td>0%</td>
-      <td>-0.1%</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>ISM 제조업 물가지수는 예상보다 높게 나왔고, 실업수당 청구건수는 예상보다 낮았습니다.</p>
-
-<p><strong>오늘 발표 예정 지표</strong></p>
-
-<table>
-  <thead>
-    <tr>
-      <th>시각</th>
-      <th>지표</th>
-      <th>예상</th>
-      <th>이전</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>08:00</td>
-      <td>한국 소비자물가(전년 대비)</td>
-      <td>2.9%</td>
-      <td>3.1%</td>
-    </tr>
-    <tr>
-      <td>08:00</td>
-      <td>한국 소비자물가(전월 대비)</td>
-      <td>0.4%</td>
-      <td>0.2%</td>
-    </tr>
-    <tr>
-      <td>21:30</td>
-      <td>미국 비농업 고용지수</td>
-      <td>89K</td>
-      <td>162K</td>
-    </tr>
-    <tr>
-      <td>21:30</td>
-      <td>미국 민간 비농업 고용 변화</td>
-      <td>82K</td>
-      <td>127K</td>
-    </tr>
-    <tr>
-      <td>21:30</td>
-      <td>미국 실업률</td>
-      <td>4.1%</td>
-      <td>4.1%</td>
-    </tr>
-    <tr>
-      <td>21:30</td>
-      <td>미국 시간당 임금(전월 대비)</td>
-      <td>0.3%</td>
-      <td>0.3%</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>미국 고용지표는 국내 정규장이 끝난 뒤인 21:30에 나옵니다. 그 결과가 시장에 어떻게 반영되는지는 다음 주 월요일 장 시작 때 확인할 수 있습니다.</p>
-
-<p><strong>오늘 장중 체크리스트</strong></p>
-
-<ul>
-  <li>✅ 시초가 갭 방향 및 강도</li>
-  <li>✅ 외국인·기관 순매수 전환 여부</li>
-  <li>✅ 개별 테마 모멘텀 지속성</li>
-</ul>
-
-<h2 id="-오늘-내가-주목한-것">💭 오늘 내가 주목한 것</h2>
-
-<p>오늘 이 흐름에서 제가 주목한 것은 <strong>지수는 강한데 시스템 판단은 신중하다는 점</strong>입니다. 코스닥이 <strong>+4.48%</strong> 오르는 동안 개인이 <strong>2.5조원</strong>을 순매도했고 외국인·기관이 받아 갔습니다. 이런 날에는 시초가가 어디서 시작하는지, 외국인과 기관의 매수가 이어지는지가 판단 재료가 됩니다. 오늘 아침 숫자만으로 방향을 단정할 수는 없어서, 장이 열린 뒤 위 체크리스트를 하나씩 확인해 보려 합니다.</p>
-
-<h2 id="️-정리">✍️ 정리</h2>
-
-<ul>
-  <li>어제 선별 5종목은 신규 매수 없이 마감했고, 오늘 아침 기록은 모두 “신규 진입 보류”입니다. 이전부터 보유 중인 삼성중공업 1종목만 보유 상태입니다.</li>
-  <li>전 거래일 코스피 <strong>+1.95%</strong>, 코스닥 <strong>+4.48%</strong>였고, 간밤 미국 반도체 지수는 <strong>+1.59%</strong>였습니다.</li>
-  <li>한국 소비자물가(08:00)와 미국 고용지표(21:30)가 오늘의 큰 이벤트입니다.</li>
-</ul>
-
-<p>오늘 시초가 흐름에서 가장 눈에 띈 부분이 있었다면 댓글로 나눠 주세요. 이웃 추가를 해 두시면 매일 아침 장 시작 전 정리를 받아볼 수 있습니다. 🙌</p>
-
-<p>#NextTheme #종가베팅 #장전시황 #코스닥 #코스피 #필라델피아반도체 #한국소비자물가 #미국고용지표 #반도체장비 #증강현실 #삼성전자 #삼성중공업 #HPSP #디아이 #주성엔지니어링 #후성</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[☀️ 금요일 아침입니다. 전 거래일 코스피는 +1.95%, 코스닥은 +4.48% 오르며 함께 강하게 마감했고, 간밤 미국장에서는 반도체 지수가 +1.59% 올랐습니다. 숫자만 보면 분위기가 좋은데, 시스템이 매긴 오늘 아침 판단은 “신중 구간”입니다. 왜 그런지 하나씩 풀어 보겠습니다.]]></summary></entry></feed>
+<p>#종가베팅 #복기일지 #20261001 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-10-02 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
