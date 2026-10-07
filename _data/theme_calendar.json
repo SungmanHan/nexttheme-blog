@@ -1,25 +1,25 @@
 {
-  "lastTradingDay" : "2026-10-06",
-  "totalDays" : 101,
+  "lastTradingDay" : "2026-10-07",
+  "totalDays" : 102,
   "summary" : {
-    "tradingDays" : 101,
+    "tradingDays" : 102,
     "sectorCount" : 16,
-    "upDays" : 93,
-    "avgChangeRate" : 5.95,
+    "upDays" : 94,
+    "avgChangeRate" : 5.97,
     "topSector" : "반도체·AI인프라",
     "topSectorDays" : 23
   },
   "now" : {
-    "date" : "2026-10-06",
-    "bettingGrade" : "YELLOW",
-    "regimeTag" : "YELLOW",
+    "date" : "2026-10-07",
+    "bettingGrade" : "RED",
+    "regimeTag" : "RED_ALL_DOWN",
     "themeRegime" : "THEME_LED",
-    "marketSignal" : "혼조",
-    "kospi" : -0.89,
-    "kosdaq" : 2.98,
-    "leadTheme" : "딥페이크(deepfake)",
-    "leadChangeRate" : 14.56,
-    "themePremium" : 15.45
+    "marketSignal" : "약세",
+    "kospi" : -1.98,
+    "kosdaq" : -2.34,
+    "leadTheme" : "캐릭터상품",
+    "leadChangeRate" : 7.65,
+    "themePremium" : 9.63
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
@@ -46,6 +46,10 @@
     "rank1Days" : 5,
     "top3Days" : 17
   }, {
+    "sector" : "매크로·기타",
+    "rank1Days" : 11,
+    "top3Days" : 14
+  }, {
     "sector" : "건설·기계",
     "rank1Days" : 3,
     "top3Days" : 14
@@ -54,16 +58,12 @@
     "rank1Days" : 3,
     "top3Days" : 14
   }, {
-    "sector" : "매크로·기타",
-    "rank1Days" : 10,
+    "sector" : "소비재·유통",
+    "rank1Days" : 3,
     "top3Days" : 13
   }, {
     "sector" : "로봇·AI소프트웨어",
     "rank1Days" : 4,
-    "top3Days" : 12
-  }, {
-    "sector" : "소비재·유통",
-    "rank1Days" : 3,
     "top3Days" : 12
   }, {
     "sector" : "통신·광통신",
@@ -1931,6 +1931,25 @@
         "changeRate" : 6.48
       } ],
       "mainStock" : ""
-    }, null, null, null ] ]
+    }, {
+      "day" : 7,
+      "date" : "2026-10-07",
+      "theme" : "캐릭터상품",
+      "sector" : "매크로·기타",
+      "changeRate" : 7.65,
+      "prevDay" : "NEW",
+      "regime" : "THEME_LED",
+      "slot" : "15:00",
+      "kospi" : -1.98,
+      "themePremium" : 9.63,
+      "runners" : [ {
+        "theme" : "화장품",
+        "changeRate" : 3.41
+      }, {
+        "theme" : "마이코플라스마 폐렴",
+        "changeRate" : 4.98
+      } ],
+      "mainStock" : ""
+    }, null, null ] ]
   } ]
 }
