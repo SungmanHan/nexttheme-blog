@@ -1,4 +1,108 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-10-07T10:03:44+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">10/6 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/07/review-20261006-review/" rel="alternate" type="text/html" title="10/6 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-10-07T09:00:00+09:00</published><updated>2026-10-07T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/07/review_20261006-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/07/review-20261006-review/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-10-07T20:06:27+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">에이피알, 코스피·코스닥 동반 급락장에서 화장품 거래대금 1위 — 수급으로 본 선별 이유</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/07/nt2-1505-snapshot/" rel="alternate" type="text/html" title="에이피알, 코스피·코스닥 동반 급락장에서 화장품 거래대금 1위 — 수급으로 본 선별 이유" /><published>2026-10-07T15:05:00+09:00</published><updated>2026-10-07T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/07/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/07/nt2-1505-snapshot/"><![CDATA[<p>📉 오늘 코스피와 코스닥이 함께 크게 내렸습니다. 이런 날은 “오른 종목이 있긴 한가?” 싶으시죠. 그런데 하락장 속에서도 자금이 몰린 곳이 있었습니다. 화장품 테마, 그리고 방역 테마 등 소수 분야입니다. 내일 삼성전자 실적 발표를 앞두고 있어 시장 전체가 조심스러운 분위기이기도 합니다.</p>
+
+<p>오늘 종가베팅 AI가 최종 후보로 남긴 종목은 <strong>에이피알 1개</strong>였습니다. 왜 이 종목만 남았는지 데이터로 살펴보겠습니다.</p>
+
+<h2 id="-에이피알-오늘-어떤-하루였나요">📊 에이피알, 오늘 어떤 하루였나요?</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>항목</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>당일 종가 / 등락률</td>
+      <td><strong>378,500원 / +4.85%</strong></td>
+    </tr>
+    <tr>
+      <td>거래대금</td>
+      <td><strong>1,968억원</strong></td>
+    </tr>
+    <tr>
+      <td>시가총액</td>
+      <td>14.2조원</td>
+    </tr>
+    <tr>
+      <td>주도 테마 / 테마 내 순위</td>
+      <td>화장품 / <strong>1위</strong></td>
+    </tr>
+    <tr>
+      <td>RSI(과열 정도를 보는 지표)</td>
+      <td>52.2</td>
+    </tr>
+    <tr>
+      <td>RVOL(평소 대비 거래 활발도)</td>
+      <td>1.6</td>
+    </tr>
+    <tr>
+      <td>이동평균선 간격</td>
+      <td>+0.03%</td>
+    </tr>
+    <tr>
+      <td>52주 신고가</td>
+      <td>아님</td>
+    </tr>
+    <tr>
+      <td>거래량 흐름(OBV)</td>
+      <td>중립</td>
+    </tr>
+    <tr>
+      <td>외국인 순매수</td>
+      <td>+3만 주</td>
+    </tr>
+    <tr>
+      <td>기관 순매수</td>
+      <td>+1만 주</td>
+    </tr>
+    <tr>
+      <td>최근 분기 실적(2026.09.)</td>
+      <td>매출 7,837억원 / 영업이익 1,973억원</td>
+    </tr>
+    <tr>
+      <td>매출 증가율(전년 대비)</td>
+      <td>+103.1%</td>
+    </tr>
+    <tr>
+      <td>AI 종합 점수</td>
+      <td>27점</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="-하락장인데-왜-이-종목이-남았을까">🤔 하락장인데 왜 이 종목이 남았을까?</h2>
+
+<p>AI가 남긴 선별 근거를 쉬운 말로 풀면 세 가지입니다.</p>
+
+<ol>
+  <li><strong>오늘 자금이 몰린 테마의 1위였습니다.</strong> 지수가 급락한 날에도 화장품 테마로 돈이 모였고, 에이피알은 그 테마에서 거래대금이 가장 컸습니다.</li>
+  <li><strong>오후 2시 이후 수급이 붙었습니다.</strong> 큰 투자기관(기관)과 외국인이 함께 대량으로 사들였고, 그 사이 거래대금도 계속 늘었습니다. 외국인 <strong>+3만 주</strong>, 기관 <strong>+1만 주</strong>가 오늘 확인된 순매수입니다.</li>
+  <li><strong>과열 없이 버텼습니다.</strong> 15분봉 차트의 60선(최근 60개 15분봉의 평균 가격) 위에서 움직였고, RSI는 <strong>52.2</strong>로 과열 구간과는 거리가 있었습니다.</li>
+</ol>
+
+<p>다만 AI 자체의 신뢰도 표기는 <strong>낮음(LOW)</strong>이고 종합 점수도 <strong>27점</strong>입니다. 확신이 높아서 고른 종목이라기보다, 급락장에서 조건을 가장 많이 충족한 후보가 하나 남았다고 보는 편이 정확합니다. 52주 신고가도 아니고, 호가 쪽에서 뚜렷한 신호도 확인되지 않았습니다.</p>
+
+<h2 id="-하락장에서-후보가-1개뿐이었던-이유">🔎 하락장에서 후보가 1개뿐이었던 이유</h2>
+
+<p>오늘은 지수가 함께 밀리면서 수급이 소수 테마에만 모였습니다. 후보를 넓게 고를 만한 환경이 아니었다는 뜻입니다. 그래서 선별 결과도 한 종목에 집중됐습니다. 이 글의 선별은 어디까지나 AI의 기록이며, 특정 종목을 사라는 의미가 아닙니다.</p>
+
+<h2 id="-제가-주목한-것">👀 제가 주목한 것</h2>
+
+<p>오늘 흐름에서 눈에 들어온 건 “지수는 빠지는데 돈은 한 테마로 모인다”는 점이었습니다. 이런 날은 종목 하나의 점수보다 <strong>그 테마에 자금이 계속 머무는지</strong>가 더 중요한 관찰 포인트가 됩니다. 에이피알은 매출이 전년 대비 <strong>103.1%</strong> 늘어난 실적 배경까지 갖춘 종목이라, 수급과 실적이 같이 확인된 사례로 기록해 둡니다. 내일은 삼성전자 실적 발표라는 큰 변수가 있어서, 시장 전체가 어떻게 반응하는지도 함께 지켜볼 일입니다.</p>
+
+<h2 id="-정리">📝 정리</h2>
+
+<ul>
+  <li>코스피·코스닥 동반 급락 속에서 화장품·방역 등 소수 테마로 자금이 집중됐습니다.</li>
+  <li>에이피알은 화장품 테마 거래대금 1위(<strong>1,968억원</strong>), 오후 외국인·기관 동반 순매수가 선별 근거였습니다.</li>
+  <li>AI 신뢰도는 낮음, 종합 점수는 27점으로 조심스러운 선별이었습니다.</li>
+  <li>내일 삼성전자 실적 발표가 시장 변수입니다.</li>
+</ul>
+
+<p>궁금한 종목이 있으면 댓글로 남겨주세요. 이웃 추가해 두시면 매일 장 마감 무렵의 선별 기록을 받아보실 수 있어요. 🙂</p>
+
+<p>#에이피알 #화장품테마 #코스피급락 #코스닥급락 #종가베팅 #NextTheme #수급분석 #거래대금 #삼성전자실적 #하락장</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[📉 오늘 코스피와 코스닥이 함께 크게 내렸습니다. 이런 날은 “오른 종목이 있긴 한가?” 싶으시죠. 그런데 하락장 속에서도 자금이 몰린 곳이 있었습니다. 화장품 테마, 그리고 방역 테마 등 소수 분야입니다. 내일 삼성전자 실적 발표를 앞두고 있어 시장 전체가 조심스러운 분위기이기도 합니다.]]></summary></entry><entry><title type="html">10/6 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/07/review-20261006-review/" rel="alternate" type="text/html" title="10/6 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-10-07T09:00:00+09:00</published><updated>2026-10-07T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/07/review_20261006-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/07/review-20261006-review/"><![CDATA[<blockquote>
   <p>데이터 기준: 2026-10-07 10:03 키움 ka10001 일괄 조회</p>
 </blockquote>
 
@@ -2361,378 +2465,4 @@ WTI가 <strong>89.2달러</strong>로 전일보다 <strong>1.91달러</strong> �
 
 <p><strong>궁금한 종목이나 월요일 장 중 흐름에 대한 의견이 있으신가요? 댓글로 의견을 나눠주세요.</strong></p>
 
-<p>#종가베팅 #주말브리핑 #반도체 #정유 #수출호황 #월요일전망 #외국인수급</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[한 주가 끝났습니다. 💭 미국 증시의 반도체 강세와 국내 수출 호황 뉴스 속에서 월요일 개장을 앞두고 어떤 준비를 해야 할까요. 이번 주말 아침, 오늘과 다음 주를 읽는 분석을 정리했습니다.]]></summary></entry><entry><title type="html">SK이노베이션 +10.1% 마감, 정유 테마에 자금이 몰린 하루 — 오늘 증시 마감 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/02/daily/" rel="alternate" type="text/html" title="SK이노베이션 +10.1% 마감, 정유 테마에 자금이 몰린 하루 — 오늘 증시 마감 정리" /><published>2026-10-02T21:00:00+09:00</published><updated>2026-10-02T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/02/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/02/daily/"><![CDATA[<p>오늘 코스피는 7,000선 위로 올라섰고, 코스닥은 소폭 내렸습니다. 지수는 조용했는데 정유 종목만 유독 크게 움직인 하루였어요. 📝 오늘 시장 흐름과 AI 선별 결과, 그리고 어제 선별 종목이 오늘 아침 어땠는지까지 한 번에 정리해 봤습니다.</p>
-
-<blockquote>
-  <p>이 글은 시장 기록 정리이며, 특정 종목의 매수·매도를 권유하지 않습니다.</p>
-</blockquote>
-
-<hr />
-
-<h2 id="-어제-ai가-고른-종목은-오늘-아침-어땠을까">📋 어제 AI가 고른 종목은 오늘 아침 어땠을까?</h2>
-
-<p>어제 선별된 4개 종목의 <strong>오늘 아침(08:00~09:59) 실제 갭</strong>입니다. 갭은 어제 기록 가격(진입가) 대비 오늘 아침 가격이 얼마나 벌어졌는지를 뜻합니다. 종가베팅은 보통 이 아침 시간대에 정리하기 때문에 가장 현실적인 성적표예요.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>아침 갭</th>
-      <th>세션 내 최고</th>
-      <th>세션 내 최저</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>디아이</td>
-      <td><strong>+4.6%</strong></td>
-      <td>+4.8%</td>
-      <td>-1.0%</td>
-    </tr>
-    <tr>
-      <td>주성엔지니어링</td>
-      <td><strong>+3.5%</strong></td>
-      <td>+5.6%</td>
-      <td>+0.6%</td>
-    </tr>
-    <tr>
-      <td>HPSP</td>
-      <td><strong>-0.1%</strong></td>
-      <td>+0.6%</td>
-      <td>-4.4%</td>
-    </tr>
-    <tr>
-      <td>삼성중공업</td>
-      <td><strong>-7.3%</strong></td>
-      <td>-7.1%</td>
-      <td>-8.1%</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>※ 모든 수치는 진입가 대비입니다. 수익률·손실로 단정할 수 있는 값이 아닙니다.</p>
-
-<ul>
-  <li>4개 중 2개는 플러스, 1개는 보합권, 1개는 큰 폭 마이너스였습니다.</li>
-  <li><strong>삼성중공업은 관측한 두 시간 내내 -7~-8%대</strong>에 머물렀습니다. 맞은 날도, 틀린 날도 그대로 기록합니다.</li>
-</ul>
-
-<hr />
-
-<h2 id="-오늘-코스피코스닥은-어떻게-움직였나">📈 오늘 코스피·코스닥은 어떻게 움직였나?</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>구분</th>
-      <th>마감</th>
-      <th>등락률</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>코스피</td>
-      <td><strong>7,003.74포인트</strong></td>
-      <td>+0.46%</td>
-    </tr>
-    <tr>
-      <td>코스닥</td>
-      <td><strong>893.29포인트</strong></td>
-      <td>-0.11%</td>
-    </tr>
-    <tr>
-      <td>원/달러 환율</td>
-      <td><strong>1,349.9원</strong></td>
-      <td>—</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>최근 흐름을 보면 코스피는 9월 30일 6,838.04 → 10월 1일 6,971.35 → 오늘 7,003.74로 이틀 연속 올랐습니다. 코스닥은 10월 1일 894.29에서 오늘 893.29로 거의 제자리였어요. 간밤 미국장은 다우 +0.04%, S&amp;P500 +0.19%, 나스닥 +0.04%, 반도체지수 +1.59%로 마감했습니다.</p>
-
-<h3 id="-누가-사고-팔았나">💰 누가 사고 팔았나?</h3>
-
-<p>오늘 시장 전체 수급입니다. (음수는 순매도)</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>투자 주체</th>
-      <th>순매수</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>외국인</td>
-      <td><strong>-2,428억원</strong></td>
-    </tr>
-    <tr>
-      <td>기관(연기금·보험사 등 큰 투자기관)</td>
-      <td><strong>+6,977억원</strong></td>
-    </tr>
-    <tr>
-      <td>개인</td>
-      <td><strong>-1.9조원</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>기관이 약 <strong>7,000억원을 순매수</strong>한 반면, 개인은 <strong>1.9조원 가까이 순매도</strong>했습니다. 외국인은 2,000억원대 순매도였어요.</p>
-
-<hr />
-
-<h2 id="-오늘-돈은-어디에-가장-많이-몰렸을까">🔥 오늘 돈은 어디에 가장 많이 몰렸을까?</h2>
-
-<h3 id="거래대금-상위-10종목">거래대금 상위 10종목</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>순위</th>
-      <th>종목</th>
-      <th>거래대금</th>
-      <th>등락률</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>SK하이닉스</td>
-      <td><strong>4.4조원</strong></td>
-      <td>+0.6%</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>삼성전자</td>
-      <td><strong>3.9조원</strong></td>
-      <td>0.0%</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>삼성전기</td>
-      <td><strong>1.1조원</strong></td>
-      <td>+1.0%</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>SK스퀘어</td>
-      <td>4,843억원</td>
-      <td>+0.4%</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>브릴스</td>
-      <td>4,202억원</td>
-      <td><strong>+11.2%</strong></td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>삼성전자우</td>
-      <td>4,152억원</td>
-      <td>-2.0%</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>한미반도체</td>
-      <td>4,112억원</td>
-      <td>+0.9%</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>제주반도체</td>
-      <td>3,756억원</td>
-      <td>+4.7%</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>심텍</td>
-      <td>3,142억원</td>
-      <td>+4.6%</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>주성엔지니어링</td>
-      <td>3,018억원</td>
-      <td>-2.1%</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>상위 10개 중 9개가 반도체 관련 종목이었고, 그중 SK하이닉스·삼성전자 두 종목만 합쳐도 8조원이 넘습니다. 지수는 얌전했지만 거래는 반도체에 크게 쏠렸어요.</p>
-
-<h3 id="오늘의-테마-현황">오늘의 테마 현황</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>순위</th>
-      <th>테마</th>
-      <th>상승 종목 / 전체 종목</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>정유</td>
-      <td>3 / 3</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>윤활유</td>
-      <td>5 / 7</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>LPG(액화석유가스)</td>
-      <td>8 / 9</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>통신장비</td>
-      <td>42 / 47</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>주유소</td>
-      <td>13 / 15</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>광통신(광케이블·광섬유 등)</td>
-      <td>15 / 15</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>정유 테마는 속한 3개 종목이 <strong>모두 올랐고</strong>, 정유와 가까운 윤활유·LPG·주유소 테마도 상위권에 함께 올랐습니다. 광통신은 15개 종목 전부가 상승했습니다.</p>
-
-<hr />
-
-<h2 id="-오늘-ai는-왜-sk이노베이션-한-종목만-남겼을까">🎯 오늘 AI는 왜 SK이노베이션 한 종목만 남겼을까?</h2>
-
-<p>오늘 최종 선별은 <strong>SK이노베이션 1종목</strong>이었고, 시스템 등급은 가장 보수적인 단계였습니다. 종목을 많이 담기보다 좁혀서 고른 날이에요.</p>
-
-<p>AI가 남긴 선별 근거는 이렇습니다. 국제유가가 급등하고 아시아 정제마진이 사상 최고 수준인 가운데, 정유 테마 대장주에 거래대금이 가장 두껍게 몰렸고 외국인과 기관이 함께 순매수했다는 것입니다.</p>
-
-<h3 id="sk이노베이션-분석-데이터">SK이노베이션 분석 데이터</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>구분</th>
-      <th>항목</th>
-      <th>내용</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>기본</td>
-      <td>당일 종가 / 등락률</td>
-      <td>153,700원 / <strong>+10.1%</strong></td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>거래대금 / 시총</td>
-      <td>2,683억원 / 26.0조원</td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>주도 테마 / 테마 내 순위</td>
-      <td>정유 / 1위</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>RSI / RVOL / 이평수렴</td>
-      <td>58.6 / 1.1 / +0.2%</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>52주 신고가 / OBV</td>
-      <td>아님 / 중립</td>
-    </tr>
-    <tr>
-      <td>수급</td>
-      <td>외인 순매수 / 기관 순매수</td>
-      <td>+15만 주 / +5,000주</td>
-    </tr>
-    <tr>
-      <td>재무</td>
-      <td>매출 YoY</td>
-      <td>+28.8%</td>
-    </tr>
-    <tr>
-      <td>점수</td>
-      <td>AI 종합 점수</td>
-      <td>39점</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>쉽게 풀면 이렇습니다.</p>
-
-<ul>
-  <li>하루 만에 <strong>10.1%</strong> 올랐는데도 RSI(과열 정도를 보는 지표)는 58.6으로 뜨거운 구간은 아니었습니다.</li>
-  <li>RVOL 1.1은 평소 거래량과 비슷한 수준이라는 뜻이어서, 거래량 폭증보다는 <strong>가격 상승폭</strong>이 도드라진 하루였습니다.</li>
-  <li>외국인은 15만 주를 순매수했고, 기관 순매수는 5,000주로 규모가 작았습니다.</li>
-</ul>
-
-<h3 id="오늘-선별-종목의-애프터마켓-흐름-잠정">오늘 선별 종목의 애프터마켓 흐름 (잠정)</h3>
-
-<p>정규장 마감 후 15:40~19:59 시간외 거래에서 관측한 값입니다. <strong>확정 성적이 아니며</strong>, 실현 결과는 다음 주 월요일 아침 갭으로 확인됩니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>진입가</th>
-      <th>현재 갭(마지막 관측)</th>
-      <th>세션 내 최고</th>
-      <th>세션 내 최저</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>SK이노베이션</td>
-      <td>153,700원</td>
-      <td><strong>-1.6%</strong></td>
-      <td>+0.1%</td>
-      <td>-1.6%</td>
-    </tr>
-    <tr>
-      <td>삼성중공업</td>
-      <td>21,372원</td>
-      <td><strong>-6.8%</strong></td>
-      <td>-6.6%</td>
-      <td>-6.9%</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>SK이노베이션은 진입가 근처에서 출발해 저녁 시간대에 -1.6%까지 내려왔고, 삼성중공업은 어제 아침 갭(-7.3%)과 비슷한 수준을 유지하고 있습니다. 저녁 시간대는 거래량이 적어 흔들림이 크기 때문에 참고용으로만 봐 주세요.</p>
-
-<hr />
-
-<h2 id="-오늘-내가-주목한-것은">👀 오늘 내가 주목한 것은</h2>
-
-<p>개인적으로 눈에 들어온 건 <strong>지수와 종목의 온도차</strong>였습니다. 코스피는 +0.46%로 조용했는데 정유 대장주는 하루에 +10.1%가 찍혔고, 거래대금 상위권은 반도체가 채웠어요. 같은 장에서 돈이 한곳이 아니라 두 갈래로 흘렀다는 점이 인상적이었습니다.</p>
-
-<p>또 하나는 어제 복기입니다. 아침 갭이 +4.6%인 종목과 -7.3%인 종목이 한 선별 안에 함께 있었습니다. 선별 결과가 한쪽으로만 나오지 않는다는 점을 숫자로 다시 확인한 아침이었어요. 오늘 선별 종목의 진짜 성적은 다음 주 월요일 아침 갭이 나와야 알 수 있습니다.</p>
-
-<hr />
-
-<h2 id="️-오늘-하루를-정리하면">✍️ 오늘 하루를 정리하면</h2>
-
-<ul>
-  <li>코스피 <strong>7,003.74포인트(+0.46%)</strong>, 코스닥 <strong>893.29포인트(-0.11%)</strong></li>
-  <li>기관 +6,977억원 순매수, 개인 약 1.9조원 순매도</li>
-  <li>정유 테마 3종목 전부 상승, SK이노베이션 <strong>+10.1%</strong></li>
-  <li>어제 선별 4종목의 오늘 아침 갭은 +4.6% / +3.5% / -0.1% / -7.3%</li>
-</ul>
-
-<blockquote>
-  <p>“시장은 맞힌 날보다 틀린 날을 더 정직하게 기록해야 다음이 보인다.”</p>
-</blockquote>
-
-<p>궁금한 종목이나 테마가 있다면 댓글로 남겨 주세요. 이웃 추가를 해 두시면 다음 마감 정리도 바로 받아볼 수 있어요. 🙌</p>
-
-<p>#NextTheme #종가베팅 #SK이노베이션 #정유 #정유주 #코스피 #코스닥 #SK하이닉스 #반도체 #삼성중공업 #하루마감 #증시마감</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[오늘 코스피는 7,000선 위로 올라섰고, 코스닥은 소폭 내렸습니다. 지수는 조용했는데 정유 종목만 유독 크게 움직인 하루였어요. 📝 오늘 시장 흐름과 AI 선별 결과, 그리고 어제 선별 종목이 오늘 아침 어땠는지까지 한 번에 정리해 봤습니다.]]></summary></entry></feed>
+<p>#종가베팅 #주말브리핑 #반도체 #정유 #수출호황 #월요일전망 #외국인수급</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[한 주가 끝났습니다. 💭 미국 증시의 반도체 강세와 국내 수출 호황 뉴스 속에서 월요일 개장을 앞두고 어떤 준비를 해야 할까요. 이번 주말 아침, 오늘과 다음 주를 읽는 분석을 정리했습니다.]]></summary></entry></feed>
