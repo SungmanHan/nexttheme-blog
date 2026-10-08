@@ -1,25 +1,24 @@
 {
-  "lastTradingDay" : "2026-10-07",
-  "totalDays" : 102,
+  "lastTradingDay" : "2026-10-08",
+  "totalDays" : 103,
   "summary" : {
-    "tradingDays" : 102,
+    "tradingDays" : 103,
     "sectorCount" : 16,
-    "upDays" : 94,
-    "avgChangeRate" : 5.97,
+    "upDays" : 95,
+    "avgChangeRate" : 5.94,
     "topSector" : "반도체·AI인프라",
     "topSectorDays" : 23
   },
   "now" : {
-    "date" : "2026-10-07",
+    "date" : "2026-10-08",
     "bettingGrade" : "RED",
-    "regimeTag" : "RED_ALL_DOWN",
+    "regimeTag" : "RED_EXHAUST",
     "themeRegime" : "THEME_LED",
-    "marketSignal" : "약세",
-    "kospi" : -1.98,
-    "kosdaq" : -2.34,
-    "leadTheme" : "캐릭터상품",
-    "leadChangeRate" : 7.65,
-    "themePremium" : 9.63
+    "kospi" : -2.62,
+    "kosdaq" : -0.69,
+    "leadTheme" : "2차전지(나트륨이온)",
+    "leadChangeRate" : 3.14,
+    "themePremium" : 5.76
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
@@ -27,8 +26,8 @@
     "top3Days" : 40
   }, {
     "sector" : "자동차·2차전지",
-    "rank1Days" : 12,
-    "top3Days" : 27
+    "rank1Days" : 13,
+    "top3Days" : 28
   }, {
     "sector" : "전자부품·기판",
     "rank1Days" : 8,
@@ -48,7 +47,7 @@
   }, {
     "sector" : "매크로·기타",
     "rank1Days" : 11,
-    "top3Days" : 14
+    "top3Days" : 15
   }, {
     "sector" : "건설·기계",
     "rank1Days" : 3,
@@ -84,7 +83,7 @@
   }, {
     "sector" : "디스플레이·LED",
     "rank1Days" : 2,
-    "top3Days" : 3
+    "top3Days" : 4
   } ],
   "months" : [ {
     "ym" : "2026-05",
@@ -1950,6 +1949,25 @@
         "changeRate" : 4.98
       } ],
       "mainStock" : ""
-    }, null, null ] ]
+    }, {
+      "day" : 8,
+      "date" : "2026-10-08",
+      "theme" : "2차전지(나트륨이온)",
+      "sector" : "자동차·2차전지",
+      "changeRate" : 3.14,
+      "prevDay" : "NEW",
+      "regime" : "THEME_LED",
+      "slot" : "15:00",
+      "kospi" : -2.62,
+      "themePremium" : 5.76,
+      "runners" : [ {
+        "theme" : "LED장비",
+        "changeRate" : 4.37
+      }, {
+        "theme" : "2차전지(LFP/리튬인산철)",
+        "changeRate" : 3.22
+      } ],
+      "mainStock" : ""
+    }, null ] ]
   } ]
 }
