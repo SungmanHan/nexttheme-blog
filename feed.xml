@@ -1,4 +1,173 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-10-09T23:54:40+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">디커플링 장세에서 이 트레이더가 종목을 고르는 기준은 무엇일까</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/09/video-trader-a1eljzqza6s-video-stock/" rel="alternate" type="text/html" title="디커플링 장세에서 이 트레이더가 종목을 고르는 기준은 무엇일까" /><published>2026-10-09T09:00:00+09:00</published><updated>2026-10-09T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/09/video_trader_A1eljzqZA6s-video-stock</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/09/video-trader-a1eljzqza6s-video-stock/"><![CDATA[<p>미국 지수는 연일 신고가를 쓰는데 국장은 왜 못 올라갈까요. 이 트레이더는 이 틈을 오히려 기회로 본다고 말하는데, 구체적으로 어떤 종목을 어떻게 골랐을까요.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-10-10T00:07:58+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">매수 타점보다 종목 선택이 먼저라는 이 트레이더의 매매 체계</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/10/video-trader-eazjbvsig8a-video-stock/" rel="alternate" type="text/html" title="매수 타점보다 종목 선택이 먼저라는 이 트레이더의 매매 체계" /><published>2026-10-10T00:07:39+09:00</published><updated>2026-10-10T00:07:39+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/10/video_trader_EAzJBVSIg8A-video-stock</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/10/video-trader-eazjbvsig8a-video-stock/"><![CDATA[<p>대부분은 ‘언제 살까’부터 고민합니다. 이 영상 속 트레이더는 그 순서가 틀렸다고 말합니다. 그럼 무엇을 먼저 봐야 할까요?</p>
+
+<p>이 글은 <a href="https://www.youtube.com/live/EAzJBVSIg8A?si=Q2T2B8JqQtKEvy4v">@thetrading2021</a> 채널의 주말 루틴 방송을 바탕으로 정리했습니다.</p>
+
+<p>이 트레이더는 매수 타점(차트·기법)보다 종목 선택, 즉 지금 시장에서 돈이 몰리는 ‘스타 종목(주도주)’을 먼저 찾는 것이 수익을 결정한다고 말합니다. 그 판단의 핵심 지표로 조작이 불가능한 거래대금을 꼽습니다.</p>
+
+<h2 id="이-트레이더는-어떻게-매매하는가">이 트레이더는 어떻게 매매하는가</h2>
+
+<p>영상에서 소개된 규칙은 진입(어떤 종목을 언제 살까)·청산(언제 팔까)·리스크 관리(손절·비중조절)로 나눠볼 수 있습니다. 아래 표로 정리했습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>기법</th>
+      <th>이 트레이더가 설명하는 실행 방법</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>F존 눌림매매</td>
+      <td>대표(이니셜 F)가 만든 체계로, 인기 종목(주도주)이 상승 후 일정 구간(F존)까지 눌리면 매수한다고 말합니다. F존에 닿으면 바로 반등이 나와야 정상이고, 반등이 질질 늦어지면 즉시 손절하고 종목을 바꾼다고 설명합니다. 다만 신규주와 주도주는 F존 이탈 시 대응이 다르다고 강조합니다 — 하이닉스·삼성전자 같은 대형 주도주는 F존을 더 뚫고 내려와도 분할매수 대상으로 보고, 신규주는 F존 이탈 시 반드시 즉시 손절한다고 말합니다.</td>
+    </tr>
+    <tr>
+      <td>하트존 매매(익일 눌림 접근)</td>
+      <td>당일 주도주를 그날 바로 종가배팅하지 않고, 고가 대비 일부만 오르고 거래대금이 절반도 안 터진 종목(본인 표현으로 ‘하트존’)을 다음날 F존 부근에서 접근한다고 말합니다. 당일 주도주를 바로 추격 매수하는 것보다 이 방식이 수익이 더 잘 난다고 설명합니다.</td>
+    </tr>
+    <tr>
+      <td>산타렐리(연속상승) 당일 종가배팅</td>
+      <td>거래대금이 폭발하며 전고점을 연속으로 뚫는 패턴이 나오면(본인 표현 ‘산타렐리’), F존을 기다리지 않고 당일 바로 매수한다고 말합니다. 다음날도 갭상승으로 더 올라가는 경우가 많다는 이유를 든다고 설명합니다.</td>
+    </tr>
+    <tr>
+      <td>종가배팅 매수 타이밍</td>
+      <td>오후 3시부터 1차 매수를 시도하고, 이후 미국 야간선물과 저녁 흐름을 지켜보며 밤 7시 50분경 추가매수(본인 표현 ‘불타기’) 여부나 보유·손절을 결정한다고 말합니다. 상승 추세(신고가)에서는 불타기를 적극적으로 하고, 하락 추세(음봉)에서는 최대한 늦은 시간까지 기다려 첫 매수를 한다고 설명합니다.</td>
+    </tr>
+    <tr>
+      <td>4% 수익 시 50% 반익절</td>
+      <td>종가배팅 포지션이 다음날 아침 약 4% 수익 상태가 되면 전부 매도하거나 전부 보유하지 않고 절반만 정리한다고 말합니다. 더 오르면 남은 절반에서 추가 수익을, 더 내리면 실현한 수익으로 재매수하는 방식으로 심리적 안정을 확보한다고 설명합니다.</td>
+    </tr>
+    <tr>
+      <td>칼손절(기본 손절 규칙)</td>
+      <td>종가배팅한 종목이 다음날 오전 10시 안에 예상대로 오르지 않으면 전량 손절한다고 말합니다. 다만 하이닉스·삼성전자 같은 주도 대형주는 이 규칙에서 예외로 두고, 내려오면 손절 대신 분할매수로 대응한다고 설명합니다.</td>
+    </tr>
+    <tr>
+      <td>대형 주도주 하락 시 분할매수</td>
+      <td>하이닉스·삼성전자처럼 지속적으로 시장을 주도하는 대형주는 가격이 내려올 때 비중을 조절하며 분할매수한다고 말합니다. 반등이 가장 먼저 나올 종목이라는 전제이며, 비중만 적절히 조절하면 손실이 나지 않는다고 설명합니다.</td>
+    </tr>
+    <tr>
+      <td>종목별 주문 방식 구분</td>
+      <td>반드시 손절해야 하는 종목은 자동감시주문·트레일링스탑을 걸어도 되지만, 하이닉스·삼성전자처럼 오르내림을 반복하며 분할매수로 대응하는 종목에는 자동매도를 걸지 않는다고 말합니다.</td>
+    </tr>
+    <tr>
+      <td>나이·성향별 매매 스타일</td>
+      <td>돌파매매는 체결 직후 추세를 계속 지켜봐야 해서 피로도가 높다며, 40~60대 트레이더는 돌파보다 눌림매매가 유리하다고 권장합니다. 강의·강사를 고를 때도 본인의 생활환경(직장인·전업)과 매매 속도에 맞는 스타일인지를 가장 먼저 봐야 한다고 말합니다.</td>
+    </tr>
+    <tr>
+      <td>종목 메모 습관</td>
+      <td>아직 종목을 스스로 구별하지 못하는 초보는 테마 화면을 매일 보며 그날 오른 종목과 테마를 메모하는 습관을 6개월간 꾸준히 지속하라고 조언합니다. 이를 통해 시장이 어떤 섹터로 움직이는지 감각이 생긴다고 설명합니다.</td>
+    </tr>
+    <tr>
+      <td>매매 시간대 집중</td>
+      <td>국내 거래대금의 80%가 오후 2시 30분부터 다음날 오전 10시 사이에 발생한다며, 거래대금이 없는 오전 10시~오후 2시 구간은 피하고 이 시간대에 매매를 집중하라고 말합니다.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="이-트레이더는-시황과-종목을-어떻게-보는가">이 트레이더는 시황과 종목을 어떻게 보는가</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>관찰 대상</th>
+      <th>이 트레이더의 해석</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>섹터별 실시간 등락 현황판</td>
+      <td>반도체·2차전지·조선 등 색상으로 오늘 돈이 몰리는 테마를 확인하고, 전날 강했던 섹터가 다음날도 이어지는지 순환매 여부를 본다고 말합니다.</td>
+    </tr>
+    <tr>
+      <td>미국 대형주의 전고점 돌파 여부</td>
+      <td>마이크론·하이닉스·엔비디아 등이 전고점에 가까워지거나 돌파했는지를 국내 관련주의 전고 트라이 가능성을 가늠하는 힌트로 쓴다고 설명합니다.</td>
+    </tr>
+    <tr>
+      <td>거래대금 증감</td>
+      <td>거래대금은 조작할 수 없는 유일한 지표(아파트 실거래가에 비유)라며, 늘어나는 섹터는 강세, 줄어드는 섹터는 약세로 해석한다고 말합니다.</td>
+    </tr>
+    <tr>
+      <td>실시간 조회 상위 종목</td>
+      <td>특정 커뮤니티만 주목하는 종목이 아니라 조회 순위에 반복적으로 오르는 종목이 진짜 주도주라고 해석합니다.</td>
+    </tr>
+    <tr>
+      <td>섹터 간 자금 순환 주기</td>
+      <td>돈이 주간·일간·월간 등 서로 다른 주기로 섹터를 옮겨 다닌다며, 전주 주도 섹터가 이번 주에도 이어질지를 빠르게 파악해야 한다고 말합니다.</td>
+    </tr>
+    <tr>
+      <td>금리 등 매크로 뉴스·캘린더</td>
+      <td>주말간 금리 인상 기대감이 낮아진 소식을 국내 시장에 가장 큰 영향을 줄 호재로 지목하고, 예정된 이벤트 일정을 미리 체크한다고 설명합니다.</td>
+    </tr>
+    <tr>
+      <td>종목의 지지선 유지 여부</td>
+      <td>당일 정해둔 최소 유지 라인을 종가까지 지키지 못하고 이탈하면, 다음날 결과와 무관하게 그 종목을 종가배팅하지 않는다는 본인 기준을 지킨다고 말합니다.</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목 선별 기준</th>
+      <th>이 트레이더가 드는 이유</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>거래대금 폭증 + 전고점 돌파</td>
+      <td>거래대금은 조작할 수 없는 지표라 실제 수요의 증거이며, 전고 돌파는 추세 지속 가능성을 높인다고 말합니다.</td>
+    </tr>
+    <tr>
+      <td>실시간 조회 상위 반복 노출</td>
+      <td>대중이 실제로 몰려있는 종목이어야 진짜 주도주로서 수익 확률이 높다고 설명합니다.</td>
+    </tr>
+    <tr>
+      <td>투자주의 등 단일가 지정 여부</td>
+      <td>매매 기준상 맞더라도 투자주의 지정 종목은 변동성·규제 리스크 관리를 위해 대상에서 제외한다고 말합니다.</td>
+    </tr>
+    <tr>
+      <td>같은 신규주 섹터 2연속 실패 여부</td>
+      <td>같은 실수를 세 번 반복하지 않기 위해, 두 번 연속 반등 실패가 나오면 해당 신규주 그룹을 당분간 회피하거나 더 엄격히 본다고 설명합니다.</td>
+    </tr>
+    <tr>
+      <td>과거 수익 경험(‘끼’)</td>
+      <td>과거 수익 경험이 있는 종목은 참여자들이 좋은 기억으로 재진입하는 수요가 있어 패턴이 반복될 가능성이 높다고 말합니다.</td>
+    </tr>
+    <tr>
+      <td>지금 가장 잘 나가는 주도주인가</td>
+      <td>매수 타점보다 종목 선택 자체가 수익을 결정하며, 진짜 주도주는 매수 시점과 무관하게 며칠간 계속 오르는 경향이 있다고 설명합니다.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="종합--이-방법론에서-눈에-띈-점">종합 — 이 방법론에서 눈에 띈 점</h2>
+
+<p>이 영상에서 가장 인상적인 지점은 ‘종목이 곧 기법’이라는 선언입니다. 보통 매매법을 다룰 때는 진입 타점부터 설명하는데, 이 트레이더는 그 순서를 뒤집어 어떤 종목을 고르느냐가 수익을 가른다고 말합니다. 신규주와 대형 주도주에 서로 다른 손절 기준을 적용하고, 4% 수익에서 절반만 정리하는 방식은 ‘전부 아니면 전무’가 아닌 확률적 접근이라는 점도 눈에 띕니다. 다만 이 모든 규칙이 거래대금이라는 단일 지표를 축으로 짜여 있다는 점에서, 거래대금만으로 포착되지 않는 국면에서는 같은 체계가 그대로 통하지 않을 수 있다는 한계도 함께 봐야 할 것 같습니다.</p>
+
+<p><strong>이 트레이더가 말하는 핵심은 하나입니다 — 타점보다 먼저, 어떤 종목을 볼지 정하는 것.</strong></p>
+
+<p>#NextTheme #더트레이딩 #종가배팅 #F존눌림매매 #칼손절 #주도주매매 #거래대금분석</p>
+
+<hr />
+
+<p>🎬 <strong>원문 영상</strong> : https://www.youtube.com/live/EAzJBVSIg8A?si=Q2T2B8JqQtKEvy4v</p>
+
+<hr />
+
+<p>📡 <strong>넥스트테마 (nextTheme)</strong>
+국내 주식 알림 시스템 · 현재 무료</p>
+
+<p>거래대금 · 기관 · 외국인 수급을 교차 분석해
+당일 주도 테마와 종목을 추려내고,
+AI가 최종 판단한 결과를 텔레그램으로 보내드립니다.</p>
+
+<p>💰 <strong>이용료</strong>
+가입비 · 구독료 없음. 채널 입장만 하면 알림을 받습니다.
+(개인 개발 프로젝트로, 베타 기간 무료 공개 중입니다)</p>
+
+<p>👉 <strong>입장하기</strong> : https://t.me/next_theme</p>
+
+<p>⚠️ 투자 자문이나 종목 추천이 아닌 데이터 분석 참고 자료입니다.
+수익을 보장하지 않으며, 모든 투자 판단과 책임은 본인에게 있습니다.</p>]]></content><author><name>NextTheme</name></author><category term="video-stock" /><summary type="html"><![CDATA[대부분은 ‘언제 살까’부터 고민합니다. 이 영상 속 트레이더는 그 순서가 틀렸다고 말합니다. 그럼 무엇을 먼저 봐야 할까요?]]></summary></entry><entry><title type="html">디커플링 장세에서 이 트레이더가 종목을 고르는 기준은 무엇일까</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/09/video-trader-a1eljzqza6s-video-stock/" rel="alternate" type="text/html" title="디커플링 장세에서 이 트레이더가 종목을 고르는 기준은 무엇일까" /><published>2026-10-09T09:00:00+09:00</published><updated>2026-10-09T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/09/video_trader_A1eljzqZA6s-video-stock</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/09/video-trader-a1eljzqza6s-video-stock/"><![CDATA[<p>미국 지수는 연일 신고가를 쓰는데 국장은 왜 못 올라갈까요. 이 트레이더는 이 틈을 오히려 기회로 본다고 말하는데, 구체적으로 어떤 종목을 어떻게 골랐을까요.</p>
 
 <p>이 글은 <a href="https://youtu.be/A1eljzqZA6s?si=rUYIFdiwL-tj9bkb">@trader_manju</a> 채널의 영상을 바탕으로 정리했습니다.</p>
 
@@ -1957,106 +2126,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가베팅 #복기일지 #20261007 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-10-08 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">부자회사원이 소개하는 월 억 버는 고수들의 종가배팅 공통 기준은 무엇일까</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/08/video-trader-mbhl0tvmrvy-video-stock/" rel="alternate" type="text/html" title="부자회사원이 소개하는 월 억 버는 고수들의 종가배팅 공통 기준은 무엇일까" /><published>2026-10-08T09:00:00+09:00</published><updated>2026-10-08T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/08/video_trader_mBHl0tvMRvY-video-stock</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/08/video-trader-mbhl0tvmrvy-video-stock/"><![CDATA[<p>이 글은 <a href="https://www.youtube.com/watch?v=mBHl0tvMRvY">@부자회사원</a> 채널의 영상을 바탕으로 정리했습니다. 이 트레이더는 이번 영상에서 월 억 단위로 수익을 내는 고수들이 공통적으로 강조한다는 종가배팅 기준 6가지를 소개하면서, 그중에서도 재료와 거래대금을 가장 중요한 1·2순위 조건으로 설명합니다.</p>
-
-<h2 id="이-트레이더는-종목을-어떻게-고르고-언제-사고파는가">이 트레이더는 종목을 어떻게 고르고 언제 사고파는가</h2>
-
-<p>종가배팅은 장이 마감되기 직전 무렵에 그날 가장 강한 종목을 선별해 매수해두고, 다음 날 시초가 부근의 상승을 노리는 방식입니다. 이 트레이더가 설명하는 매매 절차를 표로 정리하면 다음과 같습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>기법</th>
-      <th>이 트레이더가 설명하는 실행 방법</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>거래대금 급증 종목 추적</td>
-      <td>매일 등락률 상위 <strong>20개</strong> 종목만 추려서 보고, 그중 거래대금이 유독 조단위나 수천억 단위로 크게 터진 종목을 포착한 뒤 재료·차트·수급 순서로 조건을 확인하고 종가 무렵 매매를 결정한다고 말한다</td>
-    </tr>
-    <tr>
-      <td>구글 뉴스 검색으로 재료 강도 검증</td>
-      <td>거래대금이 크게 터진 종목명을 구글 뉴스 섹션에 검색해 그날 보도한 매체 수(페이지 분량)를 확인하고, SBS·한국경제 등 메이저 언론을 포함한 다수 매체가 빼곡하게 보도했다면 그 재료에 대한 시장의 관심이 보편적이라고 판단한다고 말한다</td>
-    </tr>
-    <tr>
-      <td>대체거래소(NXT) 비중매수 후 익일 아침 매도</td>
-      <td>조건이 충족된 종목을 오후 <strong>7시~8시</strong> 대체거래소 시간대에 비중매수하되, 먼저 호가창이 두꺼운지를 확인한다고 설명한다. 다음 날 아침 대체거래소에서 상승(슈팅)이 나오면 대량 거래량을 수반한 윗꼬리 도지 캔들이나 음봉 캔들이 나오는 시점에 전략적으로 매도해 수익을 확정한다고 말한다</td>
-    </tr>
-    <tr>
-      <td>소액 연습 후 비중 확대</td>
-      <td>처음에는 비중을 얼마나 실을지 판단하기 어려우므로, 작은 비중으로 연습을 반복하며 자신만의 매매 디테일을 만들어가고, 확신이 드는 좋은 기회가 왔을 때만 비중을 크게 싣는다고 설명한다</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>이 중 세 번째 기법이 진입과 청산을 모두 담고 있는 핵심 실행 절차입니다. 이 트레이더는 진입 시점을 ‘저녁 대체거래소 비중매수’로, 청산 시점을 ‘다음 날 아침 대체거래소 상승 구간에서 도지·음봉 캔들이 나올 때’로 구분해서 설명합니다. 리스크 관리 측면에서는 비중 자체를 다루는데, 네 번째 기법에서처럼 처음부터 크게 베팅하지 않고 소액으로 먼저 연습한 뒤 조건이 많이 겹치는 고확률 자리에서만 비중을 키운다는 원칙을 강조합니다.</p>
-
-<h2 id="이-트레이더는-시황과-종목을-어떻게-읽는가">이 트레이더는 시황과 종목을 어떻게 읽는가</h2>
-
-<p>이 트레이더는 전 종목을 다 들여다볼 필요 없이 당일 등락률 상위 20개 종목의 거래대금만 꾸준히 관찰하면 된다고 말합니다. 같은 섹터 종목들이 함께 오르면 재료가 섹터 전체로 확산되는 강한 신호로 읽고, 조정 국면에서는 매수세가 소수 중심주로 몰려 매수세 대 매도세 비율이 <strong>6대4</strong>, <strong>7대3</strong> 정도로 기울 때 그 종목이 올라간다고 설명합니다. 다만 최근에는 저녁 대체거래소에서 오른 종목이 다음 날 아침 장 시작 후 하락으로 전환(내리꽂는 장세)되는 경우가 잦아졌다는 트렌드를 언급하며, 그래서 슈팅 구간에서 빠르게 익절하는 접근이 유효하다고 설명합니다.</p>
-
-<p>종목 선별 조건은 아래와 같이 요약합니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>선별 조건</th>
-      <th>이 트레이더가 밝히는 이유</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>거래대금이 조단위이거나 당일 등락률 상위 20개 중 최상위인가</td>
-      <td>시장의 관심과 돈이 실제로 몰렸는지 규모로 확인하기 위해서라고 말한다</td>
-    </tr>
-    <tr>
-      <td>재료가 연속성·신선함·글로벌 이슈·실적과 직접 연관이 있는가</td>
-      <td>상승의 명분이 강하고 오래 지속될수록 다음 날까지 반응이 이어질 확률이 높다고 설명한다</td>
-    </tr>
-    <tr>
-      <td>구글 뉴스에 다수 매체가 보도했는가</td>
-      <td>보도량이 많을수록 더 많은 투자자가 같은 재료에 보편적으로 관심을 갖는다고 판단한다고 말한다</td>
-    </tr>
-    <tr>
-      <td>신고가 도전 자리나 W자 바닥 반등이면서 기간조정을 거쳤는가</td>
-      <td>추세가 크게 무너지지 않고 눌림 구간을 거친 반등일수록 다음 날 상승이 이어질 확률이 높다고 설명한다</td>
-    </tr>
-    <tr>
-      <td>꼬리 없이 깔끔한 장대양봉인가, 외국인·기관 매수세가 들어왔는가</td>
-      <td>매수세가 일방적으로 강했다는 의미이고 수급 주체가 확인되면 추세 상승이 이어질 확률이 더 높아진다고 말한다</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>이 트레이더는 1·2번(재료·거래대금)만 맞아도 대응할 수 있지만, 여기에 차트와 수급 조건까지 겹치면 비중을 크게 싣는 고확률 기회로 본다고 말합니다.</p>
-
-<h2 id="이-방법론에서-눈에-띈-점">이 방법론에서 눈에 띈 점</h2>
-
-<p>이 영상에서 가장 인상적인 부분은 종목을 몇 개 더 찾아내는 기술이 아니라, 매일 같은 20개 종목만 보는 ‘관찰 습관’을 반복하다가 조건이 많이 겹치는 날에만 비중을 싣는다는 태도였습니다. 재료와 거래대금을 1·2순위로 두고 차트·수급을 보조 확인 장치로 쓰는 순서, 그리고 저녁 대체거래소 진입과 다음 날 아침 슈팅 구간 매도라는 시간 구조를 명확히 나눈 점은 종가배팅을 감으로 하지 않고 절차화하려는 시도로 읽혔습니다.</p>
-
-<p>이 트레이더가 소개한 종가배팅의 핵심은 결국 ‘좋은 종목을 매일 찾는 것’이 아니라 ‘정해둔 관찰 루틴을 꾸준히 지키며 기회를 기다리는 것’이었습니다. 종가배팅에 관심 있다면 댓글로 궁금한 점을 남기거나 이웃 추가 후 다음 글에서 또 다른 트레이더의 매매법도 함께 비교해보시길 바랍니다.</p>
-
-<p>#NextTheme #종가배팅 #부자회사원 #거래대금급증주 #대체거래소매매법 #종가배팅매매법</p>
-
-<hr />
-
-<p>🎬 <strong>원문 영상</strong> : https://www.youtube.com/watch?v=mBHl0tvMRvY</p>
-
-<hr />
-
-<p>📡 <strong>넥스트테마 (nextTheme)</strong>
-국내 주식 알림 시스템 · 현재 무료</p>
-
-<p>거래대금 · 기관 · 외국인 수급을 교차 분석해
-당일 주도 테마와 종목을 추려내고,
-AI가 최종 판단한 결과를 텔레그램으로 보내드립니다.</p>
-
-<p>💰 <strong>이용료</strong>
-가입비 · 구독료 없음. 채널 입장만 하면 알림을 받습니다.
-(개인 개발 프로젝트로, 베타 기간 무료 공개 중입니다)</p>
-
-<p>👉 <strong>입장하기</strong> : https://t.me/next_theme</p>
-
-<p>⚠️ 투자 자문이나 종목 추천이 아닌 데이터 분석 참고 자료입니다.
-수익을 보장하지 않으며, 모든 투자 판단과 책임은 본인에게 있습니다.</p>]]></content><author><name>NextTheme</name></author><category term="video-stock" /><summary type="html"><![CDATA[이 글은 @부자회사원 채널의 영상을 바탕으로 정리했습니다. 이 트레이더는 이번 영상에서 월 억 단위로 수익을 내는 고수들이 공통적으로 강조한다는 종가배팅 기준 6가지를 소개하면서, 그중에서도 재료와 거래대금을 가장 중요한 1·2순위 조건으로 설명합니다.]]></summary></entry></feed>
+<p>#종가베팅 #복기일지 #20261007 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-10-08 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
