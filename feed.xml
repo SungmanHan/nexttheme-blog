@@ -1,4 +1,102 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-10-09T06:04:11+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">필라델피아 반도체 -3.39% 급락 뒤 맞는 아침, 코스피 -2.62% 마감 이후 오늘 확인할 변수</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/09/0600-briefing/" rel="alternate" type="text/html" title="필라델피아 반도체 -3.39% 급락 뒤 맞는 아침, 코스피 -2.62% 마감 이후 오늘 확인할 변수" /><published>2026-10-09T06:00:00+09:00</published><updated>2026-10-09T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/09/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/09/0600-briefing/"><![CDATA[<p>☕ 좋은 아침입니다. 간밤 미국장에서 반도체가 크게 밀렸고, 어제 코스피도 <strong>-2.62%</strong> 로 마감했습니다. 오늘 아침은 “뭘 살까”보다 “어디부터 확인할까”가 먼저인 날입니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-10-09T17:52:13+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">디커플링 장세에서 이 트레이더가 종목을 고르는 기준은 무엇일까</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/09/video-trader-a1eljzqza6s-video-stock/" rel="alternate" type="text/html" title="디커플링 장세에서 이 트레이더가 종목을 고르는 기준은 무엇일까" /><published>2026-10-09T09:00:00+09:00</published><updated>2026-10-09T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/09/video_trader_A1eljzqZA6s-video-stock</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/09/video-trader-a1eljzqza6s-video-stock/"><![CDATA[<p>미국 지수는 연일 신고가를 쓰는데 국장은 왜 못 올라갈까요. 이 트레이더는 이 틈을 오히려 기회로 본다고 말하는데, 구체적으로 어떤 종목을 어떻게 골랐을까요.</p>
+
+<p>이 글은 <a href="https://youtu.be/A1eljzqZA6s?si=rUYIFdiwL-tj9bkb">@trader_manju</a> 채널의 영상을 바탕으로 정리했습니다.</p>
+
+<h2 id="이-트레이더는-지수-디커플링-국면에서-어떻게-매매하는가">이 트레이더는 지수 디커플링 국면에서 어떻게 매매하는가</h2>
+
+<p>이 트레이더(완주·만쥬)는 미국 지수와 국내 지수가 엇갈리는 상황에서 지수 관련주를 중심으로 매매한 과정을 복기합니다. 소개한 기법을 표로 정리하면 다음과 같습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>기법</th>
+      <th>이 트레이더가 설명하는 실행 방법</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>지수 관련주 키맞추기 매매</td>
+      <td>미국 지수가 신고가를 계속 경신하는데 국장(코스피)은 아직 신고가까지 거리가 남아 못 올라가는 상황이 확인되면, 국장이 뒤늦게 미국장 분위기를 따라갈 것으로 보고 지수 관련주를 매수해 모아간다고 말한다</td>
+    </tr>
+    <tr>
+      <td>섹터 내 최강 반등주 선별 매매</td>
+      <td>지수 관련주들이 오후장에서 전체적으로 반등할 때, 그중 반등폭이 가장 컸던 종목을 ‘가장 강한 종목’으로 판단해 집중 매매 대상으로 삼는다고 설명한다</td>
+    </tr>
+    <tr>
+      <td>자사주매입 종료 리스크 회피</td>
+      <td>자사주 매입이 곧 끝나는 대형주는 그 자체로 단기 악재가 될 수 있다고 보고, 같은 섹터라도 그런 이슈가 없는 다른 종목을 대신 선택한다고 말한다</td>
+    </tr>
+    <tr>
+      <td>목표가 도달 + 지수 약세 확인 시 분할 매도</td>
+      <td>미리 잡아둔 목표가 부근에 도달했는데 당일 지수 흐름이 추가로 약해졌다고 판단되면, 더 끌고 가지 않고 적당한 수익에서 분할로 매도해 마무리한다고 설명한다</td>
+    </tr>
+    <tr>
+      <td>이슈 테마 시가배팅 겸 짝꿍 매매</td>
+      <td>주말 동안 이슈가 있었던 테마는 월요일 시초가에 베팅해볼 수 있다고 사전에 전략을 세워두고, 실제로 이슈가 있던 테마 종목을 시가배팅 겸 짝꿍 매매로 짧게 들어가 수익을 챙겼다고 말한다</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>이 중 첫 번째와 두 번째 기법은 진입 단계를, 네 번째 기법은 청산 단계를 담고 있습니다. 이 트레이더는 지수 디커플링이라는 큰 그림에서 먼저 매매할 섹터를 정하고, 그 안에서 가장 강한 종목으로 좁혀 들어가는 2단계 절차를 쓴다고 설명합니다. 리스크 관리는 세 번째 기법에서 드러나는데, 같은 조건을 만족하는 종목이 여러 개여도 단기 악재가 섞인 종목은 미리 걸러낸다는 원칙입니다.</p>
+
+<h2 id="이-트레이더는-지금-시장을-어떻게-읽고-있을까">이 트레이더는 지금 시장을 어떻게 읽고 있을까</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>신호</th>
+      <th>이 트레이더의 해석</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>미국 지수 신고가 지속 vs 코스피 정체의 디커플링</td>
+      <td>국장이 조만간 ‘키맞추기’로 따라갈 가능성이 있다고 보고 지수 관련주 매수 기회로 해석한다고 말한다</td>
+    </tr>
+    <tr>
+      <td>코스피 7,200선 박스권</td>
+      <td>이 구간을 뚫고 올라서야 상승 흐름이 이어질 수 있다고 보고, 돌파 전까지는 시장을 상승 추세로 단정하지 않는다고 설명한다</td>
+    </tr>
+    <tr>
+      <td>거래량·거래대금이 터지지 않는 조용한 장</td>
+      <td>한 주에 시장이 3일만 열리는 등 거래가 뜸한 시기는 돈이 한 곳으로 쏠리지 않는 조용한 장으로 보고, 적극적인 매매를 자제하는 근거로 삼는다고 말한다</td>
+    </tr>
+    <tr>
+      <td>미국장의 지속적인 상승(붕괴 여부)</td>
+      <td>미국장이 무너지지 않는 한 전체 시장을 상승 흐름으로 보지만, 확실한 신호가 나오기 전까지는 비중을 늘리지 않고 적당한 비중만 유지한다고 설명한다</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>앞서 소개한 종목 선별 기준도 이 시황 해석 위에서 작동한다고 트레이더는 밝힙니다 — 지수 관련 섹터를 고르는 것도, 그 안에서 가장 강한 종목으로 좁히는 것도 결국 디커플링과 박스권이라는 같은 틀 안에서의 판단입니다.</p>
+
+<h2 id="이-방법론에서-눈에-띈-점">이 방법론에서 눈에 띈 점</h2>
+
+<p>이 영상에서 눈에 띈 부분은 종목을 고르는 기준 자체가 아니라 범위를 좁혀가는 순서였습니다. 지수 간 디커플링이라는 큰 틀에서 먼저 섹터를 고르고, 그 섹터 안에서 당일 반등폭으로 종목을 좁히고, 다시 개별 악재 유무로 한 번 더 걸러내는 3단 압축 방식입니다. 목표가에 도달했을 때도 수익을 욕심내지 않고 지수 흐름이 약해졌다는 신호 하나로 분할 매도를 결정한 점, 그리고 결과적으로 더 오른 종목이었음에도 원칙을 바꾸지 않았다고 밝힌 점은 사전에 정한 기준을 사후에 흔들지 않는 태도로 읽혔습니다. 이 트레이더가 이번 영상에서 보여준 방법론은 결국 지수 디커플링이라는 신호에서 시작해 섹터·종목·악재 유무로 범위를 좁혀가는 3단 압축이었습니다.</p>
+
+<p>#NextTheme #종가배팅 #만쥬 #디커플링매매 #키맞추기매매 #박스권매매</p>
+
+<hr />
+
+<p>🎬 <strong>원문 영상</strong> : https://youtu.be/A1eljzqZA6s?si=rUYIFdiwL-tj9bkb</p>
+
+<hr />
+
+<p>📡 <strong>넥스트테마 (nextTheme)</strong>
+국내 주식 알림 시스템 · 현재 무료</p>
+
+<p>거래대금 · 기관 · 외국인 수급을 교차 분석해
+당일 주도 테마와 종목을 추려내고,
+AI가 최종 판단한 결과를 텔레그램으로 보내드립니다.</p>
+
+<p>💰 <strong>이용료</strong>
+가입비 · 구독료 없음. 채널 입장만 하면 알림을 받습니다.
+(개인 개발 프로젝트로, 베타 기간 무료 공개 중입니다)</p>
+
+<p>👉 <strong>입장하기</strong> : https://t.me/next_theme</p>
+
+<p>⚠️ 투자 자문이나 종목 추천이 아닌 데이터 분석 참고 자료입니다.
+수익을 보장하지 않으며, 모든 투자 판단과 책임은 본인에게 있습니다.</p>]]></content><author><name>NextTheme</name></author><category term="video-stock" /><summary type="html"><![CDATA[미국 지수는 연일 신고가를 쓰는데 국장은 왜 못 올라갈까요. 이 트레이더는 이 틈을 오히려 기회로 본다고 말하는데, 구체적으로 어떤 종목을 어떻게 골랐을까요.]]></summary></entry><entry><title type="html">필라델피아 반도체 -3.39% 급락 뒤 맞는 아침, 코스피 -2.62% 마감 이후 오늘 확인할 변수</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/09/0600-briefing/" rel="alternate" type="text/html" title="필라델피아 반도체 -3.39% 급락 뒤 맞는 아침, 코스피 -2.62% 마감 이후 오늘 확인할 변수" /><published>2026-10-09T06:00:00+09:00</published><updated>2026-10-09T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/09/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/09/0600-briefing/"><![CDATA[<p>☕ 좋은 아침입니다. 간밤 미국장에서 반도체가 크게 밀렸고, 어제 코스피도 <strong>-2.62%</strong> 로 마감했습니다. 오늘 아침은 “뭘 살까”보다 “어디부터 확인할까”가 먼저인 날입니다.</p>
 
 <p>시스템 기준으로는 <strong>신중 구간</strong>(위험 우위)이며, 심리 점수는 100점 만점에 <strong>25점</strong>입니다.</p>
 
@@ -2777,234 +2875,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가베팅 #복기일지 #20261006 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-10-07 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">코스닥 900선 회복, 삼성전자 실적 발표 앞둔 아침 시장 점검</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/07/0600-briefing/" rel="alternate" type="text/html" title="코스닥 900선 회복, 삼성전자 실적 발표 앞둔 아침 시장 점검" /><published>2026-10-07T06:00:00+09:00</published><updated>2026-10-07T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/07/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/07/0600-briefing/"><![CDATA[<p>☕ 좋은 아침입니다. 어제 코스닥은 <strong>+2.98%</strong> 올라 <strong>919.92포인트</strong>로 마감했고, 코스피는 <strong>-0.89%</strong>로 <strong>6,941.39포인트</strong>였습니다. 같은 날인데 두 시장이 정반대로 움직였죠. 오늘 장 시작 전에 확인할 것들을 정리했습니다.</p>
-
-<h2 id="-어제-ai가-고른-종목은-밤사이-어떻게-흘렀을까">📋 어제 AI가 고른 종목은 밤사이 어떻게 흘렀을까?</h2>
-
-<p>어제(10/6) 선별 기록을 복기해 보겠습니다. 15:10 최종 선별이 <strong>2종목</strong>, 저녁 19:10 선별이 <strong>2종목</strong>이었고, 이와 별개로 AI 선별이 아닌 이월 보유 종목이 <strong>1종목</strong> 있습니다. 어제 새로 매수한 기록은 없었습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>선별 시점</th>
-      <th>AI 기록상 종가</th>
-      <th>저녁 시간외 흐름 (종가 대비, 15:40~19:59)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>주성엔지니어링</td>
-      <td>15:10 최종</td>
-      <td>276,500원</td>
-      <td>저녁 관측값 없음</td>
-    </tr>
-    <tr>
-      <td>삼성SDI</td>
-      <td>15:10 최종</td>
-      <td>574,000원</td>
-      <td>최고 <strong>+0.52%</strong> / 최저 <strong>-0.70%</strong></td>
-    </tr>
-    <tr>
-      <td>삼성전기</td>
-      <td>19:10 선별</td>
-      <td>1,680,000원</td>
-      <td>최고 <strong>+0.30%</strong> / 최저 <strong>-0.54%</strong></td>
-    </tr>
-    <tr>
-      <td>라온시큐어</td>
-      <td>19:10 선별</td>
-      <td>14,870원</td>
-      <td><strong>0.0%</strong> (변동 없음)</td>
-    </tr>
-  </tbody>
-</table>
-
-<ul>
-  <li><strong>주성엔지니어링</strong>: 52주 신고가를 넘긴 뒤에도 거래대금이 크게 유지된 점이 선별 근거였습니다. 저녁 시황 자료가 없어 시초가 방향은 판단할 수 없습니다.</li>
-  <li><strong>삼성SDI</strong>: 이차전지 대표 종목으로, 전일 외국인·기관이 함께 샀다는 점이 근거였습니다. 저녁에는 위아래로 오르내리며 방향이 뚜렷하지 않았습니다.</li>
-  <li><strong>삼성전기</strong>: 2,900억원 규모 공급계약 체결이 근거였습니다. 저녁에는 한때 <strong>-0.54%</strong>까지 내렸습니다.</li>
-  <li><strong>라온시큐어</strong>: 금융권 AI 해킹 사태로 전일 상한가를 기록했고, 저녁에도 가격 변동이 없었습니다. 보안 테마가 이어질지가 관건입니다.</li>
-</ul>
-
-<p>⚠️ <strong>이월 보유 — 삼성중공업</strong>: 9월 17일부터 계속 보유 중인 종목으로, AI 선별 밖 포지션입니다. 저녁 시간외에서 평단 대비 <strong>-7.59%~-7.96%</strong> 구간이었고, 기존 출구 계획을 유지한 채 시초가를 확인하는 단계입니다.</p>
-
-<p>저녁 시간외 수치는 정규장 시초가와 다를 수 있어, 오늘 시초가가 열려야 어제 판단의 결과가 확인됩니다.</p>
-
-<h2 id="-외국인은-왜--16조원이나-팔았을까">💸 외국인은 왜 -1.6조원이나 팔았을까?</h2>
-
-<p>어제 국내 수급은 이렇게 엇갈렸습니다. (외국인은 해외 자금을 운용하는 투자자, 기관은 연기금·펀드 등 큰 투자기관입니다.)</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>구분</th>
-      <th>순매수 (음수=순매도)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>외국인</td>
-      <td><strong>-1.6조원</strong></td>
-    </tr>
-    <tr>
-      <td>기관</td>
-      <td><strong>+677억원</strong></td>
-    </tr>
-    <tr>
-      <td>개인</td>
-      <td><strong>+5,767억원</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>외국인이 크게 팔고 개인이 받아낸 모습입니다. 매도 이유는 재료에 없어 판단할 수 없습니다. 다만 같은 날 코스피가 내리고 코스닥이 오른 것과 함께 보면, 대형주와 중소형주의 흐름이 갈렸던 하루였습니다.</p>
-
-<p>상승률 상위 테마는 아래와 같습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>테마</th>
-      <th>등락률</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>딥페이크</td>
-      <td><strong>+14.75%</strong></td>
-    </tr>
-    <tr>
-      <td>LED장비</td>
-      <td><strong>+10.56%</strong></td>
-    </tr>
-    <tr>
-      <td>보안주(정보)</td>
-      <td><strong>+7.56%</strong></td>
-    </tr>
-    <tr>
-      <td>리비안</td>
-      <td><strong>+7.45%</strong></td>
-    </tr>
-    <tr>
-      <td>반도체 기판</td>
-      <td><strong>+7.22%</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="-간밤-미국장은-어땠나">🇺🇸 간밤 미국장은 어땠나?</h2>
-
-<p>간밤 미국장은 주요 지수가 나란히 올랐습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>지수</th>
-      <th>등락률</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>다우존스</td>
-      <td><strong>+0.49%</strong></td>
-    </tr>
-    <tr>
-      <td>S&amp;P 500</td>
-      <td><strong>+0.58%</strong></td>
-    </tr>
-    <tr>
-      <td>나스닥 종합</td>
-      <td><strong>+0.45%</strong></td>
-    </tr>
-    <tr>
-      <td>나스닥 100</td>
-      <td><strong>+0.48%</strong></td>
-    </tr>
-    <tr>
-      <td>필라델피아 반도체</td>
-      <td><strong>+0.34%</strong></td>
-    </tr>
-    <tr>
-      <td>다우운송</td>
-      <td><strong>-0.45%</strong></td>
-    </tr>
-    <tr>
-      <td>VIX(공포지수)</td>
-      <td><strong>-3.29%</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>S&amp;P500과 나스닥은 사상 최고치를 새로 썼습니다. 국채금리가 5%대로 높은 가운데서도 AI 관련주가 지수를 끌었고, 3분기 실적 발표 시즌을 앞둔 기대감이 반영됐다는 보도입니다. 나스닥 종합은 <strong>+0.45%</strong> 상승했지만 장중 오른 폭을 일부 되돌린 채 마감했습니다. 다우운송만 <strong>-0.45%</strong>로 내렸습니다.</p>
-
-<p>VIX가 <strong>-3.29%</strong> 내려 <strong>15.01</strong>이 된 것은 시장 불안이 한결 누그러졌다는 신호로 볼 수 있습니다.</p>
-
-<h2 id="-오늘-꼭-알아야-할-뉴스는">📰 오늘 꼭 알아야 할 뉴스는?</h2>
-
-<p><strong>1. 삼성전자 3분기 실적, 내일(10/8) 발표</strong> — 분기 영업이익 <strong>100조원</strong> 돌파 여부가 관심입니다. HBM4 매출 확대 기대가 있는 반면, 원화 강세로 눈높이가 <strong>113조원에서 106조원</strong>으로 낮아졌다는 보도입니다. 호재와 악재가 섞여 있는 이벤트입니다.</p>
-
-<p><strong>2. 금융권 AI 해킹 사태로 보안주 급등</strong> — 샌즈랩·라온시큐어가 상한가, 안랩이 <strong>+15.58%</strong>를 기록했습니다. 보안·딥페이크 테마가 전일 상승률 1위였습니다. 거래대금이 이어지는지가 오늘의 확인 포인트입니다.</p>
-
-<p><strong>3. 코스닥 3개월 만에 900선 회복</strong> — 이차전지와 반도체 소부장(소재·부품·장비)이 반등했습니다. AI 투자 확대에 따른 실적 개선 기대가 대형주에서 중소형주로 번졌다는 해석입니다.</p>
-
-<p><strong>4. 미국 8월 무역적자 1,056억달러</strong> — 1년 5개월 만의 최대치로, 예상치(1,008억달러)를 웃돌았습니다. 수입이 <strong>+5.4%</strong> 늘었습니다.</p>
-
-<h2 id="️-오늘-시장의-기상도는-신중-구간">🌡️ 오늘 시장의 기상도는 신중 구간</h2>
-
-<p>오늘 시장 심리 점수는 <strong>55점</strong>(100점 만점, 높을수록 강세)으로, 시스템은 신중 구간으로 분류했습니다. 미국 지수는 올랐지만 신호가 엇갈리기 때문입니다.</p>
-
-<ul>
-  <li>미국 3대 지수는 올랐으나, 밤사이 한국 관련 지수(EWY)는 <strong>-2.64%</strong> 하락했습니다.</li>
-  <li>야간 선물은 S&amp;P500 <strong>+0.66%</strong>, 나스닥100 <strong>+0.58%</strong>로 올랐습니다.</li>
-  <li>전일 외국인이 <strong>-1.6조원</strong> 순매도했습니다.</li>
-</ul>
-
-<table>
-  <thead>
-    <tr>
-      <th>변수</th>
-      <th>수치</th>
-      <th>읽는 법</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>VIX</td>
-      <td>15.01</td>
-      <td>불안 완화</td>
-    </tr>
-    <tr>
-      <td>원/달러 환율</td>
-      <td>1,340.0원</td>
-      <td>전일 대비 <strong>-2.5원</strong>, 외국인 수급 부담은 낮은 수준</td>
-    </tr>
-    <tr>
-      <td>WTI 유가</td>
-      <td>89.94달러</td>
-      <td>85달러 위 구간 유지, 항공주 비용 부담 요인</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="-오늘-장중에-확인할-체크포인트">✅ 오늘 장중에 확인할 체크포인트</h2>
-
-<ul>
-  <li>시초가 갭 방향과 외국인 순매수 전환 여부</li>
-  <li>삼성전자 3분기 실적 발표 후 반도체 대형주 반응</li>
-  <li>보안·이차전지·반도체 기판 테마 거래대금 지속성</li>
-  <li>코스닥 900선 지지 강도 및 소부장 추가 상승 여부</li>
-  <li>내일 새벽 FOMC 회의록 통과 후 야간 선물 방향 변화</li>
-</ul>
-
-<p>일정도 챙겨둘 만합니다. 오늘은 10:05 연준 윌리엄스 위원 연설, 밤 23:30 미국 원유재고 발표가 있습니다. 내일은 새벽 03:00 FOMC 회의록, 밤 21:30 미국 신규 실업수당청구건수(예상 <strong>200K</strong>, 직전 <strong>197K</strong>)가 중요도 높음으로 분류돼 있습니다.</p>
-
-<h2 id="-제가-오늘-주목하는-것">🔎 제가 오늘 주목하는 것</h2>
-
-<p>오늘 아침 자료를 보며 가장 눈에 들어온 건 <strong>코스피와 코스닥이 반대로 움직인 점</strong>입니다. 지수는 내렸는데 외국인이 대형주를 판 하루였고, 그 사이 보안·기판 같은 개별 테마에는 자금이 몰렸습니다. 오늘은 방향보다 “어느 테마에 거래대금이 남아 있는가”를 확인하는 것이 시장을 읽는 단서가 될 것 같습니다. 어제 선별 종목들의 시초가 반응도 이 흐름과 함께 놓고 보면 이해가 쉬울 것입니다.</p>
-
-<h2 id="마무리">마무리</h2>
-
-<p>어제 선별 종목은 저녁 시간외에서 방향이 갈렸고, 오늘 시초가가 열려야 결과가 확인됩니다. 삼성전자 실적 발표를 앞두고 외국인 수급이 어떻게 바뀌는지가 오늘의 관전 포인트입니다. 💬 오늘 가장 눈여겨보는 테마가 있다면 댓글로 의견 나눠주세요. 이웃 추가를 해두시면 매일 아침 시장 점검을 받아보실 수 있어요.</p>
-
-<p>#코스닥 #삼성전자실적 #보안주 #반도체기판 #외국인순매도 #미국증시 #아침시황 #NextTheme #종가베팅</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[☕ 좋은 아침입니다. 어제 코스닥은 +2.98% 올라 919.92포인트로 마감했고, 코스피는 -0.89%로 6,941.39포인트였습니다. 같은 날인데 두 시장이 정반대로 움직였죠. 오늘 장 시작 전에 확인할 것들을 정리했습니다.]]></summary></entry></feed>
+<p>#종가베팅 #복기일지 #20261006 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-10-07 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
