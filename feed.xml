@@ -1,4 +1,120 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-10-12T10:57:28+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">10/8 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/12/review-20261008-review/" rel="alternate" type="text/html" title="10/8 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-10-12T09:00:00+09:00</published><updated>2026-10-12T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/12/review_20261008-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/12/review-20261008-review/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-10-12T20:06:24+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피·코스닥 동반 급락한 날, 해운주 팬오션에 자금이 몰린 이유 — 종가베팅 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/12/nt2-1505-snapshot/" rel="alternate" type="text/html" title="코스피·코스닥 동반 급락한 날, 해운주 팬오션에 자금이 몰린 이유 — 종가베팅 분석" /><published>2026-10-12T15:05:00+09:00</published><updated>2026-10-12T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/12/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/12/nt2-1505-snapshot/"><![CDATA[<p>📉 오늘 코스피와 코스닥이 <strong>함께 급락</strong>했습니다. 이런 날은 “그래서 돈은 어디로 갔을까?”가 가장 궁금해집니다.</p>
+
+<p>오늘 자금은 중동 지정학 리스크(중동 지역의 군사·정치적 긴장)를 배경으로 <strong>해운주</strong>에 모였습니다. 이 글은 AI가 최종 후보로 남긴 한 종목, <strong>팬오션</strong>을 왜 골랐는지 기록한 것입니다.</p>
+
+<hr />
+
+<h2 id="-오늘-시장은-어떤-하루였나">📊 오늘 시장은 어떤 하루였나?</h2>
+
+<ul>
+  <li>코스피·코스닥이 동반 급락한 약세장이었습니다.</li>
+  <li>약세장 속에서도 자금이 완전히 빠져나간 것은 아니었고, <strong>해운 업종</strong>으로만 집중됐습니다.</li>
+  <li>중동 지정학 리스크로 해운 운임(배로 화물을 실어 나르는 요금)이 오를 수 있다는 기대가 커진 흐름이었습니다.</li>
+</ul>
+
+<p>지수가 빠지는 날에도 돈이 몰리는 곳은 있습니다. 오늘 선별은 “무엇이 떨어졌나”보다 “무엇에 돈이 모였나”를 본 결과입니다.</p>
+
+<hr />
+
+<h2 id="-팬오션은-왜-후보로-남았을까">🔍 팬오션은 왜 후보로 남았을까?</h2>
+
+<p>AI가 남긴 종목은 <strong>팬오션 1개</strong>입니다. 해운 업종 대장주로, 오늘 <strong>해운 테마에서 1위</strong>였습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>항목</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>당일 종가 / 등락률</td>
+      <td><strong>6,460원</strong> / <strong>+7.1%</strong></td>
+    </tr>
+    <tr>
+      <td>거래대금 / 시총</td>
+      <td><strong>592억원</strong> / 3.5조원</td>
+    </tr>
+    <tr>
+      <td>주도 테마 / 테마내순위</td>
+      <td>해운 / 1위</td>
+    </tr>
+    <tr>
+      <td>RSI / RVOL / 이평수렴</td>
+      <td>63.0 / 3.4 / +0.1%</td>
+    </tr>
+    <tr>
+      <td>52주 신고가 / OBV</td>
+      <td>아님 / 중립</td>
+    </tr>
+    <tr>
+      <td>외인 순매수 / 기관 순매수</td>
+      <td>-34만 주 / +90만 주</td>
+    </tr>
+    <tr>
+      <td>호가신호</td>
+      <td>매수벽 강함</td>
+    </tr>
+    <tr>
+      <td>매출 YoY</td>
+      <td>+43.4%</td>
+    </tr>
+    <tr>
+      <td>최근 분기 실적</td>
+      <td>2026.09.: 매출 1.8조원 / 영업이익 1,844억원</td>
+    </tr>
+    <tr>
+      <td>AI 종합 점수</td>
+      <td>45점</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>표를 쉽게 풀어보면 이렇습니다.</p>
+
+<ul>
+  <li><strong>등락률 +7.1%</strong>: 지수가 급락한 날 해운 대장주가 이만큼 올랐다는 점이 눈에 띕니다.</li>
+  <li><strong>기관 +90만 주 순매수 / 외국인 -34만 주 순매도</strong>: 큰 투자기관(기관)은 산 쪽, 외국인은 판 쪽으로 두 주체의 방향이 엇갈렸습니다.</li>
+  <li><strong>RVOL 3.4</strong>: 평소 거래량의 약 3.4배가 거래됐다는 뜻입니다.</li>
+  <li><strong>매수벽 강함</strong>: 사려는 주문(매수 호가)이 두껍게 쌓여 있었다는 의미입니다.</li>
+  <li><strong>RSI 63.0</strong>: 과열 기준(보통 70~80 이상)에는 못 미치는 수준입니다.</li>
+</ul>
+
+<hr />
+
+<h2 id="-ai는-어떤-근거로-골랐나">🧭 AI는 어떤 근거로 골랐나?</h2>
+
+<p>AI 기록상 선별 근거는 크게 세 가지입니다.</p>
+
+<ol>
+  <li><strong>급락장에서도 자금이 집중된 대장주</strong>: 해운 테마에서 거래대금과 상승률이 모두 선두권이었습니다.</li>
+  <li><strong>호가 흐름</strong>: 매수 호가가 받쳐주고, 장중 고점에서 크게 밀리지 않은 채 마감했습니다.</li>
+  <li><strong>운임 기대라는 테마 배경</strong>: 중동 지정학 리스크로 운임 상승 기대가 커진 흐름과 같은 방향에 있었습니다.</li>
+</ol>
+
+<p>AI는 이 종목을 다음 장에서 시초가가 높게 시작할 수 있는 후보로 분류했습니다. 다만 이것은 선별 당시의 판단 기록일 뿐 결과가 정해진 것은 아닙니다. <strong>외국인은 순매도였다는 점, 시장 전체가 약세였다는 점, 그리고 지정학 이슈에 따라 분위기가 빠르게 바뀔 수 있다는 점</strong>은 함께 봐야 할 부분입니다.</p>
+
+<hr />
+
+<h2 id="-오늘-제가-주목한-것">💭 오늘 제가 주목한 것</h2>
+
+<p>지수가 급락하는 날에는 보통 거의 모든 종목이 같이 눌립니다. 그런 날 어떤 종목이 <strong>하락장에서도 테마 내 1위를 차지하며 올랐는지</strong>가 오히려 시장이 어디를 보고 있는지 알려준다고 생각합니다. 오늘은 그 답이 해운이었습니다. 내일 시장이 이 관심을 이어갈지는 장이 열려봐야 알 수 있습니다.</p>
+
+<hr />
+
+<h2 id="-정리">✅ 정리</h2>
+
+<ul>
+  <li>코스피·코스닥 동반 급락, 자금은 해운 업종에 집중</li>
+  <li>최종 후보는 <strong>팬오션 1종목</strong> (해운 1위, 거래대금 592억원, +7.1%)</li>
+  <li>기관 순매수·외국인 순매도로 수급은 엇갈렸고, 호가에는 매수벽이 강했음</li>
+  <li>모든 내용은 AI의 선별 기록이며 매수·매도 권유가 아닙니다</li>
+</ul>
+
+<p>내일 장에서 이 흐름이 어떻게 이어지는지도 기록해 두겠습니다. 오늘 시장을 어떻게 보셨는지 댓글로 의견 나눠주세요. 💬</p>
+
+<p>#팬오션 #해운주 #해운 #중동지정학 #코스피급락 #코스닥급락 #거래대금 #NextTheme #종가베팅</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[📉 오늘 코스피와 코스닥이 함께 급락했습니다. 이런 날은 “그래서 돈은 어디로 갔을까?”가 가장 궁금해집니다.]]></summary></entry><entry><title type="html">10/8 종가베팅 — AI 선별 vs 비선별 시초가 갭</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/12/review-20261008-review/" rel="alternate" type="text/html" title="10/8 종가베팅 — AI 선별 vs 비선별 시초가 갭" /><published>2026-10-12T09:00:00+09:00</published><updated>2026-10-12T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/12/review_20261008-review</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/12/review-20261008-review/"><![CDATA[<blockquote>
   <p>데이터 기준: 2026-10-12 10:03 키움 ka10001 일괄 조회</p>
 </blockquote>
 
@@ -1628,106 +1744,4 @@ AI가 최종 판단한 결과를 텔레그램으로 보내드립니다.</p>
 <p>👉 <strong>입장하기</strong> : https://t.me/next_theme</p>
 
 <p>⚠️ 투자 자문이나 종목 추천이 아닌 데이터 분석 참고 자료입니다.
-수익을 보장하지 않으며, 모든 투자 판단과 책임은 본인에게 있습니다.</p>]]></content><author><name>NextTheme</name></author><category term="video-stock" /><summary type="html"><![CDATA[코스피가 전주 모든 이동평균선과 볼린저밴드 하단을 깨고 내려왔습니다. 이 하락을 그냥 ‘싸졌다’로 볼지, 아니면 위험신호로 볼지 가르는 기준은 무엇일까요?]]></summary></entry><entry><title type="html">보조지표보다 섹터 정렬이 먼저라는 트레이더의 조언은 무엇일까</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/11/video-trader-zh-jtal0awo-video-stock/" rel="alternate" type="text/html" title="보조지표보다 섹터 정렬이 먼저라는 트레이더의 조언은 무엇일까" /><published>2026-10-11T09:00:00+09:00</published><updated>2026-10-11T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/11/video_trader_zH_jTal0Awo-video-stock</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/11/video-trader-zh-jtal0awo-video-stock/"><![CDATA[<p>2년차 초보 트레이더에게 한 베테랑 트레이더가 매매법을 통째로 뜯어고치라고 말합니다. 그가 가장 먼저 끊으라고 지적한 건 무엇일까요.</p>
-
-<p>이 글은 <a href="https://youtu.be/zH_jTal0Awo?si=gICAalPujClatHHz">@thetrading2021</a> 채널의 영상을 바탕으로 정리했습니다.</p>
-
-<h2 id="이-트레이더는-어떻게-매매할까">이 트레이더는 어떻게 매매할까</h2>
-
-<p>유하트는 청주 출장 솔루션에서 만난 2년차 트레이더에게 아침 돌파매매를 아예 그만두라고 말합니다. 그는 돌파매매를 잘하는 사람은 생각과 다르게 움직이면 즉시 손절하는데, 손절을 못 하면 그게 큰 손실로 번진다고 짚으며, 실력이 안 되면 손절도 못 하니 차라리 돌파 시도 자체를 하지 말라고 조언합니다. 그 대안으로 그는 돌파 시점이 아니라 눌림이 나오는 지지구간, 이른바 F존에서 매수하라고 권합니다. 돌파 가격보다 F존에서 사면 이미 수익권에 들어가 있는 경우가 많다는 설명입니다.</p>
-
-<p>그는 장중 매수세가 약하고 특별한 이슈가 없는 종목은 장중에 사지 않는다고 말합니다. 대신 삼성전자를 예로 들며, 자신이 미리 정해둔 지지라인(B2 라인)까지 가격이 내려오면 정규장이 끝난 뒤 NXT 애프터마켓 시간대에 그 라인에서 매수한다고 설명합니다.</p>
-
-<p>유하트는 하루 <strong>7~8%</strong> 수익을 노리는 큰 한 번 매매를 쫓지 말라고 말합니다. 대신 <strong>3~4%</strong>를 꾸준히 먹는 매매를 목표로 삼으라고 강조하며, 이렇게 작은 수익도 쌓이면 직장인 월급보다 커질 수 있다고 설명합니다.</p>
-
-<p>그는 관심종목을 반도체·로봇처럼 섹터별로 묶어서 정렬하라고 말합니다. 섹터 안에서 등락률이 높은 종목을 맨 위에 두고 거래대금을 같이 적어두면 어떤 섹터가 실제로 강한지 한눈에 비교할 수 있다는 설명입니다. 섹터를 섞어놓으면(그의 표현으로는 ‘짬뽕’) 어떤 섹터가 잘나가는지 보이지 않는다고 지적합니다.</p>
-
-<p>또한 그는 어떤 종목이 상한가를 기록했을 때, 과거에 상한가를 찍은 뒤 다음날 시가가 몇 % 뜨는지를 하나씩 찾아보라고 말합니다. 이 이력을 보면 그 종목의 연속성과 다음날 수익 패턴을 판단할 수 있다는 설명입니다.</p>
-
-<p>마지막으로 그는 시장이 안 좋아 주도주가 뚜렷하게 보이지 않을 때는 억지로 매매하지 말고 기다리라고 말합니다. 지금 예수금을 지켜야 다음 상승장이 왔을 때 매매할 돈이 남는다는 이유입니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>기법</th>
-      <th>실행 방법</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>돌파매매 중단</td>
-      <td>실력 부족을 인정하고 아침 돌파매매를 접는다</td>
-    </tr>
-    <tr>
-      <td>F존 매수 전환</td>
-      <td>돌파 대신 눌림 지지구간(F존)에서 진입한다</td>
-    </tr>
-    <tr>
-      <td>꾸준한 수익 추구</td>
-      <td>7~8% 대박보다 3~4%를 반복해 쌓는다</td>
-    </tr>
-    <tr>
-      <td>NXT 저가 매수</td>
-      <td>애프터마켓에서 지정 지지라인 도달 시만 매수</td>
-    </tr>
-    <tr>
-      <td>관심종목 섹터 정렬</td>
-      <td>섹터별로 묶어 등락률·거래대금을 비교</td>
-    </tr>
-    <tr>
-      <td>상한가 이력 조회</td>
-      <td>과거 상한가 종목의 익일 시가 흐름을 확인</td>
-    </tr>
-    <tr>
-      <td>무리 없으면 쉬기</td>
-      <td>주도주가 안 보이면 매매 없이 예수금을 지킨다</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="이-트레이더는-시황과-종목을-어떻게-볼까">이 트레이더는 시황과 종목을 어떻게 볼까</h2>
-
-<p>유하트는 보조지표 자체로는 수익이 나지 않는다고 말합니다. 그는 수익이 지금 인기 있는 테마이자 사람들이 많이 보는 주도주인지 여부에서 나온다고 설명하며, 등락률 순위 1·2등 종목이 같은 섹터에 몰려 있으면 그 섹터가 시장을 주도한다는 신호로 읽습니다. 다만 등락률이 비슷해도 거래대금이 비교 종목의 10분의 1도 안 되면 주도주가 아니라고 봅니다.</p>
-
-<p>저점을 판별할 때는 쌍바닥을 기본으로 보고, 하락분의 절반만 되돌리고 다시 오르는 N자형 파동, 급락 뒤에는 급등이 온다고 보는 패턴도 함께 참고합니다. 한 번 바닥이라 생각한 지점이 악재로 깨지면 아직 진짜 저점이 아니라고 보고, 같은 지점을 다시 눌렀을 때 무너지지 않아야 그제서야 진바닥으로 확인한다고 말합니다. 신규 종목을 고를 때는 거래대금이 이 트레이더가 영상에서 언급한 수치로 <strong>300억</strong> 수준이면 작다고 보고 제외하며, 오늘 실적발표 등 남은 이슈가 있는 종목은 상대적으로 덜 떨어진다고 봅니다. 무엇보다 뚜렷한 주도주가 안 보이면 신규 진입 자체를 하지 않는다고 강조합니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>관찰 포인트</th>
-      <th>읽는 법</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>등락률 순위 상위 종목</td>
-      <td>같은 섹터에 몰리면 그 섹터가 주도섹터</td>
-    </tr>
-    <tr>
-      <td>섹터별 거래대금</td>
-      <td>대금이 적으면 등락률만 높아도 주도주 아님</td>
-    </tr>
-    <tr>
-      <td>보조지표</td>
-      <td>수익 요인이 아니라 주도주 여부가 핵심</td>
-    </tr>
-    <tr>
-      <td>쌍바닥·N자파동·급락후 패턴</td>
-      <td>저점과 반등 시점을 판별하는 기준</td>
-    </tr>
-    <tr>
-      <td>저점 재테스트</td>
-      <td>같은 지점이 안 무너져야 진바닥으로 확인</td>
-    </tr>
-    <tr>
-      <td>거래대금·이슈·주도주 여부</td>
-      <td>신규 진입 종목을 거르는 기준</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="종합--이-방법론에서-눈에-띈-점">종합 — 이 방법론에서 눈에 띈 점</h2>
-
-<p>이 영상에서 눈에 띈 점은, 그가 2년차 트레이더에게 기술적 지표를 더 배우라고 하지 않고 오히려 매매 자체를 줄이라고 말한다는 점입니다. 돌파매매를 금지하고 눌림목으로 전환하고, 심지어 장중 매수를 접고 애프터마켓으로 미루는 조언들은 모두 ‘덜 하는 것’을 향하고 있습니다. 섹터를 정렬해서 주도주를 가려내는 방법도 결국 판단할 대상을 줄여 놓고 보자는 접근으로 읽힙니다. 큰 수익 한 번보다 3~4%를 반복하자는 메시지 역시, 이 방법론의 중심이 ‘더 잘 맞추는 기술’이 아니라 ‘실력에 맞는 범위를 스스로 정하는 태도’에 있다는 인상을 줍니다.</p>
-
-<p>#NextTheme #더트레이딩TV #돌파매매 #F존매매 #섹터별정렬 #NXT애프터마켓 #꾸준한수익 #주식매매법</p>]]></content><author><name>NextTheme</name></author><category term="video-stock" /><summary type="html"><![CDATA[2년차 초보 트레이더에게 한 베테랑 트레이더가 매매법을 통째로 뜯어고치라고 말합니다. 그가 가장 먼저 끊으라고 지적한 건 무엇일까요.]]></summary></entry></feed>
+수익을 보장하지 않으며, 모든 투자 판단과 책임은 본인에게 있습니다.</p>]]></content><author><name>NextTheme</name></author><category term="video-stock" /><summary type="html"><![CDATA[코스피가 전주 모든 이동평균선과 볼린저밴드 하단을 깨고 내려왔습니다. 이 하락을 그냥 ‘싸졌다’로 볼지, 아니면 위험신호로 볼지 가르는 기준은 무엇일까요?]]></summary></entry></feed>
