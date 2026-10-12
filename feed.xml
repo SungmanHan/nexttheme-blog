@@ -1,4 +1,334 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-10-12T20:06:24+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피·코스닥 동반 급락한 날, 해운주 팬오션에 자금이 몰린 이유 — 종가베팅 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/12/nt2-1505-snapshot/" rel="alternate" type="text/html" title="코스피·코스닥 동반 급락한 날, 해운주 팬오션에 자금이 몰린 이유 — 종가베팅 분석" /><published>2026-10-12T15:05:00+09:00</published><updated>2026-10-12T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/12/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/12/nt2-1505-snapshot/"><![CDATA[<p>📉 오늘 코스피와 코스닥이 <strong>함께 급락</strong>했습니다. 이런 날은 “그래서 돈은 어디로 갔을까?”가 가장 궁금해집니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-10-12T21:02:14+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 -3.65%·코스닥 -4.83% 동반 급락, 해운주만 오른 하루 — 팬오션 선별 결과와 마감 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/12/daily/" rel="alternate" type="text/html" title="코스피 -3.65%·코스닥 -4.83% 동반 급락, 해운주만 오른 하루 — 팬오션 선별 결과와 마감 정리" /><published>2026-10-12T21:00:00+09:00</published><updated>2026-10-12T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/12/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/12/daily/"><![CDATA[<p>📉 오늘(10월 12일) 증시는 한마디로 <strong>“거의 모든 게 내렸고, 해운만 올랐다”</strong>는 하루였습니다. 코스피와 코스닥이 함께 큰 폭으로 밀렸고, 시가총액 상위 대형주들도 줄줄이 하락했어요. 이런 날은 “내 종목만 왜 이러나” 싶어 마음이 무겁죠. 숫자로 차분히 정리해 봅니다.</p>
+
+<hr />
+
+<h2 id="-어제-ai-선별은-오늘-아침-어떻게-됐을까">🔍 어제 AI 선별은 오늘 아침 어떻게 됐을까?</h2>
+
+<p>복기는 맞았든 틀렸든 그대로 적습니다. 어제 AI가 골랐던 두 종목의 오늘 아침(08:00~09:59) 실제 흐름입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>오늘 아침 갭(진입가 대비)</th>
+      <th>세션 중 최고</th>
+      <th>세션 중 최저</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>주성엔지니어링</td>
+      <td><strong>0.0%</strong></td>
+      <td>+1.3%</td>
+      <td>-5.6%</td>
+    </tr>
+    <tr>
+      <td>삼성중공업</td>
+      <td><strong>-14.4%</strong></td>
+      <td>-11.0%</td>
+      <td>-14.5%</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li><strong>주성엔지니어링</strong>은 시작가가 기준가와 같았고, 이후 +1.3%까지 올랐다가 -5.6%까지 밀리는 등 변동폭이 컸습니다.</li>
+  <li><strong>삼성중공업</strong>은 기준가보다 <strong>14.4% 낮게</strong> 시작했고, 관측 구간 내내 -11% 아래에 머물렀습니다. 어제 선별 가운데 가장 아픈 결과입니다.</li>
+</ul>
+
+<p>여기서 말하는 갭은 갭 모니터에 기록된 <strong>진입가 대비</strong> 수치이며, 종가나 평단 기준의 손익으로 단정할 수는 없습니다.</p>
+
+<p>오늘 애프터마켓(15:40~19:59)에도 삼성중공업은 진입가 대비 <strong>-16.3%</strong>(구간 최고 -15.8%, 최저 -16.5%)로 약세가 이어졌습니다. 이 수치는 확정이 아닌 <strong>잠정 흐름</strong>입니다.</p>
+
+<hr />
+
+<h2 id="-오늘-코스피코스닥은-얼마나-빠졌나">📊 오늘 코스피·코스닥은 얼마나 빠졌나?</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>지수</th>
+      <th>종가</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>코스피</td>
+      <td><strong>6,384.24포인트</strong></td>
+      <td><strong>-3.65%</strong></td>
+    </tr>
+    <tr>
+      <td>코스닥</td>
+      <td><strong>849.19포인트</strong></td>
+      <td><strong>-4.83%</strong></td>
+    </tr>
+    <tr>
+      <td>원/달러 환율</td>
+      <td><strong>1,333.2원</strong></td>
+      <td>—</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>최근 흐름을 보면 코스피는 9월 23일 <strong>7,080.92</strong>를 찍은 뒤 10월 7일 6,803.90, 10월 8일 6,625.93으로 내려왔고, 오늘 6,384.24로 마감했습니다. 9월 23일 종가와 비교하면 약 <strong>9.8% 낮은</strong> 수준입니다.</p>
+
+<p>코스닥도 10월 6일 919.92까지 올랐다가 오늘 849.19로 내려앉았습니다.</p>
+
+<h3 id="-누가-팔고-누가-샀을까">🧾 누가 팔고 누가 샀을까?</h3>
+
+<p>처음 등장하는 용어부터 풀면, <strong>외국인</strong>은 해외 투자자, <strong>기관</strong>은 연기금·펀드 같은 큰 투자기관, <strong>개인</strong>은 일반 투자자입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>투자 주체</th>
+      <th>순매수·순매도</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>외국인</td>
+      <td><strong>-2.5조원</strong> (순매도)</td>
+    </tr>
+    <tr>
+      <td>기관</td>
+      <td><strong>-5,430억원</strong> (순매도)</td>
+    </tr>
+    <tr>
+      <td>개인</td>
+      <td><strong>+2.4조원</strong> (순매수)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>외국인과 기관이 판 물량을 개인이 받아낸 모양새입니다.</p>
+
+<h3 id="️-아침-브리핑은-어땠나">☀️ 아침 브리핑은 어땠나?</h3>
+
+<p>오늘 아침 6시 브리핑은 지난 금요일 밤 미국장이 다우 +0.83%, S&amp;P500 +0.59%, 나스닥 +0.64%로 올랐고 야간 선물도 강세라 “월요일 반등 개장”을 예상했습니다. 다만 같은 글에서 전일 외국인·기관 대규모 순매도의 여파로 <strong>시초가만 오르고 장중에 밀리는 패턴을 주의</strong>하라고 짚었어요. 실제 장은 반등 없이 하락했습니다. 아침 시점의 예상과 마감 결과가 달랐다는 점은 기록해 둡니다.</p>
+
+<hr />
+
+<h2 id="-거래대금이-몰린-종목은-어디였나">💸 거래대금이 몰린 종목은 어디였나?</h2>
+
+<p>오늘 거래대금 상위 10개 종목은 <strong>전부 하락</strong>했습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>순위</th>
+      <th>종목</th>
+      <th>거래대금</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>SK하이닉스</td>
+      <td><strong>5.9조원</strong></td>
+      <td>-4.22%</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>삼성전자</td>
+      <td><strong>5.8조원</strong></td>
+      <td>-4.39%</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>삼성전기</td>
+      <td><strong>1.2조원</strong></td>
+      <td>-4.20%</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>SK스퀘어</td>
+      <td><strong>9,494억원</strong></td>
+      <td>-6.19%</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>삼성SDI</td>
+      <td><strong>6,001억원</strong></td>
+      <td>-1.41%</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>삼성전자우</td>
+      <td><strong>5,752억원</strong></td>
+      <td>-3.97%</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>LG이노텍</td>
+      <td><strong>3,847억원</strong></td>
+      <td>-15.38%</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>주성엔지니어링</td>
+      <td><strong>3,845억원</strong></td>
+      <td>-4.86%</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>두산에너빌리티</td>
+      <td><strong>3,519억원</strong></td>
+      <td>-8.33%</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>LG전자</td>
+      <td><strong>3,425억원</strong></td>
+      <td>-7.73%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>거래는 많았지만 방향은 모두 아래였습니다. 특히 LG이노텍이 <strong>-15.38%</strong>로 가장 큰 낙폭을 보였습니다.</p>
+
+<h3 id="-올라간-테마는-해운뿐">🚢 올라간 테마는 해운뿐?</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>순위</th>
+      <th>테마</th>
+      <th>상승 종목 수 / 전체 종목 수</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>해운</td>
+      <td><strong>5 / 6</strong></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>은행</td>
+      <td>3 / 11</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>건설 중소형</td>
+      <td>5 / 26</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>시멘트/레미콘</td>
+      <td>6 / 15</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>손해보험</td>
+      <td>5 / 8</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>STO(토큰증권 발행)</td>
+      <td>1 / 25</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>해운 테마는 6개 종목 중 5개가 올랐습니다. AI의 선별 기록에는 중동 지정학 리스크가 거론되며 해운 운임 관련 자금이 모였다는 해석이 담겨 있습니다.</p>
+
+<hr />
+
+<h2 id="-오늘-ai가-고른-종목은-팬오션-한-곳-이유는">🎯 오늘 AI가 고른 종목은 팬오션 한 곳, 이유는?</h2>
+
+<p>오늘 최종 선별은 <strong>팬오션 1종목</strong>이었고, 시장 전반이 약했던 만큼 종가 선별 등급은 가장 보수적인 경계 단계였습니다. AI의 한 줄 요약은 “코스피·코스닥이 동반 급락한 약세장에서 중동 지정학 리스크로 해운주로만 자금이 집중됐다”입니다.</p>
+
+<p>AI 기록상 선별 근거는 이렇습니다.</p>
+
+<ul>
+  <li>급락장에서도 해운 대장주로 자금이 모였다</li>
+  <li>매수 호가(사려는 주문)가 받쳐주는 모습이 확인됐다</li>
+  <li>장중 고점에서 크게 밀리지 않고 마감했다</li>
+</ul>
+
+<p>이는 알고리즘의 선별 기록일 뿐, 매수를 권하는 글이 아닙니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>항목</th>
+      <th>팬오션</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>당일 종가 / 등락률</td>
+      <td>6,460원 / <strong>+7.13%</strong></td>
+    </tr>
+    <tr>
+      <td>거래대금 / 시총</td>
+      <td>592억원 / 3.5조원</td>
+    </tr>
+    <tr>
+      <td>주도 테마 / 테마 내 순위</td>
+      <td>해운 / 1위</td>
+    </tr>
+    <tr>
+      <td>RSI / RVOL</td>
+      <td>63.0 / 3.4</td>
+    </tr>
+    <tr>
+      <td>이평수렴</td>
+      <td>+0.1%</td>
+    </tr>
+    <tr>
+      <td>OBV</td>
+      <td>중립</td>
+    </tr>
+    <tr>
+      <td>외국인 순매수</td>
+      <td>-34만 주</td>
+    </tr>
+    <tr>
+      <td>기관 순매수</td>
+      <td>+90만 주</td>
+    </tr>
+    <tr>
+      <td>호가신호</td>
+      <td>매수벽 강함</td>
+    </tr>
+    <tr>
+      <td>매출 YoY</td>
+      <td>+43.4%</td>
+    </tr>
+    <tr>
+      <td>최근 분기 실적</td>
+      <td>2026.09. 매출 1.8조원 / 영업이익 1,844억원</td>
+    </tr>
+    <tr>
+      <td>AI 종합 점수</td>
+      <td>45점</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>쉽게 읽는 법</strong>: 같은 날 외국인은 34만 주를 팔았고 기관은 90만 주를 샀습니다. 거래량이 평소의 약 3.4배(RVOL 3.4)로 몰렸다는 것도 눈에 띕니다. 애프터마켓 잠정 흐름은 +1.4%였지만 확정 수치가 아니며, 실제 결과는 내일 아침 장에서 확인됩니다.</p>
+
+<hr />
+
+<h2 id="-오늘-제가-주목한-것은">💭 오늘 제가 주목한 것은…</h2>
+
+<p>오늘 가장 눈에 들어온 건 <strong>“하락장에서도 돈이 갈 곳을 찾는다”</strong>는 점입니다. 거래대금 상위 10종목이 전부 내렸는데, 해운 한 테마만 6개 중 5개가 올랐죠. 한편 어제 선별 종목의 복기에서는 삼성중공업이 큰 갭 하락을 겪었습니다. 약세장에서는 한 테마의 강세가 오래 이어지는지, 아니면 하루로 끝나는지가 관건이라고 생각해요. 이 글은 방향을 예측하지 않고 오늘의 기록만 남깁니다.</p>
+
+<hr />
+
+<h2 id="️-오늘을-한-줄로-기록한다면">✍️ 오늘을 한 줄로 기록한다면</h2>
+
+<blockquote>
+  <p><strong>“급락장에서도 자금은 해운으로 모였고, 어제의 선별은 큰 갭 하락으로 돌아왔다.”</strong></p>
+</blockquote>
+
+<p>시장이 크게 흔들린 날일수록 숫자를 있는 그대로 남겨 두는 게 중요하다고 생각합니다. 내일 아침 팬오션의 실제 갭은 이 블로그의 복기 코너에서 그대로 공유하겠습니다. 오늘 시장을 보며 느낀 점이나 궁금한 종목은 댓글로 남겨 주세요. 이웃 추가를 해두시면 매일 마감 정리를 받아보실 수 있어요. 🙌</p>
+
+<p>#NextTheme #종가베팅 #코스피급락 #코스닥급락 #팬오션 #해운주 #삼성중공업 #주성엔지니어링 #SK하이닉스 #삼성전자 #하루마감 #증시마감</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[📉 오늘(10월 12일) 증시는 한마디로 “거의 모든 게 내렸고, 해운만 올랐다”는 하루였습니다. 코스피와 코스닥이 함께 큰 폭으로 밀렸고, 시가총액 상위 대형주들도 줄줄이 하락했어요. 이런 날은 “내 종목만 왜 이러나” 싶어 마음이 무겁죠. 숫자로 차분히 정리해 봅니다.]]></summary></entry><entry><title type="html">코스피·코스닥 동반 급락한 날, 해운주 팬오션에 자금이 몰린 이유 — 종가베팅 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/12/nt2-1505-snapshot/" rel="alternate" type="text/html" title="코스피·코스닥 동반 급락한 날, 해운주 팬오션에 자금이 몰린 이유 — 종가베팅 분석" /><published>2026-10-12T15:05:00+09:00</published><updated>2026-10-12T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/12/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/12/nt2-1505-snapshot/"><![CDATA[<p>📉 오늘 코스피와 코스닥이 <strong>함께 급락</strong>했습니다. 이런 날은 “그래서 돈은 어디로 갔을까?”가 가장 궁금해집니다.</p>
 
 <p>오늘 자금은 중동 지정학 리스크(중동 지역의 군사·정치적 긴장)를 배경으로 <strong>해운주</strong>에 모였습니다. 이 글은 AI가 최종 후보로 남긴 한 종목, <strong>팬오션</strong>을 왜 골랐는지 기록한 것입니다.</p>
 
@@ -1627,121 +1957,4 @@ AI가 최종 판단한 결과를 텔레그램으로 보내드립니다.</p>
 <p>👉 <strong>입장하기</strong> : https://t.me/next_theme</p>
 
 <p>⚠️ 투자 자문이나 종목 추천이 아닌 데이터 분석 참고 자료입니다.
-수익을 보장하지 않으며, 모든 투자 판단과 책임은 본인에게 있습니다.</p>]]></content><author><name>NextTheme</name></author><category term="video-stock" /><summary type="html"><![CDATA[코스피가 3000에서 9000까지 오른 게 오히려 환율을 끌어올린 원인이라면, 보통 알고 있는 인과관계와는 반대 방향이지 않을까요?]]></summary></entry><entry><title type="html">코스피가 밀릴 때, 외국인 수급과 금리를 어떻게 읽어야 할까</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/11/video-economy-s8rad4zl6-o-video-stock/" rel="alternate" type="text/html" title="코스피가 밀릴 때, 외국인 수급과 금리를 어떻게 읽어야 할까" /><published>2026-10-11T09:00:00+09:00</published><updated>2026-10-11T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/11/video_economy_S8Rad4zL6_o-video-stock</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/11/video-economy-s8rad4zl6-o-video-stock/"><![CDATA[<p>코스피가 전주 모든 이동평균선과 볼린저밴드 하단을 깨고 내려왔습니다. 이 하락을 그냥 ‘싸졌다’로 볼지, 아니면 위험신호로 볼지 가르는 기준은 무엇일까요?</p>
-
-<p>이 글은 <a href="https://youtu.be/S8Rad4zL6_o?si=m_I1O5JotZWysKGO">@rsangmoo</a> 채널의 영상을 바탕으로 정리했습니다.</p>
-
-<h2 id="이-영상은-시황을-어떻게-해석하라고-말하는가">이 영상은 시황을 어떻게 해석하라고 말하는가</h2>
-
-<p>이 채널은 지수·금리·수급 같은 숫자를 매일 추적해 감정적 판단을 줄이는 걸 목표로 한다고 소개합니다. 아래는 이번 영상이 제시한 해석 틀을 영역별로 정리한 것입니다.</p>
-
-<h3 id="가격기술-신호를-어떻게-읽는가">가격·기술 신호를 어떻게 읽는가</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>보는 지표·신호</th>
-      <th>해석하는 법</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>볼린저밴드 상단·하단 터치</td>
-      <td>이 영상은 볼린저밴드를 모멘텀 지표로 봐야 한다고 말합니다. 터치 후 바로 중심선으로 돌아오면 안전하지만, 터치 후에도 그 방향으로 계속 밀리는 힘이 보이면 추가 움직임 가능성을 고민해야 한다고 설명합니다.</td>
-    </tr>
-    <tr>
-      <td>20주 이동평균선 상회 여부</td>
-      <td>이 영상은 20주선 아래에 머무는 동안은 여전히 불안정한 구간이고, 20주선을 뚫고 올라서야 안정권에 들어간 것으로 판단한다고 말합니다(예시로 든 삼성전자의 20주선 구간은 당시 발화 기준 28만~29만원대였습니다).</td>
-    </tr>
-    <tr>
-      <td>‘조정’이라는 용어 사용</td>
-      <td>이 영상은 하락을 ‘조정’이라고 부르는 것 자체가 이미 상승 쪽으로 편향된 표현이라고 지적합니다. 이런 언어적 왜곡을 인지하고 더 객관적으로 보려는 태도가 실수를 줄인다고 말합니다.</td>
-    </tr>
-  </tbody>
-</table>
-
-<h3 id="수급과-투자자-심리를-어떻게-읽는가">수급과 투자자 심리를 어떻게 읽는가</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>보는 지표·신호</th>
-      <th>해석하는 법</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>외국인 순매수·순매도 추이(주간)</td>
-      <td>이 영상은 외국인이 계속 순매도 중이면 적극적인 매수세가 없다고 보고, 외국인이 매수로 전환하는 순간을 시장의 큰 방향 전환 신호로 가장 중요하게 본다고 말합니다. 개인 수급은 외국인만큼의 힘이 없다고 설명합니다.</td>
-    </tr>
-    <tr>
-      <td>개인 투자자의 가격 반응 패턴</td>
-      <td>이 영상은 개인이 지수가 하락하면 ‘싸졌다’고 반응해 매수하고, 반대로 상승할 때는 ‘비싸졌다’가 아니라 ‘밸류를 찾아간다’고 해석하는 비대칭적 편향을 보인다고 짚습니다.</td>
-    </tr>
-    <tr>
-      <td>원달러 환율과 코스피의 상관관계 방향</td>
-      <td>이 영상은 ‘외국인이 사들어와서 주가가 오른다’는 통상적 가정과 반대로, 주가가 오르면 외국인이 팔기 시작해 원화가 약해지고 주가가 빠지면 반대로 원화가 강해지는 역방향 인과가 나타날 수 있다고 말합니다. 환율과 지수의 상관관계를 기계적으로 전제하지 말라는 설명입니다.</td>
-    </tr>
-  </tbody>
-</table>
-
-<h3 id="펀더멘털-신호를-어떻게-읽는가">펀더멘털 신호를 어떻게 읽는가</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>보는 지표·신호</th>
-      <th>해석하는 법</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>금리와 주가의 관계</td>
-      <td>이 영상은 금리를 시장 하락의 ‘원인’이 아니라, AI 수익성에 대한 확신·중간선거·이란 관련 긴장 같은 더 근본적인 펀더멘털 변화를 보여주는 ‘증상’으로 해석해야 한다고 반복해서 강조합니다. 금리 단독 뉴스에 과민반응하지 말라는 설명입니다.</td>
-    </tr>
-    <tr>
-      <td>기업 실적과 밸류에이션의 관계</td>
-      <td>이 영상은 주가가 기업의 현재 가치가 아니라 미래에 대한 기대를 거래하는 것이고, 그 기대를 가장 강하게 흔드는 요소가 실적이라서 실적 발표 전후의 기대 변화를 핵심적으로 추적해야 한다고 말합니다.</td>
-    </tr>
-    <tr>
-      <td>채권·CDS 가격을 통한 신용위험 확인</td>
-      <td>이 영상은 엔비디아가 생태계 지배를 위해 과도한 보증(우발부채)을 늘리면서 자사 채권가격이 떨어지고 CDS(디폴트 보험료) 가격이 비싸지는 것을, 시장이 신용위험을 반영하고 있는 신호로 읽어야 한다고 설명합니다.</td>
-    </tr>
-    <tr>
-      <td>선주문·선분양식 매출 구조</td>
-      <td>이 영상은 오라클 매출의 상당 부분이 오픈AI와의 장기 컴퓨팅 선주문 계약에 기반한 것이고, 이를 담보로 채권·대출을 끌어오는 구조가 ‘선분양’ 방식과 같다고 설명합니다. AI 매출 실현이 지연되면 이 구조가 현금흐름 리스크로 번질 수 있다고 봅니다.</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="눈에-띈-해석-틀">눈에 띈 해석 틀</h2>
-
-<p>제가 이 영상에서 특히 눈에 걸린 부분은, 환율과 주가의 관계를 뒤집어서 보는 시선입니다. ‘외국인이 사니까 주가가 오른다’는 통상적 설명을 그대로 받아들이면 지수와 환율을 한 방향 지표로 묶어 보기 쉬운데, 이 영상은 주가가 오를 때 외국인이 오히려 팔아 원화가 약해지는 역방향 가능성을 짚습니다. 금리도 마찬가지로, 숫자 자체보다 그 숫자가 가리키는 더 근본적인 변화를 먼저 물어야 한다는 태도가 인상적이었습니다. 어떤 지표든 그 지표가 ‘원인’인지 ‘증상’인지를 먼저 구분하는 습관이, 뉴스 제목 하나에 일희일비하지 않는 가장 기본적인 방어선이 아닐까 싶습니다.</p>
-
-<h2 id="숫자보다-먼저-물어야-할-질문">숫자보다 먼저 물어야 할 질문</h2>
-
-<p>이 영상이 반복해서 강조하는 건 결국 하나입니다. 지수가 흔들릴 때 가장 먼저 봐야 할 건 특정 숫자가 아니라, 그 숫자가 가리키는 방향(외국인 수급의 전환 여부)과 그 숫자의 성격(원인인지 증상인지)이라는 점입니다.</p>
-
-<p>#NextTheme #지표추적자 #코스피 #외국인수급 #금리해석 #볼린저밴드 #원달러환율</p>
-
-<hr />
-
-<p>🎬 <strong>원문 영상</strong> : https://youtu.be/S8Rad4zL6_o?si=m_I1O5JotZWysKGO</p>
-
-<hr />
-
-<p>📡 <strong>넥스트테마 (nextTheme)</strong>
-국내 주식 알림 시스템 · 현재 무료</p>
-
-<p>거래대금 · 기관 · 외국인 수급을 교차 분석해
-당일 주도 테마와 종목을 추려내고,
-AI가 최종 판단한 결과를 텔레그램으로 보내드립니다.</p>
-
-<p>💰 <strong>이용료</strong>
-가입비 · 구독료 없음. 채널 입장만 하면 알림을 받습니다.
-(개인 개발 프로젝트로, 베타 기간 무료 공개 중입니다)</p>
-
-<p>👉 <strong>입장하기</strong> : https://t.me/next_theme</p>
-
-<p>⚠️ 투자 자문이나 종목 추천이 아닌 데이터 분석 참고 자료입니다.
-수익을 보장하지 않으며, 모든 투자 판단과 책임은 본인에게 있습니다.</p>]]></content><author><name>NextTheme</name></author><category term="video-stock" /><summary type="html"><![CDATA[코스피가 전주 모든 이동평균선과 볼린저밴드 하단을 깨고 내려왔습니다. 이 하락을 그냥 ‘싸졌다’로 볼지, 아니면 위험신호로 볼지 가르는 기준은 무엇일까요?]]></summary></entry></feed>
+수익을 보장하지 않으며, 모든 투자 판단과 책임은 본인에게 있습니다.</p>]]></content><author><name>NextTheme</name></author><category term="video-stock" /><summary type="html"><![CDATA[코스피가 3000에서 9000까지 오른 게 오히려 환율을 끌어올린 원인이라면, 보통 알고 있는 인과관계와는 반대 방향이지 않을까요?]]></summary></entry></feed>
