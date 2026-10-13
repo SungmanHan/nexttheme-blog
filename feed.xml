@@ -1,4 +1,275 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-10-13T21:02:06+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 5.5% 급락한 날, 2차전지 LG에너지솔루션만 올랐다 — 하루 마감 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/13/daily/" rel="alternate" type="text/html" title="코스피 5.5% 급락한 날, 2차전지 LG에너지솔루션만 올랐다 — 하루 마감 정리" /><published>2026-10-13T21:00:00+09:00</published><updated>2026-10-13T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/13/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/13/daily/"><![CDATA[<p>오늘 증시 창을 열었다가 숫자를 보고 놀라신 분이 많았을 겁니다. 😮 코스피가 하루에 <strong>-5.46%</strong> 빠진 날, 오늘의 흐름을 차근차근 정리했습니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-10-14T06:03:43+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 5.46% 급락 다음 날 아침, 오늘 밤 미국 CPI 발표 앞두고 확인할 것들</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/14/0600-briefing/" rel="alternate" type="text/html" title="코스피 5.46% 급락 다음 날 아침, 오늘 밤 미국 CPI 발표 앞두고 확인할 것들" /><published>2026-10-14T06:00:00+09:00</published><updated>2026-10-14T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/14/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/14/0600-briefing/"><![CDATA[<p>코스피가 하루에 <strong>5.46%</strong> 빠진 뒤 맞는 아침입니다. 😮 지수 화면을 열기가 쉽지 않았던 분들도 많으셨을 텐데요. 오늘은 장 시작 전에 무엇을 확인하면 좋을지, 어제 AI가 골랐던 종목들은 어떻게 흘러갔는지부터 차분히 정리해 봤습니다.</p>
+
+<h2 id="-어제-ai가-골랐던-종목-오늘-아침-어떻게-되어-있나">📋 어제 AI가 골랐던 종목, 오늘 아침 어떻게 되어 있나?</h2>
+
+<p>어제 기록 기준으로 <strong>15:10 최종 선별 1건</strong>, <strong>장중 탐색 후보 2건</strong>이 있었고, 이전부터 들고 있던 <strong>이월 보유 1건</strong>이 함께 점검 대상이었습니다. (장중 탐색 후보는 최종 선별이 아니라 낮 동안 후보로 올라왔던 종목입니다.)</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>슬롯</th>
+      <th>어제 종가(AI 기록)</th>
+      <th>오늘 시스템 대응</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>삼성중공업</td>
+      <td>— (이월 보유)</td>
+      <td>—</td>
+      <td>이월 보유 — 시초가 방향 확인 후 포지션 대응</td>
+    </tr>
+    <tr>
+      <td>LG에너지솔루션</td>
+      <td>15:10 최종</td>
+      <td>408,500원</td>
+      <td>오늘 신규 매수 보류, 시초가 관망</td>
+    </tr>
+    <tr>
+      <td>라온시큐어</td>
+      <td>12:10 탐색</td>
+      <td>18,460원</td>
+      <td>오늘 신규 매수 보류, 시초가 관망</td>
+    </tr>
+    <tr>
+      <td>서산</td>
+      <td>10:10 탐색</td>
+      <td>8,780원</td>
+      <td>오늘 신규 매수 보류, 시초가 관망</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>어제 새로 매수한 기록은 <strong>없습니다.</strong></li>
+  <li>삼성중공업은 어제 새로 산 종목이 아니라 <strong>이전부터 보유 중인 종목</strong>입니다. ✅ 보유 중</li>
+  <li>위 대응 문구는 시장 환경에 따른 규칙 기반 기본값이며, 개별 종목에 대한 새로운 분석은 아닙니다.</li>
+</ul>
+
+<h3 id="어제-저녁-애프터마켓15401959은-어땠나">어제 저녁 애프터마켓(15:40~19:59)은 어땠나?</h3>
+
+<p>정규장이 끝난 뒤에도 거래가 이어지는 저녁 시간대 흐름입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>기준</th>
+      <th>구간 내 최고</th>
+      <th>구간 내 최저</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>삼성중공업</td>
+      <td>평단 대비</td>
+      <td><strong>-13.9%</strong></td>
+      <td><strong>-14.6%</strong></td>
+    </tr>
+    <tr>
+      <td>LG에너지솔루션</td>
+      <td>종가 대비</td>
+      <td><strong>+1.0%</strong></td>
+      <td><strong>-0.2%</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>삼성중공업은 저녁 내내 평단보다 <strong>13.9~14.6% 아래</strong>에 머물렀습니다.</li>
+  <li>LG에너지솔루션은 매수하지 않은 종목이라 종가 기준 변동폭만 참고하시면 됩니다. 손익으로 읽으면 안 됩니다.</li>
+</ul>
+
+<h2 id="-코스피--546-누가-팔았나">💸 코스피 -5.46%, 누가 팔았나?</h2>
+
+<p>전 거래일 국내 시장 마감 기준입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>지수</th>
+      <th>수준</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>코스피</td>
+      <td><strong>6,035.35</strong>포인트</td>
+      <td><strong>-5.46%</strong></td>
+    </tr>
+    <tr>
+      <td>코스닥</td>
+      <td><strong>837.03</strong>포인트</td>
+      <td><strong>-1.43%</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>투자 주체</th>
+      <th>순매수(+)/순매도(-)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>외국인</td>
+      <td><strong>-5.0조원</strong> (순매도)</td>
+    </tr>
+    <tr>
+      <td>기관(큰 투자기관)</td>
+      <td><strong>+1.7조원</strong> (순매수)</td>
+    </tr>
+    <tr>
+      <td>개인</td>
+      <td><strong>+2.8조원</strong> (순매수)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>외국인이 약 5조원어치를 팔았고, 기관과 개인이 받아낸 모습입니다. 오늘 재료를 정리한 분석에서도 외국인 순매도를 코스피 급락의 직접 원인으로 짚고 있습니다. 환율은 달러당 <strong>1,342.5원</strong>으로, 환율이 오르면 외국인 이탈 부담이 이어질 수 있다는 점이 함께 거론됩니다.</p>
+
+<p>지수가 크게 빠진 날에도 오른 섹터는 있었습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>섹터</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2차전지(LFP/리튬인산철)</td>
+      <td><strong>+3.16%</strong></td>
+    </tr>
+    <tr>
+      <td>2차전지(생산)</td>
+      <td><strong>+2.54%</strong></td>
+    </tr>
+    <tr>
+      <td>니켈</td>
+      <td><strong>+2.33%</strong></td>
+    </tr>
+    <tr>
+      <td>2차전지(나트륨이온)</td>
+      <td><strong>+2.26%</strong></td>
+    </tr>
+    <tr>
+      <td>리튬</td>
+      <td><strong>+2.16%</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="-간밤-미국장은-어땠나">🇺🇸 간밤 미국장은 어땠나?</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>지수</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>다우존스</td>
+      <td><strong>-0.35%</strong></td>
+    </tr>
+    <tr>
+      <td>S&amp;P 500</td>
+      <td><strong>-0.02%</strong></td>
+    </tr>
+    <tr>
+      <td>나스닥 종합</td>
+      <td><strong>-0.15%</strong></td>
+    </tr>
+    <tr>
+      <td>나스닥 100</td>
+      <td><strong>-0.31%</strong></td>
+    </tr>
+    <tr>
+      <td>필라델피아 반도체</td>
+      <td><strong>-0.23%</strong></td>
+    </tr>
+    <tr>
+      <td>다우운송</td>
+      <td><strong>+0.26%</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>큰 방향은 보합권 약세였습니다. 다우존스는 -0.35% 하락했는데 장 막판 매도 우려가 있는 흐름으로 분류됐고, 필라델피아 반도체는 -0.23% 하락으로 마감했지만 갭하락 후 회복하는 모양이었습니다. 반면 다우운송은 <strong>+0.26%</strong> 올랐습니다.</p>
+
+<p>야간 선물은 <strong>-0.37%</strong>로 약세가 이어졌고, 한국 증시를 추종하는 EWY는 <strong>-2.09%</strong>였습니다. 오늘 아침 한국 시장 분위기가 간밤에도 이어지고 있다는 뜻입니다.</p>
+
+<h2 id="-오늘-꼭-알아야-할-뉴스는">📰 오늘 꼭 알아야 할 뉴스는?</h2>
+
+<p><strong>1. 미국 CPI 발표 (오늘 21:30)</strong> — 금리 정책의 핵심 지표라 시장 방향에 영향이 큰 이벤트입니다. 호재냐 악재냐는 결과에 따라 갈릴 수 있어 혼재로 분류됩니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>항목</th>
+      <th>예상</th>
+      <th>직전</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>소비자물가(전월 대비)</td>
+      <td>0.6%</td>
+      <td>0.4%</td>
+    </tr>
+    <tr>
+      <td>소비자물가(전년 대비)</td>
+      <td>3.6%</td>
+      <td>3.4%</td>
+    </tr>
+    <tr>
+      <td>근원 소비자물가(전월 대비)</td>
+      <td>0.2%</td>
+      <td>0.3%</td>
+    </tr>
+    <tr>
+      <td>근원 소비자물가(전년 대비)</td>
+      <td>2.5%</td>
+      <td>2.4%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>(근원 물가는 변동성이 큰 식품·에너지를 뺀 물가입니다.)</p>
+
+<p><strong>2. 외국인 대규모 순매도</strong> — 위에서 본 5조원 규모 순매도로, 오늘은 이 흐름이 이어지는지가 핵심입니다.</p>
+
+<p><strong>3. 미국 기존주택판매 예상 상회</strong> — 실제 <strong>3.99M</strong>으로 예상치 3.95M을 웃돌았습니다. 미국 경기가 견조하다는 신호로 읽히지만 시장 영향은 제한적인 중요도로 분류됩니다.</p>
+
+<p>오늘 저녁에는 18:00 국제에너지기구(IEA) 월간 보고서, 18:40 연준 보우먼 위원 연설도 예정돼 있습니다. 그리고 <strong>내일</strong> 21:30에는 소매판매, 생산자물가, 신규 실업수당청구건수 등이 줄줄이 나옵니다.</p>
+
+<h2 id="️-오늘-시장-분위기는-어느-정도인가">🌡️ 오늘 시장 분위기는 어느 정도인가?</h2>
+
+<p>시장 심리 점수는 <strong>100점 만점에 15점</strong>으로, 매우 보수적인 구간입니다. 그래서 오늘 시스템의 기본 대응도 신규 진입을 쉬고 시초가를 지켜보는 쪽입니다. 테마가 시장을 끌고 가는 장세이긴 하지만 건강도 점수는 <strong>2점</strong>(100점 만점)에 그쳤습니다.</p>
+
+<h2 id="-오늘-장중에-확인할-것">✅ 오늘 장중에 확인할 것</h2>
+
+<ul>
+  <li>시초가 외국인 수급 방향 확인</li>
+  <li>21:30 미국 CPI 발표 결과</li>
+  <li>야간 선물 반응과 EWY 움직임</li>
+  <li>보유 종목의 시초가 갭 방향</li>
+</ul>
+
+<h2 id="-제가-주목한-것">💭 제가 주목한 것</h2>
+
+<p>개인적으로 오늘 가장 눈에 들어온 건 지수가 -5.46%인 날에도 2차전지 관련 섹터가 <strong>2~3%대 상승</strong>을 기록했다는 점입니다. 시장 전체가 한 방향으로 움직인 날에도 모든 종목이 같이 움직이지는 않는다는 걸 숫자로 확인한 하루였습니다. 다만 하루치 데이터라 이 흐름이 이어질지는 판단할 수 없고, 오늘 밤 CPI 결과 이후 어떻게 달라지는지 지켜볼 일입니다.</p>
+
+<p>급락 다음 날 아침일수록 숫자를 하나씩 확인하는 게 마음이 덜 흔들리는 방법이었습니다. 오늘 아침 가장 먼저 보실 지표는 무엇인가요? 댓글로 의견 나눠주세요. 💬</p>
+
+<p>#코스피급락 #외국인순매도 #미국CPI #삼성중공업 #LG에너지솔루션 #2차전지 #증시브리핑 #종가베팅 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[코스피가 하루에 5.46% 빠진 뒤 맞는 아침입니다. 😮 지수 화면을 열기가 쉽지 않았던 분들도 많으셨을 텐데요. 오늘은 장 시작 전에 무엇을 확인하면 좋을지, 어제 AI가 골랐던 종목들은 어떻게 흘러갔는지부터 차분히 정리해 봤습니다.]]></summary></entry><entry><title type="html">코스피 5.5% 급락한 날, 2차전지 LG에너지솔루션만 올랐다 — 하루 마감 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/13/daily/" rel="alternate" type="text/html" title="코스피 5.5% 급락한 날, 2차전지 LG에너지솔루션만 올랐다 — 하루 마감 정리" /><published>2026-10-13T21:00:00+09:00</published><updated>2026-10-13T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/13/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/13/daily/"><![CDATA[<p>오늘 증시 창을 열었다가 숫자를 보고 놀라신 분이 많았을 겁니다. 😮 코스피가 하루에 <strong>-5.46%</strong> 빠진 날, 오늘의 흐름을 차근차근 정리했습니다.</p>
 
 <h2 id="-어제-ai가-고른-종목-오늘-아침-실제-결과는">🔍 어제 AI가 고른 종목, 오늘 아침 실제 결과는?</h2>
 
@@ -2050,120 +2321,4 @@ AI가 최종 판단한 결과를 텔레그램으로 보내드립니다.</p>
 
 <p>시장이 크게 흔들린 날일수록 숫자를 있는 그대로 남겨 두는 게 중요하다고 생각합니다. 내일 아침 팬오션의 실제 갭은 이 블로그의 복기 코너에서 그대로 공유하겠습니다. 오늘 시장을 보며 느낀 점이나 궁금한 종목은 댓글로 남겨 주세요. 이웃 추가를 해두시면 매일 마감 정리를 받아보실 수 있어요. 🙌</p>
 
-<p>#NextTheme #종가베팅 #코스피급락 #코스닥급락 #팬오션 #해운주 #삼성중공업 #주성엔지니어링 #SK하이닉스 #삼성전자 #하루마감 #증시마감</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[📉 오늘(10월 12일) 증시는 한마디로 “거의 모든 게 내렸고, 해운만 올랐다”는 하루였습니다. 코스피와 코스닥이 함께 큰 폭으로 밀렸고, 시가총액 상위 대형주들도 줄줄이 하락했어요. 이런 날은 “내 종목만 왜 이러나” 싶어 마음이 무겁죠. 숫자로 차분히 정리해 봅니다.]]></summary></entry><entry><title type="html">코스피·코스닥 동반 급락한 날, 해운주 팬오션에 자금이 몰린 이유 — 종가베팅 분석</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/12/nt2-1505-snapshot/" rel="alternate" type="text/html" title="코스피·코스닥 동반 급락한 날, 해운주 팬오션에 자금이 몰린 이유 — 종가베팅 분석" /><published>2026-10-12T15:05:00+09:00</published><updated>2026-10-12T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/12/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/12/nt2-1505-snapshot/"><![CDATA[<p>📉 오늘 코스피와 코스닥이 <strong>함께 급락</strong>했습니다. 이런 날은 “그래서 돈은 어디로 갔을까?”가 가장 궁금해집니다.</p>
-
-<p>오늘 자금은 중동 지정학 리스크(중동 지역의 군사·정치적 긴장)를 배경으로 <strong>해운주</strong>에 모였습니다. 이 글은 AI가 최종 후보로 남긴 한 종목, <strong>팬오션</strong>을 왜 골랐는지 기록한 것입니다.</p>
-
-<hr />
-
-<h2 id="-오늘-시장은-어떤-하루였나">📊 오늘 시장은 어떤 하루였나?</h2>
-
-<ul>
-  <li>코스피·코스닥이 동반 급락한 약세장이었습니다.</li>
-  <li>약세장 속에서도 자금이 완전히 빠져나간 것은 아니었고, <strong>해운 업종</strong>으로만 집중됐습니다.</li>
-  <li>중동 지정학 리스크로 해운 운임(배로 화물을 실어 나르는 요금)이 오를 수 있다는 기대가 커진 흐름이었습니다.</li>
-</ul>
-
-<p>지수가 빠지는 날에도 돈이 몰리는 곳은 있습니다. 오늘 선별은 “무엇이 떨어졌나”보다 “무엇에 돈이 모였나”를 본 결과입니다.</p>
-
-<hr />
-
-<h2 id="-팬오션은-왜-후보로-남았을까">🔍 팬오션은 왜 후보로 남았을까?</h2>
-
-<p>AI가 남긴 종목은 <strong>팬오션 1개</strong>입니다. 해운 업종 대장주로, 오늘 <strong>해운 테마에서 1위</strong>였습니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>항목</th>
-      <th>내용</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>당일 종가 / 등락률</td>
-      <td><strong>6,460원</strong> / <strong>+7.1%</strong></td>
-    </tr>
-    <tr>
-      <td>거래대금 / 시총</td>
-      <td><strong>592억원</strong> / 3.5조원</td>
-    </tr>
-    <tr>
-      <td>주도 테마 / 테마내순위</td>
-      <td>해운 / 1위</td>
-    </tr>
-    <tr>
-      <td>RSI / RVOL / 이평수렴</td>
-      <td>63.0 / 3.4 / +0.1%</td>
-    </tr>
-    <tr>
-      <td>52주 신고가 / OBV</td>
-      <td>아님 / 중립</td>
-    </tr>
-    <tr>
-      <td>외인 순매수 / 기관 순매수</td>
-      <td>-34만 주 / +90만 주</td>
-    </tr>
-    <tr>
-      <td>호가신호</td>
-      <td>매수벽 강함</td>
-    </tr>
-    <tr>
-      <td>매출 YoY</td>
-      <td>+43.4%</td>
-    </tr>
-    <tr>
-      <td>최근 분기 실적</td>
-      <td>2026.09.: 매출 1.8조원 / 영업이익 1,844억원</td>
-    </tr>
-    <tr>
-      <td>AI 종합 점수</td>
-      <td>45점</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>표를 쉽게 풀어보면 이렇습니다.</p>
-
-<ul>
-  <li><strong>등락률 +7.1%</strong>: 지수가 급락한 날 해운 대장주가 이만큼 올랐다는 점이 눈에 띕니다.</li>
-  <li><strong>기관 +90만 주 순매수 / 외국인 -34만 주 순매도</strong>: 큰 투자기관(기관)은 산 쪽, 외국인은 판 쪽으로 두 주체의 방향이 엇갈렸습니다.</li>
-  <li><strong>RVOL 3.4</strong>: 평소 거래량의 약 3.4배가 거래됐다는 뜻입니다.</li>
-  <li><strong>매수벽 강함</strong>: 사려는 주문(매수 호가)이 두껍게 쌓여 있었다는 의미입니다.</li>
-  <li><strong>RSI 63.0</strong>: 과열 기준(보통 70~80 이상)에는 못 미치는 수준입니다.</li>
-</ul>
-
-<hr />
-
-<h2 id="-ai는-어떤-근거로-골랐나">🧭 AI는 어떤 근거로 골랐나?</h2>
-
-<p>AI 기록상 선별 근거는 크게 세 가지입니다.</p>
-
-<ol>
-  <li><strong>급락장에서도 자금이 집중된 대장주</strong>: 해운 테마에서 거래대금과 상승률이 모두 선두권이었습니다.</li>
-  <li><strong>호가 흐름</strong>: 매수 호가가 받쳐주고, 장중 고점에서 크게 밀리지 않은 채 마감했습니다.</li>
-  <li><strong>운임 기대라는 테마 배경</strong>: 중동 지정학 리스크로 운임 상승 기대가 커진 흐름과 같은 방향에 있었습니다.</li>
-</ol>
-
-<p>AI는 이 종목을 다음 장에서 시초가가 높게 시작할 수 있는 후보로 분류했습니다. 다만 이것은 선별 당시의 판단 기록일 뿐 결과가 정해진 것은 아닙니다. <strong>외국인은 순매도였다는 점, 시장 전체가 약세였다는 점, 그리고 지정학 이슈에 따라 분위기가 빠르게 바뀔 수 있다는 점</strong>은 함께 봐야 할 부분입니다.</p>
-
-<hr />
-
-<h2 id="-오늘-제가-주목한-것">💭 오늘 제가 주목한 것</h2>
-
-<p>지수가 급락하는 날에는 보통 거의 모든 종목이 같이 눌립니다. 그런 날 어떤 종목이 <strong>하락장에서도 테마 내 1위를 차지하며 올랐는지</strong>가 오히려 시장이 어디를 보고 있는지 알려준다고 생각합니다. 오늘은 그 답이 해운이었습니다. 내일 시장이 이 관심을 이어갈지는 장이 열려봐야 알 수 있습니다.</p>
-
-<hr />
-
-<h2 id="-정리">✅ 정리</h2>
-
-<ul>
-  <li>코스피·코스닥 동반 급락, 자금은 해운 업종에 집중</li>
-  <li>최종 후보는 <strong>팬오션 1종목</strong> (해운 1위, 거래대금 592억원, +7.1%)</li>
-  <li>기관 순매수·외국인 순매도로 수급은 엇갈렸고, 호가에는 매수벽이 강했음</li>
-  <li>모든 내용은 AI의 선별 기록이며 매수·매도 권유가 아닙니다</li>
-</ul>
-
-<p>내일 장에서 이 흐름이 어떻게 이어지는지도 기록해 두겠습니다. 오늘 시장을 어떻게 보셨는지 댓글로 의견 나눠주세요. 💬</p>
-
-<p>#팬오션 #해운주 #해운 #중동지정학 #코스피급락 #코스닥급락 #거래대금 #NextTheme #종가베팅</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[📉 오늘 코스피와 코스닥이 함께 급락했습니다. 이런 날은 “그래서 돈은 어디로 갔을까?”가 가장 궁금해집니다.]]></summary></entry></feed>
+<p>#NextTheme #종가베팅 #코스피급락 #코스닥급락 #팬오션 #해운주 #삼성중공업 #주성엔지니어링 #SK하이닉스 #삼성전자 #하루마감 #증시마감</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[📉 오늘(10월 12일) 증시는 한마디로 “거의 모든 게 내렸고, 해운만 올랐다”는 하루였습니다. 코스피와 코스닥이 함께 큰 폭으로 밀렸고, 시가총액 상위 대형주들도 줄줄이 하락했어요. 이런 날은 “내 종목만 왜 이러나” 싶어 마음이 무겁죠. 숫자로 차분히 정리해 봅니다.]]></summary></entry></feed>
