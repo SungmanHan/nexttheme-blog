@@ -1,4 +1,307 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-10-15T20:06:17+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 -8.88%·코스닥 -9.16% 서킷브레이커 폭락장, 오늘은 종가베팅 관망</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/15/nt2-1505-snapshot/" rel="alternate" type="text/html" title="코스피 -8.88%·코스닥 -9.16% 서킷브레이커 폭락장, 오늘은 종가베팅 관망" /><published>2026-10-15T15:05:00+09:00</published><updated>2026-10-15T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/15/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/15/nt2-1505-snapshot/"><![CDATA[<p>😨 오늘 코스피와 코스닥이 <strong>동반 폭락</strong>하며 서킷브레이커가 걸린 하루였습니다. 이런 날은 “그래도 담을 만한 종목이 있을까?” 하는 마음이 들기 마련이죠. 오늘 AI의 결론은 <strong>후보 0개, 무포지션</strong>이었습니다. 왜 쉬기로 했는지 정리해 봤습니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-10-15T21:01:47+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 5,554 마감, 코스닥 -7.65% — 외국인 4.4조원 순매도 하루 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/15/daily/" rel="alternate" type="text/html" title="코스피 5,554 마감, 코스닥 -7.65% — 외국인 4.4조원 순매도 하루 정리" /><published>2026-10-15T21:00:00+09:00</published><updated>2026-10-15T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/15/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/15/daily/"><![CDATA[<p>📉 오늘은 숫자를 읽는 것만으로도 숨이 가쁜 하루였습니다. 코스피는 <strong>5,554.22포인트(-7.57%)</strong>, 코스닥은 <strong>760.82포인트(-7.65%)</strong>로 마감했습니다. 오늘 AI의 종가 선별 종목은 <strong>0개</strong>였고, 이 글은 그 판단과 최근 복기 결과를 있는 그대로 기록한 것입니다.</p>
+
+<h2 id="어제-판단은-실제로-어땠을까-">어제 판단은 실제로 어땠을까? 📋</h2>
+
+<p>먼저 복기부터 적습니다. 결과가 좋지 않았던 날도 그대로 남기는 것이 기록의 의미라고 생각합니다.</p>
+
+<p><strong>① 어제 선별 종목의 오늘 아침 실현 갭</strong> (종가베팅의 실제 청산 구간, 08:00~09:59)</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>아침 갭(진입가 대비)</th>
+      <th>세션 내 최고</th>
+      <th>세션 내 최저</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>삼성중공업</td>
+      <td><strong>-14.98%</strong></td>
+      <td>-10.63%</td>
+      <td>-15.45%</td>
+    </tr>
+    <tr>
+      <td>삼성SDI</td>
+      <td><strong>-7.78%</strong></td>
+      <td>-2.71%</td>
+      <td>-8.12%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>두 종목 모두 아침 시간 내내 진입가 아래에 머물렀습니다. 세션 내 최고가도 진입가를 넘지 못했습니다.</p>
+
+<p><strong>② 오늘 선별 종목의 애프터마켓 잠정 흐름</strong> (15:40~19:59, 확정 아님)</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>잠정 갭(진입가 대비)</th>
+      <th>세션 내 최고</th>
+      <th>세션 내 최저</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>삼성중공업</td>
+      <td><strong>-16.06%</strong></td>
+      <td>-15.26%</td>
+      <td>-16.15%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>⚠️ 이 수치는 잠정치입니다. 실제 결과는 내일 아침 흐름으로 확정됩니다.</p>
+
+<h2 id="오늘-시장은-어땠을까-">오늘 시장은 어땠을까? 📊</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>마감</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>코스피</td>
+      <td><strong>5,554.22포인트</strong></td>
+      <td><strong>-7.57%</strong></td>
+    </tr>
+    <tr>
+      <td>코스닥</td>
+      <td><strong>760.82포인트</strong></td>
+      <td><strong>-7.65%</strong></td>
+    </tr>
+    <tr>
+      <td>원/달러 환율</td>
+      <td><strong>1,345.1원</strong></td>
+      <td>—</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>최근 흐름을 같이 보면 하락 폭이 더 선명합니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>지수</th>
+      <th>기준일 종가</th>
+      <th>오늘 종가</th>
+      <th>변화</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>코스피</td>
+      <td>7,080.92 (9/23)</td>
+      <td>5,554.22</td>
+      <td>약 <strong>-21.6%</strong></td>
+    </tr>
+    <tr>
+      <td>코스피</td>
+      <td>6,625.93 (10/8)</td>
+      <td>5,554.22</td>
+      <td>약 <strong>-16.2%</strong></td>
+    </tr>
+    <tr>
+      <td>코스닥</td>
+      <td>919.92 (10/6)</td>
+      <td>760.82</td>
+      <td>약 <strong>-17.3%</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>특히 코스피는 10월 13일 6,035.35, 14일 6,008.81, 그리고 오늘 5,554.22로 하루 사이 낙폭이 컸습니다.</p>
+
+<p>06:00 아침 브리핑 기준으로는 간밤 미국장에서 다우 -0.09%, S&amp;P500 -1.11%, 나스닥 -1.88%, 필라델피아 반도체 -4.30%였습니다. 브리핑은 미국 소비자물가(CPI)가 예상보다 높게 나왔다는 내용을 함께 전했습니다. (이 부분은 아침 시점 서술이며 오늘 장중 수치가 아닙니다.)</p>
+
+<h3 id="누가-팔고-누가-샀을까">누가 팔고 누가 샀을까?</h3>
+
+<p>오늘 투자 주체별 순매수 동향입니다. 음수는 순매도를 뜻합니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>투자자</th>
+      <th>순매수</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>외국인</td>
+      <td><strong>약 -4.4조원</strong></td>
+    </tr>
+    <tr>
+      <td>기관</td>
+      <td><strong>약 +2.1조원</strong></td>
+    </tr>
+    <tr>
+      <td>개인</td>
+      <td><strong>약 +1.5조원</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>외국인이 4조 원 넘게 팔았고, 기관과 개인이 이를 받아낸 모양새입니다.</p>
+
+<h2 id="무엇이-가장-크게-움직였을까-">무엇이 가장 크게 움직였을까? 🔍</h2>
+
+<p>거래대금 상위 10개 종목입니다. 상위권 대부분이 큰 폭으로 하락했습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>순위</th>
+      <th>종목</th>
+      <th>거래대금</th>
+      <th>거래량</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>삼성전자</td>
+      <td><strong>9.8조원</strong></td>
+      <td>4,633만 주</td>
+      <td><strong>-10.34%</strong></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>SK하이닉스</td>
+      <td><strong>9.7조원</strong></td>
+      <td>756만 주</td>
+      <td><strong>-11.98%</strong></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>삼성전기</td>
+      <td><strong>2.1조원</strong></td>
+      <td>178만 주</td>
+      <td><strong>-16.59%</strong></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>SK스퀘어</td>
+      <td>9,513억원</td>
+      <td>124만 주</td>
+      <td><strong>-10.80%</strong></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>삼성전자우</td>
+      <td>9,340억원</td>
+      <td>586만 주</td>
+      <td><strong>-10.20%</strong></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>삼성SDI</td>
+      <td>8,045억원</td>
+      <td>146만 주</td>
+      <td><strong>-8.80%</strong></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>멜콘</td>
+      <td>5,405억원</td>
+      <td>2,573만 주</td>
+      <td><strong>+37.80%</strong></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>주성엔지니어링</td>
+      <td>4,260억원</td>
+      <td>203만 주</td>
+      <td><strong>-15.80%</strong></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>두산에너빌리티</td>
+      <td>3,539억원</td>
+      <td>555만 주</td>
+      <td><strong>-9.80%</strong></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>현대차</td>
+      <td>3,362억원</td>
+      <td>114만 주</td>
+      <td><strong>-6.86%</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>거래대금 상위 10개 중 오른 종목은 멜콘 하나뿐이었습니다. 삼성전자와 SK하이닉스는 하루에 각각 약 10조 원 안팎이 거래되며 거래가 몰렸습니다.</p>
+
+<p>오른 테마도 있었습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>순위</th>
+      <th>테마</th>
+      <th>오른 종목 수 / 전체 종목 수</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>은행</td>
+      <td>7 / 11</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>STO(토큰증권 발행)</td>
+      <td>3 / 25</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>오가노이드</td>
+      <td>1 / 8</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>인터넷은행</td>
+      <td>4 / 28</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>모더나(MODERNA)</td>
+      <td>1 / 6</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>제약업체</td>
+      <td>6 / 88</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>은행 테마는 11개 종목 중 7개가 올라 상대적으로 나은 모습이었습니다. 다만 그 이유는 재료에 없어 판단할 수 없습니다.</p>
+
+<h2 id="오늘-ai는-왜-종가-선별을-하지-않았을까-">오늘 AI는 왜 종가 선별을 하지 않았을까? 🧭</h2>
+
+<p>오늘 최종 선별 종목은 <strong>없습니다.</strong> AI는 오늘을 관망이 우선인 하루로 판단했고, 최종 요약에는 바이오·보안 같은 방어적 테마만 상대적으로 버텼다고 적혀 있습니다. 동시에 시장은 지수 하락 폭이 큰 하루였습니다. (참고로 AI 요약에 적힌 지수 낙폭 수치는 위 마감 수치와 다르며, 이 글의 지수는 마감 기준 수치를 따랐습니다.)</p>
+
+<p>종가베팅에서 “아무것도 고르지 않는 것”도 하나의 판단입니다. 오늘 보유 종목 중 시스템 추천 이력이 있는 항목도 없었습니다.</p>
+
+<h2 id="오늘-내가-주목한-것-">오늘 내가 주목한 것 💭</h2>
+
+<p>개인적으로 오늘 가장 눈에 들어온 건 하락의 <strong>폭</strong>보다 <strong>쏠림</strong>이었습니다. 거래대금 1~2위인 삼성전자와 SK하이닉스에 각각 약 10조 원이 몰리며 함께 두 자릿수 하락을 했고, 상위 10개 중 9개가 내렸습니다. 지수 흐름만 봐도 최근 한 달 사이 코스피가 20% 넘게 내려와 있습니다. 이런 날은 개별 종목의 이야기보다 시장 전체의 수급 방향이 먼저 읽힙니다. 오늘 외국인의 4.4조 원 순매도를 기관과 개인이 받아낸 흐름이 내일도 이어질지는, 지금 데이터로는 판단할 수 없습니다.</p>
+
+<p>내일 아침 삼성중공업의 잠정 흐름이 어떻게 확정되는지 다시 기록하겠습니다.</p>
+
+<p>오늘 하루는 어떻게 보셨나요? 댓글로 의견 나눠주세요. 이웃 추가하면 매일 이런 복기 기록을 받아볼 수 있어요. 🙌</p>
+
+<p>#코스피 #코스닥 #외국인순매도 #삼성전자 #SK하이닉스 #삼성전기 #삼성중공업 #하루마감 #종가베팅 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[📉 오늘은 숫자를 읽는 것만으로도 숨이 가쁜 하루였습니다. 코스피는 5,554.22포인트(-7.57%), 코스닥은 760.82포인트(-7.65%)로 마감했습니다. 오늘 AI의 종가 선별 종목은 0개였고, 이 글은 그 판단과 최근 복기 결과를 있는 그대로 기록한 것입니다.]]></summary></entry><entry><title type="html">코스피 -8.88%·코스닥 -9.16% 서킷브레이커 폭락장, 오늘은 종가베팅 관망</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/15/nt2-1505-snapshot/" rel="alternate" type="text/html" title="코스피 -8.88%·코스닥 -9.16% 서킷브레이커 폭락장, 오늘은 종가베팅 관망" /><published>2026-10-15T15:05:00+09:00</published><updated>2026-10-15T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/15/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/15/nt2-1505-snapshot/"><![CDATA[<p>😨 오늘 코스피와 코스닥이 <strong>동반 폭락</strong>하며 서킷브레이커가 걸린 하루였습니다. 이런 날은 “그래도 담을 만한 종목이 있을까?” 하는 마음이 들기 마련이죠. 오늘 AI의 결론은 <strong>후보 0개, 무포지션</strong>이었습니다. 왜 쉬기로 했는지 정리해 봤습니다.</p>
 
 <h2 id="오늘-시장은-얼마나-빠졌나">오늘 시장은 얼마나 빠졌나?</h2>
 
@@ -1873,134 +2176,4 @@ AI 기록에는 매수 호가에 <strong>7억원대</strong>의 큰 주문이 �
 
 <p>하락장 속 2차전지와 해운 쏠림에 대한 의견, 궁금한 종목이 있다면 댓글로 남겨주세요. 이웃 추가하면 매일 마감 후 선별 기록을 받아보실 수 있어요. 😊</p>
 
-<p>#삼성SDI #2차전지 #나트륨이온 #해운 #외국인순매도 #거래대금 #대장주 #종가베팅 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[📉 오늘 증시는 미국 소비자물가 발표를 앞두고 외국인이 1조원 넘게 팔아치운 하락장이었습니다. 그런데 이런 날에도 돈이 한곳으로 몰린 업종이 있었습니다. 2차전지와 해운입니다. 시장이 약한데 특정 종목만 강하면 “왜 저 종목만?”이 궁금해지죠. 오늘 AI가 최종 후보로 남긴 종목은 삼성SDI 하나였고, 그 이유를 데이터로 풀어봤습니다.]]></summary></entry><entry><title type="html">에코프로머티 종목 분석 — 2차전지 강세에도 AI가 선별하지 않은 이유</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/14/1420-detail-450080-detail/" rel="alternate" type="text/html" title="에코프로머티 종목 분석 — 2차전지 강세에도 AI가 선별하지 않은 이유" /><published>2026-10-14T14:20:00+09:00</published><updated>2026-10-14T14:20:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/14/1420_detail_450080-detail</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/14/1420-detail-450080-detail/"><![CDATA[<blockquote>
-  <p>📌 분석 시점 <strong>2026-10-14 14:20 (장중 기준)</strong>. 아래 가격·수급은 장중 집계이며 확정치가 아닙니다.</p>
-</blockquote>
-
-<p>2차전지 업종이 강세를 보이는 날, 관련 종목이 눈에 띄는 것은 자연스러운 일입니다. 에코프로머티(450080)도 현재가 <strong>35,550원</strong>, 등락률 <strong>+3.8%</strong>로 시장의 시선을 받고 있습니다. 다만 가격이 오른다는 사실만으로 AI가 이 종목을 고르지는 않았습니다. 수급과 실적, 뉴스 데이터를 나란히 놓고 어떤 근거가 부족했는지 차례로 살펴보겠습니다.</p>
-
-<h2 id="가격은-오르는데-수급은-어떻게-움직였나">가격은 오르는데, 수급은 어떻게 움직였나?</h2>
-
-<p>장중 기준으로 <strong>외국인은 +1.2만 주 순매수</strong>, <strong>기관은 -2.2만 주 순매도</strong>를 기록했습니다. 외국인은 1거래일 연속 순매수에 그쳤고, 기관은 연속 순매수가 없었습니다.</p>
-
-<p>최근 5거래일 흐름을 보면 더 뚜렷합니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>날짜</th>
-      <th>외국인 (주)</th>
-      <th>기관 (주)</th>
-      <th>개인 (주)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>10/06</td>
-      <td>+12,868</td>
-      <td>-47,035</td>
-      <td>+31,867</td>
-    </tr>
-    <tr>
-      <td>10/07</td>
-      <td>+806</td>
-      <td>-72,988</td>
-      <td>+70,681</td>
-    </tr>
-    <tr>
-      <td>10/08</td>
-      <td>+34,160</td>
-      <td>-87,882</td>
-      <td>+53,582</td>
-    </tr>
-    <tr>
-      <td>10/12</td>
-      <td>-98,698</td>
-      <td>-91,420</td>
-      <td>+188,658</td>
-    </tr>
-    <tr>
-      <td>10/13</td>
-      <td>+12,089</td>
-      <td>-22,405</td>
-      <td>+10,687</td>
-    </tr>
-  </tbody>
-</table>
-
-<p><strong>기관은 5거래일 연속 순매도</strong>였고, 그 물량을 <strong>개인이 5거래일 연속 순매수</strong>로 받아낸 구조입니다. 외국인은 방향이 자주 바뀌었습니다. 추세 지표도 엇갈립니다. 단기 흐름은 <strong>중립</strong>, 주간·월간 흐름은 <strong>하락</strong>으로 기록됐습니다.</p>
-
-<h2 id="실적은-얼마나-뒷받침되나">실적은 얼마나 뒷받침되나?</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>기간</th>
-      <th>매출</th>
-      <th>영업이익</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>2024년 (연간)</td>
-      <td>2,998억원</td>
-      <td>-647억원</td>
-    </tr>
-    <tr>
-      <td>2025년 (연간)</td>
-      <td>3,925억원</td>
-      <td>-654억원</td>
-    </tr>
-    <tr>
-      <td>2025년 4분기</td>
-      <td>1,152억원</td>
-      <td>33억원</td>
-    </tr>
-    <tr>
-      <td>2026년 1분기</td>
-      <td>1,665억원</td>
-      <td>157억원</td>
-    </tr>
-    <tr>
-      <td>2026년 2분기</td>
-      <td>1,788억원</td>
-      <td><strong>-106억원</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>매출은 분기마다 늘어 2026년 2분기 <strong>1,788억원</strong>까지 올라왔습니다. 그러나 가장 최근 완료 분기인 2026년 2분기에는 영업이익이 <strong>-106억원</strong>으로 적자 전환했습니다. 1분기의 흑자(157억원)가 한 분기 만에 되돌려진 셈입니다. 매출 성장이 이익으로 이어지고 있는지는 아직 확인되지 않은 상태입니다.</p>
-
-<h2 id="뉴스와-공시에서-확인된-내용">뉴스와 공시에서 확인된 내용</h2>
-
-<ul>
-  <li><strong>업종 흐름</strong>: AI 데이터센터발 ESS 수요 기대로 2차전지주가 함께 강세를 보였다는 업종 뉴스가 있었습니다.</li>
-  <li><strong>종목 직접 재료</strong>: 뉴스 신호는 <strong>중립</strong>, 촉매 유형은 <strong>테마편승</strong>으로 분류됐습니다. 종목 자체의 호재는 데이터에서 확인되지 않았습니다.</li>
-  <li><strong>리스크 공시</strong>: 주식선물이 10/12·10/13 이틀 연속 하락 제한폭 확대 요건에 도달했습니다. 단기 변동성이 커질 수 있는 신호입니다.</li>
-  <li><strong>일정</strong>: 결산실적 공시 예고와 IR 개최 안내가 함께 나왔습니다. 실적 발표 전후로 주가가 출렁일 가능성이 있습니다.</li>
-  <li><strong>지분</strong>: 대표이사의 1만주 증여(약 3.8억원)가 있었고, 최대주주 합산 지분율은 소폭 하락했습니다.</li>
-</ul>
-
-<h2 id="ai는-왜-이-종목을-none으로-판정했나">AI는 왜 이 종목을 NONE으로 판정했나?</h2>
-
-<p>AI의 종합 등급은 <strong>NONE(선별 대상 아님)</strong>이었습니다. 기록된 판정 근거는 세 가지입니다.</p>
-
-<ol>
-  <li>외국인·기관의 연속 매수세가 없었다</li>
-  <li>주봉·월봉 흐름이 하락을 가리키고 있다</li>
-  <li>최근 분기 영업손실이 이어지고 있다</li>
-</ol>
-
-<p>AI가 재평가 조건으로 남긴 것은 <strong>외국인·기관의 연속 순매수와 차트 반등 확인</strong>입니다. 업종 강세만 보고 뒤쫓기보다 선물 급락 공시와 실적 발표 일정을 먼저 확인하라는 행동 가이드도 함께 기록돼 있습니다. 투자 분위기는 <strong>흐림☁️</strong>으로 표시됐습니다.</p>
-
-<h2 id="제가-이-데이터에서-주목한-것">제가 이 데이터에서 주목한 것</h2>
-
-<p>제가 가장 눈여겨본 지점은 <strong>업종 강세와 수급 사이의 간격</strong>입니다. 가격은 올랐지만 기관은 5거래일 내내 팔았고, 개인이 그 물량을 받았습니다. 실적은 2분기 적자로 돌아섰고, 선물은 이틀 연속 하락 요건에 닿았습니다. 이 흐름이 이어질지는 지금 데이터만으로는 알 수 없습니다. 다음 수급 변화와 실적 발표 일정을 함께 지켜볼 필요가 있어 보입니다.</p>
-
-<h2 id="결론-오늘의-기록">결론: 오늘의 기록</h2>
-
-<p>에코프로머티는 2차전지 업종 강세 속에서 함께 오른 종목이지만, 이날 데이터에서 AI 선별 기준을 채우지 못했습니다. 핵심은 <strong>기관 연속 순매도, 2분기 영업손실, 선물 하락 리스크</strong> 세 가지입니다. 이 기록이 종목을 볼 때 어떤 점을 함께 확인해야 하는지 참고가 되었으면 합니다.</p>
-
-<p>궁금한 점은 댓글로 남겨주세요. 종목별 수급과 실적을 같은 틀로 정리한 분석도 이웃 추가 후 받아보실 수 있습니다.</p>
-
-<p>#종목분석 #에코프로머티 #수급분석 #NextTheme #450080 #2차전지 #ESS #주식선물 #외국인순매수 #종가베팅</p>]]></content><author><name>NextTheme</name></author><category term="detail" /><summary type="html"><![CDATA[📌 분석 시점 2026-10-14 14:20 (장중 기준). 아래 가격·수급은 장중 집계이며 확정치가 아닙니다.]]></summary></entry></feed>
+<p>#삼성SDI #2차전지 #나트륨이온 #해운 #외국인순매도 #거래대금 #대장주 #종가베팅 #NextTheme</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[📉 오늘 증시는 미국 소비자물가 발표를 앞두고 외국인이 1조원 넘게 팔아치운 하락장이었습니다. 그런데 이런 날에도 돈이 한곳으로 몰린 업종이 있었습니다. 2차전지와 해운입니다. 시장이 약한데 특정 종목만 강하면 “왜 저 종목만?”이 궁금해지죠. 오늘 AI가 최종 후보로 남긴 종목은 삼성SDI 하나였고, 그 이유를 데이터로 풀어봤습니다.]]></summary></entry></feed>
