@@ -1,30 +1,30 @@
 {
-  "lastTradingDay" : "2026-10-15",
-  "totalDays" : 107,
+  "lastTradingDay" : "2026-10-16",
+  "totalDays" : 108,
   "summary" : {
-    "tradingDays" : 107,
+    "tradingDays" : 108,
     "sectorCount" : 16,
-    "upDays" : 99,
-    "avgChangeRate" : 5.88,
+    "upDays" : 100,
+    "avgChangeRate" : 5.89,
     "topSector" : "반도체·AI인프라",
-    "topSectorDays" : 23
+    "topSectorDays" : 24
   },
   "now" : {
-    "date" : "2026-10-15",
-    "bettingGrade" : "RED",
-    "regimeTag" : "RED_ALL_DOWN",
-    "themeRegime" : "THEME_LED",
-    "marketSignal" : "약세",
-    "kospi" : -7.57,
-    "kosdaq" : -7.65,
-    "leadTheme" : "오가노이드",
-    "leadChangeRate" : 3.67,
-    "themePremium" : 11.24
+    "date" : "2026-10-16",
+    "bettingGrade" : "GREEN",
+    "regimeTag" : "GREEN",
+    "themeRegime" : "INDEX_LED",
+    "marketSignal" : "혼조",
+    "kospi" : 2.05,
+    "kosdaq" : 4.46,
+    "leadTheme" : "반도체 장비",
+    "leadChangeRate" : 7.33,
+    "themePremium" : 5.28
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
-    "rank1Days" : 23,
-    "top3Days" : 40
+    "rank1Days" : 24,
+    "top3Days" : 41
   }, {
     "sector" : "자동차·2차전지",
     "rank1Days" : 13,
@@ -32,7 +32,7 @@
   }, {
     "sector" : "전자부품·기판",
     "rank1Days" : 8,
-    "top3Days" : 22
+    "top3Days" : 23
   }, {
     "sector" : "전력·전선·신재생",
     "rank1Days" : 6,
@@ -60,7 +60,7 @@
   }, {
     "sector" : "소비재·유통",
     "rank1Days" : 3,
-    "top3Days" : 13
+    "top3Days" : 14
   }, {
     "sector" : "로봇·AI소프트웨어",
     "rank1Days" : 4,
@@ -2045,6 +2045,25 @@
         "changeRate" : -1.89
       } ],
       "mainStock" : ""
-    }, null ] ]
+    }, {
+      "day" : 16,
+      "date" : "2026-10-16",
+      "theme" : "반도체 장비",
+      "sector" : "반도체·AI인프라",
+      "changeRate" : 7.33,
+      "prevDay" : "NEW",
+      "regime" : "INDEX_LED",
+      "slot" : "15:00",
+      "kospi" : 2.05,
+      "themePremium" : 5.28,
+      "runners" : [ {
+        "theme" : "화장품",
+        "changeRate" : 6.48
+      }, {
+        "theme" : "전자파",
+        "changeRate" : 9.1
+      } ],
+      "mainStock" : ""
+    } ] ]
   } ]
 }
