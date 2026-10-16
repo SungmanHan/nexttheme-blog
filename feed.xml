@@ -1,4 +1,446 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-10-16T20:06:34+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 급반등 하루 만에 +2.97%, 현대차·한화에어로스페이스·주성엔지니어링이 선별된 이유</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/16/nt2-1505-snapshot/" rel="alternate" type="text/html" title="코스피 급반등 하루 만에 +2.97%, 현대차·한화에어로스페이스·주성엔지니어링이 선별된 이유" /><published>2026-10-16T15:05:00+09:00</published><updated>2026-10-16T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/16/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/16/nt2-1505-snapshot/"><![CDATA[<p>📉➡️📈 전날 코스피가 <strong>-7.57%</strong> 급락했다가, 오늘은 <strong>+2.97%</strong> 로 반등했습니다. 하루 사이에 널뛰는 장이라 “오늘 뭘 봐야 하지?” 싶으셨을 텐데요. 오늘 AI가 종가 무렵 후보로 남긴 3개 종목을 <strong>왜 남았는지</strong> 중심으로 정리했습니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-10-16T21:02:19+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 5,668 반등 마감, 하루 마감 정리 — 현대차·한화에어로스페이스·주성엔지니어링 선별 기록</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/16/daily/" rel="alternate" type="text/html" title="코스피 5,668 반등 마감, 하루 마감 정리 — 현대차·한화에어로스페이스·주성엔지니어링 선별 기록" /><published>2026-10-16T21:00:00+09:00</published><updated>2026-10-16T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/16/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/16/daily/"><![CDATA[<p>급락 다음 날 시장은 어떻게 움직였을까요? 😮 코스피는 전날 <strong>-7.57%</strong> 폭락한 뒤 오늘 <strong>+2.05%</strong> 올라 <strong>5,668.05포인트</strong>로 마감했고, 코스닥은 <strong>+4.46%</strong> 오른 <strong>794.78포인트</strong>였습니다. 큰 하락 뒤라 불안하셨을 텐데, 오늘 하루를 숫자로 차분히 정리해 보겠습니다.</p>
+
+<h2 id="어제-판단은-실제로-어땠나">어제 판단은 실제로 어땠나?</h2>
+
+<p>복기부터 솔직하게 적습니다. 어제 선별 종목 중 <strong>삼성중공업</strong>은 오늘 아침 장 시작 전후(08:00~09:59) 진입가 대비 크게 밀렸습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>구분</th>
+      <th>진입가 대비 갭</th>
+      <th>구간 내 최고</th>
+      <th>구간 내 최저</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>삼성중공업</td>
+      <td>오늘 아침 실현</td>
+      <td><strong>-12.3%</strong></td>
+      <td>-12.3%</td>
+      <td>-15.3%</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>진입가는 <strong>21,372원</strong>(AI 기록 기준)이고, 관측 구간은 08:00~09:59입니다.</li>
+  <li>오늘 선별분의 애프터마켓(시간외 거래) 흐름도 아래처럼 기록됐습니다. <strong>확정 결과가 아닌 잠정 흐름</strong>이며, 실제 결과는 다음 주 월요일 아침에 나옵니다.</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>진입가 대비 잠정 갭</th>
+      <th>관측 중 최고</th>
+      <th>관측 중 최저</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>한화에어로스페이스</td>
+      <td><strong>+1.2%</strong></td>
+      <td>+1.2%</td>
+      <td>-0.3%</td>
+    </tr>
+    <tr>
+      <td>현대차</td>
+      <td><strong>+0.2%</strong></td>
+      <td>+0.3%</td>
+      <td>-0.6%</td>
+    </tr>
+    <tr>
+      <td>주성엔지니어링</td>
+      <td><strong>+0.2%</strong></td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>삼성중공업</td>
+      <td><strong>-13.8%</strong></td>
+      <td>-13.5%</td>
+      <td>-14.0%</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>한화에어로스페이스·현대차는 15:40~19:59(약 259분) 관측 구간입니다. 주성엔지니어링은 구간 기록이 없어 갭 수치만 적었습니다.</li>
+  <li>삼성중공업은 애프터마켓에서도 진입가보다 낮은 구간(-13.5%~-14.0%)에 머물렀습니다. 이 수치는 진입가 기준 관측치일 뿐, 실제 손익으로 단정할 수는 없습니다.</li>
+</ul>
+
+<p>맞은 날만 기록하면 의미가 없으니, 빗나간 결과도 그대로 남겨 둡니다. 📝</p>
+
+<h2 id="오늘-시장은-어땠나">오늘 시장은 어땠나?</h2>
+
+<p>간밤 미국장은 다우 <strong>+1.08%</strong>, S&amp;P500 <strong>+0.33%</strong>, 나스닥 <strong>+0.08%</strong>로 오른 반면 반도체 지수는 <strong>-0.88%</strong>였습니다. 아침 뉴스에는 젠슨 황 엔비디아 CEO가 재무상태에 문제가 없다고 언급해 AI 관련주의 낙폭이 줄었다는 내용이 있었습니다.</p>
+
+<p>국내 지수 흐름은 아래와 같습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>날짜</th>
+      <th>코스피</th>
+      <th>코스닥</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9월 23일</td>
+      <td>7,080.92</td>
+      <td>844.48</td>
+    </tr>
+    <tr>
+      <td>10월 12일</td>
+      <td>6,384.24</td>
+      <td>849.19</td>
+    </tr>
+    <tr>
+      <td>10월 13일</td>
+      <td>6,035.35</td>
+      <td>837.03</td>
+    </tr>
+    <tr>
+      <td>10월 14일</td>
+      <td>6,008.81</td>
+      <td>823.88</td>
+    </tr>
+    <tr>
+      <td>10월 15일</td>
+      <td>5,554.22</td>
+      <td>760.82</td>
+    </tr>
+    <tr>
+      <td><strong>10월 16일</strong></td>
+      <td><strong>5,668.05</strong></td>
+      <td><strong>794.78</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>코스피는 9월 23일(7,080.92) 대비 약 <strong>20%</strong> 낮은 수준입니다. 오늘 반등이 있었지만 최근 하락 폭을 모두 되돌린 것은 아닙니다.</li>
+  <li>원/달러 환율은 <strong>1,331.7원</strong>이었습니다.</li>
+  <li>오늘 투자자별 순매수는 외국인 <strong>+3,050억원</strong>, 기관 <strong>-6,355억원</strong>, 개인 <strong>-6,101억원</strong>이었습니다. 큰 투자기관(기관)은 팔고 외국인은 샀습니다.</li>
+</ul>
+
+<h2 id="오늘-돈은-어디로-몰렸을까">오늘 돈은 어디로 몰렸을까?</h2>
+
+<p>거래대금 상위 10개 종목입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>순위</th>
+      <th>종목</th>
+      <th>거래대금</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>SK하이닉스</td>
+      <td>7.6조원</td>
+      <td>+1.4%</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>삼성전자</td>
+      <td>5.9조원</td>
+      <td>+3.1%</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>삼성전기</td>
+      <td>1.5조원</td>
+      <td>+2.1%</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>삼성전자우</td>
+      <td>6,429억원</td>
+      <td>+5.2%</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>삼성SDI</td>
+      <td>5,026억원</td>
+      <td>-1.7%</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>SK스퀘어</td>
+      <td>4,922억원</td>
+      <td>+3.1%</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>현대차</td>
+      <td>3,583억원</td>
+      <td>+6.1%</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>주성엔지니어링</td>
+      <td>3,354억원</td>
+      <td>+3.2%</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>셀트리온</td>
+      <td>2,885억원</td>
+      <td>+6.3%</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>효성중공업</td>
+      <td>2,501억원</td>
+      <td>+5.5%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>10개 중 9개가 올랐고 삼성SDI만 내렸습니다. 거래대금 1·2위는 SK하이닉스와 삼성전자가 차지했습니다.</p>
+
+<p>테마 순위는 다음과 같았습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>순위</th>
+      <th>테마</th>
+      <th>오른 종목 / 전체</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>전자파</td>
+      <td>11 / 11</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>반도체 장비</td>
+      <td>93 / 96</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>화장품</td>
+      <td>85 / 96</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>바이오시밀러</td>
+      <td>20 / 21</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>우주항공산업</td>
+      <td>35 / 39</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>드론</td>
+      <td>24 / 29</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>반도체 장비는 96개 종목 중 93개가 올라 상승 종목 수가 가장 많았습니다.</p>
+
+<h2 id="오늘-ai는-왜-이-세-종목을-골랐을까">오늘 AI는 왜 이 세 종목을 골랐을까?</h2>
+
+<p>오늘 시스템이 남긴 종가 선별 기록은 <strong>3종목</strong>입니다. 아래 내용은 매수 추천이 아닌 AI 선별 기록입니다. 시스템 판단은 우호적 구간이었고, 요약은 “급락 하루 만에 반등하며 자금이 비반도체 제조주·방산·반도체 장비로 확산, 외국인 소폭 순매수 전환”이었습니다.</p>
+
+<h3 id="1-현대차--거래대금-3583억원">1. 현대차 — 거래대금 3,583억원</h3>
+
+<p>AI는 비반도체 제조주로 자금이 향하는 흐름에서 이 종목을 꼽았습니다. 매수 호가(사려는 주문)가 두껍게 쌓였고, 외국인과 기관이 함께 샀으며, 15분봉 60선 위를 유지한 점이 기록상 근거입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>항목</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>당일 종가 / 등락률</td>
+      <td>313,500원 / <strong>+6.1%</strong></td>
+    </tr>
+    <tr>
+      <td>거래대금 / 시총</td>
+      <td>3,583억원 / 63.8조원</td>
+    </tr>
+    <tr>
+      <td>주도 테마 / 테마 내 순위</td>
+      <td>수소에너지 / 1위</td>
+    </tr>
+    <tr>
+      <td>RSI / RVOL / 이평수렴</td>
+      <td>33.9 / 1.4 / +0.2%</td>
+    </tr>
+    <tr>
+      <td>52주 신고가 / OBV</td>
+      <td>아님 / 중립</td>
+    </tr>
+    <tr>
+      <td>외인 순매수 / 기관 순매수</td>
+      <td>+4만 주 / +4만 주</td>
+    </tr>
+    <tr>
+      <td>호가신호</td>
+      <td>매수벽 강함</td>
+    </tr>
+    <tr>
+      <td>매출 YoY</td>
+      <td>-2.4%</td>
+    </tr>
+    <tr>
+      <td>최근 분기 실적</td>
+      <td>2026.09.: 매출 45.6조원 / 영업이익 2.6조원</td>
+    </tr>
+    <tr>
+      <td>AI 종합 점수</td>
+      <td>41점</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="2-한화에어로스페이스--거래대금-1981억원">2. 한화에어로스페이스 — 거래대금 1,981억원</h3>
+
+<p>AI가 든 근거는 중동 군사 긴장과 3분기 1조원대 영업이익 전망이 겹친 방산 대표주라는 점, 거래대금이 꾸준히 늘었다는 점, 눌림(잠시 내린 뒤) 이후 다시 오르는 흐름이었다는 점입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>항목</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>당일 종가 / 등락률</td>
+      <td>889,000원 / <strong>+7.9%</strong></td>
+    </tr>
+    <tr>
+      <td>거래대금 / 시총</td>
+      <td>1,981억원 / 45.8조원</td>
+    </tr>
+    <tr>
+      <td>주도 테마 / 테마 내 순위</td>
+      <td>우주항공산업 / 2위</td>
+    </tr>
+    <tr>
+      <td>RSI / RVOL / 이평수렴</td>
+      <td>39.0 / 1.1 / +0.2%</td>
+    </tr>
+    <tr>
+      <td>52주 신고가 / OBV</td>
+      <td>아님 / 중립</td>
+    </tr>
+    <tr>
+      <td>외인 순매수 / 기관 순매수</td>
+      <td>+2,000주 / +1만 주</td>
+    </tr>
+    <tr>
+      <td>호가신호</td>
+      <td>매수벽 약함</td>
+    </tr>
+    <tr>
+      <td>매출 YoY</td>
+      <td>+17.9%</td>
+    </tr>
+    <tr>
+      <td>최근 분기 실적</td>
+      <td>2026.09.: 매출 7.7조원 / 영업이익 1.2조원</td>
+    </tr>
+    <tr>
+      <td>AI 종합 점수</td>
+      <td>36점</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="3-주성엔지니어링--거래대금-3354억원">3. 주성엔지니어링 — 거래대금 3,354억원</h3>
+
+<p>오늘 상승 종목 수가 가장 많았던 반도체 장비 테마에서 거래대금 1위였습니다. 15분봉 60선 위를 유지한 점이 기록상 근거입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>항목</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>당일 종가 / 등락률</td>
+      <td>211,000원 / <strong>+3.2%</strong></td>
+    </tr>
+    <tr>
+      <td>거래대금 / 시총</td>
+      <td>3,354억원 / 9.8조원</td>
+    </tr>
+    <tr>
+      <td>주도 테마 / 테마 내 순위</td>
+      <td>반도체 장비 / 1위</td>
+    </tr>
+    <tr>
+      <td>RSI / RVOL / 이평수렴</td>
+      <td>47.7 / 1.0 / +0.2%</td>
+    </tr>
+    <tr>
+      <td>외인 순매수 / 기관 순매수</td>
+      <td>-10만 주 / +6,000주</td>
+    </tr>
+    <tr>
+      <td>호가신호</td>
+      <td>매수벽 강함</td>
+    </tr>
+    <tr>
+      <td>AI 종합 점수</td>
+      <td>29점</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>세 종목의 모습이 서로 다르다는 점이 눈에 띕니다. 현대차는 외국인·기관이 함께 샀지만, 주성엔지니어링은 외국인이 <strong>10만 주 순매도</strong>였습니다. 같은 선별 목록이어도 수급 모양은 제각각이라는 뜻입니다.</p>
+
+<h2 id="오늘-내가-주목한-것은">오늘 내가 주목한 것은?</h2>
+
+<p>저는 오늘 <strong>“반등의 폭”보다 “반등의 결”</strong>을 봤습니다. 지수가 크게 올랐다고 모든 종목이 같이 오른 것은 아니었고, 거래대금 상위 종목도 삼성SDI처럼 내린 곳이 있었습니다. 또 외국인은 샀지만 기관과 개인은 팔았다는 점에서 매수 주체가 한쪽으로 모이지 않았습니다. 반등이 이어지는지는 다음 주 월요일 아침 흐름을 지켜봐야 알 수 있습니다. 그때 오늘 선별 기록의 잠정 갭이 어떻게 확정되는지도 이 시리즈에서 그대로 복기하겠습니다.</p>
+
+<blockquote>
+  <p>“시장은 맞히는 곳이 아니라 기록하고 돌아보는 곳이다.”</p>
+</blockquote>
+
+<p>오늘 정리가 도움이 되셨다면 <strong>이웃 추가</strong>로 다음 마감 정리도 받아보세요. 궁금한 종목이 있다면 댓글로 남겨 주세요. 💬</p>
+
+<p>#코스피 #코스닥 #하루마감 #증시마감 #현대차 #한화에어로스페이스 #주성엔지니어링 #반도체장비 #삼성중공업 #NextTheme #종가베팅</p>
+
+<hr />
+
+<p>📡 <strong>넥스트테마 (nextTheme)</strong>
+국내 주식 알림 시스템 · 현재 무료</p>
+
+<p>거래대금 · 기관 · 외국인 수급을 교차 분석해
+당일 주도 테마와 종목을 추려내고,
+AI가 최종 판단한 결과를 텔레그램으로 보내드립니다.</p>
+
+<p>💰 <strong>이용료</strong>
+가입비 · 구독료 없음. 채널 입장만 하면 알림을 받습니다.
+(개인 개발 프로젝트로, 베타 기간 무료 공개 중입니다)</p>
+
+<p>👉 <strong>입장하기</strong> : https://t.me/next_theme</p>
+
+<p>⚠️ 투자 자문이나 종목 추천이 아닌 데이터 분석 참고 자료입니다.
+수익을 보장하지 않으며, 모든 투자 판단과 책임은 본인에게 있습니다.</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[급락 다음 날 시장은 어떻게 움직였을까요? 😮 코스피는 전날 -7.57% 폭락한 뒤 오늘 +2.05% 올라 5,668.05포인트로 마감했고, 코스닥은 +4.46% 오른 794.78포인트였습니다. 큰 하락 뒤라 불안하셨을 텐데, 오늘 하루를 숫자로 차분히 정리해 보겠습니다.]]></summary></entry><entry><title type="html">코스피 급반등 하루 만에 +2.97%, 현대차·한화에어로스페이스·주성엔지니어링이 선별된 이유</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/16/nt2-1505-snapshot/" rel="alternate" type="text/html" title="코스피 급반등 하루 만에 +2.97%, 현대차·한화에어로스페이스·주성엔지니어링이 선별된 이유" /><published>2026-10-16T15:05:00+09:00</published><updated>2026-10-16T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/16/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/16/nt2-1505-snapshot/"><![CDATA[<p>📉➡️📈 전날 코스피가 <strong>-7.57%</strong> 급락했다가, 오늘은 <strong>+2.97%</strong> 로 반등했습니다. 하루 사이에 널뛰는 장이라 “오늘 뭘 봐야 하지?” 싶으셨을 텐데요. 오늘 AI가 종가 무렵 후보로 남긴 3개 종목을 <strong>왜 남았는지</strong> 중심으로 정리했습니다.</p>
 
 <h2 id="오늘-장은-어떤-분위기였을까">오늘 장은 어떤 분위기였을까?</h2>
 
@@ -2137,165 +2579,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가베팅 #복기일지 #20261014 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-10-15 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">종가매매 트레이더가 매수 전에 꼭 본다는 ‘전고점 이격’, 왜 그 하나일까</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/15/video-trader-bzfyisxp-zg-video-stock/" rel="alternate" type="text/html" title="종가매매 트레이더가 매수 전에 꼭 본다는 ‘전고점 이격’, 왜 그 하나일까" /><published>2026-10-15T09:00:00+09:00</published><updated>2026-10-15T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/15/video_trader_BZfYIsXP_zg-video-stock</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/15/video-trader-bzfyisxp-zg-video-stock/"><![CDATA[<p>매도는 기술이 아니라 경험의 영역이라고 말하는 트레이더가 있습니다. 이 트레이더가 종목을 압축할 때 가장 먼저 보는 기준도 복잡한 지표가 아니라 딱 하나, 전고점과의 거리라고 하는데 왜 그 거리 하나가 핵심이 되는 걸까요.</p>
-
-<p>이 글은 <a href="https://youtu.be/BZfYIsXP_zg?si=ozuSRBEQduumUibL">@kiwoomchk</a> 채널의 ‘키움 영웅전 우승자 특강’ 영상(신정재 트레이더 편)을 바탕으로 정리했습니다.</p>
-
-<h2 id="이-트레이더는-종목을-왜-빨리-넘길까">이 트레이더는 종목을 왜 빨리 넘길까</h2>
-
-<p>이 트레이더는 본인 성격이 급한 편이라 추세매매보다는 수익이 어느 정도 나면 빨리 실현하는 쪽에 가깝다고 솔직하게 말합니다. 다만 시장이 좋을 때는 추세를 길게 가져가는 쪽이 유리하다는 점도 함께 인정합니다. 익절 타이밍에 대해서는 전일 급등한 종목이 다음날 장 시작 <strong>5분~10분</strong> 이내에 고점을 찍는 경우가 많다고 보고, 그 구간에서 수익을 챙긴 뒤 더 욕심을 부리지 않는다고 설명합니다.</p>
-
-<p>종목을 압축하는 과정에서는 재료의 ‘사실’ 자체보다 ‘뉘앙스’를 더 중요하게 읽는다고 말합니다. 임상 결과 같은 팩트보다 정부 발언이나 국산화 같은 조합이 시장에 주는 느낌을 보고 재료의 지속 가능성을 판단한다는 것입니다. 차트에서는 막대한 거래대금과 함께 위꼬리가 달린 양봉이 나오면 다음날 갭을 주는 경우가 많다고 보고 그 시점을 빠른 매도 기회로 삼습니다. 반대로 대량거래 음봉이 나와도 당일 저점을 깨지 않고 버티는 구간이 보이면, 매수 주체가 밑에서 받쳐주고 있다는 신호로 해석한다고 말합니다.</p>
-
-<p>매수 타점에 대해서는 이평선과 캔들이 수렴하는 변곡점을 먼저 확인한 뒤, 오후 <strong>3시</strong> 이후 적은 거래량으로 전고점을 돌파하는 구간을 선호한다고 설명합니다. 매도 물량이 적은 시점을 골라야 리스크를 최소화할 수 있다는 이유입니다. 저점이 계속 높아지는 상승 추세에서 눌림목이 나올 때는 한 번에 들어가지 않고 분할로 매수하며, 동시호가에 급등하면 그때 매도한다고 말합니다. 변동폭이 좁은 저유동성 종목은 분봉을 신뢰하지 않고 종가 동시호가까지 지켜본 뒤, 전고점을 돌파하며 마감하는지로 매수심리의 우위를 판단한다고도 덧붙입니다. 급등 초입에서 바로 들어가는 대신 주가가 20일선에 닿거나 수렴할 때까지 기다린 뒤 추세를 믿고 진입하는 방식도 함께 소개합니다.</p>
-
-<p>리스크 관리에서는 손절 원칙을 지키는 것을 가장 강조합니다. 물린 포지션을 물타기로 버티지 않고, 특히 미수나 단기매매에서는 자신이 정한 손절 원칙을 반드시 지킨다고 말합니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>기법</th>
-      <th>실행 방법</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>빠른 익절 성향</td>
-      <td>추세매매보다 수익을 빨리 실현, 장세 좋을 땐 추세매매도 인정</td>
-    </tr>
-    <tr>
-      <td>뉴스 뉘앙스 분석</td>
-      <td>팩트보다 발언·국산화 조합의 뉘앙스로 재료 신뢰도 판단</td>
-    </tr>
-    <tr>
-      <td>위꼬리 양봉 익일 갭 활용</td>
-      <td>대량거래+위꼬리 양봉 다음날 갭에서 빠르게 매도</td>
-    </tr>
-    <tr>
-      <td>당일 저점 방어 관찰</td>
-      <td>분봉 저점 미붕괴 구간을 매수 주체 존재 신호로 해석</td>
-    </tr>
-    <tr>
-      <td>오후 3시 전고점 돌파 매수</td>
-      <td>변곡점 확인 후 적은 거래량으로 전고점 돌파 시 진입</td>
-    </tr>
-    <tr>
-      <td>분할매수 눌림목 전략</td>
-      <td>저점 상승 추세의 눌림마다 분할 매수, 동시호가 급등 시 매도</td>
-    </tr>
-    <tr>
-      <td>욕심 통제형 익절</td>
-      <td>익일 시초 5~10분 내 고점에서 수익 확정</td>
-    </tr>
-    <tr>
-      <td>종가까지 관망 후 판단</td>
-      <td>저유동성 종목은 동시호가 전고점 돌파 여부로 결정</td>
-    </tr>
-    <tr>
-      <td>20일선 터치 대기</td>
-      <td>급등 초입 대신 20일선 수렴까지 기다린 뒤 추세 추종</td>
-    </tr>
-    <tr>
-      <td>손절 원칙 엄수</td>
-      <td>물타기 금지, 미수·단기매매는 손절 원칙 반드시 준수</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="이-트레이더는-시황종목을-어떻게-보는가">이 트레이더는 시황·종목을 어떻게 보는가</h2>
-
-<p>이 트레이더는 종목을 압축하기 전에 시황을 읽는 몇 가지 습관도 함께 언급합니다. 재료 뉴스는 뉘앙스로 읽고, 한 번 상한가를 간 종목은 작은 수급에도 크게 반응하는 ‘끼’가 있다고 보고 관심종목으로 관찰합니다. 장중 투자자별 매매동향은 잠정치가 부정확하다고 보고 장 마감 후 확정된 외국인·기관 매수 종목을 더 중요하게 확인하며, 점심시간은 거래가 줄어 변동성이 위험해지는 구간으로 보고 매매를 자제하는 대신 다음 매매를 위한 특징주 검색에만 활용한다고 말합니다. ‘누가 들고 있다’, ‘올라올 것이다’ 같은 세력설은 인지 오류이며 재료가 소멸하면 장기간 물리게 되므로 경계해야 한다는 점도 강조합니다.</p>
-
-<p>종목을 압축하는 기준으로는 전고점과의 이격이 좁아 물린 투자자가 적은 종목, 거래량 폭증과 위꼬리 양봉이 함께 나온 종목, 당일 저점을 지키는 종목, 과거 상한가 이력이 있는 종목을 꼽습니다. 여기에 오후 3시 이후 적은 거래량으로 전고점을 돌파하는 종목, 저점이 계속 높아지는 눌림목 패턴의 종목, 확정치 기준 외국인·기관이 매수한 종목, 점심시간 특징주 검색에 노출된 종목까지 더해 후보를 좁혀간다고 설명합니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>영역</th>
-      <th>체크 포인트</th>
-      <th>핵심 메시지</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>시황 읽기</td>
-      <td>재료 뉴스 뉘앙스</td>
-      <td>사실보다 발언 조합의 느낌을 신뢰도 판단에 사용</td>
-    </tr>
-    <tr>
-      <td>시황 읽기</td>
-      <td>상한가 이력(끼)</td>
-      <td>작은 수급에도 크게 반응할 재발 가능성으로 관찰</td>
-    </tr>
-    <tr>
-      <td>시황 읽기</td>
-      <td>투자자별 매매동향 확정치</td>
-      <td>잠정치 불신, 마감 후 확정치만 중시</td>
-    </tr>
-    <tr>
-      <td>시황 읽기</td>
-      <td>점심시간 거래량 감소</td>
-      <td>매매 자제, 특징주 검색 준비 시간으로만 활용</td>
-    </tr>
-    <tr>
-      <td>시황 읽기</td>
-      <td>세력설·작전 소문</td>
-      <td>인지 오류로 보고 장기 물림 위험을 경계</td>
-    </tr>
-    <tr>
-      <td>종목 선별</td>
-      <td>전고점 이격도</td>
-      <td>좁을수록 물린 물량 적어 저항 낮음</td>
-    </tr>
-    <tr>
-      <td>종목 선별</td>
-      <td>거래량 폭증+위꼬리 양봉</td>
-      <td>익일 갭 상승 확률이 높다고 판단</td>
-    </tr>
-    <tr>
-      <td>종목 선별</td>
-      <td>당일 저점 방어</td>
-      <td>저가에서 매수 주체가 받쳐주는 신호</td>
-    </tr>
-    <tr>
-      <td>종목 선별</td>
-      <td>외국인·기관 확정 매수</td>
-      <td>마감 후 확정치 기준으로만 신뢰</td>
-    </tr>
-    <tr>
-      <td>종목 선별</td>
-      <td>점심 특징주 노출</td>
-      <td>오전 재료의 실제 관심 쏠림 여부 확인</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="종합--이-방법론에서-눈에-띈-점">종합 — 이 방법론에서 눈에 띈 점</h2>
-
-<p>이 영상을 정리하면서 가장 눈에 띈 부분은, 이 트레이더가 수치화된 보조지표보다 ‘거리’와 ‘시간’이라는 단순한 축으로 매수 타점을 좁혀간다는 점입니다. 전고점과의 이격, 오후 3시라는 시간대, 익일 시초 5~10분이라는 좁은 구간처럼 변수를 최소화하는 방식이 반복됩니다. 동시에 손절 원칙과 세력설 경계를 따로 떼어 강조하는 점도 영상에서 눈에 띄는 대목입니다.</p>
-
-<p>이 트레이더는 전고점과의 이격이라는 단 하나의 기준에서 출발해 거래량·저점 방어·시간대까지 좁혀가며 종목을 압축한다고 말합니다.</p>
-
-<p>#NextTheme #종가매매 #전고점이격 #손절원칙 #분할매수 #키움영웅전</p>
-
-<hr />
-
-<p>🎬 <strong>원문 영상</strong> : https://youtu.be/BZfYIsXP_zg?si=ozuSRBEQduumUibL</p>
-
-<hr />
-
-<p>📡 <strong>넥스트테마 (nextTheme)</strong>
-국내 주식 알림 시스템 · 현재 무료</p>
-
-<p>거래대금 · 기관 · 외국인 수급을 교차 분석해
-당일 주도 테마와 종목을 추려내고,
-AI가 최종 판단한 결과를 텔레그램으로 보내드립니다.</p>
-
-<p>💰 <strong>이용료</strong>
-가입비 · 구독료 없음. 채널 입장만 하면 알림을 받습니다.
-(개인 개발 프로젝트로, 베타 기간 무료 공개 중입니다)</p>
-
-<p>👉 <strong>입장하기</strong> : https://t.me/next_theme</p>
-
-<p>⚠️ 투자 자문이나 종목 추천이 아닌 데이터 분석 참고 자료입니다.
-수익을 보장하지 않으며, 모든 투자 판단과 책임은 본인에게 있습니다.</p>]]></content><author><name>NextTheme</name></author><category term="video-stock" /><summary type="html"><![CDATA[매도는 기술이 아니라 경험의 영역이라고 말하는 트레이더가 있습니다. 이 트레이더가 종목을 압축할 때 가장 먼저 보는 기준도 복잡한 지표가 아니라 딱 하나, 전고점과의 거리라고 하는데 왜 그 거리 하나가 핵심이 되는 걸까요.]]></summary></entry></feed>
+<p>#종가베팅 #복기일지 #20261014 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-10-15 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
