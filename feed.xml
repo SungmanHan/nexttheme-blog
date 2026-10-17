@@ -1,4 +1,210 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-10-17T14:27:56+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">AI 혁명은 왜 아직 생산도구 단계에 머물러 있을까</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/17/video-economy-eemeqpwoss0-video-stock/" rel="alternate" type="text/html" title="AI 혁명은 왜 아직 생산도구 단계에 머물러 있을까" /><published>2026-10-17T09:00:00+09:00</published><updated>2026-10-17T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/17/video_economy_eemeQPwOSs0-video-stock</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/17/video-economy-eemeqpwoss0-video-stock/"><![CDATA[<p>인터넷 혁명과 모바일 혁명은 금방 우리 일상 제품으로 번졌는데, AI 혁명은 왜 아직 기업용 도구에만 머물러 있는 걸까요?</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-10-18T06:04:50+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">이번 주 증시 정리 — 코스피 -14.5%, 외국인 13.1조원 순매도가 남긴 것</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/18/weekly/" rel="alternate" type="text/html" title="이번 주 증시 정리 — 코스피 -14.5%, 외국인 13.1조원 순매도가 남긴 것" /><published>2026-10-18T06:00:00+09:00</published><updated>2026-10-18T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/18/weekly</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/18/weekly/"><![CDATA[<p>📉 이번 주 한국 증시는 <strong>코스피 -14.46%, 코스닥 -10.93%</strong> 로 한 주를 마쳤습니다. 지수가 이만큼 빠진 주에는 “왜 이렇게 됐나”와 “다음 주에 무엇을 봐야 하나”가 함께 궁금해지죠. 이번 글은 데이터로 확인되는 사실만 차분히 정리합니다.</p>
+
+<h2 id="이번-주-지수와-환율은-어떻게-움직였나">이번 주 지수와 환율은 어떻게 움직였나?</h2>
+
+<p>기준 시점은 <strong>10/9(금) 종가 → 10/16(금) 종가</strong>입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>지표</th>
+      <th>주초</th>
+      <th>주말</th>
+      <th>주간 변화</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>코스피</td>
+      <td>6,625.93</td>
+      <td>5,668.05</td>
+      <td><strong>-14.46%</strong></td>
+    </tr>
+    <tr>
+      <td>코스닥</td>
+      <td>892.27</td>
+      <td>794.78</td>
+      <td><strong>-10.93%</strong></td>
+    </tr>
+    <tr>
+      <td>원/달러 환율</td>
+      <td>1,344.0원</td>
+      <td>1,331.7원</td>
+      <td>-0.92%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>지수는 크게 밀렸지만 원/달러 환율은 <strong>2년 1개월 만의 최저 수준(1,331.7원)</strong> 까지 내려왔습니다. 보통 환율이 내려가면 외국인 자금 유입을 기대하게 되는데, 이번 주는 두 흐름이 따로 움직였습니다.</p>
+
+<h2 id="왜-시장이-흔들렸나--물가와-금리-유가">왜 시장이 흔들렸나? — 물가와 금리, 유가</h2>
+
+<ul>
+  <li><strong>물가</strong>: 미국 9월 CPI가 예상(3.6%)을 웃도는 <strong>3.7%</strong> 로 나오면서 인플레이션 우려가 다시 커졌습니다.</li>
+  <li><strong>금리</strong>: 연준의 추가 금리 인상 가능성이 커지자 AI·반도체처럼 금리에 민감한 종목이 먼저 부담을 받았습니다.</li>
+  <li><strong>유가</strong>: 중동 긴장이 높아지며 국제유가는 배럴당 <strong>$90~$101</strong> 구간으로 급등했고, 주간 최고 상승률은 <strong>+3.85%</strong> 였습니다. 에너지 업종에는 호재지만 제조업의 원가 부담은 늘어나는 흐름입니다.</li>
+  <li><strong>수출</strong>: 한국 수출은 <strong>1,209억 달러로 역대 최대(+83.5%)</strong> 를 기록했고, 반도체 단일 품목은 사상 처음 <strong>600억 달러</strong> 를 넘었습니다. 다만 메모리 가격 하락 임박 경고와 중국 CXMT의 매출 <strong>600%</strong> 급증 소식이 함께 나오면서 추격 우려도 커졌습니다.</li>
+</ul>
+
+<h2 id="수급은-누가-팔고-누가-샀나">수급은 누가 팔고 누가 샀나?</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>투자자</th>
+      <th>이번 주 순매수 (음수=순매도)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>외국인</td>
+      <td><strong>-13.1조원</strong></td>
+    </tr>
+    <tr>
+      <td>큰 투자기관(기관)</td>
+      <td><strong>+3.5조원</strong></td>
+    </tr>
+    <tr>
+      <td>개인</td>
+      <td><strong>+6.2조원</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>외국인이 대규모로 팔았고, 기관과 개인이 그 물량을 받아낸 구도입니다. 금요일에는 외국인이 <strong>+3,050억원</strong> 순매수로 돌아서며 한 주의 마지막 날 반등의 실마리를 보였습니다.</p>
+
+<h2 id="테마는-왜-하루-만에-바뀌었나">테마는 왜 하루 만에 바뀌었나?</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>시점</th>
+      <th>주도 흐름</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>주초</td>
+      <td>반도체 소부장, 2차전지(LG에너지솔루션), 해운이 주도</td>
+    </tr>
+    <tr>
+      <td>수요일</td>
+      <td>필라델피아 반도체 지수 <strong>-4.3%</strong> 급락, 반도체 테마 붕괴</td>
+    </tr>
+    <tr>
+      <td>목요일</td>
+      <td>코스피 <strong>-7.57%</strong> 급락 국면에서 바이오·은행·보안 등 방어주 강세</td>
+    </tr>
+    <tr>
+      <td>금요일</td>
+      <td>기술적 반등, 전자파·원격진료·의료AI와 반도체 장비(주성엔지니어링 거래대금 <strong>3,354억원</strong>)가 단기 회복</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>이번 주 테마 리더십은 하루 단위로 급변했습니다. 참고로 이번 주 AI 선별 6개 테마 중 측정이 끝난 <strong>3건의 평균 수익률은 -1.56%</strong> 였고, 상승으로 마감한 테마는 <strong>0건</strong> 이었습니다. 이 결과도 있는 그대로 기록해 둡니다.</p>
+
+<h2 id="다음-주에는-무엇을-확인할까">다음 주에는 무엇을 확인할까?</h2>
+
+<p>아래는 <strong>다음 주 일정과 확인 포인트</strong>입니다. 결과를 예측한 것이 아니라, 발표 전후로 무엇을 보면 되는지 정리한 체크리스트입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>날짜</th>
+      <th>이벤트</th>
+      <th>확인 포인트</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>10/21(수)</td>
+      <td>미국 원유재고 (23:30)</td>
+      <td>전회 <strong>-8.557M</strong> 대비 재고 감소가 이어지는지</td>
+    </tr>
+    <tr>
+      <td>10/22(목)</td>
+      <td>한국 금리 결정 (10:00, 현 <strong>3%</strong>)</td>
+      <td>동결인지 인상인지에 따라 외국인 수급 방향의 조건이 달라짐</td>
+    </tr>
+    <tr>
+      <td>10/22(목)</td>
+      <td>미국 신규 실업수당청구건수 (21:30)</td>
+      <td>예상 <strong>200K</strong> 대비 상회·하회</td>
+    </tr>
+    <tr>
+      <td>10/23(금)</td>
+      <td>미국 PMI (22:45)</td>
+      <td>서비스 <strong>57.9</strong>, 제조업 <strong>55.6</strong> 예상 대비 상회·하회</td>
+    </tr>
+    <tr>
+      <td>10/23(금)</td>
+      <td>미국 미시간대 소비자심리지수 (23:00)</td>
+      <td>예상 <strong>46.3</strong> 대비 상회·하회</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>재료에서 바닥 확인 신호로 든 기준은 <strong>외국인 순매수 전환이 1조원 이상 규모로 확대되는지</strong> 입니다. 금리 결정 결과와 미국 PMI 발표가 이 흐름과 겹치는지 함께 보면 좋겠습니다.</p>
+
+<h2 id="주목-섹터와-리스크는">주목 섹터와 리스크는?</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>섹터</th>
+      <th>관찰 포인트</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>에너지·석유화학</td>
+      <td>유가 <strong>$100</strong> 돌파 여부. WTI <strong>$95 이상</strong> 유지가 유효 조건, <strong>$90 하회</strong>는 무효 조건으로 제시됨</td>
+    </tr>
+    <tr>
+      <td>방산·우주항공</td>
+      <td>중동 긴장 지속과 방위비 증가. 중동 휴전이나 정부 지출 축소 시 무효</td>
+    </tr>
+    <tr>
+      <td>반도체 장비</td>
+      <td>금요일 테마 1위(<strong>+6.29%</strong>). 메모리 투자 재개 기대가 유지되는지, 메모리 가격 하락이 가시화되는지</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>주의해서 볼 리스크는 세 가지입니다.</p>
+
+<ul>
+  <li><strong>외국인 순매도 지속</strong>: 이번 주 <strong>-13.1조원</strong>. 추가 매도가 이어지면 코스피 5,000선이 위협받을 수 있다는 재료의 지적이 있습니다.</li>
+  <li><strong>반도체 실적 우려</strong>: 메모리 가격 하락 경고와 중국 추격 소식이 삼성전자·SK하이닉스 등 반도체 전반에 부담이 될 수 있습니다.</li>
+  <li><strong>빚투 강제청산</strong>: 이번 주 약 <strong>3,000억원</strong> 규모로 발생했습니다. 코스피가 추가로 밀리면 청산이 연쇄될 수 있다는 점이 관건입니다.</li>
+</ul>
+
+<h2 id="한-주를-이렇게-기록해-둡니다">한 주를 이렇게 기록해 둡니다</h2>
+
+<p>이번 주에 제가 가장 눈여겨본 것은 지수보다 <strong>수급의 방향</strong>이었습니다. 지수가 14% 넘게 빠지는 동안 환율은 오히려 내려가는, 엇갈린 흐름이 나왔기 때문입니다. 한 주의 데이터만으로는 어느 쪽이 맞는지 단정할 수 없고, 그래서 다음 주 금리 결정과 외국인 수급이 확인 지점이 된다고 봅니다.</p>
+
+<p>이번 주 시장에서 가장 크게 체감한 종목이나 테마가 있었다면 <strong>댓글로 남겨주세요</strong>. 주간 리뷰를 받아보고 싶다면 <strong>이웃 추가</strong>도 부탁드립니다.</p>
+
+<p>#주간증시정리 #코스피 #외국인순매도 #반도체 #빚투청산 #다음주관전포인트 #종가베팅 #NextTheme</p>
+
+<hr />
+
+<p>📡 <strong>넥스트테마 (nextTheme)</strong>
+국내 주식 알림 시스템 · 현재 무료</p>
+
+<p>거래대금 · 기관 · 외국인 수급을 교차 분석해
+당일 주도 테마와 종목을 추려내고,
+AI가 최종 판단한 결과를 텔레그램으로 보내드립니다.</p>
+
+<p>💰 <strong>이용료</strong>
+가입비 · 구독료 없음. 채널 입장만 하면 알림을 받습니다.
+(개인 개발 프로젝트로, 베타 기간 무료 공개 중입니다)</p>
+
+<p>👉 <strong>입장하기</strong> : https://t.me/next_theme</p>
+
+<p>⚠️ 투자 자문이나 종목 추천이 아닌 데이터 분석 참고 자료입니다.
+수익을 보장하지 않으며, 모든 투자 판단과 책임은 본인에게 있습니다.</p>]]></content><author><name>NextTheme</name></author><category term="weekly" /><summary type="html"><![CDATA[📉 이번 주 한국 증시는 코스피 -14.46%, 코스닥 -10.93% 로 한 주를 마쳤습니다. 지수가 이만큼 빠진 주에는 “왜 이렇게 됐나”와 “다음 주에 무엇을 봐야 하나”가 함께 궁금해지죠. 이번 글은 데이터로 확인되는 사실만 차분히 정리합니다.]]></summary></entry><entry><title type="html">AI 혁명은 왜 아직 생산도구 단계에 머물러 있을까</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/17/video-economy-eemeqpwoss0-video-stock/" rel="alternate" type="text/html" title="AI 혁명은 왜 아직 생산도구 단계에 머물러 있을까" /><published>2026-10-17T09:00:00+09:00</published><updated>2026-10-17T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/17/video_economy_eemeQPwOSs0-video-stock</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/17/video-economy-eemeqpwoss0-video-stock/"><![CDATA[<p>인터넷 혁명과 모바일 혁명은 금방 우리 일상 제품으로 번졌는데, AI 혁명은 왜 아직 기업용 도구에만 머물러 있는 걸까요?</p>
 
 <p>이 글은 <a href="https://youtu.be/eemeQPwOSs0?si=2_9ibfHtjIzxQett">@rsangmoo</a> 채널의 영상을 바탕으로 정리했습니다.</p>
 
@@ -1647,81 +1853,4 @@ AI가 최종 판단한 결과를 텔레그램으로 보내드립니다.</p>
 <p>👉 <strong>입장하기</strong> : https://t.me/next_theme</p>
 
 <p>⚠️ 투자 자문이나 종목 추천이 아닌 데이터 분석 참고 자료입니다.
-수익을 보장하지 않으며, 모든 투자 판단과 책임은 본인에게 있습니다.</p>]]></content><author><name>NextTheme</name></author><category term="video-stock" /><summary type="html"><![CDATA[종가베팅을 실전 매수·매도 화면으로 통째로 보여준다는 영상이 있습니다. 어떤 기준으로 사고 팔았는지, 이 글로 확인할 수 있을지 함께 살펴봤습니다.]]></summary></entry><entry><title type="html">9월 PPI가 4년 반 만에 최고치인데 PCE 품목을 따로 봐야 하는 이유</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/16/video-economy-igpjooca2pe-video-stock/" rel="alternate" type="text/html" title="9월 PPI가 4년 반 만에 최고치인데 PCE 품목을 따로 봐야 하는 이유" /><published>2026-10-16T08:20:23+09:00</published><updated>2026-10-16T08:20:23+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/16/video_economy_IGPJOocA2pE-video-stock</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/16/video-economy-igpjooca2pe-video-stock/"><![CDATA[<p>이 영상은 9월 생산자물가(PPI)가 4년 반 만에 가장 높게 나왔더라도, 물가 숫자 하나가 아니라 PCE 반영 품목과 소비 지표를 교차해서 읽어야 한다고 말합니다.</p>
-
-<p>이 글은 <a href="https://www.youtube.com/live/IGPJOocA2pE?si=B2AhU4zlgCZjaz-R">@hkwowtv</a> 채널의 영상을 바탕으로 정리했습니다.</p>
-
-<h2 id="이-영상은-시황을-어떻게-해석하라고-말하는가">이 영상은 시황을 어떻게 해석하라고 말하는가</h2>
-
-<p>이 영상은 PPI 전체 수치가 뜨겁게 나와도 그 안에서 연준이 실제로 참고하는 개인소비지출(PCE) 산출 품목을 따로 떼어 봐야 한다고 말합니다. 항공료처럼 PCE 산출에 들어가는 항목의 상승세가 미미하면, 헤드라인 숫자만큼 연준이 민감하게 반응하지 않을 수 있다는 설명입니다. 같은 맥락에서 이 영상은 물가 지표 하나만 보지 말고 소매판매 같은 소비 지표와 함께 교차 확인해야 한다고 강조합니다. 물가가 똑같이 뜨겁더라도 소비가 함께 둔화되면 금리인상 확률(페드워치 기준)은 오히려 낮아질 수 있다는 논리입니다.</p>
-
-<p>시장 전반의 위험 신호를 읽는 법으로는, 이 영상은 국채금리와 나스닥이 같은 날 함께 빠지는 상황을 가장 경계해야 할 패턴(BTIG 인용)으로 소개합니다. 통상 금리 하락은 증시에 호재지만, 그 하락 원인이 경기 둔화 우려라면 기술주와 금리가 동반 하락하는 조합 자체가 위험 신호라는 해석입니다. 이 영상은 같은 날 금·달러·국채 같은 안전자산과 비트코인 같은 위험자산이 어떻게 함께 움직이는지도 봐야 한다고 말합니다. 국채금리가 급락하는 날 금값이 반등하고 달러가 약해지면서 비트코인 투자심리가 탐욕에서 중립으로 식는지를 함께 보면, 시장의 위험회피 강도를 교차로 가늠할 수 있다는 설명입니다.</p>
-
-<p>AI 투자 열기를 둘러싼 신용 리스크에 대해서는, 이 영상은 특정 기업의 주가 반등과 별개로 회사채 금리·CDS 프리미엄·부채비율 같은 신용 지표를 함께 봐야 한다고 말합니다. 코어위브라는 기업을 예로 들며, 회사채 금리가 급등하고 CDS 프리미엄이 치솟고 부채비율이 과도하게 높다면 GPU를 빌려 임대하는 사업 모델 자체에 시장이 의구심을 갖고 있다는 신호로 읽어야 한다는 설명입니다. 거시적으로는 이 영상이 UBS의 분석을 인용해, 1999년 닷컴버블 당시와 2026년 현재의 자본지출·실질GDP 성장률·고용 증가율·재정수지를 함께 비교해야 한다고 말합니다. 투자(자본지출)는 늘었는데 실질성장률과 고용 증가율이 오히려 둔화되고 재정적자가 커졌다면, 투자 열기만큼 경제가 따라오지 못하는 불균형 국면으로 보고 자금조달 비용 상승 리스크를 주시해야 한다는 해석입니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>보는 지표/신호</th>
-      <th>해석하는 법</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>PPI 중 PCE 반영 품목</td>
-      <td>헤드라인 PPI와 별개로 PCE 산출 품목만 떼어 연준 민감도를 가늠</td>
-    </tr>
-    <tr>
-      <td>물가 지표×금리인상 확률</td>
-      <td>물가만 보지 말고 소매판매 등 소비 지표와 교차 확인</td>
-    </tr>
-    <tr>
-      <td>국채금리×나스닥 동반 하락</td>
-      <td>금리·기술주 동시 하락을 경기 둔화 경계 신호로 해석(BTIG)</td>
-    </tr>
-    <tr>
-      <td>코어위브 신용 지표</td>
-      <td>회사채 금리·CDS 프리미엄·부채비율로 사업 모델 신뢰도 점검</td>
-    </tr>
-    <tr>
-      <td>1999년×2026년 거시지표 비교</td>
-      <td>자본지출 대비 성장률·고용·재정수지 불균형을 버블 경계 신호로 봄(UBS)</td>
-    </tr>
-    <tr>
-      <td>안전자산×위험자산 동시 움직임</td>
-      <td>금·달러·국채와 비트코인 심리를 함께 보고 위험회피 강도 교차 확인</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="눈에-띈-해석-틀">눈에 띈 해석 틀</h2>
-
-<p>개인적으로 인상적인 부분은, 이 영상이 물가 지표 하나를 단독으로 읽지 말고 항상 다른 지표와 ‘교차’시켜 읽으라고 반복해서 강조하는 점입니다. PPI는 PCE 품목과, 물가는 소비 지표와, 금리는 기술주 흐름과, 안전자산은 위험자산 심리와 묶어서 보라는 방식인데, 이렇게 지표를 단독으로 보지 않고 쌍으로 엮는 습관 자체가 헤드라인 숫자에 일희일비하지 않게 해주는 틀로 느껴졌습니다.</p>
-
-<h2 id="결론">결론</h2>
-
-<p>이 영상의 핵심은 물가·금리·신용 지표를 단독으로 보지 말고 서로 교차시켜 시장의 진짜 위험 신호를 걸러내라는 해석법입니다.</p>
-
-<p>#NextTheme #PPI물가지표 #금리인상확률 #코어위브신용리스크 #AI버블판별 #나스닥시황</p>
-
-<hr />
-
-<p>🎬 <strong>원문 영상</strong> : https://www.youtube.com/live/IGPJOocA2pE?si=B2AhU4zlgCZjaz-R</p>
-
-<hr />
-
-<p>📡 <strong>넥스트테마 (nextTheme)</strong>
-국내 주식 알림 시스템 · 현재 무료</p>
-
-<p>거래대금 · 기관 · 외국인 수급을 교차 분석해
-당일 주도 테마와 종목을 추려내고,
-AI가 최종 판단한 결과를 텔레그램으로 보내드립니다.</p>
-
-<p>💰 <strong>이용료</strong>
-가입비 · 구독료 없음. 채널 입장만 하면 알림을 받습니다.
-(개인 개발 프로젝트로, 베타 기간 무료 공개 중입니다)</p>
-
-<p>👉 <strong>입장하기</strong> : https://t.me/next_theme</p>
-
-<p>⚠️ 투자 자문이나 종목 추천이 아닌 데이터 분석 참고 자료입니다.
-수익을 보장하지 않으며, 모든 투자 판단과 책임은 본인에게 있습니다.</p>]]></content><author><name>NextTheme</name></author><category term="video-stock" /><summary type="html"><![CDATA[이 영상은 9월 생산자물가(PPI)가 4년 반 만에 가장 높게 나왔더라도, 물가 숫자 하나가 아니라 PCE 반영 품목과 소비 지표를 교차해서 읽어야 한다고 말합니다.]]></summary></entry></feed>
+수익을 보장하지 않으며, 모든 투자 판단과 책임은 본인에게 있습니다.</p>]]></content><author><name>NextTheme</name></author><category term="video-stock" /><summary type="html"><![CDATA[종가베팅을 실전 매수·매도 화면으로 통째로 보여준다는 영상이 있습니다. 어떤 기준으로 사고 팔았는지, 이 글로 확인할 수 있을지 함께 살펴봤습니다.]]></summary></entry></feed>
