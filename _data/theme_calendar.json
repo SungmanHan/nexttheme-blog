@@ -1,25 +1,25 @@
 {
-  "lastTradingDay" : "2026-10-16",
-  "totalDays" : 108,
+  "lastTradingDay" : "2026-10-19",
+  "totalDays" : 109,
   "summary" : {
-    "tradingDays" : 108,
+    "tradingDays" : 109,
     "sectorCount" : 16,
-    "upDays" : 100,
-    "avgChangeRate" : 5.89,
+    "upDays" : 101,
+    "avgChangeRate" : 5.92,
     "topSector" : "반도체·AI인프라",
     "topSectorDays" : 24
   },
   "now" : {
-    "date" : "2026-10-16",
-    "bettingGrade" : "GREEN",
-    "regimeTag" : "GREEN",
-    "themeRegime" : "INDEX_LED",
-    "marketSignal" : "혼조",
-    "kospi" : 2.05,
-    "kosdaq" : 4.46,
-    "leadTheme" : "반도체 장비",
-    "leadChangeRate" : 7.33,
-    "themePremium" : 5.28
+    "date" : "2026-10-19",
+    "bettingGrade" : "YELLOW",
+    "regimeTag" : "YELLOW",
+    "themeRegime" : "THEME_LED",
+    "marketSignal" : "혼조상승",
+    "kospi" : 1.76,
+    "kosdaq" : 1.78,
+    "leadTheme" : "2차전지(나트륨이온)",
+    "leadChangeRate" : 8.46,
+    "themePremium" : 6.7
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
@@ -27,8 +27,8 @@
     "top3Days" : 41
   }, {
     "sector" : "자동차·2차전지",
-    "rank1Days" : 13,
-    "top3Days" : 30
+    "rank1Days" : 14,
+    "top3Days" : 31
   }, {
     "sector" : "전자부품·기판",
     "rank1Days" : 8,
@@ -2064,6 +2064,25 @@
         "changeRate" : 9.1
       } ],
       "mainStock" : ""
-    } ] ]
+    } ], [ {
+      "day" : 19,
+      "date" : "2026-10-19",
+      "theme" : "2차전지(나트륨이온)",
+      "sector" : "자동차·2차전지",
+      "changeRate" : 8.46,
+      "prevDay" : "NEW",
+      "regime" : "THEME_LED",
+      "slot" : "15:00",
+      "kospi" : 1.76,
+      "themePremium" : 6.7,
+      "runners" : [ {
+        "theme" : "리튬",
+        "changeRate" : 7.33
+      }, {
+        "theme" : "2차전지(생산)",
+        "changeRate" : 8.04
+      } ],
+      "mainStock" : ""
+    }, null, null, null, null ] ]
   } ]
 }
