@@ -1,4 +1,434 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-10-19T23:32:42+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">삼성SDI +11.6%, 거래대금 9,844억원 — 반도체에서 빠진 자금이 2차전지로 몰린 하루</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/19/nt2-1505-snapshot/" rel="alternate" type="text/html" title="삼성SDI +11.6%, 거래대금 9,844억원 — 반도체에서 빠진 자금이 2차전지로 몰린 하루" /><published>2026-10-19T15:05:00+09:00</published><updated>2026-10-19T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/19/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/19/nt2-1505-snapshot/"><![CDATA[<p>🔄 오늘은 반도체가 크게 밀리면서 빠져나온 돈이 <strong>2차전지(ESS) 테마</strong>로 한꺼번에 이동한 날이었습니다. 후보로 남은 종목은 <strong>삼성SDI 1개</strong>뿐입니다. 왜 이 종목만 남았는지 데이터로 정리해 봤습니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-10-19T23:33:56+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 1.76% 반등, 반도체에서 2차전지로 쏠린 하루 — 오늘 시장 마감 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/19/daily/" rel="alternate" type="text/html" title="코스피 1.76% 반등, 반도체에서 2차전지로 쏠린 하루 — 오늘 시장 마감 정리" /><published>2026-10-19T21:00:00+09:00</published><updated>2026-10-19T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/19/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/19/daily/"><![CDATA[<p>오늘 코스피는 <strong>5,768.01포인트</strong>(+1.76%)로 마감했습니다. 지난주 큰 폭으로 밀린 뒤 나온 반등이라 “이제 바닥인가?” 하는 생각이 드셨을 텐데요. 오늘은 지수보다 <strong>돈이 어디로 옮겨갔는지</strong>가 더 눈에 띄는 하루였습니다. 📈</p>
+
+<hr />
+
+<h2 id="어제-ai가-고른-종목-오늘-아침-실제로는-어땠을까">어제 AI가 고른 종목, 오늘 아침 실제로는 어땠을까?</h2>
+
+<p>복기는 맞았을 때만 쓰면 의미가 없어서, 결과가 안 좋았던 종목도 그대로 적습니다.</p>
+
+<p>아래는 어제 선별 종목의 오늘 아침(08:00~09:59) 흐름입니다. 기준은 AI가 기록한 진입가이며, <strong>진입가 대비</strong> 수치입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>아침 갭</th>
+      <th>관측 구간 최고</th>
+      <th>관측 구간 최저</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>현대차</td>
+      <td><strong>+0.6%</strong></td>
+      <td>+1.0%</td>
+      <td>-4.5%</td>
+    </tr>
+    <tr>
+      <td>한화에어로스페이스</td>
+      <td><strong>-1.6%</strong></td>
+      <td>+0.6%</td>
+      <td>-4.2%</td>
+    </tr>
+    <tr>
+      <td>삼성중공업</td>
+      <td><strong>-17.3%</strong></td>
+      <td>-16.2%</td>
+      <td>-17.6%</td>
+    </tr>
+    <tr>
+      <td>주성엔지니어링</td>
+      <td><strong>-4.7%</strong></td>
+      <td>-0.2%</td>
+      <td>-5.3%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>네 종목 중 시작 가격이 진입가보다 높았던 곳은 현대차 한 곳뿐이었고, <strong>삼성중공업은 진입가 대비 -17.3%로 출발</strong>했습니다. 오늘 아침 기준으로는 아쉬운 복기입니다.</p>
+
+<p>오늘 선별 종목의 애프터마켓(15:40~19:59) 흐름은 아직 <strong>잠정치</strong>입니다. 실제 결과는 내일 아침에 확인됩니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>애프터마켓 마지막</th>
+      <th>관측 구간 최고</th>
+      <th>관측 구간 최저</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>삼성SDI</td>
+      <td><strong>+0.1%</strong></td>
+      <td>+0.1%</td>
+      <td>-1.3%</td>
+    </tr>
+    <tr>
+      <td>삼성중공업</td>
+      <td><strong>-14.1%</strong></td>
+      <td>-13.9%</td>
+      <td>-14.7%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>삼성SDI는 진입가 부근에서 마무리했고, 삼성중공업은 저녁에도 진입가보다 한참 아래에 머물렀습니다.</p>
+
+<hr />
+
+<h2 id="오늘-코스피코스닥은-얼마나-회복했을까">오늘 코스피·코스닥은 얼마나 회복했을까?</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>종가</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>코스피</td>
+      <td><strong>5,768.01포인트</strong></td>
+      <td>+1.76%</td>
+    </tr>
+    <tr>
+      <td>코스닥</td>
+      <td><strong>808.89포인트</strong></td>
+      <td>+1.78%</td>
+    </tr>
+    <tr>
+      <td>원/달러 환율</td>
+      <td><strong>1,329.8원</strong></td>
+      <td>—</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>최근 코스피 흐름을 보면 낙폭이 컸습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>날짜</th>
+      <th>코스피 종가</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9월 25일</td>
+      <td>7,080.92</td>
+    </tr>
+    <tr>
+      <td>10월 8일</td>
+      <td>6,625.93</td>
+    </tr>
+    <tr>
+      <td>10월 13일</td>
+      <td>6,035.35</td>
+    </tr>
+    <tr>
+      <td>10월 15일</td>
+      <td><strong>5,554.22</strong></td>
+    </tr>
+    <tr>
+      <td>10월 16일</td>
+      <td>5,668.05</td>
+    </tr>
+    <tr>
+      <td>10월 19일</td>
+      <td><strong>5,768.01</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>9월 25일 이후 약 3주 동안 <strong>1,500포인트 넘게 빠졌다가</strong>, 10월 15일 저점 이후 이틀 연속 올랐습니다. 아직 낙폭을 되돌렸다고 보기엔 거리가 멉니다.</p>
+
+<p>오늘 투자 주체별 매매(억원, 음수는 순매도)는 이랬습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>주체</th>
+      <th>순매수</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>외국인</td>
+      <td><strong>+6,058억원</strong></td>
+    </tr>
+    <tr>
+      <td>기관(연금·펀드 같은 큰 투자기관)</td>
+      <td><strong>+6,901억원</strong></td>
+    </tr>
+    <tr>
+      <td>개인</td>
+      <td><strong>-17,502억원</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>외국인과 기관이 함께 사고, 개인이 1.7조원 넘게 판 날입니다.</p>
+
+<p>참고로 오전 6시 브리핑 기준으로 지난 금요일 밤 미국장은 다우 -0.34%, S&amp;P500 -1.09%, 나스닥 -2.15%, 필라델피아 반도체 -3.83%였습니다. 미국 반도체가 크게 밀린 상태에서 국내 장이 시작된 하루였던 셈입니다.</p>
+
+<hr />
+
+<h2 id="오늘-거래대금은-어디에-몰렸을까">오늘 거래대금은 어디에 몰렸을까?</h2>
+
+<p>거래대금(그날 사고판 금액) 상위 10개 종목입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>순위</th>
+      <th>종목</th>
+      <th>거래대금</th>
+      <th>등락률</th>
+      <th>거래량</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>SK하이닉스</td>
+      <td><strong>6.1조원</strong></td>
+      <td>+0.16%</td>
+      <td>496만 주</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>삼성전자</td>
+      <td><strong>5.6조원</strong></td>
+      <td>+1.16%</td>
+      <td>2,653만 주</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>삼성전기</td>
+      <td><strong>1.4조원</strong></td>
+      <td>-1.68%</td>
+      <td>121만 주</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>삼성SDI</td>
+      <td><strong>9,844억원</strong></td>
+      <td><strong>+11.6%</strong></td>
+      <td>175만 주</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>삼성전자우</td>
+      <td>6,184억원</td>
+      <td>+2.09%</td>
+      <td>366만 주</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>SK스퀘어</td>
+      <td>4,290억원</td>
+      <td>-1.66%</td>
+      <td>57만 주</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>LG에너지솔루션</td>
+      <td>3,891억원</td>
+      <td><strong>+6.82%</strong></td>
+      <td>92만 주</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>현대차</td>
+      <td>2,518억원</td>
+      <td>+4.17%</td>
+      <td>79만 주</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>주성엔지니어링</td>
+      <td>2,429억원</td>
+      <td>-1.19%</td>
+      <td>119만 주</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>삼성바이오로직스</td>
+      <td>2,035억원</td>
+      <td><strong>+8.94%</strong></td>
+      <td>15만 주</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>SK하이닉스와 삼성전자는 거래대금 1·2위였지만 등락률은 크지 않았습니다. 반면 <strong>삼성SDI(+11.6%)·삼성바이오로직스(+8.94%)·LG에너지솔루션(+6.82%)</strong>은 거래대금 상위권에서 큰 폭으로 올랐습니다.</p>
+
+<p>테마 순위는 2차전지 쪽이 상위를 채웠습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>순위</th>
+      <th>테마</th>
+      <th>상승 종목 / 전체 종목</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2차전지(나트륨이온)</td>
+      <td><strong>9 / 9</strong></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>리비안(RIVIAN)</td>
+      <td>17 / 21</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>2차전지(생산)</td>
+      <td>3 / 3</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>전기차 화재 방지(배터리 열폭주 등)</td>
+      <td>24 / 28</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>리튬</td>
+      <td>19 / 22</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>2차전지(소재/부품)</td>
+      <td>65 / 73</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>1위 테마는 9종목이 전부 올랐고, 상위 6개 중 4개가 2차전지·배터리와 이어진 테마입니다.</p>
+
+<hr />
+
+<h2 id="ai는-왜-삼성sdi를-골랐을까">AI는 왜 삼성SDI를 골랐을까?</h2>
+
+<p>오늘 최종 선별 결과는 <strong>삼성SDI 1종목</strong>입니다. AI는 “반도체에서 빠진 자금이 2차전지(ESS) 테마로 이동했고, 테마 거래대금이 오전 대비 2배로 늘었다”는 점을 근거로 기록했습니다. 반면 야간 미국 반도체 ETF가 -4.14%였던 만큼 <strong>밤사이 흐름이 뒤집힐 위험</strong>도 함께 적어 두었습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>항목</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>종가 / 등락률</td>
+      <td>591,500원 / <strong>+11.6%</strong></td>
+    </tr>
+    <tr>
+      <td>거래대금 / 시가총액</td>
+      <td>9,844억원 / 47.6조원</td>
+    </tr>
+    <tr>
+      <td>주도 테마 / 테마 내 순위</td>
+      <td>2차전지(나트륨이온) / 1위</td>
+    </tr>
+    <tr>
+      <td>RSI(과열 정도, 100에 가까울수록 과열)</td>
+      <td>59.0</td>
+    </tr>
+    <tr>
+      <td>거래량 배율(평소 대비)</td>
+      <td>2.2배</td>
+    </tr>
+    <tr>
+      <td>이동평균선 수렴</td>
+      <td>+0.1%</td>
+    </tr>
+    <tr>
+      <td>52주 신고가</td>
+      <td>아님</td>
+    </tr>
+    <tr>
+      <td>거래량 흐름(OBV)</td>
+      <td>중립</td>
+    </tr>
+    <tr>
+      <td>외국인 순매수</td>
+      <td>+12만 주</td>
+    </tr>
+    <tr>
+      <td>기관 순매수</td>
+      <td>+7만 주</td>
+    </tr>
+    <tr>
+      <td>호가 신호</td>
+      <td>매수벽 약함</td>
+    </tr>
+    <tr>
+      <td>매출 증가율(전년 동기 대비)</td>
+      <td>+32.3%</td>
+    </tr>
+    <tr>
+      <td>최근 분기 실적 (2026.09.)</td>
+      <td>매출 40,388억원 / 영업이익 1,913억원</td>
+    </tr>
+    <tr>
+      <td>AI 종합 점수</td>
+      <td>47점</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>눈에 띄는 점을 정리하면 이렇습니다.</p>
+
+<ul>
+  <li>🔹 <strong>외국인(+12만 주)과 기관(+7만 주)이 같이 샀습니다.</strong></li>
+  <li>🔹 <strong>거래량이 평소의 2.2배</strong>로 늘었습니다.</li>
+  <li>🔹 RSI 59.0이라 과열권은 아니었고, 매수 호가에 쌓인 잔량은 <strong>강하지 않은 편</strong>(매수벽 약함)이었습니다.</li>
+</ul>
+
+<p>이 내용은 매수 권유가 아니라 AI 선별 기록입니다. 애프터마켓에서는 진입가 부근(+0.1%~-1.3%)을 오갔고, 실제 결과는 내일 아침에 나옵니다.</p>
+
+<hr />
+
+<h2 id="오늘-이-흐름에서-제가-주목한-것은">오늘 이 흐름에서 제가 주목한 것은?</h2>
+
+<p>오늘 제가 눈여겨본 건 <strong>지수 반등보다 자금의 이동 방향</strong>입니다. 거래대금 1·2위는 여전히 반도체 대형주였지만, 큰 폭으로 오른 쪽은 배터리 관련주였습니다. 한 번 크게 빠진 시장에서는 “어디가 오르나”보다 “돈이 어디서 어디로 옮겨가나”를 보면 시장의 분위기를 읽기 쉽습니다.</p>
+
+<p>한편 아침 복기에서 삼성중공업처럼 진입가와 크게 벌어진 종목이 나왔다는 점도 같이 기억해 두려고 합니다. 선별 기록은 맞은 날만이 아니라 틀린 날까지 쌓여야 의미가 있습니다. 📝</p>
+
+<blockquote>
+  <p>“시장은 맞히는 사람이 아니라, 틀렸을 때 기록을 남기는 사람에게 배움을 준다.”</p>
+</blockquote>
+
+<p>오늘 정리는 여기까지입니다. 여러분은 오늘 반도체에서 2차전지로 옮겨간 흐름을 어떻게 보셨나요? 댓글로 의견 나눠주세요. 이웃 추가를 해두시면 내일 아침 결과 복기도 이어서 보실 수 있어요. 🙌</p>
+
+<p>#코스피 #삼성SDI #2차전지 #나트륨이온 #하루마감정리 #거래대금 #반도체 #SK하이닉스 #종가베팅 #NextTheme</p>
+
+<hr />
+
+<p>📡 <strong>넥스트테마 (nextTheme)</strong>
+국내 주식 알림 시스템 · 현재 무료</p>
+
+<p>거래대금 · 기관 · 외국인 수급을 교차 분석해
+당일 주도 테마와 종목을 추려내고,
+AI가 최종 판단한 결과를 텔레그램으로 보내드립니다.</p>
+
+<p>💰 <strong>이용료</strong>
+가입비 · 구독료 없음. 채널 입장만 하면 알림을 받습니다.
+(개인 개발 프로젝트로, 베타 기간 무료 공개 중입니다)</p>
+
+<p>👉 <strong>입장하기</strong> : https://t.me/next_theme</p>
+
+<p>⚠️ 투자 자문이나 종목 추천이 아닌 데이터 분석 참고 자료입니다.
+수익을 보장하지 않으며, 모든 투자 판단과 책임은 본인에게 있습니다.</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[오늘 코스피는 5,768.01포인트(+1.76%)로 마감했습니다. 지난주 큰 폭으로 밀린 뒤 나온 반등이라 “이제 바닥인가?” 하는 생각이 드셨을 텐데요. 오늘은 지수보다 돈이 어디로 옮겨갔는지가 더 눈에 띄는 하루였습니다. 📈]]></summary></entry><entry><title type="html">삼성SDI +11.6%, 거래대금 9,844억원 — 반도체에서 빠진 자금이 2차전지로 몰린 하루</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/19/nt2-1505-snapshot/" rel="alternate" type="text/html" title="삼성SDI +11.6%, 거래대금 9,844억원 — 반도체에서 빠진 자금이 2차전지로 몰린 하루" /><published>2026-10-19T15:05:00+09:00</published><updated>2026-10-19T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/19/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/19/nt2-1505-snapshot/"><![CDATA[<p>🔄 오늘은 반도체가 크게 밀리면서 빠져나온 돈이 <strong>2차전지(ESS) 테마</strong>로 한꺼번에 이동한 날이었습니다. 후보로 남은 종목은 <strong>삼성SDI 1개</strong>뿐입니다. 왜 이 종목만 남았는지 데이터로 정리해 봤습니다.</p>
 
 <h2 id="오늘-시장에서는-무슨-일이-있었을까">오늘 시장에서는 무슨 일이 있었을까?</h2>
 
@@ -2690,91 +3120,4 @@ AI 선별 정확도를 복기합니다.</p>
 <h2 id="복기-메모">복기 메모</h2>
 <p><em>(수동 작성)</em></p>
 
-<p>#종가베팅 #복기일지 #20261015 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-10-16 10:03 키움 ka10001 일괄 조회]]></summary></entry><entry><title type="html">아시아 증시가 꺾이면 미국 증시도 흔들릴까, 이 채널이 말하는 시황 읽는 법</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/16/video-economy-kneffnssgbm-video-stock/" rel="alternate" type="text/html" title="아시아 증시가 꺾이면 미국 증시도 흔들릴까, 이 채널이 말하는 시황 읽는 법" /><published>2026-10-16T09:00:00+09:00</published><updated>2026-10-16T09:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/16/video_economy_KneFfNSSGbM-video-stock</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/16/video-economy-kneffnssgbm-video-stock/"><![CDATA[<p>전날 아시아 증시가 크게 빠지면 미국 증시도 꼭 따라 빠질까요? 이 영상은 그 둘의 관계를 ‘바통’이라는 말로 설명합니다.</p>
-
-<p>이 글은 <a href="https://www.youtube.com/watch?v=KneFfNSSGbM">@koreanstockrider</a> 채널의 10월 16일 미국시황 영상을 바탕으로 정리했습니다.</p>
-
-<h2 id="이-영상은-미국-시황을-어떤-틀로-읽으라고-말할까">이 영상은 미국 시황을 어떤 틀로 읽으라고 말할까</h2>
-
-<p>이 영상은 종목을 추천하는 영상이 아니라, 매크로 지표를 읽는 법 자체를 설명하는 영상입니다. 먼저 전날 아시아 증시(한국·일본·대만)의 마감 성과가 그날 미국 증시의 출발 분위기로 ‘바통’처럼 넘겨진다고 말합니다. 아시아 시장이 크게 빠지면 미국도 약세로 문을 열 가능성이 커지지만, 미국 경제의 펀더멘털이 받쳐주면 하락 출발 후 반등해 마감하는 경우도 있다고 봅니다.</p>
-
-<p>이어서 이 영상은 AI·반도체 투자 둔화에 대한 공포가 오히려 증시를 안정시키는 역설적인 순환 구조를 짚습니다. AI 산업이 미국 GDP에서 차지하는 비중이 큰 만큼, AI 투자가 꺾인다는 신호는 경기침체 공포로 이어지고, 이 공포가 안전자산인 채권 매수를 늘립니다. 채권 매수가 늘면 금리가 내려가고, 내려간 금리가 다시 위험자산인 주식을 안정시키는 쪽으로 되돌아온다고 풀이합니다.</p>
-
-<p>물가 지표를 읽는 법에서는 생산자물가(PPI)를 ‘비즈니스 인플레이션’으로 부르며, 소비자물가(CPI)보다 먼저, 더 큰 폭으로 움직이는 경향이 있다고 설명합니다. PPI가 예상보다 크게 높게 나오면 시차를 두고 CPI도 따라 오를 가능성을 미리 경계해야 한다는 해석입니다.</p>
-
-<p>연준 인사들의 발언을 들을 때도 같은 ‘물가가 높다’는 말이라도 그 원인을 수요측 과열로 보는지, 공급측 일시 요인으로 보는지를 갈라 들어야 한다고 말합니다. 수요측 과열을 지적하는 발언이 많아질수록 인플레이션이 쉽게 꺾이지 않는다는 신호로, 공급측 요인을 지적하는 발언은 단기에 해소될 수 있다는 신호로 읽습니다.</p>
-
-<p>채권시장 구조에 대해서는 미국 국채의 평균 잔존만기가 약 <strong>6년</strong>으로 일본·이탈리아·프랑스·영국보다 짧다는 점을 짚습니다. 만기가 짧을수록 차환(재발행) 빈도가 높아지고, 이는 채권 발행 물량이 꾸준히 쏟아지는 구조적인 금리 상승 압력 요인이 된다고 설명합니다.</p>
-
-<p>채널 자체의 구독자 설문도 하나의 지표로 씁니다. 설문에서 부정적인 의견 비율이 비정상적으로 높게(이번엔 <strong>73%</strong>) 나오면 오히려 역지표로 해석한다고 말합니다. 부정 의견이 몰릴수록 긍정적으로, 긍정 의견이 몰릴수록 경계해야 한다는 컨트래리언 관점입니다.</p>
-
-<p>마지막으로 서킷브레이커 발동을 매수 신호로 활용해온 과거의 관행을 언급하면서, 올해는 그 신호가 더 이상 예전처럼 작동하지 않는다고 평가합니다. 같은 시그널이라도 시장의 국면(레짐)이 달라지면 유효성이 달라질 수 있다는 해석입니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>보는 지표/신호</th>
-      <th>해석하는 법</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>아시아 증시 마감 등락률</td>
-      <td>미국장 출발 분위기로 ‘바통’ 전달</td>
-    </tr>
-    <tr>
-      <td>AI 투자 둔화 공포</td>
-      <td>안전자산→금리 하락→주식 안정 순환</td>
-    </tr>
-    <tr>
-      <td>PPI와 CPI의 선후관계</td>
-      <td>PPI가 먼저, 크게 움직이는 선행지표</td>
-    </tr>
-    <tr>
-      <td>연준 발언의 수요/공급 구분</td>
-      <td>수요측=끈적한 물가, 공급측=일시적</td>
-    </tr>
-    <tr>
-      <td>국채 평균 듀레이션</td>
-      <td>짧은 만기=차환 多=금리 상승 압력</td>
-    </tr>
-    <tr>
-      <td>구독자 설문 부정/긍정 비율</td>
-      <td>부정 多=오히려 역지표(컨트래리언)</td>
-    </tr>
-    <tr>
-      <td>서킷브레이커 매수신호</td>
-      <td>올해는 작동 안 함(시장 레짐 변화)</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="눈에-띈-해석-틀">눈에 띈 해석 틀</h2>
-
-<p>개인적으로 눈에 띈 부분은 AI 투자 둔화 공포가 오히려 증시를 안정시킨다는 역설적 순환 구조였습니다. 나쁜 소식이 금리를 통해 거꾸로 안전판이 되는 경로는, 단순히 ‘호재면 오르고 악재면 내린다’는 식으로 시황을 읽는 것보다 한 단계 더 들어간 해석이라고 느껴졌습니다. 같은 맥락에서 서킷브레이커 신호가 올해는 작동하지 않는다는 평가도, 하나의 시그널을 영원히 유효한 법칙처럼 믿고 있지는 않은지 돌아보게 합니다.</p>
-
-<p>이처럼 이 영상은 아시아 증시의 바통, AI發 안전자산 순환, 물가 지표의 선후관계, 연준 발언의 행간, 채권시장 구조, 구독자 설문까지 시황을 여러 각도에서 겹쳐 읽는 틀을 보여줍니다.</p>
-
-<p>#NextTheme #미국증시 #환율 #금리 #PPI #연준 #서킷브레이커</p>
-
-<hr />
-
-<p>🎬 <strong>원문 영상</strong> : https://www.youtube.com/watch?v=KneFfNSSGbM</p>
-
-<hr />
-
-<p>📡 <strong>넥스트테마 (nextTheme)</strong>
-국내 주식 알림 시스템 · 현재 무료</p>
-
-<p>거래대금 · 기관 · 외국인 수급을 교차 분석해
-당일 주도 테마와 종목을 추려내고,
-AI가 최종 판단한 결과를 텔레그램으로 보내드립니다.</p>
-
-<p>💰 <strong>이용료</strong>
-가입비 · 구독료 없음. 채널 입장만 하면 알림을 받습니다.
-(개인 개발 프로젝트로, 베타 기간 무료 공개 중입니다)</p>
-
-<p>👉 <strong>입장하기</strong> : https://t.me/next_theme</p>
-
-<p>⚠️ 투자 자문이나 종목 추천이 아닌 데이터 분석 참고 자료입니다.
-수익을 보장하지 않으며, 모든 투자 판단과 책임은 본인에게 있습니다.</p>]]></content><author><name>NextTheme</name></author><category term="video-stock" /><summary type="html"><![CDATA[전날 아시아 증시가 크게 빠지면 미국 증시도 꼭 따라 빠질까요? 이 영상은 그 둘의 관계를 ‘바통’이라는 말로 설명합니다.]]></summary></entry></feed>
+<p>#종가베팅 #복기일지 #20261015 #NT2</p>]]></content><author><name>NextTheme</name></author><category term="review" /><summary type="html"><![CDATA[데이터 기준: 2026-10-16 10:03 키움 ka10001 일괄 조회]]></summary></entry></feed>
