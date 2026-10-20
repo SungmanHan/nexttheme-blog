@@ -1,25 +1,25 @@
 {
-  "lastTradingDay" : "2026-10-19",
-  "totalDays" : 109,
+  "lastTradingDay" : "2026-10-20",
+  "totalDays" : 110,
   "summary" : {
-    "tradingDays" : 109,
+    "tradingDays" : 110,
     "sectorCount" : 16,
-    "upDays" : 101,
+    "upDays" : 102,
     "avgChangeRate" : 5.92,
     "topSector" : "반도체·AI인프라",
     "topSectorDays" : 24
   },
   "now" : {
-    "date" : "2026-10-19",
-    "bettingGrade" : "YELLOW",
-    "regimeTag" : "YELLOW",
+    "date" : "2026-10-20",
+    "bettingGrade" : "RED",
+    "regimeTag" : "RED_ALL_DOWN",
     "themeRegime" : "THEME_LED",
-    "marketSignal" : "혼조상승",
-    "kospi" : 1.76,
-    "kosdaq" : 1.78,
-    "leadTheme" : "2차전지(나트륨이온)",
-    "leadChangeRate" : 8.46,
-    "themePremium" : 6.7
+    "marketSignal" : "약세",
+    "kospi" : -3.73,
+    "kosdaq" : -3.33,
+    "leadTheme" : "자전거",
+    "leadChangeRate" : 6.52,
+    "themePremium" : 10.25
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
@@ -32,7 +32,7 @@
   }, {
     "sector" : "전자부품·기판",
     "rank1Days" : 8,
-    "top3Days" : 23
+    "top3Days" : 24
   }, {
     "sector" : "전력·전선·신재생",
     "rank1Days" : 6,
@@ -43,8 +43,8 @@
     "top3Days" : 20
   }, {
     "sector" : "매크로·기타",
-    "rank1Days" : 13,
-    "top3Days" : 17
+    "rank1Days" : 14,
+    "top3Days" : 18
   }, {
     "sector" : "정유·화학·원자재",
     "rank1Days" : 5,
@@ -2083,6 +2083,25 @@
         "changeRate" : 8.04
       } ],
       "mainStock" : ""
-    }, null, null, null, null ] ]
+    }, {
+      "day" : 20,
+      "date" : "2026-10-20",
+      "theme" : "자전거",
+      "sector" : "매크로·기타",
+      "changeRate" : 6.52,
+      "prevDay" : "NEW",
+      "regime" : "THEME_LED",
+      "slot" : "15:00",
+      "kospi" : -3.73,
+      "themePremium" : 10.25,
+      "runners" : [ {
+        "theme" : "PCB(FPCB 등)",
+        "changeRate" : -1.35
+      }, {
+        "theme" : "반도체 기판(FC-BGA/PCB/MLB 등)",
+        "changeRate" : -1.68
+      } ],
+      "mainStock" : ""
+    }, null, null, null ] ]
   } ]
 }
