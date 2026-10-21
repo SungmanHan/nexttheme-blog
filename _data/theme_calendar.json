@@ -1,30 +1,30 @@
 {
-  "lastTradingDay" : "2026-10-20",
-  "totalDays" : 110,
+  "lastTradingDay" : "2026-10-21",
+  "totalDays" : 111,
   "summary" : {
-    "tradingDays" : 110,
+    "tradingDays" : 111,
     "sectorCount" : 16,
-    "upDays" : 102,
-    "avgChangeRate" : 5.92,
+    "upDays" : 103,
+    "avgChangeRate" : 5.97,
     "topSector" : "반도체·AI인프라",
     "topSectorDays" : 24
   },
   "now" : {
-    "date" : "2026-10-20",
-    "bettingGrade" : "RED",
-    "regimeTag" : "RED_ALL_DOWN",
+    "date" : "2026-10-21",
+    "bettingGrade" : "YELLOW",
+    "regimeTag" : "YELLOW",
     "themeRegime" : "THEME_LED",
-    "marketSignal" : "약세",
-    "kospi" : -3.73,
-    "kosdaq" : -3.33,
-    "leadTheme" : "자전거",
-    "leadChangeRate" : 6.52,
-    "themePremium" : 10.25
+    "marketSignal" : "강세",
+    "kospi" : 3.29,
+    "kosdaq" : 1.38,
+    "leadTheme" : "조림사업",
+    "leadChangeRate" : 11.4,
+    "themePremium" : 8.11
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
     "rank1Days" : 24,
-    "top3Days" : 41
+    "top3Days" : 42
   }, {
     "sector" : "자동차·2차전지",
     "rank1Days" : 14,
@@ -43,8 +43,8 @@
     "top3Days" : 20
   }, {
     "sector" : "매크로·기타",
-    "rank1Days" : 14,
-    "top3Days" : 18
+    "rank1Days" : 15,
+    "top3Days" : 19
   }, {
     "sector" : "정유·화학·원자재",
     "rank1Days" : 5,
@@ -2102,6 +2102,25 @@
         "changeRate" : -1.68
       } ],
       "mainStock" : ""
-    }, null, null, null ] ]
+    }, {
+      "day" : 21,
+      "date" : "2026-10-21",
+      "theme" : "조림사업",
+      "sector" : "매크로·기타",
+      "changeRate" : 11.4,
+      "prevDay" : "NEW",
+      "regime" : "THEME_LED",
+      "slot" : "15:00",
+      "kospi" : 3.29,
+      "themePremium" : 8.11,
+      "runners" : [ {
+        "theme" : "소캠(SOCAMM)",
+        "changeRate" : 5.07
+      }, {
+        "theme" : "시스템반도체",
+        "changeRate" : 5.03
+      } ],
+      "mainStock" : ""
+    }, null, null ] ]
   } ]
 }
