@@ -1,25 +1,25 @@
 {
-  "lastTradingDay" : "2026-10-21",
-  "totalDays" : 111,
+  "lastTradingDay" : "2026-10-22",
+  "totalDays" : 112,
   "summary" : {
-    "tradingDays" : 111,
+    "tradingDays" : 112,
     "sectorCount" : 16,
-    "upDays" : 103,
-    "avgChangeRate" : 5.97,
+    "upDays" : 104,
+    "avgChangeRate" : 6.01,
     "topSector" : "반도체·AI인프라",
     "topSectorDays" : 24
   },
   "now" : {
-    "date" : "2026-10-21",
-    "bettingGrade" : "YELLOW",
-    "regimeTag" : "YELLOW",
+    "date" : "2026-10-22",
+    "bettingGrade" : "RED",
+    "regimeTag" : "RED_ALL_DOWN",
     "themeRegime" : "THEME_LED",
-    "marketSignal" : "강세",
-    "kospi" : 3.29,
-    "kosdaq" : 1.38,
-    "leadTheme" : "조림사업",
-    "leadChangeRate" : 11.4,
-    "themePremium" : 8.11
+    "marketSignal" : "약세",
+    "kospi" : -3.52,
+    "kosdaq" : -3.62,
+    "leadTheme" : "자전거",
+    "leadChangeRate" : 10.47,
+    "themePremium" : 13.99
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
@@ -38,13 +38,13 @@
     "rank1Days" : 6,
     "top3Days" : 21
   }, {
+    "sector" : "매크로·기타",
+    "rank1Days" : 16,
+    "top3Days" : 20
+  }, {
     "sector" : "조선·해운",
     "rank1Days" : 8,
     "top3Days" : 20
-  }, {
-    "sector" : "매크로·기타",
-    "rank1Days" : 15,
-    "top3Days" : 19
   }, {
     "sector" : "정유·화학·원자재",
     "rank1Days" : 5,
@@ -52,7 +52,7 @@
   }, {
     "sector" : "건설·기계",
     "rank1Days" : 4,
-    "top3Days" : 16
+    "top3Days" : 17
   }, {
     "sector" : "금융",
     "rank1Days" : 3,
@@ -64,7 +64,7 @@
   }, {
     "sector" : "로봇·AI소프트웨어",
     "rank1Days" : 4,
-    "top3Days" : 12
+    "top3Days" : 13
   }, {
     "sector" : "통신·광통신",
     "rank1Days" : 5,
@@ -2121,6 +2121,25 @@
         "changeRate" : 5.03
       } ],
       "mainStock" : ""
-    }, null, null ] ]
+    }, {
+      "day" : 22,
+      "date" : "2026-10-22",
+      "theme" : "자전거",
+      "sector" : "매크로·기타",
+      "changeRate" : 10.47,
+      "prevDay" : "NEW",
+      "regime" : "THEME_LED",
+      "slot" : "15:00",
+      "kospi" : -3.52,
+      "themePremium" : 13.99,
+      "runners" : [ {
+        "theme" : "전후 재건(우크라/중동 전쟁 등)",
+        "changeRate" : 0.75
+      }, {
+        "theme" : "지능형로봇/인공지능(AI)",
+        "changeRate" : -0.88
+      } ],
+      "mainStock" : ""
+    }, null ] ]
   } ]
 }
