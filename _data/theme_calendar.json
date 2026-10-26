@@ -1,25 +1,25 @@
 {
-  "lastTradingDay" : "2026-10-23",
-  "totalDays" : 113,
+  "lastTradingDay" : "2026-10-26",
+  "totalDays" : 114,
   "summary" : {
-    "tradingDays" : 113,
+    "tradingDays" : 114,
     "sectorCount" : 16,
-    "upDays" : 105,
-    "avgChangeRate" : 5.99,
+    "upDays" : 106,
+    "avgChangeRate" : 6.02,
     "topSector" : "반도체·AI인프라",
     "topSectorDays" : 25
   },
   "now" : {
-    "date" : "2026-10-23",
-    "bettingGrade" : "YELLOW",
-    "regimeTag" : "YELLOW",
+    "date" : "2026-10-26",
+    "bettingGrade" : "RED",
+    "regimeTag" : "RED_EXHAUST",
     "themeRegime" : "THEME_LED",
-    "marketSignal" : "혼조",
-    "kospi" : 0.3,
-    "kosdaq" : -1.62,
-    "leadTheme" : "소캠(SOCAMM)",
-    "leadChangeRate" : 3.79,
-    "themePremium" : 3.49
+    "marketSignal" : "약세",
+    "kospi" : -1.46,
+    "kosdaq" : -3.26,
+    "leadTheme" : "의료AI",
+    "leadChangeRate" : 9.12,
+    "themePremium" : 10.58
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
@@ -34,13 +34,13 @@
     "rank1Days" : 8,
     "top3Days" : 24
   }, {
+    "sector" : "매크로·기타",
+    "rank1Days" : 17,
+    "top3Days" : 21
+  }, {
     "sector" : "전력·전선·신재생",
     "rank1Days" : 6,
     "top3Days" : 21
-  }, {
-    "sector" : "매크로·기타",
-    "rank1Days" : 16,
-    "top3Days" : 20
   }, {
     "sector" : "조선·해운",
     "rank1Days" : 8,
@@ -58,13 +58,13 @@
     "rank1Days" : 3,
     "top3Days" : 16
   }, {
+    "sector" : "로봇·AI소프트웨어",
+    "rank1Days" : 4,
+    "top3Days" : 14
+  }, {
     "sector" : "소비재·유통",
     "rank1Days" : 3,
     "top3Days" : 14
-  }, {
-    "sector" : "로봇·AI소프트웨어",
-    "rank1Days" : 4,
-    "top3Days" : 13
   }, {
     "sector" : "통신·광통신",
     "rank1Days" : 5,
@@ -2159,6 +2159,25 @@
         "changeRate" : 3.22
       } ],
       "mainStock" : ""
-    } ] ]
+    } ], [ {
+      "day" : 26,
+      "date" : "2026-10-26",
+      "theme" : "의료AI",
+      "sector" : "매크로·기타",
+      "changeRate" : 9.12,
+      "prevDay" : "NEW",
+      "regime" : "THEME_LED",
+      "slot" : "15:00",
+      "kospi" : -1.46,
+      "themePremium" : 10.58,
+      "runners" : [ {
+        "theme" : "원격진료/비대면진료(U-Healthcare)",
+        "changeRate" : 1.98
+      }, {
+        "theme" : "스마트팩토리(스마트공장)",
+        "changeRate" : 0.04
+      } ],
+      "mainStock" : ""
+    }, null, null, null, null ] ]
   } ]
 }
