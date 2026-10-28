@@ -1,38 +1,38 @@
 {
-  "lastTradingDay" : "2026-10-26",
-  "totalDays" : 114,
+  "lastTradingDay" : "2026-10-28",
+  "totalDays" : 116,
   "summary" : {
-    "tradingDays" : 114,
+    "tradingDays" : 116,
     "sectorCount" : 16,
-    "upDays" : 106,
-    "avgChangeRate" : 6.02,
+    "upDays" : 108,
+    "avgChangeRate" : 6.06,
     "topSector" : "반도체·AI인프라",
-    "topSectorDays" : 25
+    "topSectorDays" : 26
   },
   "now" : {
-    "date" : "2026-10-26",
-    "bettingGrade" : "RED",
-    "regimeTag" : "RED_EXHAUST",
+    "date" : "2026-10-28",
+    "bettingGrade" : "YELLOW",
+    "regimeTag" : "YELLOW",
     "themeRegime" : "THEME_LED",
-    "marketSignal" : "약세",
-    "kospi" : -1.46,
-    "kosdaq" : -3.26,
-    "leadTheme" : "의료AI",
-    "leadChangeRate" : 9.12,
-    "themePremium" : 10.58
+    "marketSignal" : "강세",
+    "kospi" : 6.63,
+    "kosdaq" : 3.69,
+    "leadTheme" : "S7(삼성전자/SK하이닉스 등)",
+    "leadChangeRate" : 9.41,
+    "themePremium" : 2.78
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
-    "rank1Days" : 25,
-    "top3Days" : 43
+    "rank1Days" : 26,
+    "top3Days" : 44
   }, {
     "sector" : "자동차·2차전지",
     "rank1Days" : 14,
     "top3Days" : 31
   }, {
     "sector" : "전자부품·기판",
-    "rank1Days" : 8,
-    "top3Days" : 24
+    "rank1Days" : 9,
+    "top3Days" : 25
   }, {
     "sector" : "매크로·기타",
     "rank1Days" : 17,
@@ -2178,6 +2178,44 @@
         "changeRate" : 0.04
       } ],
       "mainStock" : ""
-    }, null, null, null, null ] ]
+    }, {
+      "day" : 27,
+      "date" : "2026-10-27",
+      "theme" : "PCB(FPCB 등)",
+      "sector" : "전자부품·기판",
+      "changeRate" : 7.89,
+      "prevDay" : "NEW",
+      "regime" : "THEME_LED",
+      "slot" : "15:00",
+      "kospi" : 3.09,
+      "themePremium" : 4.8,
+      "runners" : [ {
+        "theme" : "반도체 기판(FC-BGA/PCB/MLB 등)",
+        "changeRate" : 7.8
+      }, {
+        "theme" : "카메라모듈/부품",
+        "changeRate" : 7.46
+      } ],
+      "mainStock" : ""
+    }, {
+      "day" : 28,
+      "date" : "2026-10-28",
+      "theme" : "S7(삼성전자/SK하이닉스 등)",
+      "sector" : "반도체·AI인프라",
+      "changeRate" : 9.41,
+      "prevDay" : "NEW",
+      "regime" : "THEME_LED",
+      "slot" : "15:00",
+      "kospi" : 6.63,
+      "themePremium" : 2.78,
+      "runners" : [ {
+        "theme" : "CXL(컴퓨트익스프레스링크)",
+        "changeRate" : 9.34
+      }, {
+        "theme" : "소캠(SOCAMM)",
+        "changeRate" : 9.34
+      } ],
+      "mainStock" : ""
+    }, null, null ] ]
   } ]
 }
