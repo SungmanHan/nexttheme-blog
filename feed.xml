@@ -1,4 +1,287 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-10-29T21:02:02+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 6000선 내준 하루, 은행·지주사로 돈이 몰렸다 — 10월 29일 마감 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/29/daily/" rel="alternate" type="text/html" title="코스피 6000선 내준 하루, 은행·지주사로 돈이 몰렸다 — 10월 29일 마감 정리" /><published>2026-10-29T21:00:00+09:00</published><updated>2026-10-29T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/29/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/29/daily/"><![CDATA[<p>오늘 코스피가 하루 만에 6000선을 다시 내줬습니다 📉 어제 <strong>6.63%</strong> 급등하며 올라섰던 자리인데, 하루 만에 되돌려진 셈이라 마음이 편치 않으셨을 것 같아요. 오늘은 시장이 어땠는지, 그리고 AI가 어제와 오늘 고른 종목이 어떻게 움직였는지 숨김없이 정리해 보겠습니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-10-30T06:04:25+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 6000선 반납, 알파벳 12.6% 급락 — 금요일 아침 확인할 변수</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/30/0600-briefing/" rel="alternate" type="text/html" title="코스피 6000선 반납, 알파벳 12.6% 급락 — 금요일 아침 확인할 변수" /><published>2026-10-30T06:00:00+09:00</published><updated>2026-10-30T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/30/0600-briefing</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/30/0600-briefing/"><![CDATA[<p>☁️ 금요일 아침, 간밤 미국장과 국내 시장 모두 무거운 분위기로 시작합니다. 알파벳(구글) 급락 소식에 나스닥이 크게 밀렸고, 국내에서는 삼성전자 실적 발표 이후 코스피가 6000선을 하루 만에 내줬습니다. 오늘 아침에는 <strong>무슨 일이 있었는지</strong>, 그리고 <strong>오늘 장중에 무엇을 확인하면 좋은지</strong>를 정리해 봅니다.</p>
+
+<hr />
+
+<h2 id="-어제-ai가-골랐던-종목-하룻밤-사이-어떻게-달라졌나">📋 어제 AI가 골랐던 종목, 하룻밤 사이 어떻게 달라졌나?</h2>
+
+<p>어제 AI 기록을 기준으로 정리했습니다. 최종 선별 <strong>1개</strong>, 저녁 추가 선별 <strong>1개</strong>, 장중 탐색 후보 <strong>1개</strong>, 그리고 선별과 무관하게 이전부터 보유 중인 종목 <strong>1개</strong>입니다. 어제 새로 매수한 기록은 없었습니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>슬롯</th>
+      <th>어제 전략</th>
+      <th>오늘 아침 판단(AI 기록)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>SK스퀘어</td>
+      <td>15:10 최종</td>
+      <td>갭 노린 단기 매매</td>
+      <td>저녁 저점 <strong>-1.47%</strong> 기록 후 야간 선물 하락 확대 → 신규 진입 보류 ⚠️</td>
+    </tr>
+    <tr>
+      <td>한화비전</td>
+      <td>19:10 선별</td>
+      <td>갭 노린 단기 매매</td>
+      <td>저녁 고점 <strong>+1.54%</strong> 기록, 보안주 테마가 얼마나 이어지는지 관찰</td>
+    </tr>
+    <tr>
+      <td>SK하이닉스</td>
+      <td>10:10 탐색</td>
+      <td>갭 노린 단기 매매</td>
+      <td>삼성전자 실망 매물에 동반 약세 → 신규 진입 보류 ⚠️</td>
+    </tr>
+    <tr>
+      <td>삼성중공업</td>
+      <td>—</td>
+      <td>AI 선별 밖</td>
+      <td>이전부터 보유 중, 기존 청산 계획대로 시초가 확인 후 대응 ✅ 보유 중</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>SK하이닉스는 <strong>장중 탐색 단계의 후보</strong>였을 뿐, 어제의 최종 선별은 아니었습니다.</p>
+
+<h3 id="저녁-애프터마켓에서는-어땠을까">저녁 애프터마켓에서는 어땠을까?</h3>
+
+<p>어제 15:40~19:59 저녁 시간대 흐름입니다. 종가(또는 평단) 대비 값이며, 이 구간의 움직임이 실현 손익은 아닙니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>기준</th>
+      <th>저녁 최고</th>
+      <th>저녁 최저</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>SK스퀘어</td>
+      <td>어제 종가 954,000원</td>
+      <td><strong>+0.6%</strong></td>
+      <td><strong>-1.5%</strong></td>
+    </tr>
+    <tr>
+      <td>한화비전</td>
+      <td>어제 종가 48,850원</td>
+      <td><strong>+1.5%</strong></td>
+      <td><strong>-1.9%</strong></td>
+    </tr>
+    <tr>
+      <td>삼성중공업</td>
+      <td>평단 18,440원</td>
+      <td><strong>-14.7%</strong></td>
+      <td><strong>-15.3%</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>삼성중공업은 평단 대비 저녁 내내 <strong>-15% 안팎</strong>에 머물렀습니다. 기존 청산 계획이 유지되고 있으며, 오늘 시초가가 어디서 형성되는지가 확인 포인트입니다.</p>
+
+<hr />
+
+<h2 id="-어제-국내-시장에서는-누가-사고-팔았을까">💰 어제 국내 시장에서는 누가 사고 팔았을까?</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>어제 마감</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>코스피</td>
+      <td><strong>5,937.66</strong> 포인트</td>
+      <td><strong>-1.24%</strong></td>
+    </tr>
+    <tr>
+      <td>코스닥</td>
+      <td><strong>753.23</strong> 포인트</td>
+      <td><strong>-2.34%</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>투자 주체별로는 <strong>외국인이 1,456억원 순매수</strong>였지만, <strong>기관이 1,121억원, 개인이 2,557억원 순매도</strong>하면서 매도 쪽 힘이 더 컸습니다. (기관은 연기금·보험사 같은 큰 투자기관을 뜻합니다.)</p>
+
+<p>업종별로는 CCTV·DVR(<strong>+19.11%</strong>), 보안주(물리)(<strong>+7.25%</strong>), 토스(toss)(<strong>+4.21%</strong>), 은행(<strong>+2.59%</strong>), STO(토큰증권 발행)(<strong>+2.47%</strong>)이 상위에 올랐습니다. 시장 전체가 밀리는 가운데서도 보안 관련 업종에 관심이 쏠린 하루였습니다.</p>
+
+<hr />
+
+<h2 id="-간밤-미국장-나스닥이-가장-크게-밀렸다는데">🌙 간밤 미국장, 나스닥이 가장 크게 밀렸다는데?</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>지수</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>다우존스</td>
+      <td><strong>-0.25%</strong></td>
+    </tr>
+    <tr>
+      <td>S&amp;P 500</td>
+      <td><strong>-0.30%</strong></td>
+    </tr>
+    <tr>
+      <td>나스닥 종합</td>
+      <td><strong>-1.38%</strong></td>
+    </tr>
+    <tr>
+      <td>나스닥 100</td>
+      <td><strong>-1.38%</strong></td>
+    </tr>
+    <tr>
+      <td>필라델피아 반도체</td>
+      <td><strong>-1.42%</strong></td>
+    </tr>
+    <tr>
+      <td>다우운송</td>
+      <td><strong>+0.96%</strong></td>
+    </tr>
+    <tr>
+      <td>VIX(변동성 지수)</td>
+      <td><strong>+1.72%</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>대형 기술주가 많은 나스닥과 반도체 지수의 낙폭이 상대적으로 컸고, 운송 업종 지수만 오른 하루였습니다. 불안 심리를 보여 주는 VIX는 <strong>17.2</strong>까지 올랐습니다.</p>
+
+<hr />
+
+<h2 id="-오늘-꼭-알아야-할-뉴스는">📰 오늘 꼭 알아야 할 뉴스는?</h2>
+
+<p><strong>1. 알파벳 12.6% 급락 — 나스닥 -1.38%</strong> 🔻 (반드시 알아둘 소식)</p>
+<ul>
+  <li>무슨 일: AI 투자와 관련해 <strong>985억 달러 규모의 추가 우발약정</strong>이 공개되며 수익성 우려가 다시 불거졌습니다.</li>
+  <li>왜 중요한가: 빅테크의 AI 투자 비용 부담이 실적으로 드러나면서 기술주 전반의 투자 심리가 식었습니다. 악재로 분류됩니다.</li>
+  <li>오늘 확인할 점: 야간 선물의 추가 하락 폭, 주말에 나올 빅테크 실적 발표 결과</li>
+</ul>
+
+<p><strong>2. 삼성전자 역대 최대 실적에도 코스피 6000선 반납</strong> 🔻 (반드시 알아둘 소식)</p>
+<ul>
+  <li>무슨 일: 실적은 역대 최대였지만 <strong>주주환원 발표가 1월로 미뤄지면서</strong> 차익실현 매물이 몰렸습니다.</li>
+  <li>오늘 확인할 점: 삼성전자의 추가 하락 여부, HBM·메모리 대표 종목들의 동반 약세가 커지는지</li>
+</ul>
+
+<p><strong>3. 미국 GDP 3.4% vs 물가(PCE) 3.6%</strong> ⚖️ (호재·악재 혼재)</p>
+<ul>
+  <li>무슨 일: 미국 GDP 증가율이 예상(3.2%)을 웃돌았지만, 물가도 3.6%로 올랐습니다.</li>
+  <li>왜 중요한가: 경기는 좋은데 물가 압력도 남아 연준의 추가 금리 인상 가능성이 부담으로 거론됩니다.</li>
+  <li>오늘 확인할 점: 환율의 추가 변동, 외국인 수급이 이어지는지</li>
+</ul>
+
+<p><strong>4. 한화비전 3분기 영업이익 183% 증가 + 보안주 수요</strong> 🔺</p>
+<ul>
+  <li>어닝서프라이즈(예상보다 좋은 실적)와 빗썸 해킹 이슈가 겹치며 CCTV·보안주로 단기 자금이 모였습니다.</li>
+  <li>오늘 확인할 점: 보안주 강세가 이어지는지, 테마 수명이 얼마나 되는지</li>
+</ul>
+
+<p><strong>5. 하락장 속 지주사·은행주로 자금 이동</strong> ➖</p>
+<ul>
+  <li>SK스퀘어 거래대금이 <strong>1조원</strong>을 넘겼습니다. 기술주가 약한 구간에서 배당·밸류에이션 매력이 있는 업종으로 자금이 옮겨 간 흐름입니다.</li>
+  <li>오늘 확인할 점: 방어 업종 강세가 이어지는지, 기술주가 반등할 때 자금이 되돌아가는지</li>
+</ul>
+
+<hr />
+
+<h2 id="️-오늘-시장-분위기와-ai-전략은">🌡️ 오늘 시장 분위기와 AI 전략은?</h2>
+
+<p>AI가 매긴 오늘 아침 시장 점수는 <strong>28점(100점 만점, 높을수록 강세)</strong> 으로 경계 구간입니다. 야간 선물과 한국 증시를 추종하는 해외 ETF까지 함께 내려와 있기 때문입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>지표</th>
+      <th>값</th>
+      <th>의미</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>나스닥100 선물</td>
+      <td><strong>-2.6%</strong></td>
+      <td>알파벳 충격이 빅테크 전반으로 번지고 있는지 확인 필요</td>
+    </tr>
+    <tr>
+      <td>MSCI 한국 ETF(EWY)</td>
+      <td><strong>-2.5%</strong></td>
+      <td>한국 주식의 야간 가격 하락, 외국인 이탈 압력을 가늠하는 신호</td>
+    </tr>
+    <tr>
+      <td>WTI 유가</td>
+      <td><strong>102.77달러</strong></td>
+      <td>전일과 거의 같은 횡보, 고유가 구간 유지</td>
+    </tr>
+    <tr>
+      <td>VIX</td>
+      <td><strong>17.2</strong></td>
+      <td>전일 대비 상승, 위험 회피 심리 강화</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>AI 전략 요약: 야간 선물까지 하락이 확대되고 있어 <strong>다음 주 월요일 갭 방향</strong>은 주말 동안의 미국 빅테크 실적과 야간 선물 흐름에 달려 있다고 봅니다.</p>
+
+<h3 id="오늘-일정에서-눈여겨볼-것">오늘 일정에서 눈여겨볼 것</h3>
+
+<ul>
+  <li>08:00 한국 소매판매·산업생산 발표</li>
+  <li>12:00 일본은행 금리결정 (예상 1.25%, 현 수준 유지)</li>
+  <li>21:30 미국 고용비용지수, 22:45 시카고 구매관리자지수</li>
+</ul>
+
+<hr />
+
+<h2 id="-오늘-장중-체크리스트">✅ 오늘 장중 체크리스트</h2>
+
+<ul>
+  <li>야간 나스닥·S&amp;P500 선물의 추가 하락 폭이 커지는지</li>
+  <li>주말 빅테크 추가 실적 발표(MS·아마존 등) 결과</li>
+  <li>삼성전자·SK하이닉스의 추가 하락 압력 여부</li>
+  <li>방어 업종(은행·지주사) 강세가 이어지는지, 기술주 반등 조짐이 나오는지</li>
+  <li>외국인 순매수가 이어지는지, 순매도로 돌아서는지</li>
+</ul>
+
+<hr />
+
+<h2 id="-오늘-제가-주목한-것">🧭 오늘 제가 주목한 것</h2>
+
+<p>오늘 아침 데이터를 보면서 가장 눈에 띈 건 <strong>“좋은 실적도 시장이 기대한 답이 아니면 팔린다”</strong> 는 점이었습니다. 삼성전자는 역대 최대 실적을 냈는데도 주주환원 발표 시점이 아쉽다는 이유로 매물이 몰렸고, 알파벳은 AI 투자 비용 공개 하나로 크게 흔들렸습니다. 반면 한화비전은 실적과 보안 이슈가 맞물려 저녁 시간대에 관심을 받았습니다. 같은 하락장에서도 돈이 어디로 움직이는지 보는 것이 시장 분위기를 읽는 데 도움이 되는 하루였습니다. 이 글은 방향을 예측하는 글이 아니라 확인된 사실을 기록하는 글입니다.</p>
+
+<hr />
+
+<p>여러분은 오늘 어떤 변수를 가장 눈여겨보고 계신가요? 궁금한 종목이나 의견은 댓글로 남겨주세요. 이웃 추가를 해두시면 아침마다 시장 점검 글을 받아볼 수 있어요 😊</p>
+
+<p>#NextTheme #종가베팅 #코스피 #삼성전자 #알파벳급락 #나스닥 #SK스퀘어 #한화비전 #보안주 #주주환원 #아침브리핑</p>
+
+<hr />
+
+<p>📡 <strong>넥스트테마 (nextTheme)</strong>
+국내 주식 알림 시스템 · 현재 무료</p>
+
+<p>거래대금 · 기관 · 외국인 수급을 교차 분석해
+당일 주도 테마와 종목을 추려내고,
+AI가 최종 판단한 결과를 텔레그램으로 보내드립니다.</p>
+
+<p>💰 <strong>이용료</strong>
+가입비 · 구독료 없음. 채널 입장만 하면 알림을 받습니다.
+(개인 개발 프로젝트로, 베타 기간 무료 공개 중입니다)</p>
+
+<p>👉 <strong>입장하기</strong> : https://t.me/next_theme</p>
+
+<p>⚠️ 투자 자문이나 종목 추천이 아닌 데이터 분석 참고 자료입니다.
+수익을 보장하지 않으며, 모든 투자 판단과 책임은 본인에게 있습니다.</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[☁️ 금요일 아침, 간밤 미국장과 국내 시장 모두 무거운 분위기로 시작합니다. 알파벳(구글) 급락 소식에 나스닥이 크게 밀렸고, 국내에서는 삼성전자 실적 발표 이후 코스피가 6000선을 하루 만에 내줬습니다. 오늘 아침에는 무슨 일이 있었는지, 그리고 오늘 장중에 무엇을 확인하면 좋은지를 정리해 봅니다.]]></summary></entry><entry><title type="html">코스피 6000선 내준 하루, 은행·지주사로 돈이 몰렸다 — 10월 29일 마감 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/29/daily/" rel="alternate" type="text/html" title="코스피 6000선 내준 하루, 은행·지주사로 돈이 몰렸다 — 10월 29일 마감 정리" /><published>2026-10-29T21:00:00+09:00</published><updated>2026-10-29T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/29/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/29/daily/"><![CDATA[<p>오늘 코스피가 하루 만에 6000선을 다시 내줬습니다 📉 어제 <strong>6.63%</strong> 급등하며 올라섰던 자리인데, 하루 만에 되돌려진 셈이라 마음이 편치 않으셨을 것 같아요. 오늘은 시장이 어땠는지, 그리고 AI가 어제와 오늘 고른 종목이 어떻게 움직였는지 숨김없이 정리해 보겠습니다.</p>
 
 <h2 id="어제-ai가-고른-종목-오늘-아침-결과는">어제 AI가 고른 종목, 오늘 아침 결과는?</h2>
 
@@ -3052,380 +3335,4 @@ AI가 최종 판단한 결과를 텔레그램으로 보내드립니다.</p>
 <p>👉 <strong>입장하기</strong> : https://t.me/next_theme</p>
 
 <p>⚠️ 투자 자문이나 종목 추천이 아닌 데이터 분석 참고 자료입니다.
-수익을 보장하지 않으며, 모든 투자 판단과 책임은 본인에게 있습니다.</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[☕ 좋은 아침입니다. 어제 코스피는 -1.46%, 코스닥은 -3.26% 로 마감했는데, 간밤 미국 증시는 기술주를 중심으로 오른 채 끝났습니다. 한국과 미국의 분위기가 엇갈린 채 맞이하는 아침이라, 장이 열리기 전에 무엇을 확인하면 좋을지 정리했습니다.]]></summary></entry><entry><title type="html">코스닥 3.3% 하락, 의료AI 테마만 강했던 하루 — 10월 26일 마감 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/26/daily/" rel="alternate" type="text/html" title="코스닥 3.3% 하락, 의료AI 테마만 강했던 하루 — 10월 26일 마감 정리" /><published>2026-10-26T21:00:00+09:00</published><updated>2026-10-26T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/26/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/26/daily/"><![CDATA[<p>📉 오늘 코스피는 <strong>-1.46%</strong>, 코스닥은 <strong>-3.26%</strong> 로 마감했습니다. 지수가 크게 흔들린 날, 자금이 어디로 몰렸는지 하루를 차분히 정리해 봅니다.</p>
-
-<h2 id="어제-ai의-판단은-오늘-아침-어떻게-됐을까">어제 AI의 판단은 오늘 아침 어떻게 됐을까?</h2>
-
-<p>종가베팅은 오늘 종가에 사서 다음 거래일 아침에 정리하는 방식입니다. 그래서 어제 고른 종목의 <strong>오늘 아침 갭</strong>(전날 기준가 대비 시작 가격 차이)이 실제 성과에 가깝습니다. 맞은 것만이 아니라 아쉬운 결과도 그대로 적습니다.</p>
-
-<p><strong>① 어제 선별 → 오늘 아침 실현 (08:00~09:59 관측, 진입가 대비)</strong></p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>아침 갭</th>
-      <th>관측 구간 최고</th>
-      <th>관측 구간 최저</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>SK하이닉스</td>
-      <td><strong>+1.0%</strong></td>
-      <td>+3.0%</td>
-      <td>-0.5%</td>
-    </tr>
-    <tr>
-      <td>삼성중공업</td>
-      <td><strong>-22.6%</strong></td>
-      <td>-21.3%</td>
-      <td>-23.1%</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>SK하이닉스는 작게나마 플러스로 출발했고, 삼성중공업은 진입가 대비 큰 폭의 마이너스로 시작했습니다. 삼성중공업의 낙폭이 이렇게 커진 원인은 재료에 없어 <strong>판단할 수 없습니다.</strong></p>
-
-<p><strong>② 오늘 선별 → 애프터마켓 잠정 흐름 (15:40~19:59 관측)</strong></p>
-
-<table>
-  <thead>
-    <tr>
-      <th>종목</th>
-      <th>진입가 대비</th>
-      <th>관측 구간 최고</th>
-      <th>관측 구간 최저</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>루닛</td>
-      <td><strong>0.0%</strong></td>
-      <td>0.0%</td>
-      <td>0.0%</td>
-    </tr>
-    <tr>
-      <td>삼성중공업</td>
-      <td><strong>-24.1%</strong></td>
-      <td>-23.7%</td>
-      <td>-24.7%</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>⚠️ 이 표는 <strong>확정이 아닌 잠정치</strong>입니다. 실제 결과는 내일 아침 시작 가격으로 가려집니다. 루닛은 저녁 내내 가격이 움직이지 않았습니다.</p>
-
-<h2 id="오늘-코스피코스닥은-얼마나-빠졌을까">오늘 코스피·코스닥은 얼마나 빠졌을까?</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>구분</th>
-      <th>종가</th>
-      <th>등락률</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>코스피</td>
-      <td><strong>5,469.47포인트</strong></td>
-      <td><strong>-1.46%</strong></td>
-    </tr>
-    <tr>
-      <td>코스닥</td>
-      <td><strong>727.21포인트</strong></td>
-      <td><strong>-3.26%</strong></td>
-    </tr>
-    <tr>
-      <td>원/달러 환율</td>
-      <td><strong>1,324.8원</strong></td>
-      <td>-</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>최근 흐름도 함께 보면 하락이 하루짜리가 아닙니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>구분</th>
-      <th>10월 5일</th>
-      <th>10월 23일</th>
-      <th>10월 26일</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>코스피</td>
-      <td>7,003.74</td>
-      <td>5,550.30</td>
-      <td>5,469.47</td>
-    </tr>
-    <tr>
-      <td>코스닥</td>
-      <td>893.29</td>
-      <td>751.69</td>
-      <td>727.21</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>10월 초와 비교하면 코스피는 약 <strong>21.9%</strong>, 코스닥은 약 <strong>18.6%</strong> 낮은 자리입니다.</p>
-
-<h3 id="누가-팔고-누가-샀을까">누가 팔고 누가 샀을까?</h3>
-
-<p>주식시장에서 “기관”은 연기금·펀드 같은 큰 투자기관, “외국인”은 해외 투자자를 말합니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>투자 주체</th>
-      <th>순매수(+) / 순매도(-)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>외국인</td>
-      <td><strong>-6,996억원</strong> (순매도)</td>
-    </tr>
-    <tr>
-      <td>기관</td>
-      <td><strong>+5,903억원</strong> (순매수)</td>
-    </tr>
-    <tr>
-      <td>개인</td>
-      <td><strong>+559억원</strong> (순매수)</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>외국인이 크게 판 물량을 기관이 상당 부분 받아낸 모양새였습니다.</p>
-
-<h3 id="간밤-미국-시장과-아침-브리핑-요약">간밤 미국 시장과 아침 브리핑 요약</h3>
-
-<p>지난 금요일 밤 미국장은 다우 <strong>-1.23%</strong>, S&amp;P500 <strong>-0.52%</strong>, 나스닥 <strong>-0.21%</strong> 로 하락했고, 반도체 지수는 <strong>+0.44%</strong> 로 올랐습니다. 아침 브리핑에서 짚은 뉴스는 아래와 같았습니다(06:00 시점 기준).</p>
-
-<ul>
-  <li>골드만삭스가 코스피 목표치를 1만2000에서 9000으로 하향</li>
-  <li>SK하이닉스가 키옥시아 매각 차익 16조원을 특별배당으로 추진</li>
-  <li>반도체 수출 603억 달러로 역대 최대, 무역흑자 498억 달러</li>
-  <li>가상자산 과세 2년 재유예 가닥</li>
-</ul>
-
-<h2 id="오늘-돈은-어디로-몰렸을까">오늘 돈은 어디로 몰렸을까?</h2>
-
-<p><strong>거래대금 상위 10개 종목</strong></p>
-
-<table>
-  <thead>
-    <tr>
-      <th>순위</th>
-      <th>종목</th>
-      <th>거래대금</th>
-      <th>등락률</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>SK하이닉스</td>
-      <td>4.2조원</td>
-      <td>+0.23%</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>삼성전자</td>
-      <td>3.0조원</td>
-      <td>-1.16%</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>삼성전기</td>
-      <td>6,875억원</td>
-      <td>-0.18%</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>삼성SDI</td>
-      <td>3,844억원</td>
-      <td>-0.92%</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>SK스퀘어</td>
-      <td>3,420억원</td>
-      <td>-0.39%</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>삼성E&amp;A</td>
-      <td>3,066억원</td>
-      <td>+0.50%</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>삼성전자우</td>
-      <td>2,579억원</td>
-      <td>-1.79%</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>로보티즈</td>
-      <td>2,570억원</td>
-      <td><strong>+10.44%</strong></td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>주성엔지니어링</td>
-      <td>1,842억원</td>
-      <td><strong>-6.67%</strong></td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>LIG디펜스앤에어로스페이스</td>
-      <td>1,747억원</td>
-      <td><strong>-9.99%</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>시장이 급락한 날에도 SK하이닉스는 거래대금 1위에 보합권을 지켰습니다. 반면 로보티즈는 두 자릿수 상승, LIG디펜스앤에어로스페이스와 주성엔지니어링은 큰 폭으로 내려 종목별 희비가 갈렸습니다.</p>
-
-<p><strong>오늘 상위 테마</strong></p>
-
-<table>
-  <thead>
-    <tr>
-      <th>순위</th>
-      <th>테마</th>
-      <th>오른 종목 수 / 전체 종목 수</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>의료AI</td>
-      <td><strong>15 / 28</strong></td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>영상콘텐츠</td>
-      <td>11 / 32</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>원격진료/비대면진료(U-Healthcare)</td>
-      <td>9 / 22</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>아이폰</td>
-      <td>4 / 20</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>온디바이스 AI</td>
-      <td>3 / 24</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>IT 대표주</td>
-      <td>3 / 6</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>의료AI는 28개 종목 중 절반 넘는 15개가 올랐고, 원격진료 테마도 상위권에 이름을 올렸습니다. 지수는 내리는데 의료 관련 테마에 자금이 모인 하루였습니다.</p>
-
-<h2 id="ai는-오늘-어떤-종목을-골랐을까">AI는 오늘 어떤 종목을 골랐을까?</h2>
-
-<p>AI는 이 약세장에서 <strong>루닛 한 종목</strong>을 최종 선별했습니다. 아래는 권유가 아니라 AI가 남긴 선별 기록입니다.</p>
-
-<h3 id="루닛-의료ai-테마-1위">루닛 (의료AI 테마 1위)</h3>
-
-<p>AI가 적은 선별 근거는 <strong>미국 바이오기업과의 차세대 항암 신약 AI 협력</strong>이라는 구체적인 재료, 그리고 상한가 마감 후에도 매수 쪽 대기 물량이 두껍게 쌓여 있었다는 점입니다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>항목</th>
-      <th>내용</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>당일 종가 / 등락률</td>
-      <td>14,690원 / <strong>+30.0%</strong></td>
-    </tr>
-    <tr>
-      <td>거래대금 / 시총</td>
-      <td>1,458억원 / 1.1조원</td>
-    </tr>
-    <tr>
-      <td>주도 테마 / 테마 내 순위</td>
-      <td>의료AI / 1위</td>
-    </tr>
-    <tr>
-      <td>RSI(과열 정도 지표)</td>
-      <td>67.8</td>
-    </tr>
-    <tr>
-      <td>RVOL(평소 대비 거래량 배수)</td>
-      <td>4.1배</td>
-    </tr>
-    <tr>
-      <td>이평수렴(이동평균선 간격)</td>
-      <td>+0.2%</td>
-    </tr>
-    <tr>
-      <td>52주 신고가 / 거래량 흐름</td>
-      <td>아님 / 중립</td>
-    </tr>
-    <tr>
-      <td>외국인 / 기관 순매수</td>
-      <td>+34만 주 / +30만 주</td>
-    </tr>
-    <tr>
-      <td>AI 종합 점수</td>
-      <td>44점</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>외국인과 기관이 <strong>같은 날 함께 순매수</strong>한 점이 눈에 띕니다. 다만 앞에서 본 것처럼 애프터마켓 관측 구간에서는 가격 변화가 없었고, 이 선별의 결과는 내일 아침 시작 가격으로 확인됩니다.</p>
-
-<h2 id="오늘-내가-주목한-것">오늘 내가 주목한 것</h2>
-
-<p>개인적으로 오늘 가장 눈에 들어온 것은 <strong>“지수와 종목이 따로 움직인 하루”</strong> 라는 점입니다. 코스닥이 3% 넘게 내렸는데도 의료AI 테마는 절반 이상의 종목이 올랐고, 외국인 순매도를 기관이 받아내는 장면도 같이 나왔습니다. 지수 숫자만 보면 놓치기 쉬운 부분이라, 약세장일수록 거래대금이 어디에 쌓이는지를 함께 기록해 두려고 합니다. 이것은 오늘의 관찰일 뿐이며, 앞으로의 방향을 말하는 것은 아닙니다.</p>
-
-<h2 id="마무리">마무리</h2>
-
-<p>오늘은 코스피 <strong>-1.46%</strong>, 코스닥 <strong>-3.26%</strong> 의 큰 하락장이었고, AI의 최종 선별은 루닛 1종목이었습니다. 어제 선별의 아침 결과는 엇갈렸고, 오늘 선별의 결과는 내일 아침에 확인됩니다.</p>
-
-<blockquote>
-  <p>시장은 맞히는 곳이 아니라 기록하고 돌아보는 곳이다.</p>
-</blockquote>
-
-<p>오늘 장에서 눈에 띈 종목이나 테마가 있으셨나요? 댓글로 의견 나눠주세요. 이웃 추가해 두시면 내일 아침 복기 결과도 이어서 정리해 드립니다.</p>
-
-<p>#NextTheme #종가베팅 #하루마감 #코스닥하락 #코스피 #의료AI #루닛 #SK하이닉스 #외국인순매도 #거래대금상위</p>
-
-<hr />
-
-<p>📡 <strong>넥스트테마 (nextTheme)</strong>
-국내 주식 알림 시스템 · 현재 무료</p>
-
-<p>거래대금 · 기관 · 외국인 수급을 교차 분석해
-당일 주도 테마와 종목을 추려내고,
-AI가 최종 판단한 결과를 텔레그램으로 보내드립니다.</p>
-
-<p>💰 <strong>이용료</strong>
-가입비 · 구독료 없음. 채널 입장만 하면 알림을 받습니다.
-(개인 개발 프로젝트로, 베타 기간 무료 공개 중입니다)</p>
-
-<p>👉 <strong>입장하기</strong> : https://t.me/next_theme</p>
-
-<p>⚠️ 투자 자문이나 종목 추천이 아닌 데이터 분석 참고 자료입니다.
-수익을 보장하지 않으며, 모든 투자 판단과 책임은 본인에게 있습니다.</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[📉 오늘 코스피는 -1.46%, 코스닥은 -3.26% 로 마감했습니다. 지수가 크게 흔들린 날, 자금이 어디로 몰렸는지 하루를 차분히 정리해 봅니다.]]></summary></entry></feed>
+수익을 보장하지 않으며, 모든 투자 판단과 책임은 본인에게 있습니다.</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[☕ 좋은 아침입니다. 어제 코스피는 -1.46%, 코스닥은 -3.26% 로 마감했는데, 간밤 미국 증시는 기술주를 중심으로 오른 채 끝났습니다. 한국과 미국의 분위기가 엇갈린 채 맞이하는 아침이라, 장이 열리기 전에 무엇을 확인하면 좋을지 정리했습니다.]]></summary></entry></feed>
