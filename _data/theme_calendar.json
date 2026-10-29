@@ -1,25 +1,25 @@
 {
-  "lastTradingDay" : "2026-10-28",
-  "totalDays" : 116,
+  "lastTradingDay" : "2026-10-29",
+  "totalDays" : 117,
   "summary" : {
-    "tradingDays" : 116,
+    "tradingDays" : 117,
     "sectorCount" : 16,
-    "upDays" : 108,
-    "avgChangeRate" : 6.06,
+    "upDays" : 109,
+    "avgChangeRate" : 6.19,
     "topSector" : "반도체·AI인프라",
     "topSectorDays" : 26
   },
   "now" : {
-    "date" : "2026-10-28",
-    "bettingGrade" : "YELLOW",
-    "regimeTag" : "YELLOW",
+    "date" : "2026-10-29",
+    "bettingGrade" : "RED",
+    "regimeTag" : "RED_ALL_DOWN",
     "themeRegime" : "THEME_LED",
-    "marketSignal" : "강세",
-    "kospi" : 6.63,
-    "kosdaq" : 3.69,
-    "leadTheme" : "S7(삼성전자/SK하이닉스 등)",
-    "leadChangeRate" : 9.41,
-    "themePremium" : 2.78
+    "marketSignal" : "약세",
+    "kospi" : -1.24,
+    "kosdaq" : -2.34,
+    "leadTheme" : "CCTV＆DVR",
+    "leadChangeRate" : 20.99,
+    "themePremium" : 22.23
   },
   "sectorFreq" : [ {
     "sector" : "반도체·AI인프라",
@@ -31,12 +31,12 @@
     "top3Days" : 31
   }, {
     "sector" : "전자부품·기판",
-    "rank1Days" : 9,
-    "top3Days" : 25
+    "rank1Days" : 10,
+    "top3Days" : 26
   }, {
     "sector" : "매크로·기타",
     "rank1Days" : 17,
-    "top3Days" : 21
+    "top3Days" : 22
   }, {
     "sector" : "전력·전선·신재생",
     "rank1Days" : 6,
@@ -56,7 +56,7 @@
   }, {
     "sector" : "금융",
     "rank1Days" : 3,
-    "top3Days" : 16
+    "top3Days" : 17
   }, {
     "sector" : "로봇·AI소프트웨어",
     "rank1Days" : 4,
@@ -2216,6 +2216,25 @@
         "changeRate" : 9.34
       } ],
       "mainStock" : ""
-    }, null, null ] ]
+    }, {
+      "day" : 29,
+      "date" : "2026-10-29",
+      "theme" : "CCTV＆DVR",
+      "sector" : "전자부품·기판",
+      "changeRate" : 20.99,
+      "prevDay" : "NEW",
+      "regime" : "THEME_LED",
+      "slot" : "15:00",
+      "kospi" : -1.24,
+      "themePremium" : 22.23,
+      "runners" : [ {
+        "theme" : "보안주(물리)",
+        "changeRate" : 8.19
+      }, {
+        "theme" : "은행",
+        "changeRate" : 1.67
+      } ],
+      "mainStock" : ""
+    }, null ] ]
   } ]
 }
