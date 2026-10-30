@@ -1,4 +1,158 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-10-30T21:02:35+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">코스피 3.5% 급락 마감, 보안주만 강했던 하루 — 라온시큐어 선별 기록</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/30/daily/" rel="alternate" type="text/html" title="코스피 3.5% 급락 마감, 보안주만 강했던 하루 — 라온시큐어 선별 기록" /><published>2026-10-30T21:00:00+09:00</published><updated>2026-10-30T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/30/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/30/daily/"><![CDATA[<p>오늘(10월 30일) 증시는 코스피와 코스닥이 나란히 3%대 하락으로 마감한 날이었습니다 😥 반도체 대형주가 줄줄이 밀리는 와중에 <strong>보안주에만 돈이 몰린</strong> 모습이 눈에 띄었는데요. 하루를 정리하면서 어제 판단의 결과부터 차근차근 돌아보겠습니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sungmanhan.github.io/nexttheme-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sungmanhan.github.io/nexttheme-blog/" rel="alternate" type="text/html" hreflang="ko-KR" /><updated>2026-10-31T06:04:50+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/feed.xml</id><title type="html">NextTheme — 종가베팅 일일 리포트</title><subtitle>AI 알고리즘 기반 한국 주식 종가베팅 분석. 매일 아침 브리핑·장중 스냅샷·주간 리뷰 자동 발행.</subtitle><author><name>NextTheme</name></author><entry><title type="html">미국 반도체 급락 뒤 맞는 월요일, 장 전에 체크할 변수는?</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/31/weekend/" rel="alternate" type="text/html" title="미국 반도체 급락 뒤 맞는 월요일, 장 전에 체크할 변수는?" /><published>2026-10-31T06:00:00+09:00</published><updated>2026-10-31T06:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/31/weekend</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/31/weekend/"><![CDATA[<p>한 주가 끝났습니다. 🗓️ 주말 아침 시장을 돌아보면, 어젯밤 미국 증시의 큰 하락이 가장 먼저 눈에 들어옵니다. 다음 주 월요일 장을 앞두고 무엇을 봐야 할지 정리해 봤습니다.</p>
+
+<h2 id="어젯밤-미국-증시-무엇이-떨어졌나">어젯밤 미국 증시, 무엇이 떨어졌나?</h2>
+
+<p>어젯밤(금요일) 미국장 기준 등락률입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>지수</th>
+      <th>등락률</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>다우</td>
+      <td><strong>−1.09%</strong></td>
+    </tr>
+    <tr>
+      <td>S&amp;P 500</td>
+      <td><strong>−1.82%</strong></td>
+    </tr>
+    <tr>
+      <td>나스닥</td>
+      <td><strong>−2.86%</strong></td>
+    </tr>
+    <tr>
+      <td>반도체(필라델피아)</td>
+      <td><strong>−7.20%</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>재료에 따르면 미국 빅테크 기업들의 AI 투자 수익성에 대한 우려가 이번 하락의 배경으로 꼽혔습니다. 반도체 지수 낙폭이 특히 컸습니다. 야간 선물도 하락세를 이어가고 있었습니다.</p>
+
+<h2 id="국내-지표는-엇갈린-신호를-보냈다">국내 지표는 엇갈린 신호를 보냈다</h2>
+
+<p>국내에서는 경제지표가 좋게 나왔습니다. 소매판매(소비자가 쓴 돈)는 <strong>+3.6%</strong>, 산업생산(공장이 만든 양)은 <strong>+9.0%</strong>였습니다. 9월 수출은 <strong>1,209억 달러</strong>로 역대 최대였고, 반도체 수출은 <strong>603억 달러</strong>로 사상 처음 600억 달러를 넘었습니다.</p>
+
+<h2 id="베팅-등급--전략-가장-보수적인-구간">베팅 등급 &amp; 전략: 가장 보수적인 구간</h2>
+
+<p>시스템 점수는 <strong>32점</strong>(0~100점)으로, 가장 보수적인 구간에 속했습니다.</p>
+
+<p>재료의 전략 문장은 방어적 대응을 우선순위에 두었습니다. 다만 국내 지표 호조가 하방을 일부 제한할 수 있다는 평가가 함께 붙어 있었습니다. 급락 이후 반등 국면에서는 실적 기반으로 낙폭이 과한 종목을 선별적으로 본다는 시각도 적혀 있었습니다.</p>
+
+<h2 id="주목-섹터는-어디인가">주목 섹터는 어디인가?</h2>
+
+<ul>
+  <li><strong>방어주(유틸리티·필수소비재)</strong>: AI 우려 속 안전자산 선호가 이어진다는 재료 평가</li>
+  <li><strong>실적 개선 반도체·수출주</strong>: 9월 수출 역대 최대와 반도체 600억 달러 돌파가 펀더멘털 근거로 제시</li>
+  <li><strong>석유화학·정유</strong>: WTI <strong>102.86달러</strong>로 상승세, 중동 불안으로 유가가 높은 흐름이라는 설명</li>
+</ul>
+
+<h2 id="금요일-선별-복기-실제로-어땠나">금요일 선별 복기: 실제로 어땠나?</h2>
+
+<p>금요일 선별의 전체 방향 판정은 <strong>유지</strong>였습니다. 금요일에 실제로 매수한 기록은 없습니다. 다만 삼성중공업은 이전부터 보유 중인 종목입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>종목</th>
+      <th>구분</th>
+      <th>보유 여부</th>
+      <th>저녁 세션 관측 (15:40~19:59)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>삼성중공업</td>
+      <td>이월 보유 (선별 밖)</td>
+      <td>✅ 보유 중</td>
+      <td>평단 대비 고점 <strong>−13.5%</strong> / 저점 <strong>−14.2%</strong></td>
+    </tr>
+    <tr>
+      <td>라온시큐어</td>
+      <td>15:10 최종 선별</td>
+      <td>매수 기록 없음</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>안랩</td>
+      <td>19:10 선별</td>
+      <td>매수 기록 없음</td>
+      <td>종가 대비 고점 <strong>+0.9%</strong> / 저점 <strong>−6.4%</strong></td>
+    </tr>
+    <tr>
+      <td>지니언스</td>
+      <td>12:10 탐색</td>
+      <td>매수 기록 없음</td>
+      <td>종가 대비 고점 <strong>+4.9%</strong> / 저점 <strong>−3.4%</strong></td>
+    </tr>
+    <tr>
+      <td>삼성SDI</td>
+      <td>10:10 탐색</td>
+      <td>매수 기록 없음</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>한미약품</td>
+      <td>10:10 탐색</td>
+      <td>매수 기록 없음</td>
+      <td>종가 대비 고점 <strong>+0.7%</strong> / 저점 <strong>−1.5%</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>저녁 세션 수치는 고점과 저점만 적었습니다. 저녁 고점은 사후에 확인된 값이라, 당시 판단을 평가하는 근거로 쓰지 않습니다.</p>
+
+<ul>
+  <li><strong>삼성중공업</strong>: 재료는 조선 테마가 이번 급락과 함께 흔들렸을 가능성을 언급했습니다. 원인을 단정할 근거는 재료에 없습니다.</li>
+  <li><strong>안랩</strong>: 보안 테마 대장주이고 실적 호조가 받쳐준다는 평가가 있었지만, 이벤트성 재료로도 분류됐습니다.</li>
+  <li><strong>지니언스</strong>: 전날 상한가 뒤 관찰 대상으로 올라왔고, 재료는 저신뢰도 종목으로 봤습니다.</li>
+  <li><strong>삼성SDI</strong>: 2차전지 펀더멘털은 양호하나 전일 거래량이 부진했다는 평가였습니다.</li>
+  <li><strong>한미약품</strong>: 기술수출 실적 공시가 있었고, 방어주 성격이라는 평가가 붙었습니다.</li>
+</ul>
+
+<h2 id="다음-주-월요일-무엇을-볼-것인가">다음 주 월요일, 무엇을 볼 것인가?</h2>
+
+<p>재료의 월요일 전망은 야간 선물 하락을 근거로 <strong>약세 출발</strong>을 예상했습니다. 다만 수출·산업생산 호조와 원/달러 환율이 <strong>5.0원</strong> 내려 원화 약세가 완화된 점이 낙폭을 제한할 요인으로 꼽혔습니다. 재료가 제시한 관건은 장중 외국인·기관 수급과 미국 선물의 반등 여부입니다.</p>
+
+<p>장 전후로 확인해 볼 항목은 다음과 같습니다.</p>
+
+<ul>
+  <li><strong>시초가와 장 초반 흐름</strong>: 재료는 초반 급락 구간에서 장중 반등 여부를 확인하는 시각을 적었습니다.</li>
+  <li><strong>보유 중인 삼성중공업</strong>: 재료는 시초가 기준 확인을 체크포인트로 적었습니다.</li>
+  <li><strong>보안주 이벤트 테마</strong>: 재료는 이벤트성 급등으로 분류했습니다. 월요일 갭 상승이 나오는지 지켜볼 대상입니다.</li>
+</ul>
+
+<h2 id="이번-주말-제가-주목한-것">이번 주말 제가 주목한 것</h2>
+
+<p>이번 주말 제가 가장 눈여겨본 것은 미국 반도체의 큰 하락과 국내 수출 역대 최대가 같은 주에 나왔다는 점입니다. 두 신호가 월요일에 어느 쪽으로 기울지는 아직 알 수 없습니다. 장이 열린 뒤 수급이 어떻게 붙는지가 관건이라고 생각합니다.</p>
+
+<h2 id="결론-재료가-본-월요일은-방어적-시각">결론: 재료가 본 월요일은 방어적 시각</h2>
+
+<p>재료의 기본 시각은 월요일을 방어적으로 여는 것이었습니다. 여러분이 장 전에 보는 체크포인트가 있다면 댓글로 남겨주세요. 이웃 추가해 두시면 평일 아침 브리핑을 받아보실 수 있어요.</p>
+
+<p>#NextTheme #주말브리핑 #미국증시 #반도체 #수출 #보안주 #종가베팅</p>
+
+<hr />
+
+<p>📡 <strong>넥스트테마 (nextTheme)</strong>
+국내 주식 알림 시스템 · 현재 무료</p>
+
+<p>거래대금 · 기관 · 외국인 수급을 교차 분석해
+당일 주도 테마와 종목을 추려내고,
+AI가 최종 판단한 결과를 텔레그램으로 보내드립니다.</p>
+
+<p>💰 <strong>이용료</strong>
+가입비 · 구독료 없음. 채널 입장만 하면 알림을 받습니다.
+(개인 개발 프로젝트로, 베타 기간 무료 공개 중입니다)</p>
+
+<p>👉 <strong>입장하기</strong> : https://t.me/next_theme</p>
+
+<p>⚠️ 투자 자문이나 종목 추천이 아닌 데이터 분석 참고 자료입니다.
+수익을 보장하지 않으며, 모든 투자 판단과 책임은 본인에게 있습니다.</p>]]></content><author><name>NextTheme</name></author><category term="briefing" /><summary type="html"><![CDATA[한 주가 끝났습니다. 🗓️ 주말 아침 시장을 돌아보면, 어젯밤 미국 증시의 큰 하락이 가장 먼저 눈에 들어옵니다. 다음 주 월요일 장을 앞두고 무엇을 봐야 할지 정리해 봤습니다.]]></summary></entry><entry><title type="html">코스피 3.5% 급락 마감, 보안주만 강했던 하루 — 라온시큐어 선별 기록</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/30/daily/" rel="alternate" type="text/html" title="코스피 3.5% 급락 마감, 보안주만 강했던 하루 — 라온시큐어 선별 기록" /><published>2026-10-30T21:00:00+09:00</published><updated>2026-10-30T21:00:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/30/daily</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/30/daily/"><![CDATA[<p>오늘(10월 30일) 증시는 코스피와 코스닥이 나란히 3%대 하락으로 마감한 날이었습니다 😥 반도체 대형주가 줄줄이 밀리는 와중에 <strong>보안주에만 돈이 몰린</strong> 모습이 눈에 띄었는데요. 하루를 정리하면서 어제 판단의 결과부터 차근차근 돌아보겠습니다.</p>
 
 <h2 id="-어제-고른-종목은-오늘-아침-어땠을까">📋 어제 고른 종목은 오늘 아침 어땠을까?</h2>
 
@@ -2918,122 +3072,4 @@ AI가 최종 판단한 결과를 텔레그램으로 보내드립니다.</p>
 <p>👉 <strong>입장하기</strong> : https://t.me/next_theme</p>
 
 <p>⚠️ 투자 자문이나 종목 추천이 아닌 데이터 분석 참고 자료입니다.
-수익을 보장하지 않으며, 모든 투자 판단과 책임은 본인에게 있습니다.</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[오늘 코스피가 하루 만에 6.63% 올라 6,012.44포인트로 마감했습니다. 📈 전날까지 며칠간 5,500선에서 맴돌던 지수라, 숫자만 봐도 낯선 하루였습니다. 오늘 시장에서 무슨 일이 있었는지, 종가베팅 AI가 무엇을 골랐는지 차분히 정리해 봅니다.]]></summary></entry><entry><title type="html">SK하이닉스 11% 급등, 거래대금 8.5조원 — 사상 최대 실적 발표일 수급 정리</title><link href="https://sungmanhan.github.io/nexttheme-blog/2026/10/28/nt2-1505-snapshot/" rel="alternate" type="text/html" title="SK하이닉스 11% 급등, 거래대금 8.5조원 — 사상 최대 실적 발표일 수급 정리" /><published>2026-10-28T15:05:00+09:00</published><updated>2026-10-28T15:05:00+09:00</updated><id>https://sungmanhan.github.io/nexttheme-blog/2026/10/28/nt2_1505-snapshot</id><content type="html" xml:base="https://sungmanhan.github.io/nexttheme-blog/2026/10/28/nt2-1505-snapshot/"><![CDATA[<p>📈 오늘 코스피는 반도체·AI 대장주가 이끈 <strong>초강세장</strong>이었습니다. 요약하면 SK하이닉스의 사상 최대 실적과 주주환원 발표가 코스피를 <strong>6% 넘게</strong> 끌어올린 하루였습니다. 이런 날은 “다들 오르는데 나는 뭘 봐야 하지?” 싶으시죠. 오늘 종가베팅 AI가 남긴 후보는 단 한 종목, <strong>SK하이닉스</strong>였고, 왜 후보로 남았는지 데이터로 정리해 봤습니다.</p>
-
-<h2 id="-오늘-ai는-왜-sk하이닉스-한-종목만-남겼을까">🔍 오늘 AI는 왜 SK하이닉스 한 종목만 남겼을까?</h2>
-
-<p>AI가 후보로 고른 근거를 쉬운 말로 풀면 세 가지입니다.</p>
-
-<ul>
-  <li><strong>재료가 분명했습니다.</strong> 사상 최대 실적과 100조원 규모 주주환원 발표가 겹쳤습니다.</li>
-  <li><strong>돈이 압도적으로 몰렸습니다.</strong> 하루 거래대금이 <strong>8.5조원</strong>에 달했습니다.</li>
-  <li><strong>같은 테마 안에서 1위였습니다.</strong> 삼성전자·SK하이닉스 등 반도체 대형주 테마에서 가장 앞에 있었습니다.</li>
-</ul>
-
-<blockquote>
-  <p>AI는 이 종목이 “다음 거래일 아침 반도체 쪽 관심이 모이는 중심에 있었다”고 기록했습니다. 권유가 아니라 선별 기록입니다.</p>
-</blockquote>
-
-<h2 id="-sk하이닉스-오늘의-숫자">📊 SK하이닉스 오늘의 숫자</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>구분</th>
-      <th>항목</th>
-      <th>내용</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>기본</td>
-      <td>당일 종가 / 등락률</td>
-      <td><strong>1,489,000원 / +11.0%</strong></td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>거래대금 / 시가총액</td>
-      <td><strong>8.5조원</strong> / 1,087.7조원</td>
-    </tr>
-    <tr>
-      <td>기본</td>
-      <td>주도 테마 / 테마 내 순위</td>
-      <td>삼성전자·SK하이닉스 등 반도체 대형주 / 1위</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>RSI / 거래량 배수 / 이평선 수렴</td>
-      <td>49.4 / 1.2배 / +0.2%</td>
-    </tr>
-    <tr>
-      <td>기술</td>
-      <td>52주 신고가 / 거래량 흐름(OBV)</td>
-      <td>아님 / 중립</td>
-    </tr>
-    <tr>
-      <td>수급</td>
-      <td>외국인 / 기관 순매수</td>
-      <td><strong>-5만 주 / +21만 주</strong></td>
-    </tr>
-    <tr>
-      <td>수급</td>
-      <td>호가 신호</td>
-      <td>매수벽 약함</td>
-    </tr>
-    <tr>
-      <td>재무</td>
-      <td>매출 증가율(전년 대비)</td>
-      <td><strong>+301.8%</strong></td>
-    </tr>
-    <tr>
-      <td>재무</td>
-      <td>최근 분기 실적(2026.09.)</td>
-      <td>매출 98.2조원 / 영업이익 77.0조원</td>
-    </tr>
-    <tr>
-      <td>점수</td>
-      <td>AI 종합 점수</td>
-      <td>46점</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="-숫자를-어떻게-읽을-수-있을까">🤔 숫자를 어떻게 읽을 수 있을까?</h2>
-
-<p><strong>1) 수급은 엇갈렸습니다.</strong> 큰 투자기관(기관)은 <strong>21만 주 순매수</strong>, 외국인은 <strong>5만 주 순매도</strong>였습니다. 주가는 11% 올랐는데 외국인이 판 쪽이라는 점은 눈여겨볼 대목입니다.</p>
-
-<p><strong>2) 기술 지표는 과열과 거리가 있었습니다.</strong> 11% 급등했지만 RSI(최근 상승 강도를 보는 지표)는 <strong>49.4</strong>로 중간 수준이고, 52주 신고가도 아니었습니다. 급등폭에 비해 지표상 뜨거움은 크지 않았다는 뜻입니다. 거래량 배수도 <strong>1.2배</strong>로 평소보다 소폭 많은 정도였습니다. 거래대금이 8.5조원으로 커 보이는 건 주가 자체가 150만 원 가까운 대형주이기 때문이기도 합니다.</p>
-
-<p><strong>3) 호가 쪽은 힘이 약했습니다.</strong> 종가 부근 매수 호가의 두께를 본 신호는 “매수벽 약함”이었습니다. 급등한 날의 마감 호가가 두껍지 않았다는 사실은 그대로 기록해 둡니다.</p>
-
-<p><strong>4) 실적 수치는 압도적입니다.</strong> 최근 분기 매출 <strong>98.2조원</strong>, 영업이익 <strong>77.0조원</strong>, 매출 증가율 <strong>+301.8%</strong> 가 재료에 담겼습니다. 오늘 상승의 배경으로 시장이 주목한 숫자입니다.</p>
-
-<h2 id="-오늘-제가-주목한-것">👀 오늘 제가 주목한 것</h2>
-
-<p>오늘 흐름에서 제가 눈여겨본 건 “<strong>지수는 6% 넘게 뛰는데, 후보를 한 종목으로 좁힌 AI의 선택</strong>“입니다. 초강세장에서는 많은 종목이 같이 오르기 쉬운데, 이 시스템은 거래대금·테마 내 위치·수급을 함께 따져 한 종목만 남겼습니다. 다만 외국인 순매도와 약한 매수벽이라는 엇갈리는 신호가 같이 있었던 만큼, 내일의 흐름에서 이 부분이 어떻게 나타나는지가 관찰 포인트입니다.</p>
-
-<p>※ 이 글은 AI 선별 결과를 기록한 것으로, 매수·매도 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.</p>
-
-<h2 id="-여러분은-어떻게-보셨나요">💬 여러분은 어떻게 보셨나요?</h2>
-
-<p>사상 최대 실적 발표일의 SK하이닉스, 수급이 엇갈린 점에 대해 어떻게 생각하시나요? 댓글로 의견 나눠주세요. 이웃 추가하시면 매일 AI 선별 기록을 받아보실 수 있어요.</p>
-
-<p>#SK하이닉스 #반도체 #코스피급등 #거래대금 #수급분석 #AI선별 #종가베팅 #NextTheme</p>
-
-<hr />
-
-<p>📡 <strong>넥스트테마 (nextTheme)</strong>
-국내 주식 알림 시스템 · 현재 무료</p>
-
-<p>거래대금 · 기관 · 외국인 수급을 교차 분석해
-당일 주도 테마와 종목을 추려내고,
-AI가 최종 판단한 결과를 텔레그램으로 보내드립니다.</p>
-
-<p>💰 <strong>이용료</strong>
-가입비 · 구독료 없음. 채널 입장만 하면 알림을 받습니다.
-(개인 개발 프로젝트로, 베타 기간 무료 공개 중입니다)</p>
-
-<p>👉 <strong>입장하기</strong> : https://t.me/next_theme</p>
-
-<p>⚠️ 투자 자문이나 종목 추천이 아닌 데이터 분석 참고 자료입니다.
-수익을 보장하지 않으며, 모든 투자 판단과 책임은 본인에게 있습니다.</p>]]></content><author><name>NextTheme</name></author><category term="snapshot" /><summary type="html"><![CDATA[📈 오늘 코스피는 반도체·AI 대장주가 이끈 초강세장이었습니다. 요약하면 SK하이닉스의 사상 최대 실적과 주주환원 발표가 코스피를 6% 넘게 끌어올린 하루였습니다. 이런 날은 “다들 오르는데 나는 뭘 봐야 하지?” 싶으시죠. 오늘 종가베팅 AI가 남긴 후보는 단 한 종목, SK하이닉스였고, 왜 후보로 남았는지 데이터로 정리해 봤습니다.]]></summary></entry></feed>
+수익을 보장하지 않으며, 모든 투자 판단과 책임은 본인에게 있습니다.</p>]]></content><author><name>NextTheme</name></author><category term="daily" /><summary type="html"><![CDATA[오늘 코스피가 하루 만에 6.63% 올라 6,012.44포인트로 마감했습니다. 📈 전날까지 며칠간 5,500선에서 맴돌던 지수라, 숫자만 봐도 낯선 하루였습니다. 오늘 시장에서 무슨 일이 있었는지, 종가베팅 AI가 무엇을 골랐는지 차분히 정리해 봅니다.]]></summary></entry></feed>
